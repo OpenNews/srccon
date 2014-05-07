@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: SRCCON
 markdown: redcarpet
 pygments: true
+baseurl: /srccon
