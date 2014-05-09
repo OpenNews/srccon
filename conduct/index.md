@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SRCCON Code of Conduct
+logo: srccon_logo.png
 ---
 
 
