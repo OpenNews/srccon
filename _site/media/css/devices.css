@@ -931,3 +931,14 @@ h1.dateblast {
 	font-size: 2.5em;
 	font-weight: bold;
 }
+
+.philly {
+	background: url(../img/philly.png) no-repeat center center;
+	background-size: cover;
+	height: 600px;
+}
+
+.philly .logo {
+	position: fixed;
+	top: 350px;
+}
