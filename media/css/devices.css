@@ -941,3 +941,7 @@ h1.dateblast {
 	position: fixed;
 	top: 350px;
 }
+
+#nav ul li {
+	font-size: .9em;
+}
