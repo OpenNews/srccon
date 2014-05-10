@@ -937,10 +937,17 @@ h1.dateblast {
 	height: 600px;
 }
 
-.philly .logo {
+.philly .logo, .session .logo {
 	position: fixed;
 	top: 350px;
 }
+
+.session {
+	background: url(../img/session.png) no-repeat center center;
+	background-size: cover;
+	height: 600px;
+}
+
 
 #nav ul li {
 	font-size: .9em;
