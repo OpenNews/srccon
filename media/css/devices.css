@@ -947,6 +947,12 @@ h1.dateblast {
 	height: 600px;
 }
 
+.chemical {
+	background: url(../img/chemical.png) no-repeat center center;
+	background-size: cover;
+	height: 600px;
+}
+
 
 #nav ul li {
 	font-size: .9em;
