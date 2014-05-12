@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Register for SRCCON
-logo: srccon_logo.png
+logo: srcconwhite.png
 background: chemical
 ---
 <p class="bodybig">Registration to SRCCON opens May 31st, and tickets will be available on a first-come, first-served basis.</p>
