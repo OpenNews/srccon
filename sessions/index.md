@@ -19,6 +19,3 @@ New to the scene or have an idea but aren't sure if you're up to leading a sessi
 Session pitches close on Monday, June 9, and we take five days to sort through everything and assemble a well-balanced conference program. If you've pitched a session, we'll email you starting on Friday, June 13 to let you know whether or not your session made it into the program—and if it didn't, you'll still be welcome to bring it to SRCCON and put it into the running for one of the session places we're keeping open until the event begins. We expect to publish the list of planned sessions on Friday, June 20.
 
 **Important**: All SRCCON participants, _including session leaders_, will need to buy a ticket, so if you want to come to the conference, don't wait to see if your pitch is accepted—go ahead and grab a ticket when they open, because we expect them to sell out reasonably quickly.
-
-
-<iframe id='frame' width='500px' height='600px' src='http://screendoor.dobt.co/embedded/projects/226/responses/new' frameborder='0' marginheight='0' marginwidth='0'></iframe> 
