@@ -14,4 +14,6 @@
   width: 90%;
 }
 
+.fb-field-wrapper input[type=checkbox] { width: auto; }
+
 /*whythefuckwontthisupdatefuckingforceitagain*/
