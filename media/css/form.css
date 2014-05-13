@@ -1,17 +1,17 @@
 .fb-field-wrapper input, .fb-field-wrapper select, .fb-field-wrapper textarea  {
-  width: 98%;
+  width: 90%;
 }
 
 .response-field-text .rf-size-small, .response-field-website .rf-size-small {
-  width: 98%;
+  width: 90%;
 }
 
 .response-field-checkboxes {
-  width: 100%;
+  width: 250px;
 }
 
 .fb-field-wrapper input#response_fields_2838 {
-  width: 50%;
+  width: 90%;
 }
 
 /*whythefuckwontthisupdate*/
