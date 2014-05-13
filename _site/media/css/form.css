@@ -1,4 +1,4 @@
-.fb-field-wrapper input, .fb-field-wrapper select, .fb-field-wrapper textarea {
+.fb-field-wrapper input, .fb-field-wrapper select, .fb-field-wrapper textarea, .response-field-text .rf-size-small, .response-field-website .rf-size-small {
   width: 250px;
 }
 
