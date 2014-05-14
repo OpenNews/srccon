@@ -1,7 +1,8 @@
 ---
 layout: post
 title: SRCCON Logistics
-logo: srccon_logo.png
+background: oldcity
+logo: srcconwhite.png
 ---
 <p class="bodybig">Join us in Old City Philadelphia July 24 & 25 for the first annual SRCCON. Two days of making, thinking and talking together. We can't wait for you to join us.</p>
 

@@ -934,7 +934,7 @@ h1.dateblast {
 	height: 600px;
 }
 
-.philly .logo, .session .logo, .chemical .logo {
+.philly .logo, .session .logo, .chemical .logo, .oldcity .logo {
 	position: absolute;
 	top: 350px;
 }
@@ -949,6 +949,13 @@ h1.dateblast {
 	background: url(../img/chemical.png) no-repeat center center;
 	background-size: cover;
 	height: 600px;
+}
+
+.oldcity {
+	background: url(../img/oldcity.png) no-repeat center center;
+	background-size: cover;
+	height: 600px;
+}
 }
 
 @media screen and (max-width: 768px) {
