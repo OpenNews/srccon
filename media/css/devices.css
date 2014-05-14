@@ -995,3 +995,13 @@ h1.dateblast {
 h2 {
 	font-size: 2em;
 }
+
+.columns {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.col {
+	width: 200px;
+	float: left;
+}
