@@ -959,26 +959,26 @@ h1.dateblast {
 }
 
 @media screen and (max-width: 768px) {
-    .philly, .session, .chemical {
+    .philly, .session, .chemical, .oldcity {
         height: 400px;
     }
     #brand img {
         width: auto;
         height: 80px;
     }
-    .philly .logo, .session .logo, .chemical .logo {
+    .philly .logo, .session .logo, .chemical .logo, .oldcity .logo {
         top: 220px;
     }
 }
 @media screen and (max-width: 458px) {
-    .philly, .session, .chemical {
+    .philly, .session, .chemical, .oldcity {
         height: 200px;
     }
     #brand img {
         width: auto;
         height: 50px;
     }
-    .philly .logo, .session .logo, .chemical .logo {
+    .philly .logo, .session .logo, .chemical .logo, .oldcity.logo {
         top: 110px;
     }
 }
