@@ -969,6 +969,13 @@ h1.dateblast {
     .philly .logo, .session .logo, .chemical .logo, .oldcity .logo {
         top: 220px;
     }
+
+		#byline {
+			font-size: .6em;
+			position: absolute;
+			right: 10px;
+			top: 380px;
+		}
 }
 @media screen and (max-width: 458px) {
     .philly, .session, .chemical, .oldcity {
@@ -981,6 +988,13 @@ h1.dateblast {
     .philly .logo, .session .logo, .chemical .logo, .oldcity.logo {
         top: 110px;
     }
+
+		#byline {
+			font-size: .6em;
+			position: absolute;
+			right: 10px;
+			top: 180px;
+		}
 }
 
 
