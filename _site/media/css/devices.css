@@ -1012,3 +1012,15 @@ h2 {
 	width: 200px;
 	float: left;
 }
+
+#byline {
+	font-size: .8em;
+	color: #ccc;
+	position: absolute;
+	right: 150px;
+	top: 560px;
+}
+
+#byline a {
+	color: #aaa;
+}

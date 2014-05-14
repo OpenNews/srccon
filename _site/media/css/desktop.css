@@ -165,12 +165,24 @@ display: inline;
 	width: 600px;
 }
 
-#nav li a {
-	padding: 0 15px;
-}
-
 #nav {
 	margin-top: -8px;
+	padding: 0px;
+}
+
+
+#nav li a {
+	display: block;
+	padding-top: 10px;
+	padding-right: 10px;
 	padding-left: 10px;
-	padding-bottom: 5px;
+	padding-bottom: 10px;
+}
+
+#nav li:first-child a {
+	padding-left: 10px;
+}
+
+#nav li a:hover {
+	background-color: rgba(253, 133, 6, 0.5);
 }
