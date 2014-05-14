@@ -7,7 +7,7 @@ Default template CSS - if you change anything here then updating will be a bit m
 }
 .col {
 	float: left;
-	padding: 10px;
+	padding: 20px;
 	width: 33%;
 }
 .col img {
