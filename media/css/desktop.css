@@ -3,15 +3,39 @@ Default template CSS - if you change anything here then updating will be a bit m
 */
 /**= Desktop only */
 .columns {
-	margin-left: -10px;
+    margin-bottom: 50px;
 }
 .col {
 	float: left;
 	padding: 20px;
 	width: 33%;
 }
+.columns .col {
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+	float: left;
+	padding: 20px;
+	width: 45%;
+    margin: 0 2%;
+    border: 1px solid #d0d0d0;
+}
 .col img {
 	width: 100%;
+}
+.columns .col h3 {
+    margin-top: 0;
+}
+a.button {
+    display: block;
+    background-color: #FC6E1F;
+    padding: 10px 0;
+    text-align: center;
+    font-family: 'Open Sans',Helvetica,Verdana,Arial,sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+}
+a.button:hover {
+    background-color: #fdaf84;
+    text-decoration: none;
 }
 .external .col:first-child {
 	padding-left: 0;
