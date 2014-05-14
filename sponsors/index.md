@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sponsor SRCCON
+logo: srccon_logo.png
 ---
 This summer, OpenNews will host our first-ever conference—SRCCON, a two-day event by and for the journalism code community. In Philadelphia, we're bringing together 125  developers, interactive designers, and other people who code in and near newsrooms, to learn, plan, and build together.
 

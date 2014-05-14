@@ -4,7 +4,7 @@ title: SRCCON Registration
 logo: srcconwhite.png
 background: chemical
 ---
-<p class="bodybig">Registration opens May 30 and tickets will be available on a first-come, first-served basis. SRCCON is a small event, and we anticipate releasing no more than 125 tickets, so if you're planning to attend, you may want to  [join our notifications list](https://source.opennews.org/en-US/subscribe/) or follow @SRCCON on Twitter.</p>
+<p class="bodybig">Registration opens May 30 and tickets will be available on a first-come, first-served basis. SRCCON is a small event, and we anticipate releasing no more than 125 tickets, so if you're planning to attend, you may want to <a href="https://source.opennews.org/en-US/subscribe/">join our notifications list</a> or follow <a href="http://www.twitter.com/srccon">@SRCCON</a> on Twitter.</p>
 
 Tickets will cost $150, and all attendees will need to purchase a ticket, including session leaders. Registration will cover your entry to the two-day conference and a couple of meals per day, plus snacks and coffee. We offer a small number of $500 travel scholarships to attendees for whom the cost to attend would otherwise be prohibitive. Travel scholarship applications will open when registration launches on May 30.
 
