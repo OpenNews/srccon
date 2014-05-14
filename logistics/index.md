@@ -16,7 +16,7 @@ We will have a hotel registration link soon for $179/night rooms just a few bloc
 Philly is very well-served by the Philadelphia International Airport http://www.phl.org/Pages/HomePage.aspx, Amtrak's 30th Street Station http://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&code=PHL, and numerous http://megabus.com/ bus http://www.gotobus.com/yobus/ companies https://www.greyhound.com/default.aspx.
 There is a public transit train (called regional rail) from the airport to Center City (downtown area). Tickets are $6.50 if you buy from a kiosk on the platform or $8 if purchased on the train. Get off at the "Market East" stop and you'll be a short walk from the venue.
 
-##While in Philly
+###**While in Philly**
 
 ###Transit
 Old City is accessible via bus and subway on public transit. The local transit organization is SEPTA http://septa.org. The closest subway station is the 2nd Street Market-Frankford Line (also known as "the El" or "blue line") stop, and numerous bus lines run on Market Street, which is one block north of the venue. Philly still uses tokens to pay for transit rides. Tokens are $1.80 and are available for purchase at many, but not all, subway and train stations. Cash fare for bus and subway rides is $2.25 with a transfer costing $1. Regional rail trains, which serve the airport and farther out stations, are charged by a zone system http://septa.org/fares/ticket/index.html.
