@@ -940,30 +940,30 @@ h1.dateblast {
 .philly {
 	background: url(../img/philly.jpg) no-repeat center center;
 	background-size: cover;
-	height: 600px;
+	height: 500px;
 }
 
 .philly .logo, .session .logo, .chemical .logo, .oldcity .logo {
 	position: absolute;
-	top: 350px;
+	top: 260px;
 }
 
 .session {
 	background: url(../img/session.jpg) no-repeat center center;
 	background-size: cover;
-	height: 600px;
+	height: 500px;
 }
 
 .chemical {
 	background: url(../img/chemical.jpg) no-repeat center center;
 	background-size: cover;
-	height: 600px;
+	height: 500px;
 }
 
 .oldcity {
 	background: url(../img/oldcity.png) no-repeat center center;
 	background-size: cover;
-	height: 600px;
+	height: 500px;
 }
 
 
