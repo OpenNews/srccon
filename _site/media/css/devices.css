@@ -1079,7 +1079,7 @@ a.button:hover {
         top: 110px;
     }
     #nav {
-        font-size: 10px;
+        font-size: 12px;
 				display: none;
     }
     #nav li,
@@ -1113,9 +1113,14 @@ a.button:hover {
 
 @media screen and (max-width: 400px) {
     #nav {
-        font-size: 10px;
-				display: none; /* added in to try and figure out the logo issue*
+        font-size: 9px;
     }
+
+		#nav li,
+		#nav li:last-child {
+				width: 32%;
+				text-align: center;
+		}
 }
 
 /*force reload*/
