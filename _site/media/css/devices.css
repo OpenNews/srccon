@@ -1003,6 +1003,30 @@ h2 {
 	color: white;
 }
 
+.columns .col {
+		-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+	float: left;
+	padding: 20px;
+		margin: 0 2%;
+		border: 1px solid #d0d0d0;
+		width: 340px;
+margin-bottom: 10px;
+}
+
+a.button {
+		display: block;
+		background-color: #FC6E1F;
+		padding: 10px 0;
+		text-align: center;
+		font-family: 'Open Sans',Helvetica,Verdana,Arial,sans-serif;
+		color: white;
+		text-transform: uppercase;
+}
+a.button:hover {
+		background-color: #fdaf84;
+		text-decoration: none;
+}
+
 
 @media screen and (max-width: 768px) {
     .philly, .session, .chemical, .oldcity {
@@ -1041,6 +1065,21 @@ h2 {
 			position: absolute;
 			right: 10px;
 			top: 10px;
+		}
+
+		.columns .col {
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+			float: none;
+			padding: 10px;
+			border: 1px solid #d0d0d0;
+			width: 95%;
+		margin-bottom: 10px;
+		}
+
+		h1.dateblast {
+			font-size: 1.8em;
 		}
 }
 

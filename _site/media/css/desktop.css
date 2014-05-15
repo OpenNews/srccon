@@ -12,34 +12,14 @@ Default template CSS - if you change anything here then updating will be a bit m
 	float: left;
 	padding: 20px;
 }
-.columns .col {
-    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
-	float: left;
-	padding: 20px;
-    margin: 0 2%;
-    border: 1px solid #d0d0d0;
-		width: 340px;
-margin-bottom: 10px;
-}
+
 .col img {
 	width: 100%;
 }
 .columns .col h3 {
     margin-top: 0;
 }
-a.button {
-    display: block;
-    background-color: #FC6E1F;
-    padding: 10px 0;
-    text-align: center;
-    font-family: 'Open Sans',Helvetica,Verdana,Arial,sans-serif;
-    color: white;
-    text-transform: uppercase;
-}
-a.button:hover {
-    background-color: #fdaf84;
-    text-decoration: none;
-}
+
 .external .col:first-child {
 	padding-left: 0;
 }
