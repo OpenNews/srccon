@@ -922,6 +922,10 @@ ul.fellowcode {
 
 /* SRCCON MODIFICATIONS */
 
+#brand img {
+	width: 600px;
+}
+
 h1.dateblast {
 	color: black;
 	font-size: 2.5em;
@@ -955,46 +959,6 @@ h1.dateblast {
 	background: url(../img/oldcity.png) no-repeat center center;
 	background-size: cover;
 	height: 600px;
-}
-}
-
-@media screen and (max-width: 768px) {
-    .philly, .session, .chemical, .oldcity {
-        height: 400px;
-    }
-    #brand img {
-        width: auto;
-        height: 80px;
-    }
-    .philly .logo, .session .logo, .chemical .logo, .oldcity .logo {
-        top: 220px;
-    }
-
-		#byline {
-			font-size: .6em;
-			position: absolute;
-			right: 10px;
-			top: 380px;
-		}
-}
-@media screen and (max-width: 458px) {
-    .philly, .session, .chemical, .oldcity {
-        height: 200px;
-    }
-    #brand img {
-        width: auto;
-        height: 50px;
-    }
-    .philly .logo, .session .logo, .chemical .logo, .oldcity.logo {
-        top: 110px;
-    }
-
-		#byline {
-			font-size: .6em;
-			position: absolute;
-			right: 10px;
-			top: 180px;
-		}
 }
 
 
@@ -1038,6 +1002,48 @@ h2 {
 #byline a {
 	color: white;
 }
+
+
+@media screen and (max-width: 768px) {
+    .philly, .session, .chemical, .oldcity {
+        height: 400px;
+    }
+    #brand img {
+        width: auto;
+        height: 80px;
+    }
+    .philly .logo, .session .logo, .chemical .logo, .oldcity .logo {
+        top: 220px;
+    }
+
+		#byline {
+			font-size: .6em;
+			position: absolute;
+			right: 10px;
+			top: 370px;
+		}
+}
+
+@media screen and (max-width: 458px) {
+    .philly, .session, .chemical, .oldcity {
+        height: 200px;
+    }
+    #brand img {
+        width: auto;
+        height: 50px;
+    }
+    .philly .logo, .session .logo, .chemical .logo, .oldcity .logo {
+        top: 110px;
+    }
+
+		#byline {
+			font-size: .6em;
+			position: absolute;
+			right: 10px;
+			top: 10px;
+		}
+}
+
 
 
 /*force reload*/
