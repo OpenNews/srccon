@@ -929,7 +929,7 @@ h1.dateblast {
 }
 
 .philly {
-	background: url(../img/philly.png) no-repeat center center;
+	background: url(../img/philly.jpg) no-repeat center center;
 	background-size: cover;
 	height: 600px;
 }
@@ -940,13 +940,13 @@ h1.dateblast {
 }
 
 .session {
-	background: url(../img/session.png) no-repeat center center;
+	background: url(../img/session.jpg) no-repeat center center;
 	background-size: cover;
 	height: 600px;
 }
 
 .chemical {
-	background: url(../img/chemical.png) no-repeat center center;
+	background: url(../img/chemical.jpg) no-repeat center center;
 	background-size: cover;
 	height: 600px;
 }
