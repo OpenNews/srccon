@@ -2,7 +2,7 @@
   width: 90%;
 }
 
-.response-field-text .rf-size-small, .response-field-website .rf-size-small, .response-field-paragraph .rf-size-large  {
+.response-field-text .rf-size-small, .response-field-website .rf-size-small, .response-field-paragraph .rf-size-large, .response-field-paragraph .rf-size-small  {
   width: 90%;
 }
 
@@ -17,3 +17,5 @@
 .fb-field-wrapper input[type=checkbox] { width: auto; }
 
 /*whythefuckwontthisupdatefuckingforceitagain*/
+
+.response-field-paragraph .rf-size-small
