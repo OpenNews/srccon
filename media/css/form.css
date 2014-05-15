@@ -10,6 +10,10 @@
   width: 90%;
 }
 
+.fb-field-wrapper input#response_fields_2845 {
+  width: 200px;
+}
+
 .fb-field-wrapper input[type=checkbox] { width: auto; }
 
 /*whythefuckwontthisupdatefuckingforceitagain*/
