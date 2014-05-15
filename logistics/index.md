@@ -42,4 +42,4 @@ We're researching options on how to support attendees who need childcare. Please
 Philly has several [hacker and maker spaces](http://hackerspaces.org/wiki/Philadelphia), which are all a relatively quick transit ride from the venue.
 
 ###Want more info?
-We're still building out this page so if you have any questions, just [email Erika Owens](mailto:erikao@mozillafoundation.org) and we'll research your question and update the site.
+We're still building out this page so if you have any questions, just [email Erika Owens](mailto:erika@mozillafoundation.org) and we'll research your question and update the site.
