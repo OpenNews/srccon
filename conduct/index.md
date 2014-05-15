@@ -15,7 +15,7 @@ SRCCON participants agree to:
 
 **HOW TO REACH US**: Members of the conference team will be available via a single phone number (text and voice) throughout the conference, as well as in person and via email. This page will be updated before the conference begins with relevant contact information, which will also be distributed to all attendees via email and in the opening address.
 
-If any attendee engages in harassing behavior, the conference organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the conference team with a concise description of your grievance at <a href="mailto:source@mozillafoundation.org">source@mozillafoundation.org</a>; any grievances filed will be considered by the entire OpenNews team.)
+If any attendee engages in harassing behavior, the conference organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the conference team with a concise description of your grievance; any grievances filed will be considered by the entire OpenNews team.)
 
 We welcome your feedback on this and every other aspect of SRCCON, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
 
