@@ -16,10 +16,6 @@ Default template CSS - if you change anything here then updating will be a bit m
 .col img {
 	width: 100%;
 }
-.columns .col h3 {
-    margin-top: 0;
-}
-
 .external .col:first-child {
 	padding-left: 0;
 }
@@ -136,4 +132,13 @@ display: inline;
 
 #nav li a:hover {
 	background-color: rgba(253, 133, 6, 0.5);
+}
+
+@media screen and (max-width: 1000px) {
+    .busta {
+        padding: 0 20px;
+    }
+    #nav {
+        right: 20px;
+    }
 }

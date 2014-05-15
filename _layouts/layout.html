@@ -12,7 +12,6 @@
     <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" media="screen,projection,tv" href="/media/css/normalise.css" />
     <link rel="stylesheet" media="screen,projection,tv" href="/media/css/devices.css" />
-    <link rel="stylesheet" href="media/css/snap.css" />
     <link rel="stylesheet" media="all and (min-width:30em)" href="/media/css/desktop.css" />
     <!-- endstylesheets -->
     <!-- script calls -->
@@ -21,19 +20,11 @@
     <!-- end scripts -->
 </head>
 <body class="{{ page.section }} {{ page.sub-section }}">
- <div class="snap-drawers">
-     <div class="snap-drawer snap-drawer-left">
-         {% include navigation.html %}
-     </div>
- </div>
-<div id="snap-content-wrapper" class="snap-content overthrow">
-<script type="text/javascript">
+    <script type="text/javascript">
         document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, '');
     </script>
     <header class="masthead {{ page.background }}">
         <div class="busta">
-            <!--<a href="https://www.mozilla.org/" id="tabzilla">mozilla</a>-->
-            <div class="toggle-navigation hamburger">menu</div>
             <div id="nav">
                  {% include navigation.html %}
             </div>
@@ -43,28 +34,24 @@
         </div>
         <p id="byline">{{ page.byline }}</p>
     </header>
-     <div id="newsline">
-     </div>
+
+    <div id="newsline"></div>
+
     <div role="main" class="home" id="home">
-
-
         <div class="busta">
-
-        <article>
-            <div class="main_col">
-            {{ content }}
-          </div>
-        </article>
+            <article>
+                <div class="main_col">
+                    {{ content }}
+                </div>
+            </article>
         </div>
     </div>
     <aside>
         <section class="partners">
-          {% include footer.html %}
+            {% include footer.html %}
         </section>
     </aside>
-</div>
-    <script type="text/javascript" src="/media/js/overthrow.js"></script>
-    <script type="text/javascript" src="/media/js/snap.js"></script>
+
     <script type="text/javascript" src="/media/js/app.js"></script>
 </body>
 </html>

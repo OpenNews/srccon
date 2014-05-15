@@ -10,7 +10,7 @@ logo: srcconwhite.png
     <div class="col">
         <h3>Pitch a session</h3>
         <p>Read more about SRCCON sessions on this page, then pitch yours! June 9 is the cutoff to pitch.</p>
-        <a href="/sessions" class="button">Pitch a session</a>
+        <a href="/sessions/pitch" class="button">Pitch a session</a>
     </div>
 </aside>
 ###You Should Pitch
