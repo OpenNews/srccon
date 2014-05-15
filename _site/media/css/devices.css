@@ -386,7 +386,6 @@ margin-bottom: 50px;
 
 #nav {
 	font-family: Helvetica, Verdana, Arial, sans-serif;
-	display: none;
 }
 #nav ul {
 	padding: 0px;
@@ -435,7 +434,7 @@ text-decoration: none;
 color: #999999;
 display: inline;
 }
- #nav li a:hover, #nav li a:active, #nav li a.active, #fellowside li a:hover, #fellowside li a.active {
+#nav li a:hover, #nav li a:active, #nav li a.active, #fellowside li a:hover, #fellowside li a.active {
 	color: #3e3e3e;
 }
 .fellowships #fellowships a,
@@ -477,7 +476,9 @@ font-size: 1.1em;
 margin-top: 30px;
 margin-bottom: 10px;
 text-transform: uppercase;
-
+}
+.columns .col h3 {
+    margin-top: 0;
 }
 
 #fellowside {
@@ -1008,13 +1009,13 @@ h2 {
 }
 
 .columns .col {
-		-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 	float: left;
 	padding: 20px;
-		margin: 0 2%;
-		border: 1px solid #d0d0d0;
-		width: 340px;
-margin-bottom: 10px;
+	margin: 0 2%;
+	border: 1px solid #d0d0d0;
+	width: 340px;
+    margin-bottom: 10px;
 }
 
 a.button {
@@ -1031,7 +1032,6 @@ a.button:hover {
 		text-decoration: none;
 }
 
-
 @media screen and (max-width: 768px) {
     .philly, .session, .chemical, .oldcity {
         height: 400px;
@@ -1044,18 +1044,33 @@ a.button:hover {
         top: 220px;
     }
 
-		#byline {
-			font-size: .6em;
-			position: absolute;
-			right: 10px;
-			top: 370px;
-		}
+	#byline {
+		font-size: .6em;
+		position: absolute;
+		right: 10px;
+		top: 370px;
+	}
+}
+@media screen and (max-width: 648px) {
+    .external .col {
+        float: none;
+        width: 100%;
+        padding: 0;
+    }
+    .external h2 {
+        padding-top: 0;
+    }
 }
 
-@media screen and (max-width: 458px) {
+@media screen and (max-width: 480px) {
     .philly, .session, .chemical, .oldcity {
         height: 200px;
+        margin-bottom: 25px;
     }
+    .philly #nav, .session #nav, .chemical #nav, .oldcity #nav {
+        margin-top: 200px;
+    }
+
     #brand img {
         width: auto;
         height: 50px;
@@ -1063,30 +1078,44 @@ a.button:hover {
     .philly .logo, .session .logo, .chemical .logo, .oldcity .logo {
         top: 110px;
     }
+    #nav {
+        font-size: 12px;
+				display: none; /* added in to figure out the logo issue*/
+    }
+    #nav li,
+    #nav li:last-child {
+        width: 33%;
+        text-align: center;
+    }
 
-		#byline {
-			font-size: .6em;
-			position: absolute;
-			right: 10px;
-			top: 10px;
-		}
+    #byline {
+        font-size: .6em;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
 
-		.columns .col {
-			-moz-box-sizing: border-box;
-			-webkit-box-sizing: border-box;
-			box-sizing: border-box;
-			float: none;
-			padding: 10px;
-			border: 1px solid #d0d0d0;
-			width: 95%;
-		margin-bottom: 10px;
-		}
+    .columns .col {
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        float: none;
+        padding: 10px;
+        border: 1px solid #d0d0d0;
+        width: 98%;
+        margin: 0 0 10px 0;
+    }
 
-		h1.dateblast {
-			font-size: 1.8em;
-		}
+    h1.dateblast {
+        font-size: 1.8em;
+    }
 }
 
-
+@media screen and (max-width: 400px) {
+    #nav {
+        font-size: 10px;
+				display: none; /* added in to try and figure out the logo issue*
+    }
+}
 
 /*force reload*/

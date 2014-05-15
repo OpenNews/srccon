@@ -1070,7 +1070,7 @@ a.button:hover {
     .philly #nav, .session #nav, .chemical #nav, .oldcity #nav {
         margin-top: 200px;
     }
-    
+
     #brand img {
         width: auto;
         height: 50px;
@@ -1080,6 +1080,7 @@ a.button:hover {
     }
     #nav {
         font-size: 12px;
+				display: none; /* added in to figure out the logo issue*/
     }
     #nav li,
     #nav li:last-child {
@@ -1113,6 +1114,7 @@ a.button:hover {
 @media screen and (max-width: 400px) {
     #nav {
         font-size: 10px;
+				display: none; /* added in to try and figure out the logo issue*
     }
 }
 
