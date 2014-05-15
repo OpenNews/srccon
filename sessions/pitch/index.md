@@ -9,6 +9,6 @@ Your proposals will be published on the SRCCON site (private fields excepted), a
 
 So tell us, what&rsquo;s your perfect SRCCON session?
 
-**Currently, we are experiencing difficulty with this form on Safari (desktop and mobile) and Internet Explorer. Please use a different browser or come back soon.**
+<p class="alertme">Currently, we are experiencing difficulty with this form on Safari (desktop and mobile) and Internet Explorer. Please use a different browser or come back soon.</p>
 
 <iframe id="frame" width="100%" height="1750" src="http://screendoor.dobt.co/embedded/projects/226/responses/new" frameborder="0" marginheight="0" marginwidth="0"></iframe>

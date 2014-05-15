@@ -1018,7 +1018,7 @@ h2 {
     margin-bottom: 10px;
 }
 
-a.button {
+a.button, .alertme {
 		display: block;
 		background-color: #FC6E1F;
 		padding: 10px 0;
