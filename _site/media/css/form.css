@@ -16,6 +16,12 @@
 
 .fb-field-wrapper input[type=checkbox] { width: auto; }
 
-/*whythefuckwontthisupdatefuckingforceitagain*/
+.button.primary {
+  background-color: #FC6E1F;
+}
 
-.response-field-paragraph .rf-size-small
+.button.primary:hover {
+  background-color: #bd5325;
+}
+
+/*whythefuckwontthisupdatefuckingforceitagain*/
