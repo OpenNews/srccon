@@ -18,7 +18,7 @@ Philly is very well-served by the [Philadelphia International Airport](http://ww
 There is a public transit train (called regional rail) from the airport to Center City (downtown area). Tickets are $6.50 if you buy from a kiosk on the platform or $8 if purchased on the train. Get off at the "Market East" stop and you'll be a short walk from the venue.
 
 ###**While in Philly**
-
+We didn't want you stuck in a conference hotel that could have been anywhere, so we picked a centrally located venue for SRCCON. We encourage you to explore Philadelphia while you're in town. Within five blocks of the Chemical Heritage Foundation are numerous historical sites, museums, bars, restaurants, and entertaining people watching (think: Colonial [LARPing](https://en.wikipedia.org/wiki/Live_action_role-playing_game)). If you'd like to venture beyond the Old City neighborhood, check out the transit information below, rent a bike, or keep walking till you hit one of the rivers that bookends downtown Philly.
 
 ###Transit
 Old City is accessible via bus and subway on public transit. The local transit organization is [SEPTA](http://septa.org). The closest subway station is the 2nd Street Market-Frankford Line (also known as "the El" or "blue line") stop, and numerous bus lines run on Market Street, which is one block north of the venue. Philly still uses tokens to pay for transit rides. Tokens are $1.80 and are available for purchase at many, but not all, subway and train stations. Cash fare for bus and subway rides is $2.25 with a transfer costing $1. Regional rail trains, which serve the airport and farther out stations, are charged by a [zone system](http://septa.org/fares/ticket/index.html).

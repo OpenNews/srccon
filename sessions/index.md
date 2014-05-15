@@ -14,7 +14,7 @@ logo: srcconwhite.png
     </div>
 </aside>
 ###You Should Pitch
-Anyone can lead a session, and we encourage you to pitch an idea (or two or three) if you're planning to attend. Great sessions often start out with a relatively simple question or problem. If you've been struggling with or mulling something, you can bet other folks have dealt with that too. You won't need prepared slides, just the willingness to lead an engaged conversation or workshop about a topic of interest to journo-coders.
+Anyone can lead a session, and we encourage you to pitch an idea (or two or three) if you're planning to attend. Great sessions often start out with a relatively simple question or problem. If you've been struggling with or mulling something over, you can bet other folks have dealt with that too. You won't need prepared slides, just the willingness to lead an engaged conversation or workshop about a topic of interest to journo-coders.
 
 New to the scene or have an idea but aren't sure if you're up to leading a session? Go ahead and pitch—we're happy to do leader-prep for anyone who wants to lead a session, and we can probably also match you up with a co-leader who can help keep your nerves under control.
 We look forward to reading your pitches, so please, [submit a session proposal now](pitch).
