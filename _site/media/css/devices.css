@@ -1118,9 +1118,9 @@ a.button:hover {
 
 		#nav li,
 		#nav li:last-child {
-				width: 32%;
+				width: 32%; /*changed from 33%*/
 				text-align: center;
 		}
 }
 
-/*force reload*/
+/*force reload FOR REAL*/
