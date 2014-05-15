@@ -6,7 +6,13 @@ logo: srcconwhite.png
 ---
 
 <p class="bodybig">The SRCCON program will be built around facilitated sessions in which participants hold conversations and workshops about code, data, security, interactive design, and other topics of interest to people who code in news organizations. </p>
-
+<aside class="columns">
+    <div class="col">
+        <h3>Pitch a session</h3>
+        <p>Read more about SRCCON sessions on this page, then pitch yours! June 9 is the cutoff to pitch.</p>
+        <a href="/sessions" class="button">Pitch a session</a>
+    </div>
+</aside>
 ###You Should Pitch
 Anyone can lead a session, and we encourage you to [pitch an idea](pitch) (or two or three) if you're planning to attend. Great sessions often start out with a relatively simple question or problem. If you've been struggling with or mulling something, you can bet other folks have dealt with that too. You won't need prepared slides, just the willingness to lead an engaged conversation or workshop about a topic of interest to journo-coders.
 
