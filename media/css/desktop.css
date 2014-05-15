@@ -4,19 +4,22 @@ Default template CSS - if you change anything here then updating will be a bit m
 /**= Desktop only */
 .columns {
     margin-bottom: 50px;
+		float: right;
+		width: 350px;
+		margin-left: 20px;
 }
 .col {
 	float: left;
 	padding: 20px;
-	width: 33%;
 }
 .columns .col {
     -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 	float: left;
 	padding: 20px;
-	width: 45%;
     margin: 0 2%;
     border: 1px solid #d0d0d0;
+		width: 340px;
+margin-bottom: 10px;
 }
 .col img {
 	width: 100%;
