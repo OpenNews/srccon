@@ -10,7 +10,7 @@
   width: 90%;
 }
 
-.fb-option input[type=text]  {
+ .fb-field-wrapper .fb-option input[type=text] {
   width: 200px;
 }
 
