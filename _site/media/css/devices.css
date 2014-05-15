@@ -922,6 +922,10 @@ ul.fellowcode {
 
 /* SRCCON MODIFICATIONS */
 
+div[role="main"] a.button {
+	color: white;
+}
+
 #brand img {
 	width: 600px;
 }
