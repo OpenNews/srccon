@@ -3,6 +3,7 @@ layout: post
 title: SRCCON Registration
 logo: srcconwhite.png
 background: chemical
+byline: Photo by <a href="https://www.flickr.com/photos/pmillera4">Paul Miller</a>
 ---
 <p class="bodybig">Registration opens May 30 and tickets will be available on a first-come, first-served basis. SRCCON is a small event, and we anticipate releasing no more than 125 tickets, so if you're planning to attend, you may want to <a href="https://source.opennews.org/en-US/subscribe/">join our notifications list</a> or follow <a href="http://www.twitter.com/srccon">@SRCCON</a> on Twitter.</p>
 
