@@ -63,10 +63,39 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 <div class="article_body">
 <p class="bodybig">We're getting great [pitches](/sessions/pitch) for SRCCON, and are posting them here as they come in. Check the list for inspiration for your own pitches or to get a taste of what's to come.</p>
 
-<div id="proposals">
+<table id="proposals">
 <!-- Paste the markdowned tables here -->
-
+</table>
 </div>
+
+
+<script type="text/javascript" src="/media/js/tabletop.js"></script>
+
+<script type="text/javascript">
+
+window.onload = function() { init() };
+
+var public_spreadshseet_url = 'https://docs.google.com/spreadsheets/d/1jc1UogVZvo_X2OZuS00eT2X5MFb-z9iG9XI2Fqpt79E/pubhtml';
+
+  function init() {
+        Tabletop.init( { key: public_spreadshseet_url,
+                         callback: showInfo,
+                          } )
+      }
+
+
+      function showInfo() {
+
+        $.each( Tabletop.sheets("Sheet1").all(), function(i, proposal) {
+          var hack_li = $('<td class="title">' + proposal.title + '</td>')
+          hack_li.appendTo("#proposals");
+          console.log(proposal)
+ 		});
+
+
+      };
+
+</script>
 
 </div>
                 </div>
