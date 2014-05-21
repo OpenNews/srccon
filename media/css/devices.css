@@ -1122,4 +1122,48 @@ a.button:hover {
 		}
 }
 
+#proposals li {
+	padding: 10px;
+	list-style-type: none;
+	margin-bottom: 0;
+	margin-top: 5px;
+}
+
+#proposals h4 {
+	font-size: 1.2em;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+#proposals h4 span.proposalauthor {
+	font-weight: normal;
+}
+
+#proposals p.description {
+	margin-left: 45px;
+}
+
+#proposals li h4 img {
+float: none;
+margin-right: 15px;
+-webkit-transition: .15s;
+-moz-transition: .15s;
+-o-transition: .15s;
+-ms-transition: .15s;
+-webkit-transform: rotate(-90deg);
+-moz-transform: rotate(-90deg);
+-o-transform: rotate(-90deg);
+-ms-transform: rotate(-90deg);
+}
+
+#proposals li h4 img.flipup {
+
+-webkit-transform: rotate(0deg);
+-moz-transform: rotate(0deg);
+-o-transform: rotate(0deg);
+-ms-transform: rotate(0deg);
+}
+
+
+
 /*force reload FOR REAL*/

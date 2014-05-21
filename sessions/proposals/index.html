@@ -25,10 +25,20 @@ function init() {
 
     function showInfo() {
         $.each(tabletop.sheets("Sheet1").all(), function(i, proposal) {
-            var hack_li = $('<li class="item"><h4 class="title">' + proposal.title + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><p class="description">' + proposal.shortdescription + '</p></li>');
+            var hack_li = $('<li><h4 class="title subjectline"><img src="/media/img/triangle.png">' + proposal.title + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><p class="description">' + proposal.shortdescription + '</p></li>');
             hack_li.appendTo("#proposals");
             console.log(proposal);
-        });
+  });
+
+$('.description').hide();
+
+ $('.subjectline').click(function(){
+  var d = $(this).next();
+d.slideToggle('fast');
+  $("img", this).toggleClass('flipup');
+    });
+
     };
 }
+
 </script>
