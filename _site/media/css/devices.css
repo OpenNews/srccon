@@ -1132,7 +1132,7 @@ a.button:hover {
 #proposals h4 {
 	font-size: 1.2em;
 	margin-top: 0px;
-	margin-bottom: 10px;
+	margin-bottom: 0;
 	cursor: pointer;
 }
 
@@ -1140,8 +1140,8 @@ a.button:hover {
 	font-weight: normal;
 }
 
-#proposals p.description {
-	margin-left: 45px;
+#proposals div.detailbox {
+	padding-left: 55px;
 }
 
 #proposals li h4 img {
