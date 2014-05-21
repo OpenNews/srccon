@@ -1133,6 +1133,7 @@ a.button:hover {
 	font-size: 1.2em;
 	margin-top: 0px;
 	margin-bottom: 10px;
+	cursor: pointer;
 }
 
 #proposals h4 span.proposalauthor {
