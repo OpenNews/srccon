@@ -86,22 +86,24 @@ function init() {
             var hack_li = $('<li><h4 class="title subjectline" id="'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.title + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + proposal.shortdescription + '</p><a href="/sessions/proposals/#'+ proposal.id +'">permalink</a></div></li>');
             hack_li.appendTo("#proposals");
             console.log(proposal);
-  });
+});
 
 $('.detailbox').hide();
+
+if (window.location.hash) {
+   var hash = window.location.hash.substring(1);
+   $('#'+hash).next().show();
+  };
 
  $('.subjectline').click(function(){
   var d = $(this).next();
 d.slideToggle('fast');
   $("img", this).toggleClass('flipup');
   });
-    };
+ }
+
 }
 
-if (window.location.hash) {
-   var hash = window.location.hash.substring(1);
-   hash.find('.detailbox').show();
- }
 
 
 
