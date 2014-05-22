@@ -1123,14 +1123,25 @@ a.button:hover {
 }
 
 #proposals li {
-	padding: 10px;
 	list-style-type: none;
 	margin-bottom: 0;
 	margin-top: 5px;
 }
 
-#proposals li:nth-child(odd) {
+#proposals li h4 {
+	padding: 10px;
+}
+
+#proposals li:nth-child(odd) h4 {
 	background-color: #f5f2e8;
+}
+
+#proposals li:nth-child(odd) h4:hover {
+	background-color: #f9f0d4;
+}
+
+#proposals li h4:hover {
+	background-color: #fbf7ef;
 }
 
 #proposals h4 {
