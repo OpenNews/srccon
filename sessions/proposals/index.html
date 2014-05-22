@@ -25,7 +25,7 @@ function init() {
 
     function showInfo() {
         $.each(tabletop.sheets("Sheet1").all(), function(i, proposal) {
-            var hack_li = $('<li><h4 class="title subjectline" id="'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.title + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + proposal.shortdescription + '</p><p><b>Who is this session for?</b> ' + proposal.whoisthissessionfor + ' | <a href="/sessions/proposals/#'+ proposal.id +'">permalink</a></div></li>');
+            var hack_li = $('<li><h4 class="title subjectline" id="'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.sessiontitle + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + proposal.shortdescription + '</p><p><b>Who is this session for?</b> ' + proposal.whoisthissessionfor + ' | <a href="/sessions/proposals/#'+ proposal.id +'">permalink</a></div></li>');
             hack_li.appendTo("#proposals");
             console.log(proposal);
 });
