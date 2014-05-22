@@ -1129,6 +1129,10 @@ a.button:hover {
 	margin-top: 5px;
 }
 
+#proposals li:nth-child(odd) {
+	background-color: #f5f2e8;
+}
+
 #proposals h4 {
 	font-size: 1.2em;
 	margin-top: 0px;
