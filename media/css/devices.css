@@ -1135,7 +1135,13 @@ a.button:hover, #togglebuttons #show:hover, #togglebuttons #hide:hover {
 		#proposals div.detailbox {
 			padding-left: 25px;
 		}
-		
+
+		#togglebuttons #hide, #togglebuttons #show {
+			font-size: .8em;
+			width: 65px;
+			padding: 5px;
+			margin-bottom: 10px;
+		}
 }
 
 @media screen and (max-width: 400px) {
