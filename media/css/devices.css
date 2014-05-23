@@ -1108,6 +1108,10 @@ a.button:hover {
     h1.dateblast {
         font-size: 1.8em;
     }
+
+		#proposals div.detailbox {
+			padding-left: 25px;
+		}
 }
 
 @media screen and (max-width: 400px) {
@@ -1120,6 +1124,7 @@ a.button:hover {
 				width: 32%; /*changed from 33%*/
 				text-align: center;
 		}
+
 }
 
 #proposals li {

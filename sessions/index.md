@@ -5,11 +5,11 @@ background: session
 logo: srcconwhite.png
 ---
 
-<p class="bodybig">The SRCCON program will be built around facilitated sessions in which participants hold conversations and workshops about code, data, security, interactive design, and other topics of interest to people who code in news organizations. </p>
+<p class="bodybig">The SRCCON program will be built around facilitated sessions in which participants hold conversations and workshops about code, data, security, interactive design, and other topics of interest to people who code in news organizations. We're <a href="proposals/">posting proposals</a> every few days as they come in to offer a glimpse at the subjects and formats we're seeing so far.</p>
 <aside class="columns">
     <div class="col">
         <h3>Pitch a session</h3>
-        <p>Read more about SRCCON sessions on this page, then pitch yours! June 9 is the cutoff to pitch.</p>
+        <p>SRCCON is a highly interactive conference.  <a href="http://srccon.org/sessions/proposals/">Check our early session proposals</a> and pitch your own, now through June 9.</p>
         <a href="/sessions/pitch" class="button">Pitch a session</a>
     </div>
 </aside>
