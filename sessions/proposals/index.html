@@ -4,6 +4,10 @@ title: Session Proposals for SRCCON
 logo: srccon_logo.png
 ---
 <p class="bodybig">We're getting great <a href="/sessions/pitch">pitches</a> for SRCCON, and are posting them here as they come in—they'll be a new batch every few days through June 9th, when pitches close. Check the list for inspiration for your own pitches or to get a taste of what's to come.</p>
+<div id="togglebuttons">
+<div id="show">open all</div>
+<div id="hide">close all</div>
+</div>
 <div id="proposals">
 <!-- Paste the markdowned tables here -->
 </div>
@@ -40,6 +44,7 @@ function init() {
 });
 
 $('.detailbox').hide();
+$('#togglebuttons').show();
 
 if (window.location.hash) {
    var hash = window.location.hash.substring(1);
@@ -52,6 +57,21 @@ if (window.location.hash) {
 d.slideToggle('fast');
   $("img", this).toggleClass('flipup');
   });
+
+ $('#show').click(function(){
+ $('.detailbox').slideDown('fast');
+ $('#show').hide();
+ $('#hide').show();
+ $('h4#.subjectline img').toggleClass('flipup');
+ });
+
+ $('#hide').click(function(){
+ $('.detailbox').slideUp('fast');
+ $('#show').show();
+ $('#hide').hide();
+ $('h4#.subjectline img').toggleClass('flipup');
+ });
+
  }
 
 }

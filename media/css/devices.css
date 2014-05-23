@@ -1018,7 +1018,7 @@ h2 {
     margin-bottom: 10px;
 }
 
-a.button, .alertme {
+a.button, .alertme, #togglebuttons #show, #togglebuttons #hide {
 		display: block;
 		background-color: #FC6E1F;
 		padding: 10px 0;
@@ -1027,7 +1027,30 @@ a.button, .alertme {
 		color: white;
 		text-transform: uppercase;
 }
-a.button:hover {
+
+#togglebuttons {
+	float: right;
+	cursor: pointer;
+	display: none;
+}
+
+#togglebuttons #show, #togglebuttons #hide
+{
+	display: normal;
+	padding-right: 10px;
+	padding-left: 10px;
+	width: 85px;
+}
+
+#togglebuttons #hide {
+	display: none;
+}
+
+#proposals {
+	clear: both;
+}
+
+a.button:hover, #togglebuttons #show:hover, #togglebuttons #hide:hover {
 		background-color: #bd5325;
 		text-decoration: none;
 }
