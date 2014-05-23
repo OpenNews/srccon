@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SRCCON Proposals
+title: SRCCON Sessions
 background: session
 logo: srcconwhite.png
 ---

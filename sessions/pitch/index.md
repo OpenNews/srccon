@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pitch Your Session
+title: Propose a SRCCON Session
 logo: srccon_logo.png
 ---
 <p class="bodybig">Loosely speaking, our program will be made of facilitated conversations and workshops focused on code, data, security, interactive design, and related topics with relevance to newsrooms. But most importantly, we want to know what you want to talk about and work on at SRCCON.</p>
