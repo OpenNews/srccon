@@ -1162,6 +1162,8 @@ a.button:hover {
 
 #proposals div.detailbox {
 	padding-left: 55px;
+	border-bottom: 1px solid #e7d9af;
+	margin-bottom: 15px;
 }
 
 #proposals li h4 img {
