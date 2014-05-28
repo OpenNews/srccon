@@ -1048,6 +1048,10 @@ a.button, .alertme, #togglebuttons #show, #togglebuttons #hide {
 
 #proposals {
 	clear: both;
+    position: relative;
+}
+.detailbox {
+    display: none;
 }
 
 a.button:hover, #togglebuttons #show:hover, #togglebuttons #hide:hover {
