@@ -5,7 +5,7 @@ logo: srcconwhite.png
 background: chemical
 byline: Photo by <a href="https://www.flickr.com/photos/pmillera4">Paul Miller</a>
 ---
-<p class="bodybigRegistration is open! Your ticket will cover your entry to the two-day conference and a couple of meals per day, plus snacks and coffee.</p>
+<p class="bodybig>Registration is open! Your ticket will cover your entry to the two-day conference and a couple of meals per day, plus snacks and coffee.</p>
 
 Registration is first-come, first-served and space is limited. All attendees, including session leaders, will need a ticket, so if you're planning to attend, please register soon. By registering, you agree to support and abide by our [code of conduct](/conduct).
 
