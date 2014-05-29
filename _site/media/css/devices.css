@@ -536,7 +536,7 @@ iframe {
 }
 
 article iframe {
-	width: 98%;
+	width: 100%;
 }
 
 #videobox iframe {
@@ -1048,6 +1048,10 @@ a.button, .alertme, #togglebuttons #show, #togglebuttons #hide {
 
 #proposals {
 	clear: both;
+    position: relative;
+}
+.detailbox {
+    display: none;
 }
 
 a.button:hover, #togglebuttons #show:hover, #togglebuttons #hide:hover {

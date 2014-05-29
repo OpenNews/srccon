@@ -62,24 +62,27 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                     <h2>SRCCON Session Proposals</h2>
 <div class="article_body">
 <p class="bodybig">We're getting great <a href="/sessions/pitch">pitches</a> for SRCCON, and are posting them here as they come in—they'll be a new batch every few days through June 9th, when pitches close. Check the list for inspiration for your own pitches or to get a taste of what's to come.</p>
+
 <div id="togglebuttons">
-<div id="show">open all</div>
-<div id="hide">close all</div>
+    <div id="show">open all</div>
+    <div id="hide">close all</div>
 </div>
+
 <div id="proposals">
-<!-- Paste the markdowned tables here -->
+    <!-- Paste the markdowned tables here -->
 </div>
+
 <p>(We aren't posting spam submissions, product pitches, or pitches that are unrelated to SRCCON's area of focus, but if you've submitted a proposal and don't see it here, we probably just haven't posted it yet.)</p>
 
-
 <script type="text/javascript" src="/media/js/tabletop.js"></script>
-
 <script type="text/javascript">
+// spinner
 $('<div id="preload"></div>').html('<h3><img src="/media/img/ajax-loader.gif" alt="loading data" /> Processing Latest Proposals</h3>').prependTo($('#proposals'));
 
 window.onload = function() { init() };
 
 function init() {
+    // use tabletop.js to get latest submissions
     var public_spreadshseet_url = 'https://docs.google.com/spreadsheets/d/1jc1UogVZvo_X2OZuS00eT2X5MFb-z9iG9XI2Fqpt79E/pubhtml',
         tabletop = Tabletop.init({
             key: public_spreadshseet_url,
@@ -87,56 +90,59 @@ function init() {
         });
 
     function showInfo() {
-
-      $('#preload').hide();
-
+        // remove spinner
+        $('#preload').hide();
+        
+        // create list items from each record from spreadsheet
         $.each(tabletop.sheets("Sheet1").all(), function(i, proposal) {
-
-          var newlines = new RegExp("\\n", "g");
-          var formatMultiline = function(str) {
-            return str.replace(newlines,"<br>");
-            }
-            var hack_li = $('<li><h4 class="title subjectline" id="'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.sessiontitle + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + formatMultiline(proposal.shortdescription) + '</p><p><b>Who is this session for?</b> ' + proposal.whoisthissessionfor + '</p><p><b>I\'m from: </b>' + proposal.organizationalaffiliation + ' | <a href="http://www.twitter.com/' + proposal.twitterhandle + '">@' + proposal.twitterhandle + '</a> | <span class="permalink"><a href="/sessions/proposals/#'+ proposal.id +'">permalink</a> for this proposal</span></div></li>');
+            var hack_li = $('<li><h4 class="title subjectline" id="p'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.sessiontitle + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + formatMultiline(proposal.shortdescription) + '</p><p><b>Who is this session for?</b> ' + proposal.whoisthissessionfor + '</p><p><b>I\'m from: </b>' + proposal.organizationalaffiliation + ' | <a href="http://www.twitter.com/' + proposal.twitterhandle + '">@' + proposal.twitterhandle + '</a> | <span class="permalink"><a href="#p'+ proposal.id +'">permalink</a> for this proposal</span></div></li>');
             hack_li.appendTo("#proposals");
-            console.log(proposal);
-});
+            //console.log(proposal);
+        });
 
-$('.detailbox').hide();
-$('#togglebuttons').show();
+        // if page loaded from permalink, automatically expand
+        // record's details and scroll down the page to it
+        if (window.location.hash) {
+            var hash = window.location.hash.substring(1),
+                $target = $('#'+hash);
 
-if (window.location.hash) {
-   var hash = window.location.hash.substring(1);
-   $('#'+hash).next().show();
-   $('h4#'+hash+'.subjectline img').toggleClass('flipup');
-  };
+            $('html, body').animate({
+              scrollTop: $($target).offset().top-100
+            }, 200);
+                
+            $target.next().show();
+            $target.find('img').toggleClass('flipup');
+        }
 
- $('.subjectline').click(function(){
-  var d = $(this).next();
-d.slideToggle('fast');
-  $("img", this).toggleClass('flipup');
-  });
-
- $('#show').click(function(){
- $('.detailbox').slideDown('fast');
- $('#show').hide();
- $('#hide').show();
- $('h4#.subjectline img').toggleClass('flipup');
- });
-
- $('#hide').click(function(){
- $('.detailbox').slideUp('fast');
- $('#show').show();
- $('#hide').hide();
- $('h4#.subjectline img').toggleClass('flipup');
- });
-
- }
-
+        // let people open/close all records at once
+        $('#togglebuttons').show();
+    }
 }
 
+// utility for maintaining linebreaks in submssions
+var newlines = new RegExp("\\n", "g");
+var formatMultiline = function(str) {
+    return str.replace(newlines,"<br>");
+}
 
-
-
+// add click listeners for elements that may not exist yet
+$('.article_body').on('click', '.subjectline', function() {
+    var d = $(this).next();
+    d.slideToggle('fast');
+    $("img", this).toggleClass('flipup');
+});
+$('.article_body').on('click', '#show', function() {
+    $('.detailbox').slideDown('fast');
+    $('#show').hide();
+    $('#hide').show();
+    $('.subjectline img').addClass('flipup');
+});
+$('.article_body').on('click', '#hide', function() {
+    $('.detailbox').slideUp('fast');
+    $('#show').show();
+    $('#hide').hide();
+    $('.subjectline img').removeClass('flipup');
+});
 </script>
 
 </div>
