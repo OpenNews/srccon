@@ -3,10 +3,10 @@ layout: post
 title: Sponsor SRCCON
 logo: srccon_logo.png
 ---
-<p class="bodybig">Want to engage the journalism-code community? Become a sponsor of our SRCCON, a two-day event this July 24 & 25. In Philadelphia, we&rsquo;re bringing together 125 developers, interactive designers, and other people who code in and near newsrooms, to learn, plan, and build together. Help make the event happen by becoming a sponsor!</p>
+<p class="bodybig">Want to engage the journalism-code community? Become a sponsor of our first SRCCON, a two-day event this July 24 & 25. In Philadelphia, we&rsquo;re bringing together 125 developers, interactive designers, and other people who code in and near newsrooms, to learn, plan, and build together. Help make our first conference happen by becoming a sponsor!</p>
 
 ###$5k tier (1 available)
-  * 4 passes
+  * 4 tickets to SRCCON
   * Logo on site in partners section visible on every page
   * Logo on sponsorship page on site
   * Description of product/company on site (1 paragraph max)
@@ -15,14 +15,14 @@ logo: srccon_logo.png
   * Sponsor of official SRCCON Field Notes notebook
 
 ###$2500 tier (2 available)
-  * 2 passes
+  * 2 tickets to SRCCON
   * Logo on sponsorship page on site
   * Description of product/company on site (1 paragraph max)
   * Logo on signage
   * Special mention on stage during general session
 
 ###$1k tier (4 available)
-  * 1 pass
+  * 1 ticket to SRCCON
   * Logo on sponsorship page on site
   * Logo on signage
 
