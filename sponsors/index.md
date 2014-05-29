@@ -26,7 +26,7 @@ logo: srccon_logo.png
   * Logo on sponsorship page on site
   * Logo on signage
 
-###Coffee sponsor: $500 per-day*
+###Coffee sponsor: $500 per-day
   * Logo displayed at the SRCCON coffee hacking station.
 
 We have a limited number of sponsorship spots available. Please [contact us](mailto:dan@mozillafoundation.org) for additional details.
