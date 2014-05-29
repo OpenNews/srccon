@@ -3,9 +3,7 @@ layout: post
 title: SRCCON Travel Scholarships
 logo: srccon_logo.png
 ---
-If you want to attend SRCCON, we don't want cost to keep you from coming. We want to make sure that anyone who wants to attend has the opportunity to get together in person to chat and collaborate. To help defray the cost of attending SRCCON, OpenNews is now offering a limited number of $500 travel scholarships.
-
-Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend SRCCON. 
+<p class="bodybig">If you want to attend SRCCON, we don't want cost to keep you from coming. We want to make sure that anyone who wants to attend has the opportunity to get together in person to chat and collaborate. To help defray the cost of attending SRCCON, OpenNews is now offering a limited number of $500 travel scholarships.</p>
 
 <aside class="columns">
     <div class="col">
@@ -15,18 +13,20 @@ Whether you're a newsroom developer at a small organization with a strained prof
     </div>
 </aside>
 
-# What we're offering
+Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend SRCCON.
+
+### What we're offering
 * $500 for you to use toward the cost of travel and registration for SRCCON.
 
-# Who should apply
-* Anyone who is part of the journalism code community 
+### Who should apply
+* Anyone who is part of the journalism code community
 * Anyone interested in learning more about the journalism code community
 * Women and other under-represented groups in technology are strongly encouraged to apply
 
-# What happens after you apply
+### What happens after you apply
 We'll review your application and get back to you by June 18.
 
-# What happens after SRCCON
+### What happens after SRCCON
 You tell us how it went! We'll send you a short follow up survey and will be excited to check out any blog posts or code repos that come out of your participation at SRCCON.
 
 ## Frequently Asked Questions
@@ -42,8 +42,8 @@ Yes, everyone attending SRCCON needs to [purchase a ticket](/register). If you a
 ### When will I hear if I will receive a scholarship?
 We will notify all scholarship applicants on June 18.
 
-### When will I receive my scholarship? 
-When we notify scholarship recipients, we will include information about how to receive the scholarship. You will need to send us an invoice and our administrators will process the payment. It may take a month or so for the money to make its way to your bank account. 
+### When will I receive my scholarship?
+When we notify scholarship recipients, we will include information about how to receive the scholarship. You will need to send us an invoice and our administrators will process the payment. It may take a month or so for the money to make its way to your bank account.
 
 ### What if I need more than $500 for my travel?
 Unfortunately, we are only able to offer $500 scholarships at this time. This is our first time offering these scholarships, so we needed to start with a simple set-up, but we appreciate [any feedback](erika@mozillafoundation.org) on the process.
@@ -53,4 +53,3 @@ Luckily, Philadelphia is a relatively cheap city once you arrive. There is a hos
 
 ### Questions not covered here?
 Email [us](srccon@opennews.org).
-
