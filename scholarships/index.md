@@ -35,9 +35,6 @@ We want to make sure that SRCCON is an event that includes the diversity of the 
 ### How do you decide who will receive a scholarship?
 OpenNews staff will review the applications. We will prioritize applications from people under-represented in the journalism code community as well as from people who would be unable to attend the event without the scholarship.
 
-### Do I still need to purchase a ticket to SRCCON?
-Yes, everyone attending SRCCON needs to [purchase a ticket](/register). If you are able to purchase your ticket before hearing back about the scholarship, please do. We will hold back a small number of tickets for people to purchase upon receiving the scholarship.
-
 ### When will I hear if I will receive a scholarship?
 We will notify all scholarship applicants on June 18.
 

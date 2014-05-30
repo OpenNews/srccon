@@ -21,7 +21,7 @@ There is a public transit train (called regional rail) from the airport to Cente
 We offer a small number of $500 travel scholarships to attendees for whom the cost to attend would otherwise be prohibitive. Travel scholarship [applications are open](/scholarships) until June 13.
 
 ###Contributing to SRCCON
-We hope that you've [purchased a ticket](/register) and [submitted a session proposal](/sessions). In addition to preparing yourself for two days of great conversations and building, we appreciate your help spreading the word about SRCCON. If you know someone who might love SRCCON but may not have heard about it, please invite that person.
+We hope that you've purchased a ticket and [submitted a session proposal](/sessions). In addition to preparing yourself for two days of great conversations and building, we appreciate your help spreading the word about SRCCON. If you know someone who might love SRCCON but may not have heard about it, please invite that person.
 
 We're also looking for a small number of [volunteers during the event](/volunteer). If you cannot attend in SRCCON in person, we're as bummed as you are.
 
