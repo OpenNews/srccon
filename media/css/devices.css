@@ -1223,6 +1223,23 @@ margin-right: 15px;
 #proposals .permalink {
 }
 
+#apologybox {
+	border: 2px solid #ac0909;
+	background-color: #f9dfa9;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+#apologybox p {
+	font-size: 1.4em;
+}
+
+#apologybox h2 {
+	margin-top: 0px;
+}
+
+
 
 
 /*force reload FOR REAL*/
