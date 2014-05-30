@@ -17,6 +17,16 @@ We will have a hotel registration link soon for $179/night rooms just a few bloc
 Philly is very well-served by the [Philadelphia International Airport](http://www.phl.org/Pages/HomePage.aspx), [Amtrak&rsquo;s 30th Street Station](http://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&code=PHL), and [numerous](http://megabus.com/) [bus](http://www.gotobus.com/yobus/) [companies](https://www.greyhound.com/default.aspx).
 There is a public transit train (called regional rail) from the airport to Center City (downtown area). Tickets are $6.50 if you buy from a kiosk on the platform or $8 if purchased on the train. Get off at the &ldquo;Market East&rdquo; stop and you&rsquo;ll be a short walk from the venue.
 
+###Scholarships for SRCCON
+We offer a small number of $500 travel scholarships to attendees for whom the cost to attend would otherwise be prohibitive. Travel scholarship [applications are open](/scholarships) until June 13.
+
+###Contributing to SRCCON
+We hope that you've [purchased a ticket](/register) and [submitted a session proposal](/sessions). In addition to preparing yourself for two days of great conversations and building, we appreciate your help spreading the word about SRCCON. If you know someone who might love SRCCON but may not have heard about it, please invite that person.
+
+We're also looking for a small number of [volunteers during the event](/volunteer). If you cannot attend in SRCCON in person, we're as bummed as you are.
+
+We're going to do our best to document the event and share it back with the entire community. [Please let us know](mailto:srccon@opennews.org) if you have suggestions for ways for us to support remote or asynchronous participation.
+
 ###**While in Philly**
 We didn&rsquo;t want you stuck in a conference hotel that could have been anywhere, so we picked a centrally located venue for SRCCON. We encourage you to explore Philadelphia while you&rsquo;re in town. Within five blocks of the Chemical Heritage Foundation are numerous historical sites, museums, bars, restaurants, and entertaining people watching (think: Colonial [LARPing](https://en.wikipedia.org/wiki/Live_action_role-playing_game)). If you&rsquo;d like to venture beyond the Old City neighborhood, check out the transit information below, rent a bike, or keep walking till you hit one of the rivers that bookends downtown Philly.
 
