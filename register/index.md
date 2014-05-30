@@ -11,7 +11,7 @@ byline: Photo by <a href="https://www.flickr.com/photos/pmillera4">Paul Miller</
 
 <p>We are more grateful than we can say for your support and  patience, and we love you all.
 
-<p>We'll provide updates as soon as we can. If we're able to open up more tickets, we'll let you know with **plenty** of warning through <a href="http://twitter.com/srccon">@srccon</a> and our <a href="https://source.opennews.org/en-US/subscribe/">email list</a>.
+<p>We'll provide updates as soon as we can. If we're able to open up more tickets, we'll let you know with <b>plenty</b> of warning through <a href="http://twitter.com/srccon">@srccon</a> and our <a href="https://source.opennews.org/en-US/subscribe/">email list</a>.
 </div>
 
 We know that things went very fast. If you have any questions about whether your order went through, [please email us](mailto:srccon@opennews.org).
