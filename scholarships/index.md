@@ -18,15 +18,15 @@ Whether you&rsquo;re a newsroom developer at a small organization with a straine
 ### What we&rsquo;re offering
 $500 for you to use toward the cost of travel and registration for SRCCON.
 
-### Who should apply
+### Who should apply?
 * Anyone who is part of the journalism code community
 * Anyone interested in learning more about the journalism code community
 * Women and other under-represented groups in technology are strongly encouraged to apply
 
-### What happens after you apply
+### What happens after you apply?
 We&rsquo;ll review your application and get back to you by June 18.
 
-### What happens after SRCCON
+### What happens after SRCCON?
 You tell us how it went! We&rsquo;ll send you a short follow up survey and will be excited to check out any blog posts or code repos that come out of your participation at SRCCON.
 
 ### Why are you offering this scholarship?
