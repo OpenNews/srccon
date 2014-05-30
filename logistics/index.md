@@ -11,7 +11,7 @@ byline: Photo by <a href="https://secure.flickr.com/photos/radio_free_rlyeh/5744
 SRCCON will take place at the [Chemical Heritage Foundation](http://www.chemheritage.org/), a museum and event space in the Old City neighborhood of Philadelphia.
 
 ###Hotels
-We will have a hotel registration link soon for $179/night rooms just a few blocks away from the venue. Old City is filled with hotels, shops, restaurants, bars, and&mdash;as the name suggests&mdash;plenty o&rsquo; historical sites.
+We reserved a block of hotels at the [Wyndham Historic District Hotel](http://www.phillydowntownhotel.com/) at 400 Arch Street, a few blocks away from the venue. To make a reservation at the discounted rate of $179 per night, [please use this link](http://www.wyndham.com/groupevents2014/47153_KNIGHTMOZILLA/main.wnt). You'll need to reserve your room before June 23 to get the discounted rate. In addition to the Wyndham, Old City is filled with hotels, shops, restaurants, bars, and—as the name suggests—plenty o’ historical sites.
 
 ###Getting to the Venue
 Philly is very well-served by the [Philadelphia International Airport](http://www.phl.org/Pages/HomePage.aspx), [Amtrak&rsquo;s 30th Street Station](http://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&code=PHL), and [numerous](http://megabus.com/) [bus](http://www.gotobus.com/yobus/) [companies](https://www.greyhound.com/default.aspx).
