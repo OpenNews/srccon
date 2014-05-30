@@ -7,26 +7,26 @@ logo: srccon_logo.png
 
 ###$5k tier (1 available)
   * 4 tickets to SRCCON
-  * Logo on site in partners section visible on every page
-  * Logo on sponsorship page on site
-  * Description of product/company on site (1 paragraph max)
+  * Logo on SRCCON website (in partners section) visible on every page
+  * Logo on sponsorship page on SRCCON website
+  * Description of product/company on SRCCON website (1 paragraph max)
   * Logo on signage
   * Special mention on stage during general session
   * Sponsor of official SRCCON Field Notes notebook
 
-###$2500 tier (2 available)
+###$2,500 tier (2 available)
   * 2 tickets to SRCCON
-  * Logo on sponsorship page on site
-  * Description of product/company on site (1 paragraph max)
+  * Logo on sponsorship page on SRCCON website
+  * Description of product/company on SRCCON website (1 paragraph max)
   * Logo on signage
   * Special mention on stage during general session
 
 ###$1k tier (4 available)
   * 1 ticket to SRCCON
-  * Logo on sponsorship page on site
+  * Logo on sponsorship page on SRCCON websitee
   * Logo on signage
 
-###Coffee sponsor: $500 per-day
+###Coffee sponsor: $500 per day
   * Logo displayed at the SRCCON coffee hacking station.
 
 We have a limited number of sponsorship spots available. Please [contact us](mailto:dan@mozillafoundation.org) for additional details.

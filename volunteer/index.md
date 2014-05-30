@@ -3,7 +3,7 @@ layout: post
 title: Volunteer at SRCCON
 logo: srccon_logo.png
 ---
-<p class="bodybig">In addition to leading sessions and general enthusiasm and support throughout SRCCON, we'll need a small group of people to help us keep the event running smoothly.</p>
+<p class="bodybig">We need YOU to help make SRCCON work. In addition to participants running sessions throughout the two days of SRCCON, we&rsquo;ll also need a small group of people to help us keep the event running smoothly. Want to help? Consider volunteering at SRCCON.</p>
 
 Volunteers will help with:
 

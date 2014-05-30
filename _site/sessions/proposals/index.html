@@ -61,7 +61,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                 <div class="main_col">
                     <h2>SRCCON Session Proposals</h2>
 <div class="article_body">
-<p class="bodybig">We're getting great <a href="/sessions/pitch">pitches</a> for SRCCON, and are posting them here as they come in—they'll be a new batch every few days through June 9th, when pitches close. Check the list for inspiration for your own pitches or to get a taste of what's to come.</p>
+<p class="bodybig">We're getting great <a href="/sessions/pitch">pitches</a> for SRCCON, and are posting them here as they come in—they&rsquo;ll be a new batch every few days through June 9th, when pitches close. Check the list for inspiration for your own pitches or to get a taste of what's to come.</p>
 
 <div id="togglebuttons">
     <div id="show">open all</div>
@@ -92,7 +92,7 @@ function init() {
     function showInfo() {
         // remove spinner
         $('#preload').hide();
-        
+
         // create list items from each record from spreadsheet
         $.each(tabletop.sheets("Sheet1").all(), function(i, proposal) {
             var hack_li = $('<li><h4 class="title subjectline" id="p'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.sessiontitle + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + formatMultiline(proposal.shortdescription) + '</p><p><b>Who is this session for?</b> ' + proposal.whoisthissessionfor + '</p><p><b>I\'m from: </b>' + proposal.organizationalaffiliation + ' | <a href="http://www.twitter.com/' + proposal.twitterhandle + '">@' + proposal.twitterhandle + '</a> | <span class="permalink"><a href="#p'+ proposal.id +'">permalink</a> for this proposal</span></div></li>');
@@ -109,7 +109,7 @@ function init() {
             $('html, body').animate({
               scrollTop: $($target).offset().top-100
             }, 200);
-                
+
             $target.next().show();
             $target.find('img').toggleClass('flipup');
         }
@@ -168,7 +168,9 @@ $('.article_body').on('click', '#hide', function() {
                 <ul>
                 <li><a href="/conduct">Code of conduct</a>
                 <li><a href="/sponsors">Sponsorship</a>
-                <li>Connect on Twitter <a href="http://twitter.com/srccon" class="twitter-follow-button" data-show-count="false">@srccon</a></li>
+                <li><a href="/volunteer">Volunteer at SRCCON</a>
+                <li><a href="/scholarships">Travel Scholarships</a>
+                <li><a href="http://twitter.com/srccon" class="twitter-follow-button" data-show-count="false">@srccon</a></li>
 
                <li>Join our <a href="https://source.opennews.org/en-US/subscribe/">mailing list</a></li>
                 <li><a href="mailto:source@mozillafoundation.org">Contact us</a></li>

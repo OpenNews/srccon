@@ -5,7 +5,7 @@ background: session
 logo: srcconwhite.png
 ---
 
-<p class="bodybig">The SRCCON program will be built around facilitated sessions in which participants hold conversations and workshops about code, data, security, interactive design, and other topics of interest to people who code in news organizations. We're <a href="proposals/">posting proposals</a> every few days as they come in to offer a glimpse at the subjects and formats we're seeing so far.</p>
+<p class="bodybig">The SRCCON program will be built around facilitated sessions in which participants hold conversations and workshops about code, data, security, interactive design, and other topics of interest to people who code in news organizations. We&rsquo;re <a href="proposals/">posting proposals</a> every few days as they come in to offer a glimpse at the subjects and formats we're seeing so far.</p>
 <aside class="columns">
     <div class="col">
         <h3>Pitch a session</h3>
