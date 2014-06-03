@@ -38,6 +38,9 @@ OpenNews staff will review the applications. We will prioritize applications fro
 ### When will I hear if I will receive a scholarship?
 We will notify all scholarship applicants on June 18.
 
+### Do I still need to purchase a ticket to SRCCON?
+Yes, everyone attending SRCCON needs to purchase a ticket. Scholarship recipients who have not yet purchased a ticket will have a chance to do so in late in June. (This will be a very limited number  of tickets—please don't apply for a travel scholarship as a way to get a ticket.)
+
 ### When will I receive my scholarship?
 When we notify scholarship recipients, we will include information about how to receive the scholarship. You will need to send us an invoice and our administrators will process the payment. It may take a month or so for check processing.
 
