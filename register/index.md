@@ -23,6 +23,4 @@ byline: Photo by <a href="https://www.flickr.com/photos/pmillera4">Paul Miller</
 <p>Thank you for your support, patience, and excitement.
 </div>
 
-We know that things went very fast. If you have any questions about whether your order went through, [please email us](mailto:srccon@opennews.org).
-
 We offer a small number of $500 travel scholarships to attendees for whom the cost to attend would otherwise be prohibitive. [Travel scholarship applications are open](/scholarships).
