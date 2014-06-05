@@ -14,7 +14,7 @@ logo: srccon_logo.png
   * Special mention on stage during general session
   * Sponsor of official SRCCON Field Notes notebook
 
-###$2,500 tier (1 left)
+###$2,500 tier (SOLD OUT)
   * 2 tickets to SRCCON
   * Logo on sponsorship page on SRCCON website
   * Description of product/company on SRCCON website (1 paragraph max)
