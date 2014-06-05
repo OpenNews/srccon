@@ -23,7 +23,7 @@ logo: srccon_logo.png
 
 ###$1k tier (4 available)
   * 1 ticket to SRCCON
-  * Logo on sponsorship page on SRCCON websitee
+  * Logo on sponsorship page on SRCCON website
   * Logo on signage
 
 ###Coffee sponsor: $500 per day (SOLD OUT)
