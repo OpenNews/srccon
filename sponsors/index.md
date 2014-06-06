@@ -21,7 +21,7 @@ logo: srccon_logo.png
   * Logo on signage
   * Special mention on stage during general session
 
-###$1k tier (4 available)
+###$1k tier (2 available, 2 sold)
   * 1 ticket to SRCCON
   * Logo on sponsorship page on SRCCON website
   * Logo on signage
