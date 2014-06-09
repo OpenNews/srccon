@@ -5,7 +5,6 @@ logo: srcconwhite.png
 background: chemical
 byline: Photo by <a href="https://www.flickr.com/photos/pmillera4">Paul Miller</a>
 ---
-<div id = "apologybox">
 <h2>More Tickets On Sale June 19</h2>
 
 <p>Due to the intense interest in SRCCON, we found a few ways to slightly expand the event capacity and open up more seats.
@@ -21,4 +20,3 @@ byline: Photo by <a href="https://www.flickr.com/photos/pmillera4">Paul Miller</
 <p>The demand for SRCCON tickets took us by surprise, but it shouldn&rsquo;t have—it&rsquo;s a reflection of the eagerness of this community to spend focused time together planning and building. SRCCON is by design a community-driven event, and we&rsquo;re committed to ensuring that it is accessible, welcoming, and reflects the diversity of the communities we serve.
 
 <p>Thank you for your support, patience, and excitement.
-</div>
