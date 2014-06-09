@@ -5,21 +5,14 @@ background: session
 logo: srcconwhite.png
 ---
 
-<p class="bodybig">The SRCCON program will be built around facilitated sessions in which participants hold conversations and workshops about code, data, security, interactive design, and other topics of interest to people who code in news organizations. We&rsquo;re <a href="proposals/">posting proposals</a> every few days as they come in to offer a glimpse at the subjects and formats we're seeing so far.</p>
+<p class="bodybig">The SRCCON program will be built around facilitated sessions in which participants hold conversations and workshops about code, data, security, interactive design, and other topics of interest to people who code in news organizations. Thank you to everyone who <a href="/sessions/proposals">proposed a session</a>. The call for proposals is now closed.</p>
 <aside class="columns">
     <div class="col">
-        <h3>Pitch a session</h3>
-        <p>SRCCON is a highly interactive conference.  <a href="http://srccon.org/sessions/proposals/">Check our early session proposals</a> and pitch your own, now through June 9.</p>
-        <a href="/sessions/pitch" class="button">Pitch a session</a>
+        <h3>Sessions Live June XX</h3>
+        <p>We're reviewing <a href="/sessions/proposals">session proposals</a> now, and will be publishing the final session lineup on June XX.</p>
     </div>
 </aside>
-###You Should Pitch
-Anyone can lead a session, and we encourage you to pitch an idea (or two or three) if you&rsquo;re planning to attend. Great sessions often start out with a relatively simple question or problem. If you&rsquo;ve been struggling with or mulling something over, you can bet other folks have dealt with that too. You won&rsquo;t need prepared slides, just the willingness to lead an engaged conversation or workshop about a topic of interest to journo-coders.
+###What to expect
+SRCCON sessions will be organized as small group conversations and hands-on workshops. The list of accepted proposals will be posted on Thursday, June 19. For a sense of what the news nerd community is excited to work on at SRCCON, check out the [list of proposed sessions](/sessions/proposals).
 
-New to the scene or have an idea but aren&rsquo;t sure if you&rsquo;re up to leading a session? Go ahead and pitch&mdash;we&rsquo;re happy to do leader-prep for anyone who wants to lead a session, and we can probably also match you up with a co-leader who can help keep your nerves under control.
-We look forward to reading your pitches, so please, [submit a session proposal now](pitch).
-
-###How a Pitch Becomes a Session
-Session pitches close on Monday, June 9, and we take five days to sort through everything and assemble a well-balanced conference program. If you&rsquo;ve pitched a session, we&rsquo;ll email you starting on Friday, June 13, to let you know whether your session made it into the program. If it didn&rsquo;t, you&rsquo;ll still be welcome to bring it to SRCCON and put it into the running for one of the session slots we&rsquo;re keeping open until the event begins. We expect to publish the list of planned sessions on Friday, June 20.
-
-**Important:** All SRCCON participants, **including session leaders**, need a ticket to the event. If you have a session accepted, you will have an opportunity to purchase a ticket for **one session leader per accepted session**. If you already have a ticket and haven&rsquo;t yet pitched a session, please consider doing so!
+<b>Important</b>: All SRCCON participants, including session leaders, need a ticket to the event. If you have a session accepted, you will have an opportunity to purchase a ticket for one session leader per accepted session. 
