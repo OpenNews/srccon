@@ -23,11 +23,12 @@ We offer a small number of $500 travel scholarships to attendees for whom the co
 ###Contributing to SRCCON
 We hope that you've purchased a ticket and submitted a session proposal. (If you don't have a ticket, please check out our [registration information](/register) to see how the last tickets are being distributed.)
 
-In addition to preparing yourself for two days of great conversations and building, we appreciate your help spreading the word about SRCCON. If you know someone who might love SRCCON but may not have heard about it, please encourage that person to [propose a session](/sessions/pitch).
+In addition to preparing yourself for two days of great conversations and building, we appreciate your help spreading the word about SRCCON. If you know someone who might love SRCCON but may not have heard about it, please encourage that person to attend.
 
 We're also looking for a small number of [volunteers during the event](/volunteer).
 
 We're going to do our best to document the event and share it back with the entire community. [Please let us know](mailto:srccon@opennews.org) if you have suggestions for ways for us to support remote or asynchronous participation.
+
 
 ###**While in Philly**
 We didn&rsquo;t want you stuck in a conference hotel that could have been anywhere, so we picked a centrally located venue for SRCCON. We encourage you to explore Philadelphia while you&rsquo;re in town. Within five blocks of the Chemical Heritage Foundation are numerous historical sites, museums, bars, restaurants, and entertaining people watching (think: Colonial [LARPing](https://en.wikipedia.org/wiki/Live_action_role-playing_game)). If you&rsquo;d like to venture beyond the Old City neighborhood, check out the transit information below, rent a bike, or keep walking till you hit one of the rivers that bookends downtown Philly.
