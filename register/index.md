@@ -6,7 +6,7 @@ background: chemical
 byline: Photo by <a href="https://www.flickr.com/photos/pmillera4">Paul Miller</a>
 ---
 <div id = "apologybox">
-<h2>More Tickets Coming Soon</h2>
+<h2>More Tickets On Sale June 19</h2>
 
 <p>Due to intense interest in SRCCON, we&rsquo;ve found a few ways to slightly expand the event capacity and open up more seats. We&rsquo;ve already welcomed in the folks who made it onto the wait list Friday, and here&rsquo;s how remaining tickets will be distributed:
 <ul>
