@@ -5,21 +5,16 @@ background: session
 logo: srcconwhite.png
 ---
 
-<p class="bodybig">The SRCCON program will be built around facilitated sessions in which participants hold conversations and workshops about code, data, security, interactive design, and other topics of interest to people who code in news organizations. We&rsquo;re <a href="proposals/">posting proposals</a> every few days as they come in to offer a glimpse at the subjects and formats we're seeing so far.</p>
-<aside class="columns">
-    <div class="col">
-        <h3>Pitch a session</h3>
-        <p>SRCCON is a highly interactive conference.  <a href="http://srccon.org/sessions/proposals/">Check our early session proposals</a> and pitch your own, now through June 9.</p>
-        <a href="/sessions/pitch" class="button">Pitch a session</a>
-    </div>
-</aside>
-###You Should Pitch
-Anyone can lead a session, and we encourage you to pitch an idea (or two or three) if you&rsquo;re planning to attend. Great sessions often start out with a relatively simple question or problem. If you&rsquo;ve been struggling with or mulling something over, you can bet other folks have dealt with that too. You won&rsquo;t need prepared slides, just the willingness to lead an engaged conversation or workshop about a topic of interest to journo-coders.
+<p class="bodybig">The SRCCON program will be built around facilitated sessions in which participants hold conversations and workshops about code, data, security, interactive design, and other topics of interest to people who code in news organizations. Thank you to everyone who <a href="/sessions/proposals">proposed a session</a>. The call for proposals is now closed.</p>
 
-New to the scene or have an idea but aren&rsquo;t sure if you&rsquo;re up to leading a session? Go ahead and pitch&mdash;we&rsquo;re happy to do leader-prep for anyone who wants to lead a session, and we can probably also match you up with a co-leader who can help keep your nerves under control.
-We look forward to reading your pitches, so please, [submit a session proposal now](pitch).
+### What to expect at SRCCON
 
-###How a Pitch Becomes a Session
-Session pitches close on Monday, June 9, and we take five days to sort through everything and assemble a well-balanced conference program. If you&rsquo;ve pitched a session, we&rsquo;ll email you starting on Friday, June 13, to let you know whether your session made it into the program. If it didn&rsquo;t, you&rsquo;ll still be welcome to bring it to SRCCON and put it into the running for one of the session slots we&rsquo;re keeping open until the event begins. We expect to publish the list of planned sessions on Friday, June 20.
+SRCCON will be built around two days of small-group conversations and hands-on workshops that run for an hour or two and a half hours. Check out the [list of proposed sessions](/sessions/proposals) to get a sense of the range of topics and angles you can expect to see on the final sessions list.
 
-**Important:** All SRCCON participants, **including session leaders**, need a ticket to the event. If you have a session accepted, you will have an opportunity to purchase a ticket for **one session leader per accepted session**. If you already have a ticket and haven&rsquo;t yet pitched a session, please consider doing so!
+We&rsquo;ll also be hosting a series of informal evening talks on non-work topics, opening up space for small-group collaboration, and running a hands-on coffee-hacking station. The event takes place in a [walking-friendly area](/logistics/), so during the spaces between sessions and group meals, there will also be plenty of opportunities to get out and enjoy Philadelphia&rsquo;s Old City with friends and colleagues.
+
+### What happens next
+
+The OpenNews team is currently evaluating proposals and building the list of accepted SRCCON sessions. We&rsquo;ll notify accepted session leaders beginning June 13 and publish the session list June 19, and we&rsquo;ll also leave a few session slots open for ideas that develop live at SRCCON.
+
+*Reminder:* All SRCCON participants, including session leaders, need a ticket to the event. If you have a session accepted, you will have an opportunity to purchase a ticket for one session leader per accepted session.
