@@ -48,7 +48,7 @@ When we notify scholarship recipients, we will include information about how to 
 Unfortunately, we are only able to offer $500 scholarships at this time. This is our first time offering these scholarships, so we needed to start with a simple set-up, but we appreciate [any feedback](erika@mozillafoundation.org) on the process.
 
 ### What are other ways I can cover the cost of my travel?
-Luckily, Philadelphia is a relatively cheap city once you arrive. There is a hostel around the corner from the venue, and many other cheap accommodations and food options. Also, this entire site is a [GitHub pages repo](https://github.com/sinker/srccon), so if you say, wanted to add a link to a room-share board, you could go right ahead and do that. Or, you can [email with any suggestions](erika@mozillafoundation.org).
+Luckily, Philadelphia is a relatively cheap city once you arrive. There is a hostel around the corner from the venue, and many other cheap accommodations and food options. Also, this entire site is a [GitHub pages repo](https://github.com/sinker/srccon), so if you say, wanted to add a link to a room-share board, you could go right ahead and do that. Or, you can [email with any suggestions](mailto:erika@mozillafoundation.org).
 
 ### Questions not covered here?
-[Email us](srccon@opennews.org).
+[Email us](mailto:srccon@opennews.org).
