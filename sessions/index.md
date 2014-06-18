@@ -41,7 +41,7 @@ function init() {
 
         // create list items from each record from spreadsheet
         $.each(tabletop.sheets("Sheet1").all(), function(i, proposal) {
-            var hack_li = $('<li><h4 class="title subjectline" id="p'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.sessiontitle + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + formatMultiline(proposal.shortdescription) + '</p><p><b>Who is this session for?</b> ' + proposal.whoisthissessionfor + '</p><p><b>I\'m from: </b>' + proposal.organizationalaffiliation + ' | <a href="http://www.twitter.com/' + proposal.twitterhandle + '">@' + proposal.twitterhandle + '</a> | <span class="permalink"><a href="#p'+ proposal.id +'">permalink</a> for this proposal</span></div></li>');
+            var hack_li = $('<li><h4 class="title subjectline" id="p'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.sessiontitle + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + formatMultiline(proposal.shortdescription) + '</p><p><b>Who is this session for?</b> ' + proposal.whoisthissessionfor + '</p><p><span class="permalink"><a href="#p'+ proposal.id +'">permalink</a> for this proposal</span></div></li>');
             hack_li.appendTo("#proposals");
             //console.log(proposal);
         });
