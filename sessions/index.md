@@ -5,7 +5,7 @@ background: session
 logo: srcconwhite.png
 ---
 
-<p class="bodybig">The following sessions have been accepted to SRCCON, and we thank all who proposed sessions. The session descriptions will continue to evolve in few weeks leading up to SRCCON, and the final schedule will reflect updates as sessions take shape. We've held a few schedule slots open for impromptu sessions, hacking, and skillshares, and we're planning an evening slate of fun, informal talks and discussions.</p>
+<p class="bodybig">The following sessions have been accepted to SRCCON, and we thank all who proposed sessions. The session descriptions will continue to evolve in few weeks leading up to SRCCON, and the final schedule will reflect updates as sessions take shape. We&rsquo;ve held a few schedule slots open for impromptu sessions, hacking, and skillshares, and we&rsquo;re planning an evening slate of fun, informal talks and discussions.</p>
 
 <div id="togglebuttons">
     <div id="show">open all</div>
@@ -18,7 +18,7 @@ logo: srcconwhite.png
 
 ###GETTING TO SRCCON
 
-We have a [logistics page](/logistics) with lots of helpful information about getting around Philadelphia. If you're looking for a hotel room, you have until June 23 [to reserve a room](http://www.wyndham.com/groupevents2014/47153_KNIGHTMOZILLA/main.wnt) at the SRCCON discount rate.
+We have a [logistics page](/logistics) with lots of helpful information about getting around Philadelphia. If you&rsquo;re looking for a hotel room, you have until June 23 [to reserve a room](http://www.wyndham.com/groupevents2014/47153_KNIGHTMOZILLA/main.wnt) at the SRCCON discount rate.
 
 <script type="text/javascript" src="/media/js/tabletop.js"></script>
 <script type="text/javascript">
@@ -41,7 +41,7 @@ function init() {
 
         // create list items from each record from spreadsheet
         $.each(tabletop.sheets("Sheet1").all(), function(i, proposal) {
-            var hack_li = $('<li><h4 class="title subjectline" id="p'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.sessiontitle + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + formatMultiline(proposal.shortdescription) + '</p><p><b>Who is this session for?</b> ' + proposal.whoisthissessionfor + '</p><p><b>I\'m from: </b>' + proposal.organizationalaffiliation + ' | <a href="http://www.twitter.com/' + proposal.twitterhandle + '">@' + proposal.twitterhandle + '</a> | <span class="permalink"><a href="#p'+ proposal.id +'">permalink</a> for this proposal</span></div></li>');
+            var hack_li = $('<li><h4 class="title subjectline" id="p'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.sessiontitle + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + formatMultiline(proposal.shortdescription) + '</p><p><b>Who is this session for?</b> ' + proposal.whoisthissessionfor + '</p><p><span class="permalink"><a href="#p'+ proposal.id +'">permalink</a> for this proposal</span></div></li>');
             hack_li.appendTo("#proposals");
             //console.log(proposal);
         });
