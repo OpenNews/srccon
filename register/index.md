@@ -1,22 +1,15 @@
 ---
-layout: post_notitle
+layout: post
 title: SRCCON Registration
 logo: srcconwhite.png
 background: chemical
 byline: Photo by <a href="https://www.flickr.com/photos/pmillera4">Paul Miller</a>
 ---
-<h2>More Tickets On Sale June 19</h2>
 
-<p>Due to the intense interest in SRCCON, we found a few ways to slightly expand the event capacity and open up more seats.
-<ul>
-<li>We have held tickets for people whose session proposals are accepted, but who haven&rsquo;t yet registered. Those folks will be notified on June 13 and will have three days to complete registration. (If you have pitched a session and plan to be out of contact on those dates, <a href="mailto:srccon@opennews.org">please let us know</a>.)
-
-<li>After that, the remaining tickets will go on open sale today at 2pm ET.
-
-<li><a href="/sponsors">Sponsoring organizations</a> will receive between one and four complimentary tickets at the $1,000 level and above.
-
-<li>Attendees who receive a <a href="/scholarships">travel scholarship</a> and have not yet purchased a ticket will have the opportunity to do so in late June. The deadline for to apply for the $500 travel scholarships is Friday, June 13. (This will be a very limited number of tickets—please don&rsquo;t apply for a travel scholarship as a way to get a ticket.)
-</ul>
-<p>The demand for SRCCON tickets took us by surprise, but it shouldn&rsquo;t have—it&rsquo;s a reflection of the eagerness of this community to spend focused time together planning and building. SRCCON is by design a community-driven event, and we&rsquo;re committed to ensuring that it is accessible, welcoming, and reflects the diversity of the communities we serve.
+<p>Due to the intense interest in SRCCON, we found a few ways to slightly expand the event capacity and open up more seats. We have offered tickets to everyone on the initial wait list, to the leaders of accepted sessions, and to travel scholarship recipients. The remaining pool of tickets is on sale now, and we expect them to go very quickly. If you want to attend and don't have a ticket, please register now!
 
 <p>Thank you for your support, patience, and excitement.
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=11748097877&ref=etckt" frameborder="0" height="247" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Online Ticketing</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://srccon14.eventbrite.com/?ref=etckt">SRCCON</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
+
+<p>Please note: Your credit card will read "Mozilla Foundation" not SRCCON.
