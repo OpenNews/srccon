@@ -5,16 +5,88 @@ background: session
 logo: srcconwhite.png
 ---
 
-<p class="bodybig">The SRCCON program will be built around facilitated sessions in which participants hold conversations and workshops about code, data, security, interactive design, and other topics of interest to people who code in news organizations. Thank you to everyone who <a href="/sessions/proposals">proposed a session</a>. The call for proposals is now closed.</p>
+<p class="bodybig">The following sessions have been accepted to SRCCON, and we thank all who proposed sessions. The session descriptions will continue to evolve in few weeks leading up to SRCCON, and the final schedule will reflect updates as sessions take shape. We've held a few schedule slots open for impromptu sessions, hacking, and skillshares, and we're planning an evening slate of fun, informal talks and discussions.</p>
 
-### What to expect at SRCCON
+<div id="togglebuttons">
+    <div id="show">open all</div>
+    <div id="hide">close all</div>
+</div>
 
-SRCCON will be built around two days of small-group conversations and hands-on workshops that run for an hour or two and a half hours. Check out the [list of proposed sessions](/sessions/proposals) to get a sense of the range of topics and angles you can expect to see on the final sessions list.
+<div id="proposals">
+    <!-- Paste the markdowned tables here -->
+</div>
 
-We&rsquo;ll also be hosting a series of informal evening talks on non-work topics, opening up space for small-group collaboration, and running a hands-on coffee-hacking station. The event takes place in a [walking-friendly area](/logistics/), so during the spaces between sessions and group meals, there will also be plenty of opportunities to get out and enjoy Philadelphia&rsquo;s Old City with friends and colleagues.
+###GETTING TO SRCCON
 
-### What happens next
+We have a [logistics page](/logistics) with lots of helpful information about getting around Philadelphia. If you're looking for a hotel room, you have until June 23 [to reserve a room](http://www.wyndham.com/groupevents2014/47153_KNIGHTMOZILLA/main.wnt) at the SRCCON discount rate.
 
-The OpenNews team is currently evaluating proposals and building the list of accepted SRCCON sessions. We&rsquo;ll notify accepted session leaders beginning June 13 and publish the session list June 19, and we&rsquo;ll also leave a few session slots open for ideas that develop live at SRCCON.
+<script type="text/javascript" src="/media/js/tabletop.js"></script>
+<script type="text/javascript">
+// spinner
+$('<div id="preload"></div>').html('<h3><img src="/media/img/ajax-loader.gif" alt="loading data" /> Processing Latest Proposals</h3>').prependTo($('#proposals'));
 
-*Reminder:* All SRCCON participants, including session leaders, need a ticket to the event. If you have a session accepted, you will have an opportunity to purchase a ticket for one session leader per accepted session.
+window.onload = function() { init() };
+
+function init() {
+    // use tabletop.js to get latest submissions
+    var public_spreadshseet_url = 'https://docs.google.com/spreadsheets/d/1_YQAy2uBtsLLXrLqW5uIrmoUy5mtnFWqDmxl64m9AXE/pubhtml',
+        tabletop = Tabletop.init({
+            key: public_spreadshseet_url,
+            callback: showInfo
+        });
+
+    function showInfo() {
+        // remove spinner
+        $('#preload').hide();
+
+        // create list items from each record from spreadsheet
+        $.each(tabletop.sheets("Sheet1").all(), function(i, proposal) {
+            var hack_li = $('<li><h4 class="title subjectline" id="p'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.sessiontitle + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + formatMultiline(proposal.shortdescription) + '</p><p><b>Who is this session for?</b> ' + proposal.whoisthissessionfor + '</p><p><b>I\'m from: </b>' + proposal.organizationalaffiliation + ' | <a href="http://www.twitter.com/' + proposal.twitterhandle + '">@' + proposal.twitterhandle + '</a> | <span class="permalink"><a href="#p'+ proposal.id +'">permalink</a> for this proposal</span></div></li>');
+            hack_li.appendTo("#proposals");
+            //console.log(proposal);
+        });
+
+        // if page loaded from permalink, automatically expand
+        // record's details and scroll down the page to it
+        if (window.location.hash) {
+            var hash = window.location.hash.substring(1),
+                $target = $('#'+hash);
+
+            $('html, body').animate({
+              scrollTop: $($target).offset().top-100
+            }, 200);
+
+            $target.next().show();
+            $target.find('img').toggleClass('flipup');
+        }
+
+        // let people open/close all records at once
+        $('#togglebuttons').show();
+    }
+}
+
+// utility for maintaining linebreaks in submssions
+var newlines = new RegExp("\\n", "g");
+var formatMultiline = function(str) {
+    return str.replace(newlines,"<br>");
+}
+
+// add click listeners for elements that may not exist yet
+$('.article_body').on('click', '.subjectline', function() {
+    var d = $(this).next();
+    d.slideToggle('fast');
+    $("img", this).toggleClass('flipup');
+});
+$('.article_body').on('click', '#show', function() {
+    $('.detailbox').slideDown('fast');
+    $('#show').hide();
+    $('#hide').show();
+    $('.subjectline img').addClass('flipup');
+});
+$('.article_body').on('click', '#hide', function() {
+    $('.detailbox').slideUp('fast');
+    $('#show').show();
+    $('#hide').hide();
+    $('.subjectline img').removeClass('flipup');
+});
+</script>
