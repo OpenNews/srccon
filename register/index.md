@@ -6,7 +6,7 @@ background: chemical
 byline: Photo by <a href="https://www.flickr.com/photos/pmillera4">Paul Miller</a>
 ---
 
-<p>Due to the intense interest in SRCCON, we found a few ways to slightly expand the event capacity and open up more seats. We have offered tickets to everyone on the initial wait list, to the leaders of accepted sessions, and to travel scholarship recipients. The remaining pool of tickets is on sale now, and we expect them to go very quickly. If you want to attend and don't have a ticket, please register now!
+<p>Due to the intense interest in SRCCON, we found a few ways to slightly expand the event capacity and open up more seats. We have offered tickets to everyone on the initial wait list, to the leaders of accepted sessions, and to travel scholarship recipients. The remaining pool of tickets is on sale now, and we expect them to go very quickly. If you want to attend and don&rsquo;t have a ticket, please register now!
 
 <p>Thank you for your support, patience, and excitement.
 
