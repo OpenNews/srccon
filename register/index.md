@@ -11,7 +11,7 @@ byline: Photo by <a href="https://www.flickr.com/photos/pmillera4">Paul Miller</
 <ul>
 <li>We have held tickets for people whose session proposals are accepted, but who haven&rsquo;t yet registered. Those folks will be notified on June 13 and will have three days to complete registration. (If you have pitched a session and plan to be out of contact on those dates, <a href="mailto:srccon@opennews.org">please let us know</a>.)
 
-<li>After that, the remaining tickets will go on open sale June 19.
+<li>After that, the remaining tickets will go on open sale today at 2pm ET.
 
 <li><a href="/sponsors">Sponsoring organizations</a> will receive between one and four complimentary tickets at the $1,000 level and above.
 
