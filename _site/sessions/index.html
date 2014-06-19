@@ -103,7 +103,7 @@ function init() {
         // create list items from each record from spreadsheet
         $.each(tabletop.sheets("Sheet1").all(), function(i, proposal) {
             twitterLinks = formatTwitterLinks(proposal.twitterhandles);
-            
+
             hack_li = '<li>';
             // session title
             hack_li += '<h4 class="title subjectline" id="p'+ proposal.id +'"><img src="/media/img/triangle.png">' + formatPrettyText(proposal.sessiontitle) + '<span class="proposalauthor"> | ' + proposal.responseidentifier + '</span></h4>';
@@ -165,7 +165,7 @@ var formatPrettyText = function(str) {
 }
 var formatTwitterLinks = function(handles) {
     var twitterLinks = [];
-    
+
     if (handles) {
         var handleList = handles.split(','),
             cleanHandle;
@@ -175,7 +175,7 @@ var formatTwitterLinks = function(handles) {
             twitterLinks.push('<a href="https://twitter.com/'+cleanHandle+'">@'+cleanHandle+'</a>');
         })
     }
-    
+
     return twitterLinks;
 }
 
