@@ -5,7 +5,7 @@ background: session
 logo: srcconwhite.png
 ---
 
-<p class="bodybig">The following sessions have been accepted to SRCCON, and we thank all who proposed sessions. The session descriptions will continue to evolve in few weeks leading up to SRCCON, and the final schedule will reflect updates as sessions take shape. We've held a few schedule slots open for impromptu sessions, hacking, and skillshares, and we're planning an evening slate of fun, informal talks and discussions.</p>
+<p class="bodybig">The following sessions have been accepted to SRCCON, and we thank all who proposed sessions. The session descriptions will continue to evolve in few weeks leading up to SRCCON, and the final schedule will reflect updates as sessions take shape. We&rsquo;ve held a few schedule slots open for impromptu sessions, hacking, and skillshares, and we&rsquo;re planning an evening slate of fun, informal talks and discussions.</p>
 
 <div id="togglebuttons">
     <div id="show">open all</div>
@@ -18,12 +18,12 @@ logo: srcconwhite.png
 
 ###GETTING TO SRCCON
 
-We have a [logistics page](/logistics) with lots of helpful information about getting around Philadelphia. If you're looking for a hotel room, you have until June 23 [to reserve a room](http://www.wyndham.com/groupevents2014/47153_KNIGHTMOZILLA/main.wnt) at the SRCCON discount rate.
+We have a [logistics page](/logistics) with lots of helpful information about getting around Philadelphia. If you&rsquo;re looking for a hotel room, you have until June 23 [to reserve a room](http://www.wyndham.com/groupevents2014/47153_KNIGHTMOZILLA/main.wnt) at the SRCCON discount rate.
 
 <script type="text/javascript" src="/media/js/tabletop.js"></script>
 <script type="text/javascript">
 // spinner
-$('<div id="preload"></div>').html('<h3><img src="/media/img/ajax-loader.gif" alt="loading data" /> Processing Latest Proposals</h3>').prependTo($('#proposals'));
+$('<div id="preload"></div>').html('<h3><img src="/media/img/ajax-loader.gif" alt="loading data" /> Processing Sessions</h3>').prependTo($('#proposals'));
 
 window.onload = function() { init() };
 
@@ -36,14 +36,37 @@ function init() {
         });
 
     function showInfo() {
+        var hack_li,
+            suffix,
+            twitterLinks;
+
         // remove spinner
         $('#preload').hide();
 
         // create list items from each record from spreadsheet
         $.each(tabletop.sheets("Sheet1").all(), function(i, proposal) {
-            var hack_li = $('<li><h4 class="title subjectline" id="p'+ proposal.id +'"><img src="/media/img/triangle.png">' + proposal.sessiontitle + '<span class="proposalauthor"> | proposed by ' + proposal.responseidentifier + '</span></h4><div class="detailbox"><p class="description">' + formatMultiline(proposal.shortdescription) + '</p><p><b>Who is this session for?</b> ' + proposal.whoisthissessionfor + '</p><p><b>I\'m from: </b>' + proposal.organizationalaffiliation + ' | <a href="http://www.twitter.com/' + proposal.twitterhandle + '">@' + proposal.twitterhandle + '</a> | <span class="permalink"><a href="#p'+ proposal.id +'">permalink</a> for this proposal</span></div></li>');
-            hack_li.appendTo("#proposals");
-            //console.log(proposal);
+            twitterLinks = formatTwitterLinks(proposal.twitterhandles);
+
+            hack_li = '<li>';
+            // session title
+            hack_li += '<h4 class="title subjectline" id="p'+ proposal.id +'"><img src="/media/img/triangle.png">' + formatPrettyText(proposal.sessiontitle) + '<span class="proposalauthor"> | ' + proposal.responseidentifier + '</span></h4>';
+            // session details
+            hack_li += '<div class="detailbox">';
+            // session description
+            hack_li += '<p class="description">' + formatMultiline(formatPrettyText(proposal.shortdescription)) + '</p>';
+            // session who this is for
+            hack_li += '<p><b>Who is this session for?</b> ' + formatPrettyText(proposal.whoisthissessionfor) + '</p>';
+            // session leader twitter links
+            hack_li += '<p>';
+            if (twitterLinks.length) {
+                suffix = (twitterLinks.length > 1) ? 's' : '';
+                hack_li += '<b>Session leader'+suffix+' on Twitter:</b> ' + twitterLinks.join(', ') + ' | ';
+            }
+            // session permalink
+            hack_li += '<span class="permalink"><a href="#p'+ proposal.id +'">permalink for this proposal</a></span></p>';
+            hack_li += '</div></li>';
+
+            $(hack_li).appendTo("#proposals");
         });
 
         // if page loaded from permalink, automatically expand
@@ -65,10 +88,38 @@ function init() {
     }
 }
 
-// utility for maintaining linebreaks in submssions
-var newlines = new RegExp("\\n", "g");
+// utilities for formatting proposal text
+var newlines = new RegExp('\\n', 'g');
 var formatMultiline = function(str) {
-    return str.replace(newlines,"<br>");
+    return str.replace(newlines,'<br>');
+}
+var formatPrettyText = function(str) {
+    return str
+        /* opening singles */
+        .replace(/(^|[-\u2014\s(\["])'/g, "$1\u2018")
+        /* closing singles & apostrophes */
+        .replace(/'/g, "\u2019")
+        /* opening doubles */
+        .replace(/(^|[-\u2014/\[(\u2018\s])"/g, "$1\u201c")
+        /* closing doubles */
+        .replace(/"/g, "\u201d")
+        /* em-dashes */
+        .replace(/--/g, "\u2014");
+}
+var formatTwitterLinks = function(handles) {
+    var twitterLinks = [];
+
+    if (handles) {
+        var handleList = handles.split(','),
+            cleanHandle;
+
+        $.each(handleList, function(i, handle) {
+            cleanHandle = $.trim(handle).replace('@','');
+            twitterLinks.push('<a href="https://twitter.com/'+cleanHandle+'">@'+cleanHandle+'</a>');
+        })
+    }
+
+    return twitterLinks;
 }
 
 // add click listeners for elements that may not exist yet
