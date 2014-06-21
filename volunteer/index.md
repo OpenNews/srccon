@@ -12,6 +12,6 @@ Volunteers will help with:
 * set-up and clean-up
 * those unexpected tasks that always come up during an event.
 
-Volunteering will be a significant time commitment. For offering that time and missing out on some (but not all!) of the festivities, you will have our gratitude, free entry to the event, a SRCCON Volunteer T-shirt, and the knowledge that you played an integral role in making the first SRCCON a success. If you are only looking for ways to make SRCCON more affordable, consider applying for a [travel scholarship](/scholarships).
+Volunteering will be a significant time commitment. For offering that time and missing out on some (but not all!) of the festivities, you will have our gratitude, free entry to the event, a SRCCON Volunteer T-shirt, and the knowledge that you played an integral role in making the first SRCCON a success.
 
 If you want to attend SRCCON and are excited about playing this type of (vital!) support role, please [email us](srccon@opennews.org) for information about volunteering.

@@ -17,9 +17,6 @@ We reserved a block of hotels at the [Wyndham Historic District Hotel](http://ww
 Philly is very well-served by the [Philadelphia International Airport](http://www.phl.org/Pages/HomePage.aspx), [Amtrak&rsquo;s 30th Street Station](http://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&code=PHL), and [numerous](http://megabus.com/) [bus](http://www.gotobus.com/yobus/) [companies](https://www.greyhound.com/default.aspx).
 There is a public transit train (called regional rail) from the airport to Center City (downtown area). Tickets are $6.50 if you buy from a kiosk on the platform or $8 if purchased on the train. Get off at the &ldquo;Market East&rdquo; stop and you&rsquo;ll be a short walk from the venue.
 
-###Scholarships for SRCCON
-We offer a small number of $500 travel scholarships to attendees for whom the cost to attend would otherwise be prohibitive. Travel scholarship [applications are open](/scholarships) until June 13.
-
 ###Contributing to SRCCON
 We hope that you&rsquo;ve purchased a ticket and submitted a session proposal. (If you don&rsquo;t have a ticket, please check out our [registration information](/register) to see how the last tickets are being distributed.)
 
