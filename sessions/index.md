@@ -4,46 +4,8 @@ title: SRCCON Sessions
 background: session
 logo: srcconwhite.png
 ---
-###Schedule
 
-**Thursday**
-<table class="schedule">
-<tr>
-<td>9am</td><td>registration opens</td>
-</tr>
-<tr>
-<td>10am</td><td>SRCCON begins!</td>
-<tr>
-<td>Lunch</td><td>free period—get outdoors and explore</td>
-</tr>
-<tr>
-<td>Dinner</td><td>served at the venue</td>
-</tr>
-<tr>
-<td>Evening</td><td>games, fun skillshares, games, and short talks on extracurricular enthusiasms</td>
-</tr>
-</table>
-
-**Friday**
-<table class="schedule">
-<tr>
-<td>10am</td><td>breakfast at the venue</td>
-</tr>
-<tr>
-<td>11am</td><td>sessions begin</td>
-</tr>
-<tr>
-<td>Lunch</td><td>served at the venue</td>
-</tr>
-<tr>
-<td>6pm</td><td>Closing ceremony</td>
-</tr>
-<tr>
-<td>6:35pm</td><td>Planning for next year begins</td>
-</tr>
-</table>
-
-We will publish the final schedule on 7/17. The list of accepted sessions is below.
+<p class="bodybig">Pitched by the community, sessions are the lifeblood of SRCCON. We will publish the final schedule on 7/17.  The list of accepted sessions is below. For more details about SRCCON and a sketch of the schedule, check out the <a href="/logistics">logistics</a> page.</p>
 
 <div id="togglebuttons">
     <div id="show">open all</div>
@@ -54,9 +16,6 @@ We will publish the final schedule on 7/17. The list of accepted sessions is bel
     <!-- Paste the markdowned tables here -->
 </div>
 
-###GETTING TO SRCCON
-
-We have a [logistics page](/logistics) with lots of helpful information about getting around Philadelphia. If you&rsquo;re looking for a hotel room, you have until June 23 [to reserve a room](http://www.wyndham.com/groupevents2014/47153_KNIGHTMOZILLA/main.wnt) at the SRCCON discount rate.
 
 <script type="text/javascript" src="/media/js/tabletop.js"></script>
 <script type="text/javascript">

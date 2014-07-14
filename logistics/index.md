@@ -39,16 +39,16 @@ byline: Photo by <a href="https://secure.flickr.com/photos/radio_free_rlyeh/5744
 <td>Lunch</td><td>served at the venue</td>
 </tr>
 <tr>
-<td>6pm</td><td>Closing ceremony</td>
+<td>6pm</td><td>SRCCON ends!</td>
 </tr>
 <tr>
-<td>6:35pm</td><td>Planning for next year begins</td>
+<td>6:05pm</td><td>planning for next year begins</td>
 </tr>
 </table>
 
 ###**Venue & Lodging**
 SRCCON will take place at the [Chemical Heritage Foundation](http://www.chemheritage.org/), a museum and event space in the Old City neighborhood of Philadelphia.
-The [hotel](http://www.phillydowntownhotel.com/) where our conference block was reserved is sold out, but Old City is filled with other hotels, and Airbnb is also a good option for those who want more space or to share an apartment. If you're looking for a room at the last minute, check out the [SRCCON info-share etherpad](https://etherpad.mozilla.org/SRCCON2014) and add your specifications.
+The [hotel](http://www.phillydowntownhotel.com/) where our conference block was reserved is sold out, but Old City is filled with other hotels, and Airbnb is also a good option for those who want more space or to share an apartment. If you&rsquo;re looking for a room at the last minute, check out the [SRCCON info-share etherpad](https://etherpad.mozilla.org/SRCCON2014) and add your specifications.
 
 ###**Getting Ready for SRCCON**
 SRRCON is a conference built around participation, and you'll get the most out of it if you think of sessions as collective skillshares and group problem-solving huddles rather than talks or presentations. In general, a great SRCCON session is:
@@ -58,35 +58,35 @@ SRRCON is a conference built around participation, and you'll get the most out o
 * generous with expertise and with time
 * oriented toward next steps and building, not just discussing
 
-It's rare for coders and designers in and near news organizations to get a chance to spend much hands-on time together getting better at what they do—come ready to make the most of that time and you'll do fine.
+It&rsquo;s rare for coders and designers in and near news organizations to get a chance to spend much hands-on time together getting better at what they do—come ready to make the most of that time and you&rsquo;ll do fine.
 
 And before you board your plane/train/automobile to head to the venue, please take a quick look at the [code of conduct](http://srccon.org/conduct/), which encourages active displays of respect and empathy to make this event welcoming and safe for all.
 
 ###Thursday Night Fun
-During the day, SRCCON is focused on the work we do. At night, we want to concentrate on the things we're passionate about outside the day-to-day. On Thursday, July 24, we'll host an evening of non-work skillshares, games, and informal talks on extracurricular interests and obsessions, from travel hacking to gardening to pie.
+During the day, SRCCON is focused on the work we do. At night, we want to concentrate on the things we&rsquo;re passionate about outside the day-to-day. On Thursday, July 24, we&rsquo;ll host an evening of non-work skillshares, games, and informal talks on extracurricular interests and obsessions, from travel hacking to gardening to pie.
 
-For Thursday, we'd love it if you brought something you love, to share: a bottle or two of a local brew you especially like, games to play in our evening game room (don't worry: we'll supply the Magic cards for a draft tournament), and no doubt more things we're not even thinking of.
+For Thursday, we&rsquo;d love it if you brought something you love, to share: a bottle or two of a local brew you especially like, games to play in our evening game room (don&rsquo;t worry: we&rsquo;ll supply the Magic cards for a draft tournament), and no doubt more things we&rsquo;re not even thinking of.
 
-(If you're leading a session, check out our Session Leaders info below.)
+(If you&rsquo;re leading a session, check out our Session Leaders info below.)
 
 On practical matters, you can share housing/rides/other info with other attendees in the [SRCCON info-share etherpad](https://etherpad.mozilla.org/SRCCON2014).
 
 ###Session Leaders Info
-We've had contact with all of you at some point, and a few common questions and tips have emerged from those conversations:
+We&rsquo;ve had contact with all of you at some point, and a few common questions and tips have emerged from those conversations:
 
-* Think conversation rather than presentation. You'll be in a room full of fellow experts, so look for the juicy problems you can solve together, or just hash through in a useful way.
-* Don't bring slides, do be prepared to break your session into smaller groups if it's extra-popular. Sessions should scale whether there are 5, 15, or 50 people in the room and a great way to make that happen is to plan to spend the bulk of your session in small groups.
-* Plan to use your expertise and your organization's experiences and methods as a way to frame a broader conversation, rather than the primary focus of your session.
+* Think conversation rather than presentation. You&rsquo;ll be in a room full of fellow experts, so look for the juicy problems you can solve together, or just hash through in a useful way.
+* Don&rsquo;t bring slides, do be prepared to break your session into smaller groups if it&rsquo;s extra-popular. Sessions should scale whether there are 5, 15, or 50 people in the room and a great way to make that happen is to plan to spend the bulk of your session in small groups.
+* Plan to use your expertise and your organization&rsquo;s experiences and methods as a way to frame a broader conversation, rather than the primary focus of your session.
 * If you want to demo or do live code as part of the frame of your session, do some advance prep to make sure you have the best shot at a smooth session. We advise you to:
 
   * edit your session description to include a list of dependencies so (at least some) people can install in advance;
   * get there early and write those instructions up on a board in your room, then exhort people to install while they wait for the session to begin;
   * if possible, have things on a thumb drive to share around;
-  * and have a fallback plan in mind for handling sad-trombone events (e.g., let's learn about pair programming, and everyone buddy up with someone who's got things installed!)
+  * and have a fallback plan in mind for handling sad-trombone events (e.g., let&rsquo;s learn about pair programming, and everyone buddy up with someone who&rsquo;s got things installed!)
 
 Aspiration Tech, our friends who advise on the Mozilla Festival, which helped shape SRCCON, also have some [great guides](http://facilitation.aspirationtech.org/index.php?title=Main_Page) on [break out sessions](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Break-Outs) and [facilitating](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Facilitator_Guidelines).
 
-On a purely practical note, the rooms the Chemical Heritage Museum vary in size from 10 to 80 people, and they will all be configured "banquet" style, which means tables in clumps, with chairs around them all. Everything is on wheels though and the whole room is reconfigurable, and all rooms have a basic AV setup (projector/screen). But don't bring slides!
+On a purely practical note, the rooms the Chemical Heritage Museum vary in size from 10 to 80 people, and they will all be configured "banquet" style, which means tables in clumps, with chairs around them all. Everything is on wheels though and the whole room is reconfigurable, and all rooms have a basic AV setup (projector/screen). But don&rsquo;t bring slides!
 
 ###Getting to the Venue
 Philly is very well-served by the [Philadelphia International Airport](http://www.phl.org/Pages/HomePage.aspx), [Amtrak&rsquo;s 30th Street Station](http://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&code=PHL), and [numerous](http://megabus.com/) [bus](http://www.gotobus.com/yobus/) [companies](https://www.greyhound.com/default.aspx).
@@ -118,7 +118,7 @@ We&rsquo;re researching options on how to support attendees who need childcare. 
 Philly has several [hacker and maker spaces](http://hackerspaces.org/wiki/Philadelphia), which are all a relatively quick transit ride from the venue.
 
 ###Remote Participation
-SRCCON is a conversational, small-group-centric event rather than a series of presentations, which means it doesn't lend itself well to livestreaming. We are working out a few ways for people who aren't at the event to gain access to some of the ideas and conversations that emerge, and will publish details here when we have them.
+SRCCON is a conversational, small-group-centric event rather than a series of presentations, which means it doesn&rsquo;t lend itself well to livestreaming. We are working out a few ways for people who aren&rsquo;t at the event to gain access to some of the ideas and conversations that emerge, and will publish details here when we have them.
 
 ###Want more info?
 We&rsquo;re still building out this page so if you have any questions, just [email Erika Owens](mailto:erika@mozillafoundation.org) and we&rsquo;ll research your question and update the site.
