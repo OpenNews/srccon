@@ -337,6 +337,19 @@ font-size: 0.9em;
 font-family: Helvetica, Verdana, Arial, sans-serif;
 }
 
+table.schedule {
+	width: 80%;
+}
+
+table.schedule tr td:nth-child(1)  {
+	width: 80px;
+}
+
+table.schedule tr td:nth-child(2)  {
+	text-align: left;
+	padding-left: 20px;
+}
+
 table  {
 	width: 80%;
 	line-height: 1.6em;

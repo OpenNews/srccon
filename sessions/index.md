@@ -4,8 +4,46 @@ title: SRCCON Sessions
 background: session
 logo: srcconwhite.png
 ---
+###Schedule
 
-<p class="bodybig">The following sessions have been accepted to SRCCON, and we thank all who proposed sessions. The session descriptions will continue to evolve in few weeks leading up to SRCCON, and the final schedule will reflect updates as sessions take shape. We&rsquo;ve held a few schedule slots open for impromptu sessions, hacking, and skillshares, and we&rsquo;re planning an evening slate of fun, informal talks and discussions.</p>
+**Thursday**
+<table class="schedule">
+<tr>
+<td>9am</td><td>registration opens</td>
+</tr>
+<tr>
+<td>10am</td><td>SRCCON begins!</td>
+<tr>
+<td>Lunch</td><td>free period—get outdoors and explore</td>
+</tr>
+<tr>
+<td>Dinner</td><td>served at the venue</td>
+</tr>
+<tr>
+<td>Evening</td><td>games, fun skillshares, games, and short talks on extracurricular enthusiasms</td>
+</tr>
+</table>
+
+**Friday**
+<table class="schedule">
+<tr>
+<td>10am</td><td>breakfast at the venue</td>
+</tr>
+<tr>
+<td>11am</td><td>sessions begin</td>
+</tr>
+<tr>
+<td>Lunch</td><td>served at the venue</td>
+</tr>
+<tr>
+<td>6pm</td><td>Closing ceremony</td>
+</tr>
+<tr>
+<td>6:35pm</td><td>Planning for next year begins</td>
+</tr>
+</table>
+
+We will publish the final schedule on 7/17. The list of accepted sessions is below.
 
 <div id="togglebuttons">
     <div id="show">open all</div>
