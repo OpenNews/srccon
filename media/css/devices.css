@@ -257,6 +257,22 @@ article header p {
 	margin: 0 0 0 10px;
 	border: none;
 }
+
+span.spnsr {
+	position: relative;
+	top: 5px;
+	font-size: .8em;
+}
+
+#partnersponsor {
+	margin-top: 25px;
+}
+
+ul.sponsorlist li img {
+	margin-right: 20px;
+}
+
+
 #involved, #minifellows, #newsbox, #sourcebox {
 	margin-bottom: 50px;
 }
