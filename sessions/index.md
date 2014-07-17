@@ -19,6 +19,12 @@ logo: srcconwhite.png
 
 <script type="text/javascript" src="/media/js/tabletop.js"></script>
 <script type="text/javascript">
+
+if (window.location.href.indexOf('http://www.srccon.org/schedule') === 0) {
+  window.location.href = 'http://schedule.srccon.org';
+}
+
+
 // spinner
 $('<div id="preload"></div>').html('<h3><img src="/media/img/ajax-loader.gif" alt="loading data" /> Processing Sessions</h3>').prependTo($('#proposals'));
 

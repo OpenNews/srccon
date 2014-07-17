@@ -75,6 +75,12 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 <script type="text/javascript" src="/media/js/tabletop.js"></script>
 
 <script type="text/javascript">
+
+if (window.location.href.indexOf('http://www.srccon.org/schedule') === 0) {
+  window.location.href = 'http://schedule.srccon.org';
+}
+
+
 // spinner
 $('<div id="preload"></div>').html('<h3><img src="/media/img/ajax-loader.gif" alt="loading data" /> Processing Sessions</h3>').prependTo($('#proposals'));
 
@@ -220,7 +226,7 @@ $('.article_body').on('click', '#hide', function() {
                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                 <ul>
                 <li><a href="/conduct">Code of conduct</a>
-                <li><a href="/sponsors">Sponsorship</a>
+                <li><a href="/sponsors">Our sponsors</a>
                 <li><a href="http://twitter.com/srccon" class="twitter-follow-button" data-show-count="false">@srccon</a></li>
 
                <li>Join our <a href="https://source.opennews.org/en-US/subscribe/">mailing list</a></li>
