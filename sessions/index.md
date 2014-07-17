@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_redirect
 title: SRCCON Sessions
 background: session
 logo: srcconwhite.png
