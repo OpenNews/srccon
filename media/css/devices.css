@@ -258,15 +258,14 @@ article header p {
 	border: none;
 }
 
+ul.sponsorlist {
+	text-align: center;
+}
+
 #sponsorpage ul {
 	list-style-type: none;
 	margin-left: 0;
 	padding-left: 0;
-}
-
-#sponsorpage ul.toplevel li img {
-	margin-top: 25px;
-	width: 100%;
 }
 
 #sponsorpage ul.nextlevel {
@@ -1122,7 +1121,12 @@ a.button:hover, #togglebuttons #show:hover, #togglebuttons #hide:hover {
 }
 
 @media screen and (max-width: 480px) {
-    .philly, .session, .chemical, .oldcity {
+    #sponsorpage ul.toplevel li img {
+					margin-top: 25px;
+					width: 100%;
+				}
+
+		.philly, .session, .chemical, .oldcity {
         height: 200px;
         margin-bottom: 25px;
     }
