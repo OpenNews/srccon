@@ -134,6 +134,72 @@ display: inline;
 	background-color: rgba(189, 83, 0, 0.5);
 }
 
+span.spnsr {
+  position: relative;
+  top: 5px;
+  font-size: .8em;
+}
+
+#partnersponsor {
+  margin-top: 25px;
+}
+
+#sponsorpage li {
+  list-style-type: none;
+  padding-top: 25px;
+}
+
+#sponsorpage ul {
+  margin-top: 20px;
+  margin-left: 0;
+  padding-left: 0;
+  clear: both;
+}
+
+#sponsorpage ul.toplevel li img {
+  float: left;
+  margin-right: 20px;
+  margin-top: 25px;
+}
+
+#sponsorpage ul.toplevel li:nth-child(3) img {
+  float: left;
+  margin-right: 20px;
+  margin-top: 100px;
+}
+
+#sponsorpage ul.toplevel li p  {
+  margin-left: 420px;
+}
+
+#sponsorpage ul.nextlevel li, #sponsorpage ul.stationlevel li  {
+  display: inline;
+  padding-left: 50px;
+}
+
+#sponsorpage div#two, #sponsorpage div#three {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.floatleft {
+  margin-right: 25px;
+  float: left;
+}
+
+ul.
+
+.floatright {
+  float: right;
+  margin-left: 25px;
+}
+
+ul.sponsorlist li img {
+  margin-right: 20px;
+}
+
+
+
 @media screen and (max-width: 1000px) {
     .busta {
         padding: 0 20px;

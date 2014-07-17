@@ -258,70 +258,24 @@ article header p {
 	border: none;
 }
 
-span.spnsr {
-	position: relative;
-	top: 5px;
-	font-size: .8em;
-}
-
-#partnersponsor {
-	margin-top: 25px;
-}
-
-#sponsorpage li {
-	list-style-type: none;
-	padding-top: 25px;
-}
-
 #sponsorpage ul {
-	margin-top: 20px;
+	list-style-type: none;
 	margin-left: 0;
 	padding-left: 0;
-	clear: both;
 }
 
 #sponsorpage ul.toplevel li img {
-	float: left;
-	margin-right: 20px;
 	margin-top: 25px;
+	width: 100%;
 }
 
-#sponsorpage ul.toplevel li:nth-child(3) img {
-	float: left;
-	margin-right: 20px;
-	margin-top: 100px;
-}
-
-#sponsorpage ul.toplevel li p  {
-	margin-left: 420px;
-}
-
-#sponsorpage ul.nextlevel li, #sponsorpage ul.stationlevel li  {
-	display: inline;
-	padding-left: 50px;
-}
-
-#sponsorpage div#two, #sponsorpage div#three {
+#sponsorpage ul.nextlevel {
 	text-align: center;
-	margin-top: 50px;
 }
 
-.floatleft {
-	margin-right: 25px;
-	float: left;
+#sponsorpage ul.stationlevel {
+	text-align: center;
 }
-
-ul.
-
-.floatright {
-	float: right;
-	margin-left: 25px;
-}
-
-ul.sponsorlist li img {
-	margin-right: 20px;
-}
-
 
 #involved, #minifellows, #newsbox, #sourcebox {
 	margin-bottom: 50px;
