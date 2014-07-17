@@ -258,10 +258,6 @@ article header p {
 	border: none;
 }
 
-ul.sponsorlist {
-	text-align: center;
-}
-
 #sponsorpage ul {
 	list-style-type: none;
 	margin-left: 0;
@@ -1091,6 +1087,12 @@ a.button:hover, #togglebuttons #show:hover, #togglebuttons #hide:hover {
 }
 
 @media screen and (max-width: 768px) {
+
+	ul.sponsorlist li img {
+		margin-top: 25px;
+	}
+
+
     .philly, .session, .chemical, .oldcity {
         height: 400px;
     }
