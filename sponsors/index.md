@@ -14,7 +14,7 @@ logo: srccon_logo.png
 <p><a href="http://www.wordpress.org">WordPress</a> is a free and open source publishing platform that gives a voice to millions. It's the most popular and fastest growing platform on the web, powering more than 22.7% of the top 10 million websites today. From breaking news sites, to the biggest brands in media and enterprise, to government organizations, to personal blogs, WordPress helps to simplify and democratize publishing around the world.</p>
 
 <li><a href="http://www.fivethirtyeight.com"><img src="/media/img/partners/fivethirtyeight_500.png"></a>
-<p><a href="="http://www.fivethirtyeight.com">FiveThirtyEight</a> is a news and analytics website. Part newspaper, part think tank and part research lab, FiveThirtyEight uses the tools of mathematics, economics, statistics and the social sciences to cover current affairs and culture, separating meaningful statistical relationships from coincidental ones, explaining how different factors can affect events and outcomes, and making precise and accurate predictions for a general audience.</p>
+<p><a href="http://www.fivethirtyeight.com">FiveThirtyEight</a> is a news and analytics website. Part newspaper, part think tank and part research lab, FiveThirtyEight uses the tools of mathematics, economics, statistics and the social sciences to cover current affairs and culture, separating meaningful statistical relationships from coincidental ones, explaining how different factors can affect events and outcomes, and making precise and accurate predictions for a general audience.</p>
 </ul>
 <div id="two">
 <ul class="nextlevel">
