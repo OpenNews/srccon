@@ -13,7 +13,7 @@ SRCCON participants agree to:
 * Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any member of the conference team in person, via the team phone/text line, or via email.
 * Take care of each other. Alert a member of the conference team if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 
-**HOW TO REACH US**: Members of the conference team will be available via voice or text at: *(SRC)CON-2909 | (772)266-2909*
+**HOW TO REACH US**: Members of the conference team will be available via voice or text at: **(SRC)CON-2909 | (772)266-2909**
 
 If any attendee engages in harassing behavior, the conference organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the conference team with a concise description of your grievance; any grievances filed will be considered by the entire OpenNews team.)
 
