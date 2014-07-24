@@ -9,49 +9,14 @@ byline: Photo by <a href="https://secure.flickr.com/photos/radio_free_rlyeh/5744
 
 ###Schedule
 
-**Thursday**
-<table class="schedule">
-<tr>
-<td>9am</td><td>registration opens</td>
-</tr>
-<tr>
-<td>10am</td><td>SRCCON begins!</td>
-<tr>
-<td>Lunch</td><td>free period—get outdoors and explore</td>
-</tr>
-<tr>
-<td>Dinner</td><td>served at the venue</td>
-</tr>
-<tr>
-<td>Evening</td><td>games, fun skillshares, games, and short talks on extracurricular enthusiasms</td>
-</tr>
-</table>
-
-**Friday**
-<table class="schedule">
-<tr>
-<td>10am</td><td>breakfast at the venue</td>
-</tr>
-<tr>
-<td>11am</td><td>sessions begin</td>
-</tr>
-<tr>
-<td>Lunch</td><td>served at the venue</td>
-</tr>
-<tr>
-<td>6pm</td><td>SRCCON ends!</td>
-</tr>
-<tr>
-<td>6:05pm</td><td>planning for next year begins</td>
-</tr>
-</table>
+Visit our schedule at [schedule.srccon.org.](http://schedule.srccon.org)
 
 ###**Venue & Lodging**
 SRCCON will take place at the [Chemical Heritage Foundation](http://www.chemheritage.org/), a museum and event space in the Old City neighborhood of Philadelphia.
 The [hotel](http://www.phillydowntownhotel.com/) where our conference block was reserved is sold out, but Old City is filled with other hotels, and Airbnb is also a good option for those who want more space or to share an apartment. If you&rsquo;re looking for a room at the last minute, check out the [SRCCON info-share etherpad](https://etherpad.mozilla.org/SRCCON2014) and add your specifications.
 
 ###**Getting Ready for SRCCON**
-SRRCON is a conference built around participation, and you'll get the most out of it if you think of sessions as collective skillshares and group problem-solving huddles rather than talks or presentations. In general, a great SRCCON session is:
+SRCCON is a conference built around participation, and you'll get the most out of it if you think of sessions as collective skillshares and group problem-solving huddles rather than talks or presentations. In general, a great SRCCON session is:
 
 * participatory and hands-on
 * flexible and responsive to the needs and questions of attendees
