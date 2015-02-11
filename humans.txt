@@ -1,3 +1,3 @@
 SRCCON is the site for the SRCCON conference, July 24 & 25 in Philly USA.
 
-This site was built by Dan Sinker, Ryan Pitts, Erika Owens, and Erin Kissane. We are TEAM OPENNEWS.
+This site was built by Dan Sinker, Erin Kissane, Ryan Pitts, and Erika Owens. We are TEAM OPENNEWS.
