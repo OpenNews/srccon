@@ -4,7 +4,7 @@ title: SRCCON Logistics
 background: oldcity
 logo: srcconwhite.png
 byline: Photo by <a href="https://secure.flickr.com/photos/radio_free_rlyeh/5744633267">R'lyeh Imaging</a>
-permalink: /logistics/index.html
+permalink: /location/index.html
 ---
 <p class="bodybig">Join us in Old City Philadelphia July 24 & 25 for the first annual SRCCON. Two days of making, thinking, and talking together. We can&rsquo;t wait for you to join us.</p>
 
