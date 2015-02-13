@@ -2,7 +2,7 @@
 layout: post
 title: Thanks for pitching!
 logo: srccon_logo.png
-permalink: /sessions/thanks/index.html
+#permalink: /sessions/thanks/index.html
 
 ---
 

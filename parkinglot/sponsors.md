@@ -2,7 +2,7 @@
 layout: post
 title: Sponsor SRCCON
 logo: srccon_logo.png
-permalink: /sponsors/index.html
+#permalink: /sponsors/index.html
 ---
 <p class="bodybig">Want to engage the journalism-code community? Become a sponsor of our first SRCCON, a two-day event this July 24 & 25. In Philadelphia, we&rsquo;re bringing together 125 developers, interactive designers, and other people who code in and near newsrooms, to learn, plan, and build together. Help make our first conference happen by becoming a sponsor!</p>
 

@@ -2,7 +2,7 @@
 layout: post
 title: SRCCON Code of Conduct
 logo: srccon_logo.png
-permalink: /conduct/index.html
+#permalink: /conduct/index.html
 ---
 
 

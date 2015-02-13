@@ -2,7 +2,7 @@
 layout: post_notitle
 title: Propose a SRCCON Session
 logo: srccon_logo.png
-permalink: /sessions/pitch/index.html
+#permalink: /sessions/pitch/index.html
 ---
 <div id="apologybox">
 <h2>Session Proposals are Now Closed.</h2>

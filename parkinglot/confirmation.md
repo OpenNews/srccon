@@ -2,7 +2,7 @@
 layout: post
 title: Thanks for registering for SRCCON
 logo: srccon_logo.png
-permalink: /register/confirmation/index.html
+#permalink: /register/confirmation/index.html
 
 ---
 <p class="bodybig">WOO! You are registered for SRCCON and should have a confirmation in your inbox. Next, you may want to check our <a href="/logistics">hotel and travel recommendations and local logistics info</a> or look over the <a href="/sessions/">sessions selected for SRCCON</a>.</p>

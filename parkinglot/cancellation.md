@@ -2,7 +2,7 @@
 layout: post
 title: SRCCON Transfer/Cancellation Policy
 logo: srccon_logo.png
-permalink: /register/cancellation/index.html
+#permalink: /register/cancellation/index.html
 ---
 <p class="bodybig">SRCCON is a small event and we&rsquo;re tuning the program to the exact attendee list we have, so please let us know as soon as you can if you&rsquo;re not coming, because it may mean we&rsquo;ll need to tweak our program a little. If you find that you&rsquo;ll be unable to attend after all, you have two options: transfer your ticket to someone else (which is the quickest option), or get a refund (also fine but may take a little longer).</p>
 

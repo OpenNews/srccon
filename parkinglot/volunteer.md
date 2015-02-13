@@ -2,7 +2,7 @@
 layout: post
 title: Volunteer at SRCCON
 logo: srccon_logo.png
-permalink: /volunteer/index.html
+#permalink: /volunteer/index.html
 ---
 <p class="bodybig">We need YOU to help make SRCCON work. In addition to participants running sessions throughout the two days of SRCCON, we&rsquo;ll also need a small group of people to help us keep the event running smoothly. Want to help? Consider volunteering at SRCCON.</p>
 

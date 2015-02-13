@@ -2,7 +2,7 @@
 layout: post
 title: SRCCON Travel Scholarships, sponsored by WordPress
 logo: srccon_logo.png
-permalink: /scholarships/index.html
+#permalink: /scholarships/index.html
 ---
 <p class="bodybig">If you want to attend SRCCON, we don&rsquo;t want cost to keep you from coming. We want to make sure that anyone who wants to attend has the opportunity to get together in person to chat and collaborate. To help defray the cost of attending SRCCON, OpenNews is now offering a limited number of $500 travel scholarships, thanks to a generous sponsorship from <a href="http://www.wordpress.org">WordPress</a>.</p>
 
