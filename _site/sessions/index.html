@@ -73,134 +73,132 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     <!-- Paste the markdowned tables here -->
 </div>
 
-<script type="text/javascript" src="/media/js/tabletop.js"></script>
+<p><script type="text/javascript" src="/media/js/tabletop.js"></script>
+<script type="text/javascript"></p>
 
-<script type="text/javascript">
+<p>if (window.location.href.indexOf(&#39;http://www.srccon.org/schedule&#39;) === 0) {
+  window.location.href = &#39;http://schedule.srccon.org&#39;;
+}</p>
 
-if (window.location.href.indexOf('http://www.srccon.org/schedule') === 0) {
-  window.location.href = 'http://schedule.srccon.org';
-}
+<p>// spinner
+$(&#39;<div id="preload"></div>&#39;).html(&#39;<h3><img src="/media/img/ajax-loader.gif" alt="loading data" /> Processing Sessions</h3>&#39;).prependTo($(&#39;#proposals&#39;));</p>
 
+<p>window.onload = function() { init() };</p>
 
-// spinner
-$('<div id="preload"></div>').html('<h3><img src="/media/img/ajax-loader.gif" alt="loading data" /> Processing Sessions</h3>').prependTo($('#proposals'));
-
-window.onload = function() { init() };
-
-function init() {
+<p>function init() {
     // use tabletop.js to get latest submissions
-    var public_spreadshseet_url = 'https://docs.google.com/spreadsheets/d/1_YQAy2uBtsLLXrLqW5uIrmoUy5mtnFWqDmxl64m9AXE/pubhtml',
+    var public<em>spreadshseet</em>url = &#39;https://docs.google.com/spreadsheets/d/1<em>YQAy2uBtsLLXrLqW5uIrmoUy5mtnFWqDmxl64m9AXE/pubhtml&#39;,
         tabletop = Tabletop.init({
-            key: public_spreadshseet_url,
+            key: public</em>spreadshseet_url,
             callback: showInfo
-        });
+        });</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">function showInfo() {
+    var hack_li,
+        suffix,
+        twitterLinks;
 
-    function showInfo() {
-        var hack_li,
-            suffix,
-            twitterLinks;
+    // remove spinner
+    $(&#39;#preload&#39;).hide();
 
-        // remove spinner
-        $('#preload').hide();
+    // create list items from each record from spreadsheet
+    $.each(tabletop.sheets(&quot;Sheet1&quot;).all(), function(i, proposal) {
+        twitterLinks = formatTwitterLinks(proposal.twitterhandles);
 
-        // create list items from each record from spreadsheet
-        $.each(tabletop.sheets("Sheet1").all(), function(i, proposal) {
-            twitterLinks = formatTwitterLinks(proposal.twitterhandles);
-
-            hack_li = '<li>';
-            // session title
-            hack_li += '<h4 class="title subjectline" id="p'+ proposal.id +'"><img src="/media/img/triangle.png">' + formatPrettyText(proposal.sessiontitle) + '<span class="proposalauthor"> | ' + proposal.responseidentifier + '</span></h4>';
-            // session details
-            hack_li += '<div class="detailbox">';
-            // session description
-            hack_li += '<p class="description">' + formatMultiline(formatPrettyText(proposal.shortdescription)) + '</p>';
-            // session who this is for
-            hack_li += '<p><b>Who is this session for?</b> ' + formatPrettyText(proposal.whoisthissessionfor) + '</p>';
-            // session leader twitter links
-            hack_li += '<p>';
-            if (twitterLinks.length) {
-                suffix = (twitterLinks.length > 1) ? 's' : '';
-                hack_li += '<b>Session leader'+suffix+' on Twitter:</b> ' + twitterLinks.join(', ') + ' | ';
-            }
-            // session permalink
-            hack_li += '<span class="permalink"><a href="#p'+ proposal.id +'">permalink for this proposal</a></span></p>';
-            hack_li += '</div></li>';
-
-            $(hack_li).appendTo("#proposals");
-        });
-
-        // if page loaded from permalink, automatically expand
-        // record's details and scroll down the page to it
-        if (window.location.hash) {
-            var hash = window.location.hash.substring(1),
-                $target = $('#'+hash);
-
-            $('html, body').animate({
-              scrollTop: $($target).offset().top-100
-            }, 200);
-
-            $target.next().show();
-            $target.find('img').toggleClass('flipup');
+        hack_li = &#39;&lt;li&gt;&#39;;
+        // session title
+        hack_li += &#39;&lt;h4 class=&quot;title subjectline&quot; id=&quot;p&#39;+ proposal.id +&#39;&quot;&gt;&lt;img src=&quot;/media/img/triangle.png&quot;&gt;&#39; + formatPrettyText(proposal.sessiontitle) + &#39;&lt;span class=&quot;proposalauthor&quot;&gt; | &#39; + proposal.responseidentifier + &#39;&lt;/span&gt;&lt;/h4&gt;&#39;;
+        // session details
+        hack_li += &#39;&lt;div class=&quot;detailbox&quot;&gt;&#39;;
+        // session description
+        hack_li += &#39;&lt;p class=&quot;description&quot;&gt;&#39; + formatMultiline(formatPrettyText(proposal.shortdescription)) + &#39;&lt;/p&gt;&#39;;
+        // session who this is for
+        hack_li += &#39;&lt;p&gt;&lt;b&gt;Who is this session for?&lt;/b&gt; &#39; + formatPrettyText(proposal.whoisthissessionfor) + &#39;&lt;/p&gt;&#39;;
+        // session leader twitter links
+        hack_li += &#39;&lt;p&gt;&#39;;
+        if (twitterLinks.length) {
+            suffix = (twitterLinks.length &gt; 1) ? &#39;s&#39; : &#39;&#39;;
+            hack_li += &#39;&lt;b&gt;Session leader&#39;+suffix+&#39; on Twitter:&lt;/b&gt; &#39; + twitterLinks.join(&#39;, &#39;) + &#39; | &#39;;
         }
+        // session permalink
+        hack_li += &#39;&lt;span class=&quot;permalink&quot;&gt;&lt;a href=&quot;#p&#39;+ proposal.id +&#39;&quot;&gt;permalink for this proposal&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&#39;;
+        hack_li += &#39;&lt;/div&gt;&lt;/li&gt;&#39;;
 
-        // let people open/close all records at once
-        $('#togglebuttons').show();
+        $(hack_li).appendTo(&quot;#proposals&quot;);
+    });
+
+    // if page loaded from permalink, automatically expand
+    // record&#39;s details and scroll down the page to it
+    if (window.location.hash) {
+        var hash = window.location.hash.substring(1),
+            $target = $(&#39;#&#39;+hash);
+
+        $(&#39;html, body&#39;).animate({
+          scrollTop: $($target).offset().top-100
+        }, 200);
+
+        $target.next().show();
+        $target.find(&#39;img&#39;).toggleClass(&#39;flipup&#39;);
     }
-}
 
-// utilities for formatting proposal text
-var newlines = new RegExp('\\n', 'g');
+    // let people open/close all records at once
+    $(&#39;#togglebuttons&#39;).show();
+}
+</code></pre></div>
+<p>}</p>
+
+<p>// utilities for formatting proposal text
+var newlines = new RegExp(&#39;\n&#39;, &#39;g&#39;);
 var formatMultiline = function(str) {
-    return str.replace(newlines,'<br>');
+    return str.replace(newlines,&#39;<br>&#39;);
 }
 var formatPrettyText = function(str) {
     return str
-        /* opening singles */
-        .replace(/(^|[-\u2014\s(\["])'/g, "$1\u2018")
-        /* closing singles & apostrophes */
-        .replace(/'/g, "\u2019")
-        /* opening doubles */
-        .replace(/(^|[-\u2014/\[(\u2018\s])"/g, "$1\u201c")
-        /* closing doubles */
-        .replace(/"/g, "\u201d")
-        /* em-dashes */
-        .replace(/--/g, "\u2014");
+        /* opening singles <em>/
+        .replace(/(^|[-\u2014\s([&quot;])&#39;/g, &quot;$1\u2018&quot;)
+        /</em> closing singles &amp; apostrophes <em>/
+        .replace(/&#39;/g, &quot;\u2019&quot;)
+        /</em> opening doubles <em>/
+        .replace(/(^|[-\u2014/[(\u2018\s])&quot;/g, &quot;$1\u201c&quot;)
+        /</em> closing doubles <em>/
+        .replace(/&quot;/g, &quot;\u201d&quot;)
+        /</em> em-dashes */
+        .replace(/--/g, &quot;\u2014&quot;);
 }
 var formatTwitterLinks = function(handles) {
-    var twitterLinks = [];
+    var twitterLinks = [];</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">if (handles) {
+    var handleList = handles.split(&#39;,&#39;),
+        cleanHandle;
 
-    if (handles) {
-        var handleList = handles.split(','),
-            cleanHandle;
-
-        $.each(handleList, function(i, handle) {
-            cleanHandle = $.trim(handle).replace('@','');
-            twitterLinks.push('<a href="https://twitter.com/'+cleanHandle+'">@'+cleanHandle+'</a>');
-        })
-    }
-
-    return twitterLinks;
+    $.each(handleList, function(i, handle) {
+        cleanHandle = $.trim(handle).replace(&#39;@&#39;,&#39;&#39;);
+        twitterLinks.push(&#39;&lt;a href=&quot;https://twitter.com/&#39;+cleanHandle+&#39;&quot;&gt;@&#39;+cleanHandle+&#39;&lt;/a&gt;&#39;);
+    })
 }
 
-// add click listeners for elements that may not exist yet
-$('.article_body').on('click', '.subjectline', function() {
+return twitterLinks;
+</code></pre></div>
+<p>}</p>
+
+<p>// add click listeners for elements that may not exist yet
+$(&#39;.article<em>body&#39;).on(&#39;click&#39;, &#39;.subjectline&#39;, function() {
     var d = $(this).next();
-    d.slideToggle('fast');
-    $("img", this).toggleClass('flipup');
+    d.slideToggle(&#39;fast&#39;);
+    $(&quot;img&quot;, this).toggleClass(&#39;flipup&#39;);
 });
-$('.article_body').on('click', '#show', function() {
-    $('.detailbox').slideDown('fast');
-    $('#show').hide();
-    $('#hide').show();
-    $('.subjectline img').addClass('flipup');
+$(&#39;.article</em>body&#39;).on(&#39;click&#39;, &#39;#show&#39;, function() {
+    $(&#39;.detailbox&#39;).slideDown(&#39;fast&#39;);
+    $(&#39;#show&#39;).hide();
+    $(&#39;#hide&#39;).show();
+    $(&#39;.subjectline img&#39;).addClass(&#39;flipup&#39;);
 });
-$('.article_body').on('click', '#hide', function() {
-    $('.detailbox').slideUp('fast');
-    $('#show').show();
-    $('#hide').hide();
-    $('.subjectline img').removeClass('flipup');
+$(&#39;.article_body&#39;).on(&#39;click&#39;, &#39;#hide&#39;, function() {
+    $(&#39;.detailbox&#39;).slideUp(&#39;fast&#39;);
+    $(&#39;#show&#39;).show();
+    $(&#39;#hide&#39;).hide();
+    $(&#39;.subjectline img&#39;).removeClass(&#39;flipup&#39;);
 });
-</script>
+</script></p>
 
 </div>
 
