@@ -6,13 +6,15 @@
   body {
     margin: 0;
     color: #404040;
+    min-width: 1000px;
   }
 
   header {
     overflow-x: hidden;
     height: 400px;
-    background-image: url(mcnamara.jpg);
+    background-image: url(mpls2.jpg);
     background-size: 1500px;
+    background-position: 0 0;
     max-width: 1500px;
     margin: 0px auto;
   }
@@ -35,7 +37,7 @@
   header a#cornerlogo img {
     width: 150px;
     position: relative;
-    top: 5px;
+    top: -18px;
   }
 
   header nav {
@@ -65,9 +67,10 @@
   }
 
   header #headbox {
+    clear: both;
     width: 100%;
-    max-width: 660px;
-    min-width: 500px;
+    max-width: 960px;
+    min-width: 660px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -82,11 +85,74 @@
     margin-top: 40px;
   }
 
-  header #headbox h3 {
+  header #headbox h3.homepage, header #headbox h4.homepage {
     color: white;
-    font-size: 1.3em;
+    font-size: 1.8em;
+    line-height: 1.3em;
     font-weight: 400;
+    position: relative;
+    top: 190px;
+    margin-left: 350px;
+    margin-bottom: 15px;
+  }
+
+  header #headbox h4.homepage {
+    font-size: 1.5em;
     margin-top: 0px;
+  }
+
+  img.makethelogobigger {
+    float: left;
+    position: absolute;
+    width: 50%;
+    left: -40px;
+    top: -50px;
+    margin-right: 20px;
+  }
+
+  ul.homepage {
+    margin-bottom: 50px;
+  }
+
+  ul.homepage li {
+    clear: both;
+    padding-top: 25px;
+  }
+
+  ul.homepage li h3 {
+    font-size: 1.8em;
+    margin-bottom: 0px;
+  }
+
+  ul.homepage li.left img {
+    width: 200px;
+    float: left;
+    margin-left: -130px;
+    margin-right: 25px;
+  }
+
+  ul.homepage li.right img {
+    width: 200px;
+    float: right;
+    margin-right: -130px;
+    margin-left: 25px;
+  }
+
+  ul.homepage li p {
+    font-size: 1.3em;
+    margin-top: 5px;
+  }
+
+  ul.homepage li h3 {
+    margin-bottom: 0px;
+  }
+
+  ul.homepage li {
+    list-style-type:none;
+  }
+
+  up.homepage li:last-child {
+    padding-bottom: 200px;
   }
 
   #contentbox, footer .container {
@@ -117,10 +183,11 @@
   }
 
   footer {
-
+    margin-top: 100px;
   }
 
   footer #sponsorbox {
+    clear: both;
     margin-top: 50px;
     margin-bottom: 50px;
     height: auto;
@@ -192,30 +259,31 @@
   <header>
     <div id="headertop">
       <div class="container">
-        <a id = "cornerlogo"><img src="corner_logo.png"></a>
         <nav class="navigation">
           <ul>
             <li>registration</li>
-            <li class="active">sessions</li>
+            <li>sessions</li>
             <li>location</li>
           </ul>
         </nav>
       </div>
       <div id="headbox">
-        <h2>Sessions</h2>
-        <h3>SRCCON sessions are interactive, participatory, and conversational. Bring your conundrums, successes, failures, and questions, and a willingness to learn by teaching.</h3>
+        <img src="srccon15_logo.png" class="makethelogobigger">
+        <h3 class="homepage"><b>June 25 & 26 in Minneapolis</b></h3>
+        <h4 class="homepage">A hands-on event for developers, designers, and data reporters in and around newsrooms.</h4>
+        </h3>
       </div>
     </div>
   </header>
   <div class="container">
     <div class="boundbox">
       <div id="contentbox">
-
-        <p>Our call for proposals opens MONTH DAY, and closes MONTH DAY, and in the next few weeks, we&rsquo;ll be posting more information about what we&rsquo;re looking for, the selection process, and what it&rsquo;s like to lead a session at SRCCON. We&rsquo;ll <a href="#">also provide information</a> about our evening programming options, which will range from lightning talks and skillshares to tabletop games and unstructured chill time.
-
-          <p>You can check out <a href="#">last year&rsquo;s schedule</a> for a taste of the inaugural SRCCON, and a source of inspiration for your own amazing proposal.
-
-            <p><b>Please note:</b> SRCCON session leaders are If you propose a session that is selected, you will be given a chance to buy a ticket in advance of the public sell date.
+        <p>Our annually sold-out show returns! Join 650 content strategy enthusiasts—from newbies to old-timers—for three days of awesome workshops and sessions. More speakers, more networking, more everything. And as they say … either you love Minneapolis, or you've never been here. See you in May!
+    <ul class="homepage">
+    <li class="left"><img src="cityscape.jpg"><h3>Location</h3><p>Here is a sentence about the location section of the site. It's pretty damn exciting if there.s two.
+    <li class="right"><img src="registration.jpg" class="right"><h3>Registration</h3><p>Here is a sentence about the regisration section of the site. What if I wrote a second sentence too.
+    <li class="left"><img src="location.jpg"><h3>Sessions</h3><p>Here is the sessions sentence. It also has a second sentence. Go figure!
+  </ul>
             </div>
           </div>
         </div>
