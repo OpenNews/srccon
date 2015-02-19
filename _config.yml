@@ -1,3 +1,5 @@
 name: SRCCON
-markdown: redcarpet
+markdown: kramdown
 pygments: true
+kramdown:
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
