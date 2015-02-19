@@ -87,6 +87,7 @@ body.location header nav ul li#location a {
 
 
 header #headbox {
+  clear: both;
   width: 100%;
   max-width: 660px;
   min-width: 500px;
@@ -142,7 +143,7 @@ img.makethelogobigger {
   position: absolute;
   width: 50%;
   left: -40px;
-  top: 20px;
+  top: -50px;
   margin-right: 20px;
 }
 
