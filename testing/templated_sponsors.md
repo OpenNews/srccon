@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Become a SRCCON Sponsor
-subtitle: Sponsorship is a great way to help make SRCCON happen, and we'd love your help this year. 
+subtitle: Sponsorship is a great way to help make SRCCON happen, and we'd love your help this year.
 sub-section: interior
 background: dotpattern
 permalink: /testing/sponsors/index.html

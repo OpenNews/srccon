@@ -13,4 +13,4 @@ Our call for proposals opens MONTH DAY, and closes MONTH DAY, and in the next fe
 
 You can check out last year’s schedule for a taste of the inaugural SRCCON, and a source of inspiration for your own amazing proposal.
 
-**Please note:** SRCCON session leaders are If you propose a session that is selected, you will be given a chance to buy a ticket in advance of the public sell date.
+**Please note**: If you propose a session that is selected, you will be given a chance to buy a ticket in advance of the public on-sale date, so pitching a great session is a good way to increase your chances of getting a ticket.
