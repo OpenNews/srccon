@@ -5,7 +5,8 @@ subtitle: A hands-on event for developers, designers, and data reporters in and 
 eventdate: June 25 & 26 in Minneapolis
 section: homepage
 background: homepage
-byline: photo by Someone Someone</a>
+byline: Dustin Gaffke
+bylineurl: https://www.flickr.com/photos/onepointfour/15434041227/
 permalink: /testing/index.html
 ---
 SRCCON returns for another two days of participatory sessions centered on the technical, ethical, design, and editorial challenges newsroom data and apps teams encounter every day. Delicious food, great coffee, and the chance to dig into hard questions with amazing people.

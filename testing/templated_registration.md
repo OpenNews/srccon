@@ -3,8 +3,10 @@ layout: 2015_layout
 title: Registration
 subtitle: SRCCON tickets go on sale MONTH DAY for $MONEY.
 section: registration
+sub-section: interior
 background: mcnamara
-byline: photo by Someone Someone</a>
+byline:  lankforddl
+bylineurl: https://www.flickr.com/photos/dannylankford/3616140995
 permalink: /testing/registration/index.html
 ---
 After last year’s surprise three-minute sell-out, we expect tickets to go quickly, and we’re working on a process that is as fair and transparent as possible. In the interim, some basic information. There are three primary ways to obtain a SRCCON ticket:

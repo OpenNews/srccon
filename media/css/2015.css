@@ -21,6 +21,14 @@ header.mcnamara {
   background-image: url(/media/img/2015/mcnamara.jpg);
 }
 
+header.dotpattern {
+  background-image: url(/media/img/2015/dotpattern.jpg);
+}
+
+header.mcnamara h3 {
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+}
+
 #headertop {
   width: 100%;
   height: 70px;
@@ -47,6 +55,35 @@ header nav {
   overflow: hidden;
   font-size: 1.1em;
   max-width: 800px;
+}
+
+header p.byline {
+  clear: both;
+  color: white;
+  font-size: .8em;
+  float: left;
+  position: relative;
+  max-width: 900px;
+  left: -150px;
+  bottom: 15px;
+  margin-bottom: 0px;
+  opacity: .5;
+}
+
+header.homepage p.byline {
+  bottom: -150px;
+  left: 0;
+}
+
+p.byline a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 0;
+}
+
+p.byline a:hover {
+  color: white;
+  border-bottom: 1px solid white;
 }
 
 header nav ul {
@@ -84,8 +121,6 @@ body.location header nav ul li#location a {
   border-bottom: 1px solid white;
 }
 
-
-
 header #headbox {
   clear: both;
   width: 100%;
@@ -114,7 +149,6 @@ header #headbox h3 {
   font-size: 1.4em;
   font-weight: 400;
   margin-top: 0px;
-  text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
 header #headbox h3.homepage, header #headbox h4.homepage {
@@ -203,29 +237,37 @@ ul.homepage li:last-child {
 }
 
 
-p, #contentbox li {
+p, body.interior #contentbox li {
   font-size: 1.6em;
   line-height: 1.8em;
 }
 
-#contentbox ul {
+body.interior #contentbox ul {
 padding-left: 0;
 }
 
-#contentbox li {
+body.interior #contentbox li {
   margin-bottom: 25px;
   list-style-type: none;
 }
 
-p a {
+p a, p.small a {
   color: #404040;
   text-decoration: none;
-  border-bottom: 1px solid #404040;
+  border-bottom: 1px solid #ccc;
 }
 
-p a:hover {
+p.small a {
+  border-bottom: 1px solid #aaa;
+}
+
+p a:hover, p.small a:hover {
   color: black;
   border-bottom: 1px solid black;
+}
+
+p.small {
+  font-size: 1.1em;
 }
 
 footer {
@@ -234,9 +276,14 @@ footer {
 
 footer #sponsorbox {
   clear: both;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   height: auto;
+  background-image: url(/media/img/2015/lightdots.jpg);
+  background-size: 1500px;
+  max-width: 1500px;
 }
 
 footer #sponsorbox ul {
@@ -269,7 +316,7 @@ footer .col h2 {
 
 footer .col p {
   font-size: .9em;
-  line-height: 1.5em;
+  line-height: 1.7em;
 }
 
 footer .col ul {
@@ -278,7 +325,7 @@ footer .col ul {
 
 footer .col ul li {
   list-style-type: none;
-  padding: 10 0;
+  padding: 10px 0px;
   border-bottom: 1px solid #ccc;
 }
 
