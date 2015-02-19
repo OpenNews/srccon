@@ -11,6 +11,7 @@ header {
   background-position: 0 0;
   max-width: 1500px;
   margin: 0px auto;
+  position: relative;
 }
 
 header.homepage {
@@ -50,6 +51,7 @@ header.mcnamara h3 {
   max-width: 1000px;
   margin: 0px auto;
   padding: 0px;
+  position: relative;
 }
 
 
@@ -66,31 +68,25 @@ header nav {
   max-width: 800px;
 }
 
-header p.byline {
+header .byline {
   clear: both;
   color: white;
   font-size: .8em;
-  float: left;
-  position: relative;
+  position: absolute;
   max-width: 900px;
-  left: -150px;
-  bottom: 15px;
+  left: 6px;
+  top: 280px;
   margin-bottom: 0px;
   opacity: .5;
 }
 
-header.homepage p.byline {
-  bottom: -150px;
-  left: 0;
-}
-
-p.byline a {
+.byline a {
   color: white;
   text-decoration: none;
   border-bottom: 0;
 }
 
-p.byline a:hover {
+.byline a:hover {
   color: white;
   border-bottom: 1px solid white;
 }
@@ -295,8 +291,7 @@ footer {
 
 footer #sponsorbox {
   clear: both;
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin: 40px auto;
   padding-top: 10px;
   padding-bottom: 10px;
   height: auto;
