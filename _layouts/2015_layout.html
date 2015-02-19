@@ -47,6 +47,9 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
           <h2>{{ page.title }}</h2>
           <h3>{{ page.subtitle }}</h3>
         {% endif %}
+        {% if page.byline != null %}
+        <p class="byline">photo by <a href="{{ page.bylineurl }}">{{ page.byline }}</a></p>
+        {% endif %}
     </div>
   </div>
 </header>
