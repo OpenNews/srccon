@@ -199,6 +199,16 @@ ul.homepage li {
   padding-top: 25px;
 }
 
+ul.homepage li h3 a {
+  color: #404040;
+  text-decoration: none;
+}
+
+ul.homepage li h3 a:hover {
+  color: black;
+  border-bottom: 1px solid black;
+}
+
 ul.homepage li h3 {
   font-size: 1.8em;
   margin-bottom: 0px;
