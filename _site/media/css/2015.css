@@ -189,7 +189,7 @@ ul.homepage li {
 }
 
 ul.homepage li:last-child {
-  padding-bottom: 50px;
+  padding-bottom: 0px;
 }
 
 #contentbox, footer .container {
@@ -203,9 +203,18 @@ ul.homepage li:last-child {
 }
 
 
-p {
+p, #contentbox li {
   font-size: 1.6em;
   line-height: 1.8em;
+}
+
+#contentbox ul {
+padding-left: 0;
+}
+
+#contentbox li {
+  margin-bottom: 25px;
+  list-style-type: none;
 }
 
 p a {
