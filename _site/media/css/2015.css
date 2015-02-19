@@ -72,15 +72,15 @@ header nav ul li a:hover {
   border-bottom: 1px solid white;
 }
 
-header nav ul li#sessions.sessions a {
+body.sessions header nav ul li#sessions a {
   border-bottom: 1px solid white;
 }
 
-header nav ul li#registration.registration {
+body.registration header nav ul li#registration a {
   border-bottom: 1px solid white;
 }
 
-header nav ul li#location.location {
+body.location header nav ul li#location a {
   border-bottom: 1px solid white;
 }
 
