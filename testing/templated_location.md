@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Location
-subtitle: Minneapolis in June is unbelievably lovely, as is our light-filled venue.
+subtitle: Sometimes it snows in April, but Minneapolis in June is unbelievably lovely, as is our light-filled venue.
 section: location
 sub-section: interior
 background: mcnamara

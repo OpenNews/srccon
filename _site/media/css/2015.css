@@ -25,9 +25,18 @@ header.dotpattern {
   background-image: url(/media/img/2015/dotpattern.jpg);
 }
 
+header.postits {
+  background-image: url(/media/img/2015/post-its.jpg);
+}
+
+header.tickets {
+  background-image: url(/media/img/2015/tickets.jpg);
+}
+
 header.mcnamara h3 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
+
 
 #headertop {
   width: 100%;
