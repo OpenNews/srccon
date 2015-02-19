@@ -1,0 +1,291 @@
+body {
+  margin: 0;
+  color: #404040;
+  min-width: 1000px;
+}
+
+header {
+  overflow-x: hidden;
+  height: 400px;
+  background-size: 1500px;
+  background-position: 0 0;
+  max-width: 1500px;
+  margin: 0px auto;
+}
+
+header.homepage {
+  background-image: url(/media/img/2015/mpls2.jpg);
+}
+
+header.mcnamara {
+  background-image: url(/media/img/2015/mcnamara.jpg);
+}
+
+#headertop {
+  width: 100%;
+  height: 70px;
+  background-color:rgba(0, 0, 0, 0.3)
+}
+
+.container {
+  box-sizing: border-box;
+  display: block;
+  max-width: 1000px;
+  margin: 0px auto;
+  padding: 0px;
+}
+
+
+header a#cornerlogo img {
+  width: 150px;
+  position: relative;
+  top: 5px;
+}
+
+header nav {
+  float: right;
+  overflow: hidden;
+  font-size: 1.1em;
+  max-width: 800px;
+}
+
+header nav ul {
+  padding-left: 0px;
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+header nav ul li {
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0px 10px;
+  padding-bottom: 5px;
+}
+
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+header nav ul li a:hover {
+  border-bottom: 1px solid white;
+}
+
+header nav ul li#sessions.sessions a {
+  border-bottom: 1px solid white;
+}
+
+header nav ul li#registration.registration {
+  border-bottom: 1px solid white;
+}
+
+header nav ul li#location.location {
+  border-bottom: 1px solid white;
+}
+
+
+
+header #headbox {
+  width: 100%;
+  max-width: 660px;
+  min-width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  right: 1%;
+}
+
+header.homepage #headbox {
+  max-width: 960px;
+}
+
+header #headbox h2 {
+  color: white;
+  font-size: 3em;
+  margin-bottom: 10px;
+  margin-top: 40px;
+}
+
+header #headbox h3 {
+  color: white;
+  font-size: 1.4em;
+  font-weight: 400;
+  margin-top: 0px;
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+}
+
+header #headbox h3.homepage, header #headbox h4.homepage {
+  color: white;
+  font-size: 1.8em;
+  line-height: 1.3em;
+  position: relative;
+  top: 190px;
+  margin-left: 350px;
+  margin-bottom: 15px;
+  text-shadow: none;
+}
+
+header #headbox h3.homepage {
+  font-weight: 800;
+}
+
+header #headbox h4.homepage {
+  font-size: 1.5em;
+  margin-top: 0px;
+  font-weight: 400;
+}
+
+img.makethelogobigger {
+  float: left;
+  position: absolute;
+  width: 50%;
+  left: -40px;
+  top: 20px;
+  margin-right: 20px;
+}
+
+ul.homepage {
+  margin-bottom: 50px;
+}
+
+ul.homepage li {
+  clear: both;
+  padding-top: 25px;
+}
+
+ul.homepage li h3 {
+  font-size: 1.8em;
+  margin-bottom: 0px;
+}
+
+ul.homepage li.left img {
+  width: 200px;
+  float: left;
+  margin-left: -130px;
+  margin-right: 25px;
+}
+
+ul.homepage li.right img {
+  width: 200px;
+  float: right;
+  margin-right: -130px;
+  margin-left: 25px;
+}
+
+ul.homepage li p {
+  font-size: 1.3em;
+  margin-top: 5px;
+}
+
+ul.homepage li h3 {
+  margin-bottom: 0px;
+}
+
+ul.homepage li {
+  list-style-type:none;
+}
+
+ul.homepage li:last-child {
+  padding-bottom: 50px;
+}
+
+#contentbox, footer .container {
+  width: 100%;
+  max-width: 660px;
+  min-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  right: 1%;
+}
+
+
+p {
+  font-size: 1.6em;
+  line-height: 1.8em;
+}
+
+p a {
+  color: #404040;
+  text-decoration: none;
+  border-bottom: 1px solid #404040;
+}
+
+p a:hover {
+  color: black;
+  border-bottom: 1px solid black;
+}
+
+footer {
+  margin-top: 100px;
+}
+
+footer #sponsorbox {
+  clear: both;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: auto;
+}
+
+footer #sponsorbox ul {
+  padding-left: 0px;
+}
+
+footer #sponsorbox ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 20px;
+  margin-top: 20px;
+  width: 30%;
+}
+
+footer .col {
+  width: 31%;
+  float: left;
+  margin-right: 22px;
+}
+
+footer .last {
+  margin-right: 0px;
+}
+
+footer .col h2 {
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 1.2em;
+}
+
+footer .col p {
+  font-size: .9em;
+  line-height: 1.5em;
+}
+
+footer .col ul {
+  padding-left: 0px;
+}
+
+footer .col ul li {
+  list-style-type: none;
+  padding: 10 0;
+  border-bottom: 1px solid #ccc;
+}
+
+footer .col ul li:last-child {
+  border-bottom: none;
+}
+
+footer .col ul li a {
+  color: #404040;
+  text-decoration: none;
+}
+
+footer .col ul li a:hover {
+  color: black;
+  border-bottom: 1px solid black;
+}
+
+footer .columns {
+  margin-bottom: 50px;
+}
