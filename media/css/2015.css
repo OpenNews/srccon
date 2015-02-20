@@ -179,6 +179,7 @@ body.location header nav ul li#location a {
   font-size: 1.5em;
   margin-top: 0px;
   font-weight: 400;
+  max-width: 500px;
 }
 
 img.makethelogobigger {
