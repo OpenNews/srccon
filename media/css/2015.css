@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -39,7 +40,15 @@ header.tickets {
   background-image: url(/media/img/2015/tickets.jpg);
 }
 
-header.mcnamara h3 {
+header.lifevests {
+  background-image: url(/media/img/2015/lifevests.jpg)
+}
+
+header.coffee {
+  background-image: url(/media/img/2015/coffee.jpg);
+}
+
+header.mcnamara h3, header.coffee h3 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
@@ -373,9 +382,6 @@ footer .columns {
     .container  {
         margin: 0 2em;
     }
-    #headbox h3.homepage, #headbox h4.homepage {
-        
-    }
 }
 
 @media screen and (max-width: 800px) {
@@ -390,11 +396,26 @@ footer .columns {
     #contentbox, #headbox {
         right: auto;
     }
+
     #headbox h3.homepage, #headbox h4.homepage {
         margin-left: 260px;
     }
     header {
         background-size: cover;
+    }
+
+    ul.homepage li.left img {
+      width: 180px;
+      float: left;
+      margin-left: -150px;
+      margin-right: 25px;
+    }
+
+    ul.homepage li.right img {
+      width: 180px;
+      float: right;
+      margin-right: -130px;
+      margin-left: 25px;
     }
 }
 
@@ -444,6 +465,7 @@ footer .columns {
     }
     #headbox h3 {
         font-size: 1.2em;
+        line-height: 1.4em;
     }
     #headbox h3.homepage, #headbox h4.homepage {
         margin-left: 150px;
@@ -468,7 +490,7 @@ footer .columns {
     }
 }
 @media screen and (max-width: 480px) {
-    p, body.interior #contentbox li {
+    p, body.interior #contentbox li, ul.homepage li p  {
       font-size: 1.2em;
     }
     footer #sponsorbox ul li {
@@ -495,7 +517,8 @@ footer .columns {
     }
     header a#cornerlogo img {
         width: 100px;
-        top: 30px;
+        top: 10px;
+        left: -25px;
     }
     header {
         height: 320px;
@@ -510,17 +533,57 @@ footer .columns {
 @media screen and (max-width: 360px) {
     #headbox h2 {
         font-size: 1.8em;
+        line-height: 1.1em;
     }
     #headbox h3 {
-        font-size: 1em;
+        font-size: 1.2em;
     }
+
+    #headbox h3.homepage {
+    margin-top: 5px;
+    }
+
+    ul.homepage {
+      padding-left: 0px;
+    }
+
+    ul.homepage li h3 {
+      font-size: 1.5em;
+    }
+
+    ul.homepage li {
+      margin-top: 10px;
+      padding-top: 0;
+    }
+
+    ul.homepage li p {
+      font-size: 1.1em;
+    }
+
+    ul.homepage li.left img, ul.homepage li.right img {
+      display: none;
+    }
+
     p, body.interior #contentbox li {
         font-size: 1.1em;
     }
     #headbox h4.homepage {
-        font-size: 1.1em;
+        font-size: 1.05em;
     }
     img.makethelogobigger {
         top: -30px;
     }
+}
+
+@media screen and (max-width: 320px) {
+  header a#cornerlogo img {
+    width: 100px;
+    top: 30px;
+    left: -30px;
+  }
+
+  #headbox h3 {
+    font-size: 1.2em;
+    line-height: 1.2em;
+  }
 }
