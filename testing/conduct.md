@@ -3,7 +3,7 @@ layout: 2015_layout
 title: Our Code of Conduct
 subtitle: Your safety matters to us. This is our public commitment to doing all we can to ensure it
 sub-section: interior
-background: dotpattern
+background: lifevests
 permalink: /testing/conduct/index.html
 ---
 
