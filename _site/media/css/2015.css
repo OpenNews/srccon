@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -380,9 +381,6 @@ footer .columns {
     }
     .container  {
         margin: 0 2em;
-    }
-    #headbox h3.homepage, #headbox h4.homepage {
-
     }
 }
 
