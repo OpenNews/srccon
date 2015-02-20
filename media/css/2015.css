@@ -263,7 +263,7 @@ padding-left: 0;
 
 body.interior #contentbox li {
   margin-bottom: 25px;
-  list-style-type: none;
+  list-style: circle outside url(/media/img/2015/bullet.jpg);
 }
 
 p a, p.small a {

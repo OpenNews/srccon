@@ -7,7 +7,7 @@ permalink: /testing/conduct/index.html
 ---
 
 
-<p class="bodybig">SRCCON and OpenNews are committed to providing a welcoming and harassment-free environment for participants of all races, gender and trans statuses, sexual orientations, physical abilities, physical appearances, and beliefs. We&rsquo;ve written this code of conduct not because we expect bad behavior from our community&mdash;which, in our experience, is overwhelmingly kind and civil&mdash;but because we believe a clear code of conduct is a necessary part of building a respectful community space.</p>
+<p>SRCCON and OpenNews are committed to providing a welcoming and harassment-free environment for participants of all races, gender and trans statuses, sexual orientations, physical abilities, physical appearances, and beliefs. We&rsquo;ve written this code of conduct not because we expect bad behavior from our community&mdash;which, in our experience, is overwhelmingly kind and civil&mdash;but because we believe a clear code of conduct is a necessary part of building a respectful community space.</p>
 
 SRCCON participants agree to:
 
