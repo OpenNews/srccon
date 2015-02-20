@@ -43,7 +43,11 @@ header.lifevests {
   background-image: url(/media/img/2015/lifevests.jpg)
 }
 
-header.mcnamara h3 {
+header.coffee {
+  background-image: url(/media/img/2015/coffee.jpg);
+}
+
+header.mcnamara h3, header.coffee h3 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
