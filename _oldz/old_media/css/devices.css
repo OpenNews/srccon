@@ -1,0 +1,1284 @@
+/*
+Default template CSS - if you change anything here then updating will be a bit more tricky than you might want
+*/
+@font-face {
+	font-family: MetaWebPro-Black;
+	src: url(../fonts/MetaWebPro-Black.woff) format('woff');
+}
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	color: #515151
+}
+a:link,
+a:visited,
+a:focus,
+a:hover,
+a:active {
+	color: #ad3121;
+	text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+	text-decoration: underline;
+}
+aside {
+	position: relative;
+}
+.box {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;:52;
+}
+.busta {
+	margin: 0 10px;
+	overflow: hidden;
+}
+.columns {
+	overflow: hidden;
+	padding-left: 0;
+	margin-top: 0;
+	clear: both;
+}
+.col {
+	list-style-type: none;
+	overflow: hidden;
+}
+/**= Sections */
+/* Masthead */
+.masthead {
+	background-color: white;
+	color: #fff;
+}
+.tab {
+	position: absolute;
+	top: 0;
+	right: 20px;
+	display: block;
+	text-indent: -9999em;
+	background: transparent url(../img/css/icons.png) no-repeat 0 0;
+	width: 118px;
+	height: 48px;
+	overflow: hidden;
+}
+.masthead ul {
+	overflow: hidden;
+	margin: 0;
+	padding-left: 0;
+}
+.masthead ul li {
+	float: left;
+	 padding: 1em;
+	display: block;
+	font-size: 12px;
+}
+.masthead ul li:first-child {
+	border-left: none;
+	padding-left: 0;
+}
+.masthead ul a {
+	padding: 1em;
+	display: block;
+	font-size: 12px;
+}
+.masthead ul li:first-child a {
+	padding-left: 0;
+}
+.masthead ul a:link,
+.masthead ul a:visited,
+.masthead ul a:focus,
+.masthead ul a:hover,
+.masthead ul a:active {
+	color: white;
+}
+/* External links */
+.external {
+	background-color: #FFFFFF;
+	font-family: Georgia;
+}
+.external h2 {
+	padding-top: 40px;
+	font-family: 'Open Sans', sans-serif;
+	color: #2e2e2d;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: 300;
+}
+.external .tweet h2 {
+	background-position: 0 -140px;
+}
+.external .mozilla h2 {
+	background-position: 0 -290px;
+}
+.external .learn h2 {
+	background-position: 0 -440px;
+}
+.external p {
+	font-size: 14px;
+	color: #454545;
+}
+.external ul {
+	padding-left: 0;
+}
+.external li {
+	list-style-type: none;
+	border-top: 1px solid #D8DADC;
+	padding: 0.5em 0;
+	font-size: 14px;
+}
+.external li:first-child {
+	border-top: none;
+	padding-top: 0;
+}
+/* Partners */
+.partners {
+	background-color: #ececec;
+}
+.partners h2 {
+	float: left;
+	margin: 1em 0 0; /* 1em = 18px; */
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.partners ul {
+	float: left;
+	margin: 0;
+	padding-left: 0;
+
+}
+.partners li {
+	float: left;
+	margin-right: 20px;
+	list-style-type: none;
+}
+/* Main content */
+div[role=main] {
+	background: #fff;
+	margin: 0 0 0.625em;
+}
+
+/**= And now time for your styles */
+#brand img {
+	margin-top: 1em;
+	width: 100%;
+	height: auto;
+}
+#ONlogo {
+	display: none;
+}
+div[role="main"] a {
+	color: #ad3121;
+}
+div[role="main"] h1,
+div[role="main"] h2 {
+	text-transform: capitalize;
+	color: #fc6e1f;
+	font-family: "Open Sans", Helvetica, Verdana, Arial, sans-serif;
+	font-weight: 400;
+}
+article p,
+article ul {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	line-height: 1.6;
+	font-size: 18px;
+}
+article header h2 {
+	font-size: 28px;
+}
+article header p {
+	font-size: 23px;
+	line-height: 1.7;
+}
+
+.fellowsbox h3 {
+	text-transform: uppercase;
+	margin-top: 0;
+	color: #676767;
+	font-size: 17px;
+	line-height: 1.1em;
+	font-family: "Open Sans", Helvetica, Verdana, Arial, sans-serif;
+	font-weight: 300;
+}
+.fellowsbox ul {
+	margin-top: 0;
+	padding-left: 0;
+	list-style-type: none;
+}
+.fellowsbox .vcard {
+	overflow: hidden;
+	margin-bottom: 1em;
+}
+.fellowsbox .vcard p,
+.fellowsbox .vcard ul {
+	font-family: Arial;
+	font-size: 14px;
+	margin: 0 0 1em;
+}
+.fellowsbox .photo {
+	border: 1px solid black;
+	float: left;
+	margin-right:10px;
+}
+.fellowsbox p.fn {
+	font-family: Helvetica;
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+.fellows_links {
+	overflow: hidden;
+	margin-top: 5px;
+}
+.fellows_links li {
+	float: left;
+}
+.fellows_links li:first-child {
+	margin-right: 5px;
+}
+.fellows_links li:first-child:after {
+	content: "/";
+	padding-left: 5px;
+}
+.external .opennews h2 {
+	background-position: 0 -440px;
+}
+.external .knight h2 {
+	background-position: 0 -590px;
+}
+.external p, .external ul {
+	line-height: 1.3em;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+.external iframe {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 0 0 10px;
+	border: none;
+}
+
+#sponsorpage ul {
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+#sponsorpage ul.nextlevel {
+	text-align: center;
+}
+
+#sponsorpage ul.stationlevel {
+	text-align: center;
+}
+
+#involved, #minifellows, #newsbox, #sourcebox {
+	margin-bottom: 50px;
+}
+
+#involved ul, #involved p, #newsbox ul, #sourcebox ul {
+	font-size: 1em;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+
+#involved li, #newsbox li, #sourcebox li {
+	list-style-image: url(../img/css/arrow.png);
+	list-style-position: inside;
+	margin-bottom: 8px;
+}
+
+div[role="main"] .opengraph a {
+	border-bottom-color: #444444;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	color: rgb(0,0,0);
+}
+
+div[role="main"] .opengraph a:hover {
+	border-bottom-color: #222222;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	text-decoration: none;
+}
+
+#ONlogo {
+	padding-right: 130px;
+	margin-right: 50px;
+	float: right;
+}
+div.article_body {
+	margin-bottom: 50px;
+}
+#newsline {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid rgb(198, 198, 198);
+	border-width: 1px 0;
+	text-transform: uppercase;
+	font-weight: 300;
+	margin: 10px 0;
+}
+
+#newsline a {
+	padding: 10px;
+	text-decoration: none;
+	color: rgb(103, 103, 103);
+	display: block;
+}
+
+#newsline a:hover {
+	background-color: rgb(255, 91, 36);
+	color: #fff;
+}
+div.article_body {
+margin-bottom: 50px;
+}
+
+#minifellows ul li {
+display: inline;
+}
+#minifellows a {
+	margin-top: 1em;
+	display: block;
+}
+
+#minifellows ul li img {
+border: 1px solid #454545;
+}
+
+#minifellows p, #involved p, #newsbox p, #sourcebox p {
+font-size: 0.9em;
+font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+
+table.schedule {
+	width: 80%;
+}
+
+table.schedule tr td:nth-child(1)  {
+	width: 80px;
+}
+
+table.schedule tr td:nth-child(2)  {
+	text-align: left;
+	padding-left: 20px;
+}
+
+table  {
+	width: 80%;
+	line-height: 1.6em;
+	font-size: 18px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+table tr  {
+	padding: 5px;
+	border-bottom-color: #c8c8c8;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+table tr td:nth-child(2)  {
+	text-align: right;
+}
+
+
+img.meet {
+float: left;
+border: 1px solid black;
+margin-right: 15px;
+}
+
+img.meet14 {
+	width: 22%;
+	margin-top: 10px;
+}
+
+.spacer {
+margin-top: 50px;
+}
+
+#newsbox li, #sourcebox li {
+list-style: none;
+line-height: 1.4em;
+margin-bottom: 15px;
+}
+
+.bodybig {
+font-size: 23px;
+line-height: 1.7;
+margin-bottom: 50px;
+}
+
+#nav {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+#nav ul {
+	padding: 0px;
+	margin: 0px;
+	text-align: left;
+	display: inline;
+}
+#nav li {
+
+	padding: 0px;
+
+	margin: 0px;
+
+	border-right-color: #bfbfbf;
+
+	border-right-style: solid;
+
+	border-right-width: 1px;
+
+	text-align: left;
+
+	display: inline;
+
+	list-style-type: none;
+
+}
+#nav li:first-child a {
+	padding-left: 0;
+}
+ #nav li:last-child {
+
+	border-right-width: 0px;
+
+	text-align: left;
+
+	display: inline;
+
+	list-style-type: none;
+
+}
+ #nav li a {
+font-size: 1.3em;
+padding-right: 10px;
+padding-left: 10px;
+text-decoration: none;
+color: #999999;
+display: inline;
+}
+#nav li a:hover, #nav li a:active, #nav li a.active, #fellowside li a:hover, #fellowside li a.active {
+	color: #3e3e3e;
+}
+.fellowships #fellowships a,
+.hackdays #hackdays a,
+.learning #learning a,
+.code #code a,
+.getinvolved #getinvolved a,
+.news #news a,
+.codesprints #codesprints a,
+.source #source a  {
+	color: #3e3e3e;
+}
+ #nav li a.active, #fellowside li a.active {
+ cursor:default;
+}
+
+.hide {
+display: none;
+}
+
+#hackcalbox {
+min-height: 100px;
+margin-bottom: 30px;
+}
+
+#hackcalbox table {
+width: 98%;
+}
+
+#hackcalbox table tr td:nth-child(2)  {
+	text-align: left;
+}
+
+h3 {
+color: #0d0d0d;
+font-family: 'Open Sans', Helvetica, Verdana, Arial, sans-serif;
+font-weight: 300;
+font-size: 1.1em;
+margin-top: 30px;
+margin-bottom: 10px;
+text-transform: uppercase;
+}
+.columns .col h3 {
+    margin-top: 0;
+}
+
+#fellowside {
+padding-bottom: 5px;
+padding-top: 18px;
+margin: 0px;
+margin-bottom: 20px;
+font-family: Helvetica, Verdana, Arial, sans-serif;
+width: 100%;
+margin-top: 20px;
+border-top: 1px solid #C6C6C6;
+}
+
+#fellowside ul {
+	padding: 0px;
+	margin: 0px;
+	margin-top: -10px;
+}
+
+#fellowside li {
+	border-right-color: #b1b1b1;
+	border-right-style: solid;
+	border-right-width: 1px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-right: 9px;
+	margin-top: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-right: 9px;
+	padding-top: 0px;
+	display: inline;
+	font-size: 0.8em;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	list-style-type: none;
+}
+ #fellowside li:last-child {
+	border-right-width: 0px;
+}
+
+#fellowside li a {
+color: #999999;
+text-decoration: none;
+
+}
+.fellows_home #fellow_home,
+.fellows_apply #apply,
+.community #community,
+.fellows_faq #faq,
+.fellows_info #fellow_benefits {
+	color: #3E3E3E;
+}
+
+iframe {
+}
+
+article iframe {
+	width: 100%;
+}
+
+#videobox iframe {
+margin-top: 8px;
+}
+
+#newsline {
+display: none;
+}
+
+#partnerbox {
+float: right;
+margin-right: 20px;
+margin-left: 10px;
+height: 670px;
+}
+
+#partnerbox h4 {
+text-align: center;
+color: #999999;
+font-weight: normal;
+}
+
+#partnerbox a {
+	display: block;
+	width: 220px;
+	height: 70px;
+	margin-bottom: 20px;
+	text-indent: -9999em;
+	overflow: hidden;
+}
+
+.caption {
+font-family: sans-serif;
+font-size: .8em;
+text-align: right;
+margin-right: 12px;
+margin-top: -10px;
+margin-bottom: 40px;
+}
+
+
+.logo-nyt {
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px 0px transparent;
+}
+
+.logo-nyt:hover {
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px 0px transparent;
+}
+
+.logo-propublica {
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -70px transparent;
+}
+
+.logo-propublica:hover {
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -70px transparent;
+}
+
+.logo-texas {
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -142px transparent;
+}
+
+.logo-texas:hover {
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -142px transparent;
+}
+
+.logo-nacion {
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -223px transparent;
+}
+
+.logo-nacion:hover {
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -223px transparent;
+}
+
+.logo-ushahidi {
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -295px transparent;
+}
+
+.logo-ushahidi:hover {
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -295px transparent;
+}
+
+.logo-internews {
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -360px transparent;
+}
+
+.logo-internews:hover {
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -360px transparent;
+}
+
+.logo-wp {
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -415px transparent;
+}
+
+.logo-wp:hover {
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -415px transparent;
+}
+
+
+
+
+
+
+ul.fellowslist, ul.fellowstats {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+ul.fellowslist li, ul.fellowstats li {
+display: inline;
+padding-right: 7px;
+padding-left: 7px;
+margin-right: 7px;
+border-right: 1px solid black;
+font-size: .9em;
+}
+
+ul.fellowslist li:first-child, ul.fellowstats li:first-child {
+padding-left: 0px;
+}
+ul.fellowslist li:last-child, ul.fellowstats li:last-child {
+border-right: 0;
+}
+/* application form */
+#signup {
+	/*
+	to cover up the empty <p></p> that markdown seems insistent to include above the form
+	*/
+	margin-top: 0;
+}
+#signup label {
+	font-weight: bold;
+	display: block;
+	margin-bottom: 0.5em;
+	width: 80%;
+}
+#signup input+label {
+	font-weight: normal;
+}
+#signup input,
+#signup textarea {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 90%;
+}
+#signup input[type="checkbox"] {
+	float: left;
+	width: auto;
+	margin-right: 10px;
+}
+#signup input[type="checkbox"] + label {
+	float: left;
+}
+#signup input[type="submit"] {
+	text-transform: uppercase;
+	color: #fff !important;
+	border: none;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background: #EF4619;
+	background-image: linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+	background-image: -o-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+	background-image: -moz-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+	background-image: -webkit-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+	padding: 0.4em 24px;
+	font-size: 20px;
+	box-shadow: 0 0 0.3em #dbdbdb;
+	display: inline-block;
+	letter-spacing: 0.6px;
+	/* Using important so line-height based on containers doesnt't screw stuff up */
+	line-height: 1 !important;
+	width: auto;
+}
+#signup input[type="submit"]:hover {
+	background-image: linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+	background-image: -o-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+	background-image: -moz-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+	background-image: -webkit-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+	text-decoration: none;
+}
+#signup input[type="submit"]:active {
+	box-shadow: none;
+	background: #e54821;
+	text-decoration: none;
+}
+.form-row {
+	margin-bottom: 1em;
+	overflow: hidden;
+}
+fieldset {
+	border: 0;
+}
+legend span {
+	line-height: 1;
+	padding-top: 1em;
+	color: #FC6E1F;
+	text-transform: capitalize;
+	font-family: 'Open Sans',Helvetica,Verdana,Arial, sans-serif;
+	font-size: 20px;
+	font-weight: 300;
+}
+.required {
+	color: red;
+}
+
+#hackcode li {
+display: block;
+list-style-position: inside;
+padding-left: 0px;
+margin-left: 0px;
+list-style-type: none;
+margin-bottom: 12px;
+font-size: 14px;
+
+}
+
+#hackcode ul {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	padding: 0px;
+}
+
+#preload {
+	text-align: center;
+}
+
+#fellowcode ul {
+	padding: 0px;
+}
+
+#fellowcode ul li {
+	margin-bottom: 20px;
+	list-style-type: none;
+}
+
+.fellowhack {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	font-size: 1.1em;
+}
+
+.frontpic {
+	width: 31%;
+	height: 31%;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border: 1px solid black;
+}
+
+.noborder {
+	border: none;
+}
+
+#picwrap {
+	width: 100%;
+	margin-top: 18px;
+}
+
+.alert {
+	font-family: 'Open Sans',Helvetica,Verdana,Arial, sans-serif;
+	background-color: #b54f06;
+	color: white;
+	font-weight: bold;
+	font-size: 1.5em;
+	padding: 5px;
+	text-align: center;
+	margin-bottom: -10px;
+	border-radius: 5px;
+	width: 97%;
+}
+
+img.topline {
+	width: 100%;
+	border: 1px solid black;
+}
+
+ul.fellowcode {
+	font-size: 1em;
+	margin-left: 25px;
+}
+
+.hidden {
+ display: none;
+}
+
+.hamburger {
+		font-size: 1em;
+		display: inline;
+		margin-top: 10px;
+		margin-right: 10px;
+		padding-left: 20px;
+		position: relative;
+		color: rgba(0, 0, 0, 0.540)
+	}
+
+.hamburger:before {
+	  content: "";
+	  position: absolute;
+	  left: 0;
+	  top: 6px;
+	  width: 1em;
+	  height: 0.15em;
+	  background:#8d8d8d;
+	  box-shadow:
+		0 0.25em 0 0 #8d8d8d,
+		0 0.5em 0 0 #8d8d8d;
+	}
+
+.snap-drawers {
+	background-color: #eee;
+}
+
+.snap-drawers li {
+	list-style: none;
+	margin: 0;
+	border-bottom: 1px solid #ccc;
+}
+
+.snap-drawers li:last-child {
+	border-bottom: none;
+}
+
+.snap-drawers li a {
+	color: #939393;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: block;
+	width: 148px;
+}
+
+.snap-drawers li a:hover {
+	background-color: #cdcdcd;
+	text-decoration: none;
+}
+
+.snap-drawers ul {
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+#fellowside select {
+	margin-left: 5px;
+}
+
+
+	ul#fellowmenu {
+	display: none;
+	}
+
+	#fellowside select {
+	display: inline-block;
+	font-size: .9em;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	}
+
+	#fellowside {
+	border-top: none;
+	padding-top: none;
+	}
+
+
+@media screen and (max-width: 450px) {
+	img.frontpic {
+			width: 30%;
+		}
+	.bodybig {
+	font-size: 18px;
+	line-height: 1.7;
+	margin-bottom: 50px;
+	}
+
+	.challengebox {
+		display: none;
+	}
+
+	h1#brand {
+		margin-bottom: 0px;
+	}
+
+}
+
+/* SRCCON MODIFICATIONS */
+
+div[role="main"] a.button {
+	color: white;
+}
+
+#brand img {
+	width: 600px;
+}
+
+h1.dateblast {
+	color: black;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+.philly {
+	background: url(../img/philly.jpg) no-repeat center center;
+	background-size: cover;
+	height: 500px;
+}
+
+.philly .logo, .session .logo, .chemical .logo, .oldcity .logo {
+	position: absolute;
+	top: 260px;
+}
+
+.session {
+	background: url(../img/session.jpg) no-repeat center center;
+	background-size: cover;
+	height: 500px;
+}
+
+.chemical {
+	background: url(../img/chemical.jpg) no-repeat center center;
+	background-size: cover;
+	height: 500px;
+}
+
+.oldcity {
+	background: url(../img/oldcity.png) no-repeat center center;
+	background-size: cover;
+	height: 500px;
+}
+
+
+#nav ul li {
+	font-size: .9em;
+}
+
+#nav {
+	background-color: rgba(255,255,255,0.6);
+	padding-top: 10px;
+	margin-top: -10;
+}
+
+#nav li a {
+	padding: 0 15;
+	color: #282828;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+.columns {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.col {
+	width: 200px;
+	float: left;
+}
+
+#byline {
+	font-size: .8em;
+	color: #ccc;
+	position: absolute;
+	right: 150px;
+	top: 460px;
+}
+
+#byline a {
+	color: white;
+}
+
+.columns .col {
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+	float: left;
+	padding: 20px;
+	margin: 0 2%;
+	border: 1px solid #d0d0d0;
+	width: 340px;
+    margin-bottom: 10px;
+}
+
+a.button, .alertme, #togglebuttons #show, #togglebuttons #hide {
+		display: block;
+		background-color: #FC6E1F;
+		padding: 10px 0;
+		text-align: center;
+		font-family: 'Open Sans',Helvetica,Verdana,Arial,sans-serif;
+		color: white;
+		text-transform: uppercase;
+}
+
+#togglebuttons {
+	float: right;
+	cursor: pointer;
+	display: none;
+}
+
+#togglebuttons #show, #togglebuttons #hide
+{
+	display: normal;
+	padding-right: 10px;
+	padding-left: 10px;
+	width: 85px;
+}
+
+#togglebuttons #hide {
+	display: none;
+}
+
+#proposals {
+	clear: both;
+    position: relative;
+}
+.detailbox {
+    display: none;
+}
+
+a.button:hover, #togglebuttons #show:hover, #togglebuttons #hide:hover {
+		background-color: #bd5325;
+		text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+
+	ul.sponsorlist li img {
+		margin-top: 25px;
+	}
+
+
+    .philly, .session, .chemical, .oldcity {
+        height: 400px;
+    }
+    #brand img {
+        width: auto;
+        height: 80px;
+    }
+    .philly .logo, .session .logo, .chemical .logo, .oldcity .logo {
+        top: 220px;
+    }
+
+	#byline {
+		font-size: .6em;
+		position: absolute;
+		right: 10px;
+		top: 370px;
+	}
+}
+@media screen and (max-width: 648px) {
+    .external .col {
+        float: none;
+        width: 100%;
+        padding: 0;
+    }
+    .external h2 {
+        padding-top: 0;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #sponsorpage ul.toplevel li img {
+					margin-top: 25px;
+					width: 100%;
+				}
+
+		.philly, .session, .chemical, .oldcity {
+        height: 200px;
+        margin-bottom: 25px;
+    }
+    .philly #nav, .session #nav, .chemical #nav, .oldcity #nav {
+        margin-top: 200px;
+    }
+
+    #brand img {
+        width: auto;
+        height: 50px;
+    }
+    .philly .logo, .session .logo, .chemical .logo, .oldcity .logo {
+        top: 110px;
+    }
+    #nav {
+        font-size: 12px;
+    }
+    #nav li,
+    #nav li:last-child {
+        width: 33%;
+        text-align: center;
+    }
+
+    #byline {
+        font-size: .6em;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+
+    .columns .col {
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        float: none;
+        padding: 10px;
+        border: 1px solid #d0d0d0;
+        width: 98%;
+        margin: 0 0 10px 0;
+    }
+
+    h1.dateblast {
+        font-size: 1.8em;
+    }
+
+		#proposals div.detailbox {
+			padding-left: 25px;
+		}
+
+		#togglebuttons #hide, #togglebuttons #show {
+			font-size: .8em;
+			width: 65px;
+			padding: 5px;
+			margin-bottom: 10px;
+		}
+}
+
+@media screen and (max-width: 400px) {
+    #nav {
+        font-size: 9px;
+    }
+
+		#nav li,
+		#nav li:last-child {
+				width: 32%; /*changed from 33%*/
+				text-align: center;
+		}
+
+}
+
+#proposals li {
+	list-style-type: none;
+	margin-bottom: 0;
+	margin-top: 5px;
+}
+
+#proposals li h4 {
+	padding: 10px;
+}
+
+#proposals li:nth-child(odd) h4 {
+	background-color: #f5f2e8;
+}
+
+#proposals li:nth-child(odd) h4:hover {
+	background-color: #f9f0d4;
+}
+
+#proposals li h4:hover {
+	background-color: #fdfcfa;
+}
+
+#proposals h4 {
+	font-size: 1.2em;
+	margin-top: 0px;
+	margin-bottom: 0;
+	cursor: pointer;
+}
+
+#proposals h4 span.proposalauthor {
+	font-weight: normal;
+}
+
+#proposals div.detailbox {
+	padding-left: 55px;
+	border-bottom: 1px solid #e7d9af;
+	margin-bottom: 15px;
+}
+
+#proposals li h4 img {
+float: none;
+margin-right: 15px;
+-webkit-transition: .15s;
+-moz-transition: .15s;
+-o-transition: .15s;
+-ms-transition: .15s;
+-webkit-transform: rotate(-90deg);
+-moz-transform: rotate(-90deg);
+-o-transform: rotate(-90deg);
+-ms-transform: rotate(-90deg);
+}
+
+#proposals li h4 img.flipup {
+
+-webkit-transform: rotate(0deg);
+-moz-transform: rotate(0deg);
+-o-transform: rotate(0deg);
+-ms-transform: rotate(0deg);
+}
+
+#proposals .permalink {
+}
+
+#apologybox {
+	border: 2px solid #ac0909;
+	background-color: #f9dfa9;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+#apologybox p {
+	font-size: 1.4em;
+}
+
+#apologybox h2 {
+	margin-top: 0px;
+}
+
+
+
+
+/*force reload FOR REAL*/
