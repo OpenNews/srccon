@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Join us for SRCCON
-subtitle: Two days to build better newsroom code, culture,</br> and process—together.
+subtitle: Two days to build better newsroom code, culture, and process—together.
 eventdate: June 25 & 26 in Minneapolis
 section: homepage
 background: homepage

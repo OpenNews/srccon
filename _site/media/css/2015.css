@@ -1,7 +1,12 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 body {
   margin: 0;
   color: #404040;
-  min-width: 1000px;
 }
 
 header {
@@ -57,7 +62,7 @@ header.mcnamara h3 {
 
 header a#cornerlogo img {
   width: 150px;
-  position: relative;
+  position: absolute;
   top: 5px;
 }
 
@@ -65,7 +70,6 @@ header nav {
   float: right;
   overflow: hidden;
   font-size: 1.1em;
-  max-width: 800px;
 }
 
 header .byline {
@@ -126,55 +130,56 @@ body.location header nav ul li#location a {
   border-bottom: 1px solid white;
 }
 
-header #headbox {
+#headbox {
   clear: both;
   width: 100%;
   max-width: 660px;
-  min-width: 500px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   position: relative;
   right: 1%;
+  padding-top: 70px;
 }
 
-header.homepage #headbox {
+.homepage #headbox {
   max-width: 960px;
+  padding-top: 20%;
 }
 
-header #headbox h2 {
+#headbox h2 {
   color: white;
   font-size: 3em;
   margin-bottom: 10px;
-  margin-top: 40px;
+  margin-top: 0;
 }
 
-header #headbox h3 {
+#headbox h3 {
   color: white;
   font-size: 1.4em;
   font-weight: 400;
   margin-top: 0px;
 }
 
-header #headbox h3.homepage, header #headbox h4.homepage {
+#headbox h3.homepage, #headbox h4.homepage {
   color: white;
   font-size: 1.8em;
   line-height: 1.3em;
   position: relative;
-  top: 190px;
   margin-left: 350px;
   margin-bottom: 15px;
   text-shadow: none;
 }
 
-header #headbox h3.homepage {
+#headbox h3.homepage {
   font-weight: 800;
 }
 
-header #headbox h4.homepage {
+#headbox h4.homepage {
   font-size: 1.5em;
   margin-top: 0px;
   font-weight: 400;
+  max-width: 500px;
 }
 
 img.makethelogobigger {
@@ -242,9 +247,7 @@ ul.homepage li:last-child {
 }
 
 #contentbox, footer .container {
-  width: 100%;
   max-width: 660px;
-  min-width: 500px;
   margin-left: auto;
   margin-right: auto;
   position: relative;
@@ -313,13 +316,13 @@ footer #sponsorbox ul li {
 }
 
 footer .col {
-  width: 31%;
+  width: 30%;
   float: left;
-  margin-right: 22px;
+  margin-right: 3%;
 }
 
 footer .last {
-  margin-right: 0px;
+  margin-right: 0;
 }
 
 footer .col h2 {
@@ -359,4 +362,165 @@ footer .col ul li a:hover {
 
 footer .columns {
   margin-bottom: 50px;
+}
+
+
+
+@media screen and (max-width: 1020px) {
+    header, footer {
+        width: 100%;
+    }
+    .container  {
+        margin: 0 2em;
+    }
+    #headbox h3.homepage, #headbox h4.homepage {
+        
+    }
+}
+
+@media screen and (max-width: 800px) {
+    p, body.interior #contentbox li {
+      font-size: 1.4em;
+      line-height: 1.6em;
+    }
+    footer .container  {
+        margin: 0 2em;
+        right: auto;
+    }
+    #contentbox, #headbox {
+        right: auto;
+    }
+    #headbox h3.homepage, #headbox h4.homepage {
+        margin-left: 260px;
+    }
+    header {
+        background-size: cover;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    footer .col {
+        width: 47%;
+    }
+    header .byline {
+        left: 0;
+        font-size: .7em;
+    }
+    #headbox h3.homepage, #headbox h4.homepage {
+        margin-left: 220px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    p, body.interior #contentbox li {
+      font-size: 1.3em;
+      line-height: 1.5em;
+    }
+    footer #sponsorbox ul li {
+      display: block;
+      padding-right: 0;
+      margin-top: 20px;
+      width: auto;
+    }
+    footer #sponsorbox img {
+        max-height: 40px;
+        max-width: 100%;
+    }
+    footer .col {
+        float: none;
+        width: auto;
+    }
+    header {
+        height: 340px;
+    }
+    header .byline {
+        top: 230px;
+    }
+    #headbox {
+        padding-top: 60px;
+    }
+    #headbox h2 {
+        font-size: 2.4em;
+    }
+    #headbox h3 {
+        font-size: 1.2em;
+    }
+    #headbox h3.homepage, #headbox h4.homepage {
+        margin-left: 150px;
+    }
+    #headbox h3.homepage {
+        font-size: 1.6em;
+    }
+    #headbox h4.homepage {
+        font-size: 1.3em;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    #headbox h3.homepage, #headbox h4.homepage {
+        margin-left: 100px;
+    }
+    #headbox h3.homepage {
+        font-size: 1.5em;
+    }
+    #headbox h4.homepage {
+        font-size: 1.2em;
+    }
+}
+@media screen and (max-width: 480px) {
+    p, body.interior #contentbox li {
+      font-size: 1.2em;
+    }
+    footer #sponsorbox ul li {
+      display: block;
+      padding-right: 0;
+      margin-top: 20px;
+      width: auto;
+    }
+    #headbox h2 {
+        font-size: 2.1em;
+        margin-bottom: 5px;
+    }
+    #headbox h3 {
+        font-size: 1.1em;
+    }
+    #headertop {
+        height: 40px;
+    }
+    header nav {
+        font-size: .9em;
+    }
+    header nav ul {
+        margin-top: .33em;
+    }
+    header a#cornerlogo img {
+        width: 100px;
+        top: 30px;
+    }
+    header {
+        height: 320px;
+    }
+    #headbox h3.homepage, #headbox h4.homepage {
+        margin-left: 0;
+    }
+    .homepage #headbox {
+        padding-top: 25%;
+    }
+}
+@media screen and (max-width: 360px) {
+    #headbox h2 {
+        font-size: 1.8em;
+    }
+    #headbox h3 {
+        font-size: 1em;
+    }
+    p, body.interior #contentbox li {
+        font-size: 1.1em;
+    }
+    #headbox h4.homepage {
+        font-size: 1.1em;
+    }
+    img.makethelogobigger {
+        top: -30px;
+    }
 }
