@@ -13,4 +13,4 @@ SRCCON 2015 will be at the beautiful, spacious McNamara Alumni Center on the Twi
 
 We’re reserving a block of rooms at the adjoining Commons Hotel, where we will also offer licensed childcare, and there are other great lodging options nearby as well.
 
-Many more details about lodging and logistics will arrive as the on-sale date approaches, including information about meals and childcare arrangements, plus restaurant, day-trip, and activity recommendations .
+Many more details about lodging and logistics will arrive as the on-sale date approaches, including information about meals and childcare arrangements, plus restaurant, day-trip, and activity recommendations.

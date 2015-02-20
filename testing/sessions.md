@@ -7,7 +7,7 @@ sub-section: interior
 background: postits
 permalink: /testing/sessions/index.html
 ---
-Our call for proposals opens March 18 and closes April 8. And in the next few weeks, we’ll be posting more information about what we’re looking for, the selection process, and what it’s like to lead a session. [Check out last year’s schedule](http://2014.srccon.org/schedule/) for a taste of the inaugural SRCCON, and a source of inspiration for your own pitch.
+Our call for proposals opens March 18 and closes April 8. In the next few weeks, we’ll be posting more information about the selection process, and what it’s like to lead a session. [Check out last year’s schedule](http://2014.srccon.org/schedule/) for a taste of the inaugural SRCCON and a source of proposal-writing inspiration.
 
 We’ll also provide information about our evening programming options, which will range from lightning talks and skillshares to tabletop games and unstructured chill time.
 
