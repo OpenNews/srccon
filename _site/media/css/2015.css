@@ -31,9 +31,18 @@ header.dotpattern {
   background-image: url(/media/img/2015/dotpattern.jpg);
 }
 
+header.postits {
+  background-image: url(/media/img/2015/post-its.jpg);
+}
+
+header.tickets {
+  background-image: url(/media/img/2015/tickets.jpg);
+}
+
 header.mcnamara h3 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
+
 
 #headertop {
   width: 100%;
@@ -72,7 +81,7 @@ header .byline {
   left: 6px;
   top: 280px;
   margin-bottom: 0px;
-  opacity: .5;
+  opacity: .6;
 }
 
 .byline a {
@@ -190,6 +199,16 @@ ul.homepage li {
   padding-top: 25px;
 }
 
+ul.homepage li h3 a {
+  color: #404040;
+  text-decoration: none;
+}
+
+ul.homepage li h3 a:hover {
+  color: black;
+  border-bottom: 1px solid black;
+}
+
 ul.homepage li h3 {
   font-size: 1.8em;
   margin-bottom: 0px;
@@ -246,7 +265,7 @@ padding-left: 0;
 
 body.interior #contentbox li {
   margin-bottom: 25px;
-  list-style-type: none;
+  list-style: circle outside url(/media/img/2015/bullet.jpg);
 }
 
 p a, p.small a {
