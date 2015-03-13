@@ -373,7 +373,45 @@ footer .columns {
   margin-bottom: 50px;
 }
 
+#buttonbox {
+  height: 200px;
+  margin-top: 50px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 50px;
+}
 
+.buttontext {
+  width: 60%;
+  float: left;
+  padding-right: 20px;
+}
+
+.buttontext p {
+  font-size: 1.1em;
+}
+
+.btn {
+  float: right;
+  cursor: pointer;
+  width: 40%;
+  background: #fcd63c;
+  background-image: linear-gradient(to bottom, #ff8c00, #f07203);
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 20px 30px 20px 30px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #d9aa34;
+  background-image: linear-gradient(to bottom, #ff6600, #f04305);
+  text-decoration: none;
+}
+
+/* RESPONSIVE STUFF STARTS HERE */
 
 @media screen and (max-width: 1020px) {
     header, footer {

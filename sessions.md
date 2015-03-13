@@ -7,6 +7,13 @@ sub-section: interior
 background: postits
 permalink: /sessions/index.html
 ---
+<div id="buttonbox">
+<h2>Session Proposals are Now Open</h2>
+<div class="buttontext">
+<p>Additional copy one or two sentences worth that say a thing about that. And yay. And stuff. And woo.</p>
+</div>
+<p class="btn">Pitch Your Session</p>
+</div>
 Our call for proposals opens March 18 and closes April 8. In the next few weeks, we’ll be posting more information about the selection process, and what it’s like to lead a session. [Check out last year’s schedule](http://2014.srccon.org/schedule/) for a taste of the inaugural SRCCON and a source of proposal-writing inspiration.
 
 We’ll also provide information about our evening programming options, which will range from lightning talks and skillshares to tabletop games and unstructured chill time.
