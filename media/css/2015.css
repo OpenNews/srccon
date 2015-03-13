@@ -10,6 +10,9 @@ body {
   color: #404040;
 }
 
+.tk-ff-tisa-sans-web-pro, footer, h2, h3, h4, nav, p.small {
+  line-height: 1.7em;
+}
 header {
   overflow-x: hidden;
   height: 400px;
@@ -79,6 +82,7 @@ header nav {
   float: right;
   overflow: hidden;
   font-size: 1.1em;
+  line-height: 1.7em;
 }
 
 header .byline {
