@@ -213,7 +213,7 @@ ul.homepage li {
   padding-top: 25px;
 }
 
-ul.homepage li h3 a {
+ul.homepage li h3 a, .homepage #buttonbox h3 {
   color: #404040;
   text-decoration: none;
 }
@@ -223,7 +223,7 @@ ul.homepage li h3 a:hover {
   border-bottom: 1px solid black;
 }
 
-ul.homepage li h3 {
+ul.homepage li h3, .homepage #buttonbox h3 {
   font-size: 1.8em;
   margin-bottom: 0px;
 }
@@ -378,10 +378,23 @@ footer .columns {
 }
 
 #buttonbox {
-  height: 200px;
-  margin-top: 50px;
+  height: auto;
+  margin-top: 30px;
   border-bottom: 1px solid #ccc;
   margin-bottom: 50px;
+}
+
+.homepage #buttonbox {
+  height: auto;
+  margin-top: 40px;
+  border-bottom: 1px solid white;
+  margin-bottom: 0px;
+}
+
+#buttonbox h3 {
+  margin-bottom: 0px;
+  font-size: 1.5em;
+  color: #ff8c00;
 }
 
 .buttontext {
@@ -390,16 +403,19 @@ footer .columns {
   padding-right: 20px;
 }
 
-.buttontext p {
+.buttontext p, p.bottomrun {
   font-size: 1.1em;
+}
+
+.homepage .buttontext p, .homepage p.bottomrun {
+  font-size: 1.3em;
 }
 
 .btn {
   float: right;
   cursor: pointer;
   width: 40%;
-  background: #fcd63c;
-  background-image: linear-gradient(to bottom, #ff8c00, #f07203);
+  background: #ff8c00;
   border-radius: 10px;
   font-family: Arial;
   color: #ffffff;
@@ -409,10 +425,23 @@ footer .columns {
   text-align: center;
 }
 
+.homepage .btn {
+  background: #caa5ce;
+}
+
+.homepage .btn:hover {
+  background: #6c4f77;
+}
+
 .btn:hover {
-  background: #d9aa34;
-  background-image: linear-gradient(to bottom, #ff6600, #f04305);
+  background: #ff6600;
   text-decoration: none;
+}
+
+.bottomrun {
+  clear: both;
+  width: 100%;
+  padding-bottom: 10px;
 }
 
 /* RESPONSIVE STUFF STARTS HERE */
