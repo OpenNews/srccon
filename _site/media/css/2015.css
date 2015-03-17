@@ -480,12 +480,15 @@ form.fr_form label[for=c29] {
   margin-top: 40px;
 }
 
-form.fr_form .fr_response_field_paragraph textarea.size_medium, form.fr_form .fr_response_field_text input.size_medium, form.fr_form .fr_response_field_text input {
+form.fr_form .fr_response_field_paragraph textarea.size_medium, form.fr_form .fr_response_field_text input.size_medium, form.fr_form .fr_response_field_text input, form.fr_form .fr_response_field_paragraph textarea {
   width: 100%;
 }
 
-form.fr_form .fr_response_field_text input#c12 {
+form.fr_form .fr_response_field_text input#c12, form.fr_form .fr_response_field_text input#c18 {
   width: 160px;
+}
+
+form.fr_form div.fr_response_field_block_of_text {
 }
 
 
