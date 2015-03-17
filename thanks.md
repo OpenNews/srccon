@@ -7,7 +7,7 @@ sub-section: interior
 background: postits
 permalink: /sessions/thanks/index.html
 ---
-<h2>Thank you for submitting a proposal to SRCCON!</h2>
+<h1>Thank you for submitting a proposal to SRCCON!</h1>
 
 We'll notify all proposers about the status of their sessions by Friday, April 24, and we expect to publish our list of accepted sessions on Tuesday, April 28. If you like, you can [submit another proposal](/sessions/pitch). If you’re all set, please consider inviting friends and colleagues to submit a proposal and join us in Minneapolis July 25-26.
 
