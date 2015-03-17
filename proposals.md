@@ -7,6 +7,7 @@ sub-section: interior
 background: postits
 permalink: /sessions/pitch/index.html
 ---
+#Propose a Session
 
 Proposals will be published on this site (fields marked as private excepted), and the sessions we accept will form the program for the two-day conference.  [Check out the session page](srccon.org/sessions) for examples more detailed guidance on proposing a session, and feel free to [contact us](mailto:srccon@opennews.org) if you have any questions about your proposal.
 

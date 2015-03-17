@@ -10,7 +10,7 @@ body {
   color: #404040;
 }
 
-.tk-ff-tisa-sans-web-pro, footer, h2, h3, h4, nav, p.small {
+.tk-ff-tisa-sans-web-pro, footer, h2, h3, h4, nav, p.small, #contentbox h1 {
   line-height: 1.7em;
 }
 header {
@@ -20,6 +20,7 @@ header {
   background-position: 0 0;
   max-width: 1500px;
   margin: 0px auto;
+  margin-bottom: 50px;
   position: relative;
 }
 
@@ -213,7 +214,7 @@ ul.homepage li {
   padding-top: 25px;
 }
 
-ul.homepage li h3 a, .homepage #buttonbox h3 {
+ul.homepage li h3 a, .homepage #buttonbox h3, #contentbox h1 {
   color: #404040;
   text-decoration: none;
 }
@@ -278,11 +279,28 @@ padding-left: 0;
 }
 
 body.interior #contentbox li {
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   list-style: circle outside;
 }
 
-p a, p.small a {
+
+#contentbox h1 {
+  font-family: "ff-tisa-sans-web-pro",sans-serif;
+  font-size: 1.8em;
+  margin-bottom: 10px;
+}
+
+#contentbox h2 {
+  margin-bottom: 0px;
+  margin-top: 35px;
+}
+
+#contentbox p {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+p a, p.small a, li a {
   color: #404040;
   text-decoration: none;
   border-bottom: 1px solid #ccc;
@@ -292,7 +310,7 @@ p.small a {
   border-bottom: 1px solid #aaa;
 }
 
-p a:hover, p.small a:hover {
+p a:hover, p.small a:hover, li a:hover {
   color: black;
   border-bottom: 1px solid black;
 }
@@ -423,10 +441,12 @@ footer .columns {
   padding: 20px 30px 20px 30px;
   text-decoration: none;
   text-align: center;
+  margin-left: 25px;
 }
 
 .homepage .btn {
   background: #caa5ce;
+  margin-left: 0px;
 }
 
 .homepage .btn:hover {
@@ -445,6 +465,10 @@ footer .columns {
 }
 /* FORM FOR SUMBISSIONS */
 
+div.fr_page {
+  margin-top: 50px;
+}
+
 form.fr_form {
   font-family: "ff-tisa-web-pro",serif;
 }
@@ -457,10 +481,11 @@ form.fr_form div.size_large, form.fr_form div.size_medium  {
 
 form.fr_form div.size_large {
   margin-bottom: 25px;
-  margin-top: 25px;
+  margin-top: 40px;
 }
 
 form.fr_form div.size_medium {
+  margin-top: 40px;
   color: #ff8c00;
 }
 

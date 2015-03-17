@@ -7,12 +7,21 @@ sub-section: interior
 background: postits
 permalink: /sessions/index.html
 ---
-{% include sessionpitch.html %}
+<!--session button-->
+<p class="btn" id="pitchbutton">Propose a Session</p>
+<!--<p class="bottomrun">We're already recieving great sessions. <a href="">View the proposals so far.</a></p>-->
 
-SRCCON is built around two days of small-group conversations, hands-on workshops, and skillshares, and *you* should consider [pitching a session now](/sessions/pitch). 
+<script type="text/javascript">
+document.getElementById("pitchbutton").onclick = function () {
+  location.href = "/sessions/pitch";
+};
+</script>
+<!-- end session button -->
+
+SRCCON is built around two days of small-group conversations, hands-on workshops, and skillshares, and *you* should consider [pitching a session now](/sessions/pitch).
 
 ## What Makes a Great Session?
-Successful sessions often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet other folks have dealt with it, too. 
+Successful sessions often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet other folks have dealt with it, too.
 
 Last year's sessions dealt with topics including newsroom cross-training, CMSes, skillshares on specific libraries and tools, interactive design specifics, diversity in news technology teams, security, the business of news startups, and many different approaches to data-wrangling. To give you a taste, here's [a small selection of great sessions from 2014](#examples).
 
