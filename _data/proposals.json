@@ -2,16 +2,6 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
-        "description": "test", 
-        "facilitator": "test", 
-        "facilitator_twitter": "test", 
-        "id": 105250, 
-        "submitted_at": "2015-03-17T18:37:17.067Z", 
-        "title": "test"
-    }, 
-    {
-        "cofacilitator": null, 
-        "cofacilitator_twitter": null, 
         "description": "testing srccon site from localhost", 
         "facilitator": "Dan Sinker", 
         "facilitator_twitter": null, 
