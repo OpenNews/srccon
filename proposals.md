@@ -7,11 +7,10 @@ sub-section: interior
 background: postits
 permalink: /sessions/pitch/index.html
 ---
-Loosely speaking, our program will feature facilitated conversations and workshops focused on code, data, security, interactive design, newsroom culture, and related topics with relevance to our community. But most of all, we want to know what you want to talk about—and work on—at SRCCON.
 
-Proposals will be published on this site (private form fields excepted), and the sessions we accept will be used to craft the schedule for the two-day conference. SRCCON staff will be available throughout the proposal process, during the run-up to the event, and all through the conference if you have any questions about your session idea or would like support in leading a great session.
+Proposals will be published on this site (fields marked as private excepted), and the sessions we accept will form the program for the two-day conference.  [Check out the session page](srccon.org/sessions) for examples more detailed guidance on proposing a session, and feel free to [contact us](mailto:srccon@opennews.org) if you have any questions about your proposal.
 
-So tell us, what’s your perfect SRCCON session? ([Check out the session page](srccon.org/sessions) for examples more detailed guidance on proposing a session.)
+So tell us, what’s your perfect SRCCON session?
 
 <!-- Include jQuery if it's not already included: -->
 <script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-1.11.2.min.js"><\/script>')</script>
