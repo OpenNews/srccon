@@ -129,6 +129,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
+  color: white;
   border-bottom: 1px solid white;
 }
 
@@ -288,6 +289,7 @@ body.interior #contentbox li {
   font-family: "ff-tisa-sans-web-pro",sans-serif;
   font-size: 1.8em;
   margin-bottom: 10px;
+  line-height: 1.4em;
 }
 
 #contentbox h2 {
@@ -541,6 +543,10 @@ form.fr_form div.fr_response_field_block_of_text {
     text-decoration: none;
     color: #111;
 }
+
+.session-description {
+  font-size: 1.3em;
+}
 a .permalink {
     display: none;
     color: #777;
@@ -565,7 +571,7 @@ a:hover .permalink {
 }
 
 @media screen and (max-width: 800px) {
-    p, body.interior #contentbox li {
+    p, body.interior #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
       font-size: 1.4em;
       line-height: 1.6em;
     }
@@ -613,7 +619,7 @@ a:hover .permalink {
 }
 
 @media screen and (max-width: 640px) {
-    p, body.interior #contentbox li {
+    p, body.interior #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
       font-size: 1.3em;
       line-height: 1.5em;
     }
@@ -633,6 +639,7 @@ a:hover .permalink {
     }
     header {
         height: 340px;
+        margin-bottom: 30px;
     }
     header .byline {
         top: 230px;
@@ -656,6 +663,13 @@ a:hover .permalink {
     #headbox h4.homepage {
         font-size: 1.3em;
     }
+    .btn {
+      font-size: 1em;
+      width: 100%;
+    }
+    .buttontext {
+      width: 100%;
+    }
 }
 
 @media screen and (max-width: 560px) {
@@ -670,7 +684,7 @@ a:hover .permalink {
     }
 }
 @media screen and (max-width: 480px) {
-    p, body.interior #contentbox li, ul.homepage li p  {
+    p, body.interior #contentbox li, ul.homepage li p, .homepage .buttontext p, .homepage p.bottomrun  {
       font-size: 1.2em;
     }
     footer #sponsorbox ul li {
