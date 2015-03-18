@@ -387,6 +387,7 @@ footer .col ul li:last-child {
 footer .col ul li a {
   color: #404040;
   text-decoration: none;
+  border-bottom: none;
 }
 
 footer .col ul li a:hover {
