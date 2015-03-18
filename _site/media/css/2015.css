@@ -295,6 +295,7 @@ body.interior #contentbox li {
 #contentbox h2 {
   margin-bottom: 0px;
   margin-top: 35px;
+  line-height: 1.2em;
 }
 
 #contentbox p {
@@ -415,6 +416,7 @@ footer .columns {
   margin-bottom: 0px;
   font-size: 1.5em;
   color: #ff8c00;
+  line-height: 1.4em;
 }
 
 .buttontext {
@@ -431,7 +433,7 @@ footer .columns {
   font-size: 1.3em;
 }
 
-.btn {
+.btn, form.fr_form button {
   float: right;
   cursor: pointer;
   width: 40%;
@@ -446,6 +448,19 @@ footer .columns {
   margin-left: 25px;
 }
 
+div.fr_bottom_bar {
+  padding: 0px;
+  margin-top: 50px;
+  background-color: white;
+}
+
+form.fr_form button {
+  float: left;
+  margin-left: 0px;
+  border:none;
+  box-shadow: none;
+}
+
 .homepage .btn {
   background: #caa5ce;
   margin-left: 0px;
@@ -455,7 +470,7 @@ footer .columns {
   background: #6c4f77;
 }
 
-.btn:hover {
+.btn:hover, form.fr_form button:hover {
   background: #ff6600;
   text-decoration: none;
 }
@@ -663,7 +678,7 @@ a:hover .permalink {
     #headbox h4.homepage {
         font-size: 1.3em;
     }
-    .btn {
+    .btn, form.fr_form button {
       font-size: 1em;
       width: 100%;
     }
