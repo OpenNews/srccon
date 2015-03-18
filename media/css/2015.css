@@ -517,6 +517,42 @@ form.fr_form div.fr_response_field_block_of_text {
 }
 
 
+/* SESSION PROPOSALS */
+.session-proposal-list {
+    clear: both;
+    margin-top: 4em;
+}
+.session-proposal {
+    margin-bottom: 4em;
+}
+.session-proposal h2,
+.session-proposal .facilitator {
+    font-family: "ff-tisa-sans-web-pro", sans-serif;
+}
+#contentbox .session-proposal p {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+#contentbox .session-proposal p.facilitator {
+    font-size: 1.1em;
+    margin: .5em 0 .33em;
+}
+.session-title a {
+    text-decoration: none;
+    color: #111;
+}
+a .permalink {
+    display: none;
+    color: #777;
+    font-size: .75em;
+    line-height: 1em;
+    margin-left: .33em;
+    vertical-align: middle;
+}
+a:hover .permalink {
+    display: inherit;
+}
+
 /* RESPONSIVE STUFF STARTS HERE */
 
 @media screen and (max-width: 1020px) {
