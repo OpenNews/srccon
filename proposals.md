@@ -5,28 +5,19 @@ subtitle: Our peer-led sessions combine skillsharing, discussion, and collaborat
 section: sessions
 sub-section: interior
 background: postits
-permalink: /sessions/pitch/index.html
+permalink: /sessions/proposals/index.html
 ---
-#Propose a Session
+#Proposals
 
-Proposals will be published on this site (fields marked as private excepted), and the sessions we accept will form the program for the two-day conference.  [Check out the session page](srccon.org/sessions) for examples more detailed guidance on proposing a session, and feel free to [contact us](mailto:srccon@opennews.org) if you have any questions about your proposal.
+The latest proposed sessions for SRCCON 2015. [Pitch your own session now!](/sessions/pitch)
 
-So tell us, what’s your perfect SRCCON session?
-
-<!-- Include jQuery if it's not already included: -->
-<script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-1.11.2.min.js"><\/script>')</script>
-
-<!-- Stick these two lines in your <head> if possible: -->
-<link href="//d3q1ytufopwvkq.cloudfront.net/0.3.10/formrenderer.css" rel="stylesheet" />
-<script src="//d3q1ytufopwvkq.cloudfront.net/0.3.10/formrenderer.js"></script>
-
-<form data-formrenderer></form>
-
-<script>
-new FormRenderer({
-  "project_id": 907,
-  "enableAutosave": false,
-  "afterSubmit": "/sessions/thanks"
-  });
-  </script>
-  <noscript>Our proposal submission form uses javascript, but it looks you have it disabled in your browser. You can re-enable javascript and refresh this page, or <a href="https://screendoor.dobt.co/opennews/srccon-2015-proposals/responses/new">use this standalone form</a>."</noscript>
+<div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
+{% for proposal in site.data.proposals %}
+    {% if proposal.facilitator and proposal.facilitator_twitter %}{% capture facilitator_name %}<a href="https://twitter.com/{{ proposal.facilitator_twitter }}">{{ proposal.facilitator }}</a>{% endcapture %}{% elsif proposal.facilitator %}{% capture facilitator_name %}{{ proposal.facilitator }}{% endcapture %}{% else %}{% assign facilitator_name = false %}{% endif %}{% if proposal.cofacilitator and proposal.cofacilitator_twitter %}{% capture cofacilitator_name %}<a href="https://twitter.com/{{ proposal.cofacilitator_twitter }}">{{ proposal.cofacilitator }}</a>{% endcapture %}{% elsif proposal.cofacilitator %}{% capture cofacilitator_name %}and {{ proposal.cofacilitator }}{% endcapture %}{% else %}{% assign cofacilitator_name = false %}{% endif %}
+    <div class="session-proposal" id="proposal-{{ proposal.id }}">
+        <h2 class="session-title"><a href="#proposal-{{ proposal.id }}">{{ proposal.title }} <span class="permalink">&para;</span></a></h2>
+        {% if facilitator_name %}<p class="facilitator">Proposed by {{ facilitator_name }}{% if cofacilitator_name %} and {{ cofacilitator_name }}{% endif %}</p>{% endif %}
+        <p class="session-description">{{ proposal.description }}</p>
+    </div>
+{% endfor %}
+</div>
