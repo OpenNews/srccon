@@ -10,7 +10,7 @@ body {
   color: #404040;
 }
 
-.tk-ff-tisa-sans-web-pro, footer, h2, h3, h4, nav, p.small {
+.tk-ff-tisa-sans-web-pro, footer, h2, h3, h4, nav, p.small, #contentbox h1 {
   line-height: 1.7em;
 }
 header {
@@ -20,6 +20,7 @@ header {
   background-position: 0 0;
   max-width: 1500px;
   margin: 0px auto;
+  margin-bottom: 50px;
   position: relative;
 }
 
@@ -128,6 +129,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
+  color: white;
   border-bottom: 1px solid white;
 }
 
@@ -213,7 +215,7 @@ ul.homepage li {
   padding-top: 25px;
 }
 
-ul.homepage li h3 a {
+ul.homepage li h3 a, .homepage #buttonbox h3, #contentbox h1 {
   color: #404040;
   text-decoration: none;
 }
@@ -223,7 +225,7 @@ ul.homepage li h3 a:hover {
   border-bottom: 1px solid black;
 }
 
-ul.homepage li h3 {
+ul.homepage li h3, .homepage #buttonbox h3 {
   font-size: 1.8em;
   margin-bottom: 0px;
 }
@@ -278,11 +280,30 @@ padding-left: 0;
 }
 
 body.interior #contentbox li {
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   list-style: circle outside;
 }
 
-p a, p.small a {
+
+#contentbox h1 {
+  font-family: "ff-tisa-sans-web-pro",sans-serif;
+  font-size: 1.8em;
+  margin-bottom: 10px;
+  line-height: 1.4em;
+}
+
+#contentbox h2 {
+  margin-bottom: 0px;
+  margin-top: 45px;
+  line-height: 1.2em;
+}
+
+#contentbox p {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+p a, p.small a, li a {
   color: #404040;
   text-decoration: none;
   border-bottom: 1px solid #ccc;
@@ -292,7 +313,7 @@ p.small a {
   border-bottom: 1px solid #aaa;
 }
 
-p a:hover, p.small a:hover {
+p a:hover, p.small a:hover, li a:hover {
   color: black;
   border-bottom: 1px solid black;
 }
@@ -366,6 +387,7 @@ footer .col ul li:last-child {
 footer .col ul li a {
   color: #404040;
   text-decoration: none;
+  border-bottom: none;
 }
 
 footer .col ul li a:hover {
@@ -377,7 +399,188 @@ footer .columns {
   margin-bottom: 50px;
 }
 
+#buttonbox {
+  height: auto;
+  margin-top: 30px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 50px;
+}
 
+.homepage #buttonbox {
+  height: auto;
+  margin-top: 40px;
+  border-bottom: 1px solid white;
+  margin-bottom: 0px;
+}
+
+#buttonbox h3 {
+  margin-bottom: 0px;
+  font-size: 1.5em;
+  color: #ff8c00;
+  line-height: 1.4em;
+}
+
+.buttontext {
+  width: 60%;
+  float: left;
+  padding-right: 20px;
+}
+
+.buttontext p, p.bottomrun {
+  font-size: 1.1em;
+}
+
+.homepage .buttontext p, .homepage p.bottomrun {
+  font-size: 1.3em;
+}
+
+.btn, form.fr_form button {
+  float: right;
+  cursor: pointer;
+  width: 40%;
+  background: #ff8c00;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 20px 30px 20px 30px;
+  text-decoration: none;
+  text-align: center;
+  margin-left: 25px;
+}
+
+div.fr_bottom_bar {
+  padding: 0px;
+  margin-top: 50px;
+  background-color: white;
+}
+
+form.fr_form button {
+  float: left;
+  margin-left: 0px;
+  border:none;
+  box-shadow: none;
+}
+
+.homepage .btn {
+  background: #caa5ce;
+  margin-left: 0px;
+}
+
+.homepage .btn:hover {
+  background: #6c4f77;
+}
+
+.btn:hover, form.fr_form button:hover {
+  background: #ff6600;
+  text-decoration: none;
+}
+
+.bottomrun {
+  clear: both;
+  width: 100%;
+  padding-bottom: 10px;
+}
+/* FORM FOR SUMBISSIONS */
+
+div.fr_page {
+  margin-top: 50px;
+}
+
+form.fr_form input, form.fr_form textarea {
+  font-family: "ff-tisa-web-pro",serif;
+  font-size: 1em;
+}
+
+form.fr_form {
+  font-family: "ff-tisa-web-pro",serif;
+}
+
+form.fr_form div.size_large, form.fr_form div.size_medium  {
+  font-family: "ff-tisa-sans-web-pro",sans-serif;
+  font-weight: 600;
+  color: #404040;
+}
+
+form.fr_form div.size_large {
+  margin-bottom: 25px;
+  margin-top: 40px;
+}
+
+form.fr_form div.size_medium {
+  margin-top: 40px;
+  color: #ff8c00;
+}
+
+form.fr_form label, form.fr_form div.size_small {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  line-height: 1.4em;
+}
+
+form.fr_form div.fr_description {
+  margin-top: 10px;
+  line-height: 1.4em;
+  color: grey;
+}
+
+form.fr_form label[for=c29] {
+  margin-top: 40px;
+}
+
+form.fr_form .fr_response_field_paragraph textarea.size_medium, form.fr_form .fr_response_field_text input.size_medium, form.fr_form .fr_response_field_text input, form.fr_form .fr_response_field_paragraph textarea, form.fr_form input#c35 {
+  width: 100%;
+}
+
+form.fr_form .fr_response_field_text input#c12, form.fr_form .fr_response_field_text input#c18 {
+  width: 160px;
+}
+
+form.fr_form div.fr_response_field_block_of_text {
+}
+
+
+/* SESSION PROPOSALS */
+.session-proposal-list {
+    clear: both;
+    margin-top: 4em;
+}
+.session-proposal {
+    margin-bottom: 4em;
+}
+.session-proposal h2,
+.session-proposal .facilitator {
+    font-family: "ff-tisa-sans-web-pro", sans-serif;
+}
+#contentbox .session-proposal p {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+#contentbox .session-proposal p.facilitator {
+    font-size: 1.1em;
+    margin: .5em 0 .33em;
+}
+.session-title a {
+    text-decoration: none;
+    color: #111;
+}
+
+.session-description {
+  font-size: 1.3em;
+}
+a .permalink {
+    display: none;
+    color: #777;
+    font-size: .75em;
+    line-height: 1em;
+    margin-left: .33em;
+    vertical-align: middle;
+}
+a:hover .permalink {
+    display: inherit;
+}
+
+/* RESPONSIVE STUFF STARTS HERE */
 
 @media screen and (max-width: 1020px) {
     header, footer {
@@ -389,7 +592,7 @@ footer .columns {
 }
 
 @media screen and (max-width: 800px) {
-    p, body.interior #contentbox li {
+    p, body.interior #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
       font-size: 1.4em;
       line-height: 1.6em;
     }
@@ -437,7 +640,7 @@ footer .columns {
 }
 
 @media screen and (max-width: 640px) {
-    p, body.interior #contentbox li {
+    p, body.interior #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
       font-size: 1.3em;
       line-height: 1.5em;
     }
@@ -457,6 +660,7 @@ footer .columns {
     }
     header {
         height: 340px;
+        margin-bottom: 30px;
     }
     header .byline {
         top: 230px;
@@ -480,6 +684,13 @@ footer .columns {
     #headbox h4.homepage {
         font-size: 1.3em;
     }
+    .btn, form.fr_form button {
+      font-size: 1em;
+      width: 100%;
+    }
+    .buttontext {
+      width: 100%;
+    }
 }
 
 @media screen and (max-width: 560px) {
@@ -494,7 +705,7 @@ footer .columns {
     }
 }
 @media screen and (max-width: 480px) {
-    p, body.interior #contentbox li, ul.homepage li p  {
+    p, body.interior #contentbox li, ul.homepage li p, .homepage .buttontext p, .homepage p.bottomrun  {
       font-size: 1.2em;
     }
     footer #sponsorbox ul li {
