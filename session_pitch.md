@@ -9,7 +9,7 @@ permalink: /sessions/pitch/index.html
 ---
 #Propose a Session
 
-Proposals will be published on this site (fields marked as private excepted), and the sessions we accept will form the program for the two-day conference.  [Check out the session page](/sessions) for examples and more detailed guidance on proposing a session, and feel free to [contact us](mailto:srccon@opennews.org) if you have any questions about your proposal.
+We're publishing proposals [here on the SRCCON site](/sessions/proposals) (without fields marked as private, of course), and the sessions we accept will form the program for the two-day conference.  [Check out the session page](/sessions) for examples and more detailed guidance on proposing a session, and feel free to [contact us](mailto:srccon@opennews.org) if you have any questions about your proposal.
 
 So tell us, what’s your perfect SRCCON session?
 
