@@ -15,6 +15,6 @@ SRCCON returns, bringing another round of participatory, interactive sessions ce
 
 <ul class="homepage">
 <li class="left"><a href="/tickets"><img src="/media/img/2015/ticket_dot.jpg" class="right"></a><h3><a href="/tickets">Tickets</a></h3><p>Tickets go on sale April 29, and we expect them to sell out very quickly.
-<li class="right"><a href="/sessions"><img src="/media/img/2015/session_dot.jpg"></a><h3><a href="/sessions">Sessions</a></h3><p>Our peer-led, interactive sessions combine skillsharing, discussion, and collaboration. <a href="/sessions">Proposals are open now</a>!
+<li class="right"><a href="/sessions"><img src="/media/img/2015/session_dot.jpg"></a><h3><a href="/sessions">Sessions</a></h3><p>Our peer-led sessions combine skillsharing, discussion, and collaboration. <a href="/sessions/proposals">Proposals are already rolling in</a>!
 <li class="left"><a href="/location"><img src="/media/img/2015/location.jpg"></a><h3><a href="/location">Location</a></h3><p>This year we meet in Minneapolis, home of Prince and many excellent restaurants.
 </ul>
