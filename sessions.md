@@ -18,7 +18,10 @@ document.getElementById("pitchbutton").onclick = function () {
 </script>
 <!-- end session button -->
 
-SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. The community members who step up to design and facilitate these sessions are the ones who make it all possible—which is why *you* should consider [pitching a session now](/sessions/pitch).
+SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. The community members who step up to design and facilitate these sessions are the ones who make it all possible—which is why *you* should consider [proposing a session now](/sessions/pitch).
+
+## Watch 'Em Coming In
+We're posting session proposals now through April 10, when proposals close and we start building the SRCCON schedule. [Take a look at what your colleagues are proposing](/sessions/proposals) and then [pitch your own](/sessions/pitch).
 
 ## What Makes a Great Session?
 Successful sessions often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet other folks have dealt with it, too.
