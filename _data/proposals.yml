@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Most of what we do is make things for the web, but how we actually do it can vary greatly.  Choosing tools and methods can be complex decisions, especially in the hip, constantly-changing front-end space.  Let's rap about the tools we use, or don't use, or  just thought about using, and all the things that go into those decisions.  Beginner or advanced, you will have something to share and will definitely learn a thing or two.\n\nSome potential sub-topics could be CSS processing (LESS/SASS), Javascript frameworks (Backbone/Angular/Ractive), icons (SVG/Font-icons), interface frameworks (Bootsrap/Foundation), dependency management (Require/Browserify), building (Gulp/Grunt), and so much more.", 
+        "facilitator": "Alan Palazzolo", 
+        "facilitator_twitter": "zzolo", 
+        "id": 109044, 
+        "submitted_at": "2015-03-25T21:20:24.831Z", 
+        "title": "What (front-end) tools do you use?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Redesigns are an excellent opportunity to take a step back and make non-design changes to your site, too. Let’s face it: Over time, junk builds up, and you have section fronts that haven’t been updated in years. Or they have old styles. Or they aren’t organized the same way others are. Let’s talk about redesigns from a non-design perspective: dividing the labor, satisfying competing interests, identifying problems, using data to determine organization, retraining staff and applying consistent styles.", 
         "facilitator": "Rachel Schallom", 
         "facilitator_twitter": "rschallom", 
