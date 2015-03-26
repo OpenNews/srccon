@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Learn what it really means to play Dungeons & Dragons — and how the creative concepts behind roleplaying games are especially applicable to teaching journalism. After playing some (adapted version of) D&D, we'll discuss examples of how others have used roleplaying to teach, which lessons lend themselves to roleplaying, and finally, create as a group a lesson plan for making your next class an adventure. \n\n<i>The unamended title of this session pitch is: The Dungeon Master's Guide to Teaching Journalism, 3rd Edition, Revised (v3.5)</i>", 
+        "facilitator": "Sisi Wei", 
+        "facilitator_twitter": "sisiwei", 
+        "id": 109679, 
+        "submitted_at": "2015-03-26T22:48:34.205Z", 
+        "title": "The Dungeon Master's Guide to Teaching Journalism"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Most of what we do is make things for the web, but how we actually do it can vary greatly.  Choosing tools and methods can be complex decisions, especially in the hip, constantly-changing front-end space.  Let's rap about the tools we use, or don't use, or  just thought about using, and all the things that go into those decisions.  Beginner or advanced, you will have something to share and will definitely learn a thing or two.\n\nSome potential sub-topics could be CSS processing (LESS/SASS), Javascript frameworks (Backbone/Angular/Ractive), icons (SVG/Font-icons), interface frameworks (Bootsrap/Foundation), dependency management (Require/Browserify), building (Gulp/Grunt), and so much more.", 
         "facilitator": "Alan Palazzolo", 
         "facilitator_twitter": "zzolo", 
