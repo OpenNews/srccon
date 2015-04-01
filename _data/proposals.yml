@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "There's lots of little attributes which define the \"quality\" of a piece of content — just like there are attributes which define code quality. Developers have continuous integration to run automated checks on their code, but journalists have editors — who are prone to human error.\n\nIt's easy and quite common to forget to add a photo credit, or spell the SEO title incorrectly. What are some ways we can automate these errors out of existence?\n\nLet's get together, present some real world \"quality\" problems to work on, prototype, wireframe, and define algorithms, and then share our results.", 
+        "facilitator": "Daniel Bachhuber", 
+        "facilitator_twitter": "danielbachhuber", 
+        "id": 113550, 
+        "submitted_at": "2015-04-01T20:24:25.821Z", 
+        "title": "Continous Integration for Content"
+    }, 
+    {
+        "cofacilitator": "Julia Smith", 
+        "cofacilitator_twitter": "julia67", 
+        "description": "Newsrooms developers often build applications and visualizations using dynamic tools like d3.js, AJAX, canvas and others. However, these approaches to data viz and digital storytelling often don't consider users who have low-bandwidth Internet connections, budget smartphones, screen readers or hi-res displays. This session will look at existing data visualization projects and see how they could be adapted to work on low-end phones, computers with accessibility enhancements and other environments. We'll also brainstorm techniques and approaches for building wonderful and beautiful digital stories that *everyone* can enjoy.", 
+        "facilitator": "Aaron Williams", 
+        "facilitator_twitter": "aboutaaron", 
+        "id": 112035, 
+        "submitted_at": "2015-03-31T18:08:49.818Z", 
+        "title": "Lo-fi data viz"
+    }, 
+    {
         "cofacilitator": "Aurelia Moser", 
         "cofacilitator_twitter": "@auremoser", 
         "description": "Let's build an inclusive dictionary of all the language and terms that create a safe and encouraging environment for a diverse group of people in and out of the newsroom. Some topics include: how to think about gender pronouns, what language to include in a job posting to encourage diverse applicants, how to build inclusive narratives, and what a checklist would look like to ensure representative and relevant perspectives on and in stories.", 
