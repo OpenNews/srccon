@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": "Adam Schweigert", 
+        "cofacilitator_twitter": "aschweig", 
+        "description": "Hear what INN, WNYC, and Fusion have learned while building distributed tech teams, and share your own best practices", 
+        "facilitator": "Davis Shaver", 
+        "facilitator_twitter": "davisshaver", 
+        "id": 113788, 
+        "submitted_at": "2015-04-02T12:52:49.288Z", 
+        "title": "Why we wear pants"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Projects like NodeSchool & Maptime are successful at organizing people across the world to learn about node.js & mapping, and spread quickly through clear & simple contribution processes powered by GitHub. Code for America Brigades bring civic hackers together across the country to improve government technology. \nWhat is the equivalent for learning & practicing journalism?\nIf you could create a news organization focused on teaching newcomers to the field with volunteer chapters across the country, what would that look like? What are the financial, editorial, educational, and organizational considerations? Anyone can start a local news blog, but what kind of infrastructure and education would best sustain these efforts? How might a distributed news organization be created using the community-building practices and tools of open source software? \nIn this session we'll break into groups to invent a news organization that uses the same tools as open source software, that is informed by inclusive community organizing practices, and that provides a learning laboratory where people are producing news in public as they learn.", 
+        "facilitator": "Seth Vincent", 
+        "facilitator_twitter": "sethdvincent", 
+        "id": 113595, 
+        "submitted_at": "2015-04-01T23:05:07.230Z", 
+        "title": "How might we build the journalism equivalent of NodeSchool, Maptime, & Code for America brigades?"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "There's lots of little attributes which define the \"quality\" of a piece of content — just like there are attributes which define code quality. Developers have continuous integration to run automated checks on their code, but journalists have editors — who are prone to human error.\n\nIt's easy and quite common to forget to add a photo credit, or spell the SEO title incorrectly. What are some ways we can automate these errors out of existence?\n\nLet's get together, present some real world \"quality\" problems to work on, prototype, wireframe, and define algorithms, and then share our results.", 
