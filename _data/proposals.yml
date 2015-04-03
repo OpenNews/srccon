@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Sometimes the reasons we created our newsroom chat bots — delivering horoscopes, telling horrible knock-knock jokes — aren’t the kinds of reasons that organization leaders will readily appreciate. In this session, we’ll talk about the tricks we’ve taught our bots (or would like to teach our bots) that help our team (whether we’re developers, reporters, or otherwise) get our actual work done — even if the bots’ work is never seen by readers.", 
+        "facilitator": "Tom Nehil", 
+        "facilitator_twitter": "minndata", 
+        "id": 114306, 
+        "submitted_at": "2015-04-03T21:39:13.873Z", 
+        "title": "Post hoc justifications for newsroom chat bots"
+    }, 
+    {
+        "cofacilitator": "Maura Youngman", 
+        "cofacilitator_twitter": "mauramaura", 
+        "description": "Want to get your work-in-progress product in front of prospective users but don’t know where to start? Unsure how to get your team comfortable with sharing work before it’s ready to ship? Talking to users can help generate product purposes, validate hunches, and challenge assumptions. \n\nUser experience researchers from The New York Times will discuss how to foster a culture of soliciting internal and external user feedback. Whether you’re looking to get a few newsroom producers to chime in or want to test with hundreds of people you’ve never met, this conversation about research methods and promoted practices will help you get underway.", 
+        "facilitator": "Emily Goligoski", 
+        "facilitator_twitter": "emgollie", 
+        "id": 114249, 
+        "submitted_at": "2015-04-03T18:15:09.915Z", 
+        "title": "Designing collaborative user research for news organizations"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Big news apps that you spent months building can be great, but on a day-to-day basis a news room’s data needs are often more modest — and come with a much tighter deadlines. In this session we'll talk about all the tiny visualizations that can be used to enhance stories but aren’t necessarily the story themselves — bar charts, locator maps, data tables and hopefully some others. We'll talk about the tools, templates and shortcuts (TextExpander, anyone?) that let you build this stuff on a moment’s notice.", 
         "facilitator": "Tom Nehil", 
         "facilitator_twitter": null, 
