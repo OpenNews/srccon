@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Big news apps that you spent months building can be great, but on a day-to-day basis a news room’s data needs are often more modest — and come with a much tighter deadlines. In this session we'll talk about all the tiny visualizations that can be used to enhance stories but aren’t necessarily the story themselves — bar charts, locator maps, data tables and hopefully some others. We'll talk about the tools, templates and shortcuts (TextExpander, anyone?) that let you build this stuff on a moment’s notice.", 
+        "facilitator": "Tom Nehil", 
+        "facilitator_twitter": null, 
+        "id": 114150, 
+        "submitted_at": "2015-04-03T12:03:17.376Z", 
+        "title": "Doing data on the daily"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Comments and other interactive spaces on news sites have a tremendous potential to connect users with information, ideas, and other people who can deepen their well of knowledge and broaden their world view. \n\nIt's time we realized that potential. And you can help. \n\nThe Coral Project, a collaboration between Knight-Mozilla OpenNews, The New York Times, and The Washington Post that's funded by a grant from the John S. and James L. Knight Foundation, aims to improve communities on news sites through open-source software and renewed best practices.\n\nWe'd like to host an open hack space at SRCCON to bring together people who want to improve discussion and debate about topics in the news. \n\nAre you a developer or a designer? Help us create stuff! We'll update you on our latest work so you'll know what we've been up to.\n\nAre you a reporter, editor, commenter, or community manager? Help us come up with best practices that could be communicated to the publishers, contributors, and readers who will eventually use our software.", 
         "facilitator": "Greg Barber", 
         "facilitator_twitter": "gjbarb", 
