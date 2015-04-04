@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "You might have a team of 1 or 100, but we all struggle collaborating on code throughout the the software development lifecycle. Let's work toward a scaleable branching and deployment paradigm for news applications.", 
+        "facilitator": "Dave Stanton", 
+        "facilitator_twitter": "gotoplanb", 
+        "id": 114365, 
+        "submitted_at": "2015-04-04T02:12:40.890Z", 
+        "title": "Release management for big and small"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Sometimes the reasons we created our newsroom chat bots — delivering horoscopes, telling horrible knock-knock jokes — aren’t the kinds of reasons that organization leaders will readily appreciate. In this session, we’ll talk about the tricks we’ve taught our bots (or would like to teach our bots) that help our team (whether we’re developers, reporters, or otherwise) get our actual work done — even if the bots’ work is never seen by readers.", 
         "facilitator": "Tom Nehil", 
         "facilitator_twitter": "minndata", 
@@ -52,11 +62,11 @@
     {
         "cofacilitator": "Adam Schweigert", 
         "cofacilitator_twitter": "aschweig", 
-        "description": "Hear what INN, WNYC, and Fusion have learned while building distributed tech teams, and share your own best practices", 
+        "description": "Hear what INN, WNYC, and Fusion have learned while building distributed tech teams, and share your own best practices.", 
         "facilitator": "Davis Shaver", 
         "facilitator_twitter": "davisshaver", 
         "id": 113788, 
-        "submitted_at": "2015-04-02T12:52:49.288Z", 
+        "submitted_at": "2015-04-03T22:49:07.470Z", 
         "title": "Why we wear pants"
     }, 
     {
