@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Have you ever waited for a script or long-running database query? Learn how I made my code run eight times faster by changing two lines, and you can too! (Terms and conditions apply. Attend this session to learn if parallel processing might be right for you.)\n\nWe'll focus on identifying simple use cases where parallel processing can help, and we'll implement real-world examples using tools like Gnu Parallel and the Python multiprocessing module.", 
+        "facilitator": "Martin Burch", 
+        "facilitator_twitter": "seecmb", 
+        "id": 114395, 
+        "submitted_at": "2015-04-04T04:29:14.553Z", 
+        "title": "Practically painless parallel processing"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "You might have a team of 1 or 100, but we all struggle collaborating on code throughout the the software development lifecycle. Let's work toward a scaleable branching and deployment paradigm for news applications.", 
         "facilitator": "Dave Stanton", 
         "facilitator_twitter": "gotoplanb", 
