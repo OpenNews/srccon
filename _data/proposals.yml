@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Joe Germuska", 
+        "cofacilitator_twitter": "JoeGermuska", 
+        "description": "Design's user-centric orientation places the needs and expectations of users at the center of the designer's decision-making process. Journalism’s objectivity ethos has journalists striving to report on facts (and not their personal attitude toward facts), with fairness and accuracy. \n\nWith newsrooms embracing new skill sets and welcoming more collaboration between people with a variety of professional backgrounds, different practices and traditions collide. Where is the line between designing for an audience and pandering to that audience? \n\nIn this session we explore user-centered design’s fit in the newsroom and the processes of reporting, and how characterizing the audience for a story shapes decisions about what, how when and where a story is told.", 
+        "facilitator": "Livia Labate", 
+        "facilitator_twitter": "livlab", 
+        "id": 115146, 
+        "submitted_at": "2015-04-06T15:20:25.393Z", 
+        "title": "Journalistic objectivity & user-centered design"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "No matter how useful a piece of open source software is, documentation is often the difference between whether it flourishes or dies a quiet death. But writing the docs is still an afterthought for a lot of developers, something to check off a list at the last minute before moving on. The end result is a lot of wasted potential, great tools that put off potential users because nobody can figure out how they work.\n\nIn this session, we'll discuss patterns of effective documentation and our own experiences as both readers and writers. How do we balance readability and precision? How do we write docs that serve both beginners and experts? How do we choose good examples? How do we make writing the docs a first-class citizen of any project, something that feels integral and not like extra homework? When we're reading docs, what makes things click and what makes us give up? Finally, we'll split up into groups and break out the red pens for close readings of documentation from a selection of popular libraries, and maybe even make some pull requests with our edits.", 
