@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "No matter how useful a piece of open source software is, documentation is often the difference between whether it flourishes or dies a quiet death. But writing the docs is still an afterthought for a lot of developers, something to check off a list at the last minute before moving on. The end result is a lot of wasted potential, great tools that put off potential users because nobody can figure out how they work.\n\nIn this session, we'll discuss patterns of effective documentation and our own experiences as both readers and writers. How do we balance readability and precision? How do we write docs that serve both beginners and experts? How do we choose good examples? How do we make writing the docs a first-class citizen of any project, something that feels integral and not like extra homework? When we're reading docs, what makes things click and what makes us give up? Finally, we'll split up into groups and break out the red pens for close readings of documentation from a selection of popular libraries, and maybe even make some pull requests with our edits.", 
+        "facilitator": "Noah Veltman", 
+        "facilitator_twitter": "veltman", 
+        "id": 114907, 
+        "submitted_at": "2015-04-05T21:05:34.725Z", 
+        "title": "Great moments in software documentation"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Have you ever waited for a script or long-running database query? Learn how I made my code run eight times faster by changing two lines, and you can too! (Terms and conditions apply. Attend this session to learn if parallel processing might be right for you.)\n\nWe'll focus on identifying simple use cases where parallel processing can help, and we'll implement real-world examples using tools like Gnu Parallel and the Python multiprocessing module.", 
         "facilitator": "Martin Burch", 
         "facilitator_twitter": "seecmb", 
