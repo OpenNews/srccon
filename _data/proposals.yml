@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Adam Schweigert", 
+        "cofacilitator_twitter": "@aschweig", 
+        "description": "Software engineering is already hard; it gets even harder when you have a tiny team, and harder still when that team takes on a maturing project with technical debt. In this session, we’ll have a structured discussion facilitated by a tech director who built a whole CMS from scratch; a tech director who specializes in shipping software for teams of 0-1; and a tech director who inherited several years of tech debt on a custom-built CMS. We’ll share our experiences and talk about strategies for making the difficult calls -- usually, “to build or not to build?” -- that small teams inevitably face, as well as about how to make responsible, forward-looking choices regarding where to focus your code resources. We hope you'll learn how to avoid conjuring the Ghost of Tech Directors Future, even as you experiment and iterate in productive ways!", 
+        "facilitator": "Amanda Krauss", 
+        "facilitator_twitter": "@risatrix", 
+        "id": 115223, 
+        "submitted_at": "2015-04-06T20:21:47.054Z", 
+        "title": "Zen and the Art of Not Building, or How To Whole-Ass One Thing"
+    }, 
+    {
         "cofacilitator": "Joe Germuska", 
         "cofacilitator_twitter": "JoeGermuska", 
         "description": "Design's user-centric orientation places the needs and expectations of users at the center of the designer's decision-making process. Journalism’s objectivity ethos has journalists striving to report on facts (and not their personal attitude toward facts), with fairness and accuracy. \n\nWith newsrooms embracing new skill sets and welcoming more collaboration between people with a variety of professional backgrounds, different practices and traditions collide. Where is the line between designing for an audience and pandering to that audience? \n\nIn this session we explore user-centered design’s fit in the newsroom and the processes of reporting, and how characterizing the audience for a story shapes decisions about what, how when and where a story is told.", 
