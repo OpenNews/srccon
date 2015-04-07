@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Millie Tran", 
+        "cofacilitator_twitter": "millie", 
+        "description": "Attending conferences with a like-minded community is inspiring, motivating and affirming. We go home full of ideas and energy and hope. Then our day-to-day life creeps back in and it gets hard to move those new ideas forward, becomes tricky to make space for learning the new skills we want, and we can feel isolated from the community we build here. If you can’t attend a conference at all, you can feel all of the above times two. \n\nAfter the conferences, how do we keep that inspiration and how do we stay accountable? For those who don’t have access to conferences or events, how can we make our community — and the inspiration we share — accessible all of the time? What are the obstacles that prevent us from making things happen? How might we build each other and our community up in the day to day, the quiet interludes between the big tent revivals?\n\nDuring this session we’ll work together to identify major obstacles that prevent follow through, and small groups will brainstorm ways to address those obstacles. We’ll leave with a clear sense of how we can collaborate with, contribute to and build our community outside of a conference bubble.", 
+        "facilitator": "Kaeti Hinck", 
+        "facilitator_twitter": "kaeti", 
+        "id": 115315, 
+        "submitted_at": "2015-04-07T01:39:03.888Z", 
+        "title": "After the Altar Call: Maintaining momentum, community, and inspiration beyond conferences"
+    }, 
+    {
         "cofacilitator": "Adam Schweigert", 
         "cofacilitator_twitter": "@aschweig", 
         "description": "Software engineering is already hard; it gets even harder when you have a tiny team, and harder still when that team takes on a maturing project with technical debt. In this session, we’ll have a structured discussion facilitated by a tech director who built a whole CMS from scratch; a tech director who specializes in shipping software for teams of 0-1; and a tech director who inherited several years of tech debt on a custom-built CMS. We’ll share our experiences and talk about strategies for making the difficult calls -- usually, “to build or not to build?” -- that small teams inevitably face, as well as about how to make responsible, forward-looking choices regarding where to focus your code resources. We hope you'll learn how to avoid conjuring the Ghost of Tech Directors Future, even as you experiment and iterate in productive ways!", 
