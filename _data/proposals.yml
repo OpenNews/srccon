@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Mike Tigas", 
+        "cofacilitator_twitter": "mtigas", 
+        "description": "Last November, The New York Times challenged news sites to fully support HTTPS in 2015. What does it mean to meet that challenge?\n\nThis session will discuss the problems we encountered moving to HTTPS (and how we solved them). We'll then give you hands-on help with anything you need: server configuration, certificates, mixed-content warnings, CDNs — even ads, analytics and A/B tests.", 
+        "facilitator": "Paul Schreiber", 
+        "facilitator_twitter": "paulschreiber", 
+        "id": 115551, 
+        "submitted_at": "2015-04-07T17:34:43.689Z", 
+        "title": "Meeting the New York Times Challenge: delivering the news over HTTPS"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "How do we find and scale leadership networks for journalism and technology, particularly in the global context?  As news organizations expand their footprints and their partnerships overseas, and as increasing numbers of newsroom workers (not just correspondents!) seek international opportunities, the communities we  tap into will make or break our success. This discussion draws on the experiences of Hacks/Hackers chapter organizers around the world to highlight some of the challenges and best strategies for creating and accessing collaborative news-tech communities across different social, political and economic environments.\n\nIn this guided discussion, we'll talk about how to scale leadership across informal and grassroots groups, how to find and engage effective partners, and the right metrics for measuring the effectiveness of events and the participation of members. By brainstorming challenges faced by specific chapters, we'll gain insight into how the environment for journalism and technology changes drastically in different countries. We'll also create better frameworks for approaching challenges like transfers of leadership, differences in cultural expectations and ways to define value for members.", 
