@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Mobile is growing exponentially and mantras like \"mobile first\" and \"no native app\" are making us all look silly. Mobile is eating everything and if we don't give this Pacman of eyeballs the respect it deserves we are all doomed. What works for you might fail for someone else. We'll talk about how you find what's right for you from technology to content and really huge to just right. I'll present a lot of unknown mobile metrics and show how they apply and don't apply to media. We'll talk about building mobile teams and when to stop saying \"mobile\" and just accept it's everything.", 
+        "facilitator": "Joey Marburger", 
+        "facilitator_twitter": "@josephjames", 
+        "id": 115647, 
+        "submitted_at": "2015-04-07T23:38:06.624Z", 
+        "title": "Why you're fucking up mobile"
+    }, 
+    {
         "cofacilitator": "Mike Tigas", 
         "cofacilitator_twitter": "mtigas", 
         "description": "Last November, The New York Times challenged news sites to fully support HTTPS in 2015. What does it mean to meet that challenge?\n\nThis session will discuss the problems we encountered moving to HTTPS (and how we solved them). We'll then give you hands-on help with anything you need: server configuration, certificates, mixed-content warnings, CDNs — even ads, analytics and A/B tests.", 
