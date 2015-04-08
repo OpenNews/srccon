@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "\"Robot journalism\" has gotten a lot of buzz over the last couple of years, mainly in the context of big-name newsrooms in big, coastal cities (e.g., The Associated Press, The Los Angeles Times), sometimes automating thousands of stories a quarter. That's neat, but how relevant is it to everyone else? How can smaller newsrooms get a piece of the action? Let's talk about ways to get machines to do things you'd rather not do, even if you don't have a ton of resources.", 
+        "facilitator": "Justin Myers", 
+        "facilitator_twitter": "myersjustinc", 
+        "id": 115909, 
+        "submitted_at": "2015-04-08T16:03:49.830Z", 
+        "title": "Democratizing the Robot Revolution"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "We all work hard and on deadlines in our jobs and each one of us tries its best to have some tools, tricks and secret recipes to perform repetitive tasks efficiently.\n\nI think this conference will be a great time to share that knowledge with other colleagues, whether that is a text editor plugin to visualize markdown on the fly while typing it, a browser extension to test REST services, command line sugar that make your life easier or keyboard shortcuts that speed up your workflow...let's collaboratively create a collection of best practices to ease up our work.\n\nWe could prepare a small index in a spreadsheet and a more detailed description on individual GDocs and share it with the world.", 
         "facilitator": "Juan Elosua", 
         "facilitator_twitter": "jjelosua", 
