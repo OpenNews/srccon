@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Eric Van Zanten", 
+        "cofacilitator_twitter": "evanzanten", 
+        "description": "At DataMade, we’ve been building robots like dedupe and parserator to do the laborious and boring work of extracting, cleaning, and linking data. These tools are great for structured tabular files, but much of the valuable data we need are still locked away in paper documents. Let’s talk about extracting structured information from these messy paper forms.\n\nOver the past five years, the open source computer vision library OpenCV has become very powerful, and through wrappers, great documentation, and tutorials, it has also become accessible to mere mortals (well, you still need to know how to program). \n\nWhile there have already been applications of computer vision techniques in the newsroom --image and map stitching (schooner-tk) and table extraction from PDFs (Tabula) --the opportunities remain largely unexplored. \n\nIn this hands-on session, we’ll review OpenCV techniques applied to the terrifying problem of extracting data from HANDWRITTEN, SCANNED, PAPER FORMS.\n\nAll code examples  will be in Python.", 
+        "facilitator": "Forest Gregg", 
+        "facilitator_twitter": "forestgregg", 
+        "id": 115952, 
+        "submitted_at": "2015-04-08T16:35:53.742Z", 
+        "title": "Beyond dedupe: Computer Vision  and terrible paper forms"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "Large scale Internet Applications require frequent deployment, hence the need to move away from monolithic applications to a Service Oriented Architecture using Microservices i.e. a set of narrowly focused, independently deployable services running on independent servers.\nThis talk familiarizes the audience with developing large scale applications using SOA.\n* Advantages of SOA over monolithic apps\n* Who/How/Why is industry embracing microservices.\n* A live demo.\n* Strategies about migrating from monolithic apps to using microservices.\n* Polyglot setup - using the right tools for the right job.", 
