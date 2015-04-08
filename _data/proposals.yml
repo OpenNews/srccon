@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": "Chris Zubak-Skees", 
+        "cofacilitator_twitter": "zubakskees", 
+        "description": "You were the only developer or designer in the newsroom. You have a workflow and framework that works perfectly for you. Everything is in control. Now you have a second person on the team. Not only can the other person help you with daily deadlines, but you need to develop a framework and a workflow that makes it easy for both of you to collaborate and will give this team the potential to grow. This is a challenge, but also an opportunity. \n\nHere's what we want to talk about: What decisions are there to make? What should we take into consideration? Static vs. dynamic news apps? Ruby, Python or Javascript? Live in the CMS or create stand alone pages? What open source tools work best for us? What are we missing here? \n\nThere isn’t a single right answer to these questions. The challenge is how to make decisions.  We feel this could be an opportunity not only for small teams to learn best practices, but also for bigger teams to rethink their model and share their experiences. We will produce a document to collect ideas. It will be a resource for newsrooms, walking people through the decision-making process to find the best approach. We also expect to update this after the conference as the conversation evolves.", 
+        "facilitator": "Yue Qiu", 
+        "facilitator_twitter": "YueQiu_cuj", 
+        "id": 116061, 
+        "submitted_at": "2015-04-08T22:13:39.106Z", 
+        "title": "When a one-person band becomes a two-person band"
+    }, 
+    {
+        "cofacilitator": "Yue Qiu", 
+        "cofacilitator_twitter": "YueQiu_cuj", 
+        "description": "Are we developers, designers, reporters or news nerds? Is what we make an app, graphic or story? Or is it a visualization, interactive or “thing?” Is what we do incredibly complex or ineffably easy? Or is it somehow both? When does which word work?\n\nHow we talk about what we do, how everyone else talks about it, and how those conceptual underpinnings become manifest, has a direct effect on on our growing field. It shapes who we can recruit, what we’re permitted to do and how our work is valued.\n\nWe don’t have answers to any of this, which is why we want to hear from people established in the field, those just starting out and everybody in between. Outside perspectives are also welcome.\n\nWe’ll share our experiences with perceptions shaped by language choice and we’ll ask others for theirs. Attendees will sketch out preliminary definitions for some of these terms, then will discuss what works and when. We don’t expect to walk out with a perfect blueprint or final answers — cultural change takes more than one conversation — but we hope to advance our collective thinking and leave slightly more confident in how we describe ourselves.", 
+        "facilitator": "Chris Zubak-Skees", 
+        "facilitator_twitter": "zubakskees", 
+        "id": 116058, 
+        "submitted_at": "2015-04-08T22:00:59.549Z", 
+        "title": "How we talk about what we do"
+    }, 
+    {
         "cofacilitator": "Eric Van Zanten", 
         "cofacilitator_twitter": "evanzanten", 
         "description": "At DataMade, we’ve been building robots like dedupe and parserator to do the laborious and boring work of extracting, cleaning, and linking data. These tools are great for structured tabular files, but much of the valuable data we need are still locked away in paper documents. Let’s talk about extracting structured information from these messy paper forms.\n\nOver the past five years, the open source computer vision library OpenCV has become very powerful, and through wrappers, great documentation, and tutorials, it has also become accessible to mere mortals (well, you still need to know how to program). \n\nWhile there have already been applications of computer vision techniques in the newsroom --image and map stitching (schooner-tk) and table extraction from PDFs (Tabula) --the opportunities remain largely unexplored. \n\nIn this hands-on session, we’ll review OpenCV techniques applied to the terrifying problem of extracting data from HANDWRITTEN, SCANNED, PAPER FORMS.\n\nAll code examples  will be in Python.", 
