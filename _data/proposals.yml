@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Code review is single-handedly the best way to level up your development skills. It's also really hard!\n\nLet's discuss code review methodologies as a group, and then pair up to practice.", 
+        "facilitator": "Daniel Bachhuber", 
+        "facilitator_twitter": "danielbachhuber", 
+        "id": 116066, 
+        "submitted_at": "2015-04-08T22:35:16.134Z", 
+        "title": "Code review takes two"
+    }, 
+    {
         "cofacilitator": "Chris Zubak-Skees", 
         "cofacilitator_twitter": "zubakskees", 
         "description": "You were the only developer or designer in the newsroom. You have a workflow and framework that works perfectly for you. Everything is in control. Now you have a second person on the team. Not only can the other person help you with daily deadlines, but you need to develop a framework and a workflow that makes it easy for both of you to collaborate and will give this team the potential to grow. This is a challenge, but also an opportunity. \n\nHere's what we want to talk about: What decisions are there to make? What should we take into consideration? Static vs. dynamic news apps? Ruby, Python or Javascript? Live in the CMS or create stand alone pages? What open source tools work best for us? What are we missing here? \n\nThere isn’t a single right answer to these questions. The challenge is how to make decisions.  We feel this could be an opportunity not only for small teams to learn best practices, but also for bigger teams to rethink their model and share their experiences. We will produce a document to collect ideas. It will be a resource for newsrooms, walking people through the decision-making process to find the best approach. We also expect to update this after the conference as the conversation evolves.", 
