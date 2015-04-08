@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Large scale Internet Applications require frequent deployment, hence the need to move away from monolithic applications to a Service Oriented Architecture using Microservices i.e. a set of narrowly focused, independently deployable services running on independent servers.\nThis talk familiarizes the audience with developing large scale applications using SOA.\n* Advantages of SOA over monolithic apps\n* Who/How/Why is industry embracing microservices.\n* A live demo.\n* Strategies about migrating from monolithic apps to using microservices.\n* Polyglot setup - using the right tools for the right job.", 
+        "facilitator": "Ashish singh", 
+        "facilitator_twitter": "ashishait", 
+        "id": 115944, 
+        "submitted_at": "2015-04-08T16:23:18.052Z", 
+        "title": "Microservices from the microscopic angle"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "\"Robot journalism\" has gotten a lot of buzz over the last couple of years, mainly in the context of big-name newsrooms in big, coastal cities (e.g., The Associated Press, The Los Angeles Times), sometimes automating thousands of stories a quarter. That's neat, but how relevant is it to everyone else? How can smaller newsrooms get a piece of the action? Let's talk about ways to get machines to do things you'd rather not do, even if you don't have a ton of resources.", 
         "facilitator": "Justin Myers", 
         "facilitator_twitter": "myersjustinc", 
