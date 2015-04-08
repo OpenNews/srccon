@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "We all work hard and on deadlines in our jobs and each one of us tries its best to have some tools, tricks and secret recipes to perform repetitive tasks efficiently.\n\nI think this conference will be a great time to share that knowledge with other colleagues, whether that is a text editor plugin to visualize markdown on the fly while typing it, a browser extension to test REST services, command line sugar that make your life easier or keyboard shortcuts that speed up your workflow...let's collaboratively create a collection of best practices to ease up our work.\n\nWe could prepare a small index in a spreadsheet and a more detailed description on individual GDocs and share it with the world.", 
+        "facilitator": "Juan Elosua", 
+        "facilitator_twitter": "jjelosua", 
+        "id": 115865, 
+        "submitted_at": "2015-04-08T13:14:49.802Z", 
+        "title": "Working environment tips & tricks: Boost your productivity"
+    }, 
+    {
         "cofacilitator": "Liz Lucas", 
         "cofacilitator_twitter": "eklucas", 
         "description": "Journalism needs more tech-literate leaders: people who can teach, evangelize, and motivate newsrooms to adapt and experiment. But when you’re not in senior management (and sometimes even when you are), how can you wield any influence? How can we claim decision-making power, or build relationships with those who have it?\n  \nWe’ve heard a lot of people worry that nothing will change until organizational leadership changes. Maybe that’s true — but maybe it’s also time to think about leadership differently. Newsroom leaders come in many forms, and there’s so much we can do regardless of our positions and titles. Let’s sit in a room together and talk about how we can change our organizations for the better and support each other as we do it.", 
