@@ -2,6 +2,46 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "We all know the audience should be at the centre of our thinking when commissioning and creating news apps. But what are the actual processes different newsrooms follow to make sure they are? What questions do they ask? What exercises do they conduct? How do they talk about users and their needs? I would conduct a survey of news apps teams ahead of SRCCON, provide that information to attendees and then facilitate a discussion.", 
+        "facilitator": "Matt Liddy", 
+        "facilitator_twitter": "mattliddy", 
+        "id": 116357, 
+        "submitted_at": "2015-04-09T17:51:31.676Z", 
+        "title": "Who are we doing this for again?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "So you've got a cool tool, and it's starting to take off. The kids - they love it! The old folks - they love it too! Now the question is: How can you build an organization that can sustain your cool tool - and the community behind it? Where will the money come from? What are your options?", 
+        "facilitator": "Douglas Arellanes", 
+        "facilitator_twitter": "@dougiegyro", 
+        "id": 116353, 
+        "submitted_at": "2015-04-09T17:43:56.090Z", 
+        "title": "Turning a project into an organization"
+    }, 
+    {
+        "cofacilitator": "Jennifer LaFleur", 
+        "cofacilitator_twitter": "j_la28", 
+        "description": "What's MySQL hiding? Is PostgreSQL ready to lead your news app? Just how is SQLServer using your precious resources? Just because your SQL is similar across platforms doesn't mean they work the same under the hood. We'll look deep inside and see how different database platforms work at a granular level, and we'll also show hilarious negative ads about databases.", 
+        "facilitator": "Michael Corey", 
+        "facilitator_twitter": "mikejcorey", 
+        "id": 116345, 
+        "submitted_at": "2015-04-09T17:06:20.297Z", 
+        "title": "Fun with attack ads: What do you really know about your database?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Engaging with scientific research gives you access to powerful data and sources with deep, expert knowledge on your topic. But even when you walk through the door with widespread scientific consensus on your side, getting sources to engage with that reality, especially outside their core expertise, can be difficult. Very smart people are perfectly capable of epic denial and rationalization. It's not just climate change, and it's not just red states. Earthquakes in Oklahoma, catastrophic drought in California, take your pick. When a professor of structural engineering tells you earthquake predictions are \"just speculation,\" what's the best way to push the conversation forward?", 
+        "facilitator": "Michael Corey", 
+        "facilitator_twitter": "mikejcorey", 
+        "id": 116340, 
+        "submitted_at": "2015-04-09T16:52:49.962Z", 
+        "title": "Communicating science no one wants to hear"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "As we design data stories, most of us naturally lean toward visualization and graphic representation. But it doesn’t have to be this way: Take Radiolab’s use of a chorus to demonstrate the color vision of mantis shrimp, or the New York Time’s use of tonal blips to show the difference in finishing time between Olympic medalists. (Find these examples and more at http://listentodata.tumblr.com/.) Audio is a rich, intimate medium that can convey some ideas - like the passage of time - better than graphics and allows you to layer information in sophisticated ways.\n\nIn this hands on session, I challenge you to think outside the data visualization box and tell a data story using sound as the primary medium. In small groups, we’ll prototype data audioizations using real datasets. We’ll also brainstorm what tools, technologies, software and best practices newsrooms can use to incorporate data audioization into their work.", 
         "facilitator": "Jordan Wirfs-Brock", 
         "facilitator_twitter": "jordanwb", 
