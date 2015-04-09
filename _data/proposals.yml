@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "In a typical Scrum workflow, once you lock in the tasks for a given sprint period, they do not change. This is challenging in a news environment where breaking stories and \"urgent\" requests pop up regularly. How do teams tackle this challenge? (Or don't they?)", 
+        "facilitator": "Matthew Liddy", 
+        "facilitator_twitter": "mattliddy", 
+        "id": 116331, 
+        "submitted_at": "2015-04-09T16:20:28.479Z", 
+        "title": "Agile and Scrum in a news environment"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "\"I sort of see data journalism ... as social science done on deadline.\" -- Steve Doig\n\nYou know who's great at doing social science? Social scientists. This session explores how journalists can work with academics to inform the public in new ways. It would examine some extremely powerful - and popular - examples of the stories hacks, hackers and (ahem) hackademics can tell when they work together effectively, as well as some examples where things have not quite gone to plan.\n\nParticipants could discuss their own experiences, especially what challenges they have faced, and how they overcame them.", 
+        "facilitator": "Matthew Liddy", 
+        "facilitator_twitter": "mattliddy", 
+        "id": 116328, 
+        "submitted_at": "2015-04-09T16:08:04.380Z", 
+        "title": "Hacks, Hackers and Hackademics"
+    }, 
+    {
         "cofacilitator": "Scott Klein", 
         "cofacilitator_twitter": "kleinmatic", 
         "description": "It's been 10 years since chicagocrime.org won a Batten award for innovation in journalism. In that decade hackers have joined the ranks of newsrooms large and small, and then left newsrooms to join startups and non-profits (If they Left newsrooms is that good or bad?). We now have many tribes of news nerds, journo-hackers, data wranglers and user experience researchers. Let's take a step back and see how large our community has grown. Who are we? What jobs do we have? How are our teams built? What problems are we trying to solve? What are the ingredients of a successful team?\n\nWe plan to do a survey leading up to SRCCON  to take stock of anyone who identifies with the DATA-journo-tech-design community. We'll present the results at SRCCON and then lead a discussion about what we found: Are we missing some key members of our community? Are we tackling the right problems? Are we learning the right skills and reaching out to the right people? How do we help news organizations create and sustain great teams?\n\nWe don't know, but it's been a decade since our little community got started. Let's find out who we are.", 
