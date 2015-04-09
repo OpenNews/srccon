@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Kaeti Hinck", 
+        "cofacilitator_twitter": "kaeti", 
+        "description": "We all work with people who are not like us: people with different job descriptions, vocabulary, priorities, skills, and assumptions. These differences are valuable, even essential, to creating good and beautiful things, but damnit we need to be able to communicate effectively. We need to be as diligent and thoughtful in our conversations as we are in other aspects of our work. In this session we want to crowdsource strategies and best practices for when, where and how we communicate with our coworkers.", 
+        "facilitator": "Liz Lucas", 
+        "facilitator_twitter": "eklucas", 
+        "id": 116136, 
+        "submitted_at": "2015-04-09T03:23:07.122Z", 
+        "title": "What the $&@! are you talking about: communication 101 for news orgs"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "Code review is single-handedly the best way to level up your development skills. It's also really hard!\n\nLet's discuss code review methodologies as a group, and then pair up to practice.", 
