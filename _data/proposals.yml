@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "User-centric design doesn't end at the browser GUI.  How we build our tools for our own use and for others' as well as ease of contribution are vitally important when onboarding new team members or open sourcing tools for others to use.  We can talk about examples that are run in our space (like DocumentCloud) and talk w/ goals you have for your own tools.", 
+        "facilitator": "Ted Han", 
+        "facilitator_twitter": "knowtheory", 
+        "id": 116311, 
+        "submitted_at": "2015-04-09T15:09:51.293Z", 
+        "title": "Writing software for others"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "I will lead a guided workshop on how to design better READMEs, newcomers guides, and GitHub issues to welcome new contributors (and non-coders) to open source projects.\n\nParticipants will leave with concrete steps to make their hackathons and open source projects more accessible and inclusive. (Oh yes, and this will also involve a game of Hot Potato.)", 
         "facilitator": "Melody Joy Kramer", 
         "facilitator_twitter": "@mkramer", 
