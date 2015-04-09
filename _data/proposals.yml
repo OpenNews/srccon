@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "I will lead a guided workshop on how to design better READMEs, newcomers guides, and GitHub issues to welcome new contributors (and non-coders) to open source projects.\n\nParticipants will leave with concrete steps to make their hackathons and open source projects more accessible and inclusive. (Oh yes, and this will also involve a game of Hot Potato.)", 
+        "facilitator": "Melody Joy Kramer", 
+        "facilitator_twitter": "@mkramer", 
+        "id": 116308, 
+        "submitted_at": "2015-04-09T14:58:50.710Z", 
+        "title": "How to Explicitly Welcome Newcomers (and non-coders) to an Open Source Project or Hackathon"
+    }, 
+    {
+        "cofacilitator": "Ryan Nagle", 
+        "cofacilitator_twitter": "ryannagle", 
+        "description": "The pace of change demands that journo-coders constantly learn and build their expertise.  Paired coding is a valuable model for learning together and sharing insights.  How might adopting this model add to the types of training offerings currently available and address larger topics like change management, impact and audience development? What is currently missing from opportunities and resources?  Can we build them?  Let’s have a conversation about paired coding as a model for learning and developing expertise.  Participants will leave this session with a better understanding of paired programming and concrete ideas for how to incorporate it into their self-directing learning.   We will start with a group discussion of pair programming, including illustrative examples and then work in small groups to identify potential strategies and ideas to incorporate pair programming into your own work and your team.", 
+        "facilitator": "Meredith Melragon", 
+        "facilitator_twitter": "meredihm", 
+        "id": 116302, 
+        "submitted_at": "2015-04-09T14:40:07.168Z", 
+        "title": "What pair programming can teach us about learning"
+    }, 
+    {
         "cofacilitator": "Tane Danger", 
         "cofacilitator_twitter": "tanedanger", 
         "description": "This is a proposal to blend improv theater with a short hackathon during a hands-on workshop. We'll begin with a brief introduction to a timely, local public policy issue. Then, before beginning we'll lead a brief improv workshop and introduce some prepared resources to help participants successfully build prototype a web app to address the policy issue during the session.\n\nThe session would end with a performance by the cast of The Theater of Public Policy. They would use all the things discussed during the session, and of course the various prototypes created by each group, as inspiration for unscripted comedy theater.", 
