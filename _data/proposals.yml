@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Scott Klein", 
+        "cofacilitator_twitter": "kleinmatic", 
+        "description": "It's been 10 years since chicagocrime.org won a Batten award for innovation in journalism. In that decade hackers have joined the ranks of newsrooms large and small, and then left newsrooms to join startups and non-profits (If they Left newsrooms is that good or bad?). We now have many tribes of news nerds, journo-hackers, data wranglers and user experience researchers. Let's take a step back and see how large our community has grown. Who are we? What jobs do we have? How are our teams built? What problems are we trying to solve? What are the ingredients of a successful team?\n\nWe plan to do a survey leading up to SRCCON  to take stock of anyone who identifies with the DATA-journo-tech-design community. We'll present the results at SRCCON and then lead a discussion about what we found: Are we missing some key members of our community? Are we tackling the right problems? Are we learning the right skills and reaching out to the right people? How do we help news organizations create and sustain great teams?\n\nWe don't know, but it's been a decade since our little community got started. Let's find out who we are.", 
+        "facilitator": "Brian Hamman", 
+        "facilitator_twitter": "hamman", 
+        "id": 116315, 
+        "submitted_at": "2015-04-09T15:33:46.871Z", 
+        "title": "From Google Maps Mashups to Product Management. The journo-tech community has evolved, but how?"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "User-centric design doesn't end at the browser GUI.  How we build our tools for our own use and for others' as well as ease of contribution are vitally important when onboarding new team members or open sourcing tools for others to use.  We can talk about examples that are run in our space (like DocumentCloud) and talk w/ goals you have for your own tools.", 
