@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "As a college intern, I received a crash course in databases when I asked the system administrator a basic question. Let's do something similar for each other. We will start by helping people graduate from Excel to MySQL by demystifying how data is broken down into individual nuggets and stored in tables. Then move to how SQL queries are created by joining the appropriate columns. Finally, we'll make sure everyone knows how to get data back out! At the end we'll have a shareable list of tip sheets, best practices, and further reading.", 
+        "facilitator": "Chris A. Williams", 
+        "facilitator_twitter": "enactd", 
+        "id": 116445, 
+        "submitted_at": "2015-04-09T22:21:22.930Z", 
+        "title": "Databases: From Novice to Familiar"
+    }, 
+    {
         "cofacilitator": "Daniel Craigmile", 
         "cofacilitator_twitter": "x110dc", 
         "description": "Have you been wanting to know more about Docker but haven’t found the time to dive in yet? Does your laptop sometimes feel like a tangled web of environments, dependencies, and different versions of software? Are you tired of hearing the annoying phrase “but it works for me!”? Boy, have we got something for you — Docker, an open platform for developers to build, ship, and run distributed applications. And what if we told you that you could get all those benefits AND it’s faster than virtual machines? Not possible, you say. But it is! You want bare-metal performance? That comes standard! But wait, there’s more! You need it to be repeatable? You got it! Docker also means less installation of endless requirements and dependencies per project. That’s a whole lotta simplification. In our session, we’ll go over how we use Docker in our workflow and get you ready to integrate it into your newsroom’s workflow. You can dip your toes in by phasing in Docker elements; it’s not an all-or-nothing platform. We’ll get you ready to run Docker on your laptop and make sure you understand key Docker concepts, including Dockerfiles, linking, publishing ports, and volumes. The concepts we’ll go over will be applicable to running containers in general, whether that’s using Docker, Rocket, or a similar tool. We’ll build on the syllabus found here: https://github.com/texastribune/docker-workshop, and we’ll also include a curated list of tutorials and other resources for you to keep learning. You can do it!", 
