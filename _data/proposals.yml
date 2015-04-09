@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": "Tara Adiseshan", 
+        "cofacilitator_twitter": "taraadiseshan", 
+        "description": "Today comments are the most common form of community on news sites, but is that all there is? Comment sections are usually just an afterthought and perceived only as an obligation - in this session we'll explore the unrealized value of comments and other forms user-generated content can take. We'll talk about our learnings thus far from the Coral Project, including the challenges news orgs currently face in creating successful digital communities and some existing solutions from journalism and ~beyond~.\n\nTogether we'll come up with our ideal online communities and think about concrete ways in which we can integrate these ideas into newsrooms' approaches to content co-creation. If you were building a news community from scratch, where would you start? What are the ways your audience would contribute or express themselves? How would you encourage inclusive and vibrant conversations? What limits would you set, if any?", 
+        "facilitator": "Francis Tseng", 
+        "facilitator_twitter": "frnsys", 
+        "id": 116402, 
+        "submitted_at": "2015-04-09T20:32:56.007Z", 
+        "title": "Dreaming of Digital Utopias"
+    }, 
+    {
+        "cofacilitator": "Kyle Ellis", 
+        "cofacilitator_twitter": "kyleellis", 
+        "description": "If your news organization was a Disney movie what would it be? What happens when you mix equal parts dreamer, realist and critic into a news organization? We know Walt Disney as the man who brought us Mickey Mouse and the Magic Kingdom, but before that he was a high school drop-out who bankrupted his own business. His three room approach to brainstorming took the most fantastical ideas, and developed them into something timeless. How can we bring that approach to the newsroom? How can we encourage our teams to think like Disney dreamers who bring big ideas to life?", 
+        "facilitator": "Ramla Mahmood", 
+        "facilitator_twitter": "ramoved", 
+        "id": 116395, 
+        "submitted_at": "2015-04-09T20:09:05.595Z", 
+        "title": "Brainstorming: The happiest (and most destructive) place on Earth"
+    }, 
+    {
         "cofacilitator": "Jue Yang", 
         "cofacilitator_twitter": "jue_yang", 
         "description": "Interested in using maps to identify food deserts, compare neighborhood distances to voting polls, or calculate the population within a flood zone? Are you guilty of creating overlapping geographic layers to show correlations?\n\nWhile many newsrooms use maps to visualize geographic information — everything from election results to wildfires — a few simple techniques can make those maps more informed and insightful.\n\nWe’ll show you how to interview geographic data using network analysis and discuss a few common concepts (buffers, spatial joins, distances, etc). We’ll talk about how specific stories have analyzed geodata using a combination of free tools such as QGIS, turf.js, and leaflet.js. Afterward, we’ll open the floor for you to share your own experiences and questions. If you have your own favorite techniques or tools, give them a shout out!\n\nThis session is for beginner and intermediate data journalists who have used maps in their reporting, or for anyone who wants to go beyond simple geographic visualizations.", 
