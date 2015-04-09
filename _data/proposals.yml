@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": "Daniel Craigmile", 
+        "cofacilitator_twitter": "x110dc", 
+        "description": "Have you been wanting to know more about Docker but haven’t found the time to dive in yet? Does your laptop sometimes feel like a tangled web of environments, dependencies, and different versions of software? Are you tired of hearing the annoying phrase “but it works for me!”? Boy, have we got something for you — Docker, an open platform for developers to build, ship, and run distributed applications. And what if we told you that you could get all those benefits AND it’s faster than virtual machines? Not possible, you say. But it is! You want bare-metal performance? That comes standard! But wait, there’s more! You need it to be repeatable? You got it! Docker also means less installation of endless requirements and dependencies per project. That’s a whole lotta simplification. In our session, we’ll go over how we use Docker in our workflow and get you ready to integrate it into your newsroom’s workflow. You can dip your toes in by phasing in Docker elements; it’s not an all-or-nothing platform. We’ll get you ready to run Docker on your laptop and make sure you understand key Docker concepts, including Dockerfiles, linking, publishing ports, and volumes. The concepts we’ll go over will be applicable to running containers in general, whether that’s using Docker, Rocket, or a similar tool. We’ll build on the syllabus found here: https://github.com/texastribune/docker-workshop, and we’ll also include a curated list of tutorials and other resources for you to keep learning. You can do it!", 
+        "facilitator": "Kathryn Beaty", 
+        "facilitator_twitter": "kathbeaty", 
+        "id": 116419, 
+        "submitted_at": "2015-04-09T21:24:38.641Z", 
+        "title": "Diving into Docker: Developing a Darn Fast, Repeatable Workflow"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "When you have a new problem or project, what tactics can you take to leverage open source?  How do you effectively discover relevant projects?  Once you find them how do you quickly get past learning curves, integration risks, and limitations of the project?  How do you improve upon that project in a way that meets your goals while giving back in a meaningful way to the community?\n\nThis session is a chance for open source newbies and veterans alike to share stories, tips, tricks, and resources.  Together we will put together a first draft for an official guidebook to help journo-technologists feel more comfortable turning to open source first.", 
+        "facilitator": "Daniel Schultz", 
+        "facilitator_twitter": "slifty", 
+        "id": 116409, 
+        "submitted_at": "2015-04-09T20:54:14.310Z", 
+        "title": "Let's Not Reinvent the Wheel"
+    }, 
+    {
         "cofacilitator": "Tara Adiseshan", 
         "cofacilitator_twitter": "taraadiseshan", 
         "description": "Today comments are the most common form of community on news sites, but is that all there is? Comment sections are usually just an afterthought and perceived only as an obligation - in this session we'll explore the unrealized value of comments and other forms user-generated content can take. We'll talk about our learnings thus far from the Coral Project, including the challenges news orgs currently face in creating successful digital communities and some existing solutions from journalism and ~beyond~.\n\nTogether we'll come up with our ideal online communities and think about concrete ways in which we can integrate these ideas into newsrooms' approaches to content co-creation. If you were building a news community from scratch, where would you start? What are the ways your audience would contribute or express themselves? How would you encourage inclusive and vibrant conversations? What limits would you set, if any?", 
