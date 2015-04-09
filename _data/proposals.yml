@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Jue Yang", 
+        "cofacilitator_twitter": "jue_yang", 
+        "description": "Interested in using maps to identify food deserts, compare neighborhood distances to voting polls, or calculate the population within a flood zone? Are you guilty of creating overlapping geographic layers to show correlations?\n\nWhile many newsrooms use maps to visualize geographic information — everything from election results to wildfires — a few simple techniques can make those maps more informed and insightful.\n\nWe’ll show you how to interview geographic data using network analysis and discuss a few common concepts (buffers, spatial joins, distances, etc). We’ll talk about how specific stories have analyzed geodata using a combination of free tools such as QGIS, turf.js, and leaflet.js. Afterward, we’ll open the floor for you to share your own experiences and questions. If you have your own favorite techniques or tools, give them a shout out!\n\nThis session is for beginner and intermediate data journalists who have used maps in their reporting, or for anyone who wants to go beyond simple geographic visualizations.", 
+        "facilitator": "Gerald Rich", 
+        "facilitator_twitter": "gerald_arthur", 
+        "id": 116371, 
+        "submitted_at": "2015-04-09T18:44:44.116Z", 
+        "title": "Interviewing the Map"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "We all know the audience should be at the centre of our thinking when commissioning and creating news apps. But what are the actual processes different newsrooms follow to make sure they are? What questions do they ask? What exercises do they conduct? How do they talk about users and their needs? I would conduct a survey of news apps teams ahead of SRCCON, provide that information to attendees and then facilitate a discussion.", 
