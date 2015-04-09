@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "As we design data stories, most of us naturally lean toward visualization and graphic representation. But it doesn’t have to be this way: Take Radiolab’s use of a chorus to demonstrate the color vision of mantis shrimp, or the New York Time’s use of tonal blips to show the difference in finishing time between Olympic medalists. (Find these examples and more at http://listentodata.tumblr.com/.) Audio is a rich, intimate medium that can convey some ideas - like the passage of time - better than graphics and allows you to layer information in sophisticated ways.\n\nIn this hands on session, I challenge you to think outside the data visualization box and tell a data story using sound as the primary medium. In small groups, we’ll prototype data audioizations using real datasets. We’ll also brainstorm what tools, technologies, software and best practices newsrooms can use to incorporate data audioization into their work.", 
+        "facilitator": "Jordan Wirfs-Brock", 
+        "facilitator_twitter": "jordanwb", 
+        "id": 116337, 
+        "submitted_at": "2015-04-09T16:42:44.084Z", 
+        "title": "Data Audioization: How Do We Bring Numbers To Life With Sound?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "In a typical Scrum workflow, once you lock in the tasks for a given sprint period, they do not change. This is challenging in a news environment where breaking stories and \"urgent\" requests pop up regularly. How do teams tackle this challenge? (Or don't they?)", 
         "facilitator": "Matthew Liddy", 
         "facilitator_twitter": "mattliddy", 
