@@ -52,6 +52,10 @@ header.coffee {
   background-image: url(/media/img/2015/coffee.jpg);
 }
 
+header.scholarships {
+  background-image: url(/media/img/2015/mplsschol.jpg);
+}
+
 header.mcnamara h3, header.coffee h3, header.lifevests h2, header.lifevests h3 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
