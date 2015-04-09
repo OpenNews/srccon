@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": "Tane Danger", 
+        "cofacilitator_twitter": "tanedanger", 
+        "description": "This is a proposal to blend improv theater with a short hackathon during a hands-on workshop. We'll begin with a brief introduction to a timely, local public policy issue. Then, before beginning we'll lead a brief improv workshop and introduce some prepared resources to help participants successfully build prototype a web app to address the policy issue during the session.\n\nThe session would end with a performance by the cast of The Theater of Public Policy. They would use all the things discussed during the session, and of course the various prototypes created by each group, as inspiration for unscripted comedy theater.", 
+        "facilitator": "Greg Boone", 
+        "facilitator_twitter": "gboone42", 
+        "id": 116248, 
+        "submitted_at": "2015-04-09T11:29:48.814Z", 
+        "title": "Rapid Prototyping through Improv"
+    }, 
+    {
+        "cofacilitator": "Michael Morisy", 
+        "cofacilitator_twitter": "@morisy", 
+        "description": "What do voice-recognition assistants, Slack bots and the latest crop of mobile payment apps have in common? They all use natural language messaging as the interface — an area journalists have largely ignored over the past decade. It’s time for a closer look.\n\nIn this session, we’ll explore the rich, hidden history of using messaging as the medium for fun, quirky, and occasionally powerful applications, ranging from SmarterChild and Siri to SnapCash and Wolfram Alpha. What can newsrooms learn about interacting with their audience in this intimate format? Can we design a more personal way to tell stories through messaging or develop new messaging products to serve our audience?", 
+        "facilitator": "Yvonne Leow", 
+        "facilitator_twitter": "@YvonneLeow", 
+        "id": 116160, 
+        "submitted_at": "2015-04-09T04:58:12.127Z", 
+        "title": "Messaging is the Medium"
+    }, 
+    {
         "cofacilitator": "Kaeti Hinck", 
         "cofacilitator_twitter": "kaeti", 
         "description": "We all work with people who are not like us: people with different job descriptions, vocabulary, priorities, skills, and assumptions. These differences are valuable, even essential, to creating good and beautiful things, but damnit we need to be able to communicate effectively. We need to be as diligent and thoughtful in our conversations as we are in other aspects of our work. In this session we want to crowdsource strategies and best practices for when, where and how we communicate with our coworkers.", 
