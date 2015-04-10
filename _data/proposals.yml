@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Many events and projects now have a Code of Conduct. This is a wonderful step towards creating safe spaces.\n\nSuch codes encourage good behavior, but they  cannot prevent harassment and violence. When bad things happen, what are we going to do? \n\nThis session will discuss de-escalation tactics, reporting mechanisms, enforcement, transparency vs. privacy, and how to achieve justice when harassment or violence happens.", 
+        "facilitator": "David Eads", 
+        "facilitator_twitter": "eads", 
+        "id": 116742, 
+        "submitted_at": "2015-04-10T15:55:53.214Z", 
+        "title": "Dealing with Code of Conduct violations"
+    }, 
+    {
         "cofacilitator": "Ken Freedman", 
         "cofacilitator_twitter": "wfmu", 
         "description": "An exploration of how various media sites try to build community via comment sections, chat boards and other platforms. What has been successful and what has failed miserably? Can media sites build enough community through platforms like these, and can that community then harness crowdfunding into a new model for media sustainability? Many legacy media institutions have all but given up on the idea of audiences talking back, but other smaller institutions have harnessed their communities into a new model for media sustainability. What works?", 
