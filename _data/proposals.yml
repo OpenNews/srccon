@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "People expect websites to be useful, while machines expect websites to be readable. We must carefully negotiate the form and the function of our web interfaces. Progressive enhancement is a key concept, but how do we apply it? And when is it okay to break the rules and *gasp* require JavaScript? I'd like to use this session to look closer at the compromises we make between wide accessability and rich interaction. It will consider how we practice the design, implementation, and preservation of web pages, as well as how we utilize old technologies and new techniques.", 
+        "facilitator": "Allan Lasser", 
+        "facilitator_twitter": "allanlasser", 
+        "id": 116780, 
+        "submitted_at": "2015-04-10T17:38:33.419Z", 
+        "title": "The Form and Function of Forms and Functions"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "We news nerds can be a solitary bunch, whether we’re solo newsroom coders, part of a small-resources organization or on a distributed team. But even when working solo, management is important -- maybe even moreso! What tools and techniques do you use to work alone efficiently? How do you ensure you're not going way off-track if you don't have a proper editor? How do you communicate/collaborate with colleagues, especially if they don’t share your jargon? What’s your strategy for training and leveling-up your skills? Let’s share what has and hasn’t worked.", 
         "facilitator": "Tyler Machado", 
         "facilitator_twitter": "tylermachado", 
