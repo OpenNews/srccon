@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "We news nerds can be a solitary bunch, whether we’re solo newsroom coders, part of a small-resources organization or on a distributed team. But even when working solo, management is important -- maybe even moreso! What tools and techniques do you use to work alone efficiently? How do you ensure you're not going way off-track if you don't have a proper editor? How do you communicate/collaborate with colleagues, especially if they don’t share your jargon? What’s your strategy for training and leveling-up your skills? Let’s share what has and hasn’t worked.", 
+        "facilitator": "Tyler Machado", 
+        "facilitator_twitter": "tylermachado", 
+        "id": 116776, 
+        "submitted_at": "2015-04-10T17:25:38.258Z", 
+        "title": "How to Manage Yourself As a Solo News Developer"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Sometimes, the thing a beginner needs to grasp a concept is a simple analog. For instance, I taught a class in data visualization and one of the early classes was using LEGO to visualize data. There are all sorts of code concepts and data concepts that students -- from university courses to workshops -- struggle to grasp. What if we came up with a list of goofy, hands on ways to teach concepts that others could steal. How could you teach loops by making people run around a room? Or filtering? Or basic algorithms? Or visualization concepts? By making new concepts memorable for beginners, we stand a much better chance of spreading knowledge. Come throw out your ideas.", 
         "facilitator": "Matt Waite", 
         "facilitator_twitter": "mattwaite", 
