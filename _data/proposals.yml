@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Accessibility is often on our minds as we build products for the web, but are addressing these challenges in the best way? Many of our approaches tend to focus on the disability or impairment we are trying to accommodate. What if we approached these challenges from the perspective of the hardware and software being used instead? When's the last time you tried navigating your site with just a keyboard? At 200% zoom? A Wiimote? As Anne Gibson puts it in her great A List Apart piece \"Reframing Accessibility on the Web,\" accessibility should not be just about determining \"your audience and building to their needs\" – accessibility should be a \"trait of the website itself.\" We'll chat about how we approach accessibility, touch on common misconceptions and mistakes and look into techniques to encourage mindfulness as we plan our projects.", 
+        "facilitator": "Ryan Murphy", 
+        "facilitator_twitter": "rdmurphy", 
+        "id": 116865, 
+        "submitted_at": "2015-04-10T22:16:19.146Z", 
+        "title": "Taking Accessibility Beyond the Assumptions"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "A decade ago The New Yorker magazine published a volume called The Complete New Yorker: “EVERY PAGE OF EVERY ISSUE ON 8 DVD-ROMS.” This was Before Mobile, before tablets were the new hotness (and subsequently, just a third breakpoint).\n\nI'd like to stop and consider how The New Yorker, and other publications, are (or aren't) approaching this same archive challenge in 2015.\n\nI work for Condé Nast, but I think what Andy Baio said is true: Never Trust a Corporation to do a Library's Job. We have to be vigilent to keep the lights on—let the paywalls nudge our readers to become subscribers—but we also have to help other institutions preserve our part of the cultural heritage, in its entirety.\n\nThere are many ways we might approach the question *how do you package up an entire publication's corpus?* I would like to consider a possibility we can make happen today, with existing commodity hardware and widely available software: the Portable Offline Wifi Solution. I've been exploring this tech for several years through my side project, Occupy.here (see also: PirateBox, LibraryBox, Subnode.es, et al).\n\nIn this session I'll share what I’ve discovered about the OpenWrt offline web stack and lead a discussion about how it might apply to differently shaped archives. Let's archive our stuff together. For the children.", 
+        "facilitator": "Dan Phiffer", 
+        "facilitator_twitter": "dphiffer", 
+        "id": 116857, 
+        "submitted_at": "2015-04-10T21:49:14.459Z", 
+        "title": "The DVD archive is dead / Long live the wifi archive"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Let's get meta. How do you go about pitching talks? How do you decide if your title is appropriately jokey for the audience? How do you know if your vision for the session will resonate with the audience or totally bomb?\n\nWhen it's 15 minutes before the session proposal deadline, how do you have any idea if your proposal still makes sense to anyone outside of your own brain?\n\nGiving talks can be fun. They can be a great way to better refine your understanding of a topic or just share something really cool. And talks play such an important role in professional development. But, wow, can it be challenging to craft that perfect pitch and plan a super engaging talk. Let's air our questions and concerns and figure out how we can support one another in giving great talks.", 
         "facilitator": "Erika Owens", 
         "facilitator_twitter": "erika_owens", 
