@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Sometimes, the thing a beginner needs to grasp a concept is a simple analog. For instance, I taught a class in data visualization and one of the early classes was using LEGO to visualize data. There are all sorts of code concepts and data concepts that students -- from university courses to workshops -- struggle to grasp. What if we came up with a list of goofy, hands on ways to teach concepts that others could steal. How could you teach loops by making people run around a room? Or filtering? Or basic algorithms? Or visualization concepts? By making new concepts memorable for beginners, we stand a much better chance of spreading knowledge. Come throw out your ideas.", 
+        "facilitator": "Matt Waite", 
+        "facilitator_twitter": "mattwaite", 
+        "id": 116770, 
+        "submitted_at": "2015-04-10T17:11:16.637Z", 
+        "title": "Finding analogs to digital concepts jam session"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "The techniques driving big newsrooms have applications beyond journalism. As niche publications struggle to keep up there's a potential future where journalists and the techniques they practice have a vital place in other industries, especially niches; helping to spread knowledge, ask or answer vital questions,  and generally drive the pace of innovation through discovery.", 
         "facilitator": "Jesse von Doom", 
         "facilitator_twitter": "jessevondoom", 
