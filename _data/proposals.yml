@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": "Peter Karman", 
+        "cofacilitator_twitter": "peterkarman", 
+        "description": "Small development teams, particularly in startups with lean budgets, cannot afford to waste time and resources on failed experiments. How can you make every experiment a success? Frame every\nexperiment as an answer to a question.\n\nAt Pop Up Archive we make simple tools to manage sound. We had several questions related to the future business model of our company and what kind of  audio product(s) we should be investing our time in creating. Hypothesis-driven development helped us identify what we wanted to know, and then helped us define and measure our experiments as a way of answering our own questions.\n\nCome spend some time talking and listening about experimentation, data-driven decision-making and innovation. We'll talk tools, process and strategy using Audiosear.ch (our experiment) as a case study.", 
+        "facilitator": "Anne Wootton", 
+        "facilitator_twitter": "annewootton", 
+        "id": 116846, 
+        "submitted_at": "2015-04-10T21:20:47.590Z", 
+        "title": "Audiosear.ch: an experiment in data driven decision making"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Drawing on recent collaborations between the New York Times analytics team, newsroom editors, and R&D, we’ll share our current thinking on what tools and techniques are needed to help editors align their work more closely with their audiences in the future. I'll share some prototypes of tools we've built, walk through some early findings about how these tools have been used, and explain possible implications on how we approach the practice of audience development over the next few years.", 
+        "facilitator": "James G. Robinson", 
+        "facilitator_twitter": "JamesGRobinson", 
+        "id": 116845, 
+        "submitted_at": "2015-04-10T21:18:41.693Z", 
+        "title": "Audiences and Analytics: What’s Next"
+    }, 
+    {
         "cofacilitator": "Kavya Sukumar", 
         "cofacilitator_twitter": "kavyasukumar", 
         "description": "We are not artists and drawing is scary. But visualizing and creating illustrations  is one of the best ways  to distill and focus a thought or story.\n\nIn the end, an ugly drawing that makes a point is a hundred times better than a crappy stock photo. And who knows, maybe one of your illustrations will get published some day. How great would that be?\n\nIn this session we can get out of our comfort zones and doodle our way through a story.", 
