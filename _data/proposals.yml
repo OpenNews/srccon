@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Version control systems are indispensible for engineering teams,  but often afterthoughts in the tools used by writers and editors. The patterns for version control we employ today, invented for specific software development cases that don’t always fit our needs, often force us to shape our tools and practices in ways we might not realize. Let’s change that.\n\nIf we were to start from scratch, how might we design the kinds of version control systems that empower writers and news developers? How can we explain and facilitate powerful and complex version paradigms like branching and merging in the context of a reported article? How might we expose that process to our readers?\n\nLet’s explore some of the implementations of existing version control structures—resilient storage, atomicity, concurrency—and  try to conceive of new ways to look at, modify, and understand our content and news applications.", 
+        "facilitator": "David Yee", 
+        "facilitator_twitter": "tangentialism", 
+        "id": 116804, 
+        "submitted_at": "2015-04-10T19:11:43.153Z", 
+        "title": "Merge Branch: Imagining new version control systems for writers and editors"
+    }, 
+    {
         "cofacilitator": "Helga Salinas", 
         "cofacilitator_twitter": "helga_salinas", 
         "description": "Almost every newsroom has one: that person who thinks that your job is some kind of dark magic involving the internet, but has no idea what you may or may not do beyond that. Most newsrooms have more than one. \n\nWe've both found there's a fine line between being the newsroom cheerleader for new digital things and somehow finding yourself bombarded with requests from coworkers for troubleshooting all tech issues. \n\nWe want to know what works in other small newsrooms to stay engaged with your colleagues, encourage them to bounce cool digital storytelling ideas off you, but discourage them from asking you to fix the printer/their iPhone/the TV. We've also pitched this topic to ONA15 and hope to take the dos/don'ts from SRCCON and adapt it for the broader audience.", 
