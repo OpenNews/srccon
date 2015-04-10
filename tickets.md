@@ -15,4 +15,4 @@ As part of our wider diversity and inclusion efforts, we are also working to mak
 
 We're also [offering scholarships](/scholarships) to help defray the cost of participating in SRCCON. Applications are open now till April 22, and we'll notify applicants before tickets go on sale.
 
-We'll post more information on the ticketing process in the coming weeks and months. In the meantime, please note that if you <a href="/sessions">pitch a session</a> we accept, you will be offered a chance to buy a ticket before the public on-sale date.
+We'll post more information on the ticketing process in the coming weeks. In the meantime, please note that if you <a href="/sessions">pitched a session</a> that we accept, you will be offered a chance to buy a ticket before the public on-sale date.
