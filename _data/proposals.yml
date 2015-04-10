@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "A/B testing has been used for years to see whether one headline beats another. It injects data into processes that are normally based on intuition and judgment. For years, the Wall Street Journal’s interactive graphics team wished they could a/b test parts of their projects. Would one layout or button get more engagement than another? We also rely heavily on custom-made images to promote our work on WSJ.com — a creative process that goes through a lot of internal debate. Does a photo work better than a chart? Should we spend a lot of time creating them or very little?\n\nThird-party a/b testers were costly and seemed complex to implement. Click-tracking services through Omniture and Google Analytics seemed too bloated and difficult to monitor. \n\nIntroducing Cointoss, a JavaScript plugin that will be open-sourced for SRCCON, which easily lets you a/b (and c, d and e) test parts of your project or images and measure their results. We’ll talk about developing the plugin, some surprising results from our experiments, some best practices for a/b testing we picked up along the way, and how to set it up for your newsroom.", 
+        "facilitator": "Stuart Thompson", 
+        "facilitator_twitter": "stuartathompson", 
+        "id": 116826, 
+        "submitted_at": "2015-04-10T20:16:56.213Z", 
+        "title": "Introducing Cointoss"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "We make all these complex interactive news apps that users can interact from multiple dimensions. Then when it comes to mobile, we take the map, the tooltip, the navigation, the three really cool interaction features other than swipe or scroll... out. What left in most cases are just text and images. Is it just text or images? Is it just swipe or scroll? In this session, I propose that we discuss the design that works best for mobile from your experience, and we brainstorm cool features we would love to see. We will work to summarize best practices and great in-the-wild ideas. We will think this problem together and try to tackle it together.", 
+        "facilitator": "Youyou Zhou", 
+        "facilitator_twitter": "zhoyoyo", 
+        "id": 116823, 
+        "submitted_at": "2015-04-10T20:14:33.177Z", 
+        "title": "Design interactive graphics on mobile: best practices and wild ideas"
+    }, 
+    {
         "cofacilitator": "Heather Billings", 
         "cofacilitator_twitter": "hbillings", 
         "description": "At NICAR15, during the NICAR-commons hallway chat on salary, we started having a great conversation about the role of gender in salary, negotiations, which eventually led to conversations about women on tech teams, inclusive culture on teams, even the ideas of using your married name vs maiden name at work. Let's bring this to SRCCON and keep surfacing these topics.", 
