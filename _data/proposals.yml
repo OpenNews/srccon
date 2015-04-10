@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "My first exposure to programming was filled with confusion, frustration, wasted time and lots of mistakes. It didn't have to be that way. I would solve problems once, twice, three times before thinking to document the solution. My first news app was \"about a week\" away from publication for about four months. Many of my days were spent rewriting the same code or redesigning the same pages because I hadn't sat down and made a plan before diving into the code. You can avoid similar mistakes! In this talk, we will discuss ways to make beginner developers' lives easier by avoiding these common errors and skipping straight to good habits. Attendees of all experience levels will be encouraged to share memorable \"aha!\" moments in their careers and their methods for continuous improvement.", 
+        "facilitator": "Thomas Thoren", 
+        "facilitator_twitter": "thomasjthoren", 
+        "id": 116866, 
+        "submitted_at": "2015-04-10T22:24:51.891Z", 
+        "title": "Learn from my mistakes: What I wish I had known as a beginner developer"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Accessibility is often on our minds as we build products for the web, but are addressing these challenges in the best way? Many of our approaches tend to focus on the disability or impairment we are trying to accommodate. What if we approached these challenges from the perspective of the hardware and software being used instead? When's the last time you tried navigating your site with just a keyboard? At 200% zoom? A Wiimote? As Anne Gibson puts it in her great A List Apart piece \"Reframing Accessibility on the Web,\" accessibility should not be just about determining \"your audience and building to their needs\" – accessibility should be a \"trait of the website itself.\" We'll chat about how we approach accessibility, touch on common misconceptions and mistakes and look into techniques to encourage mindfulness as we plan our projects.", 
         "facilitator": "Ryan Murphy", 
         "facilitator_twitter": "rdmurphy", 
