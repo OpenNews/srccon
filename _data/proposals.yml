@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "As journalists, we know how useful LexisNexis can be. Companies do, too. And they are spending millions to build or buy sophisticated CRM systems that track and link their customers through not just social media and online buying preferences but also through public records. But we also know how flawed the data collected by these CRM systems and LexisNexis can be. Public records are not necessarily clean data. Nor do they often tell full stories on their own.\n\nHaving access to good data within the right context is immensely valuable. That’s in part why we’ve seen data stores such as ProPublica’s and the Texas Tribune’s show such promise. As we consider revenue streams to support good journalism, data may be one of those that gives us the resources and the independence we need. \n\nLet’s talk about how to best monetize data responsibly, ethically and without sacrificing journalistic standards. Proposed topics for discussion include: \n\n* What datasets should newsrooms be collecting as a matter of course — what is valuable? How should we define “valuable”?\n\n* How should these datasets be published? How much fact-checking is the right amount of fact-checking, particularly with significantly large datasets? What standards (if there should be standards) need to be put in place re: ideas such as version control, auditing back to the source and linking people within datasets? \n\n* Should all data be published? What are our responsibilities in terms of protecting privacy? How might our decisions on what to publish affect open records laws — could we see a backlash and how much should concern over that factor into our decision-making on what to publish? (For example, whether or not home addresses can be released by government agencies has been a huge topic in Pennsylvania. The Commonwealth Court recently ruled that agencies can’t release home addresses under the Right-to-Know Law without informing each person that his/her address would be released and giving them a chance to contest it. But this ruling doesn’t seem to apply to the release of home addresses in the voter registration database. Yet. If we use the voter registration database to map voters, how granular do we want to be in what we publish? How might that decision affect the state’s ongoing debate about the openness of those records?) \n\n* Let’s also talk about how, technically, these data “libraries” could be built — how can this idea of monetizing data work practically and efficiently, especially for small to mid-sized newsrooms?", 
+        "facilitator": "AmyJo Brown", 
+        "facilitator_twitter": "amyjo_brown", 
+        "id": 116709, 
+        "submitted_at": "2015-04-10T14:18:46.190Z", 
+        "title": "How can we best monetize data — and do so responsibly, ethically and without sacrificing journalistic standards?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "A look at MuckRock's experience with crowdfunding the release of government documents, and resulting lessons that challenge the traditional journalistic notion of \"owning\" a story and the fear of being \"scooped.\"", 
         "facilitator": "JPat Brown", 
         "facilitator_twitter": "resentfultweet", 
