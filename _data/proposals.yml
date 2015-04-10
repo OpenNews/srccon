@@ -2,6 +2,36 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "The techniques driving big newsrooms have applications beyond journalism. As niche publications struggle to keep up there's a potential future where journalists and the techniques they practice have a vital place in other industries, especially niches; helping to spread knowledge, ask or answer vital questions,  and generally drive the pace of innovation through discovery.", 
+        "facilitator": "Jesse von Doom", 
+        "facilitator_twitter": "jessevondoom", 
+        "id": 116767, 
+        "submitted_at": "2015-04-10T17:05:46.209Z", 
+        "title": "Journalism techniques outside the newsroom"
+    }, 
+    {
+        "cofacilitator": "Matt Perry", 
+        "cofacilitator_twitter": "mattoperry", 
+        "description": "Election night. Super Bowl. Oscars. Apple Event. High-profile, high-traffic events are a part of every news organization. How do you prepare your sites and applications for this event? How do you write performant code that scales? What cache setup makes the most sense for your event? What mobile or application dependencies should you be on the lookout for? How do you prepare your team? And, if something goes wrong, how should you handle communication and resolution? In this session we'll walk through some real-life scenarios and simulate emergency situations for folks to share their thoughts and experiences. Participants should walk out of this session with a checklist of items that they can use to prepare for the next high traffic event they have, to ensure that on their most high-profile day of the year, their sites and apps are up and running.", 
+        "facilitator": "Stephanie Yiu", 
+        "facilitator_twitter": "crushgear", 
+        "id": 116764, 
+        "submitted_at": "2015-04-10T17:00:41.037Z", 
+        "title": "It's On! Preparing for High Traffic Events"
+    }, 
+    {
+        "cofacilitator": "Michael Keller", 
+        "cofacilitator_twitter": "mhkeller", 
+        "description": "How newsrooms conceive of and measure the impact of their work is a messy, idiosyncratic, and often rigorous process. Based at times on what simply seems worth remembering during the life of a story or, at others, on strict guidelines of what passes the \"impact bar.\" Over the past two years, we conceived of and constructed NewsLynx (http://newslynx.org) to address two needs: first, as an attempt to understand how and through what processes news organizations large and small are currently approaching the \"impact problem\" and second, if we could develop a better way — through building an open-source platform— to help those newsrooms capture the qualitative and quantitive impact of their work.\n\nComing two weeks after the official public release of NewsLynx, this session will serve as the first opportunity for journalists, editors, and open-source hackers to work with the project's creators to install, configure, and extend the platform in their newsroom.  We'll discuss the successes and failures we encountered throughout our beta test with six non-profit newsrooms and brainstorm potential means of extending the platform moving forward.  If all goes well, we'll help technically-inclinded audience members actually deploy an instance of NewsLynx.", 
+        "facilitator": "Brian Abelson", 
+        "facilitator_twitter": "brianabelson", 
+        "id": 116761, 
+        "submitted_at": "2015-04-10T16:55:12.419Z", 
+        "title": "Modular Analytics for your Newsroom with NewsLynx."
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Many events and projects now have a Code of Conduct. This is a wonderful step towards creating safe spaces.\n\nSuch codes encourage good behavior, but they  cannot prevent harassment and violence. When bad things happen, what are we going to do? \n\nThis session will discuss de-escalation tactics, reporting mechanisms, enforcement, transparency vs. privacy, and how to achieve justice when harassment or violence happens.", 
         "facilitator": "David Eads", 
         "facilitator_twitter": "eads", 
