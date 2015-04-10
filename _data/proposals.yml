@@ -1,5 +1,45 @@
 [
     {
+        "cofacilitator": "Michelle Mizner", 
+        "cofacilitator_twitter": "michellemizner", 
+        "description": "What should video be on the web? Most online video remains a passive experience, where the only options as a user are play, pause and maybe a comment thread below. The web offers much more than this, but where do we start? What do we mean what we talk about interactive video? What's possible? What do users want? What tools and strategies can we use to build these ideas into our quick-turnaround workflows?", 
+        "facilitator": "Chris Amico", 
+        "facilitator_twitter": "eyeseast", 
+        "id": 116893, 
+        "submitted_at": "2015-04-10T23:51:50.752Z", 
+        "title": "Beyond yelling at the TV: Interactive video, engagement and feedback."
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Ever had a scrape timeout or fail? Have you scraped a bunch of web pages and realized that you need to add one more data point to your results? How often have you had to hit a web server for the same page multiple times? Caching your scrape makes these problems trivial to deal with. Learn how to load from cached copies of the website with a few lines of code. This technique will save you time and headaches while reducing server load on the other end of your scrape. And while we are at it, let's write a standardized library to handle this for us in Python.", 
+        "facilitator": "Eric Sagara", 
+        "facilitator_twitter": "esagara", 
+        "id": 116892, 
+        "submitted_at": "2015-04-10T23:49:48.091Z", 
+        "title": "How to not scrape like a jerk"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Ignoring anything related to ads is a point of pride for a lot of newsroom developers. But there’s a major shift coming in how ads are sold, served, and measured, and it has huge implications for how news websites will be designed and built. If you work on a site that has ads, you should be getting ready for viewability.\n\nMost ads are sold at a price per thousand impressions, and traditionally impressions are counted as soon as the ad is inserted into the page. But the “viewable impression” is counted only after the ad enters the browser’s viewport. For some sites, this means that HALF of all ads served might never be seen by a reader or paid for by an advertiser.\n\nThis session will provide an overview of online advertising in general, and ad viewability in particular. I'll cover the technologies used to measure viewability and how it might impact the design and development of news sites. Finally, I’ll provide some ideas for how newsroom developers can adapt to viewability, use it to their advantage, and even borrow some concepts to improve the news apps you develop.", 
+        "facilitator": "Josh Kadis", 
+        "facilitator_twitter": "kadisco", 
+        "id": 116891, 
+        "submitted_at": "2015-04-10T23:49:39.820Z", 
+        "title": "Ad viewability is coming and you should care"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Image processing and satellite data analysis has become popular recently. Most image processing consists of cleaning an image, removing cloud cover and stitching together tiles. What about those data sets where the actual values of the pixel have meaning? This workshop will look at  how to use Python, GDAL and the numpy library to analyze the data behind the pixel using techniques such as masking and array operations to create imagery from the data. We will also talk briefly about how to access data stored in formats other than geotiff.", 
+        "facilitator": "Eric Sagara", 
+        "facilitator_twitter": "esagara", 
+        "id": 116890, 
+        "submitted_at": "2015-04-10T23:46:32.467Z", 
+        "title": "The Data Behind the Pixel"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "In China, where a majority of the population browses the web via their smartphones, there's been an emphasis on building micro websites called \"light apps.\" Light apps, in contrast to native apps (apps you install directly on your device), are small HTML5 websites that require no downloading, use heavy animation and usually only have one use. They're meant for short attention spans and are often built to promote products for companies or recap an events. This design approach got me thinking: How could we as journalists adapt this idea to tell micro stories to our readers? Rather than write a full story or build an interactive graphic, we could fashion \"light apps\" that get the point across in a slick manner and then are never looked upon again. In this session, we'll take a look at some existing light apps and brainstorm story ideas that could work for the format.", 
