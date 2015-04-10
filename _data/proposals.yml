@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": "Heather Billings", 
+        "cofacilitator_twitter": "hbillings", 
+        "description": "At NICAR15, during the NICAR-commons hallway chat on salary, we started having a great conversation about the role of gender in salary, negotiations, which eventually led to conversations about women on tech teams, inclusive culture on teams, even the ideas of using your married name vs maiden name at work. Let's bring this to SRCCON and keep surfacing these topics.", 
+        "facilitator": "Emma Carew Grovum", 
+        "facilitator_twitter": "emmacarew", 
+        "id": 116812, 
+        "submitted_at": "2015-04-10T19:29:03.448Z", 
+        "title": "Real talk for women in tech"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "A lot of tools are built off the Github API. Some are great. Some are funny. One of them is a bot that accepts pull requests to it's own code, based on the number of upvotes the pull request gets in the first half hour. Sort of like a semi-sentient, crowd-pleasing roomba.\n\nI'd like to share some of the things I've worked on that use the Github API (prose.io), and I'd love to hear what others have to add. Together, we can learn a little more about the site that many of us use everyday, and maybe come up with a better, more sentient roomba.", 
+        "facilitator": "Derek Lieu", 
+        "facilitator_twitter": "dereklieu", 
+        "id": 116811, 
+        "submitted_at": "2015-04-10T19:27:45.087Z", 
+        "title": "Using the Github API for Fun & Profit"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "Version control systems are indispensible for engineering teams,  but often afterthoughts in the tools used by writers and editors. The patterns for version control we employ today, invented for specific software development cases that don’t always fit our needs, often force us to shape our tools and practices in ways we might not realize. Let’s change that.\n\nIf we were to start from scratch, how might we design the kinds of version control systems that empower writers and news developers? How can we explain and facilitate powerful and complex version paradigms like branching and merging in the context of a reported article? How might we expose that process to our readers?\n\nLet’s explore some of the implementations of existing version control structures—resilient storage, atomicity, concurrency—and  try to conceive of new ways to look at, modify, and understand our content and news applications.", 
