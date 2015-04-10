@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "In China, where a majority of the population browses the web via their smartphones, there's been an emphasis on building micro websites called \"light apps.\" Light apps, in contrast to native apps (apps you install directly on your device), are small HTML5 websites that require no downloading, use heavy animation and usually only have one use. They're meant for short attention spans and are often built to promote products for companies or recap an events. This design approach got me thinking: How could we as journalists adapt this idea to tell micro stories to our readers? Rather than write a full story or build an interactive graphic, we could fashion \"light apps\" that get the point across in a slick manner and then are never looked upon again. In this session, we'll take a look at some existing light apps and brainstorm story ideas that could work for the format.", 
+        "facilitator": "Aaron Williams", 
+        "facilitator_twitter": "aboutaaron", 
+        "id": 116885, 
+        "submitted_at": "2015-04-10T23:32:38.221Z", 
+        "title": "Mobile only? How we could adopt Chinese web design principles for storytelling"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "How long does it take for pages on your site to load? Builders on the web have obsessed over this question for years. But even with web pages getting heftier and heftier, the usability of our work does not have to suffer. The perception of performance is becoming less a factor of “how long until the page is fully loaded,” and more of “how soon can the user interact with it?” I'd like encourage a conversation about the current state of performance on the web. How can we provide our users' browsers with enough information to make our page usable as soon as possible, even with all our wiz-bang graphics and interactives? What's a performance budget, and how can we use it to keep ourselves honest about the performance of our apps and graphics? What tools can we use to test web performance? I'll talk about our efforts at The Texas Tribune and highlight the amazing work of others. There are a number of outlets in our industry that are doing great work in this area – my hope is that we can bring more of us into the fold!", 
+        "facilitator": "Ryan Murphy", 
+        "facilitator_twitter": "rdmurphy", 
+        "id": 116884, 
+        "submitted_at": "2015-04-10T23:25:49.234Z", 
+        "title": "Web Performance is a Feature, Too!"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Any large investigative project or feature is going to generate a wealth of reporting that most users never see. We all have interviews, notes, research and data that inform the stories we tell but get thrown away after a story is finished. This session will focus on open notebook reporting and structured journalism, looking at ways we can better use and share more of what we collect in our reporting, without killing ourselves trying to get it online. We'll talk about tools, practices and culture.", 
         "facilitator": "Chris Amico", 
         "facilitator_twitter": "eyeseast", 
