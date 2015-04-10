@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": "Kavya Sukumar", 
+        "cofacilitator_twitter": "kavyasukumar", 
+        "description": "We are not artists and drawing is scary. But visualizing and creating illustrations  is one of the best ways  to distill and focus a thought or story.\n\nIn the end, an ugly drawing that makes a point is a hundred times better than a crappy stock photo. And who knows, maybe one of your illustrations will get published some day. How great would that be?\n\nIn this session we can get out of our comfort zones and doodle our way through a story.", 
+        "facilitator": "Arjuna Soriano", 
+        "facilitator_twitter": "arjunasoriano", 
+        "id": 116837, 
+        "submitted_at": "2015-04-10T20:47:59.953Z", 
+        "title": "Everyone is an illustrator: making your own art when none exists"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Whether you’re deploying a static app or a news app with a half-dozen databases, you’re making infrastructure choices about where those HTTPS requests go. How do you weigh the tradeoffs of S3 vs AWS vs something else? Does your app emit the best cache control headers? When should a feature be static, when not? How many databases should you be allowed to put in production? How do you monitor all of this stuff (both performance and errors)? When should you integrate with another service, when should you build it yourself? And now that you have all these internal services, how do you coordinate them?\n\nI built The Marshall Project’s website. Many of us build apps like this, whether it’s a news app, CMS, or plugin for an existing system. Let’s enumerate the choices we tackle when we build an app and explore their tradeoffs by sharing some war stories. At the end of the session, we’ll come away with a framework for asking the right questions when building your next app.", 
+        "facilitator": "Ivar Vong", 
+        "facilitator_twitter": "ivarvong", 
+        "id": 116836, 
+        "submitted_at": "2015-04-10T20:47:25.743Z", 
+        "title": "Where should you run your code?"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "So you've got your app running great on your computer, now you want to publish it. So maybe you drag and drop it onto S3 or you copy and paste a bunch of markup junk into your CMS and, voila, it's alive! \n\nAnd then you have to make a change. And then another change because oh look, it's not behaving right on mobile. Now you and a colleague are both working on a fix except it's after work and you're both working remotely and maybe the server is showing the most updated version? Possibly? What if your editor, also remote, wants to preview your changes before making live changes?\n\nIn this session we'll talk about how you might design a publishing workflow that embraces the robustness of version control with the speed of the newsroom. We'll use [Kestrel](http://github.com/mhkeller/kestrel), the open source system we made at Al Jazeera America that combines GitHub, email notifications, staging and production environments, scheduled deployments (so we don't have to wake up at 5am to push to S3) and an internal preview server as a jumping off point and then brainstorm workflows that might fit other teams' needs and discuss current practices — from fab scripts to dreamlike systems.", 
