@@ -2,6 +2,36 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Any large investigative project or feature is going to generate a wealth of reporting that most users never see. We all have interviews, notes, research and data that inform the stories we tell but get thrown away after a story is finished. This session will focus on open notebook reporting and structured journalism, looking at ways we can better use and share more of what we collect in our reporting, without killing ourselves trying to get it online. We'll talk about tools, practices and culture.", 
+        "facilitator": "Chris Amico", 
+        "facilitator_twitter": "eyeseast", 
+        "id": 116875, 
+        "submitted_at": "2015-04-10T22:48:48.725Z", 
+        "title": "Every part of the pig: How can we make better use of reporting in long investigations?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "It's been a little more than a year since Jeff Bezos announced he was personally buying The Washington Post. In the time we've seen tremendous growth and great innovation. I'll share what I've learned in that time working directly on his vision of the future of the Post. Also I'll talk about how you too can learn from our changes without having your own billionaire tech genius owner.", 
+        "facilitator": "Joey Marburger", 
+        "facilitator_twitter": "@josephjames", 
+        "id": 116870, 
+        "submitted_at": "2015-04-10T22:32:46.597Z", 
+        "title": "A space company, a millennium clock and a newspaper walk into a bar"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "A lot of us interact daily with bots that our readers never get to meet. Bots can be magic by helping us with our daily tasks, building things for us, giving us updates about things we work on and by helping us better communicate with our colleagues at work. By taking advantage of existing online platforms like Slack or Twitter where we daily chat with our co-workers and friends, bots are one of the easiest and most satisfying ways to prototype interactive experiences and one of simplest methods to experiment with new methods of sharing and creating communities around news. In this session, we will work in groups to explore new ways of delivering news to our readers and creating online communities by inventing fun and interactive news bots for Slack and Twitter. We’ll spend most of the session creating paper prototypes and will make teams with people from different backgrounds, so no programming experience is required.", 
+        "facilitator": "Filipe Brandão", 
+        "facilitator_twitter": "luisfbrandao", 
+        "id": 116869, 
+        "submitted_at": "2015-04-10T22:28:05.136Z", 
+        "title": "Prototyping interactivity with news bots"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "My first exposure to programming was filled with confusion, frustration, wasted time and lots of mistakes. It didn't have to be that way. I would solve problems once, twice, three times before thinking to document the solution. My first news app was \"about a week\" away from publication for about four months. Many of my days were spent rewriting the same code or redesigning the same pages because I hadn't sat down and made a plan before diving into the code. You can avoid similar mistakes! In this talk, we will discuss ways to make beginner developers' lives easier by avoiding these common errors and skipping straight to good habits. Attendees of all experience levels will be encouraged to share memorable \"aha!\" moments in their careers and their methods for continuous improvement.", 
         "facilitator": "Thomas Thoren", 
         "facilitator_twitter": "thomasjthoren", 
