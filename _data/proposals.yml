@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Helga Salinas", 
+        "cofacilitator_twitter": "helga_salinas", 
+        "description": "Almost every newsroom has one: that person who thinks that your job is some kind of dark magic involving the internet, but has no idea what you may or may not do beyond that. Most newsrooms have more than one. \n\nWe've both found there's a fine line between being the newsroom cheerleader for new digital things and somehow finding yourself bombarded with requests from coworkers for troubleshooting all tech issues. \n\nWe want to know what works in other small newsrooms to stay engaged with your colleagues, encourage them to bounce cool digital storytelling ideas off you, but discourage them from asking you to fix the printer/their iPhone/the TV. We've also pitched this topic to ONA15 and hope to take the dos/don'ts from SRCCON and adapt it for the broader audience.", 
+        "facilitator": "Emma Carew Grovum", 
+        "facilitator_twitter": "emmacarew", 
+        "id": 116798, 
+        "submitted_at": "2015-04-10T18:57:26.011Z", 
+        "title": "Sorry, the Genius Bar is Closed"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "It is so cool that newsroom devs are using new tech to create innovative story forms. It is a huge bummer that our CMSes, our analytics software and our search engines can’t keep up with weird things that defy traditional classification by content type. Let’s have a technical, nitty-gritty discussion on pushing your pretty new interactive into the wider world. Iframes or nah? Battle the CMS or go outside it? And WTF do you do with that ancient non-responsive interactive from two site redesigns ago? Hoping to tackle questions of accessibility, maintainability and performance.", 
