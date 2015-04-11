@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Someone comes to you with an idea, you find new data, or you need to add a feature to your project. Where do you start? How about a 15-minute, hyperactive brainstorm session. We'll test out a couple strategies, including Crazy Eights (eight sketches in five minutes), assumption busting, debating and Pictionary prototyping. We'll discuss symbols, vocabulary and tools we can use to express our ideas quickly and clearly to all stakeholders, and there will definitely be coloring involved. And did you think this was just about design? We'll discuss and try to apply these strategies to code, datasets and where to go for lunch.", 
+        "facilitator": "Sarah Squire", 
+        "facilitator_twitter": "sarahjsquire", 
+        "id": 116949, 
+        "submitted_at": "2015-04-11T02:54:15.937Z", 
+        "title": "The first 15 minutes"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "As data and visual literacy increases in the newsroom and we build increasingly complex projects, how can we make sure that users don’t get left behind? How do we help onboard novice users to new data, new user interfaces and potentially new ideas – some of which may be presented in abstract graphical form?\n\n“Guided tours” offer one such opportunity. By starting with familiar actions (like clicking through a series of buttons) we can walk users through a series of interactions that highlight significant aspects of a dataset, demonstrate UI operations or introduce multiple views, all with the goal of empowering users and encouraging them to engage and explore more fully.\n\nBuilding on established graphical and UI patterns like stepper graphics, the “annotation layer” and mobile on-boarding guides, this session will explore the role of the guided tour as a method of introducing users to new visual representations and of encouraging the exploration of complex datasets. We’ll discuss some best practices and gotchas before participating in brief design reviews and user tests of several data visualizations that contain large datasets, unique interfaces and/or complex graphical representations.", 
         "facilitator": "Nathan Griffiths", 
         "facilitator_twitter": "jgriffiths", 
