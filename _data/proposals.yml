@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Rachel Schallom", 
+        "cofacilitator_twitter": "rschallom", 
+        "description": "We're not pressing widgets.  The success of the news and writing software are both dependent on having good people do challenging work.  But finding people can be hard.  How do you recruit?  How do you figure out whether a candidate is good through the lens of a few meetings?  If you're in an organization with constraints around hiring, how do you navigate them to make sure you end up with the best candidate?  And from the perspective of job hunters, there is a lot of conflicting advice for what makes one an attractive candidate and how to communicate to potential employers who you are.  There's a lot to be said about a process that's collaborative exploration at it's best but can feel competitive, combative or stressful.  There have to be ways we can make it better, and we should talk about them!", 
+        "facilitator": "Ted Han", 
+        "facilitator_twitter": "knowtheory", 
+        "id": 116964, 
+        "submitted_at": "2015-04-11T03:41:27.585Z", 
+        "title": "Building a Team | Finding good gigs"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "Most news projects follow a similar path, but how many of us follow a set roadmap as we go? Being aware of project phases can help organize our thoughts and keep us from having to double back later, especially when we don't have a project manager to lead us. Let's start by writing out all the steps we take from pitch to publish and sorting them into project phases. Then we'll go through and see which ones we actually take the time to complete in our current jobs. By the end, we'll have a roadmap to build graphics, stories and products with a guide to steer us so we don't get lost on the way.", 
