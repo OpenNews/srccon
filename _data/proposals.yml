@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "It’s a well known agile methodology, but does it really suit your team? Newsrooms are very tricky — you have different actors with diverse backgrounds, and teams have high turnover rates. In a newsroom, you rarely work on the same project for more than six months and you usually have people working on different projects at the same time. Let’s talk about process in a newsroom. How do we measure the progress of a project and the velocity of your team. What other metrics can we use? And how can we improve communication?", 
+        "facilitator": "Marcos Vanetta", 
+        "facilitator_twitter": "malev", 
+        "id": 116977, 
+        "submitted_at": "2015-04-11T04:16:40.115Z", 
+        "title": "Is Scrum all you need to manage your team?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "I love when journalists make the code for their data analyses available. But alas, making work *available* isn’t the same thing as making work *accessible* - scripts sitting around in a Github repo are still unfriendly and daunting to most. Even if you were to examine code in depth, it’d still lack context about the reasoning behind methodology, dead ends explored, etc. How can we better share context and reasoning - not just code? How can we share analyses in a way that doesn’t intimidate novice coders or non-coders? How can we publish work without doing, well, a bunch of extra work? Let’s share thoughts! I’ll also show you around the interactive Jupyter Notebook (previously iPython Notebook), a nifty tool that privileges exploration, contextualization, and sharing - a tool that’s practically designed for journo-nerds, in my humble opinion. Bonus: coding in an interactive Notebook is especially great for python beginners.", 
         "facilitator": "Cathy Deng", 
         "facilitator_twitter": "cthydng", 
