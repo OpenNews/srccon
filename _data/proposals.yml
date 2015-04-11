@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Most news projects follow a similar path, but how many of us follow a set roadmap as we go? Being aware of project phases can help organize our thoughts and keep us from having to double back later, especially when we don't have a project manager to lead us. Let's start by writing out all the steps we take from pitch to publish and sorting them into project phases. Then we'll go through and see which ones we actually take the time to complete in our current jobs. By the end, we'll have a roadmap to build graphics, stories and products with a guide to steer us so we don't get lost on the way.", 
+        "facilitator": "Sarah Squire", 
+        "facilitator_twitter": "sarahjsquire", 
+        "id": 116959, 
+        "submitted_at": "2015-04-11T03:23:20.930Z", 
+        "title": "Project Mise En Place: From inception to launch"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Software documentation and implementation manuals are difficult undertakings for many developers, but the challenges can be monumental for news nerds. Coding in direct response to current events requires fantastically rapid software engineering that usually moves much faster than the technology industry's other product development cycles. Documentation is thus often demoted even further than usual in order to allow for these tighter deadlines, but undocumented or poorly documented code isn't really useful to anyone beyond the original programmer, and bad documentation is often rightfully a catastrophic barrier to the process of open sourcing a project, which hurts everybody. Even if you don't ultimately intend to share your code, bad documentation means your own organization will find it more difficult to maintain – or, worse yet, to iterate on and reuse the next time it is needed for the next breaking story which has another tight deadline. This sucks! Let's try to help by discussing specific strategies for rapidly and effectively documenting source code in the publishing technology space, whether for internal use or eventual open source release, covering everything from the language used in Git commit messages and inline code comments to ticketing software and broader management perspectives.", 
         "facilitator": "Vijith Assar", 
         "facilitator_twitter": "vijithassar", 
