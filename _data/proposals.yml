@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "As data and visual literacy increases in the newsroom and we build increasingly complex projects, how can we make sure that users don’t get left behind? How do we help onboard novice users to new data, new user interfaces and potentially new ideas – some of which may be presented in abstract graphical form?\n\n“Guided tours” offer one such opportunity. By starting with familiar actions (like clicking through a series of buttons) we can walk users through a series of interactions that highlight significant aspects of a dataset, demonstrate UI operations or introduce multiple views, all with the goal of empowering users and encouraging them to engage and explore more fully.\n\nBuilding on established graphical and UI patterns like stepper graphics, the “annotation layer” and mobile on-boarding guides, this session will explore the role of the guided tour as a method of introducing users to new visual representations and of encouraging the exploration of complex datasets. We’ll discuss some best practices and gotchas before participating in brief design reviews and user tests of several data visualizations that contain large datasets, unique interfaces and/or complex graphical representations.", 
+        "facilitator": "Nathan Griffiths", 
+        "facilitator_twitter": "jgriffiths", 
+        "id": 116948, 
+        "submitted_at": "2015-04-11T02:48:51.178Z", 
+        "title": "Visual literacy: Guiding users to engagement"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "What community means? Do we want to \"build community\" around the newsroom? This space will explore different ways to engage with readers and people from outside the newsroom that feed the work from the journalists.", 
+        "facilitator": "Gabriela Rodriguez", 
+        "facilitator_twitter": "@gaba", 
+        "id": 116947, 
+        "submitted_at": "2015-04-11T02:48:26.116Z", 
+        "title": "community in and around the newsroom: from comments to hackatons to hack/hackers"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Let's talk about archives! An organization that's been making news for a while has a lot of cool stuff in the attic. How can we add context and enticing entry points to turn that raw material into a resource for our readers? What approaches has your organization tried? What off-the-wall ideas would you like to try?\nThese questions are also relevant to the journalism we're producing now. Whether you're stretching the limits of the CMS or telling stories on platforms unlikely to exist a decade from now, how might you keep the archives of the future in mind? How do you balance the goals of preserving the content and preserving the material experience? How many Snapchat stories fit on a roll of microfilm? Let's find out, together.", 
         "facilitator": "Daniel McLaughlin", 
         "facilitator_twitter": "mclaughlin", 
