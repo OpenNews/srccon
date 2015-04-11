@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Last year, I helped facilitate a long session on how we can stop fighting the CMS. The group split into two distinct discussions, on writing/editing, specifically versioning, revisions, and collaboration (a la Editorially, at the time); and the content model, including structured stories (like Circa), assets, and how to define, use, and reuse bits of content. We didn't exactly settle for the easy topics, but a number of projects and experiments over the last year were launched to work through the problems and potential solutions we defined.\n\nContent management remains a struggle at most media organizations — it's an unsolved problem. Many are building their own tools and workarounds. Others are using off-the-shelf solutions but with significant customizations. While some organizations are trying to reinvent it, there are many outstanding questions, and many other organizations don't have the resources to solve it all by themselves. No current solution, whether a piece of software, a service, or a custom-built solution, adequately fills journalism's growing content management needs. We need to keep pushing this technology further. Let's further explore this area and figure out how journalism can support and be supported by these important publishing cornerstones.", 
+        "facilitator": "Andrew Nacin", 
+        "facilitator_twitter": "acin", 
+        "id": 116908, 
+        "submitted_at": "2015-04-11T00:59:08.873Z", 
+        "title": "Rethinking content management"
+    }, 
+    {
         "cofacilitator": "Ramla Mahmood", 
         "cofacilitator_twitter": "ramoved", 
         "description": "Journalists and designers work together to tell stories. The best work in a newsroom comes from collaboration. However, to ensure that designers don’t treat journalists as clients it’s vital that we establish an understanding of each others’ roles. How can we educate our newsroom on the best way to ask for design help? How can we educate our designers to fully understand the needs of a particular story? At times, design is treated as an after thought, and sometimes a designer may implement a design decision before fully grasping a story. With some role reversal scenarios we will explore the pain points between journalists and designers such as  as well as brainstorm solutions.", 
