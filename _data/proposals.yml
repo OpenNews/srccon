@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Software documentation and implementation manuals are difficult undertakings for many developers, but the challenges can be monumental for news nerds. Coding in direct response to current events requires fantastically rapid software engineering that usually moves much faster than the technology industry's other product development cycles. Documentation is thus often demoted even further than usual in order to allow for these tighter deadlines, but undocumented or poorly documented code isn't really useful to anyone beyond the original programmer, and bad documentation is often rightfully a catastrophic barrier to the process of open sourcing a project, which hurts everybody. Even if you don't ultimately intend to share your code, bad documentation means your own organization will find it more difficult to maintain – or, worse yet, to iterate on and reuse the next time it is needed for the next breaking story which has another tight deadline. This sucks! Let's try to help by discussing specific strategies for rapidly and effectively documenting source code in the publishing technology space, whether for internal use or eventual open source release, covering everything from the language used in Git commit messages and inline code comments to ticketing software and broader management perspectives.", 
+        "facilitator": "Vijith Assar", 
+        "facilitator_twitter": "vijithassar", 
+        "id": 116958, 
+        "submitted_at": "2015-04-11T03:15:33.285Z", 
+        "title": "Source Code Documention: Uncaught ReferenceError sessionSubtitle is not defined"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Many newsrooms are now largely driven by APIs. These connect different content systems and applications, third-party data providers, and support graphics and interactives. Some provide organization content for partners and others who wish to do cool things.\n\nBuilding APIs are not a trivial task -- they're really hard to do well. You want it to be easy for other developers to use it, easy to extend in the future, and easy to maintain. API design is a very subjective field, but there a number of best practices. Few documentation exists for best practices in newsroom APIs. Let's share the best practices we've all learned and collaborate on that document.", 
         "facilitator": "Andrew Nacin", 
         "facilitator_twitter": "acin", 
