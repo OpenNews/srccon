@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Alisha Ramos", 
+        "cofacilitator_twitter": "alishalisha", 
+        "description": "As your organization evolves and grows, how do you ensure that you are creating and maintaining a positive, inclusive, and productive work environment? How do you make people feel welcomed? How do you critique projects and code without making it personal? How do you invite change and allow colleagues to feel comfortable bringing up new ideas, asking questions, and pushing things forward? \n\nCommunication is essential in every organization, but especially crucial in a busy newsroom. Proper, healthy communication helps foster an inclusive environment, which in turn creates better products and a better foundation for a diverse culture. Let’s start a dialogue about the challenges newsroom developers and designers face when communicating with one another, and often under tight deadlines.", 
+        "facilitator": "Ally Palanzi", 
+        "facilitator_twitter": "mylifeasalllly", 
+        "id": 116923, 
+        "submitted_at": "2015-04-11T01:43:56.035Z", 
+        "title": "How to be a pleasant human being: creating a welcoming and productive work environment"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "Teams evolve. People move. But projects live on. Until they break one day.\nWhat should you do when your well-intentioned projects start haunting you well after you have moved on? \nAs more and more stories move away from CMSs into news-apps world, how do you make sure that content is cared for and archived?\nLet us explore some do’s and don’ts of maintaining legacy code and preventing project zombies.", 
