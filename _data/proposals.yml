@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "In this community dialogue session, attendees will have the opportunity to learn about existing legal resources that are available to independent journalists and nonprofit or startup new organizations free of charge, to ask questions of First Amendment and media law attorneys, and to communicate their biggest needs when it comes to legal support.", 
+        "facilitator": "Katie Townsend", 
+        "facilitator_twitter": "katie_rcfp", 
+        "id": 116994, 
+        "submitted_at": "2015-04-11T05:05:59.222Z", 
+        "title": "Legal Resources for a Changing Media Environment"
+    }, 
+    {
+        "cofacilitator": "Brian Lange", 
+        "cofacilitator_twitter": "bjlange", 
+        "description": "Just what the hell is a Markov Chain? What is the difference between a model and an algorithm? Is sentiment analysis amazing, useless, or both? \nWhat do you do when you are suddenly faced with a complicated or intimidating concept, so that you can understand, evaluate, and share the ubiquitous insights the data-mad world is feverishly extracting from our suddenly-accessible mountains of  information? And nerds: how can you better communicate to journalists, clients, or laypeople about the really important analyses you know they want or need to know about, if only you could formulate your thoughts in a comprehensible way? Most of us, from either side, know that Wikipedia at these critical moments has nothing to offer but cold betrayal sprinkled with greek characters and LaTeX. \nLike LaPlace said of probability theory, data science at its best is simply \"common sense reduced to calculation.\" But how do you get through the calculation bits and back to the common sense?\nAs consultants and educators, we (the organizers) spend a lot of time explaining complicated quantitative concepts to humans who vary in background, motivation, perspective, affinity, and attention span. We've often dreamed of a collaborative resource where the world of machine learning, data science, applied math, statistics, what have you, and et cetera, are made comprehensible through the communicative tools of example, origin, metaphor, analogy, pictures, diagrams, storytelling and good old patient ELI5. \nIn this session, we'll come armed with some curated examples from our experience, answer some pre-submitted questions, and (gulp) field live questions from attendees on the fly. Finally, we'll share draft concepts and designs for an open source home where this conversation can live and grow. With some buy-in, we (the organizers plus) can crack our knuckles and start coding up a knowledge repository where, through asking and answering, all interested parties can learn how to better communicate with each other, such that the common sense can be teased out of the mire of calculations in service of learning, sanity, and the greater good.", 
+        "facilitator": "Laurie Skelly", 
+        "facilitator_twitter": "laurieskelly", 
+        "id": 116990, 
+        "submitted_at": "2015-04-11T04:56:38.116Z", 
+        "title": "Common sense reduced to calculation: data science fit for human consumption"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Working in news can be punishing, and over time, it can cause real emotional and physical damage. How do we get to a point where work-life balance -- however we define it for ourselves -- is an attainable thing, and not merely something that elicits a weary ¯\\_(ツ)_/¯? Let's talk about why life in news can be so hard, how we can address the larger issues (and what's out of our control), and what we can do to take care of ourselves and each other.", 
         "facilitator": "Alyson Hurt", 
         "facilitator_twitter": "alykat", 
