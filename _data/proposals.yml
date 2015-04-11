@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "How can we improve the user experience of data-heavy interactives on mobile devices? What are the biggest problems we encounter, and where do we see opportunities for improvement? Let's look at examples of good small-screen visualizations – perhaps using native mobile apps for inspiration – and brainstorm how to apply similar design concepts to news apps for the mobile web.", 
+        "facilitator": "Julia Smith", 
+        "facilitator_twitter": "julia67", 
+        "id": 116930, 
+        "submitted_at": "2015-04-11T01:55:53.855Z", 
+        "title": "Rethinking the Mobile Data Viz Experience"
+    }, 
+    {
         "cofacilitator": "Alisha Ramos", 
         "cofacilitator_twitter": "alishalisha", 
         "description": "As your organization evolves and grows, how do you ensure that you are creating and maintaining a positive, inclusive, and productive work environment? How do you make people feel welcomed? How do you critique projects and code without making it personal? How do you invite change and allow colleagues to feel comfortable bringing up new ideas, asking questions, and pushing things forward? \n\nCommunication is essential in every organization, but especially crucial in a busy newsroom. Proper, healthy communication helps foster an inclusive environment, which in turn creates better products and a better foundation for a diverse culture. Let’s start a dialogue about the challenges newsroom developers and designers face when communicating with one another, and often under tight deadlines.", 
