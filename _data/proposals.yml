@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "I love when journalists make the code for their data analyses available. But alas, making work *available* isn’t the same thing as making work *accessible* - scripts sitting around in a Github repo are still unfriendly and daunting to most. Even if you were to examine code in depth, it’d still lack context about the reasoning behind methodology, dead ends explored, etc. How can we better share context and reasoning - not just code? How can we share analyses in a way that doesn’t intimidate novice coders or non-coders? How can we publish work without doing, well, a bunch of extra work? Let’s share thoughts! I’ll also show you around the interactive Jupyter Notebook (previously iPython Notebook), a nifty tool that privileges exploration, contextualization, and sharing - a tool that’s practically designed for journo-nerds, in my humble opinion. Bonus: coding in an interactive Notebook is especially great for python beginners.", 
+        "facilitator": "Cathy Deng", 
+        "facilitator_twitter": "cthydng", 
+        "id": 116976, 
+        "submitted_at": "2015-04-11T04:15:38.218Z", 
+        "title": "Adding context to code"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Time is a river, and every year spent making web things in a newsroom is different than the last. Platforms and capabilities are constantly evolving, and so are we. We learn new tools and phase out the old, and we shed responsibilities that no longer make sense. This is a chance to share the things you used to do: the software you've replaced, the expectations you've reset and the jobs you got tired of doing. Let’s have a conversation about what it took to get here and how we’ve gotten better.", 
         "facilitator": "Chris Canipe", 
         "facilitator_twitter": "ccanipe", 
