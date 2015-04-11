@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Time is a river, and every year spent making web things in a newsroom is different than the last. Platforms and capabilities are constantly evolving, and so are we. We learn new tools and phase out the old, and we shed responsibilities that no longer make sense. This is a chance to share the things you used to do: the software you've replaced, the expectations you've reset and the jobs you got tired of doing. Let’s have a conversation about what it took to get here and how we’ve gotten better.", 
+        "facilitator": "Chris Canipe", 
+        "facilitator_twitter": "ccanipe", 
+        "id": 116973, 
+        "submitted_at": "2015-04-11T04:06:20.788Z", 
+        "title": "We Don't Do That Anymore"
+    }, 
+    {
         "cofacilitator": "Liz Lucas", 
         "cofacilitator_twitter": "eklucas", 
         "description": "Every year IRE does a roundup of computer assisted reporting / data journalism at the NICAR and IRE conferences, @knowtheory does a middling job of running http://www.reddit.com/r/newsapps (contributors welcome!) and you work in news (or related fields)!  Each of the conferences we attend share a different milieu and perspective on the space we share.  So lets get together and share examples of data journalism from the past year that have stuck with you.", 
