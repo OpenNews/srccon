@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Teams evolve. People move. But projects live on. Until they break one day.\nWhat should you do when your well-intentioned projects start haunting you well after you have moved on? \nAs more and more stories move away from CMSs into news-apps world, how do you make sure that content is cared for and archived?\nLet us explore some do’s and don’ts of maintaining legacy code and preventing project zombies.", 
+        "facilitator": "Kavya Sukumar", 
+        "facilitator_twitter": "kavyasukumar", 
+        "id": 116920, 
+        "submitted_at": "2015-04-11T01:35:18.255Z", 
+        "title": "Ghosts of projects past"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Last year, I helped facilitate a long session on how we can stop fighting the CMS. The group split into two distinct discussions, on writing/editing, specifically versioning, revisions, and collaboration (a la Editorially, at the time); and the content model, including structured stories (like Circa), assets, and how to define, use, and reuse bits of content. We didn't exactly settle for the easy topics, but a number of projects and experiments over the last year were launched to work through the problems and potential solutions we defined.\n\nContent management remains a struggle at most media organizations — it's an unsolved problem. Many are building their own tools and workarounds. Others are using off-the-shelf solutions but with significant customizations. While some organizations are trying to reinvent it, there are many outstanding questions, and many other organizations don't have the resources to solve it all by themselves. No current solution, whether a piece of software, a service, or a custom-built solution, adequately fills journalism's growing content management needs. We need to keep pushing this technology further. Let's further explore this area and figure out how journalism can support and be supported by these important publishing cornerstones.", 
         "facilitator": "Andrew Nacin", 
         "facilitator_twitter": "acin", 
