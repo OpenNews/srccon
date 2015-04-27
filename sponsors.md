@@ -50,7 +50,7 @@ Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at br
 * Logo on sponsorship page of SRCCON website.
 * Logo on sponsorship signage at event.
 
-## Event Sponsors: $3k
+## Event Sponsors: $3000
 
 Becoming an event sponsor is a great way of supporting SRCCON. Event sponsors recieve:
 
@@ -58,7 +58,7 @@ Becoming an event sponsor is a great way of supporting SRCCON. Event sponsors re
 * Logo on sponsorship page of SRCCON website.
 * Logo on sponsorship signage at event.
 
-## Local Media Sponsors: $1k
+## Local Media Sponsors: $1000
 
 Local Media Sponsorship is open only to media companies from MPLS/St. Paul. As a local media sponsor you recieve:
 
@@ -66,7 +66,7 @@ Local Media Sponsorship is open only to media companies from MPLS/St. Paul. As a
 * Logo on sponsorship page of SRCCON website.
 * Logo on sponsorship signage at event.
 
-## Supporting Sponsors: $1k
+## Supporting Sponsors: $1000
 
 Want to support SRCCON on a budget? Our Supporting sponsorship level lets you help make SRCCON happen! Supporting sponsors recieve:
 
