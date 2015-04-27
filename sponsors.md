@@ -40,15 +40,15 @@ Accessibility Sponsors recieve:
 * Logo on sponsorship signage at event
 * Special mention on stage during general session
 
-## Coffee & Tea Hack Station Sponsor: $5k
+## Coffee & Tea Hack Station Sponsor: $7500
 
 Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at breaks to make each other hot beverages and compare session notes. Our Coffee & Tea Hacking Station sponsor recieves:
 
 * 1 ticket to SRCCON
+* Recyclable coffee cups with your logo on them.
 * Logo on signage at the Coffee & Tea Hacking Station
 * Logo on sponsorship page of SRCCON website.
 * Logo on sponsorship signage at event.
-* **Optional**: add branded recyclable cups with your company logo for $2k.
 
 ## Event Sponsors: $3k
 
