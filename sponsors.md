@@ -2,12 +2,76 @@
 layout: 2015_layout
 title: Become a SRCCON Sponsor
 subtitle: Sponsorship is a great way to help make SRCCON happen, and we'd love your help this year.
+section: sponsors
 sub-section: interior
 background: coffee
 permalink: /sponsors/index.html
 ---
 Our sponsors help us make SRCCON both special and accessible by keeping our ticket price well below cost, getting people to the event, and bringing in the special touches that make SRCCON… SRCCON.
 
-Last year, our sponsors helped us offer scholarships, underwrote our coffee-hacking stations, funded live professional transcription, and more. This year, we'll have even more opportunities for support.
+We offer a number of different levels of sponsorship in order to accomodate a variety of different sized companies and organizations. Please join us in helping make SRCCON 2015 amazing:
 
-Stay tuned for a detailed breakdown of sponsorship opportunities for SRCCON 2015, or [send us a note](mailto:dan@mozillafoundation.org) if you have questions in the interim.
+## Lead Sponsor: $15k **<- SOLD OUT** ##
+
+As Lead Sponsor of SRCCON you recieve:
+
+* 3 tickets to SRCCON
+* Logo on SRCCON website (in partners section) visible on every page
+* Logo and description of product/company on sponsorship page of SRCCON website (1 paragraph max)
+* Logo on sponsorship signage at event
+* Named sponsor of Thursday Night Dinner
+* Special mention on stage during general session
+* Sponsor of official SRCCON Field Notes notebook
+
+## Accessibility Sponsors: $10k per
+
+Our Accessibility Sponsors help to make SRCCON welcoming to as many as possible. We have three Accessibility Sponsor slots available:
+
+  * Childcare
+  * Scholarships **<- SOLD OUT**
+  * Transcripts
+
+Accessibility Sponsors recieve:
+
+* 2 tickets to SRCCON
+* Logo on SRCCON website (in partners section) visible on every page
+* Logo and description of product/company on sponsorship page of SRCCON website (1 paragraph max)
+* Logo on page(s) that correspond with your accessibility sponsorship
+* Logo on sponsorship signage at event
+* Special mention on stage during general session
+
+## Coffee & Tea Hack Station Sponsor: $5k
+
+Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at breaks to make each other hot beverages and compare session notes. Our Coffee & Tea Hacking Station sponsor recieves:
+
+* 1 ticket to SRCCON
+* Logo on signage at the Coffee & Tea Hacking Station
+* Logo on sponsorship page of SRCCON website.
+* Logo on sponsorship signage at event.
+* **Optional**: add branded recyclable cups with your company logo for $2k.
+
+## Event Sponsors: $3k
+
+Becoming an event sponsor is a great way of supporting SRCCON. Event sponsors recieve:
+
+* 1 ticket to SRCCON.
+* Logo on sponsorship page of SRCCON website.
+* Logo on sponsorship signage at event.
+
+## Local Media Sponsors: $1k
+
+Local Media Sponsorship is open only to media companies from MPLS/St. Paul. As a local media sponsor you recieve:
+
+* 2 tickets to SRCCON.
+* Logo on sponsorship page of SRCCON website.
+* Logo on sponsorship signage at event.
+
+## Supporting Sponsors: $1k
+
+Want to support SRCCON on a budget? Our Supporting sponsorship level lets you help make SRCCON happen! Supporting sponsors recieve:
+
+* 1 guaranteed ticket (purchased separately).
+* Logo on sponsorship page of SRCCON website.
+* Logo on sponsorship signage at event.
+
+If you would like to sponsor SRCCON with one of the above packages, or would like to talk about a custom sponsorship, please [send us a note](mailto:dan@mozillafoundation.org).
