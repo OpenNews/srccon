@@ -15,7 +15,7 @@ We offer a number of different levels of sponsorship in order to accomodate a va
 
 As Lead Sponsor of SRCCON you recieve:
 
-* 3 tickets to SRCCON
+* 3 free tickets to SRCCON
 * Logo on SRCCON website (in partners section) visible on every page
 * Logo and description of product/company on sponsorship page of SRCCON website (1 paragraph max)
 * Logo on sponsorship signage at event
@@ -33,7 +33,7 @@ Our Accessibility Sponsors help to make SRCCON welcoming to as many as possible.
 
 Accessibility Sponsors recieve:
 
-* 2 tickets to SRCCON
+* 2 free tickets to SRCCON
 * Logo on SRCCON website (in partners section) visible on every page
 * Logo and description of product/company on sponsorship page of SRCCON website (1 paragraph max)
 * Logo on page(s) that correspond with your accessibility sponsorship
@@ -44,7 +44,7 @@ Accessibility Sponsors recieve:
 
 Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at breaks to make each other hot beverages and compare session notes. Our Coffee & Tea Hacking Station sponsor recieves:
 
-* 1 ticket to SRCCON
+* 1 free ticket to SRCCON
 * Recyclable coffee cups with your logo on them.
 * Logo on signage at the Coffee & Tea Hacking Station
 * Logo on sponsorship page of SRCCON website.
@@ -54,7 +54,7 @@ Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at br
 
 Becoming an event sponsor is a great way of supporting SRCCON. Event sponsors recieve:
 
-* 1 ticket to SRCCON.
+* 1 free ticket to SRCCON.
 * Logo on sponsorship page of SRCCON website.
 * Logo on sponsorship signage at event.
 
@@ -62,7 +62,7 @@ Becoming an event sponsor is a great way of supporting SRCCON. Event sponsors re
 
 Local Media Sponsorship is open only to media companies from MPLS/St. Paul. As a local media sponsor you recieve:
 
-* 2 tickets to SRCCON.
+* 2 free tickets to SRCCON.
 * Logo on sponsorship page of SRCCON website.
 * Logo on sponsorship signage at event.
 
