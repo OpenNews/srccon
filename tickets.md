@@ -9,10 +9,12 @@ byline:   Alyson Hurt
 bylineurl: https://www.flickr.com/photos/alykat/5848722/
 permalink: /tickets/index.html
 ---
-After last year's surprise three-minute sell-out, we expect tickets to sell very quickly, and we’re working on a sales process that is fair and transparent, and that takes time zones into consideration. Tickets will be available for sale on April 29, and cost $175.
+After last year's surprise three-minute sell-out, we expect tickets to sell very quickly. Tickets go on sale on April 29 at 2pm ET, and will cost $175. There will be a two-ticket purchase limit per transaction.
 
-As part of our wider diversity and inclusion efforts, we are also working to make sure SRCCON tickets are available to people in smaller and non-coastal newsrooms, and to members of communities underrepresented in journalism and technology.
+## Volunteering & Scholarships
+SRCCON volunteers help with registration, support session leaders, work on set-up and clean-up, and help us accomplish all the unexpected tasks that come up during an event. If you want to attend SRCCON and are excited about playing this type of vital support role, please [email us](srccon@opennews.org) for information about volunteering.
 
-We're also [offering scholarships](/scholarships) to help defray the cost of participating in SRCCON. Applications are open now till April 24, and we'll notify applicants before tickets go on sale.
+We're also [offering scholarships](/scholarships) to help defray the cost of participating in SRCCON. Applications closed on April 24, and we'll notify all applicants about their status before tickets go on sale.
 
-We'll post more information on the ticketing process in the coming weeks. In the meantime, please note that if you <a href="/sessions">pitched a session</a> that we accept, you will be offered a chance to buy a ticket before the public on-sale date.
+## Including the Community
+As part of our wider diversity and inclusion efforts, we are working to make sure SRCCON tickets are available to people in smaller and non-coastal newsrooms, and to members of communities underrepresented in journalism and technology. If you know someone who should be at SRCCON and might not know it, please [send them our way](srccon@opennews.org).
