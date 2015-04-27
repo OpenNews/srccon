@@ -15,13 +15,13 @@ We offer a number of different levels of sponsorship in order to accomodate a va
 
 As Lead Sponsor of SRCCON you recieve:
 
-* 3 free tickets to SRCCON
-* Logo on SRCCON website (in partners section) visible on every page
-* Logo and description of product/company on sponsorship page of SRCCON website (1 paragraph max)
-* Logo on sponsorship signage at event
-* Named sponsor of Thursday Night Dinner
-* Special mention on stage during general session
-* Sponsor of official SRCCON Field Notes notebook
+* 3 free tickets to SRCCON.
+* Logo on SRCCON website (in partners section) visible on every page.
+* Logo and description of product/company on sponsorship page of SRCCON website (1 paragraph max).
+* Logo on sponsorship signage at event.
+* Named sponsor of Thursday Night Dinner.
+* Special mention on stage during general session.
+* Sponsor of official SRCCON Field Notes notebook.
 
 ## Accessibility Sponsors: $10k per
 
@@ -33,20 +33,20 @@ Our Accessibility Sponsors help to make SRCCON welcoming to as many as possible.
 
 Accessibility Sponsors recieve:
 
-* 2 free tickets to SRCCON
-* Logo on SRCCON website (in partners section) visible on every page
-* Logo and description of product/company on sponsorship page of SRCCON website (1 paragraph max)
-* Logo on page(s) that correspond with your accessibility sponsorship
-* Logo on sponsorship signage at event
-* Special mention on stage during general session
+* 2 free tickets to SRCCON.
+* Logo on SRCCON website (in partners section) visible on every page.
+* Logo and description of product/company on sponsorship page of SRCCON website (1 paragraph max).
+* Logo on page(s) that correspond with your accessibility sponsorship.
+* Logo on sponsorship signage at event.
+* Special mention on stage during general session.
 
 ## Coffee & Tea Hack Station Sponsor: $7500
 
 Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at breaks to make each other hot beverages and compare session notes. Our Coffee & Tea Hacking Station sponsor recieves:
 
-* 1 free ticket to SRCCON
+* 1 free ticket to SRCCON.
 * Recyclable coffee cups with your logo on them.
-* Logo on signage at the Coffee & Tea Hacking Station
+* Logo on signage at the Coffee & Tea Hacking Station.
 * Logo on sponsorship page of SRCCON website.
 * Logo on sponsorship signage at event.
 
