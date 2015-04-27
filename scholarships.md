@@ -8,17 +8,7 @@ byline:   Matthew Paulson
 bylineurl: https://flic.kr/p/cZWiFy
 permalink: /scholarships/index.html
 ---
-<p class="bodybig">If you want to attend SRCCON, we don&rsquo;t want cost to prevent you from coming, which is why we work to keep ticket prices low. To help defray the cost of attending SRCCON, OpenNews is now offering a limited number of $500 travel scholarships.</p>
-<!--session button-->
-<p class="btn" id="pitchbutton">Apply for a scholarship by April 24</p>
-<!--<p class="bottomrun">We&rsquo;re accepting applications for a limited number of scholarships April 22.</a></p>-->
-
-<script type="text/javascript">
-document.getElementById("pitchbutton").onclick = function () {
-  location.href = "https://docs.google.com/forms/d/1WTfx-HwVbN92OZYh6u8t27zPyAUjz7cZ3IOLAwroFIo/viewform";
-};
-</script>
-<!-- end session button -->
+If you want to attend SRCCON, we don&rsquo;t want cost to prevent you from coming, which is why we work to keep ticket prices low. To help defray the cost of attending SRCCON, OpenNews is now offering a limited number of $500 travel scholarships. **Scholarship applications are now closed for 2015** and we will notify all applicants by April 28. 
 
 Whether you&rsquo;re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend SRCCON.
 
