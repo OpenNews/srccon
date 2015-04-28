@@ -561,7 +561,8 @@ form.fr_form div.fr_response_field_block_of_text {
     margin-bottom: 4em;
 }
 .session-proposal h2,
-.session-proposal .facilitator {
+.session-proposal .facilitator,
+#list-filter-form {
     font-family: "ff-tisa-sans-web-pro", sans-serif;
 }
 #contentbox .session-proposal p {
@@ -590,6 +591,18 @@ a .permalink {
 }
 a:hover .permalink {
     display: inherit;
+}
+
+#list-filter-form {
+    font-size: 1.2em;
+    margin-top: 2em;
+}
+#list-filter-form label {
+    margin-right: .5em;
+}
+#list-filter-form input {
+    font-size: 1.2em;
+    padding: .1em;
 }
 
 /* RESPONSIVE STUFF STARTS HERE */

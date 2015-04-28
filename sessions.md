@@ -8,35 +8,24 @@ background: postits
 permalink: /sessions/index.html
 ---
 
-Our proposal period has now closed, and we are reviewing [this year's amazing list of proposed sessions](/sessions/proposals) now to build the 2015 program.
+The following sessions have been accepted to SRCCON, and we thank all who submitted proposals. These session descriptions will continue to evolve in the weeks leading up to SRCCON, and the final schedule will reflect updates as sessions take shape. We've held a few schedule slots open for impromptu sessions, hacking, and skillshares, and we're planning an evening slate of fun, informal talks and discussions.
 
+<div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
+{% for proposal in site.data.sessions %}
+    {% if proposal.facilitator and proposal.facilitator_twitter %}{% capture facilitator_name %}<a href="https://twitter.com/{{ proposal.facilitator_twitter }}">{{ proposal.facilitator }}</a>{% endcapture %}{% elsif proposal.facilitator %}{% capture facilitator_name %}{{ proposal.facilitator }}{% endcapture %}{% else %}{% assign facilitator_name = false %}{% endif %}{% if proposal.cofacilitator and proposal.cofacilitator_twitter %}{% capture cofacilitator_name %}<a href="https://twitter.com/{{ proposal.cofacilitator_twitter }}">{{ proposal.cofacilitator }}</a>{% endcapture %}{% elsif proposal.cofacilitator %}{% capture cofacilitator_name %}{{ proposal.cofacilitator }}{% endcapture %}{% else %}{% assign cofacilitator_name = false %}{% endif %}{% if proposal.cofacilitator_two and proposal.cofacilitator_two_twitter %}{% capture cofacilitator_two_name %}<a href="https://twitter.com/{{ proposal.cofacilitator_two_twitter }}">{{ proposal.cofacilitator_two }}</a>{% endcapture %}{% elsif proposal.cofacilitator_two %}{% capture cofacilitator_two_name %}{{ proposal.cofacilitator_two }}{% endcapture %}{% else %}{% assign cofacilitator_two_name = false %}{% endif %}
+    <div class="session-proposal" id="proposal-{{ proposal.id }}">
+        <h2 class="session-title"><a href="#proposal-{{ proposal.id }}">{{ proposal.title }} <span class="permalink">&para;</span></a></h2>
+        {% if facilitator_name %}<p class="facilitator">Facilitated by {{ facilitator_name }}{% if cofacilitator_name and cofacilitator_two_name %}, {% elsif cofacilitator_name %} and{% endif %} {% if cofacilitator_name %}{{ cofacilitator_name }}{% endif %}{% if cofacilitator_two_name %}, and {{ cofacilitator_two_name }}{% endif %}</p>{% endif %}
+        <p class="session-description">{{ proposal.description }}</p>
+    </div>
+{% endfor %}
+</div>
 
-## How a Pitch Becomes a Session
-Session proposals closed on April 10. We're now spending a couple of weeks reviewing proposals within the SRCCON team, with additional reviews and perspectives from across our community as we assemble a final list of sessions. We'll notify all proposers about the status of their sessions by Friday, April 24, and we expect to publish our list of accepted sessions on Tuesday, April 28.
-
-As we did last year, we're making it a priority to build a balanced program that reflects the makeup of our communities, and we actively welcome session proposals from members of communities underrepresented in journalism and technology, and from non-coastal and small-market news organizations.
-
-## What Makes a Great Session?
-Successful sessions often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet other folks have dealt with it, too.
-
-Last year's sessions dealt with topics including newsroom cross-training, CMSes, skillshares on specific libraries and tools, interactive design specifics, diversity in news technology teams, security, the business of news startups, and many different approaches to data-wrangling. To give you a taste, here's [a small selection of great sessions from 2014](#examples).
-
-## What Does a Session Facilitator Do?
-Session facilitators aren't expected to be the experts in the room—they design and guide sessions, share what they know, and learn from their peers. You won’t need slides, just the willingness to facilitate an engaged conversation or lead a workshop or skillshare. (Or pitch another session format entirely!)
-
-If your session is accepted, we'll provide as much help as you'd like figuring out what kind of session format will work best for your topic—we can even match you up with a co-facilitator if you're pitching solo and want some support.
-
-**Please note:** Because SRCCON is a collaborative, peer-to-peer event, rather than a series of prepared conference talks, all participants must buy a ticket—this approach also helps us keep our ticket prices low and allows us to [offer scholarships](/scholarships) to those who need help with travel and lodging expenses. The facilitators of all accepted sessions will be given an opportunity to purchase a ticket before the public on-sale date. SRCCON tickets go on public sale April 29, and we expect them to sell out very quickly.
-
-## Not Just Sessions…
-In addition to the daytime sessions that form the core of SRCCON, we'll also host a series of informal evening talks on non-work topics, open up space for small-group collaboration, and run a hands-on tea- and coffee-hacking station. Stay tuned for more information about additional program items and related events in Minneapolis-St. Paul.
-
-<div id="examples"></div>
-
-## Example Sessions from SRCCON 2014
-
-* [Building exoskeletons for reporters](http://2014.srccon.org/schedule/#_session-22), a wide-ranging code session
-* [Wrangling live data the easy way with Streamtools](http://2014.srccon.org/schedule/#_session-25), a hands-on technical skillshare
-* [How to diversify the pipeline of journo-coders](http://2014.srccon.org/schedule/#_session-26), a culture-focused conversational session
-* [Art directing posts, sustainably](http://2014.srccon.org/schedule/#_session-17), a design-centric conversational session
-* [Building smart newsroom tools: how a culture can make or break your internal tools](http://2014.srccon.org/schedule/#_session-24), a hands-on workshop with game elements
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="/media/js/listfilter.min.js"></script>
+<script>
+var filter = ListFilter({
+    listContainer: '.session-proposal-list',
+    filterItemClass: '.session-proposal'
+});
+</script>
