@@ -326,6 +326,14 @@ p.small {
   font-size: 1.1em;
 }
 
+body.sponsors #contentbox ul {
+  margin-left: 40px;
+}
+
+body.sponsors #contentbox li {
+  font-size: 1.2em;
+}
+
 footer {
   margin-top: 100px;
 }
