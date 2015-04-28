@@ -17,9 +17,9 @@ We’re reserving a block of rooms at the adjoining <a href="http://www.commonsh
 The reserved block of rooms will be available until all rooms are booked, or May 25th, whichever happens first—booking early is always at good idea.
 
 ## Childcare
-We are offering free, on-site childcare available throughout the full SRCCON schedule (including Thursday evening) at the Commons Hotel via the astonishingly named but very friendly and professional [KiddieCorp](https://www.kiddiecorp.com/). The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about their staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html) on the KiddieCorp site. 
+We are offering free, on-site childcare available throughout the full SRCCON schedule (including Thursday evening) at the adjoining Commons Hotel via the astonishingly named but very friendly and professional [KiddieCorp](https://www.kiddiecorp.com/). The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about their staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html) on the KiddieCorp site. 
 
-Staff-to-child ratios range from 1:2 for children 6-11months to 1:7 for children aged 6-12 years, and KiddieCorp will work with SRCCON organizers to handle registration and logistics so your kid(s) can have a great time while you're conferencing next door. 
+Staff-to-child ratios range from 1:2 for children 6-11 months to 1:7 for children aged 6-12 years, and KiddieCorp will work with SRCCON organizers to handle registration and logistics so your kid(s) can have a great time while you're conferencing next door. 
 
 ## More Soon!
 
