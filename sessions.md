@@ -8,7 +8,7 @@ background: postits
 permalink: /sessions/index.html
 ---
 
-The following sessions have been accepted to SRCCON, and we thank all who submitted proposals. These session descriptions will continue to evolve in the weeks leading up to SRCCON, and the final schedule will reflect updates as sessions take shape. We've held a few schedule slots open for impromptu sessions, hacking, and skillshares, and we're planning an evening slate of fun, informal talks and discussions.
+The following sessions have been accepted to SRCCON. We thank all who submitted proposals. Session descriptions will evolve in the weeks leading up to SRCCON, and the final schedule will reflect these updates and include an evening slate of fun, informal talks and discussions.
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.sessions %}
