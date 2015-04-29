@@ -19,4 +19,4 @@ Volunteers will help with:
 
 Volunteering will be a significant time commitment. For offering that time and missing out on some (but not all!) of the festivities, you will have our gratitude, free entry to the event, a SRCCON Volunteer T-shirt, and the knowledge that you played an integral role in making our second SRCCON a success.
 
-If you want to attend SRCCON and are excited about playing this type of (vital!) support role, please [email us for information](srccon@opennews.org) about volunteering.
+If you want to attend SRCCON and are excited about playing this type of (vital!) support role, please [email us for information](mailto:srccon@opennews.org) about volunteering.
