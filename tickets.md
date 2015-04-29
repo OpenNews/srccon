@@ -9,7 +9,7 @@ byline:   Alyson Hurt
 bylineurl: https://www.flickr.com/photos/alykat/5848722/
 permalink: /tickets/index.html
 ---
-Tickets to SRCCON 2015 are now sold out.
+SRCCON tickets are now sold out. Thank you to everyone who registered—we can't wait to see you in Minneapolis! And if you can't make it to the event this year, please stay tuned for information on remote participation opportunities.
 
 ## Volunteering
 SRCCON volunteers help with registration, support session leaders, work on set-up and clean-up, and help us accomplish all the unexpected tasks that come up during an event. If you want to attend SRCCON and are excited about playing this type of vital support role, please [email us](srccon@opennews.org) for information about volunteering.
@@ -22,4 +22,3 @@ SRCCON is a small event and we’re tuning the program to the exact attendee lis
 
 * You can transfer your SRCCON registration to someone else right up until June 24 with no charges or penalties. To switch the name on your ticket, just go back into your registration on Eventbrite and change the registration information to the new person. Or you can email the person’s name and contact information to  [srccon@opennews.org](mailto:srccon@opennews.org), and we’ll do the rest. (We can also help you find someone who needs a ticket—email us at [srccon@opennews.org](mailto:srccon@opennews.org) and we’ll get you fixed up.
 * If you need to cancel, please contact us at source@opennews.org and let us know. You can cancel with no penalty up until two weeks before the conference begins (June 11). After July 11, we can’t refund your ticket, but you can still transfer it to someone else up until June 24, the day before SRCCON begins.
-
