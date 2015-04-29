@@ -15,7 +15,7 @@ SRCCON tickets are now sold out. Thank you to everyone who registered—we can't
 SRCCON volunteers help with registration, support session leaders, work on set-up and clean-up, and help us accomplish all the unexpected tasks that come up during an event. If you want to attend SRCCON and are excited about playing this type of vital support role, please [email us](srccon@opennews.org) for information about volunteering.
 
 ## Including the Community
-As part of our wider diversity and inclusion efforts, we are working to make sure SRCCON tickets are available to people in smaller and non-coastal newsrooms, and to members of communities underrepresented in journalism and technology. If you know someone who should be at SRCCON and might not know it, please [send them our way](srccon@opennews.org).
+We are continuing to work to make SRCCON accessible to people in smaller and non-coastal newsrooms, and to members of communities underrepresented in journalism and technology. We have a very small pool of reserved tickets held back for this purpose. If you know someone who should be at SRCCON and might not otherwise be able to attend, please [send them our way](srccon@opennews.org).
 
 ## Cancellation and Transfers
 SRCCON is a small event and we’re tuning the program to the exact attendee list we have, so please let us know as soon as you can if you’re not coming, because it may mean we’ll need to tweak our program a little. If you find that you’ll be unable to attend after all, you have two options: transfer your ticket to someone else (which is the quickest option), or get a refund (also fine but may take a little longer).
