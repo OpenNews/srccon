@@ -252,18 +252,6 @@
         "title": "How can we best monetize data — and do so responsibly, ethically and without sacrificing journalistic standards?"
     }, 
     {
-        "cofacilitator": null, 
-        "cofacilitator_twitter": null, 
-        "cofacilitator_two": null, 
-        "cofacilitator_two_twitter": null, 
-        "description": "I will lead a guided workshop on how to design better READMEs, newcomers guides, and GitHub issues to welcome new contributors (and non-coders) to open source projects.\n\nParticipants will leave with concrete steps to make their hackathons and open source projects more accessible and inclusive. (Oh yes, and this will also involve a game of Hot Potato.)", 
-        "facilitator": "Melody Joy Kramer", 
-        "facilitator_twitter": "@mkramer", 
-        "id": 116308, 
-        "submitted_at": "2015-04-09T14:58:50.710Z", 
-        "title": "How to Explicitly Welcome Newcomers (and non-coders) to an Open Source Project or Hackathon"
-    }, 
-    {
         "cofacilitator": "Jue Yang", 
         "cofacilitator_twitter": "jue_yang", 
         "cofacilitator_two": null, 
@@ -333,7 +321,7 @@
         "facilitator_twitter": "YAN0", 
         "id": 106053, 
         "submitted_at": "2015-04-13T16:19:07.726Z", 
-        "title": "Lets stop worrying and let our reporters make their own graphics"
+        "title": "Let's stop worrying and let our reporters make their own graphics"
     }, 
     {
         "cofacilitator": "Julia Smith", 
