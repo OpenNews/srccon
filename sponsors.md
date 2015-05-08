@@ -7,13 +7,13 @@ sub-section: interior
 background: coffee
 permalink: /sponsors/index.html
 ---
-SRCCON is a conference centered on the challenges that news technology and data teams encounter every day. It attracts the best newsroom developers for two days of  thinking, working, and building together. 
+SRCCON is a conference centered on the challenges that news technology and data teams encounter every day. It attracts the best newsroom developers for two days of  thinking, working, and building together.
 
 Our sponsors help us make SRCCON both special and accessible by keeping our ticket price well below cost, getting people to the event, and bringing in the special touches that make SRCCON… SRCCON.
 
 We offer a number of different levels of sponsorship in order to accomodate a variety of different sized companies and organizations. Please join us in helping make SRCCON 2015 amazing:
 
-## Lead Sponsor: $15k **<- SOLD OUT** ##
+## Lead Sponsor: $15k **<- SOLD OUT**
 
 As Lead Sponsor of SRCCON you recieve:
 
@@ -42,7 +42,7 @@ Accessibility Sponsors recieve:
 * Logo on sponsorship signage at event.
 * Special mention on stage during general session.
 
-## Coffee & Tea Hack Station Sponsor: $7500
+## Coffee & Tea Hack Station Sponsor: $7500 **<- SOLD OUT**
 
 Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at breaks to make each other hot beverages and compare session notes. Our Coffee & Tea Hacking Station sponsor recieves:
 
