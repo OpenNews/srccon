@@ -11,7 +11,7 @@ Like everything else we do at OpenNews, SRCCON is an event designed in the open 
 
 ## Our Docs
 
-* [Captioning a Multi-Track Conference by How SRCCON Did IT](http://opennews.org/blog/srccon-transcription/)
+* [Captioning a Multi-Track Conference - How SRCCON Did It](http://opennews.org/blog/srccon-transcription/)
 * [Five Things We've Learned About Sessions](http://opennews.org/blog/srccon-top5/)
 * [How to Plan a Great SRCCON Session](http://opennews.org/blog/srccon-session-planning/)
 * [Making SRCCON Good for Humans](http://opennews.org/blog/srccon-human-stuff/)

@@ -13,7 +13,7 @@ SRCCON 2015 will be at the beautiful, spacious <a href="https://www.google.com/m
 
 ## Schedule
 
-SRCCON will run from 9am till 9pm on Thursday, June 25 (including breakfast and non-session evening activities) and from 10am till 6:15pm on Friday, June 26. We will publish the complete SRCCON schedule in June.
+SRCCON will run from 9am till 9pm on Thursday, June 25 (including breakfast and non-session evening activities), and from 10am till 6:15pm on Friday, June 26. We will publish the complete SRCCON schedule in June.
 
 ## Lodging
 We have reserved a block of rooms at the <a href="http://www.commonshotel.com/">Commons Hotel</a> at a base rate of $139 per night. To get the conference rate, please call 800-822-6757 or 612-379-8888 and ask for the SRCCON rate, or use our [dedicated booking link](https://gc.synxis.com/rez.aspx?Hotel=53931&Chain=11910&template=GCF&shell=GCF_4&start=availresults&arrive=6/24/2015&depart=6/27/2015&adult=1&child=0&group=062415SRCC). 
