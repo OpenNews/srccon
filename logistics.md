@@ -1,15 +1,19 @@
 ---
 layout: 2015_layout
-title: Location
+title: Logistics
 subtitle: Sometimes it snows in April, but Minneapolis in June is unbelievably lovely, as is our light-filled venue.
-section: location
+section: logistics
 sub-section: interior
 background: mcnamara
 byline:  lankforddl
 bylineurl: https://www.flickr.com/photos/dannylankford/3616140995
-permalink: /location/index.html
+permalink: /logistics/index.html
 ---
 SRCCON 2015 will be at the beautiful, spacious <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the  campus of the University of Minnesota in Minneapolis. The Alumni Center offers comfortable space for breakouts of all sizes, and will also host our evening sessions, skillshares, games, and lightning talks on the 25th.
+
+## Schedule
+
+SRCCON will run from 9am till 9pm on Thursday, June 25 (including breakfast and non-session evening activities), and from 10am till 6:15pm on Friday, June 26. We will publish the complete SRCCON schedule in June.
 
 ## Lodging
 We have reserved a block of rooms at the <a href="http://www.commonshotel.com/">Commons Hotel</a> at a base rate of $139 per night. To get the conference rate, please call 800-822-6757 or 612-379-8888 and ask for the SRCCON rate, or use our [dedicated booking link](https://gc.synxis.com/rez.aspx?Hotel=53931&Chain=11910&template=GCF&shell=GCF_4&start=availresults&arrive=6/24/2015&depart=6/27/2015&adult=1&child=0&group=062415SRCC). 
@@ -17,7 +21,7 @@ We have reserved a block of rooms at the <a href="http://www.commonshotel.com/">
 The reserved block of rooms will be available until all rooms are booked, or May 25th, whichever happens first—booking early is always at good idea.
 
 ## Childcare
-We are offering free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the adjoining Commons Hotel via the astonishingly named but genuinely great [KiddieCorp](https://www.kiddiecorp.com/). The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about their staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html) on the KiddieCorp site. 
+We are offering free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the adjoining Commons Hotel via the astonishingly named but genuinely great [KiddieCorp](https://www.kiddiecorp.com/). The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Register your child now](https://www.kiddiecorp.com/srcconkids.htm), or [learn more about their staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html). 
 
 Staff-to-child ratios range from 1:2 for children 6-11 months to 1:7 for children aged 6-12 years, and KiddieCorp will work with SRCCON organizers to handle registration and logistics so your kid(s) can have a great time while you're conferencing next door. 
 
