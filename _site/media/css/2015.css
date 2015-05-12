@@ -384,31 +384,44 @@ span.sponsortype {
   text-align: center;
 }
 
-footer #sponsorbox div#sponsors.two ul li.lead img {
+footer #sponsorbox .two div#sponsors ul li.lead img {
   height: 150px;
   margin-right: 25px;
 }
 
-footer #sponsorbox div#sponsors.two ul li.accessibility img {
+footer #sponsorbox .two div#sponsors ul li.accessibility img {
   height: 135px;
   margin-right: 25px;
 }
 
-footer #sponsorbox div#sponsors.three ul li.lead img {
+footer #sponsorbox .two div#partners ul li img {
+  height: 50px;
+}
+
+footer #sponsorbox .three div#partners ul li img, footer #sponsorbox .four div#partners ul li img {
+  height: 30px;
+}
+
+footer #sponsorbox .two div#sponsors ul li.accessibility img {
+  height: 135px;
+  margin-right: 25px;
+}
+
+footer #sponsorbox .three div#sponsors ul li.lead img {
   height: 130px;
   margin-right: 15px;
 }
 
-footer #sponsorbox div#sponsors.three ul li.accessibility img {
+footer #sponsorbox .three div#sponsors ul li.accessibility img {
   height: 120px;
   margin-right: 15px;
 }
 
-footer #sponsorbox div#sponsors.four ul li.lead img {
+footer #sponsorbox .four div#sponsors ul li.lead img {
   height: 110px;
 }
 
-footer #sponsorbox div#sponsors.four ul li.accessibility img {
+footer #sponsorbox .four div#sponsors ul li.accessibility img {
   height: 90px;
 }
 
