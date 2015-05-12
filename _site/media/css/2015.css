@@ -373,7 +373,7 @@ footer #sponsorbox ul li {
 
 footer #sponsorbox ul li {
   list-style-type: none;
-  display: inline;
+  display: inline-block;
   padding-right: 20px;
   margin-top: 20px;
   width: 30%;
