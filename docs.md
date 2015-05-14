@@ -5,6 +5,8 @@ subtitle: We are building SRCCON in the open and sharing what we learn.
 section: docs
 sub-section: interior
 background: books
+byline: Nate Bolt
+bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-4VkeqM-4VpqGm-4VkcGz-4Vpr1S-4Vken4-fmXRof-2YtFPR-fmHB44-dFxkXG-7yv4t7-4VnnAn-5A3XSn-4Vnnmv-4VnnqK-9uup4n-4Vnnv6-3ViP2v-4VnngF-4VkgVa-4VkeuZ-4Vkg5R-4VpmbC-4VpnDu-4Vk9rK-4VpqRL-4VpsPb-4VpuU3-4Vkf5D-4Vkdj6-4Vk8uc-b1TXEz-4VkhcX-mF5DPa-fmHXAB-r8mgB3-s5i4Mz-7i3R7t-og8qB5-fmXSCf-7i7Ky9-92YNnD-fmHDut-5C51hV-rMM8b3-k639ok-8FDPAB-apFhiP-rL2vRV-4VptiN
 permalink: /docs/index.html
 ---
 Like everything else we do at OpenNews, SRCCON is an event designed in the open and documented as transparently as possible. This page houses our growing collection of documentation and also some of the resources we return to again and again as we work to make SRCCON better for all.
