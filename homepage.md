@@ -17,8 +17,8 @@ SRCCON is a two-day conference built around participatory, interactive sessions 
 <li class="left"><a href="/docs"><img src="/media/img/2015/docs_dot.jpg" class="right"></a><h3><a href="/docs">Docs</a></h3><p>We build SRCCON in the open. Check out <a href="/docs">our documentation</a>.</p></li>
 </ul>
 
-## About SRCCON 
+## About SRCCON
 
  SRCCON, launched in 2014 in Philadelphia and <a href="/logistics">returning in 2015 in Minneapolis</a>, is produced by <a href="http://opennews.org">Knight-Mozilla OpenNews</a>, an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The "src" in SRCCON stands for "<a href="http://source.opennews.org">Source</a>," and we pronounce it "Source-con," though you can say it however you want.)
- 
+
  <a href="/sessions">Our sessions</a> focus on technical, design, editorial, and cultural topics within the news world, and we welcome participants from all fields who want to strengthen journalism online.

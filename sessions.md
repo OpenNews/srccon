@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Sessions
-subtitle: SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. 
+subtitle: SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares.
 section: sessions
 sub-section: interior
 background: postits
