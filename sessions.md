@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Sessions
-subtitle: SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. 
+subtitle: SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares.
 section: sessions
 sub-section: interior
 background: postits
@@ -9,6 +9,8 @@ permalink: /sessions/index.html
 ---
 
 The following sessions have been accepted to SRCCON. We thank all who submitted proposals. Session descriptions will evolve in the weeks leading up to SRCCON, and the final schedule will reflect these updates and include an evening slate of fun, informal talks and discussions.
+
+SRCCON will run from 9am till 9pm on Thursday, June 25 (including breakfast and non-session evening activities), and from 10am till 6:15pm on Friday, June 26. We will publish the complete SRCCON schedule in June.
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.sessions %}
