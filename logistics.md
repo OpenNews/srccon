@@ -20,6 +20,8 @@ We have reserved a block of rooms at the <a href="http://www.commonshotel.com/">
 
 The reserved block of rooms will be available until all rooms are booked, or May 25th, whichever happens first—booking early is always at good idea.
 
+For those interested in splitting lodging costs with another attendee, Jason Dean has created [a room-share spreadsheet](https://docs.google.com/spreadsheets/d/1PLDBYNGslVBwJdgaPPWmbHHYEKfRDd25yNRjXVrRVnk/edit#gid=0) where you can exchange information.
+
 ## Childcare
 We are offering free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the adjoining Commons Hotel via the astonishingly named but genuinely great [KiddieCorp](https://www.kiddiecorp.com/). The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Register your child now](https://www.kiddiecorp.com/srcconkids.htm), or [learn more about their staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html). 
 
