@@ -16,9 +16,33 @@ SRCCON 2015 will be at the beautiful, spacious <a href="https://www.google.com/m
 SRCCON will run from 9am till 9pm on Thursday, June 25 (including breakfast and non-session evening activities), and from 10am till 6:15pm on Friday, June 26. We will publish the complete SRCCON schedule in June.
 
 ## Lodging
-We have reserved a block of rooms at the <a href="http://www.commonshotel.com/">Commons Hotel</a> at a base rate of $139 per night. To get the conference rate, please call 800-822-6757 or 612-379-8888 and ask for the SRCCON rate, or use our [dedicated booking link](https://gc.synxis.com/rez.aspx?Hotel=53931&Chain=11910&template=GCF&shell=GCF_4&start=availresults&arrive=6/24/2015&depart=6/27/2015&adult=1&child=0&group=062415SRCC). 
+Our conference rate at the [The Commons Hotel](http://www.commonshotel.com/) has expired, but you can call (800) 822-6757 or (612) 379-8888 to inquire about any rooms that might still be available.
 
-The reserved block of rooms will be available until all rooms are booked, or May 25th, whichever happens first—booking early is always at good idea.
+Other hotels not far from the conference venue include: 
+
+**[Days Hotel](http://www.daysinn.com/hotels/minnesota/minneapolis/days-inn-hotel-university-ave-se/hotel-overview) ($89)**  
+.3 miles away  
+2407 University Ave SE  
+Minneapolis, MN 55414 US  
+(612) 623-3999
+
+**[University Inn](http://www.universityinnmn.com/) ($139)**  
+1 mile away  
+925 4th Street SE  
+Minneapolis, MN, 55414, United States  
+(612) 746-1300
+
+**[Courtyard Marriott Downtown](http://courtyard.marriott.com/mspdc) ($195)**  
+1.2 miles away  
+1500 Washington Ave S  
+Minneapolis, MN 55454  
+(612) 333-4646
+	
+**[Aloft Minneapolis Hotel](http://www.aloftminneapolis.com/) ($209)**  
+3 miles away  
+900 Washington Avenue South  
+Minneapolis, Minnesota, 55415  
+(612) 455-8400 
 
 For those interested in splitting lodging costs with another attendee, Jason Dean has created [a room-share spreadsheet](https://docs.google.com/spreadsheets/d/1PLDBYNGslVBwJdgaPPWmbHHYEKfRDd25yNRjXVrRVnk/edit#gid=0) where you can exchange information.
 
