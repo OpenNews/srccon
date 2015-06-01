@@ -52,7 +52,7 @@ permalink: /sponsors/2015/index.html
 <h2>OpenNews Project Partners</h2>
 <ul class="supportingsponsor">
 <li><a href="http://www.mozilla.org/" class="imglink"><img alt="Mozilla" src="/media/img/partners/mozilla.png"></a></li>
-<li class="kf"><a href="http://www.knightfoundation.org/" class="imglink"><img alt="Knight Foundation" src="/media/img/partners/knight.png"></a></li>
+<li class="knightfoundation"><a href="http://www.knightfoundation.org/" class="imglink"><img alt="Knight Foundation" src="/media/img/partners/knight.png"></a></li>
 </ul>
 
 <p style="margin-top: 50px;">Interested in sponsoring SRCCON? <br>View <a href="/sponsors">our rates</a> and <a href="mailto:dan@mozillafoundation.org">Get in touch today</a>!
