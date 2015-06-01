@@ -331,12 +331,69 @@ p.small {
   font-size: 1.1em;
 }
 
-body.sponsors #contentbox ul {
-  margin-left: 40px;
+#sponsorpage {
+  text-align: center;
 }
 
-body.sponsors #contentbox li {
-  font-size: 1.2em;
+#contentbox #sponsorpage li {
+  list-style: none;
+}
+
+#contentbox #sponsorpage li p {
+  font-size: .9em;
+  text-align: left;
+}
+
+#contentbox #sponsorpage li a.imglink {
+  border-bottom: 0px;
+}
+
+li.accessiblitysponsor {
+  padding-top: 35px;
+}
+
+li.accessiblitysponsor img {
+  width: 325px;
+}
+
+ul.eventsponsor li {
+  display: inline;
+  padding: 0 50px;
+}
+
+ul.eventsponsor li img {
+  width: 185px;
+}
+
+ul.eventsponsor li.fusion img {
+  width: 150px;
+}
+
+ul.supportingsponsor li {
+  display: inline-block;
+  padding: 0 20px;
+  vertical-align: middle;
+}
+
+ul.supportingsponsor li img {
+  width: 150px;
+}
+
+ul.supportingsponsor li.jsk img {
+  width: 125px;
+}
+
+ul.supportingsponsor li.um img {
+  width: 200px;
+}
+
+ul.supportingsponsor li.knightfoundation img {
+  width: 215px;
+}
+
+#contentbox #sponsorpage h2 {
+  padding-top: 40px;
+  margin-bottom: 20px;
 }
 
 footer {
