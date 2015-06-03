@@ -31,7 +31,7 @@ Our Accessibility Sponsors help to make SRCCON welcoming to as many as possible.
 
   * Childcare
   * Scholarships **<- SOLD OUT**
-  * Transcripts
+  * Transcripts **<- SOLD OUT**
 
 Accessibility Sponsors recieve:
 
