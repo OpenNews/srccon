@@ -20,7 +20,7 @@ Thursday night, join us for SRCCON's evening fun: we'll be hosting games, lightn
 ## More to Do/Eat/Drink/See/Dance To
 If you're looking for things to before, after, or during SRCCON, we have compiled [a guide to wonderful things in the Minneapolis-Saint Paul area](/guide), written by local news nerds.
 
-# Alcoholics Anonymous
+## Alcoholics Anonymous
 On Thursday night, the closest meeting to SRCCON is at [Drinkytown AA, University Lutheran Church of Hope 601 13th Av SE](https://www.google.com/maps/place/University+Lutheran+Church+of+Hope/@44.983557,-93.235761,15z/data=!4m2!3m1!1s0x0:0x7e2b9cb466a3fbda?sa=X&ei=4jiEVZyHMcbgoASy45voCQ&ved=0CG8Q_BIwCg), which meets Thursday at 6:30pm. It is an "open" meeting, meaning that you don't have to be alcoholic to go. AA Minneapolis also hosts a [full list of area meetings](http://www.aaminneapolis.org/pages/meeting/meetings.asp?Location=74&Name=Minneapolis%2C%20Southeast&Image=minneapolissoutheast.gif#Thursday).
 
 ## Lodging
