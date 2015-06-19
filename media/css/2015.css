@@ -52,6 +52,11 @@ header.coffee {
   background-image: url(/media/img/2015/coffee.jpg);
 }
 
+header.guide {
+  background-image: url(/media/img/2015/mplsnight.jpg);
+}
+
+
 header.books {
   background-image: url(/media/img/2015/books.jpg);
   background-size: cover;
@@ -61,7 +66,7 @@ header.scholarships {
   background-image: url(/media/img/2015/mplsschol.jpg);
 }
 
-header.mcnamara h3, header.coffee h3, header.lifevests h2, header.lifevests h3, header.books h2, header.books h3 {
+header.mcnamara h3, header.coffee h3, header.lifevests h2, header.lifevests h3, header.books h2, header.books h3, header.guide h3, header.guide h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
@@ -176,6 +181,7 @@ body.location header nav ul li#location a {
   font-size: 3em;
   margin-bottom: 10px;
   margin-top: 0;
+  line-height: 1em;
 }
 
 #headbox h3 {
@@ -330,6 +336,34 @@ p a:hover, p.small a:hover, li a:hover {
 p.small {
   font-size: 1.1em;
 }
+/* guide styles */
+
+p#guideauthors {
+  font-size: 1.1em;
+}
+
+p#guideauthors a {
+  margin-left: 3px;
+}
+
+body.guide ul {
+  font-size: .8em;
+}
+
+body.guide #contentbox li {
+  list-style: none;
+}
+
+body.guide #contentbox p.description {
+  font-size: 1.2em;
+  line-height: 1.8em;
+}
+
+body.guide #contentbox h1 {
+  margin-top: 50px;
+}
+
+/*end guide styles */
 
 #sponsorpage {
   text-align: center;
@@ -892,6 +926,7 @@ a:hover .permalink {
     #headbox h2 {
         font-size: 2.4em;
     }
+
     #headbox h3 {
         font-size: 1.2em;
         line-height: 1.4em;
