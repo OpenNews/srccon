@@ -113,7 +113,7 @@
         "room": "Johnson", 
         "scheduleblock": "thursday-am-1", 
         "time": "11am-noon", 
-        "title": "Journalistic objectivity & user-centered design", 
+        "title": "Journalistic Objectivity & User-Centered Design", 
         "transcription": ""
     }, 
     {
@@ -178,7 +178,7 @@
         "room": "Gateway", 
         "scheduleblock": "thursday-am-1", 
         "time": "11am-noon", 
-        "title": "We all have issues: sharing projects built on Github's API", 
+        "title": "We All Have Issues: Sharing Projects Built on GitHub's API", 
         "transcription": ""
     }, 
     {
@@ -204,7 +204,7 @@
         "room": "Thomas Swain", 
         "scheduleblock": "thursday-am-2", 
         "time": "12:30-1:30pm", 
-        "title": "Big ambition, small staff, how the f*** do I prioritize?", 
+        "title": "Big Ambition, Small Staff, How the F*** Do I Prioritize?", 
         "transcription": "SRCCON2015SmallTeam"
     }, 
     {
@@ -217,7 +217,7 @@
         "room": "Ski-U-Mah", 
         "scheduleblock": "thursday-am-2", 
         "time": "12:30-1:30pm", 
-        "title": "Fork and merge some data with Dat and Flatsheet", 
+        "title": "Fork and Merge Some Data with Dat and Flatsheet", 
         "transcription": "SRCCON2015DatFlatsheet"
     }, 
     {
@@ -230,7 +230,7 @@
         "room": "Heritage", 
         "scheduleblock": "thursday-am-2", 
         "time": "12:30-1:30pm", 
-        "title": "Data Audioization: How Do We Bring Numbers To Life With Sound?", 
+        "title": "Data Audioization: How Do We Bring Numbers to Life with Sound?", 
         "transcription": ""
     }, 
     {
@@ -243,7 +243,7 @@
         "room": "Minnesota", 
         "scheduleblock": "thursday-am-2", 
         "time": "12:30-1:30pm", 
-        "title": "Post hoc justifications for newsroom chat bots", 
+        "title": "Post Hoc Justifications for Newsroom Chat Bots", 
         "transcription": "SRCCON2015ChatBots"
     }, 
     {
@@ -256,7 +256,7 @@
         "room": "Memorial", 
         "scheduleblock": "thursday-am-2", 
         "time": "12:30-1:30pm", 
-        "title": "Everyone is an illustrator: making your own art when none exists", 
+        "title": "Everyone Is an Illustrator: Making Your Own Art When None Exists", 
         "transcription": ""
     }, 
     {
@@ -282,7 +282,7 @@
         "room": "Minnesota", 
         "scheduleblock": "thursday-lunch", 
         "time": "1:45-2:45pm", 
-        "title": "Building Strong Journo-Tech Networks - Internationally", 
+        "title": "Building Strong Journo-Tech Networks—Internationally", 
         "transcription": "SRCCON2015IntlNetworks"
     }, 
     {
@@ -321,7 +321,7 @@
         "room": "Ski-U-Mah", 
         "scheduleblock": "thursday-pm-1", 
         "time": "3-4pm", 
-        "title": "Every part of the pig: How can we make better use of reporting in long investigations?", 
+        "title": "Every Part of the Pig: How Can We Make Better Use of Reporting in Long Investigations?", 
         "transcription": "SRCCON2015StructuredReporting"
     }, 
     {
@@ -360,7 +360,7 @@
         "room": "Minnesota", 
         "scheduleblock": "thursday-pm-1", 
         "time": "3-4:30pm", 
-        "title": "Meeting the New York Times Challenge: delivering the news over HTTPS", 
+        "title": "Meeting The New York Times Challenge: Delivering the News Over HTTPS", 
         "transcription": "SRCCON2015NewsOverHTTPS"
     }, 
     {
@@ -373,7 +373,7 @@
         "room": "Johnson", 
         "scheduleblock": "thursday-pm-2", 
         "time": "4:30-5:30pm", 
-        "title": "Let's create an ideal digital workflow", 
+        "title": "Let's Create an Ideal Digital Workflow", 
         "transcription": ""
     }, 
     {
@@ -386,7 +386,7 @@
         "room": "Thomas Swain", 
         "scheduleblock": "thursday-pm-2", 
         "time": "4:30-5:30pm", 
-        "title": "Recruiting and hiring people not wishlists", 
+        "title": "Recruiting and Hiring People not Wishlists", 
         "transcription": "SRCCON2015Hiring"
     }, 
     {
@@ -412,7 +412,7 @@
         "room": "Gateway", 
         "scheduleblock": "thursday-pm-2", 
         "time": "4:30-5:30pm", 
-        "title": "War stories: How do we build and deploy all this code?", 
+        "title": "War stories: How Do We Build and Deploy All This Code?", 
         "transcription": ""
     }, 
     {
@@ -438,7 +438,7 @@
         "room": "Johnson", 
         "scheduleblock": "friday-am-1", 
         "time": "11am-noon", 
-        "title": "Let's act out code concepts to help teach them", 
+        "title": "Let's Act Out Code Concepts to Help Teach Them", 
         "transcription": ""
     }, 
     {
@@ -451,7 +451,7 @@
         "room": "Thomas Swain", 
         "scheduleblock": "friday-am-1", 
         "time": "11am-noon", 
-        "title": "Machine learning: how useful is it for journalism?", 
+        "title": "Machine Learning: How Useful Is it for Journalism?", 
         "transcription": "SRCCON2015MachineLearning"
     }, 
     {
@@ -464,7 +464,7 @@
         "room": "Ski-U-Mah", 
         "scheduleblock": "friday-am-1", 
         "time": "11am-noon", 
-        "title": "Ad viewability is coming and you should care", 
+        "title": "Ad Viewability Is Coming and You Should Care", 
         "transcription": "SRCCON2015AdViewability"
     }, 
     {
@@ -477,7 +477,7 @@
         "room": "Heritage", 
         "scheduleblock": "friday-am-1", 
         "time": "11am-noon", 
-        "title": "Designing collaborative user research for news organizations", 
+        "title": "Designing Collaborative User Research for News Organizations", 
         "transcription": ""
     }, 
     {
@@ -490,7 +490,7 @@
         "room": "Minnesota", 
         "scheduleblock": "friday-am-1", 
         "time": "11am-noon", 
-        "title": "Wrong on INFILE, wrong for America: What do you really know about your database software?", 
+        "title": "Wrong on INFILE, Wrong for America: What Do You Really Know about Your Database Software?", 
         "transcription": "SRCCON2015DatabaseDifferences"
     }, 
     {
@@ -503,7 +503,7 @@
         "room": "Memorial", 
         "scheduleblock": "friday-am-1", 
         "time": "11am-1:30pm", 
-        "title": "Kite mapping for fun and profit!", 
+        "title": "Kite Mapping for Fun and Profit!", 
         "transcription": ""
     }, 
     {
@@ -516,7 +516,7 @@
         "room": "Johnson", 
         "scheduleblock": "friday-am-2", 
         "time": "12:30-1:30pm", 
-        "title": "Brainstorming: The happiest (and most destructive) place on Earth", 
+        "title": "Brainstorming: The Happiest (and Most Destructive) Place on Earth", 
         "transcription": ""
     }, 
     {
@@ -529,7 +529,7 @@
         "room": "Thomas Swain", 
         "scheduleblock": "friday-am-2", 
         "time": "12:30-1:30pm", 
-        "title": "Let's stop worrying and let our reporters make their own graphics", 
+        "title": "Let's Stop Worrying and Let Our Reporters Make Their Own Graphics", 
         "transcription": "SRCCON2015ReporterGraphics"
     }, 
     {
@@ -542,7 +542,7 @@
         "room": "Ski-U-Mah", 
         "scheduleblock": "friday-am-2", 
         "time": "12:30-1:30pm", 
-        "title": "Merge Branch: Imagining new version control systems for writers and editors", 
+        "title": "Merge Branch: Imagining New Version-Control Systems for Writers and Editors", 
         "transcription": "SRCCON2015WritersVersionControl"
     }, 
     {
@@ -555,7 +555,7 @@
         "room": "Heritage", 
         "scheduleblock": "friday-am-2", 
         "time": "12:30-1:30pm", 
-        "title": "Mobile and Dragons: Finding the mobile strategy that works for you", 
+        "title": "Mobile and Dragons: Finding the Mobile Strategy That Works for You", 
         "transcription": ""
     }, 
     {
@@ -568,7 +568,7 @@
         "room": "Minnesota", 
         "scheduleblock": "friday-am-2", 
         "time": "12:30-1:30pm", 
-        "title": "Bringing modern development processes to monolithic projects", 
+        "title": "Bringing Modern Development Processes to Monolithic Projects", 
         "transcription": "SRCCON2015ModernizingProjects"
     }, 
     {
@@ -594,7 +594,7 @@
         "room": "Thomas Swain", 
         "scheduleblock": "friday-lunch", 
         "time": "1:45-2:45pm", 
-        "title": "What (front-end) tools do you use?", 
+        "title": "What (Front-End) Tools Do You Use?", 
         "transcription": "SRCCON2015FrontEndTools"
     }, 
     {
@@ -620,7 +620,7 @@
         "room": "Thomas Swain", 
         "scheduleblock": "friday-pm-1", 
         "time": "3-4pm", 
-        "title": "Messaging is the New\nBrowser: Telling stories and building audience one sentence at a time", 
+        "title": "Messaging is the New\nBrowser: Telling Stories and Building Audience One Sentence at a Time", 
         "transcription": "SRCCON2015Messaging"
     }, 
     {
@@ -633,7 +633,7 @@
         "room": "Ski-U-Mah", 
         "scheduleblock": "friday-pm-1", 
         "time": "3-4pm", 
-        "title": "How can we best monetize data — and do so responsibly, ethically and without sacrificing journalistic standards?", 
+        "title": "How Can We Best Monetize Data—And Do So Responsibly, Ethically and Without Sacrificing Journalistic Standards?", 
         "transcription": "SRCCON2015MonetizeData"
     }, 
     {
@@ -646,7 +646,7 @@
         "room": "Minnesota", 
         "scheduleblock": "friday-pm-1", 
         "time": "3-4pm", 
-        "title": "Audiosear.ch: an experiment in data driven decision making", 
+        "title": "Audiosear.ch: An Experiment in Data-Driven Decision-Making", 
         "transcription": "SRCCON2015DataDrivenDecisions"
     }, 
     {
@@ -659,7 +659,7 @@
         "room": "Heritage", 
         "scheduleblock": "friday-pm-1", 
         "time": "3-4pm", 
-        "title": "Data Viz for All: Help us make interactives more usable for mobile", 
+        "title": "Data Viz for All: Help Us Make Interactives More Usable for Mobile", 
         "transcription": ""
     }, 
     {
@@ -672,7 +672,7 @@
         "room": "Gateway", 
         "scheduleblock": "friday-pm-1", 
         "time": "3-5:30pm", 
-        "title": "Modular Analytics for your Newsroom with NewsLynx.", 
+        "title": "Modular Analytics for Your Newsroom with NewsLynx.", 
         "transcription": ""
     }, 
     {
@@ -685,7 +685,7 @@
         "room": "Ski-U-Mah", 
         "scheduleblock": "friday-pm-2", 
         "time": "4:30-5:30pm", 
-        "title": "After the Altar Call: Maintaining momentum, community, and inspiration beyond conferences", 
+        "title": "After the Altar Call: Maintaining Momentum, Community, and Inspiration Beyond Conferences", 
         "transcription": "SRCCON2015AltarCall"
     }, 
     {
