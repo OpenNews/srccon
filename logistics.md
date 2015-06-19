@@ -14,6 +14,9 @@ SRCCON 2015 takes place at the <a href="https://www.google.com/maps/place/mcnama
 ## Schedule
 The [full SRCCON schedule](http://schedule.srccon.org) is now live. SRCCON will run from 9am till 9pm on Thursday, June 25 (including breakfast and non-session evening activities), and from 10am till 6:15pm on Friday, June 26.
 
+## Meals at SRCCON
+We want you to be happy and well-fed at SRCCON, so we're providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We'll also have tea, coffee, and snacks—healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
+
 ## Thursday Night at SRCCON
 Thursday night, join us for SRCCON's evening fun: we'll be hosting games, lightning talks, a books share, a hack space, and more! There will be local beers available (and mini donuts!), and much more. [Learn more and sign up now](https://etherpad.mozilla.org/SRCCON2015).
 
