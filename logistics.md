@@ -15,10 +15,19 @@ SRCCON 2015 will be at the beautiful, spacious <a href="https://www.google.com/m
 
 SRCCON will run from 9am till 9pm on Thursday, June 25 (including breakfast and non-session evening activities), and from 10am till 6:15pm on Friday, June 26. We will publish the complete SRCCON schedule in June.
 
+##Thursday Night
+Thursday night, join us for SRCCON's evening fun: we'll be hosting games, lightning talks, a books share, a hack space, and more! There will be local beers available (and mini donuts!), and much more.
+
+###Other Things to Do
+If you're looking for other things to do Thursday night, or throughout your time in Minneapolis, we have compiled [a guide to the Minneapolis area](/guide), written by local news nerds.
+
+###Alcoholics Anonymous
+On Thursday night, the closest meeting to SRCCON is at [Drinkytown AA, University Lutheran Church of Hope 601 13th Av SE](https://www.google.com/maps/place/University+Lutheran+Church+of+Hope/@44.983557,-93.235761,15z/data=!4m2!3m1!1s0x0:0x7e2b9cb466a3fbda?sa=X&ei=4jiEVZyHMcbgoASy45voCQ&ved=0CG8Q_BIwCg), which meets Thursday at 6:30pm. It is an "open" meeting, meaning that you don't have to be alcoholic to go. AA Minneapolis also hosts a [full list of area meetings](http://www.aaminneapolis.org/pages/meeting/meetings.asp?Location=74&Name=Minneapolis%2C%20Southeast&Image=minneapolissoutheast.gif#Thursday).
+
 ## Lodging
 Our conference rate at the [The Commons Hotel](http://www.commonshotel.com/) has expired, but you can call (800) 822-6757 or (612) 379-8888 to inquire about any rooms that might still be available.
 
-Other hotels not far from the conference venue include: 
+Other hotels not far from the conference venue include:
 
 **[Days Hotel](http://www.daysinn.com/hotels/minnesota/minneapolis/days-inn-hotel-university-ave-se/hotel-overview) ($89)**  
 .3 miles away  
@@ -37,19 +46,20 @@ Minneapolis, MN, 55414, United States
 1500 Washington Ave S  
 Minneapolis, MN 55454  
 (612) 333-4646
-	
+
 **[Aloft Minneapolis Hotel](http://www.aloftminneapolis.com/) ($209)**  
 3 miles away  
 900 Washington Avenue South  
 Minneapolis, Minnesota, 55415  
-(612) 455-8400 
+(612) 455-8400
 
 For those interested in splitting lodging costs with another attendee, Jason Dean has created [a room-share spreadsheet](https://docs.google.com/spreadsheets/d/1PLDBYNGslVBwJdgaPPWmbHHYEKfRDd25yNRjXVrRVnk/edit#gid=0) where you can exchange information.
 
 ## Childcare
-We are offering free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the adjoining Commons Hotel via the astonishingly named but genuinely great [KiddieCorp](https://www.kiddiecorp.com/). The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Register your child now](https://www.kiddiecorp.com/srcconkids.htm), or [learn more about their staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html). 
+We are offering free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the adjoining Commons Hotel via the astonishingly named but genuinely great [KiddieCorp](https://www.kiddiecorp.com/). The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Register your child now](https://www.kiddiecorp.com/srcconkids.htm), or [learn more about their staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
 
-Staff-to-child ratios range from 1:2 for children 6-11 months to 1:7 for children aged 6-12 years, and KiddieCorp will work with SRCCON organizers to handle registration and logistics so your kid(s) can have a great time while you're conferencing next door. 
+Staff-to-child ratios range from 1:2 for children 6-11 months to 1:7 for children aged 6-12 years, and KiddieCorp will work with SRCCON organizers to handle registration and logistics so your kid(s) can have a great time while you're conferencing next door.
+
 
 ## More Soon!
 
