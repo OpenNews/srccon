@@ -785,6 +785,16 @@ a:hover .permalink {
     padding: .1em;
 }
 
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+    font-family: "ff-tisa-web-pro", serif;
+    margin-bottom: 3em;
+}
+td {
+    padding: .5em .67em;
+    vertical-align: top;
+}
 /* RESPONSIVE STUFF STARTS HERE */
 
 @media screen and (max-width: 1020px) {
