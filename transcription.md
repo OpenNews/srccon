@@ -1,11 +1,11 @@
 ---
 layout: 2015_layout
-title: Documentation
+title: Remote participation
 subtitle: Live transcription and writeups can bring some of SRCCON to you.
 section: remote
 sub-section: interior
 background: books
-permalink: /documentation/index.html
+permalink: /transcription/index.html
 ---
 
 It's important to us to keep SRCCON small enough to feel friendly and conversational, but we also care about getting the ideas and conversations that take place at SRCCON into the wider world. The most important way this happens is when attendees return to their home newsrooms and put their new skills and approaches to work, but we are also documenting SRCCON as extensively as possible. 
