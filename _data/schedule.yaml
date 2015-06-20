@@ -140,7 +140,7 @@
         "scheduleblock": "thursday-am-1", 
         "time": "11am-noon", 
         "title": "A Newsroom Nadsat: How to Build Better Newsrooms with Better Language", 
-        "transcription": ""
+        "transcription": "SRCCON2015NewsroomNadsat"
     }, 
     {
         "day": "Thursday", 
@@ -712,6 +712,6 @@
         "scheduleblock": "friday-pm-2", 
         "time": "4:30-5:30pm", 
         "title": "Journo-Nerd Survey: Help Us Ask Good Questions", 
-        "transcription": ""
+        "transcription": "SRCCON2015Survey"
     }
 ]
