@@ -364,6 +364,7 @@ body.guide #contentbox h1 {
 }
 
 /*end guide styles */
+/*sponsor page styles */
 
 #sponsorpage {
   text-align: center;
@@ -429,6 +430,44 @@ ul.supportingsponsor li.knightfoundation img {
   padding-top: 40px;
   margin-bottom: 20px;
 }
+
+/*end sponsor page styles */
+
+/*remote page styles */
+
+body.remote #sponsortag p {
+  font-size: 1em;
+}
+
+body.remote #sponsortag p span {
+  margin-top: -20px;
+}
+
+body.remote #sponsortag img {
+  width: 20%;
+  position: relative;
+  top: 10px;
+}
+
+body.remote #sponsortag a {
+  border-bottom: none;
+}
+
+body.remote table a {
+  color: #404040;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+body.remote table a:hover {
+  text-decoration: underline;
+}
+
+body.remote table tr:nth-child(odd) {
+  background-color: #eee;
+}
+
+
 
 footer {
   margin-top: 100px;
