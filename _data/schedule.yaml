@@ -53,7 +53,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "It's the SRCCON House Party! We'll have several rooms with different themes and activities:\n\n### Game Room\n* **When:** all night\n* **Where:** Memorial\n* **Facilitators:** Tiff Fehr, Joe Germuska, Sisi Wei\n\nBoard games, card games, story games--we'll have plenty to choose from. Bring your own to share and play.\n\n### Lightning Talks\n* **When:** 7-8pm\n* **Where:** Johnson\n* **Facilitators:** Kaeti Hinck, Alan Palazzolo\n\nListen to people talk about their projects and passions in five-minute bites.\n\n### Evening Walk\n* **When:** 7-8pm\n* **Where:** Meet up in Memorial, then head outside\n* **Facilitator:** Will Lager\n\nGet outdoors for some fresh air and a guided walk along the river.\n\n### Hack Space and Demo Fair\n* **When:** 8-9pm\n* **Where:** Thomas Swain\n* **Facilitator:** Justin Myers\n\nThis room will be open all evening for anyone who wants to talk about hacker/maker/craft projects. Have a new app that's ready to demo, or a neat project to show off?  We'll have a SRCCON Show & Tell here starting at 8pm.\n\n### Book Share\n* **When:** 8-9pm\n* **Where:** Heritage\n* **Facilitator:** Adam Schweigert\n\nCome talk about books that are important to you, professionally or personally. Bring a copy to give away, and take something new home with you.\n\n### Quiet Workspace\n* **When:** all night\n* **Where:** Ski-U-Mah\n\nA place to check out if you need a break from the day's activities and conversations.", 
+        "description": "It's the SRCCON House Party! We'll have several rooms with different themes and activities:\n\n### Game Room\n* **When:** all evening\n* **Where:** Memorial\n* **Facilitators:** Tiff Fehr, Joe Germuska, Sisi Wei\n\nBoard games, card games, story games--we'll have plenty to choose from. Bring your own to share and play.\n\n### Lightning Talks\n* **When:** 7-8pm\n* **Where:** Johnson\n* **Facilitators:** Kaeti Hinck, Alan Palazzolo\n\nListen to people talk about their projects and passions in five-minute bites.\n\n### Evening Walk\n* **When:** 7-8pm\n* **Where:** Meet up near the stage in Memorial, then head outside\n* **Facilitator:** Will Lager\n\nGet outdoors for some fresh air and a guided walk along the river.\n\n### Hack Space and Demo Fair\n* **When:** 8-9pm\n* **Where:** Heritage\n* **Facilitator:** Justin Myers\n\nThis room will be open all evening for anyone who wants to talk about hacker/maker/craft projects. Have a new app that's ready to demo, or a neat project to show off? We'll have a SRCCON Show & Tell here starting at 8pm.\n\n### Book Share\n* **When:** 8-9pm\n* **Where:** Ski-U-Mah\n* **Facilitator:** Adam Schweigert\n\nCome talk about books that are important to you, professionally or personally. Bring a copy to give away, and take something new home with you.\n\n### Quiet Workspace\n* **When:** all evening\n* **Where:** Thomas Swain\n\nA place to check out if you need a break from the day's activities and conversations.", 
         "everyone": "1", 
         "id": "5", 
         "leader": "", 
@@ -268,7 +268,7 @@
         "length": "1 hour", 
         "room": "Thomas Swain", 
         "scheduleblock": "thursday-lunch", 
-        "time": "1:45-2:45pm", 
+        "time": "2-2:45pm", 
         "title": "Realtalk for Women in Tech", 
         "transcription": ""
     }, 
@@ -281,7 +281,7 @@
         "length": "1 hour", 
         "room": "Minnesota", 
         "scheduleblock": "thursday-lunch", 
-        "time": "1:45-2:45pm", 
+        "time": "2-2:45pm", 
         "title": "Building Strong Journo-Tech Networks—Internationally", 
         "transcription": "SRCCON2015IntlNetworks"
     }, 
@@ -313,7 +313,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "As we design data stories, most of us naturally lean toward visualization and graphic representation. But it doesn’t have to be this way: Take Radiolab’s use of a chorus to demonstrate the color vision of mantis shrimp, or the New York Time’s use of tonal blips to show the difference in finishing time between Olympic medalists. (Find these examples and more at http://listentodata.tumblr.com/.) Audio is a rich, intimate medium that can convey some ideas - like the passage of time - better than graphics and allows you to layer information in sophisticated ways. In this hands on session, we challenge you to think outside the data visualization box and tell a data story using sound as the primary medium. In small groups, we’ll prototype data audioizations using a real dataset. We’ll also discuss what tools, technologies, software and best practices newsrooms can use to incorporate data audioization - or sonification, we’re not sure what to call it yet - into their work.", 
+        "description": "Any large investigative project or feature is going to generate a wealth of reporting that most users never see. We all have interviews, notes, research and data that inform the stories we tell but get thrown away after a story is finished. This session will focus on open notebook reporting and structured journalism, looking at ways we can better use and share more of what we collect in our reporting, without killing ourselves trying to get it online. We'll talk about tools, practices and culture.", 
         "everyone": "", 
         "id": "25", 
         "leader": "Chris Amico", 
@@ -593,7 +593,7 @@
         "length": "1 hour", 
         "room": "Thomas Swain", 
         "scheduleblock": "friday-lunch", 
-        "time": "1:45-2:45pm", 
+        "time": "2-2:45pm", 
         "title": "What (Front-End) Tools Do You Use?", 
         "transcription": "SRCCON2015FrontEndTools"
     }, 
