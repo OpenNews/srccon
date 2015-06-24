@@ -62,11 +62,15 @@ header.books {
   background-size: cover;
 }
 
+header.remote {
+  background-image: url(/media/img/2015/remote.jpg);
+}
+
 header.scholarships {
   background-image: url(/media/img/2015/mplsschol.jpg);
 }
 
-header.mcnamara h3, header.coffee h3, header.lifevests h2, header.lifevests h3, header.books h2, header.books h3, header.guide h3, header.guide h2 {
+header.mcnamara h3, header.coffee h3, header.lifevests h2, header.lifevests h3, header.books h2, header.books h3, header.guide h3, header.guide h2, header.remote h3, header.remote h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 

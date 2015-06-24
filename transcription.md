@@ -4,7 +4,7 @@ title: Remote participation
 subtitle: Live transcription and writeups can bring some of SRCCON to you.
 section: remote
 sub-section: interior
-background: books
+background: remote
 permalink: /transcription/index.html
 ---
 
