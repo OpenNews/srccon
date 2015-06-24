@@ -27,6 +27,10 @@ SRCCON is happening this week at the McNamara Alumni Center in Minneapolis and v
 
 </ul>
 
+## Code of Conduct
+
+Our [code of conduct](http://srccon.org/conduct/) covers all of SRCCON, from breakfast Thursday through the end of the closing session on Friday. Please check it out before you arrive!
+
 ## About SRCCON
 
 SRCCON is a two-day conference built around participatory, interactive sessions and focused on the challenges that news technology and data teams encounter every day. Expect delicious food, great coffee, and the chance to dig into hard questions with amazing people.
