@@ -9,7 +9,6 @@ byline:  lankforddl
 bylineurl: https://www.flickr.com/photos/dannylankford/3616140995
 permalink: /logistics/index.html
 redirect_from: "/location"
-
 ---
 SRCCON 2015 takes place at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis.
 
