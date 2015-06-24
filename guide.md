@@ -39,7 +39,7 @@ There is also a bike sharing system called [Nice Ride](https://www.niceridemn.or
 
 # Delicious places— In the neighborhood
 
-## Bun Me Sandwiches (Vietnamese)
+## Bun Mi Sandwiches (Vietnamese)
 <a href='http://www.bunmisandwiches.com'>http://www.bunmisandwiches.com</a><br />
 0.2 miles<br />
 604 Washington Ave SE<br />
