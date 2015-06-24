@@ -684,6 +684,16 @@ footer .columns {
   margin-left: 25px;
 }
 
+.btn#schedulebutton {
+  width: 100%;
+  float: none;
+  background: #6c4f77;
+}
+
+.btn#schedulebutton:hover {
+  background: #caa5ce;
+}
+
 div.fr_bottom_bar {
   padding: 0px;
   margin-top: 50px;
@@ -698,12 +708,10 @@ form.fr_form button {
 }
 
 .homepage .btn {
-  background: #caa5ce;
   margin-left: 0px;
 }
 
 .homepage .btn:hover {
-  background: #6c4f77;
 }
 
 .btn:hover, form.fr_form button:hover {
