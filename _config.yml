@@ -1,6 +1,5 @@
 name: SRCCON
 markdown: kramdown
-pygments: true
 kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
 gems:
