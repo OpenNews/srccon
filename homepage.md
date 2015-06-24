@@ -11,7 +11,7 @@ permalink: /index.html
 ---
 {% include schedulebutton.html %}
 
-SRCCON is happening this week, live at the McNamara Alumni Center in Minneapolis and via streaming [live transcription](/transcription) everywhere. Follow [@srccon](https://twitter.com/srccon) and [#srccon](https://twitter.com/search?q=%23srccon&src=typd) to keep up.
+SRCCON is happening this week at the McNamara Alumni Center in Minneapolis and via [streaming transcription](/transcription) everywhere. Follow [@srccon](https://twitter.com/srccon) and [#srccon](https://twitter.com/search?q=%23srccon&src=typd) to keep up.
 
 <ul class="homepage" style="margin-bottom:8em;">
 
@@ -27,10 +27,14 @@ SRCCON is happening this week, live at the McNamara Alumni Center in Minneapolis
 
 </ul>
 
+## Code of Conduct
+
+Our [code of conduct](http://srccon.org/conduct/) covers all of SRCCON, from breakfast Thursday through the end of the closing session on Friday. Please check it out before you arrive!
+
 ## About SRCCON
 
 SRCCON is a two-day conference built around participatory, interactive sessions and focused on the challenges that news technology and data teams encounter every day. Expect delicious food, great coffee, and the chance to dig into hard questions with amazing people.
 
- SRCCON, launched in 2014 in Philadelphia and <a href="/logistics">returning in 2015 in Minneapolis</a>, is produced by <a href="http://opennews.org">Knight-Mozilla OpenNews</a>, an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The "src" in SRCCON stands for "<a href="http://source.opennews.org">Source</a>," and we pronounce it "Source-con," though you can say it however you want.)
+Launched in 2014 in Philadelphia and <a href="/logistics">returning in 2015 in Minneapolis</a>, SRCCON is produced by <a href="http://opennews.org">Knight-Mozilla OpenNews</a>, an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The "src" in SRCCON stands for "<a href="http://source.opennews.org">Source</a>," and we pronounce it "Source-con," though you can say it however you want.)
 
  <a href="/sessions">Our sessions</a> focus on technical, design, editorial, and cultural topics within the news world, and we welcome participants from all fields who want to strengthen journalism online.
