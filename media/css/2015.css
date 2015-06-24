@@ -340,6 +340,12 @@ p a:hover, p.small a:hover, li a:hover {
 p.small {
   font-size: 1.1em;
 }
+
+p.safety {
+  font-size: 1.7em;
+  padding-bottom: 50px;
+}
+
 /* guide styles */
 
 p#guideauthors {
