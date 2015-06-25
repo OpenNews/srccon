@@ -12,7 +12,7 @@ It's important to us to keep SRCCON small enough to feel friendly and conversati
 
 ## Transcription
 
-On the ground at SRCCON, we have a live-transcription team transcribing the sessions below. You can see each stream happening live on each session-detail page, and we'll publish cleaned-up, edited versions here after the conference closes.
+We have a live-captioning team transcribing the sessions below. You can reach each session's transcription stream from its detail page (linked below), and we'll publish cleaned-up transcriptions here after the conference closes.
 
 <div>
     <h3>Thursday sessions (Central Time)</h3>
