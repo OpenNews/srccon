@@ -646,7 +646,7 @@
         "room": "Minnesota", 
         "scheduleblock": "friday-pm-1", 
         "time": "3-4pm", 
-        "title": "Data driving decision making: what we learned from Audiosear.ch", 
+        "title": "Data Driving Decision-making: What We Learned from Audiosear.ch", 
         "transcription": "SRCCON2015DataDrivenDecisions"
     }, 
     {
@@ -713,5 +713,18 @@
         "time": "4:30-5:30pm", 
         "title": "Journo-Nerd Survey: Help Us Ask Good Questions", 
         "transcription": "SRCCON2015Survey"
+    }, 
+    {
+        "day": "Friday", 
+        "description": "", 
+        "everyone": "", 
+        "id": "56", 
+        "leader": "", 
+        "length": "1 hour", 
+        "room": "Minnesota", 
+        "scheduleblock": "friday-lunch", 
+        "time": "2-2:45pm", 
+        "title": "How Can Traditional, Non-Technically Trained Journalists Move into This Space?", 
+        "transcription": ""
     }
 ]
