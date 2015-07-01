@@ -12,22 +12,22 @@ It's important to us to keep SRCCON small enough to feel friendly and conversati
 
 ## Transcription
 
-We have a live-captioning team transcribing the sessions below. You can reach each session's transcription stream from its detail page (linked below), and we'll publish cleaned-up transcriptions here after the conference closes.
+We had a live-captioning team transcribe 28 sessions at SRCCON. Live streams were available during these sessions, and links to the cleaned-up archives appear below.
 
 <div>
-    <h3>Thursday sessions (Central Time)</h3>
-    <table>{% assign thursday = site.data.schedule | where:"day","Thursday" | sort:"id" %}
+    <h3>Thursday sessions</h3>
+    <table>{% assign thursday = site.data.schedule | where:"day","Thursday" %}
 {% for session in thursday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="http://schedule.srccon.org/#_session-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://github.com/OpenNews/srccon-data/blob/master/2015/transcripts/{{ session.transcription }}.txt">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
 
 <div>
-    <h3>Friday sessions (Central Time)</h3>
-    <table>{% assign friday = site.data.schedule | where:"day","Friday" | sort:"id" %}
+    <h3>Friday sessions</h3>
+    <table>{% assign friday = site.data.schedule | where:"day","Friday" %}
 {% for session in friday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="http://schedule.srccon.org/#_session-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://github.com/OpenNews/srccon-data/blob/master/2015/transcripts/{{ session.transcription }}.txt">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
