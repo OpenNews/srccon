@@ -10,6 +10,7 @@
         "scheduleblock": "thursday-morning", 
         "time": "9-10am", 
         "title": "Registration & Breakfast", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -23,7 +24,8 @@
         "scheduleblock": "thursday-morning", 
         "time": "10-10:30am", 
         "title": "Welcome to SRCCON", 
-        "transcription": ""
+        "transcript": "", 
+        "transcription": "SRCCON2015OpeningPlenary"
     }, 
     {
         "day": "Thursday", 
@@ -36,6 +38,7 @@
         "scheduleblock": "thursday-lunch", 
         "time": "1:30-3pm", 
         "title": "Lunch at SRCCON", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -49,6 +52,7 @@
         "scheduleblock": "thursday-evening", 
         "time": "5:30-7pm", 
         "title": "Dinner at SRCCON", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -62,7 +66,8 @@
         "scheduleblock": "thursday-evening", 
         "time": "7-9pm", 
         "title": "Evening sessions", 
-        "transcription": ""
+        "transcript": "", 
+        "transcription": "SRCCON2015LightningTalks"
     }, 
     {
         "day": "Friday", 
@@ -75,6 +80,7 @@
         "scheduleblock": "friday-morning", 
         "time": "10-10:45am", 
         "title": "Breakfast", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -88,6 +94,7 @@
         "scheduleblock": "friday-lunch", 
         "time": "1:30-3pm", 
         "title": "Lunch at SRCCON", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -101,7 +108,8 @@
         "scheduleblock": "friday-evening", 
         "time": "5:30-6pm", 
         "title": "Closing", 
-        "transcription": ""
+        "transcript": "", 
+        "transcription": "SRCCON2015ClosingPlenary"
     }, 
     {
         "day": "Thursday", 
@@ -114,6 +122,7 @@
         "scheduleblock": "thursday-am-1", 
         "time": "11am-noon", 
         "title": "Journalistic Objectivity & User-Centered Design", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -127,7 +136,8 @@
         "scheduleblock": "thursday-am-1", 
         "time": "11am-noon", 
         "title": "Figuring It Out: Remote Communication", 
-        "transcription": "SRCCON2015RemoteComm"
+        "transcript": "", 
+        "transcription": "SRCCON2015RemoteCommunication"
     }, 
     {
         "day": "Thursday", 
@@ -140,6 +150,7 @@
         "scheduleblock": "thursday-am-1", 
         "time": "11am-noon", 
         "title": "A Newsroom Nadsat: How to Build Better Newsrooms with Better Language", 
+        "transcript": "", 
         "transcription": "SRCCON2015NewsroomNadsat"
     }, 
     {
@@ -153,6 +164,7 @@
         "scheduleblock": "thursday-am-1", 
         "time": "11am-noon", 
         "title": "Better Living Through Documentation", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -166,6 +178,7 @@
         "scheduleblock": "thursday-am-1", 
         "time": "11am-noon", 
         "title": "Become a Better Programmer Through Mundane Programming", 
+        "transcript": "", 
         "transcription": "SRCCON2015BetterProgramming"
     }, 
     {
@@ -179,6 +192,7 @@
         "scheduleblock": "thursday-am-1", 
         "time": "11am-noon", 
         "title": "We All Have Issues: Sharing Projects Built on GitHub's API", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -192,6 +206,7 @@
         "scheduleblock": "thursday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Designing Digital Communities for News", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -205,6 +220,7 @@
         "scheduleblock": "thursday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Big Ambition, Small Staff, How the F*** Do I Prioritize?", 
+        "transcript": "", 
         "transcription": "SRCCON2015SmallTeam"
     }, 
     {
@@ -218,6 +234,7 @@
         "scheduleblock": "thursday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Fork and Merge Some Data with Dat and Flatsheet", 
+        "transcript": "", 
         "transcription": "SRCCON2015DatFlatsheet"
     }, 
     {
@@ -231,6 +248,7 @@
         "scheduleblock": "thursday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Data Audioization: How Do We Bring Numbers to Life with Sound?", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -244,6 +262,7 @@
         "scheduleblock": "thursday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Post Hoc Justifications for Newsroom Chat Bots", 
+        "transcript": "", 
         "transcription": "SRCCON2015ChatBots"
     }, 
     {
@@ -257,6 +276,7 @@
         "scheduleblock": "thursday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Everyone Is an Illustrator: Making Your Own Art When None Exists", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -270,6 +290,7 @@
         "scheduleblock": "thursday-lunch", 
         "time": "2-2:45pm", 
         "title": "Realtalk for Women in Tech", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -283,6 +304,7 @@
         "scheduleblock": "thursday-lunch", 
         "time": "2-2:45pm", 
         "title": "Building Strong Journo-Tech Networks—Internationally", 
+        "transcript": "", 
         "transcription": "SRCCON2015IntlNetworks"
     }, 
     {
@@ -296,6 +318,7 @@
         "scheduleblock": "thursday-pm-1", 
         "time": "3-4pm", 
         "title": "What Couples Counseling Can Teach Us About Strong Teams and Healthy Feedback", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -309,7 +332,8 @@
         "scheduleblock": "thursday-pm-1", 
         "time": "3-4pm", 
         "title": "Taking Web Accessibility Beyond Assumptions", 
-        "transcription": "SRCCON2015WebAccessbility"
+        "transcript": "", 
+        "transcription": "SRCCON2015WebAccessibility"
     }, 
     {
         "day": "Thursday", 
@@ -322,6 +346,7 @@
         "scheduleblock": "thursday-pm-1", 
         "time": "3-4pm", 
         "title": "Every Part of the Pig: How Can We Make Better Use of Reporting in Long Investigations?", 
+        "transcript": "", 
         "transcription": "SRCCON2015StructuredReporting"
     }, 
     {
@@ -335,6 +360,7 @@
         "scheduleblock": "thursday-pm-1", 
         "time": "3-4pm", 
         "title": "Building Better Events, as Organizers and Participants", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -348,6 +374,7 @@
         "scheduleblock": "thursday-pm-1", 
         "time": "3-4:30pm", 
         "title": "The Dungeon Master's Guide to Teaching Journalism", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -361,6 +388,7 @@
         "scheduleblock": "thursday-pm-1", 
         "time": "3-4:30pm", 
         "title": "Meeting The New York Times Challenge: Delivering the News Over HTTPS", 
+        "transcript": "", 
         "transcription": "SRCCON2015NewsOverHTTPS"
     }, 
     {
@@ -374,6 +402,7 @@
         "scheduleblock": "thursday-pm-2", 
         "time": "4:30-5:30pm", 
         "title": "Let's Create an Ideal Digital Workflow", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -387,6 +416,7 @@
         "scheduleblock": "thursday-pm-2", 
         "time": "4:30-5:30pm", 
         "title": "Recruiting and Hiring People Not Wishlists", 
+        "transcript": "", 
         "transcription": "SRCCON2015Hiring"
     }, 
     {
@@ -400,6 +430,7 @@
         "scheduleblock": "thursday-pm-2", 
         "time": "4:30-5:30pm", 
         "title": "Interviewing the Map: Simple Analysis for Web Maps", 
+        "transcript": "", 
         "transcription": "SRCCON2015InterviewingMap"
     }, 
     {
@@ -413,6 +444,7 @@
         "scheduleblock": "thursday-pm-2", 
         "time": "4:30-5:30pm", 
         "title": "War stories: How Do We Build and Deploy All This Code?", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -426,6 +458,7 @@
         "scheduleblock": "thursday-pm-2", 
         "time": "4:30-5:30pm", 
         "title": "A Community on Mobile: Paper Prototyping with the Coral Project", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -439,6 +472,7 @@
         "scheduleblock": "friday-am-1", 
         "time": "11am-noon", 
         "title": "Let's Act Out Code Concepts to Help Teach Them", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -452,6 +486,7 @@
         "scheduleblock": "friday-am-1", 
         "time": "11am-noon", 
         "title": "Machine Learning: How Useful Is it for Journalism?", 
+        "transcript": "", 
         "transcription": "SRCCON2015MachineLearning"
     }, 
     {
@@ -465,6 +500,7 @@
         "scheduleblock": "friday-am-1", 
         "time": "11am-noon", 
         "title": "Ad Viewability Is Coming and You Should Care", 
+        "transcript": "", 
         "transcription": "SRCCON2015AdViewability"
     }, 
     {
@@ -478,6 +514,7 @@
         "scheduleblock": "friday-am-1", 
         "time": "11am-noon", 
         "title": "Designing Collaborative User Research for News Organizations", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -491,6 +528,7 @@
         "scheduleblock": "friday-am-1", 
         "time": "11am-noon", 
         "title": "Wrong on INFILE, Wrong for America: What Do You Really Know about Your Database Software?", 
+        "transcript": "", 
         "transcription": "SRCCON2015DatabaseDifferences"
     }, 
     {
@@ -504,6 +542,7 @@
         "scheduleblock": "friday-am-1", 
         "time": "11am-1:30pm", 
         "title": "Kite Mapping for Fun and Profit!", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -517,6 +556,7 @@
         "scheduleblock": "friday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Brainstorming: The Happiest (and Most Destructive) Place on Earth", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -530,6 +570,7 @@
         "scheduleblock": "friday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Let's Stop Worrying and Let Our Reporters Make Their Own Graphics", 
+        "transcript": "", 
         "transcription": "SRCCON2015ReporterGraphics"
     }, 
     {
@@ -543,6 +584,7 @@
         "scheduleblock": "friday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Merge Branch: Imagining New Version-Control Systems for Writers and Editors", 
+        "transcript": "", 
         "transcription": "SRCCON2015WritersVersionControl"
     }, 
     {
@@ -556,6 +598,7 @@
         "scheduleblock": "friday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Mobile: The Gathering (Finding the Mobile Strategy That Works for You)", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -569,6 +612,7 @@
         "scheduleblock": "friday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Bringing Modern Development Processes to Monolithic Projects", 
+        "transcript": "", 
         "transcription": "SRCCON2015ModernizingProjects"
     }, 
     {
@@ -582,6 +626,7 @@
         "scheduleblock": "friday-am-2", 
         "time": "12:30-1:30pm", 
         "title": "Legal Resources for a Changing Media Environment", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -595,6 +640,7 @@
         "scheduleblock": "friday-lunch", 
         "time": "2-2:45pm", 
         "title": "What (Front-End) Tools Do You Use?", 
+        "transcript": "", 
         "transcription": "SRCCON2015FrontEndTools"
     }, 
     {
@@ -608,6 +654,7 @@
         "scheduleblock": "friday-pm-1", 
         "time": "3-4pm", 
         "title": "Surviving the News Business: Self-Care and Overcoming Burnout", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -621,6 +668,7 @@
         "scheduleblock": "friday-pm-1", 
         "time": "3-4pm", 
         "title": "Messaging is the New\nBrowser: Telling Stories and Building Audience One Sentence at a Time", 
+        "transcript": "", 
         "transcription": "SRCCON2015Messaging"
     }, 
     {
@@ -634,6 +682,7 @@
         "scheduleblock": "friday-pm-1", 
         "time": "3-4pm", 
         "title": "How Can We Best Monetize Data—And Do So Responsibly, Ethically and Without Sacrificing Journalistic Standards?", 
+        "transcript": "", 
         "transcription": "SRCCON2015MonetizeData"
     }, 
     {
@@ -647,6 +696,7 @@
         "scheduleblock": "friday-pm-1", 
         "time": "3-4pm", 
         "title": "Data Driving Decision-making: What We Learned from Audiosear.ch", 
+        "transcript": "", 
         "transcription": "SRCCON2015DataDrivenDecisions"
     }, 
     {
@@ -660,6 +710,7 @@
         "scheduleblock": "friday-pm-1", 
         "time": "3-4pm", 
         "title": "Data Viz for All: Help Us Make Interactives More Usable for Mobile", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -673,6 +724,7 @@
         "scheduleblock": "friday-pm-1", 
         "time": "3-5:30pm", 
         "title": "Modular Analytics for Your Newsroom with NewsLynx.", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -686,6 +738,7 @@
         "scheduleblock": "friday-pm-2", 
         "time": "4:30-5:30pm", 
         "title": "After the Altar Call: Maintaining Momentum, Community, and Inspiration Beyond Conferences", 
+        "transcript": "", 
         "transcription": "SRCCON2015AltarCall"
     }, 
     {
@@ -699,6 +752,7 @@
         "scheduleblock": "friday-pm-2", 
         "time": "4:30-5:30pm", 
         "title": "The Past of the Future, Today", 
+        "transcript": "", 
         "transcription": "SRCCON2015WebArchiving"
     }, 
     {
@@ -712,6 +766,7 @@
         "scheduleblock": "friday-pm-2", 
         "time": "4:30-5:30pm", 
         "title": "Journo-Nerd Survey: Help Us Ask Good Questions", 
+        "transcript": "", 
         "transcription": "SRCCON2015Survey"
     }, 
     {
@@ -725,6 +780,7 @@
         "scheduleblock": "friday-lunch", 
         "time": "2-2:45pm", 
         "title": "How Can Traditional, Non-Technically Trained Journalists Move into This Space?", 
+        "transcript": "", 
         "transcription": ""
     }, 
     {
@@ -738,6 +794,7 @@
         "scheduleblock": "friday-lunch", 
         "time": "2-2:45pm", 
         "title": "Chart-Making Beyond the Graphics Desk", 
+        "transcript": "", 
         "transcription": ""
     }
 ]
