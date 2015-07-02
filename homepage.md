@@ -2,38 +2,27 @@
 layout: 2015_layout
 title: Join us for SRCCON
 subtitle: Two days of building better newsroom code, culture, and process—together.
-eventdate: June 25 & 26 in Minneapolis
+eventdate: June 25 & 26, 2015, in Minneapolis
 section: homepage
 background: homepage
 byline: Dustin Gaffke
 bylineurl: https://www.flickr.com/photos/onepointfour/15434041227/
 permalink: /index.html
 ---
-{% include schedulebutton.html %}
 
-SRCCON is happening this week at the McNamara Alumni Center in Minneapolis and via [streaming transcription](/transcription) everywhere. Follow [@srccon](https://twitter.com/srccon) and [#srccon](https://twitter.com/search?q=%23srccon&src=typd) to keep up.
+SRCCON is a two-day conference built around participatory sessions and focused on challenges news technology and data teams encounter every day. SRCCON 2015 took place June 25 and 26 in Minneapolis and via [streaming transcription](/transcription), and we'll announce a city and dates for SRCCON 2016 this fall.
 
 <ul class="homepage" style="margin-bottom:8em;">
 
-<!--<li class="left"><a href="http://schedule.srccon.org"><img src="/media/img/2015/session_dot.jpg"></a><h3><a href="http://schedule.srccon.org">Schedule</a></h3><p>Our peer-led sessions combine skillsharing, discussion, and collaboration. <a href="http://schedule.srccon.org">This year's full schedule is now up</a>. </p></li>-->
+<li class="left"><a href="http://schedule.srccon.org"><img src="/media/img/2015/session_dot.jpg"></a><h3><a href="http://schedule.srccon.org">Schedule</a></h3><p>Our peer-led sessions combine skillsharing, discussion, and collaboration. <a href="http://schedule.srccon.org">The full 2015 schedule is available</a>. </p></li>
 
-<li class="left"><a href="/transcription"><img src="/media/img/2015/remote_dot.jpg"></a><h3><a href="/transcription">Remote Participation</a></h3><p>Take part in SRCCON from afar by following live transcribed sessions. <a href="/transcription">See a full list</a>. </p></li>
+<li class="right"><a href="/transcription"><img src="/media/img/2015/remote_dot.jpg"></a><h3><a href="/transcription">Remote Participation</a></h3><p>Enjoy SRCCON sessions long into the future via archived transcripts. <a href="/transcription">See a full list</a>. </p></li>
 
-<li class="right"><a href="/guide"><img src="/media/img/2015/guide_dot.jpg" class="right"></a><h3><a href="/guide">Our Local Guide</a></h3><p>In Minneapolis for SRCCON? Be sure to consult <a href="/guide">our guide to the Twin Cities</a>.</p></li>
-
-<li class="left"><a href="/logistics"><img src="/media/img/2015/location.jpg"></a><h3><a href="/logistics">Logistics</a></h3><p>In 2015, we meet in Minneapolis. <a href="/logistics">Book your hotel, register for free childcare, and get local info</a>. </p></li>
-
-<li class="right"><a href="/docs"><img src="/media/img/2015/docs_dot.jpg" class="right"></a><h3><a href="/docs">Docs</a></h3><p>We build SRCCON in the open. Check out <a href="/docs">our documentation</a>.</p></li>
+<li class="left"><a href="/docs"><img src="/media/img/2015/docs_dot.jpg" class="right"></a><h3><a href="/docs">Docs</a></h3><p>We build SRCCON in the open. Check out <a href="/docs">our documentation</a>.</p></li>
 
 </ul>
 
-## Code of Conduct
-
-Our [code of conduct](http://srccon.org/conduct/) covers all of SRCCON, from breakfast Thursday through the end of the closing session on Friday. Please check it out before you arrive!
-
 ## About SRCCON
-
-SRCCON is a two-day conference built around participatory, interactive sessions and focused on the challenges that news technology and data teams encounter every day. Expect delicious food, great coffee, and the chance to dig into hard questions with amazing people.
 
 Launched in 2014 in Philadelphia and <a href="/logistics">returning in 2015 in Minneapolis</a>, SRCCON is produced by <a href="http://opennews.org">Knight-Mozilla OpenNews</a>, an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The "src" in SRCCON stands for "<a href="http://source.opennews.org">Source</a>," and we pronounce it "Source-con," though you can say it however you want.)
 
