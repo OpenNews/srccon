@@ -18,7 +18,7 @@ We had a live-captioning team transcribe 28 sessions at SRCCON. Live streams wer
     <h3>Thursday sessions</h3>
     <table>{% assign thursday = site.data.schedule | where:"day","Thursday" %}
 {% for session in thursday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://github.com/OpenNews/srccon-data/blob/master/2015/transcripts/{{ session.transcription }}.txt">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="/docs/transcripts/{{ session.transcription | remove_first:'SRCCON2015' | downcase }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
@@ -27,7 +27,7 @@ We had a live-captioning team transcribe 28 sessions at SRCCON. Live streams wer
     <h3>Friday sessions</h3>
     <table>{% assign friday = site.data.schedule | where:"day","Friday" %}
 {% for session in friday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://github.com/OpenNews/srccon-data/blob/master/2015/transcripts/{{ session.transcription }}.txt">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="/docs/transcripts/{{ session.transcription | remove_first:'SRCCON2015' | downcase }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
