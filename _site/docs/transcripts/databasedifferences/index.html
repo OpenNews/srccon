@@ -1,0 +1,348 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Session transcripts | SRCCON: June 25–26, Minneapolis</title>
+     <meta name="Description" content="SRCCON, June 25 & 26 2015 in Minneapolis, is a participatory, interactive conference centered on the challenges that news technology and data teams encounter every day.">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <link rel="icon" href="/favicon.ico" />
+    <!-- stylesheet & typekit calls -->
+    <script src="//use.typekit.net/xnh2etj.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+    <link rel="stylesheet" href="/media/css/2015.css" />
+    <!-- endstylesheets -->
+    <!-- script calls -->
+    <!-- end scripts -->
+    <!-- Begin Google Analytics -->
+<script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-51039715-1', 'srccon.org');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+</head>
+<body class="docs interior">
+  <header class="books">
+    <div id="headertop">
+      <div class="container">
+        
+          <a href="/" id = "cornerlogo"><img src="/media/img/2015/corner_logo.png"></a>
+        
+        <nav class="navigation">
+          <ul>
+  <li id="schedule"><a href="http://schedule.srccon.org">2015 schedule</a></li>
+  <li id="logistics"><a href="/transcription">transcripts</a></li>
+  <li id="docs"><a href="/docs">more docs</a></li>
+</ul>
+
+        </nav>
+      <div id="headbox">
+        
+          <h2>Session transcripts</h2>
+          <h3>Wrong on INFILE, Wrong for America—What Do You Really Know about Your Database Software?</h3>
+        
+      </div>
+    </div>
+  </div>
+  
+  <div class="container">
+      <p class="byline">photo by <a href="https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-4VkeqM-4VpqGm-4VkcGz-4Vpr1S-4Vken4-fmXRof-2YtFPR-fmHB44-dFxkXG-7yv4t7-4VnnAn-5A3XSn-4Vnnmv-4VnnqK-9uup4n-4Vnnv6-3ViP2v-4VnngF-4VkgVa-4VkeuZ-4Vkg5R-4VpmbC-4VpnDu-4Vk9rK-4VpqRL-4VpsPb-4VpuU3-4Vkf5D-4Vkdj6-4Vk8uc-b1TXEz-4VkhcX-mF5DPa-fmHXAB-r8mgB3-s5i4Mz-7i3R7t-og8qB5-fmXSCf-7i7Ky9-92YNnD-fmHDut-5C51hV-rMM8b3-k639ok-8FDPAB-apFhiP-rL2vRV-4VptiN">Nate Bolt</a></p>
+  </div>
+  
+</header>
+<div class="container">
+    <div id="contentbox">
+      <p>Session Facilitator(s): Michael Corey, Jennifer LaFleur
+Day &amp; Time: Friday, 11am-noon
+Room: Minnesota</p>
+
+<p>Good morning!</p>
+
+<p>Good morning.</p>
+
+<p>How is everybody?</p>
+
+<p>Great.</p>
+
+<p>Coffee?</p>
+
+<p>Yes.</p>
+
+<p>Oh, no. I scared people already. This is not good. Okay. Well, this is understanding your databases through political advertising. I’m Jennifer LaFleur. I work at the center for investigative reporting/reveal.</p>
+
+<p>I also work at the center for investigative reporting/reveal.</p>
+
+<p>Most of the session will be you creating things, but we have a little bit of an intro to explain what our plan is, and then some video by our director, Michael Corey. So I just want to go through kind of why we did this. Oftentimes we’ll be arguing about which database is best for what. And, you know, what we found out when we were talking about this is—we learned a lot about how different database programs allocate memory in your machine, how they index things. Just kind of the inner workings of each database program and why one might be better than the other for certain reasons. So there’s a lot of them out there. That’s FoxPro. Yeah. And ILENE is probably the top database program. What do you really know about your database software? So that’s why we dug into this. I will admit I use SQLServer quite often for our newsroom database archive. But one thing SQLServer does is track your every move. I wasn’t as creative as Michael.</p>
+
+<p>I’ll translate. Did you log onto the server at 10:23 a.m. on June 2nd and fail?</p>
+
+<p>So we decided to look deeper and compare them. You know, and what better way to make any kind of comparison—is through political ads. That way we can dig up information and dirt on all of the different databases.</p>
+
+<p>And the great thing about political ads is they don’t really have to be fair. So we can just have fun. They can be based in some kind of half-truth. And I come into it from the postgres world, which is sort of the opposite end of the spectrum from the SQLServer world. I was doing pesticide data, millions and millions of rows, and running it on a small SSD drive because I wanted it to be fast, and I would run an update query and the query would fill up my hard drive and fail. I couldn’t figure it out. I kept looking around and found that postgres has transaction management, which is good, because you don’t lose data when the query fails, but if you do an update, it makes a copy of all of the data, finishes, and substitutes out the data that it did. I was used to thinking of a database as a CSV that lives somewhere deep in my computer and that’s not how databases work. But I didn’t really know that. So we have two pre-made ads that we’re going to show you. Microsoft Access and postgres. And then we’re going to turn it into you guys and you’re going to storyboard ads using your own expertise. Because I don’t know much about MySQL or SQLite but I know a lot of you do.</p>
+
+<p>Microsoft Access. He says he’s the everyman database, but who is he really looking out for? Is your database bigger than 2 gigabytes? Nope, not you. Do you use a Mac? Nope, not you. Linux? Nope. Not you either. And did you actually want to deploy your data in production? Sorry. Access isn’t for you either. So who is it for? If you follow the money, and you’ll be paying some money, it’s clear who Access works for. Don’t get penned in to a proprietary GUI mess. Vote no on Microsoft Access.</p>
+
+<p>Classic.</p>
+
+<p>Okay. The next one is targeting postgres. If you’re sensitive to flashing lights and things, I just wanted to warn you. Shield your eyes.</p>
+
+<p>Not joking.</p>
+
+<p>There’s a lot of psychedelic business going on in this.</p>
+
+<p>Is postgres ready to lead your news app? Let’s look at the record. Postgres was created in Berkeley at the University of California. It’s an Open Source project that’s free to the public. Cut your hair and get a job, postgres! Sure, transaction management sounds great. But if your database is big enough, running a simple update query can fill up your hard drive. And if you cancel, postgres will save a copy of everything, leaving millions of deadbeat tuples in its wake. Vacuum? Who wants a database you have to clean up after? Call postgres and tell them we don’t need a Berkeley socialist on our servers.</p>
+
+<p>Okay. So your job is to pick a database. Gather in groups where you might have a common interest. Pick it apart. And storyboard your ad. You can do whatever you want. We tried to find play dough this morning. If you want to do claymation ads, we can’t do that. Sorry. But we do have paper. And post its and markers. You can do video or audio. Whatever you want to do. But somebody be a leader. Pick a database. And recruit folks to your political committee.</p>
+
+<p>And we’re going to have some kind of presentation at the end. Either a pitch for an ad or a live action acting out of the ad. Just throwing it out there.</p>
+
+<p>And there will be fabulous prizes.</p>
+
+<p>There will? Bacon and muffins!</p>
+
+<p>I just like to say fabulous prizes.</p>
+
+<p>But yeah, we’ve got lots of markers. Who has MySQL? All right. There’s MySQL team. Who wants to do SQLite? There was a lot of chatter about it. I know you’re out there. All right. Sweet. FoxPro? Anyone? Anyone? I don’t know. It’s up to you guys how you want to break it up.</p>
+
+<p>Just relational?</p>
+
+<p>No, you can do crazy NoSQL leftist craziness if you want.</p>
+
+<p>You can even go non-technical database and do QuattroPro. They look at me like I’m…</p>
+
+<p>FileMakerPro?</p>
+
+<p>Oh, I forgot about FileMakerPro. It doesn’t have to be… It has to be something you can target. Not something you love.</p>
+
+<p>Yeah, that’s the other rule. It has to be a negative ad. It can’t be a positive ad.</p>
+
+<p>Mongo?</p>
+
+<p>This is the SQLite table.</p>
+
+<p>Who’s doing Mongo?</p>
+
+<p>Come on! Mongo! He might need creative genius behind it.</p>
+
+<p>I’ll do Mongo with you.</p>
+
+<p>Political ads are always negative.</p>
+
+<p>I’ve never used it.</p>
+
+<p>This is how you learn.</p>
+
+<p>You can bring your ad skills to bear on MongoDB.</p>
+
+<p>(breakout sessions)</p>
+
+<p>If you have questions, just yell medic. You probably don’t need us.</p>
+
+<p>Don’t forget you have to have a committee name too. Your ad committee has to have a name.</p>
+
+<p>So you have about 15 minutes, just so you know.</p>
+
+<p>You’ve got, like, three minutes left.</p>
+
+<p>Will you be offended by any derogatory reference towards Sweden?</p>
+
+<p>No.</p>
+
+<p>And if you want to do anything on the monitor, you can plug in too.</p>
+
+<p>You are in Minnesota, so that’s risky.</p>
+
+<p>True. Although I think there are more Norwegians here.</p>
+
+<p>Right over there!</p>
+
+<p>There was a name that had an umlaut in its name, and the department of transportation didn’t put the umlaut on when they put the sign up!</p>
+
+<p>The governor said—if I have to go paint them on myself! That would have been such a wonderful sight.</p>
+
+<p>Okay. 30 second warning.</p>
+
+<p>Okay. Time! I have put all of your team databases on these cards, which Michael has not seen. So he’s going to pick first.</p>
+
+<p>Up first… Mango? Mongo!</p>
+
+<p>MangoDB!</p>
+
+<p>MongoDB, you’re up.</p>
+
+<p>Who’s holding the paper? I’ll hold the computer. We have to do a theatric version.</p>
+
+<p>Are we recording any of this?</p>
+
+<p>I don’t want this to leave this room.</p>
+
+<p>Respect the team’s wishes.</p>
+
+<p>Can we dim the lights? Seriously.</p>
+
+<p>Let’s see what we can do.</p>
+
+<p>Wait, we’ll do a cue when we want the lights back up. All right, all right. We’re ready.</p>
+
+<p>(thrash metal)</p>
+
+<p>Terrorism. MongoDB. There’s a new problem with this country. It’s a new database invaded our school with our kids. Teenagers aren’t going to church anymore, because they’re using Mongo. They live by no schemas. They’re writing JavaScript, the language of communism! They’re using BSON, like BS! No transactions? More like terrorism. It’s web scale we don’t want our kids using the internet, because it’s evil. Vote for a company that you can trust, like Oracle!</p>
+
+<p>I love “they live by no schema!”</p>
+
+<p>All right. Since you guys already went, pick one.</p>
+
+<p>MySQL.</p>
+
+<p>What was your committee name? Sorry.</p>
+
+<p>It was the Data Purity Coalition.</p>
+
+<p>Do you guys need lighting?</p>
+
+<p>No, we’re not that fancy.</p>
+
+<p>Hey, don’t you worry about the kids?</p>
+
+<p>Do we have a name?</p>
+
+<p>ByeSQL.</p>
+
+<p>Like bye, SQL!</p>
+
+<p>This is all good.</p>
+
+<p>Awesome.</p>
+
+<p>(imitating ominous music)</p>
+
+<p>ByeSQL. Do you want a database that was born in Sweden? Sweden is cold. Do you want a database that lacks empathy? Of course not! You want something that’s community driven. Not controlled by a man named Larry Ellison, who’s more interested in sailing his boat than attending his own company’s keynote address that he was supposed to deliver! Do you want a guy like that controlling your future? He may not even allow MySQL to be Open Source past 2015! Then what happens to your data? Does that look like the face of a community you want to uphold? We say no! We think things should be about…(cracking up) kids pulling wagons? It reminds me of that William Carlos Williams poem about the wagon and the chicken or something.</p>
+
+<p>Now it’s gotten weird.</p>
+
+<p>Kids love pulling wagons!</p>
+
+<p>Say ByeSQL!</p>
+
+<p>(applause)</p>
+
+<p>You guys are creative.</p>
+
+<p>Extra credit for that William Carlos Williams reference.</p>
+
+<p>That came out of nowhere!</p>
+
+<p>I’ll do the refrains.</p>
+
+<p>All right…. Got to get in my voice. Chris Amico once said that SQLite was the honey badger of databases, but is it really? The honey badger is loyal to Africa, Southwest Africa, and India. SQLite has no such loyalties.</p>
+
+<p>It looks like SQLite just don’t care.</p>
+
+<p>Yeah, it’s public domain. They support free and Open Source software, but ask. Dusnax. It’s not associated. It’s a criminal!</p>
+
+<p>Looks like SQLite just don’t care.</p>
+
+<p>Cracks under pressure. Yeah. Big data for SQLite? One user. No multi-users. No network access to the database. It’s self-centered, like its fellow snake people. Created in 2000.</p>
+
+<p>Looks like SQLite just do care.</p>
+
+<p>It’s everywhere. You didn’t ask for SQLite. It’s in your phone. It’s in your browser. It’s everywhere. It was this innocent app you installed. Basically we all have it. Like herpes.</p>
+
+<p>The database you think you needed, not the one you deserve.</p>
+
+<p>Brought to you by real databases for real Americans.</p>
+
+<p>That’s about it. Thank you so much! That went way better than we thought it would.</p>
+
+<p>Yeah, you guys are fantastic! Any burning questions, issues, things you need to discuss? Tony?</p>
+
+<p>No. Not publicly.</p>
+
+<p>What was your company name again?</p>
+
+<p>Real Databases for Real Americans.</p>
+
+<p>You haven’t heard of us?</p>
+
+<p>Expect us!</p>
+
+<p>So where is the land of the wagon children?</p>
+
+<p>Yeah, where did that come from?</p>
+
+<p>There was a lot going on, guys! We had some girls playing volleyball too.</p>
+
+<p>It’s over the rainbow.</p>
+
+<p>We cannot award a prize, because you are all winners. These are all fantastic. But we will buy you coffee if we see you in that room later.</p>
+
+<p>Free coffee over this way.</p>
+
+<p>Wow.</p>
+
+<p>Thanks, guys!</p>
+
+<p>Thank you. If anyone knows how to draw a fox…</p>
+
+<p>We were trying really hard. We were going to do FoxPro but we couldn’t draw a fox.</p>
+
+    </div>
+</div>
+<footer>
+    
+<div id="sponsorbox" class="container">
+  <div class="container three">
+    <div id="partners">
+    <p class="small">Our Partners:</p>
+    <ul>
+      <li><a href="http://www.mozilla.org/"><img alt="Mozilla" src="/media/img/partners/mozilla.png"  /></a></li>
+        <li><a href="http://www.knightfoundation.org/"><img alt="Knight Foundation" src="/media/img/partners/knight.png" /></a></li>
+      </ul>
+      <p class="small sponsortag">View all of our <a href="/sponsors/2015">wonderful SRCCON sponsors</a>.</p>
+    </div>
+
+    <div id="sponsors">
+      <p class="small">Our Sponsors:</p>
+      <ul>
+        <li class="lead"><a href="http://mandrill.com/"><img alt="Mandrill, by MailChimp" src="/media/img/partners/mandrill.png"></a><br><span class ="sponsorcaption">lead sponsor</span></li>
+        <li class="accessibility"><a href="http://vip.wordpress.com/"><img alt="WordPress VIP" src="/media/img/partners/wpcom-vip-logo-full-white.png"  /></a><br><span class ="sponsorcaption">scholarship sponsor</span></li>
+        <li class="accessibility"><a href="https://slack.com/"><img alt="Slack" src="/media/img/partners/slack_black.png" class="slack" /></a><br><span class ="sponsorcaption">transcript sponsor</span></li>
+        <!--<li class="accessibility"><a href="http://vip.wordpress.com/"><img alt="WordPress VIP" src="/media/img/partners/wpcom-vip-logo-full-white.png"  /></a><br><span class ="sponsorcaption">childcare sponsor</span></li>-->
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<div class="container columns">
+  <div class="col">
+    <h2>More SRCCON</h2>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<ul>
+    <li><a href="/conduct">Code of conduct</a>
+    <li><a href="/sponsors/2015">View our sponsors</a>
+    <li><a href="/tickets">Tickets & transfers</a></li>
+    <li>Join our <a href="https://source.opennews.org/en-US/subscribe/">mailing list</a></li>
+    <li><a href="mailto:srccon@opennews.org">Contact us</a></li>
+</ul>
+
+  </div>
+  <div class="col">
+    <h2>About SRCCON</h2>
+<p>SRCCON is a conference for developers, interactive designers, and other people who love to code in and near newsrooms. Join us in Minneapolis June 25 and 26 for two days of peer-to-peer sessions built around conversation and collaboration. Keep up with updates @<a href="https://twitter.com/srccon">SRCCON</a>.</p>
+
+  </div>
+  <div class="col last">
+    <h2>About OpenNews</h2>
+<p><a href="http://www.opennews.org">Knight-Mozilla OpenNews</a> is a joint project of <a href="http://www.mozilla.org">Mozilla</a> and the <a href="http://www.knightfoundation.org/">Knight Foundation</a> that supports the growing community of news developers, designers, and data reporters helping journalism thrive on the open web. More at <a href="http://www.opennews.org">opennews.org</a> and @<a href="https://twitter.com/opennews">OpenNews</a>.</p>
+
+  </div>
+</div>
+
+</footer>
+</body>
+</html>
