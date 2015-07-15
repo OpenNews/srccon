@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Post Hoc Justifications for Newsroom Chat Bots
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/interviewingmap/index.html
 ---
 
-Interviewing the Map: Simple Analysis for Web Maps
-Session Facilitator(s): Gerald Rich, Jue Yang
-Day & Time: Thursday, 4:30-5:30pm
-Room: Ski-U-Mah
+# Interviewing the Map: Simple Analysis for Web Maps
+
+### Session Facilitator(s): Gerald Rich, Jue Yang
+
+### Day & Time: Thursday, 4:30-5:30pm
+
+### Room: Ski-U-Mah
 
 
 The session will start in 20 minutes.

@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Wrong on INFILE, Wrong for America—What Do You Really Know about Your Database Software?
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/databasedifferences/index.html
 ---
 
+# Wrong on INFILE, Wrong for America—What Do You Really Know about Your Database Software?
 
-Session Facilitator(s): Michael Corey, Jennifer LaFleur
-Day & Time: Friday, 11am-noon
-Room: Minnesota
+### Session Facilitator(s): Michael Corey, Jennifer LaFleur
+
+### Day & Time: Friday, 11am-noon
+
+### Room: Minnesota
 
 
 Good morning!

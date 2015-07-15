@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Machine Learning—How Useful Is it for Journalism?
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/machinelearning/index.html
 ---
 
+# Machine Learning—How Useful Is it for Journalism?
 
-Session Facilitator(s): Steven Rich
-Day & Time: Friday, 11am-noon
-Room: Thomas Swain
+### Session Facilitator(s): Steven Rich
+
+### Day & Time: Friday, 11am-noon
+
+### Room: Thomas Swain
 
 
 We're just going to give it another minute or two, let people get breakfast, sorry.

@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Post Hoc Justifications for Newsroom Chat Bots
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/chatbots/index.html
 ---
 
+# Post Hoc Justifications for Newsroom Chat Bots
 
-Session Facilitator(s): Tom Nehil, Justin Myers
-Day & Time: Thursday, 12:30-1:30pm
-Room: Minnesota
+### Session Facilitator(s): Tom Nehil, Justin Myers
+
+### Day & Time: Thursday, 12:30-1:30pm
+
+### Room: Minnesota
 
 
 All right. We're going to get started. This session we're talking about bots and all of the useful journalistic things they can do, in addition to the hilarious and fun things they can do. My name is Tom Nehil. I work at MinnPost here in Minneapolis. So I'm also happy to take Minneapolis after we talk about bots.

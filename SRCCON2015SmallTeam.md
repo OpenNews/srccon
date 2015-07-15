@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Big Ambition, Small Staff, How the F*** Do I Prioritize?
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/smallteam/index.html
 ---
 
+# Big Ambition, Small Staff, How the F*** Do I Prioritize?
 
-Session Facilitator(s): Rachel Schallom, Tyler Machado
-Day & Time: Thursday, 12:30-1:30pm
-Room: Thomas Swain
+### Session Facilitator(s): Rachel Schallom, Tyler Machado
+
+### Day & Time: Thursday, 12:30-1:30pm
+
+### Room: Thomas Swain
 
 
 All right, guys, if you could take your seats.

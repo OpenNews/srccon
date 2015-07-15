@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Closing Session
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,9 +10,11 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/closingplenary/index.html
 ---
 
+# Closing Session
 
-Day & Time: Friday, 5:30-6pm
-Room: Memorial
+### Day & Time: Friday, 5:30-6pm
+
+### Room: Memorial
 
 
 Thanks, Marty. He's on it. Thanks, everyone. SRCCON is over. I'm sorry.

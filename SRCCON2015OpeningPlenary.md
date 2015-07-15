@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Welcome to SRCCON!
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 sub-section: interior
 background: books
 byline: Nate Bolt
@@ -9,8 +9,11 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/openingplenary/index.html
 ---
 
-Day & Time: Thursday, 10-10:30am
-Room: Memorial
+# Welcome to SRCCON!
+
+### Day & Time: Thursday, 10-10:30am
+
+### Room: Memorial
 
   
 

@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: After the Altar Call—Maintaining Momentum, Community, and Inspiration Beyond Conferences
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/altarcall/index.html
 ---
 
+# After the Altar Call—Maintaining Momentum, Community, and Inspiration Beyond Conferences
 
-Session Facilitator(s): Kaeti Hinck, Millie Tran
-Day & Time: Friday, 4:30-5:30pm 
-Room: Ski-U-Mah
+### Session Facilitator(s): Kaeti Hinck, Millie Tran
+
+### Day & Time: Friday, 4:30-5:30pm 
+
+### Room: Ski-U-Mah
 
 
 Hey, everybody. How's it going?

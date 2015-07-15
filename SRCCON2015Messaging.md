@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Messaging is the New Browser—Telling Stories and Building Audience One Sentence at a Time
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,9 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/messaging/index.html
 ---
 
-Session Facilitator(s): Yvonne Leow, Michael Morisy
-Day & Time: Friday, 3-4pm
-Room: Thomas Swain
+# Messaging is the New Browser—Telling Stories and Building Audience One Sentence at a Time
+
+### Session Facilitator(s): Yvonne Leow, Michael Morisy
+
+### Day & Time: Friday, 3-4pm
+
+### Room: Thomas Swain
 
 
 So everyone's here for advanced emacs tips, right? Wars have been started. So everybody, this is, sort of, the new title is, "Messaging is the New Browser:  Telling Stories and Building Audience One Sentence at a Time." Hopefully that's what everybody's interested in. And so one of the things that Yvonne and I've been exploring in the past few months is sort of how can messaging be used in newsrooms so, sort of, better tell stories. How can we think if all you had was 140 characters texted directly, or all you had was WhatsApp, how could you sort of change the way that we communicate with our audiences. And so we sort of talk about how you can cover serious stories with a messaging app, how you can sort of crowdsource stuff and kind of what we settled on is a lot of stuff that's being done in the browser today is sort of being pushed to being smaller and more direct communications in messaging. And you see this a little bit in news but you also see this in e-commerce. Who's heard of the startup, Magic which is just sort of you text them, and you say, I want a burrito, and it will say, it's $40, is that okay? And you say, yeah, I work in Silicon Valley and I don't know the concept of money. And so the burrito comes, and they handle that. You don't have to download a browser, you don't have to download an app, and so this is a way for interrupters to come in and flow over other people's platforms and kind of build a business in really interesting ways.

@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Meeting The New York Times Challenge—Delivering the News Over HTTPS
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/newsoverhttps/index.html
 ---
 
+# Meeting The New York Times Challenge—Delivering the News Over HTTPS
 
-Session Facilitator(s): Paul Schreiber, Mike Tigas
-Day & Time: Thursday, 3-4:30pm
-Room: Minnesota
+### Session Facilitator(s): Paul Schreiber, Mike Tigas
+
+### Day & Time: Thursday, 3-4:30pm
+
+### Room: Minnesota
 
 Welcome, everyone. Stand up. Hi, I'm Paul.
 

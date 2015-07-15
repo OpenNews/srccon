@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Building Strong Journo-Tech Networks—Internationally
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/intlnetworks/index.html
 ---
 
+# Building Strong Journo-Tech Networks—Internationally
 
-Session Facilitator(s): Anika Gupta, Gabriela Rodriguez
-Day & Time: Thursday, 2-2:45pm
-Room: Minnesota
+### Session Facilitator(s): Anika Gupta, Gabriela Rodriguez
+
+### Day & Time: Thursday, 2-2:45pm
+
+### Room: Minnesota
 
 
 Testing.

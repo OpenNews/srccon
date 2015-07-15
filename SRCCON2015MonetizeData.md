@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: How Can We Best Monetize Data—And Do So Responsibly, Ethically and Without Sacrificing Journalistic Standards?
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/monetizedata/index.html
 ---
 
+# How Can We Best Monetize Data—And Do So Responsibly, Ethically and Without Sacrificing Journalistic Standards?
 
-Session Facilitator(s): AmyJo Brown, Ryann Grochowski Jones
-Day & Time: Friday, 3-4pm
-Room: Ski-U-Mah
+### Session Facilitator(s): AmyJo Brown, Ryann Grochowski Jones
+
+### Day & Time: Friday, 3-4pm
+
+### Room: Ski-U-Mah
 
 
 Hi everyone, welcome to the session, How Can We Best Monetize Data Responsibly, Ethically, And Without Sacrificing Journalistic Standards? My name is Ryann Grochowski Jones, I'm a data recorder at ProPublica in New York.

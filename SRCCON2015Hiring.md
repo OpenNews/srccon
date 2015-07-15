@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Recruiting and Hiring People, Not Wishlists
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,9 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/hiring/index.html
 ---
 
-Session Facilitator(s): Erika Owens, Helga Salinas, Ted Han
-Day & Time: Thursday, 4:30-5:30pm
-Room: Thomas Swain
+# Recruiting and Hiring People, Not Wishlists
+
+### Session Facilitator(s): Erika Owens, Helga Salinas, Ted Han
+
+### Day & Time: Thursday, 4:30-5:30pm
+
+### Room: Thomas Swain
 
 
 So I think there are still folks grabbing their caffeine and snacks, so we'll probably wait a couple more minutes and then get started.

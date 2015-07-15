@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Every Part of the Pig—How Can We Make Better Use of Reporting in Long Investigations?
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,9 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/structuredreporting/index.html
 ---
 
-Session Facilitator(s): Chris Amico
-Day & Time: Thursday, 3-4pm
-Room: Ski-U-Mah
+# Every Part of the Pig—How Can We Make Better Use of Reporting in Long Investigations?
+
+### Session Facilitator(s): Chris Amico
+
+### Day & Time: Thursday, 3-4pm
+
+### Room: Ski-U-Mah
 
 
 The session will start in five minutes.

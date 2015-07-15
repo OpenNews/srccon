@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Taking Web Accessibility Beyond Assumptions
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,9 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/webaccessibility/index.html
 ---
 
-Session Facilitator(s): Ryan Murphy
-Day & Time: Thursday, 3-4pm
-Room: Thomas Swain
+# Taking Web Accessibility Beyond Assumptions
+
+### Session Facilitator(s): Ryan Murphy
+
+### Day & Time: Thursday, 3-4pm
+
+### Room: Thomas Swain
 
 
 Hello, everyone, thank you for coming to our little chat today. My name is Ryan Murphy, I'm a developer at the Texas Tribune, and I originally pitched this because it's something that—accessibility—that is increasingly become kind of a bigger focus for me personally. I will point out that I am very new to this myself, and so it's important, you know, as all of the SRCCON kind of discussions that we're having, that this is a conversation. And, you know, I think that the goal for this is to kind of just encourage more mindfulness in what we're doing, and, you know, be sure that, you know we have something that we can kind of take away from our conversation to take back to our newsrooms and to the work that we're doing.

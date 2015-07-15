@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Lightning Talks
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,9 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/lightningtalks/index.html
 ---
 
-Session Facilitator(s): Kaeti Hinck, Alan Palazzolo
-Day & Time: Thursday, 7-8pm
-Room: Johnson
+# Lightning Talks
+
+### Session Facilitator(s): Kaeti Hinck, Alan Palazzolo
+
+### Day & Time: Thursday, 7-8pm
+
+### Room: Johnson
 
 
 Hello?

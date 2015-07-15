@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Merge Branch—Imagining New Version-Control Systems for Writers and Editors
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,9 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/writersversioncontrol/index.html
 ---
 
-Session Facilitator(s): David Yee, Blaine Cook
-Day & Time: Friday, 12:30-1:30pm
-Room: Ski-U-Mah
+# Merge Branch—Imagining New Version-Control Systems for Writers and Editors
+
+### Session Facilitator(s): David Yee, Blaine Cook
+
+### Day & Time: Friday, 12:30-1:30pm
+
+### Room: Ski-U-Mah
 
 
 

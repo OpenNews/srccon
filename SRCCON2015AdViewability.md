@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Ad Viewability is Coming and You Should Care
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,12 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/adviewability/index.html
 ---
 
+# Ad Viewability is Coming and You Should Care
 
-Session Facilitator(s): Josh Kadis
+### Session Facilitator(s): Josh Kadis
 
-Day & Time: Friday, 11am-noon
+### Day & Time: Friday, 11am-noon
 
-Room: Ski-U-Mah
+### Room: Ski-U-Mah
 
 
 

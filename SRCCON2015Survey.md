@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Journo-Nerd Survey—Help Us Ask Good Questions
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/survey/index.html
 ---
 
+# The Journo-Nerd Survey—Help Us Ask Good Questions
 
-Session Facilitator(s): Brian Hamman, Scott Klein
-Day & Time: Friday, 4:30-5:30pm
-Room: Memorial
+### Session Facilitator(s): Brian Hamman, Scott Klein
+
+### Day & Time: Friday, 4:30-5:30pm
+
+### Room: Memorial
 
 
 We're going to go ahead and get started.

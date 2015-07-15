@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: A Newsroom Nadsat—How to Build Better Newsrooms with Better Language
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/newsroomnadsat/index.html
 ---
 
+# A Newsroom Nadsat—How to Build Better Newsrooms with Better Language
 
-Session Facilitator(s): Lena Groeger, Aurelia Moser
-Day & Time: Thursday, 11am-noon
-Room: Ski-U-Mah
+### Session Facilitator(s): Lena Groeger, Aurelia Moser
+
+### Day & Time: Thursday, 11am-noon
+
+### Room: Ski-U-Mah
 
 
 The session will start in 20 minutes!

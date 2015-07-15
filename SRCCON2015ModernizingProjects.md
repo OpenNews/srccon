@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Bringing Modern Development Processes to Monolithic Projects
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/modernizingprojects/index.html
 ---
 
+# Bringing Modern Development Processes to Monolithic Projects
 
-Session Facilitator(s): Andrew Nacin, Adam Schweigert
-Day & Time: Friday, 12:30-1:30pm
-Room: Minnesota
+### Session Facilitator(s): Andrew Nacin, Adam Schweigert
+
+### Day & Time: Friday, 12:30-1:30pm
+
+### Room: Minnesota
 
 
 The session will start in 20 minutes.

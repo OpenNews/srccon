@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: The Past of the Future, Today
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,10 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/webarchiving/index.html
 ---
 
+# The Past of the Future, Today
 
-Session Facilitator(s): Daniel McLaughlin
-Day & Time: Friday, 4:30-5:30pm
-Room: Minnesota
+### Session Facilitator(s): Daniel McLaughlin
+
+### Day & Time: Friday, 4:30-5:30pm
+
+### Room: Minnesota
 
 
 The session will begin in ten minutes.

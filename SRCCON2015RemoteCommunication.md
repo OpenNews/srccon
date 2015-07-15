@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Figuring It Out—Remote Communication
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,9 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/remotecommunication/index.html
 ---
 
-Session Facilitator(s): Stephanie Yiu, Davis Shaver
-Day & Time: Thursday, 11am-noon
-Room: Thomas Swain
+# Figuring It Out—Remote Communication
+
+### Session Facilitator(s): Stephanie Yiu, Davis Shaver
+
+### Day & Time: Thursday, 11am-noon
+
+### Room: Thomas Swain
 
 
 Hi, guys. Hi friends. Thanks for joining us today. My name is Steph Yiu. I work at WordPress.com.

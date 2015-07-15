@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Session transcripts
-subtitle: Let's Stop Worrying and Let Our Reporters Make Their Own Graphics
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
 section: docs
 sub-section: interior
 background: books
@@ -10,9 +10,13 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/transcripts/reportergraphics/index.html
 ---
 
-Session Facilitator(s): David Yanofsky, Becky Bowers
-Day & Time: Friday, 12:30-1:30pm
-Room: Thomas Swain
+# Let's Stop Worrying and Let Our Reporters Make Their Own Graphics
+
+### Session Facilitator(s): David Yanofsky, Becky Bowers
+
+### Day & Time: Friday, 12:30-1:30pm
+
+### Room: Thomas Swain
 
 
 Hello. I'm David Yanofsky. I'm a reporter at Quartz.
