@@ -297,7 +297,7 @@ Aww.
 There are those two dudes from Argentina.
 
 
-Yeah. I mean... We hate them over in Brazil. We hate them. We have a wider variety of sessions going on simultaneously. So that they don't overcrowd. Right? That's it.
+Yeah. I mean... [making a soccer joke] We hate them over in Brazil. We hate them. We have a wider variety of sessions going on simultaneously. So that they don't overcrowd. Right? That's it.
 
 
 That's great. That was lovely. All right.
