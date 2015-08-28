@@ -56,6 +56,20 @@
         "transcription": ""
     }, 
     {
+        "day": "Thursday", 
+        "description": "It's the SRCCON House Party! We'll have several rooms with different themes and activities:\n\n### Game Room\n* **When:** all evening\n* **Where:** Memorial\n* **Facilitators:** Tiff Fehr, Joe Germuska, Sisi Wei\n\nBoard games, card games, story games--we'll have plenty to choose from. Bring your own to share and play.\n\n### Lightning Talks\n* **When:** 7-8pm\n* **Where:** Johnson\n* **Facilitators:** Kaeti Hinck, Alan Palazzolo\n\nListen to people talk about their projects and passions in five-minute bites.\n\n### Evening Walk\n* **When:** 7-8pm\n* **Where:** Meet up near the stage in Memorial, then head outside\n* **Facilitator:** Will Lager\n\nGet outdoors for some fresh air and a guided walk along the river.\n\n### Hack Space and Demo Fair\n* **When:** 8-9pm\n* **Where:** Heritage\n* **Facilitator:** Justin Myers\n\nThis room will be open all evening for anyone who wants to talk about hacker/maker/craft projects. Have a new app that's ready to demo, or a neat project to show off? We'll have a SRCCON Show & Tell here starting at 8pm.\n\n### Book Share\n* **When:** 8-9pm\n* **Where:** Ski-U-Mah\n* **Facilitator:** Adam Schweigert\n\nCome talk about books that are important to you, professionally or personally. Bring a copy to give away, and take something new home with you.\n\n### Quiet Workspace\n* **When:** all evening\n* **Where:** Thomas Swain\n\nA place to check out if you need a break from the day's activities and conversations.", 
+        "everyone": "1", 
+        "id": "5", 
+        "leader": "", 
+        "length": "", 
+        "room": "see event detail", 
+        "scheduleblock": "thursday-evening", 
+        "time": "7-9pm", 
+        "title": "Evening sessions", 
+        "transcript": "", 
+        "transcription": "SRCCON2015LightningTalks"
+    }, 
+    {
         "day": "Friday", 
         "description": "", 
         "everyone": "1", 
@@ -82,6 +96,20 @@
         "title": "Lunch at SRCCON", 
         "transcript": "", 
         "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
+        "description": "This is it. We promise no group sing-along, but we don't promise not to shed a tear or two (probably because we'll be really tired). Help us close out SRCCON and set the stage for what happens next.", 
+        "everyone": "1", 
+        "id": "8", 
+        "leader": "", 
+        "length": "", 
+        "room": "Memorial", 
+        "scheduleblock": "friday-evening", 
+        "time": "5:30-6pm", 
+        "title": "Closing", 
+        "transcript": "", 
+        "transcription": "SRCCON2015ClosingPlenary"
     }, 
     {
         "day": "Thursday", 
@@ -434,20 +462,6 @@
         "transcription": ""
     }, 
     {
-        "day": "Thursday", 
-        "description": "It's the SRCCON House Party! We'll have several rooms with different themes and activities:\n\n### Game Room\n* **When:** all evening\n* **Where:** Memorial\n* **Facilitators:** Tiff Fehr, Joe Germuska, Sisi Wei\n\nBoard games, card games, story games--we'll have plenty to choose from. Bring your own to share and play.\n\n### Lightning Talks\n* **When:** 7-8pm\n* **Where:** Johnson\n* **Facilitators:** Kaeti Hinck, Alan Palazzolo\n\nListen to people talk about their projects and passions in five-minute bites.\n\n### Evening Walk\n* **When:** 7-8pm\n* **Where:** Meet up near the stage in Memorial, then head outside\n* **Facilitator:** Will Lager\n\nGet outdoors for some fresh air and a guided walk along the river.\n\n### Hack Space and Demo Fair\n* **When:** 8-9pm\n* **Where:** Heritage\n* **Facilitator:** Justin Myers\n\nThis room will be open all evening for anyone who wants to talk about hacker/maker/craft projects. Have a new app that's ready to demo, or a neat project to show off? We'll have a SRCCON Show & Tell here starting at 8pm.\n\n### Book Share\n* **When:** 8-9pm\n* **Where:** Ski-U-Mah\n* **Facilitator:** Adam Schweigert\n\nCome talk about books that are important to you, professionally or personally. Bring a copy to give away, and take something new home with you.\n\n### Quiet Workspace\n* **When:** all evening\n* **Where:** Thomas Swain\n\nA place to check out if you need a break from the day's activities and conversations.", 
-        "everyone": "1", 
-        "id": "5", 
-        "leader": "", 
-        "length": "", 
-        "room": "see event detail", 
-        "scheduleblock": "thursday-evening", 
-        "time": "7-9pm", 
-        "title": "Evening sessions", 
-        "transcript": "", 
-        "transcription": "SRCCON2015LightningTalks"
-    }, 
-    {
         "day": "Friday", 
         "description": "Sometimes, the thing a beginner needs to grasp a concept is a simple analog. For instance, I taught a class in data visualization and one of the early classes was using LEGO to visualize data. There are all sorts of code concepts and data concepts that students -- from university courses to workshops -- struggle to grasp. What if we came up with a list of goofy, hands on ways to teach concepts that others could steal. How could you teach loops by making people run around a room? Or filtering? Or basic algorithms? Or visualization concepts? By making new concepts memorable for beginners, we stand a much better chance of spreading knowledge. Come throw out your ideas.", 
         "everyone": "", 
@@ -754,20 +768,6 @@
         "title": "Journo-Nerd Survey: Help Us Ask Good Questions", 
         "transcript": "", 
         "transcription": "SRCCON2015Survey"
-    }, 
-    {
-        "day": "Friday", 
-        "description": "This is it. We promise no group sing-along, but we don't promise not to shed a tear or two (probably because we'll be really tired). Help us close out SRCCON and set the stage for what happens next.", 
-        "everyone": "1", 
-        "id": "8", 
-        "leader": "", 
-        "length": "", 
-        "room": "Memorial", 
-        "scheduleblock": "friday-evening", 
-        "time": "5:30-6pm", 
-        "title": "Closing", 
-        "transcript": "", 
-        "transcription": "SRCCON2015ClosingPlenary"
     }, 
     {
         "day": "Friday", 
