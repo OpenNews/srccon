@@ -27,17 +27,14 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 </head>
 <body class="{{ page.section }} {{ page.sub-section }}">
   <header class="{{ page.background }}">
+
     <div id="headertop">
       <div class="container">
-        {% if page.title != 'Join us for SRCCON' %}
-          <a href="/" id = "cornerlogo"><img src="/media/img/2015/corner_logo.png"></a>
-        {% endif %}
         <nav class="navigation">
           {% include 2015_navigation.html %}
         </nav>
       <div id="headbox">
         {% if page.title == 'Join us for SRCCON' %}
-          <img src="/media/img/2015/srccon15_logo.png" class="makethelogobigger">
           <h3 class="homepage">{{ page.eventdate }}</h3>
           <h4 class="homepage">{{ page.subtitle }}</h4>
         {% else %}
@@ -54,6 +51,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   {% endif %}
 </header>
 <div class="container">
+  <a href="/" id = "cornerlogo"><img src="/media/img/2015/corner_logo.png"></a>
+
     <div id="contentbox">
       {{ content }}
     </div>
