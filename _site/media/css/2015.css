@@ -981,6 +981,11 @@ td {
         margin: 0 2em;
         right: auto;
     }
+
+    footer #sponsorbox:after {
+          left: 45.5%;
+    }
+
     #contentbox, #headbox {
         right: auto;
     }
@@ -1142,6 +1147,23 @@ td {
     #headbox h4.homepage {
         font-size: 1.2em;
     }
+    #headertop {
+      background-color: white;
+    }
+    nav.navigation li a {
+      color: black;
+    }
+    header nav {
+      float: none;
+    }
+    header {
+      background-position: 0 0px;
+    }
+    #headbox h3.homepage {
+    font-size: 1.3em;
+    margin-top: 25px;
+    }
+
 }
 @media screen and (max-width: 480px) {
     p, body.interior #contentbox li, ul.homepage li p, .homepage .buttontext p, .homepage p.bottomrun  {
