@@ -320,7 +320,7 @@ ul.homepage li:last-child {
   padding-bottom: 0px;
 }
 
-#contentbox, footer .container, .innercontainer {
+#contentbox, footer .container {
   max-width: 760px;
   margin-left: auto;
   margin-right: auto;
@@ -329,9 +329,12 @@ ul.homepage li:last-child {
 }
 
 .innercontainer {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
   padding: 20px 0px;
   padding-top: 10px;
-  padding-left: 22px;
+  padding-left: 12px;
 }
 
 
@@ -534,7 +537,7 @@ footer #sponsorbox {
   margin: 20px auto;
   height: auto;
   background: #b9acac;
-  background-size: 1500px;
+  background-size: cover;
   max-width: 1500px;
   margin-bottom: 50px;
   margin-top: -100px;
@@ -558,17 +561,7 @@ footer #sponsorbox:after {
       background: #b9acac;
 }
 
-footer #sponsorbox:before {
-      content: '';
-      position: absolute;
-      width: 70px;
-      height: 35px;
-      z-index: 1;
-      border-radius: 0 0 35px 35px;
-      left: 48%;
-      margin-left: -25px;
-      background:#f9dcdc;
-}
+
 
 
 footer #sponsorbox ul {
@@ -980,8 +973,9 @@ td {
       line-height: 1.6em;
     }
 
-    .innercontainer {
-      max-width: 80%;
+      .innercontainer {
+        padding-left: 2em;
+        padding-right: 2em;
     }
     footer .container  {
         margin: 0 2em;
@@ -1035,6 +1029,15 @@ td {
       float: right;
       margin-right: -130px;
       margin-left: 25px;
+    }
+
+    div.pink {
+      width: auto;
+      background-size: cover;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      margin-left: -2em;
+      margin-right: -2em;
     }
 
     footer #sponsorbox .four div#sponsors ul li.lead img {
