@@ -1,0 +1,243 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: books
+byline: Nate Bolt
+bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-4VkeqM-4VpqGm-4VkcGz-4Vpr1S-4Vken4-fmXRof-2YtFPR-fmHB44-dFxkXG-7yv4t7-4VnnAn-5A3XSn-4Vnnmv-4VnnqK-9uup4n-4Vnnv6-3ViP2v-4VnngF-4VkgVa-4VkeuZ-4Vkg5R-4VpmbC-4VpnDu-4Vk9rK-4VpqRL-4VpsPb-4VpuU3-4Vkf5D-4Vkdj6-4Vk8uc-b1TXEz-4VkhcX-mF5DPa-fmHXAB-r8mgB3-s5i4Mz-7i3R7t-og8qB5-fmXSCf-7i7Ky9-92YNnD-fmHDut-5C51hV-rMM8b3-k639ok-8FDPAB-apFhiP-rL2vRV-4VptiN
+permalink: /docs/transcripts/newsroomnadsat/index.html
+---
+
+# A Newsroom Nadsat—How to Build Better Newsrooms with Better Language
+
+### Session Facilitator(s): Lena Groeger, Aurelia Moser
+
+### Day & Time: Thursday, 11am-noon
+
+### Room: Ski-U-Mah
+
+
+The session will start in 20 minutes!
+
+
+The session will start in ten minutes!
+
+
+The session will start in five minutes!
+
+
+So if you want to put up the live transcript, you can make it any size you want. And you can increase the font size as well. Just so it's more visible. Awesome.
+
+
+We will wait until...
+
+
+We also have these mics! So many mics. Jeez!
+
+
+The Etherpad will be how we will be conducting the whole thing.
+
+
+So I should get out a computer.
+
+
+Please take out your computers.
+
+
+There will be less markers, unfortunately. But feel free to use the markers.
+
+
+The cool thing about Etherpad is that it's all in the same place. Post its are fun, but someone has to transcribe that. Plus we get to know all your names. There's a roll call section in the center where you can add your handle and your name.
+
+
+And we have the live stream up, so we can be very... Meta about this session.
+
+
+Woo-hoo!
+
+(laughter)
+
+
+Awesome!
+
+
+That will be distracting for a little bit. So yeah, this is the Etherpad, if everybody wants to go there. We've added a bunch of notes and stuff already that we will hopefully be fleshing out today. I'm not sure if everyone is familiar with Etherpad. If you've been on the OpenNews calls, they conduct those via Etherpad. It's great because everybody has a color when you log on, so all the text that you add will be colored and related to you. But you can also use a fake name if you feel uncomfortable submitting things. It's just nice to know, to see how collaborative documents are built in realtime. So there's a section in the center, if you just joined, where you can put your name and your affiliation and your Twitter handle. So that we have, like, a little record of who wrote what. You can also change your color, too, if you click on the... If you don't like the brown default that they gave you. I know there's a lot of brown. So I'm just saying that. But you can also like brown. You're allowed to like brown. But you can change it by clicking on a square and clicking on the color on the rainbow, or adding a hex, I think.
+
+
+Cool. So while people are doing that, I guess we'll introduce ourselves. My name is Lena Groeger, I'm a news app developer at Pro Publica. We make news apps and things. I'm interested in this topic because at Pro Publica, and in the news nerd community, this issue of diversity in the newsroom comes up a lot, and it's a huge topic, and we definitely cannot do everything in an hour, but focusing in on kind of language and written standards is something that I think seems like a sort of SRCCON-esque feasible kind of topic. We can create some guidelines. We can create something tangible here that we leave with that can be useful in this small kind of area of building inclusive newsrooms, both kind of in newsroom practices and hiring and that kind of stuff, and also in stories, and what that looks like. So that's what I'm here for.
+
+
+Totes. And my name is Aurelia Moser. I work at Carto DB, so I do a lot of mapping software development stuff, but before that, I worked in journalism. So I was at SRCCON last year because I was a news fellow. We know each other from a lot of things but also from news. One of my favorite things about Etherpad, just to make a comment, when people correct each other's grammatical errors, it's kind of hilarious, because the color changes. So you can change teh to the. So CeCe capitalized Pro Publica. So you should totally feel free to let loose with your grammatical constructive criticism. So the name you might have been wondering about. Newsroom Nadsat. Hopefully we attracted some people with the weird name. Nadsat is the fake slang language in Anthony Burgess's Clockwork Orange. It's a language used by a group of people who aren't the greatest, if you've ever read the story. But the point is that vocabularies are kind of mutable, and there's a lot of words that people feel uncomfortable using. Not just in the newsroom but outside in different spaces that we need to get comfortable using and get comfortable talking about and conversing about intelligently. So we set up a little—we actually set up quite a bit of text, because we're pretty—like typing kind of gals. So there's a lot going on in this Etherpad. But we have an introduction and the basic outline for what we're going to talk about, and then we have bucketed sections for typical situations you might encounter in the newsroom, like when you're posting a job or you're interviewing people and you have to deal with... You want to deal with the maximally inclusive language that you could use. And you want to attract a diverse group of people, and then there's also other sections for what you do in the workplace, and how do you develop stories that are sensitive to that same kind of vocabulary. And our hope was that we would walk away with a lot of resources contributed by everybody in the room, from stories much read or places where you've seen that this is done quite successfully, or not successfully, and then we can make, like, a little website that would be a resource for newsrooms, so that they could look at this when they're hiring and constructing their job offers and that kind of thing.
+
+
+Yeah. And so for each of these—I guess we'll kind of quickly go through these four—we kind of broke it up into four tackle-able sections. So we'll kind of briefly describe what we mean by each one and then break up into four groups, and we'll I think randomly assign, like, count off—people can be in random groups. But if you feel very strongly about being in a particular group, you are allowed to switch. We just want to make sure that all of these four kind of sections get covered kind of equally. So do you want to do the first one?
+
+
+Sure. So posting and recruiting. I included some links, and there's a little general introduction you can skim there. I included a reference to a DefCon posting which was really inappropriate. There's a site called Geek Feminism, that talks about feminism but also inclusive language in general. And they have a lot of examples of Reddit posts and places where people are particularly insensitive to inclusive language and welcoming diverse communities. So structuring your job post to be attractive to females, trans, and people who require accessibility accommodations—it's important to know how to do that and to know how to do it gracefully. So I have a couple of sections there, and then some suggestions from an article. I included a bunch of references at the end to articles that have already discussed this. So if you want to learn more—but it includes both language that's used in job postings, languages, when reaching out to people specifically—so often you'll see tweets, for example, where they'll be like—females welcome. Here's a link to a job posting. And there are different ways to do that. And ways that don't feel like you just are trying to meet your girl quota. So yeah. That's part of what this is about. And then how to respond to emails. One of my favorite life hacks or something that I just started doing last year—I had this new year's resolution to make every interaction online maximally productive. So every time you send an email there should be a reason or some way that you can transform even robot emails into something productive. So when I get recruiter emails, I'm usually pretty happy at my job. I wouldn't be there if I wasn't. When I got recruiter emails, I used to just delete them. I think a lot of people do that by default. But I like to respond now with something that I want changed in the system. Because if you ask a recruiter to ask their boss about something—I ask what is their policy on transgender health, because it doesn't lose me anything. And if they go back and talk to their boss and they don't have that, and enough people ask about that, they'll develop one. That's a cool sort of life hack.
+
+
+I do something similar with recruiter emails. I write back and ask them about the diversity of their team and their senior leadership and if they have people who are not white or Asian men. And I had someone who sent it to a women in tech list and there was general approval. I do that a bunch. Sometimes I get a serious reply, where they actually get into it, and sometimes they just don't care. But I really like your idea of taking this thing that would otherwise go in the trash and at least forcing them to think for 30 seconds about the issue.
+
+
+Please add that.
+
+
+Put it in a sample email. What we want to have at the end for each of these sections, for posting—are here are specific sentences you could include. Here are a list of words like ninja or... Wizard that you should maybe not include in your postings. We want to have very tangible kind of examples. And even cards or something that people can look at. So definitely add that if you have specific language that you've used in an email that could be helpful.
+
+
+Yeah. And it's different for diverse teams that expand beyond the domestic US, for example. Our team is half in Madrid and half here, and sometimes things that are totally okay to say in Spain are, like, totally not okay to say in the States. And we always do a collaborative proofread of everything that goes up online, on our website or in a job posting, just to make sure that everybody is okay both from a diversity but also a cultural diversity perspective. Right. So that's that section. That's section one.
+
+
+So section two is sort of switching to less written words and more verbal words. Talking about—interview questions. And the hiring process. So this one article that I would definitely recommend—it's written by a recruiter at Google—she kind of talks about a lot of studies and stuff that is basically—when we do these very unstructured interviews, we make judgments about people within the first ten seconds and then basically the rest of the interview is trying to confirm what we had already decided in the first ten seconds. So in order to conduct interviews where you're giving somebody a fair chance to demonstrate their skills and qualifications for the job and you haven't sort of decided beforehand, this article is very explicit about a structured interview and not—like, basically asking the same questions to everyone. And not leaving it up to these sort of vague, like, tell me about yourself—or like these brain teaser types of questions, which basically tell you nothing about a candidate's ability to do the job. And it ends up being like—oh, you're from Chicago? Like, cool. My Grandma—and that kind of stuff is not at all relevant to actual—to jobs and just basically enforces—we like people like us and are familiar and remind us of ourselves. So to kind of get out of that, I've put in a bunch of—kind of some sample questions of what this person at Google thinks are good questions, that would get relevant responses, or relevant to how they would actually do their job. But I'm curious too—like, this is for Google, but in terms of—in a journalistic context, what are those sorts of questions that we should—that should be asked? If you guys can think of those. And other kinds of things that are sort of related to interviews. Like who does the interview. Is it always the same person? Is it maybe a team of people? And if you're interviewing a woman, do you want to also have a woman interviewer? That kind of thing is sort of in this section. And so yeah—so those we've kind of put in already. Got started with some suggestions. That's number two. I think it's more self-explanatory.
+
+
+Number three is workplace and conferences. Which is kind of meta, because we're in a conference, talking about conferences. But Erin talked a lot about the code of conduct at SRCCON, and everybody is developing codes of conduct for their website, and for Girl Development, we have it for our curriculum, curriculum share online, and conferences usually have a section for code of conduct. But how do you write one when you're planning a conference or you're planning an event? There are templates there with some examples of particularly good ones, but I would love to have more. A better little library of codes of conduct examples. So if you know of any, just put in the links. And there's also just general management and maintenance of a team. Maintaining a safe space for everybody, even after they're hired and they're onboarded, and how do you ideally construct that? Flat structure is pretty popular now, in terms of how development teams are run. The idea that there is no management or hierarchy, until you grow to a certain size and then there has to be management and hierarchy and everybody feels like the company is breaking down. But flat management can be very cagey for diverse teams, because of differences in terms of competence and where they fall and where their peers treat them is an important thing to consider. So I have some examples there too at the end. From The Ada Initiative. And different codes of conduct. JSConf actually has a pretty cool template one that they let you kind of fork and share in your codes... And alter for whatever your conference situation might be. But I would love to have more. So if you know of any really cool ones, that would be awesome.
+
+
+Cool. And then the last one—this one is a little sort of more broad, in terms of—it's not necessarily specific words or specific terms or language. But more about having kind. A written standard process or guidelines or a checklist or something for things to do before you publish a story. So the one kind of example I think that got a lot of journalists talking about this sort of thing was the Grantland piece about Dr. V. I don't know if you guys are familiar with that, but basically the reporter in reporting out this story found out that this was actually a transsexual person, that he was covering and writing about, and revealed that to someone else in the course of his reporting, without really consulting at all, and later that... Dr. V committed suicide. Anyway, it was a big scandal, but kind of got people thinking—what if there had been a transgender person on the staff? Would that have made a difference?
+
+
+They had a transgender person on the staff but didn't consult with them.
+
+
+Okay. So in all these cases—sure. We can't necessarily know that—right, if they had consulted it would have all turned out differently and there are many things that went wrong in the course of that story that may or may not have been fixable. However... I do think it got a lot of people thinking about—okay, what are the kind of check points we have in place before publishing a story that may be... In terms of you're covering worker's compensation, and it turns out that actually a lot of workers who get injured happen to be minorities. Are we going to try to include an example in our story? Or are we only going to cover white men? Right? So things like that, when you're covering certain populations, I think there's a sort of empty space that we could probably fill with—like, here are the people you should consult. The questions you should ask. And that could be standard for any story, but it's specifically targeted to protecting underrepresented groups and that kind of thing. So what would that look like? And so I've put in a bunch of sort of topics that this could include, sort of people to consult. What examples—thinking about, like, how are you going to represent a topic in your story? In terms of who you interview, and that kind of thing. Sources, also, for a story. Like, do you call up the male scientist every time, or try to get different perspectives? So in this case, it's not specific words, but it's more of a checklist. And I actually think this wouldn't be too difficult to put together. Here are the top ten things you should do before publishing any story, keeping these considerations in mind. We have some other things about, like, accessibility and color and icons and stuff like that. So yeah. Those are our four sections. Does anybody have any questions about each one? One of them super confusing? No?
+
+
+Feel free to raise your hand whenever. Or just add it to the chat.
+
+
+I don't know what this means.
+
+
+I don't have Twitter open, so don't tweet anything. But the chat is there and it's awesome. And there's also a section at the end of some examples we pulled together of what to do, and what not to do. There's some Github repos that were recently released as scandalous, because their readmes were particularly inappropriate for welcoming contributors from diverse communities. And it's something to think about too, just outside of your stories and publications. A lot of newsrooms are Open Sourcing code, and the way they construct their contribute markdown or the way they talk about the people they want to contribute to their community, which is ideally everybody—that might come across in your repo. You should also think about how this vocabulary kind of transitions to those different spaces. And then there's a bunch of reference examples. And look. Someone added one. Yay! Yay, someone! And then at the end, like I said, we kind of want to make something productive out of this. We want to make a little website that summarizes all of these findings and things and checklists and advice. So we have some ideas, some kind of designy examples of just reference sources for different projects that I've used, for my work stuff. Not really the airport codes one, but it's still a really cool site. But we'd like to make something that builds on top of these, or has, like, a similar simplicity and look and feel. So if you have other examples of resources and reference sources that you go to often, because they are so well designed, please put those there. Right. So we can do the countoff, maybe.
+
+
+All right. Or do we want to do just tables? Is that easier? So people don't move around, or what?
+
+
+Yeah, sure. Let's do tables.
+
+
+If you're at a large table and want to move to a less populated table, feel free to do that. Maybe let's make four tables and go like... One, two, three, four, in terms of the different sections? Does that sound good? If anybody feels very strongly, you're allowed to switch tables. But also you are allowed to put resources to any of these groups. We just want to have at least people thinking about each section. Enough people. So... Yeah. That's what the rest of our time will be.
+
+
+Can you go over which table is which topic?
+
+
+Number one, you guys are... Is number one on here. So posting and recruiting. Number two is hiring interviews, number three is workplace conferences, and number four is content work stories.
+
+
+Is there anything we're missing too? A splinter group that wants to go rogue and do its own thing?
+
+
+Feel free to add something. And we'll just wander around and chat with you guys. Okay.
+
+
+We turned into three groups.
+
+
+I was at the table all by myself.
+
+
+Wait. So what are you guys... So it's two, three, four?
+
+
+I think one and two can be a topic.
+
+
+Okay.
+
+
+If you want to add stuff... And anyone feel free to add stuff to anyone.
+
+
+Hiring/interviews. It could be one thing.
+
+
+We are open to change. That is okay.
+
+(breakout sessions)
+
+
+
+
+Okay. Hey, everybody! So thanks so much for your great conversation. We're going to reconvene and have everyone report back to the group. And I would like to remind you that there is a roll call in the Etherpad. And if you have not mentioned your name, Francis, it would be great if you could do that, so we have a record of your attendance and contributions. There's also a beautiful rainbow going on in there and it would be great if you could pick something that matches the rainbow. An attractive color. Just for my own sanity. That would be great.
+
+
+Right. So first group, who wants to stand up and say what you guys worked on? Or what you maybe added to the Etherpad of interest in particular?
+
+
+We won't make you stand. We can still hear you.
+
+
+You can shout. We also have all these mics, if you want a mic.
+
+
+I'm Peter. I have been asked to represent our group. We talked about both topics, all related to inviting people to work with us. And so this was about posting and recruiting and interviewing. I enjoyed our conversation. I would just like to go on the record as saying that.
+
+
+It's official.
+
+
+We talked quite a bit about what feels good about reading a post, a job posting, and what doesn't. The words HR and boilerplate came up quite a bit. We talked about some of the intricacies and difficulties of dealing with the lack of or presence of HR folks in a company. Depending on the size of the company and how long it's been around and whether there's HR folks or not. I had said specifically that having worked in a larger company, where I hired people, that it would have been super helpful for me, as a new manager, to have had resources about how to write job—how to do all the things that we talked about. And almost more importantly, some resource for how do I talk to my HR department about ways that they could do their jobs differently, to help me help them? What am I forgetting?
+
+
+We talked a bit about how the job ad isn't the only problem, of course. And that it needs to connect with everything else in the other discussions that we're having. And also that you can't walk into a community that is—has a different range of people to that which you are normally part of and say give me your best people. Which I feel happens sometimes. Oh, here's a group of people of color who code. Great. Come in and give me the top coders and take them out. Because if you're not an active part of that community and you're not contributing to it, there's no reason to expect any success and you're not helping that community and you're not helping solve the problem for anybody else in the future.
+
+
+Can I just piggyback on that? Just as a general peeve? Because I'm involved with AJA and we get that a lot. Who are some really good Asian-American whatever. Broadcasters, whatever. Because we have a Facebook group. You can be posting those job postings on there. You don't have to send it to me. I'm happy to be a rep, but there are so many ways for people to be actually engaged in those communities that they don't need to always be passing... I guess making me the messenger.
+
+
+Giving you the labor to do.
+
+
+It's just so interesting. I don't know what the hurdle is. Maybe it's just time to be engaged in those communities. And it's just easier that way sometimes to kind of spread it out like that. But I think that's a valid point.
+
+
+Yeah, it's work.
+
+
+At the bottom of the post—the disingenuous slide?
+
+
+Sometimes job postings have a boilerplate feel and you're reading through something that's dry and boilerplate and you get is to that line that's like—minorities encouraged to apply. It's tacked on as an afterthought. It's not the most inviting thing. A lot of companies fall back on that boilerplate.
+
+
+So hopefully we'll have enough resources to have a bunch of examples of what should—what that language should look like and how it cannot be totally boilerplate. So that's kind of one idea to come out of this. Is that we'll have a lot of good examples of ways to phrase that. Okay. Cool. Table number two or topic number two? Do you guys want to...
+
+
+Okay. So...
+
+
+We're number three, actually.
+
+
+That's right. Table two, topic three.
+
+
+We had some interesting discussions about conferences and workshops and workplaces, generally. One interesting thought was just... I mean, for a lot of us who have gone conference hoping, SRCCON seems to be the first one to really explicitly lay out the codes of conduct right off the bat. And then also stated that this is something that goes on 24/7. So conferences usually run 9:00 to 5:00. What happens afterwards at the bar, whose jurisdiction is that under, and SRCCON has owned it, by making that hotline available and things like that. So I thought that was really interesting. Making codes of conduct more effective—even from conferences, there's also the workplace. I think it was mentioned that there aren't a lot of slogans for saying how to treat co-workers as taking care of one another, which is something that SRCCON has stated. That there's probably not something like that in the workplace. While there are training programs for onboarding, we discovered at various companies, like ESPN, Dow Jones, it's never digestible in a way that's written for humans. People just check the box and move on. So I think making that much more relatable and colloquial is an easy way of getting people to really internalize it. We kind of talked about job descriptions too. To be honest. And how that does matter. Not even just saying minorities should apply, but seeing... You know, Asian-American, women, transgender, actually seeing those terms being laid out explicitly makes you just connect and identify with it. And also—in technology, just job descriptions too. Not putting unicorn, wizard, magical powers, or any type of... Maybe you can talk a little bit about that too. It just kind of deters people from all backgrounds.
+
+
+I told a story. My previous employer was a non-profit. And we had a tech job description out and it was written by someone who was a woman and semi-technical and they described it as—we want a tech ninja. I had to speak against it. So it's not always the stereotypical frat boy who's putting this language in. You need to watch out for it. And I don't see anybody who actually likes this stuff. It doesn't benefit anyone. So don't put the ninja rock star language in. It's dumb. Just excise it.
+
+
+Am I missing anything?
+
+
+I don't think so. I think that the larger the cooperation you are, the more that there's lawyers involved, and there's boilerplate, as they said, but it makes you maybe want to go back to your place and have an employee type of safe conduct built around and then approach, maybe, the HR department and say—we'd like to rewrite this in ways that are just more welcoming to people.
+
+
+Cool. All right. And with our three minutes left... Last table?
+
+
+Um... So yeah. So we were talking about content work and stories. And we talked about stories themselves, but we also talked about sort of—how does the newsroom get to a place where you are putting out stuff like Dr. V and how can you improve it? So we talked about some specific pieces, which are linked to in the Etherpad, where, like, we felt that more diverse voices was obviously going to result in a different story than what was published. But we came up with sort of like—I think three major things. The first one is, like, measure the voices that your publication is highlighting. So who are the anecdotes that are being used? And because news is so deadline-driven, oftentimes the excuse is always—I had this time frame. I found these people. They demonstrated the point, so I used them. And that's fine in the day-to-day. But if we take stock of actually who we are using, year after year, and as they all look identical, in any type of demographic, then we can all be aware of that going forward. But you don't have to constantly be worrying about it all the time, which seems very unapproachable when you're trying to sell it to someone. The other thing is the demographics of your reporting and editing staff will affect the demographic of your sources. And we had a discussion about the benefits and the cons of—if specific stories are being funneled or asked of specific reporters of a demographic. So do you have to represent your demographic all the time, are you the one doing stories in that community or when anybody else does stories about your community in the newsroom do they always consult you? And it becomes your second job at work as well. Even if your job has nothing to do with that. So pros and cons there. And then finally we were trying to brainstorm ways to help sell, increase diversity in sources to reporters without making them feel defensive about it. Which basically resulted in one idea so far. So if you guys have more ideas, please add. Which was to help with them with some tools and suggestions and not to point out stories in the past that had been done that had a lack of voices but to say in the future if you want even better sources or if you want to reach more sources, start early. Reach out to people who aren't on Twitter, or reach out to communities right away. So that you can plant that seed and then maybe later on you can sort of get a bigger harvest of sources. Yeah.
+
+
+Okay. Cool. Awesome. This is all super great. So we're going to try to take all of this and feel free to keep adding it, and maybe we should share it with the rest of SRCCON. Or tweet it. I don't know how big we want to get this. But keep adding stuff, and our goal is to take this and if it's not in the next, like, couple days, then in the next week or so. Have at least bare bones kind of website that will be full of resources and quotes and links and stuff. So that this can be kind of a go-to place on language inclusivity in the newsroom kind of thing. And then hopefully we'll make it beautiful and awesome in the coming months. So yeah. This was super great. I hope you guys all got something out of this, and that this will be a tangible resource to be used in the future. So...
+
+
+Thank you.
+
+(applause)

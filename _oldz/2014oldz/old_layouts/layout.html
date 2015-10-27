@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+
+<html class="no-js">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>{{ page.title }} | SRCCON: July 24–25, Philadelphia</title>
+     <meta name="Description" content="SRCCON, July 24 & 25 2014 in Philly, is a conference for the news-code community.">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <link rel="icon" href="/favicon.ico" />
+    <!-- stylesheet calls -->
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" media="screen,projection,tv" href="/media/css/normalise.css" />
+    <link rel="stylesheet" media="screen,projection,tv" href="/media/css/devices.css" />
+    <link rel="stylesheet" media="all and (min-width:30em)" href="/media/css/desktop.css" />
+    <!-- endstylesheets -->
+    <!-- script calls -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//www.google.com/jsapi"></script>
+    <!-- end scripts -->
+    <!-- GA -->
+    <!-- Begin Google Analytics -->
+<script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-51039715-1', 'srccon.org');
+  ga('send', 'pageview');
+</script>
+
+
+<!-- End Google Analytics -->
+    <!-- end GA -->
+</head>
+<body class="{{ page.section }} {{ page.sub-section }}">
+    <script type="text/javascript">
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, '');
+    </script>
+    <header class="masthead {{ page.background }}">
+        <div class="busta">
+            <div id="nav">
+                 {% include navigation.html %}
+            </div>
+            <h1 id="brand">
+                <a href="/"><img class="logo" alt="SRCCON" src="/media/img/{{page.logo}}" width="470" height="140" /></a>
+            </h1>
+        </div>
+        <p id="byline">{{ page.byline }}</p>
+    </header>
+
+    <div id="newsline"></div>
+
+    <div role="main" class="home" id="home">
+        <div class="busta">
+            <article>
+                <div class="main_col">
+                    {{ content }}
+                </div>
+            </article>
+        </div>
+    </div>
+    <aside>
+        <section class="partners">
+            {% include footer.html %}
+        </section>
+    </aside>
+</body>
+</html>

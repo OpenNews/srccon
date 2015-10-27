@@ -1,0 +1,269 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: books
+byline: Nate Bolt
+bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-4VkeqM-4VpqGm-4VkcGz-4Vpr1S-4Vken4-fmXRof-2YtFPR-fmHB44-dFxkXG-7yv4t7-4VnnAn-5A3XSn-4Vnnmv-4VnnqK-9uup4n-4Vnnv6-3ViP2v-4VnngF-4VkgVa-4VkeuZ-4Vkg5R-4VpmbC-4VpnDu-4Vk9rK-4VpqRL-4VpsPb-4VpuU3-4Vkf5D-4Vkdj6-4Vk8uc-b1TXEz-4VkhcX-mF5DPa-fmHXAB-r8mgB3-s5i4Mz-7i3R7t-og8qB5-fmXSCf-7i7Ky9-92YNnD-fmHDut-5C51hV-rMM8b3-k639ok-8FDPAB-apFhiP-rL2vRV-4VptiN
+permalink: /docs/transcripts/adviewability/index.html
+---
+
+# Ad Viewability is Coming and You Should Care
+
+### Session Facilitator(s): Josh Kadis
+
+### Day & Time: Friday, 11am-noon
+
+### Room: Ski-U-Mah
+
+
+
+All right, hi, everyone.
+
+AUDIENCE MEMBER:  Morning.
+
+Morning. So we're going to talk about ads. I know everyone is really excited about ads. Yuri. 
+
+[laughter]
+
+So before we start talking about viewability specifically, just wanted to kind of take the temperature, like who works for a site that has ads? Everybody, presumably?
+
+And then who among you guys works with ads and ad servers?
+
+OK, so do you feel like we're pretty comfortable with like knowing where ads come from, and how they get counted and all that?
+
+AUDIENCE MEMBER:  When a mommy and daddy ...
+
+[laughter]
+
+OK, cool, and of the folks who are here, how many of you work on like what—in most organizations would be considered product versus how many work on sort of content? Like individual stories?
+
+
+AUDIENCE MEMBER:  Both, both.
+
+Both? Both? Everyone? Content? OK. And how—and I guess, you know, before I really get started, because you know, this is more of a discussion with you guys, how have the sites that you work on approached viewability? Does anyone have a—any back story to it?
+
+We're approaching it kind of crudely and we don't like the way it works, but essentially a side rail, like our primary ad on a particular page has as the page controls stay in view and eventually controls out, so ...
+
+OK, so that sort of in a nutshell is the, you know, the—that's the change with viewability, right? Under sort of the old way of measuring ads, essentially, you know, you—your page makes a request at the FP or whatever ad server you use, comes back with some HTML string, puts that in a cross-domain frame and within that there's a little pixel that's fired and as soon as your page makes that http with request with that pixel, that's when the ad gets paid. Without some sticky elements and things like that, the challenge is when to measure when the ad actually comes in the page, and essentially at some point in the future, that's when the advertiser will pay for it. For now, for most publishers, viewability is more of a sort of like a—more of a selling point, you know, sites that have high—that can show that they have high viewability can command higher rates, even if they're—the actual basis that those rates are charged on is the same sort of http request for that pixel. So of folks who work on the product side of sites that are sort of moving into this sort of new world of viewability, have you—or what are some tools that you guys are used to try to measure that? Have you tried anything on your own, or have you relied on vendors?
+
+ Chartbeat has a limited sort of how far people are scrolling down.
+
+Chartbeat.
+
+Google. GTM, Analytics.
+
+So is that something that you—that you guys built yourselves or --
+
+No, Google tag imager is a nice awesome new thing that, yeah.
+
+Yeah.
+
+It tracks—it's rad. Not only does it do that, it also takes all of your—all of your Analytics and puts it in one column so rather than doing cols and hold being your page up, just one call to Google loads all that up and fires that up for you.
+
+So we use Google ads so it integrates perfectly with that.
+
+So it seems like—well, you know, folks are familiar with how ads work, so I'm going to skip some of this stuff. But the big challenge with measuring this stuff and actually I should ask you:  What method does it use to measure viewability?
+
+It tracks the entire page, I don't know. They have some—I just trust Google.
+
+All right. So if you can imagine, you know, sort of the ad sales team coming to you and saying, you know, we would like you to come up with a method for measuring when ads come into view on the page, does anyone have an idea like how you would go about doing that?
+
+What do you think?
+
+Like Google events tracking.
+
+OK.
+
+So I just have some event when the ad is actually viewed. Because the other thing that's on my mind is an even bigger problem that people don't know how to address so I ran vomit some test test experiment on my site and was really horrified with the number I came up with the number of users who use ad blockers. And if I wanted to track, that's how I'd think about going about.
+
+OK. we use free wheel, though, which is so far has been a total cluge to try to use it, and I guess there's other free Wheeler users in the room and if there was any system I wanted to build I'd build it independent of that.
+
+Yeah, and sort the basic premise of measuring viewability is there are two ways to doit. the first it sounds like it what you guys might have experimented with. Which is what the people who come up with names for this stuff call page geometry, which is basically a script that runs in the actual page of the site that you're looking at, not within the ad that, you know, tracks the position of the i frame containing the ad relative to the view port. The reason that you would have to do any of this stuff is because, you know, the resides in an I frame that has limited access to information about the page that it's in, so it can't tell where it is relative to the view port on its own. The one way of getting around that is that the page just sort of keeps track of it. Like, if you were an advertiser, though, can you think of any reasons why this might be not a great solution for you?
+
+Because you can crunch the numbers?
+
+Well, you can do that with anything, but sure.
+
+It could be at the bottom of your page and you never actually get your eyes down there, even though it's in the window,—also nonresponsive sites are going to have fricking nightmare with page geometry.
+
+Mm-hm.
+
+Yeah, and you know, the other thing, too, is like if you're buying ads through an ad network or an exchange and you don't know necessarily what sites they're going out to, you need to be able to just within your ad, to measure your own viewability, because you might not be aware of like—you might not even know what publishers are running the ad, where it is out on the internet.
+
+Also there's ten popups on top of it, so if it's in the pay geometry you can't see it because they want you to sign up for their fucking pay wall. And you close that out and you get the Google forms to fill out so you can read the rest of the article and you might see that at some point and download our mobile app.
+
+Sign up for our—like us on Facebook, keeps popping up.
+
+And are there any other --
+
+[laughter]
+
+So if this sort of idea of page geometry is problematic for those reasons, can you guys think of any other reasons why—or any other methods that you could use to detect when the ad becomes visible in the view port of the browser window?
+
+You can load it on viewability, actually lazy-load it in and fire the ad call then.
+
+You can do that. But again, I think that would—for people whose ads just go out over the internet, then you're sort of stuck in the same problem potentially. The other way that different vendors approach it is this idea of browser optimization which is this like totally nondescriptive way that it's described, but it basically is listening for painting events on DOM elements inside the i frame, so that way, the page that's in the—the page that represents the ad, it doesn't need to know anything about the page where that ad frame is embedded. In newer browsers—and it's surprisingly widely supported, probably because advertisers are interested in it.
+
+A DOM element can listen for when it actually is painted on the screen, so that's not going to happen under normal circumstances under it's visible.
+
+Yeah, yeah, and so that way, you don't need—like the ad doesn't need to communicate at all with the page where it's sitting. It can sort of detect solely by listening for when it's painted on the screen, whether it's in view or not.
+
+The problem with that, I think it can end up being a little less reliable because one, I mean the browser support is limited, and also, like once—you know, for sort of newer sites that are coming in, once you start using more server-side browsers and all kinds of stuff like that, it's kind of unclear how that's going to be supported. Then there's, you know, the ability to, like, roll your own, which it sounds like Daniel you've worked on a bit, and, you know, this gives you, you know, very fine control over, you know, how you for example if you—if your page has a sticky header, how you account for that when you're trying to measure whether or not an ad might have like been scrolled underneath the header, even if the top of the i frame is still in the viewable area of the page, it might be under something. What, if anything, you know, if you—even if you build a really accurate sort of home-grown solution to measure viewability, can you guys think of any reasons why that might not fly in your organization?
+
+Well, it might be hard to integrate with whatever third party tool you're using to supply the ads, they might not like trust your numbers or technically speaking.
+
+30, 40% of all ad money is to ad networks, just robots buying and selling and throwing stuff on sites and that's a huge part of your business and if you can't integrate with that, which you're not going to be able to with a home-grown solution, that's a problem.
+
+Yeah, exactly. You know, the people who go out and sell the ads, like they—you know, there's rightly or wrongly, there's an expectation that a third party sort of vendor is going to be more accurate, more trustworthy, even if, you know, even if your numbers internally can indicate that, you know, that you're providing more consistent and like verifiable measurement, it's much easier to go out and sell something that's, you know, that comes from omni tour mode or a vendor that people have have heard of.
+
+Sorry, I came in late so I am don't know what people have already said, I've heard some murmurs of lypos being formed between these vendors and possibly some agencies because they realize there's vast differentiation and people are going to do a little bit of their own internal stuff is that my name is Joey Barber from the Washington Post, also, I forgot that. So we're testing like a bunch of stuff at the same time to see what the variance is, because an ad agency isn't going to trust your home-grown numbers, so like we're working with with a couple different vendors and our own homegrown solution to present all of it so I think we'll do that until there is a consistency out there.
+
+Yeah, so that for one, I—you reminded me that I totally forgot to mention, hi, I'm Josh Kadis, I work for alleyly interactive, we're a digital agency based in New York City. We design and build websites for publishers, so we work with like New York most, CNN, various properties like that, you know, so we have, you know, across our agency we can sort of see how different publishers are tackling these issues. And I think everyone is struggling with exactly the problem you described, Joey, so when you're looking at all of these different vendors and your own home-grown solution side by side, what are some of the things you're observing? Do any stand out for you?
+
+One thing I can say off the bat is any RFP for viewability right now is complete crap. Like we've gotten RFPs I'm not going to name the ad agencies with like 100% viewability and we're like that's not going to happen and then we've gotten some for 80% viewability and we're like, maybe, but probably not and that's still all over the place. That's what we're seeing in the market, anyway. Internally we're actually, we're doing pretty well in terms of our own viewability, and mode also represents that, but like we've still got a lot of experiments to run. And not going like 100 percent viewable across our digital products, like makes it so that it almost has to be like on demand and switch things around and that's just like a nightmare, so we don't want to do any of that until we know that it actually worked, so you know, it's a long-long-running test.
+
+You can't even get 100 percent viewability for the content. I wrote a one-sentence medium post and I had 80 percent viewability and it's not that hard, folks, you can just load the page and the sentence is there.
+
+Yeah, I think that the, you know, the goal that the IAB is sort of setting out in its like grand vision for viewability is like 80%, I think, and you know, for most sites that's like—that's kind of terrifying. Where, you know, you have a lot of sites where, you know, if that shift happened today, there would be like 50% maybe, maybe lower. So this is just a, you know, for reference, for most ads, when we're talking about viewability, we're talking about 50% of the pixels being in view for a second. For larger ads that drops, and for video the duration goes from a second to two seconds. Which doesn't sound like a lot, but you think about how slow ads are, and they're really slow, that it poses some really big design considerations, right? And that's, you know, you know, in had part like, you know, the reason that sites redesign is just because that's what you do. But viewability is, you know, a very big driver of a lot of their, you know, the design efforts, say, that we work on, I'm sure in the design departments where you all work, it's something that you know people are really grappling with, so if you were, you know, if you were tasked with a redesign right now, and you know, word comes down from on high like we need to hit 80% viewability, what are some of the things that you would look at?
+
+The fold.
+
+The fold. Yeah, the fold is back.
+
+But even within that you know, like it's very possible for the ad to load so slowly that you could start scrolling down the page and an ad that's like—it's like the highest thing on the page, the very top of the design, might not get counted as ever having been in view, so I've heard some rumors that—and you know, I'm not going to name any names, about sites that have actually gone through like major refactoring, sped up load times in a very admirable way, and then had to like throttle it a little bit. Which is, you know, kind of shitty to think about, but when you think about how slow ads load, it makes sense, right? And then like you were saying, I'm sorry, I didn't get your name.
+
+Jesse.
+
+Jesse, hi. Yeah, so sticky page elements, you're seeing kind of more and more, and that's another, you know, the like very obvious kind of sign that people are thinking about viewability, you know, sticky ads in the header, sticky side bars, that's just to make sure that, you know, that the ad—that the container for the ad stays in the page long enough for the slow ad to load and finally get counted.
+
+So, you know, so one question that I have for you all is like in the design process, if you're working on, you know, like a major interactive feature that kind of sits outside the normal templating of the site, which is, you know, which is what a lot of folks at conferences like this work on, a lot of sites are—a lot of publishers are paying more attention to those no longer sort of as experiments, but as actual, you know, like a core part of how, you know, how the news is delivered and how major stories are reported. Who should be responsible for design in those cases?
+
+ Or rather, in the design process for a standard interactive feature, whose responsibility is it to account for viewability in ads in general? How does that work for you guys?
+
+Everyone is responsible.
+
+Yeah. The ads team.
+
+Well, you know, I think that the—something that kind of in a lot of ways challenges like a traditional idea of sort of a, you know, separation of advertising and content, when, you know, once design becomes part of journalism and, you know, obviously design has a huge factor on, you know, viewability in ads in general, is that something that you guys have found any tension with?
+
+I see a couple people nodding. Maybe not you, Yuri.
+
+Lucky you.
+
+It's not harmony, you know, it's like a little Eden over there, just a little happy place. Everybody works great together.
+
+[laughter]
+
+So you sort of expressing some—having a tension there. What was that like?
+
+Well it's just that we're still working to get everyone on the same page when we design a new thing and to say we need somebody for sponsorships, we're nonprofit, so they're not ads, they're sponsors, very important apparently that we say that. So the design process didn't really include anybody from advertising and hasn't, even though we were digital native, never a paper product, so that's part of the tension is that people in editorial really do want that church/state separation, and that prevents anyone from advertising having a voice early on, which then produces design conflicts.
+
+So then how do those get resolved?
+
+And ad gets stuck in at some point, usually it's, you know, not terrible, but that's kind of where we're at right now is just trying to get it to let's make it a part of the design. So actually when we're talking about stand alone news apps, we're not even to viewability yet. They're not being held to the same standard quite yet, which is probably good.
+
+Yeah.
+
+OK. So what I was thinking would be a good exercise for the, you know, the next like 15 minutes, and then we can sort of reconvene and you guys can plug in or I'll show up on my screen would be to sort of form groups, let's just say like—I don't know, per table sounds pretty good. Feel free to combine if you want. And I would say take a look, you know, among your group, just like pick a website that one of you works for and dig into the ads and try to figure out how they're measuring viewability currently, and what are—like, what are a couple, if any, like design changes that you think would help improve that? And then in, yeah, like, 15 minutes, you know, we'll come back to you guy, I'll put the websites up here, and somebody can walk through. Does that sound good? And when I say like how are ads being measured, really try to dig in if can you and essentially try to figure out what method they're using, whether when are the events firing, sort of what vendors are involved, how many vendors are involved, and then, you know, hopefully by doing that, we'll get a good kind of cross-section of all the different ways that different publishers are grappling with this. Cool? All right.
+
+[group activity]
+
+ Are there any tables that do not have a computer? Oh, OK.
+
+[group activity]
+
+ ... ... ...
+
+Hello! So at this point hopefully you all had a chance to kind of dig into some different sites and does anyone have a site that I can throw up here and you can kind of walk me through? What did you guys look at?
+
+Star Tribune.com.
+
+We also did did Star Tribune.
+
+We're closer.
+
+Apologies in advance.
+
+So we just spent a few moments remarking on the you know, sort of expanse of advertising available to our users, so.
+
+[laughter]
+
+A number of different techniques of --
+
+That's very generous. Expansive.
+
+I've learned to be nice through couples counseling.
+
+[laughter]
+
+If you scroll up, we do feature some fixed, always seen adverts, the right rail fixes in position, or should, from time to time. Depending on --
+
+There we go.
+
+So ads are fixed to the bottom of that as you scroll.
+
+Presumably, and I don't have much insight in sort of the pressures or the rationale behind some of that stuff, but you might be able to help speak to that, Chad?
+
+I mean it was a little bit less about viewability in this case rather than kind of an imbalance of the design. So the version of that came immediately preceding this had a similar kind of right rail and the promotion rail ended up too long, you ended up with a lot of gaps. We said we always wanted the right rail to be longer than the promotion rail, not have a big gap because you're going to get back to the site having unable to be seen at the bottom?
+
+Can you now resell that as being forward-looking for viewability.
+
+>>
+
+After this conference.
+
+The amazing thing is Josh said the good thing is advertising can sell this way. Advertising wasn't really there yet.
+
+We also have the kind of loop you see at the top that's kind of sticky to every page and that's been more of a branding play than a viewability play. So a lot of the strategies that I kind of see now, I'm the tech guy, I am not an ad guy but it still seems kind of viewability is still on the horizon and not quite here yet.
+
+But now you're there.
+
+Yeah, I me we have got two ads, right? For viewability, right?
+
+Was there any strategy behind having the real estate stuff in that, like, sticky fixed position, either? Because I know that's very profitable for a lot of publishers.
+
+There's a little bit of that. That's actually a kind of a classified module in general so it might also be automotive or classified or pet ads, things like that. But it could be bid against, we do a lot of kind of bid advertising, so we do value our own internal advertising at a certain value. We'll say, you know, there's a level of advertisement that pays too little for us to want to put on. It is actually less valuable to us than promoting something like classifieds or a content product, so we have summer camp guides, right, or you have your entertainment or apps and things like that. Those are actually put into the ad system in a way to compete with the advertising, as well. It does two things, it helps promote our kind of internal product lines, whether that be classifieds, other advertisements, you know, events we're doing in the area, but it also helps us to kind of quell the problem with having a lot of programmatic advertising which is you get to a floor and once you get to that floor, either you're serving nothing or you're serving really, really not good ads. You know, like really bad. So you know, I think that our site does a pretty decent job of not showing the really, really kind of dancing people on rooftops, you know, Obama you're going to drop your housing rate to negative 3 percent, right and you don't see those there because we've taken those actions to keep it as clean as we can.
+
+Do other news organizations have that way of thinking internally or --
+
+Yeah, I mean I—you know, you yeah, I would assume so.
+
+Our membership is internal compared to ads and that's by default in our system but sometimes it just makes more sense member ship wise for us for fund raising purposes. And there are times when fundraising will actually kick out underwriting for us.
+
+But this is like a foreign remnant, right?
+
+Yeah, I mean there's certain element of we'll put a floor on not selling it too cheap so there's no requirement there. But we do have a series of different requirements, right? You can imagine the major players that go in there, and we go into a kind of auction format. Even then internally we kind of set those aside in order to control the quality of what we have there. So it's a part of the site that the advertising team takes a lot of pride in and that we kind of joke is --[inaudible] but this could be way worse, right? They have absolutely every power to make this site complete garbage if they didn't also respect and understand the value of the user experience. So all of that is really controlled by the advertising team in order to make sure that the quality of the overall product remains high.
+
+Can I ask a related question about this? One thing I've thought about is whether any outlets have done a good job at aggregating CPMs across units at the page level to provide an effective CPM for page field. Is that something that you guys have done any work on?
+
+Well, we do look at kind of the CPM as a kind of aggregate of the page view and try to balance that throughout the site. So when we went to the new site, we actually reduced kind of the overall kind of above the fold ad impressions in favor of adding some more lower. Which is totally not with the viewability question but helped us to give a little bit more air and space up there and the way that business argument was worked out was looking at the page revenue, rather than this particular unit there or this particular unit there.
+
+You can see that expressed if you scroll down further, you'll see the grid and content and advertising mix.
+
+We're sort of offered up as a means of lessening the load at the top of the page.
+
+So when we went through this, so you know, what's great about this is Jamie, I, Will, we just launched this site 6 weeks ago? 8 weeks ago? It's very new so a lot of the decisionmaking is still very fresh to us but all of the advertising on the site is set up on a configuration model that allows us to adjust on the fly without altering the page geometry, so the zone of where you have the idea of a zone 1, zone 2, zone 3. Zone 1 is the main content, zone 2 is that kind of fixed right rail. Zone 3 is everything that comes below. And each one of those has a set of variables which we call the X then Y advertising, so X is the first opportunity an ad will have, and Y is coming up to user after that, and so you could set an X to 3, which will say 3 content spots and you'll have your first opportunity, not a guaranteed ad, but an opportunity, and then every two, right? So two pieces of content, another opportunity two pieces of content, another opportunity until you run out of content. Which allows you to monetize the page length no matter how long it is. So it kind of takes the conversations around oh, no, no, no, just make the content what you need it to be and the page itself based on the available geometry. What makes the most sense based on the agreed-upon rules. And you can set that to home became, you know, articles of certain sections.
+
+Since we only have like five minutes left, I wanted --
+
+No, I was just --
+
+I'll catch up with you.
+
+I wanted to see if any other groups dug into any actual adds and looked at what, like what scripts, what vendors we're actually measuring.
+
+We can figure out what quartz is doing, Josh, and that didn't go too well. Reverse engineering, like we looked Javascript, nothing really there. How would you approach that? Before I was at ALLY, I was a developer at quartz, and did experiment a little bit with home-grown viewability measurement system and sort of like, you know, like we were talking about a little while ago, one of the challenges with it was that it, to the sales team, it was harder to sell. Those numbers even you know, no matter how accurate they may have been in reality, like how they were perceived in in the marketplace was very different than you know, a similar measurement coming from a third party. But the way that we approached it was, you know, with the luxury of being able to run our own Javascript in the page and inside the ad, we were able to sort of in some ways do accommodation of measuring, you know, where the ad I frame was sitting relative to the viewable area of the page, so the kind of page geometry method, but one potential drawback of that is if you're measuring, you know, the point at which this I frame, you know, let's say it was—let's say it was this thing here. This Sonos ad, it doesn't necessarily know when all of the assets inside that i frame have loaded, so that could be really slow, so you could have basically like 50 percent of an empty box in view for one second, and the way that we were able to get around that was a combination of like listening for that 50 percent in view for a second, and then sending some post messages back and forth that would sort of confirm on both sides that yes, the container is in view, and the actual assets inside the ad have loaded. It got a little complicated, but not too bad.
+
+ So when you mention, Davis, that the sites you were using were using different vendors, what were some vendors you saw?
+
+Tag manager was one ...
+
+Cool. Anyone else have anything that they wanted to toss up on the screen before we break? Well, cool. Thank you guys so much.
+
+[applause]
+
+[session ended] 
+
