@@ -338,16 +338,16 @@ ul.homepage li:last-child {
 }
 
 
-p, body.interior #contentbox li {
+p, #contentbox li {
   font-size: 1.5em;
   line-height: 1.7em;
 }
 
-body.interior #contentbox ul {
+#contentbox ul {
 padding-left: 0;
 }
 
-body.interior #contentbox li {
+#contentbox li {
   margin-bottom: 15px;
   list-style: circle outside;
 }
