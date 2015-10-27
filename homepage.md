@@ -10,24 +10,81 @@ bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-
 permalink: /index.html
 ---
 
-SRCCON is a two-day conference built around participatory sessions and focused on challenges news technology and data teams encounter every day. SRCCON 2015 took place June 25 and 26 in Minneapolis and via [streaming transcription](/transcription), and we'll announce a city and dates for SRCCON 2016 this fall.
+SRCCON is a hands-on conference focused on technical, design, and cultural challenges news technology and data teams encounter every day. We welcome participants from all fields—if you want to strengthen journalism online in practical ways, we want you there. The conference is produced by [Knight-Mozilla OpenNews], an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The “src” in SRCCON stands for “Source.” We pronounce it “Source-con,” but you can say it however you want.)
+
+I think a second paragraph here that talks about our apporoach to the conference... participatory, inclusive, etc...
 
 <div class="pink">
 <div class="innercontainer">
 <h2>Our Location</h2>
-<p>SRCCON 2016 will be held at the PNCA something something center in Portland Oregon. Located in beautiful downtown Portland, surrounded by food trucks, the whatever-it's-called river, and just blocks from the largest bookstore in the world, something something. Also this this. and this other thing. </p>
+<p>SRCCON will be held at the Pacific Northwest College of Art, in the beautifully refurbished 1918 building that housed Portland's original Post Office. Portland offers excellent restaurants, cafés, and breweries in a walkable, transit-friendly city, and easy day-trips include hiking around Mt. Hood and the gorgeous—and often sunny!—Oregon coast. </p>
+
+<p>Stay tuned for information on lodging, ticket sales, and session deadlines in early 2016. </p>
 </div>
 </div>
 
-## About SRCCON
+## Contact Us
 
-Launched in 2014 in Philadelphia and <a href="/logistics">returning in 2015 in Minneapolis</a>, SRCCON is produced by <a href="http://opennews.org">Knight-Mozilla OpenNews</a>, an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The "src" in SRCCON stands for "<a href="http://source.opennews.org">Source</a>," and we pronounce it "Source-con," though you can say it however you want.)
+While much of the SRCCON engine revvs up in 2016, if you want to contact us, we'd love to hear from you.
 
-<div class="pink">
-<div class="innercontainer">
+* [Email us with questions!](mailto:srccon@opennews.org)
+* [Email us for sponsor info!](mailto:dan@mozillafoundation.org)
+* [Follow us on Twitter!](https://www.twitter.com/srccon)
 
-<h2>anotehr thing</h2>
- <p><a href="/sessions">Our sessions</a> focus on technical, design, editorial, and cultural topics within the news world, and we welcome participants from all fields who want to strengthen journalism online.
+And definitely sign up for the SRCCON 2016 notification list so you don't miss a deadline.
+
+<!-- Begin MailChimp Signup Form -->
+
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+
+</style>
+
+<div id="mc_embed_signup">
+
+<form action="//mozillaopennews.us5.list-manage.com/subscribe/post?u=71c95e9a43708843d2fdc1f09&amp;id=916d42bf72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+    <div id="mc_embed_signup_scroll">
+
+	<h2>Get SRCCON notifications</h2>
+
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+
+<div class="mc-field-group">
+
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+
+</label>
+
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 
 </div>
+
+	<div id="mce-responses" class="clear">
+
+		<div class="response" id="mce-error-response" style="display:none"></div>
+
+		<div class="response" id="mce-success-response" style="display:none"></div>
+
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_71c95e9a43708843d2fdc1f09_916d42bf72" tabindex="-1" value=""></div>
+
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+
+    </div>
+
+</form>
+
 </div>
+
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
+<!--End mc_embed_signup-->
