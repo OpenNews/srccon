@@ -540,7 +540,6 @@ footer #sponsorbox {
   background-size: cover;
   max-width: 1500px;
   margin-bottom: 50px;
-  margin-top: -100px;
 }
 
 footer #sponsorbox .container {
@@ -561,6 +560,19 @@ footer #sponsorbox:after {
       background: #b9acac;
 }
 
+footer #sponsorbox:before {
+      content: '';
+      position: absolute;
+      width: 70px;
+      height: 35px;
+      z-index: 1;
+      border-radius: 0 0 35px 35px;
+      left: 48%;
+      margin-left: -25px;
+      background: white;
+}
+
+
 
 
 
@@ -577,7 +589,6 @@ footer #sponsorbox ul li {
 }
 
 footer p.sponsortag {
-  padding-top: 16px;
   text-align: left;
   font-size: 1em;
 }
@@ -643,11 +654,10 @@ footer #sponsorbox .four div#sponsors ul li.accessibility img {
 }
 
 footer #sponsorbox div#partners {
-  float: right;
 }
 
 footer #sponsorbox div#partners ul li {
-  display: block;
+  /* display: block; */
   text-align: left;
 }
 
@@ -982,7 +992,7 @@ td {
         right: auto;
     }
 
-    footer #sponsorbox:after {
+    footer #sponsorbox:after, footer #sponsorbox:before {
           left: 45.5%;
     }
 
