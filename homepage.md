@@ -2,7 +2,7 @@
 layout: 2015_layout
 title: Join us for SRCCON
 subtitle: Spend two amazing days building better newsroom code, culture, and process—together.
-eventdate: Join us in Portland Oregon<br> July XX & XX 2016 for SRCCON
+eventdate: Join us in Portland Oregon<br> July 28 & 29 2016 for SRCCON
 section: homepage
 background: homepage
 byline: Roland Tanglao
@@ -10,7 +10,7 @@ bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-
 permalink: /index.html
 ---
 
-SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there. 
+SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there.
 
 The conference is produced by [Knight-Mozilla OpenNews](http://opennews.org), an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The “src” in SRCCON stands for “Source.” We pronounce it “Source-con,” but you can say it however you want.)
 
@@ -40,7 +40,7 @@ And definitely sign up for the SRCCON 2016 notification list so you don't miss a
 <style type="text/css">
 
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-
+  form#mc_embed_signup form.validate{padding: none;}
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
