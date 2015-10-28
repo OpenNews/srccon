@@ -17,8 +17,7 @@ body {
 header {
   overflow-x: hidden;
   background-color: #050404;
-  height: 600px;
-  background-size: 1200px;
+  height: 400px;
   background-position: 0 -130px;
   background-repeat: no-repeat;
 
@@ -29,6 +28,8 @@ header {
 }
 
 header.homepage {
+  height: 600px;
+  background-size: 1200px;
   background-image: url(/media/img/2016/portland.jpg);
 }
 
@@ -120,6 +121,14 @@ header .byline {
   top: 470px;
   margin-bottom: 0px;
   opacity: .6;
+}
+
+body.interior .byline {
+  top: 270px;
+}
+
+body.interior #headbox h2, body.interior #headbox h3 {
+  text-align: center;
 }
 
 .byline a {
@@ -545,7 +554,7 @@ footer #sponsorbox {
 footer #sponsorbox .container {
   max-width: 1000px;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 25px;
 }
 
 footer #sponsorbox:after {
@@ -669,6 +678,7 @@ footer .col {
   width: 30%;
   float: left;
   margin-right: 3%;
+  margin-bottom: 50px;
 }
 
 footer .last {
@@ -926,6 +936,10 @@ table {
 td {
     padding: .5em .67em;
     vertical-align: top;
+}
+
+#mc_embed_signup form {
+  padding-left: -3%;
 }
 /* RESPONSIVE STUFF STARTS HERE */
 
