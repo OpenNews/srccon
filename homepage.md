@@ -25,13 +25,7 @@ The conference is produced by [Knight-Mozilla OpenNews](http://opennews.org), an
 
 ## Contact Us
 
-While much of the SRCCON engine revvs up in 2016, if you want to contact us, we'd love to hear from you.
-
-* [Email us with questions!](mailto:srccon@opennews.org)
-* [Email us for sponsor info!](mailto:dan@mozillafoundation.org)
-* [Follow us on Twitter!](https://www.twitter.com/srccon)
-
-And definitely sign up for the SRCCON 2016 notification list so you don't miss a deadline.
+To get information about upcoming deadlines around session proposals, when tickets will go on sale, and other SRCCON-related info and news, sign up for the SRCCON 2016 notification list:
 
 <!-- Begin MailChimp Signup Form -->
 
@@ -39,8 +33,11 @@ And definitely sign up for the SRCCON 2016 notification list so you don't miss a
 
 <style type="text/css">
 
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-  form#mc_embed_signup form.validate{padding: none;}
+  #mc_embed_signup form {
+		padding: 0;
+		margin-top: 25px;
+		margin-bottom: 50px;
+		}
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
@@ -88,3 +85,9 @@ And definitely sign up for the SRCCON 2016 notification list so you don't miss a
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
 <!--End mc_embed_signup-->
+
+While all of our SRCCON news will be going out on our mailing list, if you want to contact us, we'd love to hear from you:
+
+* [Email us with questions!](mailto:srccon@opennews.org)
+* [Email us for sponsor info!](mailto:dan@mozillafoundation.org)
+* [Follow us on Twitter!](https://www.twitter.com/srccon)

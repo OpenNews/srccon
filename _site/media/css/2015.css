@@ -1010,7 +1010,7 @@ td {
 }
 
 @media screen and (max-width: 800px) {
-    p, body.interior #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
+    p, #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
       font-size: 1.4em;
       line-height: 1.6em;
     }
@@ -1142,7 +1142,7 @@ td {
 }
 
 @media screen and (max-width: 640px) {
-    p, body.interior #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
+    p, #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
       font-size: 1.3em;
       line-height: 1.5em;
     }
@@ -1240,7 +1240,7 @@ td {
 
 }
 @media screen and (max-width: 480px) {
-    p, body.interior #contentbox li, ul.homepage li p, .homepage .buttontext p, .homepage p.bottomrun  {
+    p, #contentbox li, ul.homepage li p, .homepage .buttontext p, .homepage p.bottomrun  {
       font-size: 1.2em;
     }
     footer #sponsorbox ul li {
