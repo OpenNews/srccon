@@ -1,29 +1,93 @@
 ---
 layout: 2015_layout
 title: Join us for SRCCON
-subtitle: Two days of building better newsroom code, culture, and process—together.
-eventdate: June 25 & 26, 2015, in Minneapolis
+subtitle: Spend two amazing days building better newsroom code, culture, and process—together.
+eventdate: Join us in Portland Oregon<br> July 28 & 29 2016 for SRCCON
 section: homepage
 background: homepage
-byline: Dustin Gaffke
-bylineurl: https://www.flickr.com/photos/onepointfour/15434041227/
+byline: Roland Tanglao
+bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-p5w6Dx-atirrB-4JiraL-hffjay-ebMNw2-s546gW-p5fAsx-iEr2K-6ZJ4nV-sJeCev-5Xk37W-e38Kk3-bSu8Fi-f7DSat-ahDPN3-dVCQEe-tJqaR9-fMScsJ-bZ9NpU-bYr36s-atm5oy-btKD5-atiran-aj5xNo-hffaJW-d4Bb3E-6opceo-fMzcXc-atm727-ebUL1e-vwiJoA-h4hoeh-bryhzc-8ppkY7-tyGWvQ-61fcGq-7hSgfa-sWXgoG-4MMGjY-dCb92X-bZh9y7-8Vxbr2-bYHPVN-skuEVF-8wdbup-bZCWso-aHzZri-aHzXpZ-aHzURc
 permalink: /index.html
 ---
 
-SRCCON is a two-day conference built around participatory sessions and focused on challenges news technology and data teams encounter every day. SRCCON 2015 took place June 25 and 26 in Minneapolis and via [streaming transcription](/transcription), and we'll announce a city and dates for SRCCON 2016 this fall.
+SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there.
 
-<ul class="homepage" style="margin-bottom:8em;">
+The conference is produced by [Knight-Mozilla OpenNews](http://opennews.org), an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The “src” in SRCCON stands for “Source.” We pronounce it “Source-con,” but you can say it however you want.)
 
-<li class="left"><a href="http://schedule.srccon.org"><img src="/media/img/2015/session_dot.jpg"></a><h3><a href="http://schedule.srccon.org">Schedule</a></h3><p>Our peer-led sessions combine skillsharing, discussion, and collaboration. <a href="http://schedule.srccon.org">The full 2015 schedule is available</a>. </p></li>
+<div class="pink">
+<div class="innercontainer">
+<h2>Our Location</h2>
+<p>SRCCON will be held at the Pacific Northwest College of Art, in the gorgeously renovated 1918 building that housed Portland's original Post Office. Portland offers excellent restaurants, cafés, and breweries in a walkable, transit-friendly city, and easy day-trips include hiking around Mt. Hood and the gorgeous—and often sunny!—Oregon coast. </p>
 
-<li class="right"><a href="/transcription"><img src="/media/img/2015/remote_dot.jpg"></a><h3><a href="/transcription">Remote Participation</a></h3><p>Enjoy SRCCON sessions long into the future via archived transcripts. <a href="/transcription">See a full list</a>. </p></li>
+<p>Stay tuned for information on lodging, ticket sales, and session deadlines, coming in early 2016. </p>
+</div>
+</div>
 
-<li class="left"><a href="/docs"><img src="/media/img/2015/docs_dot.jpg" class="right"></a><h3><a href="/docs">Docs</a></h3><p>We build SRCCON in the open. Check out <a href="/docs">our documentation</a>.</p></li>
+## Contact Us
 
-</ul>
+To get information about upcoming deadlines around session proposals, when tickets will go on sale, and other SRCCON-related info and news, sign up for the SRCCON 2016 notification list:
 
-## About SRCCON
+<!-- Begin MailChimp Signup Form -->
 
-Launched in 2014 in Philadelphia and <a href="/logistics">returning in 2015 in Minneapolis</a>, SRCCON is produced by <a href="http://opennews.org">Knight-Mozilla OpenNews</a>, an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The "src" in SRCCON stands for "<a href="http://source.opennews.org">Source</a>," and we pronounce it "Source-con," though you can say it however you want.)
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 
- <a href="/sessions">Our sessions</a> focus on technical, design, editorial, and cultural topics within the news world, and we welcome participants from all fields who want to strengthen journalism online.
+<style type="text/css">
+
+  #mc_embed_signup form {
+		padding: 0;
+		margin-top: 25px;
+		margin-bottom: 50px;
+		}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+
+</style>
+
+<div id="mc_embed_signup">
+
+<form action="//mozillaopennews.us5.list-manage.com/subscribe/post?u=71c95e9a43708843d2fdc1f09&amp;id=916d42bf72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+    <div id="mc_embed_signup_scroll">
+
+	<h2>Get SRCCON notifications</h2>
+
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+
+<div class="mc-field-group">
+
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+
+</label>
+
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+
+</div>
+
+	<div id="mce-responses" class="clear">
+
+		<div class="response" id="mce-error-response" style="display:none"></div>
+
+		<div class="response" id="mce-success-response" style="display:none"></div>
+
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_71c95e9a43708843d2fdc1f09_916d42bf72" tabindex="-1" value=""></div>
+
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+
+    </div>
+
+</form>
+
+</div>
+
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
+<!--End mc_embed_signup-->
+
+While all of our SRCCON news will be going out on our mailing list, if you want to contact us, we'd love to hear from you:
+
+* [Email us with questions!](mailto:srccon@opennews.org)
+* [Email us for sponsor info!](mailto:dan@mozillafoundation.org)
+* [Follow us on Twitter!](https://www.twitter.com/srccon)
