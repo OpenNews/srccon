@@ -2,7 +2,7 @@
 layout: 2015_layout
 title: Join us for SRCCON
 subtitle: Spend two amazing days building better newsroom code, culture, and process—together.
-eventdate: Join us in Portland Oregon<br> July 28 & 29 2016 for SRCCON
+eventdate: Join us in Portland Oregon<br> July 28 & 29, 2016 for SRCCON
 section: homepage
 background: homepage
 byline: Roland Tanglao
@@ -10,14 +10,14 @@ bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-
 permalink: /index.html
 ---
 
-SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there.
+SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people can feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there.
 
 The conference is produced by [Knight-Mozilla OpenNews](http://opennews.org), an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The “src” in SRCCON stands for “Source.” We pronounce it “Source-con,” but you can say it however you want.)
 
 <div class="pink">
 <div class="innercontainer">
 <h2>Our Location</h2>
-<p>SRCCON will be held at the Pacific Northwest College of Art, in the gorgeously renovated 1918 building that housed Portland's original Post Office. Portland offers excellent restaurants, cafés, and breweries in a walkable, transit-friendly city, and easy day-trips include hiking around Mt. Hood and the gorgeous—and often sunny!—Oregon coast. </p>
+<p>SRCCON will be held at the Pacific Northwest College of Art, in the gorgeously renovated 1918 building that housed Portland's original Post Office. Portland offers excellent restaurants, cafés, and breweries in a walkable, transit-friendly city, and easy day-trips include hiking around Mt. Hood and the gorgeous—and often sunny—Oregon coast. </p>
 
 <p>Stay tuned for information on lodging, ticket sales, and session deadlines, coming in early 2016. </p>
 </div>
