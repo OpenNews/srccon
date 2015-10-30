@@ -404,6 +404,12 @@ p.safety {
   padding-bottom: 50px;
 }
 
+div.ruleabove{
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+  margin-top: 10px;
+}
+
 /* guide styles */
 
 p#guideauthors {
@@ -954,6 +960,18 @@ td {
       margin-top: 20px;
     }
 
+    body.interior #headbox {
+      padding-top: 50px;
+    }
+
+    header {
+      height: 350px;
+    }
+
+    body.interior .byline {
+      top: 230px;
+    }
+
     header, footer {
         width: 100%;
     }
@@ -992,15 +1010,29 @@ td {
 }
 
 @media screen and (max-width: 800px) {
-    p, body.interior #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
+    p, #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
       font-size: 1.4em;
       line-height: 1.6em;
+    }
+
+    body.interior div#headbox {
+      padding-top: 20px;
+    }
+
+    body.interior div#headbox h2 {
+      font-size: 2.3em;
+    }
+
+    body.interior div#headbox h3 {
+      font-size: 1.3em;
+      line-height: 1.5em;
     }
 
       .innercontainer {
         padding-left: 2em;
         padding-right: 2em;
     }
+
     footer .container  {
         margin: 0 2em;
         right: auto;
@@ -1013,11 +1045,15 @@ td {
     #contentbox, #headbox {
         right: auto;
     }
-    header {
+    header.homepage {
       background-position: 0 -80px;
     }
     .homepage #headbox {
       padding-top: 0px;
+    }
+
+    body.interior #headbox {
+      padding-top: 40px;
     }
 
    #headbox h3 br {
@@ -1036,10 +1072,16 @@ td {
     #headbox h4.homepage {
       margin-top: 10px;
     }
-
     header {
+      height: 300px;
+    }
+    header.homepage {
         background-size: cover;
         height: 400px;
+    }
+
+    body.interior .byline {
+      top: 180px;
     }
 
     header .byline {
@@ -1087,6 +1129,9 @@ td {
     footer .col {
         width: 47%;
     }
+    header {
+      background-position: 0 0px;
+    }
     header .byline {
         left: 0;
         font-size: .7em;
@@ -1097,7 +1142,7 @@ td {
 }
 
 @media screen and (max-width: 640px) {
-    p, body.interior #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
+    p, #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
       font-size: 1.3em;
       line-height: 1.5em;
     }
@@ -1123,7 +1168,7 @@ td {
         float: none;
         width: auto;
     }
-    header {
+    header.homepage {
         height: 340px;
         margin-bottom: 30px;
     }
@@ -1173,6 +1218,11 @@ td {
     }
     #headertop {
       background-color: white;
+      height: 50px;
+    }
+    nav.navigation ul {
+      margin-top: 5px;
+      margin-bottom: 5px;
     }
     nav.navigation li a {
       color: black;
@@ -1180,7 +1230,7 @@ td {
     header nav {
       float: none;
     }
-    header {
+    header.homepage {
       background-position: 0 0px;
     }
     #headbox h3.homepage {
@@ -1190,7 +1240,7 @@ td {
 
 }
 @media screen and (max-width: 480px) {
-    p, body.interior #contentbox li, ul.homepage li p, .homepage .buttontext p, .homepage p.bottomrun  {
+    p, #contentbox li, ul.homepage li p, .homepage .buttontext p, .homepage p.bottomrun  {
       font-size: 1.2em;
     }
     footer #sponsorbox ul li {
@@ -1220,14 +1270,36 @@ td {
         top: 10px;
         left: -25px;
     }
-    header {
+
+    header, header.homepage {
         height: 250px;
     }
+
+    header.homepage .byline{
+      top: 160px;
+    }
+
+    body.interior #headbox {
+      padding-top: 20px;
+    }
+
+    body.interior #headbox h2 {
+      font-size: 1.7em;
+    }
+
+    body.interior #headbox h3 {
+      font-size: 1em;
+    }
+
+    body.interior .byline {
+      top: 140px;
+    }
+
     #headbox h3.homepage, #headbox h4.homepage {
         margin-left: 0;
     }
     .homepage #headbox {
-      padding-left: 200px;
+      padding-left: 100px;
     }
 }
 @media screen and (max-width: 360px) {
