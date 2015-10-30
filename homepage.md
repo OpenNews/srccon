@@ -2,7 +2,7 @@
 layout: 2015_layout
 title: Join us for SRCCON
 subtitle: Spend two amazing days building better newsroom code, culture, and process—together.
-eventdate: Join us in Portland Oregon<br> July 28 & 29 2016 for SRCCON
+eventdate: Join us in Portland Oregon<br> July 28 & 29, 2016 for SRCCON
 section: homepage
 background: homepage
 byline: Roland Tanglao
@@ -25,17 +25,7 @@ The conference is produced by [Knight-Mozilla OpenNews](http://opennews.org), an
 
 ## Contact Us
 
-<<<<<<< HEAD
 To get information about upcoming deadlines around session proposals, when tickets will go on sale, and other SRCCON-related info and news, sign up for the SRCCON 2016 notification list:
-=======
-While much of the SRCCON engine revvs up in 2016, if you want to contact us, we'd love to hear from you.
-
-* [Email us with questions!](mailto:srccon@opennews.org)
-* [Email us for sponsor info!](mailto:dan@mozillafoundation.org)
-* [Follow us on Twitter!](https://www.twitter.com/srccon)
-
-And definitely sign up for the SRCCON 2016 notification list so you don't miss a deadline:
->>>>>>> srccon/srccon2016
 
 <!-- Begin MailChimp Signup Form -->
 
