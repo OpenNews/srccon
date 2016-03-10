@@ -12,6 +12,8 @@ permalink: /index.html
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people can feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there.
 
+Tickets for SRCCON will go on sale Wednesday, May 18&mdash;please [join our notifications list](http://mozillaopennews.us5.list-manage1.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=916d42bf72) or follow us [on Twitter](https://www.twitter.com/srccon) to get reminders before the sale date. Our participatory sessions are the true lifeblood of SRCCON, and our open call for session proposals will open Wednesday, March 30 and close April 20. More information about sessions and ticket sales will be forthcoming soon.
+
 The conference is produced by [Knight-Mozilla OpenNews](http://opennews.org), an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The “src” in SRCCON stands for “Source.” We pronounce it “Source-con,” but you can say it however you want.)
 
 <div class="pink">
