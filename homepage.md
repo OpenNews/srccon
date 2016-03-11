@@ -19,9 +19,7 @@ SRCCON is a hands-on conference focused on the practical challenges news technol
 * **May 18**, tickets go on sale.
 
 <p></p>
-More information about sessions and ticket sales will be forthcoming soon. Please [join our notifications list](http://mozillaopennews.us5.list-manage1.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=916d42bf72) or follow us [on Twitter](https://www.twitter.com/srccon) to get the latest SRCCON reminders.
-
-<!-- **Tickets for SRCCON will go on sale Wednesday, May 18**&mdash;please [join our notifications list](http://mozillaopennews.us5.list-manage1.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=916d42bf72) or follow us [on Twitter](https://www.twitter.com/srccon) to get reminders before the sale date. Our participatory sessions are the true lifeblood of SRCCON, and **our open call for session proposals will open Wednesday, March 30** and close April 20. More information about sessions and ticket sales will be forthcoming soon. -->
+More information about sessions and ticket sales will be forthcoming soon. Please [join our notifications list](http://opennews.us5.list-manage2.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=5e8e58d6a1) or follow us [on Twitter](https://www.twitter.com/srccon) to get the latest SRCCON reminders.
 
 <div class="pink">
 <div class="innercontainer">
