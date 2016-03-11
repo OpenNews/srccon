@@ -12,20 +12,29 @@ permalink: /index.html
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people can feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there.
 
-Tickets for SRCCON will go on sale Wednesday, May 18&mdash;please [join our notifications list](http://mozillaopennews.us5.list-manage1.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=916d42bf72) or follow us [on Twitter](https://www.twitter.com/srccon) to get reminders before the sale date. Our participatory sessions are the true lifeblood of SRCCON, and our open call for session proposals will open Wednesday, March 30 and close April 20. More information about sessions and ticket sales will be forthcoming soon.
+<h2>Key dates for your calendar:</h2>
+<p></p>
+* **March 30**, call for proposals opens.
+* **April 20**, proposals close.
+* **May 18**, tickets go on sale.
 
-The conference is produced by [Knight-Mozilla OpenNews](http://opennews.org), an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The “src” in SRCCON stands for “Source.” We pronounce it “Source-con,” but you can say it however you want.)
+<p></p>
+More information about sessions and ticket sales will be forthcoming soon. Please [join our notifications list](http://mozillaopennews.us5.list-manage1.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=916d42bf72) or follow us [on Twitter](https://www.twitter.com/srccon) to get the latest SRCCON reminders.
+
+<!-- **Tickets for SRCCON will go on sale Wednesday, May 18**&mdash;please [join our notifications list](http://mozillaopennews.us5.list-manage1.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=916d42bf72) or follow us [on Twitter](https://www.twitter.com/srccon) to get reminders before the sale date. Our participatory sessions are the true lifeblood of SRCCON, and **our open call for session proposals will open Wednesday, March 30** and close April 20. More information about sessions and ticket sales will be forthcoming soon. -->
 
 <div class="pink">
 <div class="innercontainer">
 <h2>Our Location</h2>
 <p>SRCCON will be held at the Pacific Northwest College of Art, in the gorgeously renovated 1918 building that housed Portland's original Post Office. Portland offers excellent restaurants, cafés, and breweries in a walkable, transit-friendly city, and easy day-trips include hiking around Mt. Hood and the gorgeous—and often sunny—Oregon coast. </p>
 
-<p>Stay tuned for information on lodging, ticket sales, and session deadlines, coming in early 2016. </p>
+<p>Stay tuned for information on lodging, things to do in Portland, and much more!</p>
 </div>
 </div>
 
 ## Contact Us
+
+SRCCON is produced by [Knight-Mozilla OpenNews](http://opennews.org), an organization built to support the community of news developers, designers, and data reporters helping journalism thrive on the open web. (The “src” in SRCCON stands for “Source.” We pronounce it “Source-con,” but you can say it however you want.)
 
 To get information about upcoming deadlines around session proposals, when tickets will go on sale, and other SRCCON-related info and news, sign up for the SRCCON 2016 notification list:
 
