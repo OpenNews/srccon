@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Sessions
-subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals are open through April 10!
+subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals are open through April 20!
 section: sessions
 sub-section: interior
 background: postits
