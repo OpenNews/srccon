@@ -1,10 +1,11 @@
 ---
 layout: 2015_layout
-title: Sessions
+title: Pitch Your Session
 subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals are open through April 10!
 section: sessions
 sub-section: interior
-background: postits
+background: stickerdots
+byline: Erik Westra
 permalink: /sessions/pitch/index.html
 ---
 #Propose a Session

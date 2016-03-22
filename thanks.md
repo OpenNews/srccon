@@ -4,7 +4,8 @@ title: Sessions
 subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals are open through April 20!
 section: sessions
 sub-section: interior
-background: postits
+background: stickerdots
+byline: Erik Westra
 permalink: /sessions/thanks/index.html
 ---
 <h1>Thank you for submitting a proposal to SRCCON 2016!</h1>

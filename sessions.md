@@ -4,11 +4,12 @@ title: Sessions
 subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals are open through April 20!
 section: sessions
 sub-section: interior
-background: postits
+background: stickerdots
+byline: Erik Westra
 permalink: /sessions/index.html
 ---
-<!--session button-->
-<p class="btn" id="pitchbutton">Pitch a Session</p>
+<!--session button
+<p class="btn" id="pitchbutton">Pitch a Session</p>-->
 <!--<p class="bottomrun">We're already recieving great sessions. <a href="">View the proposals so far.</a></p>-->
 
 <script type="text/javascript">
@@ -16,9 +17,9 @@ document.getElementById("pitchbutton").onclick = function () {
   location.href = "/sessions/pitch";
 };
 </script>
-<!-- end session button -->
+<!--end session button -->
 
-SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. The community members who step up to facilitate these sessions make it all possible—which is why *you* should [pitch a session now](/sessions/pitch). Before you do, though, check out our advice on [how to put together a great pitch and run an excellent SRCCON session](/sessions/great_session). 
+SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. The community members who step up to facilitate these sessions make it all possible—which is why *you* should [pitch a session now](/sessions/pitch). Before you do, though, check out our advice on [how to put together a great pitch and run an excellent SRCCON session](/sessions/great_session).
 
 Some key dates:
 
@@ -26,9 +27,9 @@ Some key dates:
 * **April 20**, call for proposals closes (midnight PDT).
 * **May 11**, notification of accepted proposals.
 * **May 18**, SRCCON 2016 tickets go on open sale.
- 
+
 ## The Selection Process
- 
+
  The SRCCON team reviews all proposals, along with a small group of outside reviewers from across our community. We look for:
 
   * topics that are relevant to code and design folks in and near newsrooms
