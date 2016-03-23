@@ -85,9 +85,15 @@ header.mcnamara h3, header.coffee h3, header.lifevests h2, header.lifevests h3, 
 }
 
 
+
 #headertop {
   width: 100%;
   height: 70px;
+}
+
+header.stickerdots #headertop, header.books #headertop {
+  background-color:rgba(0, 0, 0, 0.15);
+  height: 50px;
 }
 
 .container {
@@ -114,6 +120,10 @@ header nav {
   overflow: hidden;
   font-size: 1.1em;
   line-height: 1.7em;
+}
+
+nav.navigation {
+  height: 50px;
 }
 
 header .byline {
@@ -151,6 +161,7 @@ header nav ul {
   padding-left: 0px;
   text-align: center;
   margin-bottom: 1em;
+  margin-top: .7em;
 }
 
 header nav ul li {
@@ -1221,7 +1232,7 @@ td {
     #headbox h4.homepage {
         font-size: 1.2em;
     }
-    #headertop {
+    #headertop, header.stickerdots #headertop, header.books #headertop {
       background-color: white;
       height: 50px;
     }
@@ -1261,7 +1272,7 @@ td {
     #headbox h3 {
         font-size: 1.1em;
     }
-    #headertop {
+    #headertop, header.stickerdots #headertop, header.books #headertop {
         height: 40px;
     }
     header nav {
