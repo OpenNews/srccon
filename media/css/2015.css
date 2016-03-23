@@ -47,7 +47,7 @@ header.postits {
 
 header.stickerdots {
   background-image: url(/media/img/2016/sessions.jpg);
-  background-size: 100%;
+  background-size: cover;
 }
 
 header.tickets {
@@ -135,7 +135,7 @@ header .byline {
   left: 6px;
   top: 470px;
   margin-bottom: 0px;
-  opacity: .6;
+  opacity: .8;
 }
 
 body.interior .byline {
@@ -1083,6 +1083,7 @@ td {
 
     #headbox h3.homepage {
       padding-bottom: 10px;
+      padding-top: 20px;
     }
 
     #headbox h4.homepage {
@@ -1208,11 +1209,11 @@ td {
     #headbox h3.homepage {
         font-size: 1.6em;
     }
-    #headbox h4.homepage {
+    #headbox h4.homepage, body.interior #headbox h3 {
         font-size: 1.3em;
         display: none;
-
     }
+
     .btn, form.fr_form button {
       font-size: 1em;
       width: 100%;
@@ -1311,7 +1312,12 @@ td {
       top: 140px;
     }
 
+    #headbox h3.homepage {
+      padding-top: 0px;
+    }
+
     #headbox h3.homepage, #headbox h4.homepage {
+      margin-left: 80px;
     }
 
     .homepage #headbox {
@@ -1331,8 +1337,12 @@ td {
     margin-top: 5px;
     }
 
+    #headbox h3.homepage, #headbox h4.homepage {
+      margin-left: 150px;
+    }
+
     .homepage #headbox {
-      padding-left: 150px;
+      padding-left: 0px;
     }
 
     ul.homepage {
@@ -1354,6 +1364,11 @@ td {
 
     ul.homepage li.left img, ul.homepage li.right img {
       display: none;
+    }
+
+    body.interior a#cornerlogo img {
+      width: 180px;
+      margin-top: -60px;
     }
 
     p, body.interior #contentbox li {
