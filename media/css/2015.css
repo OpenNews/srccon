@@ -139,7 +139,7 @@ header .byline {
 }
 
 body.interior .byline {
-  top: 270px;
+  top: 290px;
 }
 
 body.interior #headbox h2, body.interior #headbox h3 {
@@ -989,7 +989,7 @@ td {
     }
 
     body.interior .byline {
-      top: 230px;
+      top: 250px;
     }
 
     header, footer {
@@ -1102,7 +1102,7 @@ td {
     }
 
     body.interior .byline {
-      top: 180px;
+      top: 200px;
     }
 
     header .byline {
