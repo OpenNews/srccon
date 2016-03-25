@@ -15,12 +15,12 @@ SRCCON is a hands-on conference focused on the practical challenges news technol
 
 <h2>Key dates for your calendar:</h2>
 <p></p>
-* **March 30**, call for proposals opens.
+* **March 30**, [call for proposals](/sessions) opens.
 * **April 20**, proposals close.
 * **May 18**, tickets go on sale.
 
 <p></p>
-More information about sessions and ticket sales will be forthcoming soon. Please [join our notifications list](http://opennews.us5.list-manage2.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=5e8e58d6a1) or follow us [on Twitter](https://www.twitter.com/srccon) to get the latest SRCCON reminders.
+More information about ticket sales will be forthcoming soon. Please [join our notifications list](http://opennews.us5.list-manage2.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=5e8e58d6a1) or follow us [on Twitter](https://www.twitter.com/srccon) to get the latest SRCCON reminders.
 
 <div class="pink">
 <div class="innercontainer">
