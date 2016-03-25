@@ -2,7 +2,7 @@
 layout: 2015_layout
 title: How to Pitch (and Run) a Great SRCCON Session
 subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals are open through April 20!
-section: sessions
+section: sessions great_session
 sub-section: interior
 background: stickerdots
 byline: Erik Westra

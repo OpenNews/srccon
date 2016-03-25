@@ -1154,7 +1154,7 @@ td {
       background-position: 0 0px;
     }
     header .byline {
-        left: 0;
+        left: -10px;
         font-size: .7em;
     }
     #headbox h3.homepage, #headbox h4.homepage {
@@ -1274,6 +1274,11 @@ td {
         font-size: 2.1em;
         margin-bottom: 5px;
     }
+
+    body.great_session div#headbox h2 {
+      font-size: 1.8em;
+      margin-top: 10px;
+    }
     #headbox h3 {
         font-size: 1.1em;
     }
@@ -1296,8 +1301,8 @@ td {
         height: 250px;
     }
 
-    header.homepage .byline{
-      top: 160px;
+    header.homepage .byline, body.interior .byline{
+      top: 5px;
     }
 
     body.interior #headbox {
@@ -1310,10 +1315,6 @@ td {
 
     body.interior #headbox h3 {
       font-size: 1em;
-    }
-
-    body.interior .byline {
-      top: 140px;
     }
 
     #headbox h3.homepage {
