@@ -8,16 +8,7 @@ background: stickerdots
 byline: Erik Westra
 permalink: /sessions/great_session/index.html
 ---
-<!--session button-->
-<!--<p class="btn" id="pitchbutton">Pitch a Session</p>-->
-<!--<p class="bottomrun">We're already recieving great sessions. <a href="">View the proposals so far.</a></p>-->
-
-<script type="text/javascript">
-document.getElementById("pitchbutton").onclick = function () {
-  location.href = "/sessions/pitch";
-};
-</script>
-<!-- end session button -->
+{% include sessionsgo.html %}
 
 We've gathered advice from participants at previous SRCCONs to assemble a picture of what makes great sessions great, how to make your pitch stand out, and how to be an awesome facilitator—even if you're new to the conference or the community.
 

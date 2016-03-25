@@ -757,8 +757,8 @@ footer .columns {
 .homepage #buttonbox {
   height: auto;
   margin-top: 40px;
-  border-bottom: 1px solid white;
-  margin-bottom: 0px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 25px;
 }
 
 #buttonbox h3 {
@@ -786,7 +786,7 @@ footer .columns {
   float: right;
   cursor: pointer;
   width: 40%;
-  background: #ff8c00;
+  background: #F79797;
   border-radius: 10px;
   font-family: Arial;
   color: #ffffff;
@@ -795,6 +795,13 @@ footer .columns {
   text-decoration: none;
   text-align: center;
   margin-left: 25px;
+}
+
+.homepage .btn {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%
 }
 
 .btn#schedulebutton {
@@ -820,15 +827,12 @@ form.fr_form button {
   box-shadow: none;
 }
 
-.homepage .btn {
-  margin-left: 0px;
-}
 
 .homepage .btn:hover {
 }
 
 .btn:hover, form.fr_form button:hover {
-  background: #ff6600;
+  background: #FF5F5F;
   text-decoration: none;
 }
 

@@ -9,6 +9,7 @@ byline: Roland Tanglao
 bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-p5w6Dx-atirrB-4JiraL-hffjay-ebMNw2-s546gW-p5fAsx-iEr2K-6ZJ4nV-sJeCev-5Xk37W-e38Kk3-bSu8Fi-f7DSat-ahDPN3-dVCQEe-tJqaR9-fMScsJ-bZ9NpU-bYr36s-atm5oy-btKD5-atiran-aj5xNo-hffaJW-d4Bb3E-6opceo-fMzcXc-atm727-ebUL1e-vwiJoA-h4hoeh-bryhzc-8ppkY7-tyGWvQ-61fcGq-7hSgfa-sWXgoG-4MMGjY-dCb92X-bZh9y7-8Vxbr2-bYHPVN-skuEVF-8wdbup-bZCWso-aHzZri-aHzXpZ-aHzURc
 permalink: /index.html
 ---
+{% include sessionsgo.html %}
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people can feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there.
 

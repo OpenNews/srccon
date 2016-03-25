@@ -8,16 +8,7 @@ background: stickerdots
 byline: Erik Westra
 permalink: /sessions/index.html
 ---
-<!--session button
-<p class="btn" id="pitchbutton">Pitch a Session</p>-->
-<!--<p class="bottomrun">We're already recieving great sessions. <a href="">View the proposals so far.</a></p>-->
-
-<script type="text/javascript">
-document.getElementById("pitchbutton").onclick = function () {
-  location.href = "/sessions/pitch";
-};
-</script>
-<!--end session button -->
+{% include sessionsgo.html %}
 
 SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. The community members who step up to facilitate these sessions make it all possible—which is why *you* should [pitch a session now](/sessions/pitch). Before you do, though, check out our advice on [how to put together a great pitch and run an excellent SRCCON session](/sessions/great_session).
 
