@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Sessions
-subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals are open through April 20!
+title: You're the best!
+subtitle: Thanks so much. We can't wait to read your proposal.
 section: sessions
 sub-section: interior
 background: stickerdots

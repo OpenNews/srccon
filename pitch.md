@@ -28,5 +28,5 @@ So tell us, what’s your perfect SRCCON session?
   // Uncomment this line and set it to the CSS class that your website uses for buttons:
   // FormRenderer.BUTTON_CLASS = '';
 
-  new FormRenderer({"project_id":"Nv3BbdWoaKCy7F6X"});
+  new FormRenderer({"project_id":"Nv3BbdWoaKCy7F6X", "afterSubmit": "/sessions/thanks"});
 </script>
