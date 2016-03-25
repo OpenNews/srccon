@@ -14,20 +14,19 @@ Proposals will be published on this site (fields marked as private excepted), an
 
 So tell us, what’s your perfect SRCCON session?
 
-<!-- Include jQuery if it's not already included: -->
+<!-- form embed starts here -->
 <script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-1.11.2.min.js"><\/script>')</script>
 
-<!-- Stick these two lines in your <head> if possible: -->
-<link href="//d3q1ytufopwvkq.cloudfront.net/0.3.10/formrenderer.css" rel="stylesheet" />
-<script src="//d3q1ytufopwvkq.cloudfront.net/0.3.10/formrenderer.js"></script>
+<link href="//d3q1ytufopwvkq.cloudfront.net/0/formrenderer.css" rel="stylesheet" />
+<script src="//d3q1ytufopwvkq.cloudfront.net/0/formrenderer.js"></script>
 
-<form data-formrenderer></form>
+<!-- Insert everything below in the <body>. -->
+
+<form data-formrenderer>This form requires JavaScript to complete.</form>
 
 <script>
-new FormRenderer({
-  "project_id": 907,
-  "enableAutosave": false,
-  "afterSubmit": "/sessions/thanks"
-  });
-  </script>
-  <noscript>Our proposal submission form uses javascript, but it looks you have it disabled in your browser. You can re-enable javascript and refresh this page, or <a href="https://screendoor.dobt.co/opennews/srccon-2015-proposals/responses/new">use this standalone form</a>."</noscript>
+  // Uncomment this line and set it to the CSS class that your website uses for buttons:
+  // FormRenderer.BUTTON_CLASS = '';
+
+  new FormRenderer({"project_id":"Nv3BbdWoaKCy7F6X"});
+</script>

@@ -821,10 +821,14 @@ div.fr_bottom_bar {
 }
 
 form.fr_form button {
-  float: left;
+  float: none;
   margin-left: 0px;
   border:none;
   box-shadow: none;
+}
+
+div.fr_bottom {
+  background-color: white;
 }
 
 
@@ -833,7 +837,10 @@ form.fr_form button {
 
 .btn:hover, form.fr_form button:hover {
   background: #FF5F5F;
+  color: white;
   text-decoration: none;
+  border: none;
+  box-shadow: none;
 }
 
 .bottomrun {
