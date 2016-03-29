@@ -11,7 +11,7 @@ permalink: /index.html
 ---
 
 
-SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable jumping in to work on complex problems. 
+SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. 
 
 Our call for session proposals is now open!
 
@@ -38,7 +38,7 @@ More information about ticket sales will be forthcoming soon. Please [join our n
 
 ## Who Attends SRCCON
 
-The majority of SRCCON participants are developers, designers, and data analysts who work in newsrooms. We also enthusiastically welcome attendees from closely allied fields like civic tech, mapping, open data, and government—and others who are curious about journalism and psyched to share their expertise at a journalism-centric conference. 
+The majority of SRCCON participants are developers, designers, and data analysts who work in newsrooms. We also enthusiastically welcome attendees from closely allied fields like civic tech, mapping, open data, and government—and others who are curious about journalism and excited to share their expertise at a journalism-centric conference. 
 
 Our participants represent organizations ranging from massive to tiny, and come from all over the US and many other countries. Each year, we particulary welcome journalists and allies from the city hosting SRCCON, and we're working to build better remote-participation options for those who can't attend in person.
 
@@ -60,9 +60,7 @@ Our participants represent organizations ranging from massive to tiny, and come 
 		margin-top: 25px;
 		margin-bottom: 50px;
 		}
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 
 </style>
 

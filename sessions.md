@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Sessions
-subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals are open through April 20!
+subtitle: Our peer-led sessions combine skill-sharing, discussion, and collaboration. Proposals are open through April 20!
 section: sessions
 sub-section: interior
 background: stickerdots
@@ -14,7 +14,7 @@ SRCCON is built around two days of peer-led conversations, hands-on workshops, a
 
 ## What Are SRCCON Sessions Like?
 
-We created SRCCON with a few grounding principles in mind that lay the groundwork for our program as a whole:
+We created SRCCON with a few principles in mind that lay the groundwork for our program as a whole:
 
 * SRCCON is built around participation, discussion, and collaborative problem-solving.
 * SRCCON exists to respond to the needs and interests of our community, and we must be intentional in including perspectives from throughout the field.
@@ -40,14 +40,14 @@ Many of our sessions work as structured discussions and problem-solving groups; 
  
 ## Co-Facilitators
  
- Many sessions benefit from co-facilitators to share the work of preparation and the fun of running the session itself. As you plan your proposal, you may want to consider pitching with someone from another organization, and/or with a different background from your own—and if you've attended SRCCON before, maybe consider proposing with someone who hasn't been yet. (We won't reject proposals featuring two members of the same team/two SRCCON regulars/etc. out of hand, but we may favor proposals that mix it up.)
+ Many sessions benefit from co-facilitators to share the work of preparation and the fun of running the session itself. As you plan your proposal, you may want to consider pitching with someone from another organization, and/or with a different background from your own—and if you've attended SRCCON before, maybe consider proposing with someone who hasn't been yet. (We won't reject proposals featuring two members of the same team/two SRCCON alums/etc. out of hand, but we may favor proposals that mix it up.)
 
 ## Tickets for Facilitators
 
-SRCCON is a collaborative, peer-to-peer event, and we consider all attendees to be active participants, rather than either speakers or passive audience members. Instead of providing free tickets for session facilitators, we offer need-based scholarships that anyone—facilitator or otherwise—can apply for if they need help covering the costs of attending. (Scholarship applications will open April 25.) This approach also helps us keep ticket prices low enough to be affordable for most news organizations.
+We reserve tickets for the facilitators of all accepted sessions, and all facilitators will be given an opportunity to buy a ticket before they go on public sale on May 18. However, instead of providing free tickets for session facilitators, we offer need-based scholarships that anyone—facilitator or otherwise—can apply for if they need help covering the costs of attending. (Scholarship applications will open April 25.) 
 
-We do reserve tickets for the facilitators of all accepted sessions—all facilitators will be given an opportunity to buy a ticket before they go on public sale on May 18.
+Why do we do it this way? Mostly because SRCCON is a collaborative, peer-to-peer event, and we consider all attendees to be active participants, rather than either speakers or passive audience members.  This approach also helps us keep ticket prices low enough to be affordable for most news organizations.
 
 ## Not Just Sessions…
 
-In addition to the daytime sessions that form the core of SRCCON, we'll also host a series of informal evening talks on non-work topics, open up space for small-group collaboration, and run a hands-on tea- and coffee-hacking station. Stay tuned for more information about additional program items and related events.
+In addition to the daytime sessions that form the core of SRCCON, we'll also host a series of informal evening sessions on non-work topics, open up space for small-group collaboration, run a hands-on tea- and coffee-hacking station, and bring back SRCCON lightning talks. Stay tuned for more information about additional program items and related events.

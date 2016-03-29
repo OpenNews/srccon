@@ -26,7 +26,7 @@ It's also useful to think about your target information/activity density and des
 
 ## What Does a Session Facilitator Do?
 
-Effective SRCCON facilitation is about effort and preparation more than expertise. Our faciliators plan and guide sessions, ask great questions, share what they know, and learn from their peers. We find that the best sessions are often led by facilitators who:
+Effective SRCCON facilitation is about effort and preparation more than expertise. Our facilitators plan and guide sessions, ask great questions, share what they know, and learn from their peers. We find that the best sessions are often led by facilitators who:
 
 * have a clear outcome in mind—what they want people to leave with,
 * know what they can realistically cover in a single session,  
