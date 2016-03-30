@@ -14,7 +14,7 @@ Proposals will be published on this site (fields marked as private excepted), an
 
 So tell us, what’s your perfect SRCCON session?
 
-<!-- form embed starts here -->
+<!-- form embed starts here --> 
 <script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-1.11.2.min.js"><\/script>')</script>
 
 <link href="//d3q1ytufopwvkq.cloudfront.net/0/formrenderer.css" rel="stylesheet" />
