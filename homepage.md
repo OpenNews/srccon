@@ -2,7 +2,7 @@
 layout: 2015_layout
 title: Join us for SRCCON
 subtitle: Spend two amazing days building better newsroom code, culture, and process—together.
-eventdate: Join us in Portland, Oregon<br> July 28 & 29, 2016, for SRCCON
+eventdate: Join us in Portland, Oregon<br> July 28 & 29 for SRCCON 2016
 section: homepage
 background: homepage
 byline: Roland Tanglao
