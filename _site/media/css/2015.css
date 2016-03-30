@@ -45,6 +45,11 @@ header.postits {
   background-image: url(/media/img/2015/post-its.jpg);
 }
 
+header.stickerdots {
+  background-image: url(/media/img/2016/sessions.jpg);
+  background-size: cover;
+}
+
 header.tickets {
   background-image: url(/media/img/2015/tickets.jpg);
 }
@@ -75,14 +80,20 @@ header.scholarships {
   background-image: url(/media/img/2015/mplsschol.jpg);
 }
 
-header.mcnamara h3, header.coffee h3, header.lifevests h2, header.lifevests h3, header.books h2, header.books h3, header.guide h3, header.guide h2, header.remote h3, header.remote h2 {
+header.mcnamara h3, header.coffee h3, header.lifevests h2, header.lifevests h3, header.books h2, header.books h3, header.guide h3, header.guide h2, header.remote h3, header.remote h2, header.stickerdots h2, header.stickerdots h3 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
+
 
 
 #headertop {
   width: 100%;
   height: 70px;
+}
+
+header.stickerdots #headertop, header.books #headertop {
+  background-color:rgba(0, 0, 0, 0.15);
+  height: 50px;
 }
 
 .container {
@@ -111,6 +122,10 @@ header nav {
   line-height: 1.7em;
 }
 
+nav.navigation {
+  height: 50px;
+}
+
 header .byline {
   clear: both;
   color: white;
@@ -120,11 +135,11 @@ header .byline {
   left: 6px;
   top: 470px;
   margin-bottom: 0px;
-  opacity: .6;
+  opacity: .8;
 }
 
 body.interior .byline {
-  top: 270px;
+  top: 290px;
 }
 
 body.interior #headbox h2, body.interior #headbox h3 {
@@ -146,6 +161,7 @@ header nav ul {
   padding-left: 0px;
   text-align: center;
   margin-bottom: 1em;
+  margin-top: .7em;
 }
 
 header nav ul li {
@@ -741,8 +757,8 @@ footer .columns {
 .homepage #buttonbox {
   height: auto;
   margin-top: 40px;
-  border-bottom: 1px solid white;
-  margin-bottom: 0px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 25px;
 }
 
 #buttonbox h3 {
@@ -770,7 +786,7 @@ footer .columns {
   float: right;
   cursor: pointer;
   width: 40%;
-  background: #ff8c00;
+  background: #F79797;
   border-radius: 10px;
   font-family: Arial;
   color: #ffffff;
@@ -779,6 +795,13 @@ footer .columns {
   text-decoration: none;
   text-align: center;
   margin-left: 25px;
+}
+
+.homepage .btn {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%
 }
 
 .btn#schedulebutton {
@@ -798,22 +821,26 @@ div.fr_bottom_bar {
 }
 
 form.fr_form button {
-  float: left;
+  float: none;
   margin-left: 0px;
   border:none;
   box-shadow: none;
 }
 
-.homepage .btn {
-  margin-left: 0px;
+div.fr_bottom {
+  background-color: white;
 }
+
 
 .homepage .btn:hover {
 }
 
 .btn:hover, form.fr_form button:hover {
-  background: #ff6600;
+  background: #FF5F5F;
+  color: white;
   text-decoration: none;
+  border: none;
+  box-shadow: none;
 }
 
 .bottomrun {
@@ -969,7 +996,7 @@ td {
     }
 
     body.interior .byline {
-      top: 230px;
+      top: 250px;
     }
 
     header, footer {
@@ -1067,6 +1094,7 @@ td {
 
     #headbox h3.homepage {
       padding-bottom: 10px;
+      padding-top: 20px;
     }
 
     #headbox h4.homepage {
@@ -1081,7 +1109,7 @@ td {
     }
 
     body.interior .byline {
-      top: 180px;
+      top: 200px;
     }
 
     header .byline {
@@ -1133,7 +1161,7 @@ td {
       background-position: 0 0px;
     }
     header .byline {
-        left: 0;
+        left: -10px;
         font-size: .7em;
     }
     #headbox h3.homepage, #headbox h4.homepage {
@@ -1180,6 +1208,7 @@ td {
     }
     #headbox h2 {
         font-size: 2.4em;
+        margin-top: 25px;
     }
 
     #headbox h3 {
@@ -1192,11 +1221,11 @@ td {
     #headbox h3.homepage {
         font-size: 1.6em;
     }
-    #headbox h4.homepage {
+    #headbox h4.homepage, body.interior #headbox h3 {
         font-size: 1.3em;
         display: none;
-
     }
+
     .btn, form.fr_form button {
       font-size: 1em;
       width: 100%;
@@ -1216,7 +1245,7 @@ td {
     #headbox h4.homepage {
         font-size: 1.2em;
     }
-    #headertop {
+    #headertop, header.stickerdots #headertop, header.books #headertop {
       background-color: white;
       height: 50px;
     }
@@ -1253,10 +1282,15 @@ td {
         font-size: 2.1em;
         margin-bottom: 5px;
     }
+
+    body.great_session div#headbox h2 {
+      font-size: 1.8em;
+      margin-top: 10px;
+    }
     #headbox h3 {
         font-size: 1.1em;
     }
-    #headertop {
+    #headertop, header.stickerdots #headertop, header.books #headertop {
         height: 40px;
     }
     header nav {
@@ -1275,8 +1309,8 @@ td {
         height: 250px;
     }
 
-    header.homepage .byline{
-      top: 160px;
+    header.homepage .byline, body.interior .byline{
+      top: 5px;
     }
 
     body.interior #headbox {
@@ -1291,11 +1325,12 @@ td {
       font-size: 1em;
     }
 
-    body.interior .byline {
-      top: 140px;
+    #headbox h3.homepage {
+      padding-top: 0px;
     }
 
     #headbox h3.homepage, #headbox h4.homepage {
+      margin-left: 80px;
     }
 
     .homepage #headbox {
@@ -1315,8 +1350,12 @@ td {
     margin-top: 5px;
     }
 
+    #headbox h3.homepage, #headbox h4.homepage {
+      margin-left: 150px;
+    }
+
     .homepage #headbox {
-      padding-left: 150px;
+      padding-left: 0px;
     }
 
     ul.homepage {
@@ -1338,6 +1377,11 @@ td {
 
     ul.homepage li.left img, ul.homepage li.right img {
       display: none;
+    }
+
+    body.interior a#cornerlogo img {
+      width: 180px;
+      margin-top: -60px;
     }
 
     p, body.interior #contentbox li {
