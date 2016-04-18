@@ -8,15 +8,15 @@ background: coffee
 byline: Lindsay Muscato
 permalink: /sponsors/index.html
 ---
-SRCCON is a conference centered on the challenges that news technology and data teams encounter every day. It attracts the best newsroom developers for two days of thinking, working, and building together.
+SRCCON is a conference centered on the challenges that news technology and data teams encounter every day. It attracts the best newsroom developers, designers, and data analysts for two days of thinking, working, and building together.
 
-Our sponsors help us make SRCCON both special and accessible by keeping our ticket price well below cost, getting people to the event, and bringing in the special touches that make SRCCON… SRCCON.
+Our sponsors help us make SRCCON unique and accessible by keeping our ticket price well below cost, getting people to the event, and bringing in the special touches that make SRCCON… SRCCON.
 
-We offer a number of different levels of sponsorship in order to accommodate a variety of different sized companies and organizations. Please join us in helping make SRCCON 2016 amazing:
+We offer several levels of sponsorship in order to accommodate a variety of sizes of companies and organizations. Please join us in helping make SRCCON 2016 amazing:
 
 ## Lead Sponsor
 
-As Lead Sponsor of SRCCON you recieve:
+As Lead Sponsor of SRCCON you receive:
 
 * 3 free tickets to SRCCON.
 * Logo on SRCCON website (in partners section) visible on every page.
@@ -28,13 +28,13 @@ As Lead Sponsor of SRCCON you recieve:
 
 ## Accessibility Sponsors
 
-Our Accessibility Sponsors help to make SRCCON welcoming to as many as possible. We have three Accessibility Sponsor slots available:
+Our Accessibility Sponsors help make SRCCON welcoming to as many as possible. We have three Accessibility Sponsor slots available:
 
   * Childcare
   * Scholarships
   * Transcripts
 
-Accessibility Sponsors recieve:
+Accessibility Sponsors receive:
 
 * 2 free tickets to SRCCON.
 * Logo on SRCCON website (in partners section) visible on every page.
@@ -45,7 +45,7 @@ Accessibility Sponsors recieve:
 
 ## Coffee & Tea Hack Station Sponsor
 
-Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at breaks to make each other hot beverages and compare session notes. Our Coffee & Tea Hacking Station sponsor recieves:
+Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at breaks to make each other hot beverages and compare session notes. Our Coffee & Tea Hacking Station Sponsor receives:
 
 * 1 free ticket to SRCCON.
 * Recyclable coffee cups with your logo on them.
@@ -55,7 +55,7 @@ Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at br
 
 ## Event Sponsors
 
-Becoming an event sponsor is a great way of supporting SRCCON. Event sponsors recieve:
+Becoming an event sponsor is a great way to support SRCCON. Event Sponsors receive:
 
 * 1 free ticket to SRCCON.
 * Logo on sponsorship page of SRCCON website.
@@ -63,7 +63,7 @@ Becoming an event sponsor is a great way of supporting SRCCON. Event sponsors re
 
 ## Local Media Sponsors
 
-Local Media Sponsorship is open only to media companies from MPLS/St. Paul. As a local media sponsor you recieve:
+Local Media Sponsorship is open only to media companies from the Portland area. As a Local Media Sponsor, you receive:
 
 * 2 free tickets to SRCCON.
 * Logo on sponsorship page of SRCCON website.
@@ -71,7 +71,7 @@ Local Media Sponsorship is open only to media companies from MPLS/St. Paul. As a
 
 ## Supporting Sponsors
 
-Want to support SRCCON on a budget? Our Supporting sponsorship level lets you help make SRCCON happen! Supporting sponsors recieve:
+Want to support SRCCON on a budget? Our Supporting Sponsorship level lets you help make SRCCON happen! Supporting Sponsors receive:
 
 * 1 guaranteed ticket (purchased separately).
 * Logo on sponsorship page of SRCCON website.
