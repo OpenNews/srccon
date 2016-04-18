@@ -2,6 +2,46 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "What if I told you there’s more to running a newsroom experiment than just trying out a new thing for the first time? That there are processes to make sure you’ll get the most out doing them, and that the rest of your newsroom will benefit, too. \n\nUsing practical exercises, this session will take you through the steps of  planning a newsroom experiment and, crucially, what to do afterwards. You will come away from this session with a framework for how to structure and plan newsroom experiments", 
+        "facilitator": "Robin Kwong", 
+        "facilitator_twitter": "robinkwong", 
+        "id": 317223, 
+        "submitted_at": "2016-04-18T10:27:43.851Z", 
+        "title": "Getting more out of your newsroom experiments"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "This is a roundtable discussion on the role of art in journalism. Should we try to create art in our work, or should we aim to convey new information in as efficient a manner as possible? Or, maybe, the two are compatible?\n\nWhat is the value of information in an age where scoops are instantaneously retweeted and replicated? (but where it is still hard to copy the experience of, say, the Washington Post’s The Waypoint or The Guardian's 6x9 VR project) People might no longer be willing to pay for information they can get for free on Twitter, Facebook, or Google, but might they pay for meaningful and informative experiences?\n\nFinally, if we do set out to create art, in what ways do we need to change how we’re organised?", 
+        "facilitator": "Robin Kwong", 
+        "facilitator_twitter": "robinkwong", 
+        "id": 317212, 
+        "submitted_at": "2016-04-18T10:18:48.712Z", 
+        "title": "Can art and storytelling save journalism?"
+    }, 
+    {
+        "cofacilitator": "Scott Klein", 
+        "cofacilitator_twitter": null, 
+        "description": "There's talk of what a news app developer does versus the developers that work on your CMS. Should your news apps team be protected from the crazy demands placed on your CMS developers? Should your CMS developers have some idea what journalists are looking for? This session explores this topic from all sides.", 
+        "facilitator": "Travis Swicegood", 
+        "facilitator_twitter": "tswicegood", 
+        "id": 317111, 
+        "submitted_at": "2016-04-18T01:50:40.181Z", 
+        "title": "Do you need journalists on your engineering team?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "In this session the attendees will learn how to enrich stories with VR experiences without the help of developers using open source tools based on web standards. This experiences can be distributed as websites or embed as widgets and are ready for headsets like the Oculus Rift and the Google Cardboard. The presented tools includes a project  called GuriVR (gurivr.com), developed as part of my Knight-Mozilla fellowship.", 
+        "facilitator": "Dan Zajdband", 
+        "facilitator_twitter": "impronunciable", 
+        "id": 317026, 
+        "submitted_at": "2016-04-17T20:46:51.752Z", 
+        "title": "WebVR for the rest of us"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "We talk a lot about documenting our work throughout projects, but we really don't talk enough about how we can use better documentation to start us off in our jobs with the right knowledge and technology stack of the newsroom. For example, when someone leaves the newsroom is there some type of minimum documentation that they have to do or is there no expectation set for this? What about all of the institutional knowledge that people take when they leave a newsroom? Should there be guidelines on what sources and information you leave behind so the next person doesn't have to spend a lot of time reinventing the wheel? \nLet's have a discussion about newsroom on-boarding and off-boarding processes and how we, as a news nerd community, can work through some simple ways together to make these processes more efficient and useful for the future.", 
         "facilitator": "Sandhya Kambhampati", 
         "facilitator_twitter": "sandhya__k", 
