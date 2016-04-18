@@ -59,7 +59,8 @@ header.lifevests {
 }
 
 header.coffee {
-  background-image: url(/media/img/2015/coffee.jpg);
+  background-image: url(/media/img/2016/sponsors.jpg);
+  background-size: cover;
 }
 
 header.guide {
