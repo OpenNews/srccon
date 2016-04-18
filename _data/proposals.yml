@@ -1,5 +1,75 @@
 [
     {
+        "cofacilitator": "David Erwin", 
+        "cofacilitator_twitter": "daviderwin", 
+        "description": "Let's take a walk through the existing ecosystem of The Coral Project - by installing it on your own machine. We'll share how it's built, supply dummy data so you can play with it immediately, and discuss how to approach big problems with ambitious open-source software.", 
+        "facilitator": "Gabriela Rodriguez Beron", 
+        "facilitator_twitter": "gaba", 
+        "id": 317495, 
+        "submitted_at": "2016-04-18T22:29:23.155Z", 
+        "title": "Install Party: The Coral Project"
+    }, 
+    {
+        "cofacilitator": "Greg Barber", 
+        "cofacilitator_twitter": "gjbarb", 
+        "description": "We've done a huge amount of user research for The Coral Project. We've talked to more than 300 people in 30 countries. We've talked to trolls, developers, journalists, commenters, non-commenters, publishers... and we're still doing it. But how do you know when to stop the research and start building? When do you know enough to get to work? How do you store, share, synthesize your work for the rest of the team? We haven't many answers, but plenty of examples and a lot of questions for everyone to consider.", 
+        "facilitator": "Andrew Losowsky", 
+        "facilitator_twitter": "coralproject", 
+        "id": 317488, 
+        "submitted_at": "2016-04-18T22:45:22.911Z", 
+        "title": "How much research is too much?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Let's take a moment and get away from the weighty, important conversations and just make/hack something.  In a short amount of time, and through a loosely structured format, you will make something.  That something could be a more fully-formed idea, a better title and mission for an existing project, a paper prototype of a news app, a drawing of a visualization, an interview process and actual interview, a quickly coded prototype, code tests for a project, a new logo, and so much more.  Just come with a small, achievable idea.  Groups are welcome, but its suggested to keep them at no more than 2 or 3 people.", 
+        "facilitator": "Alan Palazzolo", 
+        "facilitator_twitter": "zzolo", 
+        "id": 317464, 
+        "submitted_at": "2016-04-18T21:39:59.686Z", 
+        "title": "Playtime (in ludicrous speed)"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "With the ‘silent movie’ format of autoplaying Facebook News Feed videos, captioning has gone from being an accessibility concern, to being the primary hook many viewers will have into your video.\nLet’s share examples of publishers making the most of this new creative format which demands a different story-telling style, combining text, animation and video.\n\nOptimising for this silent format is also a great reason to make your videos accessible through subtitles or closed-captions. Whether you’re already captioning your videos or looking to get started let’s go through recently developed tools for making this easier including crowdsourcing (Amara) and Speech To Text (Trint) and how you can integrate them into your workflows publishing on YouTube and Facebook.", 
+        "facilitator": "Gideon Goldberg", 
+        "facilitator_twitter": "gidsg", 
+        "id": 317451, 
+        "submitted_at": "2016-04-18T20:52:45.885Z", 
+        "title": "‘Insert Caption Here’: how Facebook made video captioning cool"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "According to this Very Scientific™ poll, ~75% of developers still primarily rely on `console.log` debugging:  https://twitter.com/brianloveswords/status/717749353914490881. While there is nothing wrong with `console.log`, modern browsers contain a rich suite of tools that can help you debug even some of the gnarliest nested callback pyramids and promise chains. In this session we'll show you some of those tools and teach you how to use them so next time you're running into problems you might not have to debug with `console.log(\"why isn't this workinggggg\")`.", 
+        "facilitator": "Brian J Brennan", 
+        "facilitator_twitter": "brianloveswords", 
+        "id": 317448, 
+        "submitted_at": "2016-04-18T21:34:32.396Z", 
+        "title": "Beyond console.log: making the most of your developer tools"
+    }, 
+    {
+        "cofacilitator": "Lauren Rabaino", 
+        "cofacilitator_twitter": "laurenrabaino", 
+        "description": "Writing down processes, goals, and workflows is an important part of building healthy, transparent, and collaborative teams. But finding time to write and making sure that people read those documents is a constant challenge. This session will lean into the expertise and experience of attendees to explore methods for building solid documentation practices into a team’s culture.", 
+        "facilitator": "Kelsey Scherer", 
+        "facilitator_twitter": "kelsa_", 
+        "id": 317439, 
+        "submitted_at": "2016-04-18T20:31:05.199Z", 
+        "title": "How can teams build a consistent culture of documentation?"
+    }, 
+    {
+        "cofacilitator": "Tim Broderick", 
+        "cofacilitator_twitter": "TimBroderick", 
+        "description": "Today, on average, a student will take over 112 mandatory standardized tests between K12, in addition to other key exams such as the SAT or ACT. Additionally, many states have switched over to computer adaptive testing (such as the SmarterBalanced or MAP), which requires different analysis than the old, standards based exams. Even further complicating matters, \n\nThis presents a large trough of open data that is meaningful information to our audience. However, obtaining and interpreting this data is complicated. This session will present the “test lifecycle”, we’ll talk about how to obtain the data, and finally, compare analysis methods and tooling for reporting on this data. \n\nThis session will serve as a kickoff of an attempt to build a shared online repository of test-data reporting tools and tricks, including a data mirror for FOIA’d data, links to analysis packages such as MapVizieR, and a how-to guide.", 
+        "facilitator": "Hunter Owens", 
+        "facilitator_twitter": "hunter_owens", 
+        "id": 317385, 
+        "submitted_at": "2016-04-18T18:55:07.865Z", 
+        "title": "Better Know a Test-Regime: Doing Data Analysis of Modern Day Comprehensive Testing"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "What if I told you there’s more to running a newsroom experiment than just trying out a new thing for the first time? That there are processes to make sure you’ll get the most out doing them, and that the rest of your newsroom will benefit, too. \n\nUsing practical exercises, this session will take you through the steps of  planning a newsroom experiment and, crucially, what to do afterwards. You will come away from this session with a framework for how to structure and plan newsroom experiments", 
