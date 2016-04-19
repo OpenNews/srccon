@@ -13,7 +13,7 @@ permalink: /index.html
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. 
 
-Our call for session proposals is now open!
+Our call for session proposals is now open! [See what's come in so far](/sessions/proposals).
 
 {% include sessionsgo.html %}
 

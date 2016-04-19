@@ -10,7 +10,7 @@ permalink: /sessions/index.html
 ---
 {% include sessionsgo.html %}
 
-SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. The community members who step up to facilitate these sessions make it all possible—which is why *you* should [pitch a session](/sessions/pitch). Before you do, though, check out our advice on [how to put together a great pitch and run an excellent SRCCON session](/sessions/great_session).
+SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. The community members who step up to facilitate these sessions make it all possible—which is why *you* should [pitch a session](/sessions/pitch). Before you do, though, check out our advice on [how to put together a great pitch and run an excellent SRCCON session](/sessions/great_session), or [browse the proposals that are already in](/sessions/proposals).
 
 ## What Are SRCCON Sessions Like?
 
