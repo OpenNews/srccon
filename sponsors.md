@@ -46,7 +46,7 @@ Accessibility Sponsors receive:
 
 Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at breaks to make each other hot beverages and compare session notes. Our Coffee & Tea Hacking Station Sponsor receives:
 
-* 1 free ticket to SRCCON.
+* 2 free tickets to SRCCON.
 * Recyclable coffee cups with your logo on them.
 * Logo on signage at the Coffee & Tea Hacking Station.
 * Logo on sponsorship page of SRCCON website.
