@@ -5,7 +5,6 @@ subtitle: Sponsorship is a great way to help make SRCCON happen, and we'd love y
 section: sponsors
 sub-section: interior
 background: coffee
-byline: Lindsay Muscato
 permalink: /sponsors/index.html
 ---
 SRCCON is a conference centered on the challenges that news technology and data teams encounter every day. It attracts the best newsroom developers for two days of thinking, working, and building together.
