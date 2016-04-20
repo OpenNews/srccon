@@ -1,5 +1,45 @@
 [
     {
+        "cofacilitator": "Simon Wörpel", 
+        "cofacilitator_twitter": "simonwoerpel", 
+        "description": "If you build tools that are used internationally, or if you work with data from non-English speaking communities, you will sooner or later encounter interesting problems, including character encoding, foreign number and date formats, or right-to-left languages.\n\nDealing with localization can be messy and frustrating, but it doesn’t have to be. Together, we'll look at newsroom tools, identify localization issues based on real world examples, and discuss possible solutions. Bring your own projects!", 
+        "facilitator": "Simon Jockers", 
+        "facilitator_twitter": "sjockers", 
+        "id": 318367, 
+        "submitted_at": "2016-04-20T18:41:00.499Z", 
+        "title": "Localize your newsroom tools!"
+    }, 
+    {
+        "cofacilitator": "Lindsay Green-Barber", 
+        "cofacilitator_twitter": "WhimsicaLinds", 
+        "description": "In this session, we’ll explore how media organizations and their supporters have been approaching the question of impact, how impact research can be leveraged for strategic decision-making, and why it matters. We’ll demo our answer: CIR’s Impact Tracker, an easy to use web based platform that allows your organization to create qualitative datasets to measure success, and is currently being used by ten media organizations across the globe. \nWe will introduce an intuitive framework for investigating media impact. Then we’ll dive into case-studies of organizations using it, detailing how each organization has customized the Impact Tracker tool to reflect their institutional goals, and then uses it to deliver powerful insights into how their work affects the world.\nCome ready to learn about why you should measure the impact of your work and how to do it. This will be an interactive session, so bring your impact challenges to this problem-solving conversation.", 
+        "facilitator": "Sam Ward", 
+        "facilitator_twitter": "sward13", 
+        "id": 318360, 
+        "submitted_at": "2016-04-20T18:27:45.863Z", 
+        "title": "Beyond duct tape and chewing gum: Strategies for measuring media impact"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "We no longer live in a world of mass undifferentiated audiences.  News orgs have to thinking like product companies by catering to customers segments.  To start, we need to build customer relationship management tools to delivery personalized features, content, ads, and subscriptions.  Let's brainstorm how we can track customer data to optimize the Awareness, Acquisition, Activation, Retention, Revenue (AARRR) funnel for news products.", 
+        "facilitator": "Hong Qu", 
+        "facilitator_twitter": "hqu", 
+        "id": 318359, 
+        "submitted_at": "2016-04-20T18:48:40.770Z", 
+        "title": "Death to audience, hail customers building CRM systems for news products"
+    }, 
+    {
+        "cofacilitator": "Linda Sandvik", 
+        "cofacilitator_twitter": "hyper_linda", 
+        "description": "Algorithms play an increasingly relevant role in shaping our digital and physical experiences of the world. It is frequently the case that data from our digital footprints is used to predict our behavior and make decisions about the choices available to us. This unprecedented capacity to collect and analyze data has brought along with it a troubling dismissiveness of user agency, participation, and ownership. Such systems assume that it is an acceptable by-product for their users to have no understanding of the decisions being made about them and no agency in that decision-making process. For the most part, the invisibilized nature of these decisions are seen as a feature, not a bug, of a good user experience. As we begin to use algorithmic decision-making in areas of our lives that are increasingly high-stakes, it is essential that we create and utilize processes that maintain user agency and understanding. In this session, participants will be imagining and designing user experiences that employ participatory algorithmic-decision making processes. The session will be open to folks from all experience levels. We would be excited to see folks from a variety of different backgrounds, including designers, data scientists, journalists, privacy & security practitioners, and organizers from marginalized and frequently surveilled communities.", 
+        "facilitator": "Tara Adiseshan", 
+        "facilitator_twitter": "taraadiseshan", 
+        "id": 318355, 
+        "submitted_at": "2016-04-20T18:28:53.686Z", 
+        "title": "Designing Participatory Algorithmic Decision-Making Processes"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "magine our grand parents age was the Age of Space (zero sum, take from others, use land to grow crops). Ads were magic. People saw the, and they just bought stuff. It was a magic system. \nImagine our parents time was Age of Time (rise of media, free time, excess income, office jobs). First movers captured the market. Free time and office jobs defined the future of industry. \nImagine our time is the Age of Attention (Eyeballs, brand loyalty, Internet, cell phones, always being connected). Loyalty of customers is everything. Products with the best engineers build free services to repackage attention and sell it back to advertisers. \nThen what is to come? From the media landscape, there is more information than ever, so the ability to have the right perspective on interpreting the information becomes important (i.e. Culture, understanding the \"big data\", authenticity).\n\nI will explore how media will monetize on this part.", 
