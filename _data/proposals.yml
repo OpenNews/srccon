@@ -1,5 +1,315 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The most efficient way to produce results is to be a team of one. That's not practical, and even individuals need some sort of product management to make sure they can deliver things on time. Whether you're making things for the daily news cycle, or thinking about Q3, having effective product management can make a world of difference. A good product manager being rarer than a first edition Charizard, how can we level up our skills to narrow the gap?", 
+        "facilitator": "Chris Chang", 
+        "facilitator_twitter": "ccrrccrccrr", 
+        "id": 318125, 
+        "submitted_at": "2016-04-20T06:55:21.302Z", 
+        "title": "How do you scrum up some lean mvps?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "When Quartz was sketched on a napkin, the future was mobile-first and on the open-web. In a few short years that landscape is unrecognizable, and the search and social-network referral engines have morphed into distribution behemoths. \"Back in the day\" our biggest challenge was getting the print side to listen to digital, then moving their attention from Desktop to Mobile. We've barely achieved that and the goalposts have moved even further. Forget recirc, ad-blocking, responsive web, web page performance, native apps - all reduced to minor players in the last year. Now we're in the territory of bots (maybe) and distribution on proprietary platforms.\n\nGiven finite resources to build a newsroom from scratch what do you focus on from day one? How do you structure scalability, design, distribution, and viability with the journalistic mission to inform the public? Now how does that model compare to your current organization?", 
+        "facilitator": "Michael Donohoe", 
+        "facilitator_twitter": "donohoe", 
+        "id": 318094, 
+        "submitted_at": "2016-04-20T05:00:30.621Z", 
+        "title": "Building the Next Newsroom at Scale"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Atoms, particles, chunks, structured stories-- we have different names and methods for slicing and dicing our content. On the distributed web, stories are picked apart, with different pieces appearing in widgets, social media posts, and chat windows. Stories morph to take the shape of their containers, many of which we don't control, whether it's Facebook, Google, Apple, Slack or Snapchat. What is a story nowadays, and what pieces comprise it (people, places, sections, facts, sub-stories)? How can smart tagging and metadata help us extract meaning and gain value? How do we best represent stories in a database, CMS or API? How do we keep stories nimble in response to changing industry standards and requirements?", 
+        "facilitator": "Liam Andrew", 
+        "facilitator_twitter": "mailbackwards", 
+        "id": 318075, 
+        "submitted_at": "2016-04-20T03:24:02.518Z", 
+        "title": "What's in a story?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Traditional journalism frames its audience as consumers, rather than as citizens with agency. But, people are more than eyeballs. What is the value of information, if it can't inform actions? What are ways to make stories more directly relevant to people's daily lives and decisions? Are there cases where there is a moral obligation to help people act? What kinds of ethical issues can this raise, and how do we call for action responsibly? Let's talk about calls to action, from those that are standard (e.g. share your thoughts in the comments, subscribe) to those that are useful (e.g. donate to disaster relief, find your polling place) to those that are more radical.", 
+        "facilitator": "Cathy Deng", 
+        "facilitator_twitter": "@cthydng", 
+        "id": 318062, 
+        "submitted_at": "2016-04-20T04:22:13.131Z", 
+        "title": "Passive vs. active audience: let's talk about calls to action"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "If you're a developer in a newsroom, people will have ideas for stuff you should work on. That's great! But chances are they can come up with ideas faster than you can implement them—especially if you're the only one who'll be working on them. How do you decide which ideas get your attention first? And at least as importantly, how do you stay on good terms with all of your colleagues who send you ideas, even those whose ideas probably aren't getting worked on anytime soon?", 
+        "facilitator": "Justin Myers", 
+        "facilitator_twitter": "myersjustinc", 
+        "id": 318061, 
+        "submitted_at": "2016-04-20T02:44:36.075Z", 
+        "title": "Every Day I'm Juggling: How to manage project ideas and keep people happy, all by yourself"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "This discussion wants to dive deeper into the pros and cons of remote working. It is often a privilege (mobility, autonomy, etc ...) but can be a bit daunting (feeling like an outsider, quicker to talk face to face, etc...). Where do you stand on that spectrum? We will dive into these specifics(and possibly more):\n- What does your company/team do to create a sense of community? (ex:Slack)\n- What do you think your company/team should do to improve that same sense of community?\n- Do you think remote work is the future?\n- How will that impact the way journalists report the news? And how will that impact product teams?", 
+        "facilitator": "Pamela Assogba", 
+        "facilitator_twitter": "pam_yam", 
+        "id": 318047, 
+        "submitted_at": "2016-04-20T02:05:48.671Z", 
+        "title": "True Life: I Work Remotely"
+    }, 
+    {
+        "cofacilitator": "William Wolfe-Wylie", 
+        "cofacilitator_twitter": "wolfewylie", 
+        "description": "As the lines between news and technology increasingly blur, how can you ensure journalism ethics and standards are top of mind? While we're busy adopting new tools, collaborating with tech giants, having said tech giants impose strict publishing rules on us, we have to make sure the trust our audience puts in our ability to tell the news remains the top priority. We’ll host a conversation about what we’ve learned from combining journalism with technology like virtual reality, web scraping, bots and syndication to Apple, Facebook and Google. Then, as a group, we’ll develop a community resource you can take back to your newsroom that will help you navigate those ethical waters whenever the next cool big thing comes your way.", 
+        "facilitator": "Danielle Webb", 
+        "facilitator_twitter": "daniwebb_", 
+        "id": 318044, 
+        "submitted_at": "2016-04-20T02:25:27.189Z", 
+        "title": "Before robots take over the news: Adopting new technologies without compromising our journalism"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Last year we left SRCCON with heads full of ideas. What have you done with those ideas? What new projects grew out of SRCCON?\n\nWhat have you learned at SRCCON this year? What are your resolutions for the next year? Commit to build something.", 
+        "facilitator": "Ben Keith", 
+        "facilitator_twitter": "benlkeith", 
+        "id": 318026, 
+        "submitted_at": "2016-04-20T01:34:14.421Z", 
+        "title": "What's happened since last year? What will you be doing next year?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "jQuery. Python. Gulp. Puppet. Sometimes, it seems like modern computing requires a new framework or set of abstracted tools every week. But old tools can have great strength. The New York Times is running election results with Bash scripts and a command-line Python tool because they're rock solid and easy to debug.", 
+        "facilitator": "Jeremy Bowers", 
+        "facilitator_twitter": "jeremybowers", 
+        "id": 318023, 
+        "submitted_at": "2016-04-20T01:23:24.807Z", 
+        "title": "Old Magick: How You Can Harness Ancient Tools For Modern Purposes"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "National news outlets and metropolitan papers realize the need for reporters who code and data-savvy journalists, but what about your suburban and rural hometown papers? As a 20-year-old intern, I taught a reporter in a smaller local newsroom how to use Excel. There are countless uses for developers and tech-minded journalists in newsrooms, but the reporters there might not be equipped with the toolkit necessary to pursue those stories and provider better public service journalism. \nIn this session, I would like to take SRCCON's network of incredible, intelligent journalists and expand that to include reporters at small, local papers, whose continually watch their staffs shrink and budgets get cut. I believe we can form mentor-mentee relationships and come up with ways to teach small-paper journalists to think about data and code, even if it's done remotely (because the internet!). Throughout this session, I hope to brainstorm different ways to forge connections with other journalists; for instance, if you're based in New York City, this would be a great time to get in touch with fellow journalists in Buffalo and Schenectady. These connections would also give big city reporters a better eye into what's happening, and of course, story ideas, in smaller localities.", 
+        "facilitator": "Danielle Keeton-Olsen", 
+        "facilitator_twitter": "DanielleRose84", 
+        "id": 318022, 
+        "submitted_at": "2016-04-20T01:51:24.337Z", 
+        "title": "Bringing code and data into smaller papers"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Bring books to share with other SRCCON attendees. Borrow books from attendees and give your reaction to the collective - reader responses will be collated and published (optionally anonymous) - and we'll provide every reader a way to leave a message with their book's owner.", 
+        "facilitator": "Ben Keith", 
+        "facilitator_twitter": "benlkeith", 
+        "id": 318012, 
+        "submitted_at": "2016-04-20T01:16:07.878Z", 
+        "title": "Book Share"
+    }, 
+    {
+        "cofacilitator": "Jennifer Thibault", 
+        "cofacilitator_twitter": "@jlthibault", 
+        "description": "We have a common language and set of processes for getting a news story reported, vetted and published. But what’s the right process for redesigning a news website? A news app? A data interactive? These projects can become complex. They need to be collaborative. The bosses need to buy in early. Let’s stop winging it. In this session, we’ll discuss what we can borrow from the design industry, which has developed a plethora of methods that can be used to facilitate meetings, surface and prioritize user needs, define project scope, generate ideas and test assumptions, and keep a project moving toward its deadline. We’ll brainstorm the common problems and challenges we all face in managing these projects, and then we’ll tackle the most pressing — sharing and evaluating which design methods might work best to solve them.", 
+        "facilitator": "AmyJo Brown", 
+        "facilitator_twitter": "amyjo_brown", 
+        "id": 318001, 
+        "submitted_at": "2016-04-20T00:36:42.943Z", 
+        "title": "What ideas can we borrow from the design world to solve news design problems?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Science Fiction authors often embed deep insights into the future of technology within their stories. Come to this session to share examples of fascinating science fictional treatments of media and networked communication with other attendees and geek out about who got it right and who may yet come out correct.  (My idea is to solicit ahead of time 4-6 super fans who are willing to give low-key lightning talks summarizing plots with an emphasis on the interesting media bits.)", 
+        "facilitator": "Joe Germuska", 
+        "facilitator_twitter": "JoeGermuska", 
+        "id": 317973, 
+        "submitted_at": "2016-04-19T23:13:48.806Z", 
+        "title": "Through an iPhone Darkly: Media and Networks through the lens of Science Fiction"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Developers, software engineers, designers, etc, can all attest to solving problems on the job. Yet, it's one thing to be logical in the professional realm, and another to keep the same practicality in life. \nThis discussion wants to dive a little bit in problem solvers' minds when they're faced with life problems. Do they apply the same reasoning and critical thinking?  If not, why is that?  Understanding that life problems have different implications than work ones, it would be interesting to look at the differences and assess if they truly make life problems harder to approach. At work, it's not very recommended to ignore a task because it's hard, or painful. So why do it when it comes life problems that may affect our happiness?\nOn the other hand, if problem solvers keep the same pragmatic mentality in real life, has that proven to be successful? If so how do they keep a level head, and how to others receive it?\nWithout needing to go into private details, this session could be a short and interesting discussion on whether or not the work brain can be successfully applied to life.", 
+        "facilitator": "Pamela Assogba", 
+        "facilitator_twitter": "pam_yam", 
+        "id": 317966, 
+        "submitted_at": "2016-04-20T01:52:56.959Z", 
+        "title": "Problem Solvers IRL"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Chances are your newsroom uses Google apps in some capacity: you might use Docs for planning, Sheets for data storage and editing, and Calendar to share scheduling. But are you getting the most out of them? Did you know that you can use a built-in scripting language to mutate Google Apps in countless ways--turning it into a server, a scraper, or a mail alert system?\n\nIn this session, I'll walk through real Apps Script systems that we've built at the Times, including storing user-generated content for static apps, geocoding thousands of addresses, and parsing through scraped data. It won't be pretty, and it won't be perfect, but it'll add new utility to the tools you're already using--not to mention those magic words in a cash-starved newsroom: it's free!", 
+        "facilitator": "Thomas Wilburn", 
+        "facilitator_twitter": "thomaswilburn", 
+        "id": 317949, 
+        "submitted_at": "2016-04-19T23:04:42.094Z", 
+        "title": "Digital duct tape: Macgyvering your way to journalism via Google Apps Script"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Major projects don't often start out as major. If there's something you care about, then do the small, everyday steps that build the foundation and passion needed for actually launching a project or investigation, rather than procrastinating because of self-perceived limitations in skills or technological stack.  This is a round-table discussion for veterans to share those initial, mundane, and necessary steps and improvisations that are often glossed over when describing a project's success, and for participants to talk about the obstacles that block them in the early stages of their endeavors. \n\n(\"Do what is right and do it now\" was reportedly a favorite saying of Dr. Virginia Apgar, who revolutionized obstetrics by inventing a simple 10-point scale to quickly gauge the health of newborn babies)", 
+        "facilitator": "Dan Nguyen", 
+        "facilitator_twitter": "dancow", 
+        "id": 317947, 
+        "submitted_at": "2016-04-19T22:27:01.851Z", 
+        "title": "Do what's right and do it now"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The Augmented Narrative Toolkit is a new open source web framework that enables developers to create  narrative pieces that integrate and take advantage of data visualizations, multimedia elements and other interactions with simple HTML5 tags, CSS3 and very little JavaScript. \n\nThe objective of Ant is for developers to be able to define charts, maps and actions in HTML, as easily as they would add an image (<img>)\n\n<div id=\"mymap\" data-chart=\"map\" data-layers=\"countries\"></div>\n<a data-control data-control_chart=\"mymap\" data-zoom_to=\".mex\" data-zoom_level=\"100\">Zoom to Mexico</a>\n\nWould render an SVG with the countries of the world and a link that, when clicked, makes the svg zoom to Mexico. As simple as that and this is just the tip of the iceber. \n\nVisit the project's Github repo for more information: http://github.com/AugmentedNarrative/ant", 
+        "facilitator": "Paola Villarreal", 
+        "facilitator_twitter": "paw", 
+        "id": 317943, 
+        "submitted_at": "2016-04-19T22:06:03.575Z", 
+        "title": "Using The Augmented Narrative Toolkit to tell data-driven, interactive, stories"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The Engaging News Project has researched a variety of ways to improve comments sections, including getting journalists involved in the comments and finding alternatives to the \"Like\" button. We now want to take our research to the next level and explore if/how the design of comments can affect civility. In this session, we will brainstorm new formats for displaying comments and discuss how changing the look of the comments may affect the conversation.", 
+        "facilitator": "Katie Steiner", 
+        "facilitator_twitter": "@engagingnews", 
+        "id": 317939, 
+        "submitted_at": "2016-04-19T22:11:42.086Z", 
+        "title": "Designing Comments for Civility"
+    }, 
+    {
+        "cofacilitator": "Scott Pham", 
+        "cofacilitator_twitter": "scottpham", 
+        "description": "I've always wondered what the network of bike thieves looks like. Do they all go to one place for immediate sale, do they go to hubs and get wholesaled or something, or do they go to one-off places. Pending funding, we'll get some number of GPS transmitters, some number of used bikes, then put the transmitters on the bike during the session. Then we'll distribute them around Portland to see if they get stolen, and then track where they go.", 
+        "facilitator": "Michael Corey", 
+        "facilitator_twitter": "mikejcorey", 
+        "id": 317938, 
+        "submitted_at": "2016-04-19T21:49:48.877Z", 
+        "title": "Steal this bike!"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "In this session we’ll discuss our experiences on how to approach the problem of building tools for journalist in the newsroom.\n\nHow do you gather user requirements and ensure it is an effective solution for your users problem before investing time and resources into developing it? \n\nWe’ll consider techniques such as the so called \"Mum Test\", ways of modelling the problem domain, a Lean way to make hypothesis and iterate, and and component based design R&D  prototyping approach as successful ways to build solid foundations and be able to quickly pivot should you need to do so.", 
+        "facilitator": "Pietro Passarelli", 
+        "facilitator_twitter": "pietropassarell", 
+        "id": 317930, 
+        "submitted_at": "2016-04-19T21:36:31.504Z", 
+        "title": "How to make newsroom tools that people will actually use?"
+    }, 
+    {
+        "cofacilitator": "Niels Ladefoged", 
+        "cofacilitator_twitter": "contactniels@gmail.com", 
+        "description": "Using some of the videos from the Whistle Blowers Interview Archive, we’ll take an hands on approach to explore key concepts, ideas and techniques to identify narrative points, test out story ideas, and craft a compelling story.\n\nThis session focusses on the underlying evergreen storytelling principles that transcend the medium, so no knowledge of video editing required, just curiosity towards story telling principles and techniques.", 
+        "facilitator": "Pietro Passarelli", 
+        "facilitator_twitter": "pietropassarell", 
+        "id": 317919, 
+        "submitted_at": "2016-04-19T21:17:14.555Z", 
+        "title": "How to craft compelling stories out of video interviews?"
+    }, 
+    {
+        "cofacilitator": "Mahana Mansfield", 
+        "cofacilitator_twitter": "mahanac", 
+        "description": "A recent Guardian analysis based on abuse reports placed on over 70 million comments on the  our site found that of the ten regular authors who received the most abuse 8 were female and the two men were black. This research formed part of the ‘Web We Want’ campaign exploring abuse online how to improve quality of conversation on the web.\n\nPublishing the data inevitably raises the question of how we respond to the issues raised:\nWe will share our methodology and ask how we can encourage other UGC hosts to open their abuse data?\nPlus tackle some of the challenges in how to respond, namely, is it possible to de-toxify the discussion around topics we found attract higher amounts of abuse like Israel/Palestine and Feminism, or for particular contributors? How to manage the moderation load whilst maintaining a civil conversation?\nCan we quantify the value of on site UGC platforms, given the cost and complexity of maintaining them?\nAre there elements of best practice we can take from different sites, to construct what an ideal participation experience would look like?", 
+        "facilitator": "Gideon Goldberg", 
+        "facilitator_twitter": "gidsg", 
+        "id": 317880, 
+        "submitted_at": "2016-04-19T20:27:29.054Z", 
+        "title": "Building the Web We Want"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "As journalists and content-producer, we offer our audience a view on the world - and shape their beliefs about it. Beliefs will influence how people feel about the world and how to act in it. So how do we want these beliefs to be? And which kind of journalism would be needed to achieve them? We'll start high-level and talk about (conflicting) goals in journalism and its responsibility in our society. With this discussion in mind, we go downwards on the ladder of abstraction and explore specific journalistic tools and principles in smaller groups. Examples of the directions these discussions could take are \"immersive journalism with VR / empathy building vs. a neutral stance\", \"exemplification / stories vs. stats / 'reality' / data vis\" and \"investigative journalism / journalism as activism vs. journalism as unbiased observer\". If you've ever asked yourself: \"What are we publishing to our audience and why are we actually doing it?\", that's the right session for you.", 
+        "facilitator": "Lisa Charlotte Rost", 
+        "facilitator_twitter": "lisacrost", 
+        "id": 317832, 
+        "submitted_at": "2016-04-19T18:43:38.594Z", 
+        "title": "How to form people's beliefs about the world"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Since the emergence of responsive design a few years ago, offering a mobile-friendly display mode for your news website is a basic requirement for virtually everyone. However, we now face a growing array of other ways to distribute our content to readers using mobile devices: native iOS and Android apps, AMP, Facebook Instant, Apple News, and more. This session will dive into the array of questions we face in confronting the restrictions these environments place on interactives and storytelling. It will give us a chance swap strategies for building code that works great (or at least works) on these platforms, and a space to talk about navigating the business and editorial pressure to use them over traditional responsive mobile experiences.", 
+        "facilitator": "Matt Johnson", 
+        "facilitator_twitter": "xmatt", 
+        "id": 317802, 
+        "submitted_at": "2016-04-19T17:45:32.290Z", 
+        "title": "How do we navigate the new mobile landscape?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Software maintenance has been estimated to account for between 60 and 70% of costs in the average software development project. In a newsroom setting, writing and building on deadline and with an eye toward long-term maintenance is a tricky balance. Neglecting it can lead to linkrot, deprecated apps, and a lazy reliance on SEO to define the public record; overemphasizing it may induce existential paralysis. How are different newsrooms building, producing, and maintaining their apps and/or large, complex stories? Who's responsible for this kind of archiving and preservation work? And how do the methods of archiving shape the future of the story itself? This session will discuss a few case studies of both neglected and well-maintained projects (primarily in the context of reporting on large file dumps and data leaks) to explore potential guiding principles for maintenance-driven journalism. Participants are encouraged to come prepared to share examples of broken or well-maintained news apps or instances of what they consider successes or failures in journalism maintenance.", 
+        "facilitator": "Ingrid Burrington", 
+        "facilitator_twitter": "lifewinning", 
+        "id": 317786, 
+        "submitted_at": "2016-04-19T18:11:24.214Z", 
+        "title": "Zen And The Art Of  Journalism Maintenance"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "No matter the focus, your organization has a mission: ad revenue, subscriptions, social change, engagement. And you need to monitor all the things, including (increasingly) visual and interactive elements.  It's easy to get overwhelmed when looking at a dashboard or set of data. Let's build a matrix of metrics that measure your mission.", 
+        "facilitator": "Matt Neznanski", 
+        "facilitator_twitter": "mneznanski", 
+        "id": 317772, 
+        "submitted_at": "2016-04-19T18:06:08.572Z", 
+        "title": "Measure your mission with a metrics matrix"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "You're throwing a fancy party for your friends, so you hire a chef. There are certain expectations between you and the chef: they will cook food; the food will be good; they will respect your home; they will reflect well upon you and treat your friends as their own guests; they will not put business cards on each plate; they will not poison your friends, introduce wolves, or burn your house down.\n\nThese guidelines apply equally well to those of us providing shareable components for embedding on other people's websites. We are co-hosts to other people's guests. We should provide the service we advertise on the tin, not break people's stuff, and generally remember we are part of someone else's story and need to make them look better to their readers. (And not inject malware.)\n\nThrough discussion and example, we'll explore the various concerns especially relevant to third-party shareable component providers, and curate a clear and concise set of best practices.", 
+        "facilitator": "Justin Reese", 
+        "facilitator_twitter": "reefdog", 
+        "id": 317747, 
+        "submitted_at": "2016-04-19T21:25:48.442Z", 
+        "title": "How to be a guest chef at someone's house party, or, Being a responsible embed provider"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "We often change jobs (hopefully voluntarily, but very often not!). Have you ever thought about going into a tech job outside journalism? I thought I was well prepared when I changed jobs, but I wasn't. There's a lot more personalities and pressures out there I wish I knew more about before I made the shift. Should we be preparing people better? Are you thinking about making the jump? And how can the journalism community get people to come to the light?", 
+        "facilitator": "Chris Chang", 
+        "facilitator_twitter": "ccrrccrccrr", 
+        "id": 317585, 
+        "submitted_at": "2016-04-20T05:42:54.442Z", 
+        "title": "Is the grass greener over there?"
+    }, 
+    {
+        "cofacilitator": "Sarah Frostenson, Lam Thuy Vo", 
+        "cofacilitator_twitter": "sfrostenson, lamthuyvo", 
+        "description": "So much of what we talk about on empathy and compassion in journalism focuses on writing, but what does it mean if you're not primarily a writer? Let's come up with a set of questions about what it means to be honest, open, and respectful when it comes to storytelling, code-sharing, and connecting with your readers, your coworkers, your colleagues in the news industry, and yourself. We'll split up into 3 or 4 groups and try to answer a different question for each group.", 
+        "facilitator": "Soo Oh", 
+        "facilitator_twitter": "soooh", 
+        "id": 317551, 
+        "submitted_at": "2016-04-19T01:04:45.532Z", 
+        "title": "Empathy smells"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Human Centered Design is great, right!? We all love to include our users early and often when we're developing products. It ensures more successful releases, happier customers, and less development redundancy. But what about stakeholders? How and when we include various department stakeholders can dictate make or break on-time releases, features additions (or subtractions), and an overall smooth or bumpy development process.  So why not take the methodology of HCD and apply it to our product management workflow?", 
+        "facilitator": "Adrienne Debigare", 
+        "facilitator_twitter": "adebigare", 
+        "id": 317502, 
+        "submitted_at": "2016-04-18T22:58:24.955Z", 
+        "title": "Human Centered Product Management"
+    }, 
+    {
+        "cofacilitator": "Ray Soto", 
+        "cofacilitator_twitter": "@raysotovr", 
+        "description": "Whether you like it or not (*cough* Dan *cough*), Virtual Reality is coming fast and it is a lot more than just 360-degree videos. This session brings VR Journalism industry leaders to talk about how they produce their experiences and how design and development are key to storytelling.", 
+        "facilitator": "Robert Hernandez", 
+        "facilitator_twitter": "webjournalist / vrjournalism", 
+        "id": 317498, 
+        "submitted_at": "2016-04-18T22:54:32.455Z", 
+        "title": "VR Journalism: It's not hype, it's here... and more than 360 video"
+    }, 
+    {
         "cofacilitator": "David Erwin", 
         "cofacilitator_twitter": "daviderwin", 
         "description": "Let's take a walk through the existing ecosystem of The Coral Project - by installing it on your own machine. We'll share how it's built, supply dummy data so you can play with it immediately, and discuss how to approach big problems with ambitious open-source software.", 
@@ -68,6 +378,16 @@
         "id": 317385, 
         "submitted_at": "2016-04-18T18:55:07.865Z", 
         "title": "Better Know a Test-Regime: Doing Data Analysis of Modern Day Comprehensive Testing"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "You got an offer to work at a really cool, and rapidly growing company. Your new title, “junior [insert specifics here]” has been added to your email signature, Facebook and Twitter accounts.\nYou start on the job, full of excitement about opportunities to grow, learn, and gain more leverage in the industry. Then you come to realize that the company has a lot going on, and the harder, grittier tasks that would foster your growth are only assigned to senior level employees. You are given problems that aren’t somewhat challenging, but not very impactful. You go through moments of panic, frustration, and loss. In the long run, how do you do to maintain your happiness and engagement?\n\nThis is a scenario that seems to be recurrent amongst junior employees at large companies, but this session is for anyone that has felt that their skills weren’t being fostered in the workplace. \nThe discussion would be roughly divided like so:\n- Are people making excuses, or are they genuinely being smothered by corporations for various reasons (culture, personality,  etc...)?  \n- What are some ways to get out of these unfulfilling situations, or avoid them altogether, at the individual scale? \n- Do you have ideas of what corporations could do to facilitate (and monitor) the growth of their junior (or any) employees?", 
+        "facilitator": "Pamela Assogba", 
+        "facilitator_twitter": "pam_yam", 
+        "id": 317371, 
+        "submitted_at": "2016-04-19T22:33:12.494Z", 
+        "title": "Being Junior In A Large Company: Growing Pains."
     }, 
     {
         "cofacilitator": null, 
@@ -238,6 +558,16 @@
         "id": 315027, 
         "submitted_at": "2016-04-12T16:40:58.516Z", 
         "title": "The Culture of the Redesign"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Most of us are probably already working with Git (or similar) for code, but how do we spread the benefits of working iteratively across the disciplines we work with on a day to day basis. How can we involve journalists, editors, illustrators, designers and others into the process to build amazing content together and use everyone's talents to the fullest. Do we get everyone on GitHub, explain branching, move to markdown, or is there something we can do with API's? Let's discuss how we can, and we can convince our colleagues of the benefits of, interdisciplinary collaboration.", 
+        "facilitator": "Boris van Hoytema", 
+        "facilitator_twitter": "bvhme", 
+        "id": 314912, 
+        "submitted_at": "2016-04-19T14:22:54.276Z", 
+        "title": "Breaking down the borders between diciplines: Iterative development of content across the newsroom"
     }, 
     {
         "cofacilitator": null, 
