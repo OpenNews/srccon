@@ -1,5 +1,35 @@
 [
     {
+        "cofacilitator": "Steven Rich", 
+        "cofacilitator_twitter": "@dataeditor", 
+        "description": "The Brothers Rich feel bad about data. But we want to talk about how we can feel good about it. Join them for a friendly conversation at SRCCON about how we can better inform our audiences using data — even if you're not a coder. We'll share our horror stories, what we've learned, and what you can do to avoid mistakes.", 
+        "facilitator": "Gerald Rich", 
+        "facilitator_twitter": "@gerald_arthur", 
+        "id": 318255, 
+        "submitted_at": "2016-04-20T15:10:30.664Z", 
+        "title": "Your Data is Bad & You Should Feel Bad"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Let's just say there's a scenario like this...\n\nWe know the story is important. We're not sure how we're going to tell it. We think there's some data available. We definitely want it to look \"really special\" and it has to go out the same day as the TV broadcast. The graphics team want to go to town on some fabulous interactive data-viz, but development resource is tight and we need to make sure it's mobile first, responsive and and available in Spanish and Arabic. \n\nHow do you keep a multi-discipline news team happy when it's so hard to pin down the project scope and definition? Does developing for news mean adopting an inherently waterfall processes or are there ways to be more agile? Can we avoid the UX and dev teams acting like an internal agency to editorial clients? Is \"process\" a dirty word, or do frameworks for project management really help?\n\nI've got lots of questions about this. We grapple with it all the time. Maybe we should get together and compare notes?", 
+        "facilitator": "Andrew Leimdorfer", 
+        "facilitator_twitter": "leimdorfer", 
+        "id": 318228, 
+        "submitted_at": "2016-04-20T15:17:49.285Z", 
+        "title": "Workflows from hell. How the hell do you avoid them?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The README serves as welcome-mat to most open source projects, and it's often a critical gateway to engagement in the open source and open journalism space. Good READMEs couple well with other all-caps files like LICENSES, CONTRIBUTOR.md, and CODE_OF_CONDUCT.md files, but sometimes the standards for what to include, how to design, and where to feature your README aren't explicit to new developers or new-to-open-source programmers. Further, projects who bring some special character to their README benefit from attracting more users, earning more publicity and cross-postings, and can be lauded as \"cool\" even though the actually base project or tech functionality is buggy. That said, even if your tech is 110% awesome, you can lose people if your README, compile instructions, or general repository details are awkward or obscure. This is a session about github netiquette, README design, and repository architecture that engages your chosen community in collaboration and contribution; we'll showcase some cool hacks for advanced README authorship as well as how to create a README that suit your project and prospective contributors alike.", 
+        "facilitator": "Aurelia Moser", 
+        "facilitator_twitter": "@auremoser", 
+        "id": 318210, 
+        "submitted_at": "2016-04-20T15:45:08.418Z", 
+        "title": "Build>Passing: the basics of badging, repo design and writing epic READMES"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "One of the things I love about our undergraduate internship for newsroom developers is that every year we can't quite believe we'll cope without them when they go back to finish their degree, but somehow every year we get another cohort that are just as amazing. \n\nAnother thing I love is that when they complete their degrees a year later, we're number one on their list of prospective employers. \n\nAnd another thing is that, eight years into the program, seven out of the eleven interns who've graduated are now full time developers at the BBC. Four of them are seniors.\n\nSo, maybe you'd like to share your experiences of running internships and we can compare notes.", 
