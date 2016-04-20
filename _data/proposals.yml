@@ -1,5 +1,115 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "magine our grand parents age was the Age of Space (zero sum, take from others, use land to grow crops). Ads were magic. People saw the, and they just bought stuff. It was a magic system. \nImagine our parents time was Age of Time (rise of media, free time, excess income, office jobs). First movers captured the market. Free time and office jobs defined the future of industry. \nImagine our time is the Age of Attention (Eyeballs, brand loyalty, Internet, cell phones, always being connected). Loyalty of customers is everything. Products with the best engineers build free services to repackage attention and sell it back to advertisers. \nThen what is to come? From the media landscape, there is more information than ever, so the ability to have the right perspective on interpreting the information becomes important (i.e. Culture, understanding the \"big data\", authenticity).\n\nI will explore how media will monetize on this part.", 
+        "facilitator": "Leonard bogdonoff", 
+        "facilitator_twitter": "Rememberlenny", 
+        "id": 318352, 
+        "submitted_at": "2016-04-20T18:13:58.491Z", 
+        "title": "What is the future of media culture?"
+    }, 
+    {
+        "cofacilitator": "Martin McClellan", 
+        "cofacilitator_twitter": "hellbox", 
+        "description": "There is no shortage of books by journalists, featuring journalists and demonstrating journalism’s impact.   We want to look at some of our favorites — some serious, some fun — and why we still engage with them.\n\nFrom Harriet Beecher Stowe to Upton Sinclair, from Lois Lane to Stieg Larsson’s Mikael Blomkvist, from private moments that shift cultural thinking (Joan Didion writing about loss) or shift politics (Mary McCarthy’s biting criticism), or even new graphic novels that alter our usual approach to reporting and history.  These works shape the times in which we live.  And they can teach unexpected lessons about the craft.\n\nThis will be a discussion, led by Tiff Fehr of The New York Times and Martin McClellan of Breaking News/Seattle Review of Books. Bring your favorite book that changed the conversation, or maybe that failed to start an important one, or touched on something true about journalism in its own way.", 
+        "facilitator": "Tiff Fehr", 
+        "facilitator_twitter": "tiffehr", 
+        "id": 318340, 
+        "submitted_at": "2016-04-20T17:56:47.381Z", 
+        "title": "Book Reviews: Lessons about Journalism from Books"
+    }, 
+    {
+        "cofacilitator": "Tiff Fehr", 
+        "cofacilitator_twitter": "tiffehr", 
+        "description": "The formula seems simple: something happens and we report on it. The faster the better, so long as we follow standards. But the pace accelerated, and what was fast for print was slow compared to radio; what was fast for radio accelerated for television; what was fine for a 30 second segment on a news show couldn’t fill time on 24/7 cable news, and now everything else seems slow and antiquated compared to the internet.  Now a tweet from a source is seconds away from being worldwide Breaking News at any second.\n\nEditors need tools that enable quick publishing on their own platforms and social/distribution channels. They also need evolving guidelines on how to use them. Newsroom technologists need to build stable and iterable tools so editors can keep tabs on their product, their audience and the competition. Meanwhile, readers expect the news to find them with minimal effort. Features that seem great one moment are clichéd the next. \n\nHow do we balance all those moving parts? How do we reach people who define relevant breaking news for themselves?  How do we answer multiple audiences when they do seek out breaking news — news-junkies, news-curious and late-comers?\n\nThis conversation will look inside two newsrooms: the New York Times (storied, weighty, with history and reputation) and Breaking News (younger, nimble and not only of the internet, but of Twitter). What lessons intersect in the Venn diagram of these two organizations?\n\nTiff Fehr, Assistant Editor for Interactive News (Live Coverage) at the NYT, and Martin McClellan, Senior UX Designer at Breaking News will lead the discussion.", 
+        "facilitator": "Martin McClellan", 
+        "facilitator_twitter": "hellbox", 
+        "id": 318338, 
+        "submitted_at": "2016-04-20T17:57:03.685Z", 
+        "title": "Working at the pace of Breaking News"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Data and visual teams have different organizational structure based on each newsroom's size and what they need. Some put data folks under investigative team, some under graphics; some have developers only do coding, some expect them to write and report as well; some have designers and developers separately, some combine the two roles. Sometimes we feel lost in the ocean of knowledge needs to be learned, hats need to be worn and the confusion which specialization we should take as a career path. In this session, let’s talk about ways to organize our teams and the possible best practice - how to design team members' roles, attribute responsibilities and optimize workflows. We also want to discuss career development for news nerds - what would be expected in us in the future and how should we get prepared? Is “jack-of-all-trades” still the rule of thumb here? Or should we start picking up skills more selectively at some point and tell ourselves “it’s ok not knowing something”?", 
+        "facilitator": "Evie Liu", 
+        "facilitator_twitter": "@Evie_xing", 
+        "id": 318334, 
+        "submitted_at": "2016-04-20T18:02:10.125Z", 
+        "title": "Let’s talk about team structures, roles, and future career choices"
+    }, 
+    {
+        "cofacilitator": "Neena Satija", 
+        "cofacilitator_twitter": "eenareports", 
+        "description": "Let's see if we can get past the data in data sonification and work on the music. Bring in a dataset, and we'll translate it on the spot into sheet music. Neena Satija will put her sight-reading skills to the test as we try to play some data live. Please, please bring your own instruments. We'll experiment with keys, speed, themes and variations and whatever else comes up to see what works.", 
+        "facilitator": "Michael Corey", 
+        "facilitator_twitter": "mikejcorey", 
+        "id": 318330, 
+        "submitted_at": "2016-04-20T17:45:27.184Z", 
+        "title": "Data sonification piano bar"
+    }, 
+    {
+        "cofacilitator": "Jane Friedhoff", 
+        "cofacilitator_twitter": "jfriedhoff", 
+        "description": "The internet is rife with tools to clip, remix, and gif visual content: we make reaction gifs of our favorite TV shows, screenshot articles to highlight interesting ideas, and have gif buttons built into many of our social networks. For fans of audio content, like podcasts, however, there are far fewer tools that allow them to engage with, comment on, and share their fandom of their favorite show. This creates a twofold problem: fans can't highlight, comment on, or share parts of their favorite podcast, and potential new listeners can't discover shows through those clips and highlights. In this session, we'll explore the idea of what \"giffable audio\" might be. We'll discuss what forms of expression we can support through giffable audio, what unique and interesting affordances audio (and more specifically, podcasts) might have, and how we can design tools that can create this new kind of audio culture on social media. We'll also discuss what tools and technologies currently exist in this realm, including our own project, Clipper, which is an in-progress web audio tool that allows podcast fans to clip audio into short, shareable snippets that can instantly be embedded on social media.", 
+        "facilitator": "Darius Kazemi", 
+        "facilitator_twitter": "tinysubversions", 
+        "id": 318319, 
+        "submitted_at": "2016-04-20T17:15:37.509Z", 
+        "title": "Giffable Audio and the Social Web"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "For many news organizations, a lot of time and money goes into creating long form documentaries. Sadly, for most film makers, being \"digital\" means that their film simply ends up on Youtube. It doesn't have to end there.\n\nDuring this session  I'll guide you through some of the strategies that Al Jazeera deploys when it comes to creating real digital adaptations of shows and documentaries. I'll take participants through the complete production process from storyboarding all the way through to a project's implementation.\n\nSome case studies will include:\nPalestine Remix - An open source project that houses the largest collection of editable documentaries available in four languages.\nWeb Docs - Live on hold, Pirate Fishing, The rise of ISIL and a variety of other web docs from across the channel.\nDigital adaptations - Other ways in which an ordinary film can be cut up and represented to suit mobile devices.", 
+        "facilitator": "Mohammed Haddad", 
+        "facilitator_twitter": "haddadme", 
+        "id": 318315, 
+        "submitted_at": "2016-04-20T17:28:09.835Z", 
+        "title": "How to bring interactivity and life into web documentaries"
+    }, 
+    {
+        "cofacilitator": "Jon McClure", 
+        "cofacilitator_twitter": "jonrmcclure", 
+        "description": "According to the Washington Post, American reporting jobs based in New York, D.C, and L.A. went from 1 in 8 in 2004 to 1 in 5 in 2014 (http://wapo.st/1pKHjRN). In the newsroom developer community, that number has got to be even tinier. How do we get developers into the smaller metropolitan newsrooms that need them? How do we reorganize and reinvent this segment of our news ecosystem that is least equipped to hire and experiment with new products and platforms? As our field evolves and matures, it's worth examining why our jobs continue to gravitate to big-money coastal newsrooms, what it means for local news to be left out of the renaissance, and how we might endeavor to change it.", 
+        "facilitator": "Chris Canipe", 
+        "facilitator_twitter": "ccanipe", 
+        "id": 318313, 
+        "submitted_at": "2016-04-20T17:32:38.459Z", 
+        "title": "Reinventing the American Newspaper"
+    }, 
+    {
+        "cofacilitator": "Allan Lasser", 
+        "cofacilitator_twitter": "allanlasser", 
+        "description": "Crowdsourcing and Bots: They're better together! In this session, we'll discuss how MuckRock was able to use a microtask system to cut parts of its data analysis workload by 30% ... and then in half by using that structured information to train a series of increasingly savvy artificial intelligence (This year, known as Bots). MuckRock has analyzed and processed over 221,237 FOIA communications, and will share how — knowing nothing about machine learning or AI — they were able to tap into open source tools and a passionate audience to scale up data analysis while spending more time doing interesting work instead of routine sorting.", 
+        "facilitator": "Michael Morisy", 
+        "facilitator_twitter": "morisy", 
+        "id": 318311, 
+        "submitted_at": "2016-04-20T17:12:54.545Z", 
+        "title": "Training Your Own Bot Army on a Budget"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "This one’s for new parents, anyone who might want to be a parent some day, and the unicorns who have it all figured out. A lot of us got to where we are today by tinkering. We did our real job and then kept going: learning new tools, building things for fun, contributing to friends’ projects. How do we keep being creative — and keep creating — on a parent’s schedule? Let’s hear from each other about how we can adapt, and about the doubts and the triumphs that come along with being a working parent.", 
+        "facilitator": "Jason Alcorn", 
+        "facilitator_twitter": "jasonalcorn", 
+        "id": 318303, 
+        "submitted_at": "2016-04-20T17:30:05.575Z", 
+        "title": "Expanding the Team: Parenthood in the News Business"
+    }, 
+    {
+        "cofacilitator": "Amanda Krauss", 
+        "cofacilitator_twitter": "risatrix", 
+        "description": "It’s easy to forget what it was like to be a new programmer. CSS would send you into float-left-position-relative-margin-top fits, and you would cry into your mousepad over your console letting you know that somehow ‘Undefined is not a function’. Let’s remember that harsh time in our lives and empathize with some of our newer news nerds. We’ll take a trip back to the beginning- except this time, with yarn crafts.\nTake a break from kvetching about whatever we love to hate about our jobs, and learn a new skill. Not unlike code, with a good tutorial, you can get up and running in about half an hour- but it’s not without its frustrations. Whether you're an old pro or a knitting n00b, grab your granny glasses and the closest cat and let’s craft!", 
+        "facilitator": "Annie Daniel", 
+        "facilitator_twitter": "anieldaniel", 
+        "id": 318282, 
+        "submitted_at": "2016-04-20T17:27:36.600Z", 
+        "title": "How to be a n00b: Knitting edition"
+    }, 
+    {
         "cofacilitator": "Steven Rich", 
         "cofacilitator_twitter": "@dataeditor", 
         "description": "The Brothers Rich feel bad about data. But we want to talk about how we can feel good about it. Join them for a friendly conversation at SRCCON about how we can better inform our audiences using data — even if you're not a coder. We'll share our horror stories, what we've learned, and what you can do to avoid mistakes.", 
@@ -8,6 +118,16 @@
         "id": 318255, 
         "submitted_at": "2016-04-20T15:10:30.664Z", 
         "title": "Your Data is Bad & You Should Feel Bad"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "\"Digital Media Is Like Driving in the Dark at 100 MPH With No Headlights,\" said a BuzzFeed staffer. And a big part of why every day at work feels like adrenaline-fueled car ride comes from the fact that distributed social platforms have wildly different metrics that count wildly different things. This session is simply to explore what and how to measure the key parts of the platforms that have entered our vernacular over the past year: Google AMP, Facebook Instant Articles, Snap Stories, Twitter Moments, etc. And the further we get, the more we might be able to help begin crafting not just measurement but what impact and \"success\" means for platforms that may not be counted in Omniture or Google Analytics.", 
+        "facilitator": "Ryan Kellett", 
+        "facilitator_twitter": "rkellett", 
+        "id": 318236, 
+        "submitted_at": "2016-04-20T17:58:58.928Z", 
+        "title": "Telling your success story: Distributed social platform metrics"
     }, 
     {
         "cofacilitator": null, 
