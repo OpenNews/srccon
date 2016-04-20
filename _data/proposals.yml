@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Bots have a lot in common with dogs. Some are cute and playful, some are working breeds, some are trained to fetch the news for you. And just like dogs, some bots are better trained than others, and they all need plenty of attention. So, if it’s true that “bots are the new apps”, what kind of training and attention are we talking about? Let’s share our experiences with bot development methodologies, frameworks, hosting, testing, and user experience. We’ll show off some of the cool tricks we’ve taught our bots (“play dead!”), but mainly we’ll discuss the technical and design underpinnings of our bot projects, the common problems we’ve encountered, and best practices for building better bots.", 
+        "facilitator": "Josh Kadis", 
+        "facilitator_twitter": "kadisco", 
+        "id": 318455, 
+        "submitted_at": "2016-04-20T21:33:14.404Z", 
+        "title": "Proper care and feeding of bots"
+    }, 
+    {
+        "cofacilitator": "Ivar Vong", 
+        "cofacilitator_twitter": "@ivarvong", 
+        "description": "News apps teams are becoming more technically sophisticated: building tools, databases and custom CMS’s. Our newsrooms are now (partially) responsible for product, but struggle to implement modern tech processes (user-centric design, agile development, automated testing). How do we balance the “do it right” attitude of product with the “do it now” needs of editorial? Who needs to be at the table for those kinds of decisions?  We want to look at some effective lessons that can be shared across the different disciplines and discuss effective, productive ways to bridge the gap.", 
+        "facilitator": "Julia Wolfe", 
+        "facilitator_twitter": "juruwolfe", 
+        "id": 318449, 
+        "submitted_at": "2016-04-20T21:29:36.033Z", 
+        "title": "Threat Modeling for Code: When is Bad Code the Better Solution?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "We make *tons* of amazing things in this community, but beyond saying \"HEY THAT'S SO COOL\" we aren't great at giving feedback. Maybe it's because there are no clear avenues for critique in the community (am I supposed to Tweet at you \"Hey, did you consider purple instead of grey?\"), but maybe it is because we are worried that saying something critical is the same as saying something *mean*. In this session, which will (hopefully) be co-facilitated by an instructor at the Pacific Northwest College of Art, let's go back to (art) school and learn how to think about and perform peer critiques. Then, let's test out our new skills on a few projects that you have made this year. And then, let's figure out how to keep it going after SRCCON and get better together through constructive critique and awesome, actionable feedback.", 
         "facilitator": "Dan Sinker", 
         "facilitator_twitter": "dansinker", 
