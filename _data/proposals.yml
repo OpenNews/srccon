@@ -210,8 +210,8 @@
         "title": "How do you scrum up some lean mvps?"
     }, 
     {
-        "cofacilitator": null, 
-        "cofacilitator_twitter": null, 
+        "cofacilitator": "Matt Dennewitz", 
+        "cofacilitator_twitter": "mattdennewitz", 
         "description": "When Quartz was sketched on a napkin, the future was mobile-first and on the open-web. In a few short years that landscape is unrecognizable, and the search and social-network referral engines have morphed into distribution behemoths. \"Back in the day\" our biggest challenge was getting the print side to listen to digital, then moving their attention from Desktop to Mobile. We've barely achieved that and the goalposts have moved even further. Forget recirc, ad-blocking, responsive web, web page performance, native apps - all reduced to minor players in the last year. Now we're in the territory of bots (maybe) and distribution on proprietary platforms.\n\nGiven finite resources to build a newsroom from scratch what do you focus on from day one? How do you structure scalability, design, distribution, and viability with the journalistic mission to inform the public? Now how does that model compare to your current organization?", 
         "facilitator": "Michael Donohoe", 
         "facilitator_twitter": "donohoe", 
