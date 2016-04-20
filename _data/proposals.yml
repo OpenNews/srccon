@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Very often the data you need to work on is ugly, is not the format you want, so you need to take your Swiss data knife out to get the work done as quickly as possible. The International Consortium of Investigative Journalist programmers have developed a unique expertise on this over the past investigations, which include the Panama Papers, the largest leak in journalism history. We’d like to share a collection of tips and tools on how to clean, filter, convert and make ugly data look good, and have it ready to be analysed, delivered to final users, or imported in any database. \n\nThere are a bunch of great open source tools to do these tasks. We will show which ones we used and how, such as: python, Talend, pandas, beautifulsoup, csvkit, grep and others.", 
+        "facilitator": "Miguel Fiandor", 
+        "facilitator_twitter": "mfiandor", 
+        "id": 318525, 
+        "submitted_at": "2016-04-20T23:40:32.189Z", 
+        "title": "How to structure \"spaghetti\" data"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The International Consortium of Investigative Journalists' current challenge is to develop a system that connects the local data of the almost 200 reporters in the network to obtain a global collective intelligence. We’re developing a software we’re calling DataShare, which allows for valuable knowledge about people and companies locked within hundreds of pages of documents inside a computer to be sieved into indexes and shared securely within a network of trusted individuals, fostering unforeseen collaboration and prompting new and better investigations that uncover corruption, transnational crime and abuse of power. We’d love to expose our progress and prototype to the SRCCON audience to get their feedback and use it to improve the tool. We also believe our experience can help others trying to solve a similar problem.", 
+        "facilitator": "Julien Martin & Matthew Caruana Galizia", 
+        "facilitator_twitter": "mcaruanagalizia", 
+        "id": 318518, 
+        "submitted_at": "2016-04-20T23:29:48.034Z", 
+        "title": "Building software for journalistic research from massive, distributed and unstructured data sets held across the world"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Publicly challenging micro-aggressions online is an exhausting and stressful responsibility, particularly if you are a member of a marginalised group. In an effort to reduce the pressure on these groups to take on such a responsibility, online community leaders are beginning to use of bots in areas of community communication. From correcting ableist language in Slack channels to explaining the meaning of \"cis\" for the millionth time on Twitter, automated responders are being used to deal with the draining work of improving community members' knowledge and vocabulary.\n\nThis session will focus on the usage of bots in online communities, analysis of why they are generally successful and the related technical challenges involved in their creation. In addition to drawing on examples in open-source communities and Twitter, we'll also discuss their potential use in further anti-harassment measures and other ideas for their future expansion across gaming and technology, in addition to doing some basic bot planning.", 
         "facilitator": "Gem Barrett", 
         "facilitator_twitter": "gembarrett", 
@@ -18,6 +38,16 @@
         "id": 318498, 
         "submitted_at": "2016-04-20T22:57:47.788Z", 
         "title": "Humanitarian OpenStreetMap: Missing Maps"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Pseudocoding is a method of writing code logic in plain English. I butcher the definition and propose we use the idea of pseudocode as a framework for writing an outline for code and defining a project's features. I'll briefly introduce the concept of pseudocoding, why I use it and a few examples of how to write it (plus a couple comments of support from coworkers who have tried it). Then we'll break up into groups, write pseudocode--with pen and paper!--for a couple projects and share our experiences and results. We'll also discuss other methods people use now to outline or organize projects before they dive in.\n\nFor new coders, it's also a great introduction to some core concepts of programming and how to think like a coder.", 
+        "facilitator": "Sarah Squire", 
+        "facilitator_twitter": "sarahjsquire", 
+        "id": 318494, 
+        "submitted_at": "2016-04-20T23:27:52.691Z", 
+        "title": "Pseudocode: A method to outline your code, features and thoughts"
     }, 
     {
         "cofacilitator": null, 
