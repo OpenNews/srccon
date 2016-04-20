@@ -1,5 +1,55 @@
 [
     {
+        "cofacilitator": "Lam Thuy Vo", 
+        "cofacilitator_twitter": "lamthuyvo", 
+        "description": "No one is great at onboarding new staff, but news nerd teams are at a particular disadvantage. As a tech team, we need to set up new coders on our tools and technologies and get them up to speed with our coding philosophies. As a journalism desk, we’ve got to try and explain the often convoluted bureaucracy running through our newsrooms. In smaller organizations it can be even trickier as the new lonely coder must navigate these waters (somewhat) alone. For managers and new hires alike, we want to lead a session looking at how to make this process less painful. How can we integrate new team members faster? And ensure that the road there isn’t too bumpy?", 
+        "facilitator": "Julia Wolfe", 
+        "facilitator_twitter": "juruwolfe", 
+        "id": 318409, 
+        "submitted_at": "2016-04-20T20:18:48.280Z", 
+        "title": "Newsnerd newbies"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Government agencies at both the state and federal level collect and compile mass amounts of information that can be a treasure trove for data journalists.  But requesting access to that information, and getting it in a useable form, can be a struggle, especially for larger data sets.  This session will explain what agencies are required by law to provide when it comes to electronically stored information, and provide media lawyers and data journalists an opportunity to trade tips and strategies for successfully requesting government data and getting it in a useable electronic form.", 
+        "facilitator": "Adam Marshall", 
+        "facilitator_twitter": "a_marshall_plan", 
+        "id": 318395, 
+        "submitted_at": "2016-04-20T20:11:12.205Z", 
+        "title": "Unlocking Government Data Sets - FOIA and State Public Records Law Tips for Data Journalists"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "At the end of the day, all the awesome tools we build for our newsrooms have to run somewhere. Whether you're a small news room with a couple of Heroku apps to a thousand person media organization with a fully staffed ops team, how you run your code and how frictionless deploying it is critical to fostering cultures of creativity. Plus, we all like to sleep through the night without Pingdom or Pagerduty alerts. In this talk we'll trade war stories, tool experiences, and architecture strategies for hosting simple apps, big CMSes, and our growing collections of data. We'll look at what a 2016 media hosting stack looks like, from the small to the large, and start to figure out how we get there.", 
+        "facilitator": "Jeff Kramer", 
+        "facilitator_twitter": "jeffk", 
+        "id": 318391, 
+        "submitted_at": "2016-04-20T19:44:22.442Z", 
+        "title": "You got Docker in my AWS Hadoop: Infrastructure Nerdout"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Data proofing guides (e.g. by ProPublica or Quartz) are great checklists when it comes to dealing with dirty data and tools like \"Dataproofer\" can help with automated checks. But can we do more? How do we integrate this into our processes and workflows? Can we have linting for data like we have for code? Let's discuss what kind of library and tool support we need.", 
+        "facilitator": "Stefan Wehrmeyer", 
+        "facilitator_twitter": "stefanwehrmeyer", 
+        "id": 318389, 
+        "submitted_at": "2016-04-20T19:37:22.752Z", 
+        "title": "Share methods and tools for data proofing"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "User data is one of the most valuable resources a website can generate. Why are we so quick to sell it off to third parties? Let's put that practice under the microscope: what information is being exchanged, how are we vetting third parties, and are we properly disclosing any of this to our users? Are publishers at risk of a user backlash, a privacy breach, or worse?\n\nThinking beyond monetization, let's constructively re-imagine ways that we as publishers can cultivate user profiles and activity in ways that will benefit our organizations, news teams, and our users. How can we use data to help us better communicate, engage, and build stronger relationships with our users?", 
+        "facilitator": "Liz Berg", 
+        "facilitator_twitter": null, 
+        "id": 318388, 
+        "submitted_at": "2016-04-20T20:09:04.276Z", 
+        "title": "Harnessing User Data: Less Creepy, More Constructive"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "News nerds have done an excellent job of pushing the envelope in what is possible for interactive applications. But who has been left behind in the process? Accessibility checkers give many of these sites abysmal scores, meaning they are not accessible to users with vision or other impairments. Surely, we can do better and let's figure out some easy means how.", 
@@ -8,6 +58,16 @@
         "id": 318378, 
         "submitted_at": "2016-04-20T19:11:18.084Z", 
         "title": "Your Fancy News App Is Invisible"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "How can we bring traditional journalists and traditional engineers into our fold? How can we make our work more approachable? How can help news developers grow their sphere of influence within a newsroom? Let's talk about what the barriers to expanding our community — what are they and how can we solve them? At Northwestern, students and faculty at Knight Lab have been working to infect the school with the programming bug — we've taken an iterative approach to trying to grow the diverse community of journalism students on campus who are able to make cool things on the Internet. We've been working on answering these questions through community events, outreach and a lot of trial and error. I think there are lessons to be learned for the developer-journalism community at large — I'd love to share what we've learned and discuss other efforts that we can all draw from.", 
+        "facilitator": "Alex Duner", 
+        "facilitator_twitter": "asduner", 
+        "id": 318372, 
+        "submitted_at": "2016-04-20T19:55:46.899Z", 
+        "title": "Growing the news nerd community one experiment at a time"
     }, 
     {
         "cofacilitator": "Phil Wilson", 
@@ -158,6 +218,16 @@
         "id": 318311, 
         "submitted_at": "2016-04-20T17:12:54.545Z", 
         "title": "Training Your Own Bot Army on a Budget"
+    }, 
+    {
+        "cofacilitator": "Millie Tran", 
+        "cofacilitator_twitter": "millie", 
+        "description": "You’re leading a team in your organization, or you’re ready to step into a bigger role. Maybe you’re managing people for the first time, or you’ve been doing it for a while. You’ve read the books, listened to the management advice podcasts, maybe even participated in some leadership training. But much of the advice out there doesn’t account for the unique challenges you face as a journalism/tech manager when you are a woman, person of color, or in another underrepresented group. From overt dismissal to subtle yet insidious microaggressions, how do we succeed as leaders in an industry where the decision makers are still predominantly white and male?\n\nLet’s share advice and brainstorm specific tactics for handling the roadblocks faced by women, people of color, and other underrepresented folks who want to lead and make big things happen. Everyone is welcome to participate, but if you’re in a majority group, aim to listen A LOT more than you talk.", 
+        "facilitator": "Kaeti Hinck", 
+        "facilitator_twitter": "kaeti", 
+        "id": 318308, 
+        "submitted_at": "2016-04-20T19:34:48.525Z", 
+        "title": "They don’t want you to lead: Major keys to success as an underrepresented manager"
     }, 
     {
         "cofacilitator": null, 
