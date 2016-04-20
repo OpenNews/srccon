@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "News nerds have done an excellent job of pushing the envelope in what is possible for interactive applications. But who has been left behind in the process? Accessibility checkers give many of these sites abysmal scores, meaning they are not accessible to users with vision or other impairments. Surely, we can do better and let's figure out some easy means how.", 
+        "facilitator": "Jacob Harris", 
+        "facilitator_twitter": "harrisj", 
+        "id": 318378, 
+        "submitted_at": "2016-04-20T19:11:18.084Z", 
+        "title": "Your Fancy News App Is Invisible"
+    }, 
+    {
+        "cofacilitator": "Phil Wilson", 
+        "cofacilitator_twitter": null, 
+        "description": "Do you use Slack at work? Do you find yourself simultaneously grateful for its existence yet frustrated by the ways it has commandeered your attention? Let's take a break from our Slack channels to share our experiences, try a couple of Crazy Eight sketching exercises (similar to a Google Venture Design Sprint) to identify how we would start our organization's Slack from scratch, and then launch a living document outlining how to make Slack even more human. Bring a pen and paper, and please turn on Do Not Disturb.", 
+        "facilitator": "Noah Chestnut", 
+        "facilitator_twitter": "oahchestnut", 
+        "id": 318368, 
+        "submitted_at": "2016-04-20T19:11:29.078Z", 
+        "title": "Several People Would Like Your Immediate Attention"
+    }, 
+    {
         "cofacilitator": "Simon Wörpel", 
         "cofacilitator_twitter": "simonwoerpel", 
         "description": "If you build tools that are used internationally, or if you work with data from non-English speaking communities, you will sooner or later encounter interesting problems, including character encoding, foreign number and date formats, or right-to-left languages.\n\nDealing with localization can be messy and frustrating, but it doesn’t have to be. Together, we'll look at newsroom tools, identify localization issues based on real world examples, and discuss possible solutions. Bring your own projects!", 
@@ -8,6 +28,16 @@
         "id": 318367, 
         "submitted_at": "2016-04-20T18:41:00.499Z", 
         "title": "Localize your newsroom tools!"
+    }, 
+    {
+        "cofacilitator": "Emma Carew Grovum", 
+        "cofacilitator_twitter": "@emmacarew", 
+        "description": "Journalists and newsroom developers face particular challenges to their mental health, including tight deadlines and sensitive coverage topics set against the backdrop of an ever-changing industry. Depression, anxiety and mental illness are exacerbated when they’re not discussed openly or taken seriously. Through guided discussions, this session will equip individuals to better care for their own mental health, and identify changes we can make to our newsrooms to build safer, more positive workplaces.", 
+        "facilitator": "Joel Eastwood", 
+        "facilitator_twitter": "JoelEastwood", 
+        "id": 318365, 
+        "submitted_at": "2016-04-20T19:16:20.101Z", 
+        "title": "Balancing mental health in the newsroom"
     }, 
     {
         "cofacilitator": "Lindsay Green-Barber", 
