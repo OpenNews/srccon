@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "One of the things I love about our undergraduate internship for newsroom developers is that every year we can't quite believe we'll cope without them when they go back to finish their degree, but somehow every year we get another cohort that are just as amazing. \n\nAnother thing I love is that when they complete their degrees a year later, we're number one on their list of prospective employers. \n\nAnd another thing is that, eight years into the program, seven out of the eleven interns who've graduated are now full time developers at the BBC. Four of them are seniors.\n\nSo, maybe you'd like to share your experiences of running internships and we can compare notes.", 
+        "facilitator": "Andrew Leimdorfer", 
+        "facilitator_twitter": "leimdorfer", 
+        "id": 318203, 
+        "submitted_at": "2016-04-20T14:05:50.889Z", 
+        "title": "Running undergraduate internships that produce great newsroom developers"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "The most efficient way to produce results is to be a team of one. That's not practical, and even individuals need some sort of product management to make sure they can deliver things on time. Whether you're making things for the daily news cycle, or thinking about Q3, having effective product management can make a world of difference. A good product manager being rarer than a first edition Charizard, how can we level up our skills to narrow the gap?", 
         "facilitator": "Chris Chang", 
         "facilitator_twitter": "ccrrccrccrr", 
@@ -162,7 +172,7 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
-        "description": "The Augmented Narrative Toolkit is a new open source web framework that enables developers to create  narrative pieces that integrate and take advantage of data visualizations, multimedia elements and other interactions with simple HTML5 tags, CSS3 and very little JavaScript. \n\nThe objective of Ant is for developers to be able to define charts, maps and actions in HTML, as easily as they would add an image (<img>)\n\n<div id=\"mymap\" data-chart=\"map\" data-layers=\"countries\"></div>\n<a data-control data-control_chart=\"mymap\" data-zoom_to=\".mex\" data-zoom_level=\"100\">Zoom to Mexico</a>\n\nWould render an SVG with the countries of the world and a link that, when clicked, makes the svg zoom to Mexico. As simple as that and this is just the tip of the iceber. \n\nVisit the project's Github repo for more information: http://github.com/AugmentedNarrative/ant", 
+        "description": "The Augmented Narrative Toolkit is a new open source web framework that enables developers to create  narrative pieces that integrate and take advantage of data visualizations, multimedia elements and other interactions with simple HTML5 tags, CSS3 and very little JavaScript. \n\nThe objective of Ant is for developers to be able to define charts, maps and actions in HTML, as easily as they would add an image (<img>)\n\n\\<div id=\"mymap\" data-chart=\"map\" data-layers=\"countries\">\\</div>\n\\<a data-control data-control_chart=\"mymap\" data-zoom_to=\".mex\" data-zoom_level=\"100\">Zoom to Mexico\\</a>\n\nWould render an SVG with the countries of the world and a link that, when clicked, makes the svg zoom to Mexico. As simple as that and this is just the tip of the iceber. \n\nVisit the project's Github repo for more information: http://github.com/AugmentedNarrative/ant", 
         "facilitator": "Paola Villarreal", 
         "facilitator_twitter": "paw", 
         "id": 317943, 
