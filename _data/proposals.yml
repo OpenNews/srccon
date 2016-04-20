@@ -382,6 +382,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "You probably have heard about labs like the Knight Lab, the Nieman Lab, or the Stanford Computational Journalism Lab. Those facilities offer open source tools and technologies to figure out the future of digital storytelling and interactive news together with practising journalists. And there are more! Many Computer Science or Engineering labs work on ideas that attempt to make the news reporter's life easier - there just often is a lack of communication and researchers have a hard time finding test users for their tools, whereas journalists don't know about available technologies that could facilitate their workflow.  In this session I would like to introduce a few project from research labs that could be interesting for either researching a story or to built interactive elements.", 
+        "facilitator": "Johanna Fulda", 
+        "facilitator_twitter": "jofu_", 
+        "id": 318039, 
+        "submitted_at": "2016-04-20T20:59:11.252Z", 
+        "title": "Researcher Vs. Journalist"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Last year we left SRCCON with heads full of ideas. What have you done with those ideas? What new projects grew out of SRCCON?\n\nWhat have you learned at SRCCON this year? What are your resolutions for the next year? Commit to build something.", 
         "facilitator": "Ben Keith", 
         "facilitator_twitter": "benlkeith", 
