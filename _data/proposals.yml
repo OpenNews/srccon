@@ -210,8 +210,8 @@
         "title": "How to bring interactivity and life into web documentaries"
     }, 
     {
-        "cofacilitator": "Jon McClure", 
-        "cofacilitator_twitter": "jonrmcclure", 
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "According to the Washington Post, American reporting jobs based in New York, D.C, and L.A. went from 1 in 8 in 2004 to 1 in 5 in 2014 (http://wapo.st/1pKHjRN). In the newsroom developer community, that number has got to be even tinier. How do we get developers into the smaller metropolitan newsrooms that need them? How do we reorganize and reinvent this segment of our news ecosystem that is least equipped to hire and experiment with new products and platforms? As our field evolves and matures, it's worth examining why our jobs continue to gravitate to big-money coastal newsrooms, what it means for local news to be left out of the renaissance, and how we might endeavor to change it.", 
         "facilitator": "Chris Canipe", 
         "facilitator_twitter": "ccanipe", 
