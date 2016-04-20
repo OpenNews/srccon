@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "We make *tons* of amazing things in this community, but beyond saying \"HEY THAT'S SO COOL\" we aren't great at giving feedback. Maybe it's because there are no clear avenues for critique in the community (am I supposed to Tweet at you \"Hey, did you consider purple instead of grey?\"), but maybe it is because we are worried that saying something critical is the same as saying something *mean*. In this session, which will (hopefully) be co-facilitated by an instructor at the Pacific Northwest College of Art, let's go back to (art) school and learn how to think about and perform peer critiques. Then, let's test out our new skills on a few projects that you have made this year. And then, let's figure out how to keep it going after SRCCON and get better together through constructive critique and awesome, actionable feedback.", 
+        "facilitator": "Dan Sinker", 
+        "facilitator_twitter": "dansinker", 
+        "id": 318426, 
+        "submitted_at": "2016-04-20T20:39:17.326Z", 
+        "title": "Peer Critique for News Nerds"
+    }, 
+    {
         "cofacilitator": "Lam Thuy Vo", 
         "cofacilitator_twitter": "lamthuyvo", 
         "description": "No one is great at onboarding new staff, but news nerd teams are at a particular disadvantage. As a tech team, we need to set up new coders on our tools and technologies and get them up to speed with our coding philosophies. As a journalism desk, we’ve got to try and explain the often convoluted bureaucracy running through our newsrooms. In smaller organizations it can be even trickier as the new lonely coder must navigate these waters (somewhat) alone. For managers and new hires alike, we want to lead a session looking at how to make this process less painful. How can we integrate new team members faster? And ensure that the road there isn’t too bumpy?", 
@@ -207,7 +217,7 @@
         "facilitator_twitter": "ccanipe", 
         "id": 318313, 
         "submitted_at": "2016-04-20T17:32:38.459Z", 
-        "title": "Reinventing the American Newspaper"
+        "title": "Where Are the Midsize Metro News Developers"
     }, 
     {
         "cofacilitator": "Allan Lasser", 
