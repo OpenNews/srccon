@@ -2,12 +2,122 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Publicly challenging micro-aggressions online is an exhausting and stressful responsibility, particularly if you are a member of a marginalised group. In an effort to reduce the pressure on these groups to take on such a responsibility, online community leaders are beginning to use of bots in areas of community communication. From correcting ableist language in Slack channels to explaining the meaning of \"cis\" for the millionth time on Twitter, automated responders are being used to deal with the draining work of improving community members' knowledge and vocabulary.\n\nThis session will focus on the usage of bots in online communities, analysis of why they are generally successful and the related technical challenges involved in their creation. In addition to drawing on examples in open-source communities and Twitter, we'll also discuss their potential use in further anti-harassment measures and other ideas for their future expansion across gaming and technology, in addition to doing some basic bot planning.", 
+        "facilitator": "Gem Barrett", 
+        "facilitator_twitter": "gembarrett", 
+        "id": 318503, 
+        "submitted_at": "2016-04-20T22:59:50.834Z", 
+        "title": "Using bots to improve humanity"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Each year, disasters around the world kill nearly 100,000 and affect or displace 200 million people. Many of the places where these disasters occur are literally 'missing' from any map and first responders lack the information to make valuable decisions regarding relief efforts. Missing Maps is an open, collaborative project in which you can help to map areas where humanitarian organisations are trying to meet the needs of vulnerable people.\n\nIn this session, we will select an area that needs mapping (as requested by Doctors Without Borders or Red Cross or similar), look at satellite images, and make some maps happen in Open Street Map. No experience necessary, although if you have edited things in Open Street Map before your expertise would be appreciated in helping others. \n\nDon't know what Open Street Map is? Well it's basically Wikipedia but for maps.\n\nCome save the world! (bring your laptop)", 
+        "facilitator": "Linda Sandvik", 
+        "facilitator_twitter": "hyper_linda", 
+        "id": 318498, 
+        "submitted_at": "2016-04-20T22:57:47.788Z", 
+        "title": "Humanitarian OpenStreetMap: Missing Maps"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Ok, so we’ve pasted in the Google Analytics tag, we have numbers and graphs coming in, so now what? Installing an analytics tool is traditionally trivial, but trying to understand what these tools are tell us can be tricky, complicated, and daunting. How can we make the data more meaningful for journalists, product managers, and developers? Are we tracking the right data? Do we know our users better after looking at the numbers? Let’s come together and discuss different ways to help get better insights into how our users consume our content. We’ll discuss how to help teams make informed daily decisions, how to perform deeper analysis of trends and behaviors, and how to determine if our strategies are working as expected. If you’ve found techniques that are helpful, we want you to share them. If you have questions on how to get better data for particular use-cases, we want you to ask them. By the end of the session we want everyone to walk away with specific and actionable ideas on how to better understand their audience through data. We will try and group tables together of people using the same analytics tools (Google Analytics, Adobe Analytics, Parsely, Charbeat, etc).", 
+        "facilitator": "Justin Carmony", 
+        "facilitator_twitter": "JustinCarmony", 
+        "id": 318489, 
+        "submitted_at": "2016-04-20T22:50:23.601Z", 
+        "title": "We've installed a web analytics tool… now what?"
+    }, 
+    {
+        "cofacilitator": "Sarah Frostenson", 
+        "cofacilitator_twitter": "sfrostenson", 
+        "description": "As journalists have to compete for attention with countless other content producers, interactive storytellers have increasingly been using personalization as to entice their audiences. There's growing trend in journalism to place the reader into the story and give them a personalized understanding of the story. \n\nBut how can we leverage personalization in news and not freak out our audiences about exposing them to unnecessary security risks? We will start by looking at 2-3 examples of where personalization went awfully wrong.  Afterwards,  participants will split up into groups and come up with a code of ethics (3-5 principles every journalist should consider when doing this kind of journalism) and solutions for making sure user information (anything from input info to geolocation) is not vulnerable to hackers or stored in databases.", 
+        "facilitator": "Lam Vo", 
+        "facilitator_twitter": "lamthuyvo", 
+        "id": 318486, 
+        "submitted_at": "2016-04-20T22:45:41.081Z", 
+        "title": "Proper Personalization — how to securely tailor content to our audiences"
+    }, 
+    {
+        "cofacilitator": "Paul Fryzel", 
+        "cofacilitator_twitter": "paulfryzel", 
+        "description": "The year is 2016. Distribution channels are multiplying, splaying content across a plethora of platforms and formats. AMP, FB Instant, and Apple News are just the start - mobile/responsive web, native apps, Instagram and Snapchat herald a world where your site isn't your site. Content needs to adapt and mutate in order to thrive. The Markdown/HTML-in, HTML-out model of CMSs of yore is falling by the wayside. Content producers in offices across the world are copy-and-pasting and cropping until their fingers bleed, just to keep up.\n\nBefore you argue that writers and editors should just write semantically rich HTML and CSS, thus effortlessly enabling seamless distribution across all these channels ... oh, wait, this is SRCCON and no-one would argue that. The web is great, but not perfect. HTML and CSS are incredible tools for developers and designers, but fall short at addressing the needs of writers and editors who want to publish beautiful stories, not learn the ins-and-outs of producing semantically rich (and correct) markup. For years, Markdown or WYSIWYG editors plus primitive \"raw HTML\" views have worked in tandem to address some of these shortcomings, but can't keep up in the long term while remaining usable for our writers and editors.\n\nWe've been working on some of these issues, and would love to explore the problems and potential solutions with the SRCCON community, since we're sure others are encountering the challenges of publishing beautiful, rich content simultaneously to many formats and contexts, too.", 
+        "facilitator": "Blaine Cook", 
+        "facilitator_twitter": "blaine", 
+        "id": 318482, 
+        "submitted_at": "2016-04-20T23:12:08.545Z", 
+        "title": "Markup Showdown at the FB Corral"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Whenever we work together with some other team mate, more often than not, we end up learning a more efficient way of approaching a particular recurrent task that will improve my producivity. Since we are going to congregate a lot of news nerdy knowlegde in Portland, I think a good session could be held to try to get some of our tips and tricks out of our brains and share them with the community.", 
+        "facilitator": "Juan Elosua", 
+        "facilitator_twitter": "@jjelosua", 
+        "id": 318473, 
+        "submitted_at": "2016-04-20T22:30:09.600Z", 
+        "title": "Tips and tricks: let's share our small time savers"
+    }, 
+    {
+        "cofacilitator": "Kaeti Hinck", 
+        "cofacilitator_twitter": "kaeti", 
+        "description": "We don't always play nice with others. And it's too easy to chase the shiny, fancy new thing. Whether it's a ticket system, an assignment tracker, or even a merged calendar, stitching together multiple teams presents the need for new tools and protocols. So let's split into small groups, identify a problem with collaborating/experimenting across departments, then they go through the planning, sketching, prototyping, and sharing with each other.", 
+        "facilitator": "Emma Carew Grovum", 
+        "facilitator_twitter": "emmacarew", 
+        "id": 318471, 
+        "submitted_at": "2016-04-20T22:13:28.886Z", 
+        "title": "Build the Ultimate Newsroom Collaboration Tool"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Open data directories are amazing until you actually try to find things in them. Maybe what we need is a PageRank for data, but to get there we'll have to figure out a better way to cite the data sources we find the most useful. In this session, we'll look at some possibilities for citing our work and see if we can jumpstart the best standard for the data journalism community.", 
+        "facilitator": "Jacob Harris", 
+        "facilitator_twitter": "harrisj", 
+        "id": 318469, 
+        "submitted_at": "2016-04-20T22:17:44.292Z", 
+        "title": "Cite Your Work"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Every developer has this (at least imaginary) list: \"I have a problem, I assume some others do as well, I know which little piece of code would solve it – and next weekend I will build that tool and put it on Github for everyone.\" But in fact this list just grows and grows. Lets use this sessions time just to help prioritize our lists, find out which little tools or addons would be really valuable in journalism/tech, find collaborators, inspire & motivate each other – all of this in only 5 minutes, because after that: happy coding!", 
+        "facilitator": "Simon Wörpel", 
+        "facilitator_twitter": "simonwoerpel", 
+        "id": 318466, 
+        "submitted_at": "2016-04-20T22:20:16.215Z", 
+        "title": "Hands on! Let's shorten our \"If I had time I would code this\"-list"
+    }, 
+    {
+        "cofacilitator": "Laurian Gridinoc", 
+        "cofacilitator_twitter": "@gridinoc", 
+        "description": "Most audio and video content on the web sits neatly in a box unable to be shared, searched or easily navigated. In the era of 'silent video' and Cassetteboy-style remixes, how can we make it easier for viewers and listeners to distribute audiovisual content? And how do we make it accessible to and addressable by everyone?\n\nQuietly taking over the social web, silent video is easily and unobtrusively slotted into social media streams, viewers can consume without listening and with a click add the aural dimension. Good examples of silent video are captioned.\n\nTechnology exists to liberate media by coupling it with textual representations. Simply by adding a transcript to audiovisual content we can make it searchable and more accessible, link the words to media time-points and we make it more navigable and shareable. \n\nThis technology is applicable to top-down and bottom-up journalism alike - from the news organisation to the Podcaster and Vlogger.\n\nIn this session we aim to explore the opportunities that timed transcripts present, discuss existing applications, unearth new ones and detail resources that can help us realise our ideas.", 
+        "facilitator": "Mark Boas", 
+        "facilitator_twitter": "@maboa", 
+        "id": 318462, 
+        "submitted_at": "2016-04-20T22:05:10.439Z", 
+        "title": "How do we expose Audio and Video on the Web? Accessibility and Addressability."
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Bots have a lot in common with dogs. Some are cute and playful, some are working breeds, some are trained to fetch the news for you. And just like dogs, some bots are better trained than others, and they all need plenty of attention. So, if it’s true that “bots are the new apps”, what kind of training and attention are we talking about? Let’s share our experiences with bot development methodologies, frameworks, hosting, testing, and user experience. We’ll show off some of the cool tricks we’ve taught our bots (“play dead!”), but mainly we’ll discuss the technical and design underpinnings of our bot projects, the common problems we’ve encountered, and best practices for building better bots.", 
         "facilitator": "Josh Kadis", 
         "facilitator_twitter": "kadisco", 
         "id": 318455, 
         "submitted_at": "2016-04-20T21:33:14.404Z", 
         "title": "Proper care and feeding of bots"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The realm of structured data is full of domain specific terminology: linked data, RDF, JSON-LD, concepts, facets, turtle, triples, triple stores, graph databases, SPARQL…\n\nWhat are these things and should you care about them? Let's look at some real world use cases and at arguments from proponents and critics. We'll cut through the complexity and explore examples of how you can use structured data to improve how you create and publish content and make it more useful to - and discoverable by - both robots and humans, regardless of the size of your organization.", 
+        "facilitator": "Iain Collins", 
+        "facilitator_twitter": "iaincollins", 
+        "id": 318452, 
+        "submitted_at": "2016-04-20T22:02:09.313Z", 
+        "title": "What is structured data and why should you care?"
     }, 
     {
         "cofacilitator": "Ivar Vong", 
@@ -30,6 +140,16 @@
         "title": "Peer Critique for News Nerds"
     }, 
     {
+        "cofacilitator": "Simon Jockers", 
+        "cofacilitator_twitter": "sjockers", 
+        "description": "Business as usual: Journalist does all the work, reader just reads. Today this approach is really outdated. So many projects where users generate content in collaboration exist out there – that is in fact one of the concepts behind \"the internet\" –, but not so in journalism. Why do we forget to ask our readers? What tools can we use or build to start a distributed, community-driven investigation? How can we implement fact-checking? Let's discuss what we can do and what we shouldn't – bring your own tools & dreams.", 
+        "facilitator": "Simon Wörpel", 
+        "facilitator_twitter": "simonwoerpel", 
+        "id": 318425, 
+        "submitted_at": "2016-04-20T21:50:44.990Z", 
+        "title": "Just ask the readers – how to build community-driven investigations"
+    }, 
+    {
         "cofacilitator": "Lam Thuy Vo", 
         "cofacilitator_twitter": "lamthuyvo", 
         "description": "No one is great at onboarding new staff, but news nerd teams are at a particular disadvantage. As a tech team, we need to set up new coders on our tools and technologies and get them up to speed with our coding philosophies. As a journalism desk, we’ve got to try and explain the often convoluted bureaucracy running through our newsrooms. In smaller organizations it can be even trickier as the new lonely coder must navigate these waters (somewhat) alone. For managers and new hires alike, we want to lead a session looking at how to make this process less painful. How can we integrate new team members faster? And ensure that the road there isn’t too bumpy?", 
@@ -38,6 +158,16 @@
         "id": 318409, 
         "submitted_at": "2016-04-20T20:18:48.280Z", 
         "title": "Newsnerd newbies"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Participants will take a source dataset from a real story and a \"recipe\" for the analysis, break into groups and replicate the data analysis using a technology of their choice.  They could use R, they could use Python and Pandas, they could use Excel, they could use a SQL database, a pencil and calculator or any set of tools of their choice.  Participants will reconvene to share there experiences and push their code, spreadsheets and notes to a shared git repository.", 
+        "facilitator": "Geoff Hing", 
+        "facilitator_twitter": "geoffhing", 
+        "id": 318397, 
+        "submitted_at": "2016-04-20T22:04:55.748Z", 
+        "title": "Data analysis N ways"
     }, 
     {
         "cofacilitator": null, 
@@ -208,6 +338,26 @@
         "id": 318330, 
         "submitted_at": "2016-04-20T17:45:27.184Z", 
         "title": "Data sonification piano bar"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Everyone plays games, so isn't it about time we embrace this as a medium for delivering news?  Games can be great as instruments for conceptual thinking and as tools for social change, as well as being great at putting people in positions of getting *feelings*.  So what exactly is it that makes games so great? And how can you go about turning your next story into one? We will look at some examples, discuss what is good about them, explore some different game genres and tools for making games in the newsroom.\n\n*not actually new", 
+        "facilitator": "Linda Sandvik", 
+        "facilitator_twitter": "hyper_linda", 
+        "id": 318325, 
+        "submitted_at": "2016-04-20T22:45:43.358Z", 
+        "title": "New* formats in journalism: the News-Game"
+    }, 
+    {
+        "cofacilitator": "Michael Donohoe", 
+        "cofacilitator_twitter": "donohoe", 
+        "description": "or, \"Dig Through Time\"\n\nPitchfork started 20 years ago. Just a wee baby. The New Yorker hit 91 years in age. The NYTimes, Guardian,  Washington Post, Galena Gazette, and more have several centuries worth of content between them. However it's fair to say that 90% of daily traffic goes directly against stories published in the last week.\n\nArchive stories can hold a rich and unique mirror to the events of today, but face a number of challenges in being found and resurfaced: organization, classification, relevancy. Resurfacing content from even moderately sized archives is a challenge: often, it’s as much art as science. It is almost a brute force exercise to determine quality and notability. Yet we know there is a meaningful history and legacy buried there. How do we make sense of the present when we cannot easily access the past?\n\nWhy is this hard? We often think in historical terms over decades - and rarely in the smaller events that define our day to day. Staff across many departments may not have the necessary depth of knowledge about the archives to know where to draw from, and institutional knowledge is lost between generations. Metadata and taxonomy may not be established to help classify and surface. Tooling may not exist or may be inaccessible to guide making intelligent suggestions.\n\nIn this talk, we’ll explore working with your archives by talking about how we work with ours. Low-hanging fruit to bring gems to the surface, long-term strategies to make archives more accessible, and to ensure that today's content is accessible tomorrow.", 
+        "facilitator": "Matt Dennewitz", 
+        "facilitator_twitter": "mattdennewitz", 
+        "id": 318322, 
+        "submitted_at": "2016-04-20T22:24:02.826Z", 
+        "title": "Sometimes I Sit and Think About Evergreen Content and Sometimes I Just Sit"
     }, 
     {
         "cofacilitator": "Jane Friedhoff", 
