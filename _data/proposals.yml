@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Julia B. Chan", 
+        "cofacilitator_twitter": "juliachanb", 
+        "description": "Teams within an organization are usually pretty structured. One group might share a common focus, office space and manager. But communities are a much more fluid – they move beyond the designated org chart lines and boundaries drawn by the company. \n\nSome of the best collaboration in news and tech comes when different specialities mix. Whether you’re a lonely coder or on a large news app team, how do you build and sustain a community of data- and tech-oriented journalists within your organization? \n\nWhat kind of obstacles does this internal community face?\n- How do you help everyone level-up, including yourself? \n- How do you make sure knowledge and skills aren’t concentrated among a small group -- or just one person? \n- How do you get management buy-in for cross-pollination type training \npush back against training bc of timing on both sides; tension between a dedicated team and individuals doing similar work/working on a different part of the project\n- How do you maintain momentum if there's no institutional structure or the structure changes? \n\nCan we come up with some solutions to these problems?\n\nWe want to hear your experience and advice for internal community-building, even if it’s not directly related to data and tech. We’ll discuss all these topics, then break into small groups. Each group will have one item to expand on and contribute back to the session transcript. In the end, we’ll have an internal community-building guide to share.", 
+        "facilitator": "Greg Linch", 
+        "facilitator_twitter": "greglinch", 
+        "id": 318627, 
+        "submitted_at": "2016-04-21T03:01:24.131Z", 
+        "title": "Comm Together: How can we build and maintain a data/tech/code community in each of our organizations?"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "Choosing a CMS used to be an all-or-nothing, monolithic decision that affected everyone from reporters, editors, designers, all the way up to the reader. This is rapidly changing as major publishing tools introduce features and patterns that allow them to exist in a loosely coupled relationship with each other and the web at large. \n\nThis session is all about the disintegration of traditional online publishing tools – the world of headless CMSes, pure JavaScript frontends, apps, APIs, and other strange beasts. We'll cruise through some real-world examples and then convene a discussion focusing on the future of the decoupled CMS and its impact on news organizations.", 
@@ -8,6 +18,16 @@
         "id": 318624, 
         "submitted_at": "2016-04-21T02:48:45.903Z", 
         "title": "The CMS is Dead. Long live the CMS."
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Video is getting more popular, for the most part now it feels through Facebook, Snapchat, Gfycat/Imgur and maybe Twitter. Using video within web pages is on it's way out,  but Facebook _did_ add embed support for it's player. I'll share observations on how people are watching video on social sites like Reddit and Medium, and also publishers like USA Today and NYTimes. I'll share opportunities I see with video while working with the open source project VideoJS. After this overview- of platforms vs. websites, viewer behavior, and player tools- we'll have an idea jam around video in the context of websites- what's missing, what would we love to see, and what's the dream.", 
+        "facilitator": "Kawandeep Virdee", 
+        "facilitator_twitter": "whichlight", 
+        "id": 318621, 
+        "submitted_at": "2016-04-21T02:54:57.176Z", 
+        "title": "Videos outside the platforms: How we watch them, opportunities, and idea jamming"
     }, 
     {
         "cofacilitator": "Paulina Bustos Arellano", 
