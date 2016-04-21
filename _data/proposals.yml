@@ -2,12 +2,52 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Journalists' skills are changing to reflect their changing environment. Does this mean that different qualities and talents are going to be needed? \nIn this session, we want to pick out the skills and qualities that made great journalists in the past and those that will make great hacks today and the in the future. \nAre we moving from a right brain to a left brain dominance? Does it have to be one or the other? \nHow can we ensure we keep the best qualities from the past and develop the future? What therefore makes the well rounded journalist of the future?\nHow can we increase the emotional dial for the cerebral or make the heart code ?\nAfter taking a look at ourselves and extrapolating our future, we will set a must follow trajectory for journalism schools and training institutions that will save the world.", 
+        "facilitator": "Hosam El Nagar", 
+        "facilitator_twitter": "@hosamTF", 
+        "id": 318532, 
+        "submitted_at": "2016-04-21T00:03:33.026Z", 
+        "title": "Designer journalist babies"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Getting hundreds of reporters from different newsrooms in different countries to work together on the same project -and share- is the International Consortium of Investigative Journalists’ (ICIJ) day-to-day challenge. For our latest investigation, the Panama Papers, we gathered more than 370 journalists from almost 80 countries to mine 11.5 million files.\n\nOne of the missions of ICIJ's Data & Research Unit is to create the tools to make these collaborations happen seamlessly across borders. We've implemented social network platforms for reporters to communicate the findings, developed platforms to search over millions of documents and data and also to explore them visually. With reporters collaborating more and more across borders - or with different organizations - our challenge today could be yours tomorrow. Learn from our successes (and mistakes).\n\nWe want to share with you our experience in deploying Apache Solr (http://lucene.apache.org/solr/) to search unstructured data with added metadata, using Neo4J and Linkurious for graph databases (https://linkurio.us/) and implementing the social network Oxwall (http://www.oxwall.org/) to communicate efficiently.", 
+        "facilitator": "Matthew Caruana Galizia & Miguel Fiandor", 
+        "facilitator_twitter": "mcaruanagalizia, mfiandor", 
+        "id": 318531, 
+        "submitted_at": "2016-04-20T23:56:22.305Z", 
+        "title": "Tools to search millions of documents remotely and across borders"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Very often the data you need to work on is ugly, is not the format you want, so you need to take your Swiss data knife out to get the work done as quickly as possible. The International Consortium of Investigative Journalist programmers have developed a unique expertise on this over the past investigations, which include the Panama Papers, the largest leak in journalism history. We’d like to share a collection of tips and tools on how to clean, filter, convert and make ugly data look good, and have it ready to be analysed, delivered to final users, or imported in any database. \n\nThere are a bunch of great open source tools to do these tasks. We will show which ones we used and how, such as: python, Talend, pandas, beautifulsoup, csvkit, grep and others.", 
         "facilitator": "Miguel Fiandor", 
         "facilitator_twitter": "mfiandor", 
         "id": 318525, 
         "submitted_at": "2016-04-20T23:40:32.189Z", 
         "title": "How to structure \"spaghetti\" data"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "If you work in or near a newsroom, you've probably been asked how to do what you do. Maybe a reporter wants to make better charts, find a pattern in data or even scrape data from a website. Let's discuss how we can help our coworkers identify and learn a particular skill, starting at a beginner level (Excel and Google spreadsheets are powerful). And what is our role? Should we be leading training sessions? We can create a series of questions and collect resources we can use to teach in our own newsrooms.", 
+        "facilitator": "Sarah Squire", 
+        "facilitator_twitter": "sarahjsquire", 
+        "id": 318521, 
+        "submitted_at": "2016-04-20T23:47:38.555Z", 
+        "title": "Teaching in the Newsroom: What do we teach and how?"
+    }, 
+    {
+        "cofacilitator": "Bo Kim", 
+        "cofacilitator_twitter": null, 
+        "description": "Comment boxes have had an infamous run in online publishing, and with many organizations looking for alternative solutions or removing all traces of peer-to-peer conversation from their sites, it's time to rethink what a conversation experience could be in the age of mobile, podcasts, live video, and VR. We'll start with a grounding textual analysis research, and lead a discussion on text categorization and the types of conversations they inspire among us in real life. Then we'll break out into small teams and pick a typology, a medium (text, audio, video, or VR), and a persona, and create an analog demo with action figures, paper cutouts, and basic wireframes, to share the conversational experiences we've created. Some of the questions that we'll seek to answer are: How can conversational interfaces help create safe spaces for dialog? What role should content creators take in the conversation?", 
+        "facilitator": "Meghan Krane", 
+        "facilitator_twitter": "meghan_krane", 
+        "id": 318520, 
+        "submitted_at": "2016-04-20T23:59:58.497Z", 
+        "title": "Conversations Beyond the Comment Box"
     }, 
     {
         "cofacilitator": null, 
