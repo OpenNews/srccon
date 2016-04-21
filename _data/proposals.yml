@@ -124,7 +124,7 @@
         "cofacilitator_twitter": null, 
         "description": "We’re heading into the home stretch of the 2016 election season. Do you know how to get the critical campaign finance data you need? 18F has helped the Federal Election Commission release a new beta site and API to make the task easier, but whether you’re new to campaign finance or a seasoned pro, this data can be complicated and confusing. Through interactive demos and the collective smarts of the participants, we’ll discuss the basics of campaign finance data: how it works, where to find it, and how to tame it. Experienced participants are invited to share their best practices and all they’ve learned; newbies are invited to bring their most burning questions; and we’ll demo some of the new tools available at beta.fec.gov. You’ll leave with a better understanding of how to wrangle this often confusing data, and members of the betaFEC product team will leave with a deeper understanding of your needs and concrete ideas for how to improve the tools.", 
         "facilitator": "Noah Manger", 
-        "facilitator_twitter": "oahmanger", 
+        "facilitator_twitter": "noahmanger", 
         "id": 318596, 
         "submitted_at": "2016-04-21T01:44:51.736Z", 
         "title": "Leveling up your campaign finance data skills"
@@ -530,6 +530,16 @@
         "title": "Just ask the readers – how to build community-driven investigations"
     }, 
     {
+        "cofacilitator": "Tiff Fehr", 
+        "cofacilitator_twitter": "tiffehr", 
+        "description": "Proponents of \"structured journalism\" call for reporters and newsrooms to substantially rethink the way they gather and manage news. But the payoffs are still pretty abstract, and human habits are slow to change—for producers and audience alike. What will it take to go past theory and put more of these ideas into practice?\n\nIn this session, we'll take a narrative-driven design approach to imagine systems which could be built now to realize some of the promises of structured journalism. Starting with audience, reporter, and publisher personas, we'll develop user stories which give shape to tools and systems which fit into real lives and solve real problems. Session participants will go home with a fresh perspective on how structured journalism might fit into their work, or better, with the start of an idea for something to build!", 
+        "facilitator": "Joe Germuska", 
+        "facilitator_twitter": "joegermuska", 
+        "id": 318414, 
+        "submitted_at": "2016-04-21T03:13:47.301Z", 
+        "title": "Structured Journalism for Humans"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "Strong communities start with one-on-one relationships that grow into networks. But what if you’re a lonely coder, a student, or someone in a remote area without constant access to the wider news nerd network? Let's brainstorm ways to better facilitate connections between individuals in the community – perhaps through online meetings for project feedback or career advice. What would you want help with? How would you want to help someone else? What could these meetings look like? What would make them successful?", 
@@ -634,7 +644,7 @@
         "cofacilitator_twitter": null, 
         "description": "Do you use Slack at work? Do you find yourself simultaneously grateful for its existence yet frustrated by the ways it has commandeered your attention? Let's take a break from our Slack channels to share our experiences, try a couple of Crazy Eight sketching exercises (similar to a Google Venture Design Sprint) to identify how we would start our organization's Slack from scratch, and then launch a living document outlining how to make Slack even more human. Bring a pen and paper, and please turn on Do Not Disturb.", 
         "facilitator": "Noah Chestnut", 
-        "facilitator_twitter": "oahchestnut", 
+        "facilitator_twitter": "noahchestnut", 
         "id": 318368, 
         "submitted_at": "2016-04-20T19:11:29.078Z", 
         "title": "Several People Would Like Your Immediate Attention"
@@ -731,7 +741,7 @@
     }, 
     {
         "cofacilitator": "Neena Satija", 
-        "cofacilitator_twitter": "eenareports", 
+        "cofacilitator_twitter": "neenareports", 
         "description": "Let's see if we can get past the data in data sonification and work on the music. Bring in a dataset, and we'll translate it on the spot into sheet music. Neena Satija will put her sight-reading skills to the test as we try to play some data live. Please, please bring your own instruments. We'll experiment with keys, speed, themes and variations and whatever else comes up to see what works.", 
         "facilitator": "Michael Corey", 
         "facilitator_twitter": "mikejcorey", 
