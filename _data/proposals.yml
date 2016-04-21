@@ -1,5 +1,45 @@
 [
     {
+        "cofacilitator": "David E", 
+        "cofacilitator_twitter": null, 
+        "description": "It's not as easy as just putting the code up on GitHub. This session will work through the complex legal, social, competitive and organizational challenges to making your software open source. As a bonus: We'll figure out best practices for docs, release schedules and version numbering!", 
+        "facilitator": "Jeremy Bowers", 
+        "facilitator_twitter": "jeremybowers", 
+        "id": 318575, 
+        "submitted_at": "2016-04-21T00:51:34.827Z", 
+        "title": "Open Sourcing And You"
+    }, 
+    {
+        "cofacilitator": "Daniel Wood", 
+        "cofacilitator_twitter": null, 
+        "description": "The Raspberry Pi is the perfect hardware hacking device for the newsroom developer. It's crazy cheap--starting at just $5  for the most basic board.  And unlike the Arduino, you can work in Bash, Python and even Node, making the learning curve short and shallow. At CIR we use a motion-detecting Raspberry Pi to let us know when certain meeting rooms are occupied. \n\nThis session is an opportunity to geek out over the big world of hardware hacking and develop ideas for gathering our own data.  I would introduce the basic mechanics of a Raspberry Pi and a set of sensors like motion detectors, temperature/humidity readers and cameras. We would brainstorm and develop ideas for stories that use data gathered by one or more Raspberry Pis.\n\nAlternatively, the group might settle on a single big idea using distributed sensors, with the idea that we might build them when in our home newsrooms and share the data with one another.", 
+        "facilitator": "Scott Pham", 
+        "facilitator_twitter": "scottpham", 
+        "id": 318571, 
+        "submitted_at": "2016-04-21T00:49:48.977Z", 
+        "title": "Hack on Raspberry Pis for Journalism"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "So, you have a big pile of data that needs visualizing -- how you decide the best way to present that data, especially if it’s something beyond a standard chart? Let’s talk about how platform, audience, creativity and science should inform our dataviz decisionmaking.", 
+        "facilitator": "Tyler Machado", 
+        "facilitator_twitter": "tylermachado", 
+        "id": 318569, 
+        "submitted_at": "2016-04-21T00:52:40.362Z", 
+        "title": "There’s More Than One Way to Visualize a Datapoint"
+    }, 
+    {
+        "cofacilitator": "Daniel Wood", 
+        "cofacilitator_twitter": "danielpwwood", 
+        "description": "The more complicated an interactive project gets, the harder it is to make it work right on every platform and OS. Sure, your app works fine on desktop and mobile, but will your CMS try and kill it? Can it be iframed or pym'd?  Will it work on Facebook Stories or Amp?  Maybe it's best to admit defeat and scale back our features, producing more static, less interactive content. Or should we fight against our limits and find ways to make our features work everywhere? Most importantly, how do we communicate our decision-making process to others and establish reasonable expectations in the newsroom?\n\nIn this session we'll break into groups and play with some big desktop-centric interactives. We'll identify what features might prevent it from working on all platforms, and how they might be redesigned or optimized under the hood for maximum compatibility.", 
+        "facilitator": "Scott Pham", 
+        "facilitator_twitter": "scottpham", 
+        "id": 318561, 
+        "submitted_at": "2016-04-21T00:50:49.040Z", 
+        "title": "Platform Constraints—When to Fight and When to Admit Defeat"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "Vox Media is in the business of developing high-value digital journalism, storytelling, and brand advertising at scale. We have traditionally done a lot of custom design and engineering work for each brand that joins Vox Media. More recently, we’ve found that brand building is less about designing a website and more about designing a full brand identity package and by designing systems. Building bespoke experiences doesn’t scale. \n\nThis session will take a workshop format where we provide context for building brands through designing scalable systems with a short open conversation, and will lead to small breakout groups where teams will work together to create a brand-focused system that scales.", 
@@ -258,6 +298,16 @@
         "id": 318425, 
         "submitted_at": "2016-04-20T21:50:44.990Z", 
         "title": "Just ask the readers – how to build community-driven investigations"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Strong communities start with one-on-one relationships that grow into networks. But what if you’re a lonely coder, a student, or someone in a remote area without constant access to the wider news nerd network? Let's brainstorm ways to better facilitate connections between individuals in the community – perhaps through online meetings for project feedback or career advice. What would you want help with? How would you want to help someone else? What could these meetings look like? What would make them successful?", 
+        "facilitator": "Julia Smith", 
+        "facilitator_twitter": "julia67", 
+        "id": 318413, 
+        "submitted_at": "2016-04-21T00:49:04.892Z", 
+        "title": "Give and Receive: Can we strengthen our community through remote mentorship and office hours?"
     }, 
     {
         "cofacilitator": "Lam Thuy Vo", 
