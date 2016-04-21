@@ -10,7 +10,7 @@ permalink: /sessions/proposals/index.html
 ---
 # Proposals
 
-Session proposals are coming in for SRCCON 2016, and you can check them out here. [Pitch your own session now](/sessions/pitch) or learn more about [session styles and what it means to facilitate at SRCCON](/sessions).
+These are the proposed sessions for SRCCON 2016. We are currently reviewing this list and will be publishing accepted sessions on May 17. 
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.proposals %}

@@ -8,7 +8,6 @@ background: stickerdots
 byline: Erik Westra
 permalink: /sessions/great_session/index.html
 ---
-{% include sessionsgo.html %}
 
 We've gathered advice from participants at previous SRCCONs to assemble a picture of what makes great sessions great, how to make your pitch stand out, and how to be an awesome facilitator—even if you're new to the conference or the community.
 
@@ -31,7 +30,7 @@ Effective SRCCON facilitation is about effort and preparation more than expertis
 * have a clear outcome in mind—what they want people to leave with,
 * know what they can realistically cover in a single session,  
 * build a clear outline for the session, but deviate from it as needed,
-* actively seek to run balanced, inclusive conversations (for discussion-focused session formats), 
+* actively seek to run balanced, inclusive conversations (for discussion-focused session formats),
 * are clear about any necessary prerequisites or environment/setup requirements (for technical sessions), and
 * make a few simple backup plans in case a session gets a larger or smaller audience than expected.
 
@@ -48,4 +47,3 @@ If that sounds like a lot of effort…it is! But it also means that people who a
 * [Data Audioization: How Do We Bring Numbers to Life with Sound?](http://2015.srccon.org/schedule/#_session-18)
 * [Designing Digital Communities for News](http://2015.srccon.org/schedule/#_session-15)
 * [Surviving the News Business: Self-Care and Overcoming Burnout](http://2015.srccon.org/schedule/#_session-47)
-
