@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Pageviews suck. They tell you nothing about how your audience engages with your content. They should not be your baseline measurement for success.\n\nBut before you move on from the pageview, you have to define success. This session will help you define success for you, your team and your organization. From there, we can think about better metrics that will allow you to measure your success. Rather than dream of new tools, we will talk about how existing tools like Google Analytics can help you with measurement. We will also discuss techniques for effectively communicating learnings from analytical measurement to the rest of your newsroom and beyond.", 
+        "facilitator": "Tyler Fisher", 
+        "facilitator_twitter": "tylrfishr", 
+        "id": 318643, 
+        "submitted_at": "2016-04-21T03:09:04.397Z", 
+        "title": "I Hate Pageviews And So Should You: Using Better Analytics to Measure Success"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "A 24-hour news culture has been holding breaking news dear since its inception. Based on the long-standing tradition of competitive journalism, being the first one to break a story is both intended and appreciated among journalists. However, what happens after breaking news is published isn’t widely discussed. This talk will fill in this gap by answering the following questions: 1) Is it beneficial to break a story as an absolutely first one? 2) Where do people get breaking news during major events? 3) How do search and social serve different roles in bringing traffic to various breaking stories?", 
+        "facilitator": "Sonya Song", 
+        "facilitator_twitter": "sonya2song", 
+        "id": 318642, 
+        "submitted_at": "2016-04-21T03:11:10.883Z", 
+        "title": "All about breaking news"
+    }, 
+    {
         "cofacilitator": "Julia B. Chan", 
         "cofacilitator_twitter": "juliachanb", 
         "description": "Teams within an organization are usually pretty structured. One group might share a common focus, office space and manager. But communities are a much more fluid – they move beyond the designated org chart lines and boundaries drawn by the company. \n\nSome of the best collaboration in news and tech comes when different specialities mix. Whether you’re a lonely coder or on a large news app team, how do you build and sustain a community of data- and tech-oriented journalists within your organization? \n\nWhat kind of obstacles does this internal community face?\n- How do you help everyone level-up, including yourself? \n- How do you make sure knowledge and skills aren’t concentrated among a small group -- or just one person? \n- How do you get management buy-in for cross-pollination type training \npush back against training bc of timing on both sides; tension between a dedicated team and individuals doing similar work/working on a different part of the project\n- How do you maintain momentum if there's no institutional structure or the structure changes? \n\nCan we come up with some solutions to these problems?\n\nWe want to hear your experience and advice for internal community-building, even if it’s not directly related to data and tech. We’ll discuss all these topics, then break into small groups. Each group will have one item to expand on and contribute back to the session transcript. In the end, we’ll have an internal community-building guide to share.", 
@@ -8,6 +28,16 @@
         "id": 318627, 
         "submitted_at": "2016-04-21T03:01:24.131Z", 
         "title": "Comm Together: How can we build and maintain a data/tech/code community in each of our organizations?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "We are all well versed in creating scripts to deliver automated data to our front-end applications.\nNot all data for the news apps come from an automated source. At times, the data is hand curated by non-technical news staff or from third-party sources.\n\nTo use this raw data on our applications, we have built one-offs, editor tools, Django Admin, third-party software, hacked Wordpress, Google Docs/Sheets/Calendar (ArchieML/tabletop) and other means & methods to get the data in shape and to deliver quickly to the applications.\n\nIs one tool better than the other? Are building custom tools worth it? Is relying on third-party services a good idea?  What other challenges we encounter?", 
+        "facilitator": "Palani Kumanan", 
+        "facilitator_twitter": "_palanik", 
+        "id": 318626, 
+        "submitted_at": "2016-04-21T03:07:49.167Z", 
+        "title": "Best ways to deliver hand curated data to your news app or interactive."
     }, 
     {
         "cofacilitator": null, 
