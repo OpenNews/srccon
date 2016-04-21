@@ -1330,8 +1330,8 @@
         "title": "What's happened since last year? What will you be doing next year?"
     }, 
     {
-        "cofacilitator": null, 
-        "cofacilitator_twitter": null, 
+        "cofacilitator": "Tiff Fehr", 
+        "cofacilitator_twitter": "tiffehr", 
         "description": "jQuery. Python. Gulp. Puppet. Sometimes, it seems like modern computing requires a new framework or set of abstracted tools every week. But old tools can have great strength. The New York Times is running election results with Bash scripts and a command-line Python tool because they're rock solid and easy to debug.", 
         "facilitator": "Jeremy Bowers", 
         "facilitator_twitter": "jeremybowers", 
