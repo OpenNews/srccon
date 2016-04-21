@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Choosing a CMS used to be an all-or-nothing, monolithic decision that affected everyone from reporters, editors, designers, all the way up to the reader. This is rapidly changing as major publishing tools introduce features and patterns that allow them to exist in a loosely coupled relationship with each other and the web at large. \n\nThis session is all about the disintegration of traditional online publishing tools – the world of headless CMSes, pure JavaScript frontends, apps, APIs, and other strange beasts. We'll cruise through some real-world examples and then convene a discussion focusing on the future of the decoupled CMS and its impact on news organizations.", 
+        "facilitator": "Matt Perry", 
+        "facilitator_twitter": "mattoperry", 
+        "id": 318624, 
+        "submitted_at": "2016-04-21T02:48:45.903Z", 
+        "title": "The CMS is Dead. Long live the CMS."
+    }, 
+    {
         "cofacilitator": "Paulina Bustos Arellano", 
         "cofacilitator_twitter": "paulinabustosa", 
         "description": "Countries like México are running Open Data Programs that have found a relatively fast adoption from the localities and agencies. Such movement has enabled several sources of data to be available. What's the structure of the data? Which challenges does it face? What cautions one must take? How can you use this data to enhance your storytelling?", 
@@ -24,7 +34,7 @@
         "cofacilitator_twitter": null, 
         "description": "While the relationship between government and the press can be adversarial (in a good way!), both are homes to members of the civic tech family. So what can we be learning from each other? Whether you're on a small modern tech team in government or the newsroom, we're often up against similar challenges as we hack away inside legacy institutions. Some of those challenges are about how we work: How do you bring designers, developers and non-technical subject matter experts together to build products our users love? And some of those challenges are about what we build: How do you make complex, arcane data or content relatable to wide audiences? Through this conversation, we'll share tips and advice, gain a deeper understanding of our commonalities, and also examine the key ways that our roles differ and what can we do to help each other succeed.", 
         "facilitator": "Noah Manger", 
-        "facilitator_twitter": "oahmanger", 
+        "facilitator_twitter": "@noahmanger", 
         "id": 318609, 
         "submitted_at": "2016-04-21T02:16:27.365Z", 
         "title": "Gov tech & news tech: let's talk!"
