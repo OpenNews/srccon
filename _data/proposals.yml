@@ -12,6 +12,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "When dealing with data that encapsulates the lives of hundreds, or even thousands, of people, keeping those people from becoming anonymous numbers can be challenging. In this session, we walk through tactics and strategies for keeping humanity at the centre of complex stories, and avoiding losing our audience while exploring the sheer scale of some of these data stories. We will use the evolution -- from early stage design sketches to version 3 finished product -- of the CBC's award-winning investigation into missing and murdered aboriginal women across Canada as some of our guiding examples through this discussion.", 
+        "facilitator": "William Wolfe-Wylie", 
+        "facilitator_twitter": "wolfewylie", 
+        "id": 318535, 
+        "submitted_at": "2016-04-21T00:45:25.569Z", 
+        "title": "Keeping people at the forefront of data stories"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "The news-nerd community is pretty good at collaboration. So let's work together to sort out our weakest points—as individuals, teams, maybe even as a community—and figure out how to get 'em patched. We'll work in small groups, come together to bubble up common worries and problems, and then nail down the kinds of things we need to get better. Bring your deepest insecurities about tech, process, design, and culture, and be honest: most of the session will be off-record, and prizes may be awarded for the most potentially embarrassing admissions. You'll leave knowing which of your troubles are widely shared, and our best guess at what needs to be done to level everybody up.", 
         "facilitator": "Erin Kissane", 
         "facilitator_twitter": "kissane", 
@@ -318,6 +328,16 @@
         "id": 318378, 
         "submitted_at": "2016-04-20T19:11:18.084Z", 
         "title": "Your Fancy News App Is Invisible"
+    }, 
+    {
+        "cofacilitator": "Ryan Gantz", 
+        "cofacilitator_twitter": "@sixfoot6", 
+        "description": "Data is not an inherently user-friendly medium.  \n\nUntil recently, the experience a nontechnical person might have of encountering  data would likely be accompanied by a thick stack of annotated research documents and/or the literal data scientist who wrote the report explaining the results in person. \n\nToday, data is a living, breathing part of storytelling the material of our daily lives. When a simple snapshot on Twitter has the instant potential to transform the way that someone views themselves inside of a system, data is a visceral and emotional companion to the news cycle.  That's because when you see a great visualization that connects truth with insight, you can't un-see it.  When the power to wield data is in the hands of the public, and people tell their own stories to each other,  data becomes a medium for civic art. \n\nThe question is, what happens to data when it crosses the chasm from analysis to impact?  How can small building blocks of information resonate with a broader narrative?  How can you design for this effect when you don't know what the data is going to say?\n\nThis workshop will arm participants with the practical (and emotional) tools every team needs to perform repeatable alchemy for powerful data storytelling.", 
+        "facilitator": "Catherine Nikolovski", 
+        "facilitator_twitter": "hackoregon", 
+        "id": 318375, 
+        "submitted_at": "2016-04-21T00:37:32.216Z", 
+        "title": "Data-Driven vs User-Driven: A Paradox of Data Storytelling"
     }, 
     {
         "cofacilitator": null, 
