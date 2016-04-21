@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Stacy-Marie Ishmael", 
+        "cofacilitator_twitter": "S_m_i", 
+        "description": "You’ve read about messaging apps and the rise of AI-driven conversational news interfaces — but what’s really effective for a news bot and what’s just a tedious iteration of Choose Your Own Adventure, or Excel Macros, or if-this-then-that statements by another name?\nMillie and SMI spent the last year thinking about what makes a news app sound like a smart interesting friend. In this session we’ll workshop how to ensure your news bots don't get stuck in a boring valley of uncanny.", 
+        "facilitator": "Millie Tran", 
+        "facilitator_twitter": "Millie", 
+        "id": 318651, 
+        "submitted_at": "2016-04-21T03:38:59.806Z", 
+        "title": "Why your bot is nothing without a human"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "Pageviews suck. They tell you nothing about how your audience engages with your content. They should not be your baseline measurement for success.\n\nBut before you move on from the pageview, you have to define success. This session will help you define success for you, your team and your organization. From there, we can think about better metrics that will allow you to measure your success. Rather than dream of new tools, we will talk about how existing tools like Google Analytics can help you with measurement. We will also discuss techniques for effectively communicating learnings from analytical measurement to the rest of your newsroom and beyond.", 
@@ -28,6 +38,16 @@
         "id": 318639, 
         "submitted_at": "2016-04-21T03:22:38.932Z", 
         "title": "Break Down that Wall: Why Editorial and Audience Development Need to Work Together"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "For orgs that build (or want to build) news apps/interactives without a proper team dedicated to building them: What roles do you enlist for an ad hoc crew? How do you find the best person for each role? What is each person responsible for? How do you communicate across different departments and office micro-climates? How does each person balance this work with their \"regular\" intra-department work? Who, if anyone, manages this amorphous wandering band of nerds? I have many questions. Hair metal jokes optional.", 
+        "facilitator": "Tyler Machado", 
+        "facilitator_twitter": "tylermachado", 
+        "id": 318634, 
+        "submitted_at": "2016-04-21T03:27:08.218Z", 
+        "title": "When Your Newsroom Dev Team is a Motley Crew"
     }, 
     {
         "cofacilitator": "Julia B. Chan", 
