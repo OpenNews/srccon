@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": "Kavya Sukumar", 
+        "cofacilitator_twitter": "@kavyasukumar", 
+        "description": "Can we define the circumstances under which graphic animation is better than a fully interactive experience? Tools like AfterEffects and Google Earth flyovers are making it easier and faster to put precise scale diagrams into motion. All sorts of data layers can be added. This curated experience can be rich for the user, but it also takes the craft in a decidedly different direction from the world of data interactives and  virtual reality. This session will result in written guidelines for what precisely video animations are good for, and what they are not.", 
+        "facilitator": "Steve Suo", 
+        "facilitator_twitter": "@stevesuo", 
+        "id": 318598, 
+        "submitted_at": "2016-04-21T01:47:34.422Z", 
+        "title": "When is graphic animation more effective than a data interactive?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "We’re heading into the home stretch of the 2016 election season. Do you know how to get the critical campaign finance data you need? 18F has helped the Federal Election Commission release a new beta site and API to make the task easier, but whether you’re new to campaign finance or a seasoned pro, this data can be complicated and confusing. Through interactive demos and the collective smarts of the participants, we’ll discuss the basics of campaign finance data: how it works, where to find it, and how to tame it. Experienced participants are invited to share their best practices and all they’ve learned; newbies are invited to bring their most burning questions; and we’ll demo some of the new tools available at beta.fec.gov. You’ll leave with a better understanding of how to wrangle this often confusing data, and members of the betaFEC product team will leave with a deeper understanding of your needs and concrete ideas for how to improve the tools.", 
+        "facilitator": "Noah Manger", 
+        "facilitator_twitter": "oahmanger", 
+        "id": 318596, 
+        "submitted_at": "2016-04-21T01:44:51.736Z", 
+        "title": "Leveling up your campaign finance data skills"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "In the rush to get our projects out the door, it's easy to forget to test accessibility issues. Let's work on launch-ready checklists to help ensure all of our projects are accessible for everyone.", 
@@ -38,6 +58,16 @@
         "id": 318578, 
         "submitted_at": "2016-04-21T01:31:39.040Z", 
         "title": "Make America Scrape Again: Turning Media and Money into Political Data"
+    }, 
+    {
+        "cofacilitator": "Mike Tigas", 
+        "cofacilitator_twitter": "mtigas", 
+        "description": "The design and deployment of software has important implications for maintenance and operation in a newsroom.  We'll discuss the attributes of software projects that have an impact on their sustainability & ease of use over time (who will run your code when you're gone?).  We'll also play a little design game to map out which attributes take priority in our newsrooms, and how open source software projects in the news match up to those priorities.", 
+        "facilitator": "Ted Han", 
+        "facilitator_twitter": "knowtheory", 
+        "id": 318576, 
+        "submitted_at": "2016-04-21T01:34:52.395Z", 
+        "title": "The Ecology of Newsroom Software"
     }, 
     {
         "cofacilitator": "David E", 
@@ -328,6 +358,16 @@
         "id": 318449, 
         "submitted_at": "2016-04-20T21:29:36.033Z", 
         "title": "Threat Modeling for Code: When is Bad Code the Better Solution?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Everyone struggles with their CMS. They're often kludgy, antiquated systems that were built up over years, and as a result, there's more cruft than there is usable code. Often, they end up as the things developers curse when they want to build out a unique piece of journalism or put effort into data projects. Solutions typically range from static generators to comprehensive off-CMS tools, but are developers missing an opportunity to make interactive and data journalism a deep-seeded part of the news process? Is there still value in integration, or is a wide splay of tools our best option? Should everyone be working on the CMS instead of a dedicated team? Can modern, API-driven CMSes survive in a fast-paced news dev world?", 
+        "facilitator": "Matt Montgomery", 
+        "facilitator_twitter": "MDotMontgomery", 
+        "id": 318444, 
+        "submitted_at": "2016-04-21T01:47:04.008Z", 
+        "title": "Should you re-build your CMS or work around it?"
     }, 
     {
         "cofacilitator": null, 
