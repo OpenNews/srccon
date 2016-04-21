@@ -10,7 +10,7 @@ permalink: /sessions/proposals/index.html
 ---
 # Proposals
 
-These are the proposed sessions for SRCCON 2016. We are currently reviewing this list and will be publishing accepted sessions on May 17. 
+These are the proposed sessions for SRCCON 2016. We are currently reviewing this list and will be publishing the list of accepted sessions prior to tickets going on sale on May 18. 
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.proposals %}
