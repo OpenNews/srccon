@@ -1,5 +1,45 @@
 [
     {
+        "cofacilitator": "Paulina Bustos Arellano", 
+        "cofacilitator_twitter": "paulinabustosa", 
+        "description": "Countries like México are running Open Data Programs that have found a relatively fast adoption from the localities and agencies. Such movement has enabled several sources of data to be available. What's the structure of the data? Which challenges does it face? What cautions one must take? How can you use this data to enhance your storytelling?", 
+        "facilitator": "Ricardo Daniel Alanis Tamez", 
+        "facilitator_twitter": "ricalanis", 
+        "id": 318613, 
+        "submitted_at": "2016-04-21T02:17:59.289Z", 
+        "title": "How to use Latinamerica Open Data in our Newsrooms?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "While the relationship between government and the press can be adversarial (in a good way!), both are homes to members of the civic tech family. So what can we be learning from each other? Whether you're on a small modern tech team in government or the newsroom, we're often up against similar challenges as we hack away inside legacy institutions. Some of those challenges are about how we work: How do you bring designers, developers and non-technical subject matter experts together to build products our users love? And some of those challenges are about what we build: How do you make complex, arcane data or content relatable to wide audiences? Through this conversation, we'll share tips and advice, gain a deeper understanding of our commonalities, and also examine the key ways that our roles differ and what can we do to help each other succeed.", 
+        "facilitator": "Noah Manger", 
+        "facilitator_twitter": "oahmanger", 
+        "id": 318609, 
+        "submitted_at": "2016-04-21T02:16:27.365Z", 
+        "title": "Gov tech & news tech: let's talk!"
+    }, 
+    {
+        "cofacilitator": "Jessica Barbosa Torres", 
+        "cofacilitator_twitter": null, 
+        "description": "When working in a project that involves developers with different backgrounds and mindsets, large discussions amongst team members are bound to happen. Though the years, software developers have managed to communicate with sales teams, designers, and C-levels. However, a new ingredient has recently been added to the mix: data science teams. Even harmless planning sessions might turn problematic when the output from data scientists, whose background is mainly academic, is crucial to the product. Is there an optimal way of communicating between teams that have such diverse background without spending long hours in fruitless meetings? How do you explain to your data scientists that having to wait for more than 20 seconds for a prediction is not \"production ready\", regardless of the model's achieved accuracy? Data Science has made it possible for companies everywhere to extract insights from tons of data sources, regardless of their volume or diversity. But, is there a way to help your front-end developers understand the importance of scalability when working with large sets of data?\n\nIn this session we will share our experiences while looking for the best way to communicate in an interdisciplinary team where everyone's input is vital for the product's success.", 
+        "facilitator": "Juan Carlos Sanchez-Ruiz", 
+        "facilitator_twitter": "gojcs", 
+        "id": 318603, 
+        "submitted_at": "2016-04-21T02:16:26.851Z", 
+        "title": "Delivering a great software product with a diverse team: data scientists, data engineers and front-end developers"
+    }, 
+    {
+        "cofacilitator": "Carolina Arreola", 
+        "cofacilitator_twitter": null, 
+        "description": "When a story hit social media it is hard to know its impact, we will present a tool and methodology to follow a story in social media and understand if it is important enough to use it in your newsroom.", 
+        "facilitator": "Sandra Barrón", 
+        "facilitator_twitter": "sinchips", 
+        "id": 318601, 
+        "submitted_at": "2016-04-21T02:10:40.381Z", 
+        "title": "How to find the most important stories for my newsroom?"
+    }, 
+    {
         "cofacilitator": "Kavya Sukumar", 
         "cofacilitator_twitter": "@kavyasukumar", 
         "description": "Can we define the circumstances under which graphic animation is better than a fully interactive experience? Tools like AfterEffects and Google Earth flyovers are making it easier and faster to put precise scale diagrams into motion. All sorts of data layers can be added. This curated experience can be rich for the user, but it also takes the craft in a decidedly different direction from the world of data interactives and  virtual reality. This session will result in written guidelines for what precisely video animations are good for, and what they are not.", 
@@ -28,6 +68,16 @@
         "id": 318589, 
         "submitted_at": "2016-04-21T01:23:50.120Z", 
         "title": "Accessibility launch list"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "APIs are a technology that are -- finally? maybe? -- getting their day in the sun. Do you want to risk your newsroom getting left behind? At the same time, solid APIs are not easy to build, and they can require serious maintenance. They should not be taken lightly.\n\nThis session will explain what an API (Application Programming Interface) is, and how it can it can improve your newsroom. (Though we might  also try to talk you out of creating an API!)\n\nWe'll talk about API  best practices, API integrations, and how to explain APIs (and their value) to your bosses.  As a concrete example, the session will walk through the brand-new WBUR API. We'll talk about its features, as well as its flaws; how it's powering a new website and and a mobile app (and, with any luck, the screen on your refrigerator); and the process we went through to create it (as well as what we would do differently).", 
+        "facilitator": "David Moore", 
+        "facilitator_twitter": "CrookedNumber", 
+        "id": 318588, 
+        "submitted_at": "2016-04-21T01:53:48.603Z", 
+        "title": "Why your newsroom needs an API! (Or doesn't.)"
     }, 
     {
         "cofacilitator": null, 
