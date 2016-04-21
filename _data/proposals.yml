@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "No matter where you work, how old you are, or what your specific job title is, certain tasks can be rather daunting. The thought of asserting an opinion may seem horrifying. Asking for help - terrifying. And pitching an idea… well, that can be rather intimidating to say the least. I have experienced all of these feelings at some point. But I’ve also learned that it doesn’t have have to feel that way. Team dynamics, when positive, can play a huge part in making members feel included and heard. This plays an especially large roll when teams are split between multiple locations and/or include remote team members. Shared experiences and knowledge of each other’s lives can go a long way in helping teammates to become comfortable among one another. I have a couple of ideas about how to facilitate these kinds of relationships based on experiences within my own team, but I’m sure there are many, many more out there. I’d love to tell you about what has worked for my team and also for us to discuss other activities that have worked toward (or against) facilitating this kind of team dynamic.", 
+        "facilitator": "Casey Miller", 
+        "facilitator_twitter": "caseymmiller", 
+        "id": 318678, 
+        "submitted_at": "2016-04-21T04:42:42.101Z", 
+        "title": "Fostering a naturally welcoming work environment within your team"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "You know something worth sharing, whether you know it or not. This session will be focused on demystifying how to share your knowledge with others — and on helping you figure out what the heck you know in the first place. If you've ever felt like you wanted to pitch an idea for a talk at a conference (like this one!), but you weren't sure what to pitch, this is the session for you.", 
+        "facilitator": "Heather Billings", 
+        "facilitator_twitter": "hbillings", 
+        "id": 318677, 
+        "submitted_at": "2016-04-21T04:31:45.292Z", 
+        "title": "The More You Know You Know"
+    }, 
+    {
         "cofacilitator": "David Yanofsky", 
         "cofacilitator_twitter": "YAN0", 
         "description": "Plenty of datasets are put out on a set schedule. How do we keep track of these? There are economic calendars for things like inflation and the employment rate on Bloomberg and Factset machines, but these are designed with financial professionals in mind, not journalists. Let’s make a collaborative data release calendar for the newsroom. What would it look like in contrast to existing tools? Can we do better than a planner file? What information would we want to include? How could it help us stay on top of newsworthy data releases, as well as discover new stories to tell?", 
@@ -118,6 +138,16 @@
         "id": 318634, 
         "submitted_at": "2016-04-21T03:27:08.218Z", 
         "title": "When Your Newsroom Dev Team is a Motley Crew"
+    }, 
+    {
+        "cofacilitator": "Annie Daniel", 
+        "cofacilitator_twitter": "anieldaniel", 
+        "description": "The boons of publishing large, searchable databases are easy to grasp — with the right dataset, they can be major sources of traffic. It's easy to talk about the technical challenges of creating and maintaining these apps, and it's easy to argue for their existence in favor of openness — but what about the ethical challenges? There is much we've collectively learned over the course of nearly six years of maintaining the Texas Tribune's salary and prisoner databases. No matter how prepared you may be for the inevitable requests for exclusion, eventually there will be a request that causes you to pause and ask, \"wait, are we doing this right?\" What do you do when your established protocol is woefully inadequate for a person's request? When your news app puts you or your organization in the position of power, how do you ensure the humans in the data are treated with empathy? Our goal with this session is to encourage a dialog on and around these issues. We will go over our current policies, and share stories of what we've done well... and what we've done not so well. We'll work through different scenarios together, discuss and debate our responses and provide a space to discuss real life examples.", 
+        "facilitator": "Ryan Murphy", 
+        "facilitator_twitter": "rdmurphy", 
+        "id": 318629, 
+        "submitted_at": "2016-04-21T04:45:37.395Z", 
+        "title": "You're The Reason My Name Is On Google: The Ethics Of Publishing Public Data"
     }, 
     {
         "cofacilitator": "Julia B. Chan", 
