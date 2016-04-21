@@ -60,6 +60,16 @@
         "title": "Leveling up your campaign finance data skills"
     }, 
     {
+        "cofacilitator": "Aaron Williams", 
+        "cofacilitator_twitter": "aboutaaron", 
+        "description": "In the past few years, we’ve seen emerging recognition of graphics and data journalism, most recently in the Pulitzers awarded to data-centric projects. Our community is reflecting on recent years of our work and has established design patterns and philosophies. But we mostly talk about how we do our journalism -- now let’s talk about the people doing it.\n\nHow have the expectations of a journalist’s career trajectory changed with emerging roles and disciplines? Have we made our corner of the industry open to aspiring news nerds who might not have access to the tools and resources that gave many of us a lift into this field? And what if you don’t see your job as your calling?\n\nOur goal is provide a catharsis about our work and develop solutions that look out for the people doing this work. We’ll ask hard questions of ourselves to foster a discussion about the sustainability of what we do.", 
+        "facilitator": "Katie Park", 
+        "facilitator_twitter": "katiepark", 
+        "id": 318592, 
+        "submitted_at": "2016-04-21T02:20:38.667Z", 
+        "title": "A data analysis of ourselves"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "In the rush to get our projects out the door, it's easy to forget to test accessibility issues. Let's work on launch-ready checklists to help ensure all of our projects are accessible for everyone.", 
@@ -158,6 +168,16 @@
         "id": 318569, 
         "submitted_at": "2016-04-21T00:52:40.362Z", 
         "title": "There’s More Than One Way to Visualize a Datapoint"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Election night. Oscars. Olympics. Earthquake. These are high-pressure, high-visibility, high-traffic moments for you and your newsroom. This workshop will help attendees prepare their team for the biggest news day of the year. How will your team be organized? Who will step up to lead what? How will you communicate? How will you prepare your technology stack so it won’t fall over? How do you protect your team from hacking attacks? What’s your fallback if something breaks? And, once you assemble this plan, how do you engage it in a moment’s notice?", 
+        "facilitator": "Steph Yiu", 
+        "facilitator_twitter": "crushgear", 
+        "id": 318565, 
+        "submitted_at": "2016-04-21T02:30:33.420Z", 
+        "title": "OMGWTFBBQ: Breaking news without breaking your site"
     }, 
     {
         "cofacilitator": "Daniel Wood", 
