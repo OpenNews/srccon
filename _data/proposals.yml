@@ -2,6 +2,126 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "I love that SRCCON proposals are open to the public, because with just 1 hour to go before the deadline, I can see that the elephant in the room is money (try searches for \"pay\", \"advert\", \"money\") - there are virtually no talks about how this community can move beyond the terrible display ad optimization, paywalls and grants that many of us depend on for our income. More than that, can (and how) do we make independent journalism, the kind that doesn't thrive on ad impressions, work as a sustainable living, too? Models for money and payments have changed dramatically over the past few years - Spotify, Kickstarter, Patreon, etc., but few of these have made a real impact in the newsroom. Let's think cooperatively, and see what creative approaches the SRCCON community (i.e., not just biz-dev) has up their collective sleeves.", 
+        "facilitator": "Blaine Cook", 
+        "facilitator_twitter": "blaine", 
+        "id": 318712, 
+        "submitted_at": "2016-04-21T06:17:08.793Z", 
+        "title": "Paying for the News"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Let's talk about the all-important bit of the development process that happens between the spark of an idea and writing the first line of code. A well-honed bootstrapping workflow to create a new project from scratch can save the day in a breaking news situation. But how you start your project can make all the difference whether the deadline is hours or weeks away. Your workflow can not only save you time, but also encourage best practices, ease collaboration and keep you sane. \n\nWe will describe and compare project scaffolding tools, news app templates and web development workflows. We will discuss how to make appropriate technical decisions for your team and project scope. And we will brainstorm features we wish our workflows had. Do you clone or scaffold? How do you manage technical debt and feature-creep? How do you prepare for the future?\n\nLet's share our best ideas for setting up our projects to succeed from the very start.", 
+        "facilitator": "John Muyskens", 
+        "facilitator_twitter": "JohnMuyskens", 
+        "id": 318711, 
+        "submitted_at": "2016-04-21T06:28:45.540Z", 
+        "title": "How do you start?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "As a SRCCON attendee you are probably working in journalism and technology, fields that are fueling some of the most significant changes in children's lives today. As journalists and nerds, we are generally thoughtful about most things in our lives, but parenting comes so hard and so fast that it is easy to live in the moment and not create an ethos by which to parent. \n\nI am personally very granola and severely limit the amount of media and technology in my children's lives, but I don't think that this is the only way to raise children. Let's build a community of parents working in journalism and technology and learn from each other's shared experiences.", 
+        "facilitator": "Arjuna Soriano", 
+        "facilitator_twitter": "arjunasoriano", 
+        "id": 318710, 
+        "submitted_at": "2016-04-21T06:45:53.532Z", 
+        "title": "Granola Parenting in a Soylent World"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Open source projects can attract more people to contribute to them. The numbers are not that good. According to a survey, only 11% of open source participants are women. This can be improved. People find it intimidating to get started with contributing to open source. Why? This talk will back them up by answering questions, throwing light on the issues that they usually have.\n\nThe talk aims at introducing the audience to the world f FOSS and elaborate the vast range of opportunities ranging from coding to documentation, design, outreach and research. The speaker shall converse her involvement and  experience in FOSS and its impact. A special emphasis shall be on the dearth of women in technology. It aspires to inspire budding girl developers and showcase women who’ve made significant contributions to technology.", 
+        "facilitator": "Jigyasa Grover", 
+        "facilitator_twitter": "jigyasa_grover", 
+        "id": 318701, 
+        "submitted_at": "2016-04-21T05:27:36.141Z", 
+        "title": "FOSS it up, with Women !"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "So you or your team is working on an open source project. But is it really open source or just publicly available source?\nWhat are the hallmarks of a great open source project? How can a small news-dev team juggling multiple projects build  products that don't impose your internal branding and assumptions on users outside?\n Come share tips, tricks and learnings from building and maintaining open source tools and products.", 
+        "facilitator": "Kavya Sukumar", 
+        "facilitator_twitter": "kavyasukumar", 
+        "id": 318699, 
+        "submitted_at": "2016-04-21T05:31:49.861Z", 
+        "title": "Building truly open-source software"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Faced with the drive to program to remote partners, apps,  and corporate-owned-and-operated chat platforms, we find ourselves rolling the dice on a future that seems to call for a referendum on The Web. As the tools we use for storytelling become not just more diverse but more constrained by the spectre of Terms Of Service, can we hedge our bets? Or to put it a different way, does our work to serve both third-party platforms and the websites that serve as our foundations actually constitute a zero-sum game? This session proposes that, by stepping back, we can imagine a workflow and toolset that serves both needs—and, by extension, newsrooms—even better than the current generation of content management systems.\n\nIn order to investigate this approach, we will ask three questions:\n\n1. Rather than abandon the benefits that the web affords us as a structure, how can we carry with us the ethos and process of the web as we negotiate these new platforms?\n2. Can our industry call upon a history of standards and protocols to avoid partner lock-in?\n3. Should our tools pivot from a focus on authorship to one of reportage and remixing, allowing us to use new platforms in focused ways without losing control over the source material?\n\nWhat if the web is the best idea? How can we retain the imperatives of the web as we serve the future of storytelling, and what are the kinds of tools and standards we can rally around to preserve that context while allowing us to experiment in other people's walled gardens?", 
+        "facilitator": "David Yee", 
+        "facilitator_twitter": "tangentialism", 
+        "id": 318698, 
+        "submitted_at": "2016-04-21T05:15:18.459Z", 
+        "title": "Get you a CMS that can do both: Platforms, the web, and storytelling imperatives"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "New tools for storytelling surface new questions of ethics that we as journalists and product practitioners must confront head-on. Immersive and interactive environments—as represented by VR and chat, respectively—change the context of reporting in critical human and cultural ways. What are the psychological implications of immersive journalism? How do cultural mores about conversation inform our work with bots? We will explore:\n\n- the history of simulation in reporting\n- the boundaries between effective virtual storytelling and inadvertent manipulation\n- cultural lessons in machine-mediated conversation, and\n- our responsibility to readers as they become interlocutors.\n\nIn exploring the edges of these new contexts for reporting, we hope to identify dangerous stretches of the road ahead and focus our initial efforts in new spaces in thoughtful and responsible \nways.", 
+        "facilitator": "David Yee", 
+        "facilitator_twitter": "tangentialism", 
+        "id": 318696, 
+        "submitted_at": "2016-04-21T05:10:37.341Z", 
+        "title": "Ethics of Interactive Journalism"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "As processor cycles plummet in price and open-source tools for machine learning become more accessible and sophisticated, it becomes reasonable to consider the role of machine learning in newsrooms and content management systems. We are intimately familiar with the ways in which recommendation engines can help us recirculate and identify similar content to our readers; but once we set that aside, what are the ways in which pattern detection can help journalists actually do their work? Using existing models for topic detection, natural language processing, and both supervised and unsupervised learning, we will investigate the boundaries of what reporters and machines do exceedingly well—all the while keeping a close eye on the singularity. How can machine learning best serve as an exoskeleton for the journalists as they gather and report the news? What are the tools we can build to surface signal where we need it the most?", 
+        "facilitator": "David Yee", 
+        "facilitator_twitter": "tangentialism", 
+        "id": 318692, 
+        "submitted_at": "2016-04-21T05:06:57.191Z", 
+        "title": "Machine Learning and the Beat Reporter"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "At Marketplace we try to make every piece of audio, chart and interactive media embeddable. STEAL OUR STUFF! A soon to be published project creating charts for the 20th anniversary of welfare reform is our first big push to let others know that they can and should steal our stuff.\n\nLet’s take a look at the opportunities, the constraints and examples of what has worked and what has not.", 
+        "facilitator": "Arjuna Soriano", 
+        "facilitator_twitter": "arjunasoriano", 
+        "id": 318691, 
+        "submitted_at": "2016-04-21T05:38:45.526Z", 
+        "title": "Steal this Chart"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "It sticks with you. An exercise, an anecdote, a teacher, a colleague. They had a way of explaining, of teaching, something fundamental that years later you can't get out of your head. That in turn you use to teach, to illustrate, to explain the basics. One of my favorites -- one I think of to this day -- involved the making of a peanut butter and jelly sandwich as a way of forcing attention to detail. Let's make these a more pervasive part of journalism's oral history. Let's share those exercises and tell those stories. Let's pass them on. Hell. We might act them out. (There might even be sandwiches.)", 
+        "facilitator": "Jacob Quinn Sanders", 
+        "facilitator_twitter": "thejqs", 
+        "id": 318689, 
+        "submitted_at": "2016-04-21T05:06:40.883Z", 
+        "title": "Making a peanut butter and jelly sandwich"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "It's crunch time and you're in over your head on a project. You need to find a way to get it done and make it something you can be proud of. We'll talk about what to do when you feel a project might be slipping away — how to tell when you need help, how to get it and other strategies to make sure you can meet your deadlines without giving up on important pieces of the project.\nYour mental health matters, too — we'll discuss ways to stay sane when things get stressful.", 
+        "facilitator": "Joe Fox", 
+        "facilitator_twitter": "joemfox", 
+        "id": 318688, 
+        "submitted_at": "2016-04-21T05:08:29.606Z", 
+        "title": "Help! I don't know what I'm doing!"
+    }, 
+    {
+        "cofacilitator": "Possibly Larry Goldberg or Brian Foo", 
+        "cofacilitator_twitter": null, 
+        "description": "Readers are increasingly interacting with news content from a variety of locations, environments and levels of ability. As a result, news organizations need to think about creating platforms and stories that readers can access in as many ways as possible. This session will discuss best practices for web accessibility, graphics, closed captioning, and social media and facilitate a discussion about what news organizations are doing and how we can improve as an industry.", 
+        "facilitator": "Joanna S. Kao", 
+        "facilitator_twitter": "joannaskao", 
+        "id": 318685, 
+        "submitted_at": "2016-04-21T05:07:11.254Z", 
+        "title": "Accessibility in media"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "No matter where you work, how old you are, or what your specific job title is, certain tasks can be rather daunting. The thought of asserting an opinion may seem horrifying. Asking for help - terrifying. And pitching an idea… well, that can be rather intimidating to say the least. I have experienced all of these feelings at some point. But I’ve also learned that it doesn’t have have to feel that way. Team dynamics, when positive, can play a huge part in making members feel included and heard. This plays an especially large roll when teams are split between multiple locations and/or include remote team members. Shared experiences and knowledge of each other’s lives can go a long way in helping teammates to become comfortable among one another. I have a couple of ideas about how to facilitate these kinds of relationships based on experiences within my own team, but I’m sure there are many, many more out there. I’d love to tell you about what has worked for my team and also for us to discuss other activities that have worked toward (or against) facilitating this kind of team dynamic.", 
         "facilitator": "Casey Miller", 
         "facilitator_twitter": "caseymmiller", 
@@ -40,6 +160,16 @@
         "title": "Can We Pair Program The News?"
     }, 
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "As news producers and disseminators, we have a lot of information to share through multiple distribution platforms. As a consumer, we have so  many sources to absorb this information from. Still there is a huge disconnect on both sides resulting in a broken experience. With a billion track points provided from all ends - how can we leverage data to be alluring for actionable insights and a better experience?", 
+        "facilitator": "Soumya Jain", 
+        "facilitator_twitter": "@miajain", 
+        "id": 318664, 
+        "submitted_at": "2016-04-21T06:36:26.921Z", 
+        "title": "Allure of Data"
+    }, 
+    {
         "cofacilitator": "Jordan Wirfs-Brock", 
         "cofacilitator_twitter": "jordanwb", 
         "description": "The wave of digital media startups and projects, and the rapid growth of the coder-journalist community, has brought new career opportunities to a floundering industry and attracted people with a wider range of skillsets and interests than ever before. However, many of those opportunities are clustered on the coasts and in major cities like New York, Washington, D.C., and Chicago. (See this article by Josh Beton for a great exploration of the problem: http://www.niemanlab.org/2016/03/the-game-of-concentration-the-internet-is-pushing-the-american-news-business-to-new-york-and-the-coasts/.) But there are a couple of major problems with this: (1) Journalists who don’t want to move to the coasts are forced to choose between living somewhere they love and advancing their career; (2) It sucks talent away from communities across the country who could benefit from coder journalists. So much vital data exists at the local level (examples: fossil fuel production, education performance, heroin use, political spending). The ability to analyze it locally is crucial to communities, who need information about their particular area -- not just national-level information.\nIn this session, we’ll start with a group-wide discussion identifying some of the challenges involved in coding off the coasts (attracting talent, mentorship and skill building, avoiding brain drain, assuring that there are desirable career paths for people who want to be coder journalists but don’t want to move to New York). Then, we might break out into smaller groups who can discuss each of those problems and brainstorm some potential (actionable) solutions.", 
@@ -48,6 +178,16 @@
         "id": 318661, 
         "submitted_at": "2016-04-21T04:01:42.529Z", 
         "title": "Coders off the coasts"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Adblockers, malware, load times. How can we break the cycle of bad business and worse code sinking journalism? Advertising technology is unavoidably part of our sites and stories. Right now it slows our output; damages our relationship with readers; and is failing even to fund most of our efforts. Without collaboration to create better tools and processes we are failing. Newsrooms, sales floors and tech teams must come together to repair our relationship with users and advertisers or find ourselves without the resources to continue.\n\nThe session would focus on starting the multi-team conversations we aren't having. How can we work together to earn and keep the trust and attention of our readers? How can our organizations collaborate to build better, more open, and more trustworthy alternatives to malware-infested inaccurate ad tech? What would that look like and what data could we comfortably provide advertisers so we can better manage expectations? What are the conversations we should be having, the tools we should be building, with our sales departments?", 
+        "facilitator": "Aram Zucker-Scharff", 
+        "facilitator_twitter": "Chronotope", 
+        "id": 318653, 
+        "submitted_at": "2016-04-21T06:42:33.275Z", 
+        "title": "Skipping the blame game and working across teams to fix newsroom Ad Tech"
     }, 
     {
         "cofacilitator": "Stacy-Marie Ishmael", 
@@ -122,6 +262,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Too often residents are not included in the process of building websites and tools that were created for them. The Civic User Testing Group (CUTGroup) is a community of over 1,400 residents in Chicago and all of Cook County who are paid to test websites and apps and help create better technology. As a flagship program of the Smart Chicago Collaborative, the CUTGroup establishes sustained, meaningful collaboration with residents around data and technology. \n\nIn this session, I will share lessons learned from building a program that is at the intersection of growing and engaging a community of residents while also helping developers build better tools. We will explore what questions to ask about the tools you are creating, how to include the right audience in usability testing, and how to get actionable feedback.", 
+        "facilitator": "Sonja Marziano", 
+        "facilitator_twitter": "ssmarziano", 
+        "id": 318636, 
+        "submitted_at": "2016-04-21T05:58:55.355Z", 
+        "title": "CUTGroup: a New Model for UX Testing, Digital Skills, and Community Engagement"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "With the constant evolution of technology, formats, business models, and roles within news organizations, common wisdom and static best practices don't stay common or best for long. So there's no question that those of building new products and processes within those organizations have a lot to offer each other in sharing hard-learned (or just learned) lessons, particularly when addressing common problems. As with the Open News team and the Coral Project, the Guardian US mobile innovation lab has been set up to work \"in the open\" and share what we learn as we experiment with and do research on mobile formats, audiences and news processes. While it’s great to be in good company of a few small groups who’s identity is in part formed around sharing, we know there’s great work on projects and in teams within most newsrooms that can’t be publicly disclosed, or not without any risk of giving away secrets to the competition. But is there a middle ground between openness with a purpose and a closed system that needs to protect its profits and competitive advantages? Can those of us working in open teams somehow help disseminate what’s being learned in the confines of other organizations in a general or anonymized way? Can we figure out a way to share experiences and insights that would help us all tackle common problems, while not compromising the financial objectives of our employers? We’ll discuss the issues, then brainstorm ideas in small breakout groups, and reconvene to come up with a list of possibilities we may be able to put into action.", 
         "facilitator": "Sasha Koren", 
         "facilitator_twitter": "sashak", 
@@ -178,6 +328,16 @@
         "id": 318624, 
         "submitted_at": "2016-04-21T02:48:45.903Z", 
         "title": "The CMS is Dead. Long live the CMS."
+    }, 
+    {
+        "cofacilitator": "Aaron Williams", 
+        "cofacilitator_twitter": "aboutaaron", 
+        "description": "Design sprints! After introductions, the entire group of attendees will be split in half. One half will be tasked to brainstorm ways existing or future technology can help spur diversity in journalism and the tech world – two industries that so far suck at diversity and inclusion.\n\nAnd the other half will explore the flip side: how can diversity help technology?\n\nDepending on how many people we have, smaller groups may be splintered off for better brainstorming (and fewer cooks in the kitchen) and more ideas!\n\nModel example:\n\nGroup 1: how can technology help diversity?\n- Subgroup a = IDEA 1\n- Subgroup b = IDEA 2\n- Subgroup c = IDEA 3\nGroup 2: how can diversity help technology?\n- Subgroup a = IDEA 1\n- Subgroup b = IDEA 2\n- Subgroup c = IDEA 3\n\nStructure:\n\n5-min intro | 10-min group brainstorm | 5-min break into teams | 25-min sprint | 15-min share", 
+        "facilitator": "Julia B. Chan", 
+        "facilitator_twitter": "juliachanb", 
+        "id": 318623, 
+        "submitted_at": "2016-04-21T05:28:30.227Z", 
+        "title": "Version 20.16: Can technology solve diversity?"
     }, 
     {
         "cofacilitator": null, 
@@ -320,6 +480,16 @@
         "title": "How can we help save photojournalism?"
     }, 
     {
+        "cofacilitator": "Dolly Li", 
+        "cofacilitator_twitter": "dollyli", 
+        "description": "When stories have abstract topics, coming up with visual components can be a challenge. How the hell do you visually illustrate “borderless economies” or “Medicaid fraud?” Learn how to approach abstract stories from a visual angle and a step-by-step method for creating compelling visual assets. We’ll be free-associating, writing, drawing and collaging, art-school style.\n\nWhat are the methods people can use beyond photo and video to tell stories? We will dive into the use of abstraction, motion, color, and texture to appeal to people’s emotions. Also, get ready for some drawing games that will change how you think about the abstract.", 
+        "facilitator": "Allison McCartney", 
+        "facilitator_twitter": "anmccartney", 
+        "id": 318582, 
+        "submitted_at": "2016-04-21T05:12:01.430Z", 
+        "title": "Illustrating Investigations: Creating compelling visuals for abstract stories"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "Helping readers to “explore” data using an interface of our own invention has been a transformative element of digital journalism. At the same time, purely linear data storytelling forms (static infographics) remain incredibly popular. Participants in this session will draft broad guidelines for when it’s desirable to use fully interactive, non-interactive and hybrid approaches to presenting data. We will start by narrowing a manageable list of forms to tackle. Examples might include “fully interactive maps,” vs. “directed interactive maps” (where users can toggle two layers) vs. animated maps illustrating change over time. Next we will assign a small group to tackle each form, asking members to identify circumstances to which this format is best suited. The written document we produce at the end will help us articulate, for a diverse newsroom audience, the most effective options for digital storytelling.", 
@@ -418,6 +588,16 @@
         "id": 318561, 
         "submitted_at": "2016-04-21T00:50:49.040Z", 
         "title": "Platform Constraints—When to Fight and When to Admit Defeat"
+    }, 
+    {
+        "cofacilitator": "Sam Baldwin", 
+        "cofacilitator_twitter": "DireWolf11", 
+        "description": "WIRED is among the first publishers to experiment against ad blockers. At WIRED, ads help us pay the bills, but even some of us are guilty of using every ad-blocking extension existing on the web. Earlier this year, we decided to block our stories for readers using ad blockers, while simultaneously offering folks an option to subscribe to an \"ad-free\" version of the site.  \n\nSo why take on ad blockers? Well, in terms of numbers, it just made sense. A really large number of Wired readers block(ed) ads on desktop. But ad-free wasn’t just about numbers. It was an experiment and we’ve learned a lot from it. That’s what this session will be all about. It will be a glorious debate but also a discussion about the lessons learned from implementing an ad-free experience. What are the best ways to block ad blockers? Is ad-blocking extortion? Are ads ethical? What’s a good/bad ad? Is it our responsibility to protect our reader's’ privacy? Do we even need ads? How can journalism affect the way ads work? Should our content be ‘free’? What are the misconceptions about ad-blocking? What’s next?\n\nWe will talk code, ethics, privacy and tracking, monetizing journalistic content, and how ads can ruin/better journalism.", 
+        "facilitator": "Lo Benichou", 
+        "facilitator_twitter": "lobenichou", 
+        "id": 318560, 
+        "submitted_at": "2016-04-21T05:55:29.220Z", 
+        "title": "The Ad-Free Experiment: How We (kinda) Blocked Ad Blockers"
     }, 
     {
         "cofacilitator": null, 
@@ -708,6 +888,16 @@
         "id": 318413, 
         "submitted_at": "2016-04-21T00:49:04.892Z", 
         "title": "Give and Receive: Can we strengthen our community through remote mentorship and office hours?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "For the last few months, India has been debating the quality of the air it breathes, which is becoming hazardous by day. The problem is so severe that it has become the fifth largest cause of death in India according to the report from a think-tank working on environmental issues. \n\nIn order to make sense of the air quality problem in India, we at Hindustan Times developed a real-time map (http://airquality.hindustantimes.com) which allows readers to monitor the quality of air and pollution levels in their area. This is our first experiment to being relevant sensor journalism to digital audiences.\n\nThrough this session, firstly we would like to share the importance of sensor based journalism and why we need to push it forward especially in todays’ times when everything is going digital and Internet of Things is becoming mainstream concept.\n\nSecondly, we would like to talk about our experience of building this map to make the data about air quality more accessible, meaningful and actionable. This will also give us a chance to share the challenges we faced and how we addressed them.\n\nLastly, we would like to share the importance of responsive design and user interaction in developing such platforms and how we worked on that. As we wanted to give users a seamless experience across all devices with easy navigation on the map.", 
+        "facilitator": "Piyush Aggarwal", 
+        "facilitator_twitter": "mepiyush", 
+        "id": 318412, 
+        "submitted_at": "2016-04-21T06:05:55.840Z", 
+        "title": "Experimenting with sensor based journalism for reporting and civic engagement"
     }, 
     {
         "cofacilitator": "Lam Thuy Vo", 
