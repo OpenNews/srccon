@@ -20,6 +20,26 @@
         "title": "How can we help save photojournalism?"
     }, 
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Helping readers to “explore” data using an interface of our own invention has been a transformative element of digital journalism. At the same time, purely linear data storytelling forms (static infographics) remain incredibly popular. Participants in this session will draft broad guidelines for when it’s desirable to use fully interactive, non-interactive and hybrid approaches to presenting data. We will start by narrowing a manageable list of forms to tackle. Examples might include “fully interactive maps,” vs. “directed interactive maps” (where users can toggle two layers) vs. animated maps illustrating change over time. Next we will assign a small group to tackle each form, asking members to identify circumstances to which this format is best suited. The written document we produce at the end will help us articulate, for a diverse newsroom audience, the most effective options for digital storytelling.", 
+        "facilitator": "Steve Suo", 
+        "facilitator_twitter": "@stevesuo", 
+        "id": 318581, 
+        "submitted_at": "2016-04-21T01:31:40.185Z", 
+        "title": "How much interactivity do we really need?"
+    }, 
+    {
+        "cofacilitator": "Rob Maguire", 
+        "cofacilitator_twitter": "RobertMaguire_", 
+        "description": "Not sure if you noticed, but there's an election this in the US year.  The silver lining behind all of the advertising, money spent, and red trucker hats is that a lot of amazing technologies and datasets have been built in the name of analyzing and understanding exactly what is going on.  This session is about sharing expertise around building and using those resources to scalably convert an overwhelming amount of raw information into civic narrative.", 
+        "facilitator": "Daniel Schultz", 
+        "facilitator_twitter": "slifty", 
+        "id": 318578, 
+        "submitted_at": "2016-04-21T01:31:39.040Z", 
+        "title": "Make America Scrape Again: Turning Media and Money into Political Data"
+    }, 
+    {
         "cofacilitator": "David E", 
         "cofacilitator_twitter": null, 
         "description": "It's not as easy as just putting the code up on GitHub. This session will work through the complex legal, social, competitive and organizational challenges to making your software open source. As a bonus: We'll figure out best practices for docs, release schedules and version numbering!", 
