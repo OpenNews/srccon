@@ -1,5 +1,35 @@
 [
     {
+        "cofacilitator": "David Yanofsky", 
+        "cofacilitator_twitter": "YAN0", 
+        "description": "Plenty of datasets are put out on a set schedule. How do we keep track of these? There are economic calendars for things like inflation and the employment rate on Bloomberg and Factset machines, but these are designed with financial professionals in mind, not journalists. Let’s make a collaborative data release calendar for the newsroom. What would it look like in contrast to existing tools? Can we do better than a planner file? What information would we want to include? How could it help us stay on top of newsworthy data releases, as well as discover new stories to tell?", 
+        "facilitator": "Christine Zhang", 
+        "facilitator_twitter": "christinezhang", 
+        "id": 318672, 
+        "submitted_at": "2016-04-21T04:20:18.861Z", 
+        "title": "Can we start a data release calendar for journalism?"
+    }, 
+    {
+        "cofacilitator": "Jordan Wirfs-Brock", 
+        "cofacilitator_twitter": "jordanwb", 
+        "description": "Usually, collaboration, especially in a small newsroom, looks a bit like this: Person A slogs in the trenches solo, cleans data, analyzes, comes up with an insight, writes a draft, sends to Person B. Person B realizes Person A likely made an error in the cleaning, tears apart draft, comes up with new insight. Person A goes back to square one, finds their error, redoes everything and sends it back. Person B questions their own judgement and sends the draft to Person C. Person C finds more errors Person B noticed but decided not to raise considering the hell they’d already put Person A through. Newsroom dissolves in a panic as Persons A, B and C all realize that this is going in next month’s issue so they’d better find, fix and spruce up these errors and fast.\nIn a slightly better world, Person A notices their error, asks Person B for help, Person B drops everything they’re doing, helps find the error in 100 lines of code and correct it, tries to explain what they did, and then, if they’re lucky, return to the work they were doing before. But again, newsroom panic is likely.\nWe think pair programming might be a way to short-circuit this cycle of agony and provide ways for small clusters of reporters to work together more effectively. For example, if Person A and Person B worked in tandem instead on projects like data cleaning, but also like writing, audio editing and page-designing, and helped catch errors early. That saves time and energy. We also think it could be a way to help build reusable skills in micro-newsrooms where multipurpose projects are a necessity. So instead of Person B simply correcting the error, they can correct the error in tandem with Person A so Person A can now fix that problem for themselves.\nWe don’t know for sure this will work but we want to try to out different models of collaboration. In essence, we’d like to run an experiment on a group of SRCCON attendees: Can pair programming and other forms of collaboration drawn from outside the journalism field help resolve some of our own intractable problems?\nHere’s what we imagine the session looking like:\nIntro discussion on what pair programming is, why people do it, what makes pairing different from other forms of collaboration (10 min)\nPairing activity - Attendees will split into pairs, pick a non-programming task (analyzing a data set, writing a script, editing audio, etc.) and use pair programming techniques to complete that task (25 min)\nGroups share their experiences (5 min)\nDiscussion - What other types of process from programming can we adopt in the newsroom? (10 min)", 
+        "facilitator": "Katharine Schimel", 
+        "facilitator_twitter": "kateschimel", 
+        "id": 318666, 
+        "submitted_at": "2016-04-21T04:06:04.377Z", 
+        "title": "Can We Pair Program The News?"
+    }, 
+    {
+        "cofacilitator": "Jordan Wirfs-Brock", 
+        "cofacilitator_twitter": "jordanwb", 
+        "description": "The wave of digital media startups and projects, and the rapid growth of the coder-journalist community, has brought new career opportunities to a floundering industry and attracted people with a wider range of skillsets and interests than ever before. However, many of those opportunities are clustered on the coasts and in major cities like New York, Washington, D.C., and Chicago. (See this article by Josh Beton for a great exploration of the problem: http://www.niemanlab.org/2016/03/the-game-of-concentration-the-internet-is-pushing-the-american-news-business-to-new-york-and-the-coasts/.) But there are a couple of major problems with this: (1) Journalists who don’t want to move to the coasts are forced to choose between living somewhere they love and advancing their career; (2) It sucks talent away from communities across the country who could benefit from coder journalists. So much vital data exists at the local level (examples: fossil fuel production, education performance, heroin use, political spending). The ability to analyze it locally is crucial to communities, who need information about their particular area -- not just national-level information.\nIn this session, we’ll start with a group-wide discussion identifying some of the challenges involved in coding off the coasts (attracting talent, mentorship and skill building, avoiding brain drain, assuring that there are desirable career paths for people who want to be coder journalists but don’t want to move to New York). Then, we might break out into smaller groups who can discuss each of those problems and brainstorm some potential (actionable) solutions.", 
+        "facilitator": "Katharine Schimel", 
+        "facilitator_twitter": "kateschimel", 
+        "id": 318661, 
+        "submitted_at": "2016-04-21T04:01:42.529Z", 
+        "title": "Coders off the coasts"
+    }, 
+    {
         "cofacilitator": "Stacy-Marie Ishmael", 
         "cofacilitator_twitter": "S_m_i", 
         "description": "You’ve read about messaging apps and the rise of AI-driven conversational news interfaces — but what’s really effective for a news bot and what’s just a tedious iteration of Choose Your Own Adventure, or Excel Macros, or if-this-then-that statements by another name?\nMillie and SMI spent the last year thinking about what makes a news app sound like a smart interesting friend. In this session we’ll workshop how to ensure your news bots don't get stuck in a boring valley of uncanny.", 
@@ -8,6 +38,26 @@
         "id": 318651, 
         "submitted_at": "2016-04-21T03:38:59.806Z", 
         "title": "Why your bot is nothing without a human"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Some of us in our business no longer fit into either feral-cat trap: no longer purely journalists of traditional skill, not brilliant technologists. We were the local government reporters. The cops reporters. The assistant city editors. And then we learned to code. Probably badly. Probably recently. We know more than enough to be dangerous and we keep learning all the time -- but where to put us? How to include us? How to value us? How to manage us and our ambitions? How to encourage us -- and when to rein us in? This would be a frank discussion for the benefit of those who still feel caught between two skill sets in an environment that often still sees those sets as separate, those who manage them, those who teach them, and those who work alongside them.", 
+        "facilitator": "Jacob Quinn Sanders", 
+        "facilitator_twitter": "thejqs", 
+        "id": 318649, 
+        "submitted_at": "2016-04-21T04:00:56.088Z", 
+        "title": "Learning nerding"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "As technology and our capacity grows, data projects become more and more ambitious. We scrape millions of rows and present readers a whole universe of information with one news app or interactive page. But is it always the more the merrier? When we throw this much unprocessed information at readers, do they all have the ability to sift through it and find the \"nut graph\" of the story? Or is nut graph even a necessary part of news these days with all the big data available to explore? The line between news and academic research has blurred more and more since we started catching up with their toolbox. How to distinguish ourselves from a think tank or an academic institution and not to bore our readers with too much information and numbers is the question everyone in the news industry should ask themselves. \"Less is more\" should not only be applied to writing, but for data reporting as well. In this session, let's discuss successful and not so successful examples of \"too much data\", think about when is it time to give up the desire of \"show them all\", how to trim down information effectively to create a truly enjoyable experience for readers, and hopefully come up with a draft of guidelines for future practices.", 
+        "facilitator": "Evie Liu", 
+        "facilitator_twitter": "@Evie_xing", 
+        "id": 318644, 
+        "submitted_at": "2016-04-21T03:42:34.854Z", 
+        "title": "When is big data too big? When is less more?"
     }, 
     {
         "cofacilitator": null, 
@@ -38,6 +88,26 @@
         "id": 318639, 
         "submitted_at": "2016-04-21T03:22:38.932Z", 
         "title": "Break Down that Wall: Why Editorial and Audience Development Need to Work Together"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "“If [people] were able to be convinced that art is precise advance knowledge of how to cope with the psychic and social consequences of the next technology, would they all become artists?” Marshall McLuhan wrote in Understanding Media. Should we all become artists? I seriously thought about it last year. Here’s why: Whether we use text, images, graphics or code to tell stories, we deal with symbols, images, abstractions and interpretations every day. Journalism’s history is basically one of integrating new disciplines, techniques and technologies to more effectively tell stories. Lately, and especially for the data/tech community in news, that’s involved stats, social science, computer science and other quantitative- or science-oriented fields. Although we should continue to do this vigorously, we equally need to embrace the arts. And not just from a visual or design standpoint, but the ideas that underlie and advance art. In doing this, we can also see how seemingly disparate things correspond: cubism and physics, concrete poetry and GUIs, conceptual art and algorithms. We’ll explore these and other ways the analog humanities can help us think about digital media from technical and humanistic perspectives -- going everywhere from abstraction and to Afrofuturism.", 
+        "facilitator": "Greg Linch", 
+        "facilitator_twitter": "greglinch", 
+        "id": 318638, 
+        "submitted_at": "2016-04-21T03:40:21.142Z", 
+        "title": "Upgrade your LAMP stack to Literature, Art, Music, Poetry"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "With the constant evolution of technology, formats, business models, and roles within news organizations, common wisdom and static best practices don't stay common or best for long. So there's no question that those of building new products and processes within those organizations have a lot to offer each other in sharing hard-learned (or just learned) lessons, particularly when addressing common problems. As with the Open News team and the Coral Project, the Guardian US mobile innovation lab has been set up to work \"in the open\" and share what we learn as we experiment with and do research on mobile formats, audiences and news processes. While it’s great to be in good company of a few small groups who’s identity is in part formed around sharing, we know there’s great work on projects and in teams within most newsrooms that can’t be publicly disclosed, or not without any risk of giving away secrets to the competition. But is there a middle ground between openness with a purpose and a closed system that needs to protect its profits and competitive advantages? Can those of us working in open teams somehow help disseminate what’s being learned in the confines of other organizations in a general or anonymized way? Can we figure out a way to share experiences and insights that would help us all tackle common problems, while not compromising the financial objectives of our employers? We’ll discuss the issues, then brainstorm ideas in small breakout groups, and reconvene to come up with a list of possibilities we may be able to put into action.", 
+        "facilitator": "Sasha Koren", 
+        "facilitator_twitter": "sashak", 
+        "id": 318635, 
+        "submitted_at": "2016-04-21T03:56:57.629Z", 
+        "title": "Between Open and Closed: Encouraging Better Sharing Between Organizations"
     }, 
     {
         "cofacilitator": null, 
@@ -170,6 +240,16 @@
         "title": "Leveling up your campaign finance data skills"
     }, 
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "CDA, DMCA, CC, NDA, TOS, GPL, GNU, SLAPP, ROUS, ECJ, TPP ... the legalese you may encounter running a web site these days can be pretty intimidating, especially if you are a startup or a small operation without a legal department. So what's a serious threat and what's not worth worrying about? What do you need to know about open source software licensing? Copyright and fair use? Defamation and hosting user-generated content? Let's cover some of the basics, then share challenges we've faced and how we dealt with them.", 
+        "facilitator": "Kevin Koehler", 
+        "facilitator_twitter": "kev097", 
+        "id": 318594, 
+        "submitted_at": "2016-04-21T03:59:44.157Z", 
+        "title": "Don’t sweat the legal stuff (too much)"
+    }, 
+    {
         "cofacilitator": "Aaron Williams", 
         "cofacilitator_twitter": "aboutaaron", 
         "description": "In the past few years, we’ve seen emerging recognition of graphics and data journalism, most recently in the Pulitzers awarded to data-centric projects. Our community is reflecting on recent years of our work and has established design patterns and philosophies. But we mostly talk about how we do our journalism -- now let’s talk about the people doing it.\n\nHow have the expectations of a journalist’s career trajectory changed with emerging roles and disciplines? Have we made our corner of the industry open to aspiring news nerds who might not have access to the tools and resources that gave many of us a lift into this field? And what if you don’t see your job as your calling?\n\nOur goal is provide a catharsis about our work and develop solutions that look out for the people doing this work. We’ll ask hard questions of ourselves to foster a discussion about the sustainability of what we do.", 
@@ -288,6 +368,16 @@
         "id": 318565, 
         "submitted_at": "2016-04-21T02:30:33.420Z", 
         "title": "OMGWTFBBQ: Breaking news without breaking your site"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Being laid off from a job you love doesn't have to be the worst thing that happens to you in your career. This session will build on personal experience and advice from hiring managers and colleauges in the industry about overcoming temporary setbacks, this session will provide a number of tips for preparing for possible layoff while employed, and provide a collobrative environemnt for discussion among the group will help attendees about personal experiences. This session is for anyone who has been let go from a job in journalism.", 
+        "facilitator": "Jessie Willms", 
+        "facilitator_twitter": "jessiewillms", 
+        "id": 318562, 
+        "submitted_at": "2016-04-21T03:42:23.495Z", 
+        "title": "Preparing for the worst: How to be prepare for a layoff while at your job"
     }, 
     {
         "cofacilitator": "Daniel Wood", 
