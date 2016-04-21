@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "In the rush to get our projects out the door, it's easy to forget to test accessibility issues. Let's work on launch-ready checklists to help ensure all of our projects are accessible for everyone.", 
+        "facilitator": "Dave Stanton", 
+        "facilitator_twitter": "gotoplanb", 
+        "id": 318589, 
+        "submitted_at": "2016-04-21T01:23:50.120Z", 
+        "title": "Accessibility launch list"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Photojournalism has fallen hard in the past decade and technology may deserve part of the blame. News is now read on six-inch screens not two-foot pages, anyone with a smartphone is a decent photographer, and video ads pay far more than their static counterparts. As journalism goes digital, photo gets left behind. Consequently, as newsrooms make cuts, sometimes to afford digital teams, photojournalists and photo departments are the first to go. How can we empower photojournalists and photo-based storytelling through digital presentation and interaction instead of diminishing photojournalism through endless embedded images and sliders? Let’s figure it out.", 
+        "facilitator": "Neil Bedi", 
+        "facilitator_twitter": "_neilbedi", 
+        "id": 318587, 
+        "submitted_at": "2016-04-21T01:23:10.697Z", 
+        "title": "How can we help save photojournalism?"
+    }, 
+    {
         "cofacilitator": "David E", 
         "cofacilitator_twitter": null, 
         "description": "It's not as easy as just putting the code up on GitHub. This session will work through the complex legal, social, competitive and organizational challenges to making your software open source. As a bonus: We'll figure out best practices for docs, release schedules and version numbering!", 
@@ -8,6 +28,16 @@
         "id": 318575, 
         "submitted_at": "2016-04-21T00:51:34.827Z", 
         "title": "Open Sourcing And You"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "What kind of news apps, features and services can we create around municipal elections in local newsrooms with limited resources? Even if you can't have automated scrapers running to fetch the results, there could be a lot done with something as simple as a Google form. In addition to strategies, we'll talk about hustle and communicating new ideas.", 
+        "facilitator": "Gurman Bhatia", 
+        "facilitator_twitter": "gurmanbhatia", 
+        "id": 318572, 
+        "submitted_at": "2016-04-21T01:05:49.116Z", 
+        "title": "Tackling municipal elections"
     }, 
     {
         "cofacilitator": "Daniel Wood", 
