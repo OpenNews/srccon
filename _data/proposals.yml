@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Vox Media is in the business of developing high-value digital journalism, storytelling, and brand advertising at scale. We have traditionally done a lot of custom design and engineering work for each brand that joins Vox Media. More recently, we’ve found that brand building is less about designing a website and more about designing a full brand identity package and by designing systems. Building bespoke experiences doesn’t scale. \n\nThis session will take a workshop format where we provide context for building brands through designing scalable systems with a short open conversation, and will lead to small breakout groups where teams will work together to create a brand-focused system that scales.", 
+        "facilitator": "Josh Laincz and Georgia Cowley", 
+        "facilitator_twitter": "zohf, hellogeorgia", 
+        "id": 318550, 
+        "submitted_at": "2016-04-21T00:17:29.197Z", 
+        "title": "Designing brands at scale"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The news-nerd community is pretty good at collaboration. So let's work together to sort out our weakest points—as individuals, teams, maybe even as a community—and figure out how to get 'em patched. We'll work in small groups, come together to bubble up common worries and problems, and then nail down the kinds of things we need to get better. Bring your deepest insecurities about tech, process, design, and culture, and be honest: most of the session will be off-record, and prizes may be awarded for the most potentially embarrassing admissions. You'll leave knowing which of your troubles are widely shared, and our best guess at what needs to be done to level everybody up.", 
+        "facilitator": "Erin Kissane", 
+        "facilitator_twitter": "kissane", 
+        "id": 318534, 
+        "submitted_at": "2016-04-21T00:08:55.169Z", 
+        "title": "Let's All Be Terrible at Things Together"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Journalists' skills are changing to reflect their changing environment. Does this mean that different qualities and talents are going to be needed? \nIn this session, we want to pick out the skills and qualities that made great journalists in the past and those that will make great hacks today and the in the future. \nAre we moving from a right brain to a left brain dominance? Does it have to be one or the other? \nHow can we ensure we keep the best qualities from the past and develop the future? What therefore makes the well rounded journalist of the future?\nHow can we increase the emotional dial for the cerebral or make the heart code ?\nAfter taking a look at ourselves and extrapolating our future, we will set a must follow trajectory for journalism schools and training institutions that will save the world.", 
         "facilitator": "Hosam El Nagar", 
         "facilitator_twitter": "@hosamTF", 
@@ -18,6 +38,16 @@
         "id": 318531, 
         "submitted_at": "2016-04-20T23:56:22.305Z", 
         "title": "Tools to search millions of documents remotely and across borders"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Is there a data set you have dreamed of that doesn't exist yet, or is not widely available or sufficiently standardized? Is there a method for acquiring and presenting data that is just beyond your reach? This session will be a group brainstorming session around visioning what could be possible, as well as a knowledge share around emerging kinds of datasets that are on participants' radar now, and how they can be applied to our work. The facilitators will share about new kinds of data sets they are working on to kick off this process. For example, Planet Labs is imaging the entire planet every day and making this dataset available for civic use. Other facilitator(s) TBA.", 
+        "facilitator": "Sara Schnadt", 
+        "facilitator_twitter": "SaraSchnadt", 
+        "id": 318529, 
+        "submitted_at": "2016-04-21T00:20:49.897Z", 
+        "title": "Blue sky data - a group brainstorm around new kinds of game-changing data sets"
     }, 
     {
         "cofacilitator": null, 
