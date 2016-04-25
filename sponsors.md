@@ -21,7 +21,7 @@ As Lead Sponsor of SRCCON you receive:
 * Logo on SRCCON website (in partners section) visible on every page.
 * Logo and description of product/company on sponsorship page of SRCCON website (1 paragraph max).
 * Logo on sponsorship signage at event.
-* Named sponsor of Thursday Night Dinner.
+* Logo on signage at Thursday Night Dinner.
 * Special mention on stage during general session.
 * Sponsor of official SRCCON Field Notes notebook.
 
@@ -49,6 +49,21 @@ Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at br
 * 2 free tickets to SRCCON.
 * Recyclable coffee cups with your logo on them.
 * Logo on signage at the Coffee & Tea Hacking Station.
+* Logo on sponsorship page of SRCCON website.
+* Logo on sponsorship signage at event.
+
+## Meal or Snack Sponsors
+
+At SRCCON, we want people thinking about the amazing sessions and community, not where their next meal is coming from, so we feed all our participants breakfast, lunch, dinner and snacks. Help get people fed by becoming a Meal or Snack Sponsor. We have three sponsorships available:
+
+* Breakfast Sponsor (both days)
+* Lunch Sponsor (both days)
+* Snack Sponsor (both days)
+
+As a Meal or Snack Sponsor, you receive:
+
+* 1 free ticket to SRCCON.
+* Logo on signage at buffet tables when your meal is served.
 * Logo on sponsorship page of SRCCON website.
 * Logo on sponsorship signage at event.
 
