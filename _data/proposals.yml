@@ -270,14 +270,14 @@
         "title": "CUTGroup: a New Model for UX Testing, Digital Skills, and Community Engagement"
     }, 
     {
-        "cofacilitator": null, 
-        "cofacilitator_twitter": null, 
-        "description": "With the constant evolution of technology, formats, business models, and roles within news organizations, common wisdom and static best practices don't stay common or best for long. So there's no question that those of building new products and processes within those organizations have a lot to offer each other in sharing hard-learned (or just learned) lessons, particularly when addressing common problems. As with the Open News team and the Coral Project, the Guardian US mobile innovation lab has been set up to work \"in the open\" and share what we learn as we experiment with and do research on mobile formats, audiences and news processes. While it’s great to be in good company of a few small groups who’s identity is in part formed around sharing, we know there’s great work on projects and in teams within most newsrooms that can’t be publicly disclosed, or not without any risk of giving away secrets to the competition. But is there a middle ground between openness with a purpose and a closed system that needs to protect its profits and competitive advantages? Can those of us working in open teams somehow help disseminate what’s being learned in the confines of other organizations in a general or anonymized way? Can we figure out a way to share experiences and insights that would help us all tackle common problems, while not compromising the financial objectives of our employers? We’ll discuss the issues, then brainstorm ideas in small breakout groups, and reconvene to come up with a list of possibilities we may be able to put into action.", 
+        "cofacilitator": "Alastair Coote", 
+        "cofacilitator_twitter": "_alastair", 
+        "description": "Mobile devices gather information about us as we go about our days by default, and we often voluntarily grant access to additional information in exchange for access to apps and services. News organizations could be taking better advantage of what mobile devices track, delivering better news experiences by taking into account time of day and a user’s location and personal preferences. But how much information are users willing to give up about themselves? And where should we draw the line between offering valuable experiences and being overly invasive? \n\nThis workshop will prompt thinking about questions around privacy and mobile use, casting participants in the role of users (which we all are, anyway) and asking them to consider: What personal information would you be willing to give up for the sake of a news-focused digital service, and why? We’ll discuss the range of permissions that mobile developers have access to, and debate when and how they might be used to deliver better experiences. At the end the session we’ll have considered as a group the ways users may want to limit the personal data they share, and also what kinds of convenience or customization in news experiences on mobile would make the exchange of personal information more palatable.", 
         "facilitator": "Sasha Koren", 
         "facilitator_twitter": "sashak", 
         "id": 318635, 
         "submitted_at": "2016-04-21T03:56:57.629Z", 
-        "title": "Between Open and Closed: Encouraging Better Sharing Between Organizations"
+        "title": "News, mobile and privacy: Where’s the line between convenient and creepy?"
     }, 
     {
         "cofacilitator": null, 
