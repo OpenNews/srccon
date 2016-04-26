@@ -42,7 +42,7 @@ Accessibility Sponsors receive:
 * Logo on sponsorship signage at event.
 * Special mention on stage during general session.
 
-## Coffee & Tea Hack Station Sponsor
+## Coffee & Tea Hack Station Sponsor **< SOLD OUT**
 
 Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at breaks to make each other hot beverages and compare session notes. Our Coffee & Tea Hacking Station Sponsor receives:
 
