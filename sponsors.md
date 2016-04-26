@@ -13,7 +13,7 @@ Our sponsors help us make SRCCON unique and accessible by keeping our ticket pri
 
 We offer several levels of sponsorship in order to accommodate a variety of sizes of companies and organizations. Please join us in helping make SRCCON 2016 amazing:
 
-## Lead Sponsor
+## Lead Sponsor **< SOLD OUT**
 
 As Lead Sponsor of SRCCON you receive:
 
