@@ -410,8 +410,8 @@
         "title": "How to find the most important stories for my newsroom?"
     }, 
     {
-        "cofacilitator": "Kavya Sukumar", 
-        "cofacilitator_twitter": "@kavyasukumar", 
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Can we define the circumstances under which graphic animation is better than a fully interactive experience? Tools like AfterEffects and Google Earth flyovers are making it easier and faster to put precise scale diagrams into motion. All sorts of data layers can be added. This curated experience can be rich for the user, but it also takes the craft in a decidedly different direction from the world of data interactives and  virtual reality. This session will result in written guidelines for what precisely video animations are good for, and what they are not.", 
         "facilitator": "Steve Suo", 
         "facilitator_twitter": "@stevesuo", 
@@ -520,7 +520,7 @@
         "title": "The Ecology of Newsroom Software"
     }, 
     {
-        "cofacilitator": "David E", 
+        "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "It's not as easy as just putting the code up on GitHub. This session will work through the complex legal, social, competitive and organizational challenges to making your software open source. As a bonus: We'll figure out best practices for docs, release schedules and version numbering!", 
         "facilitator": "Jeremy Bowers", 
@@ -540,7 +540,7 @@
         "title": "Tackling municipal elections"
     }, 
     {
-        "cofacilitator": "Daniel Wood", 
+        "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "The Raspberry Pi is the perfect hardware hacking device for the newsroom developer. It's crazy cheap--starting at just $5  for the most basic board.  And unlike the Arduino, you can work in Bash, Python and even Node, making the learning curve short and shallow. At CIR we use a motion-detecting Raspberry Pi to let us know when certain meeting rooms are occupied. \n\nThis session is an opportunity to geek out over the big world of hardware hacking and develop ideas for gathering our own data.  I would introduce the basic mechanics of a Raspberry Pi and a set of sensors like motion detectors, temperature/humidity readers and cameras. We would brainstorm and develop ideas for stories that use data gathered by one or more Raspberry Pis.\n\nAlternatively, the group might settle on a single big idea using distributed sensors, with the idea that we might build them when in our home newsrooms and share the data with one another.", 
         "facilitator": "Scott Pham", 
@@ -990,7 +990,7 @@
         "title": "Growing the news nerd community one experiment at a time"
     }, 
     {
-        "cofacilitator": "Phil Wilson", 
+        "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "Do you use Slack at work? Do you find yourself simultaneously grateful for its existence yet frustrated by the ways it has commandeered your attention? Let's take a break from our Slack channels to share our experiences, try a couple of Crazy Eight sketching exercises (similar to a Google Venture Design Sprint) to identify how we would start our organization's Slack from scratch, and then launch a living document outlining how to make Slack even more human. Bring a pen and paper, and please turn on Do Not Disturb.", 
         "facilitator": "Noah Chestnut", 
@@ -1660,7 +1660,7 @@
         "title": "Can art and storytelling save journalism?"
     }, 
     {
-        "cofacilitator": "Scott Klein", 
+        "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "description": "There's talk of what a news app developer does versus the developers that work on your CMS. Should your news apps team be protected from the crazy demands placed on your CMS developers? Should your CMS developers have some idea what journalists are looking for? This session explores this topic from all sides.", 
         "facilitator": "Travis Swicegood", 
