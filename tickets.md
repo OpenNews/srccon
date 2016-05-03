@@ -10,25 +10,25 @@ permalink: /tickets/index.html
 ---
 # Tickets
 
-Tickets to SRCCON 2016 will go on open sale in May via a lottery. This is a change from the way we've sold tickets previously, where it's been first-come/first-serve. We're changing up because the speed we were selling out (in seconds) was not fair to the many people who'd hoped to get tickets. By offering a lottery, we're hoping to have a ticketing system in place that doesn't just reward the speed of your internet connection or how fast you can mash a button.
+Tickets to SRCCON 2016 will go on open sale in May via lottery. This is a change from the way we've sold tickets previously—first-come/first-serve—because we we were selling out our entire ticket allocation in seconds. By switching to a lottery, we hope to offer a ticketing system that doesn't prioritize the speed of your internet connection or how fast you can mash a button.
 
-Here's what you need to know about the new SRCCON ticketing system:
+Here's what you need to know about getting a SRCCON ticket:
 
 * Tickets will cost $195.
-* Registration for the lottery opens May 18 and closes at noon Eastern on May 24.
+* Registration for the lottery is open May 18 till noon Eastern on May 24.
 * You will be notified of your status in the lottery (selected or not) by 5pm Eastern on May 25.
-* If selected, you will have until 5pm Eastern on May 27 to purchase your ticket.
-* Each person will be able to register for one ticket.
+* If selected, you will have until 5pm Eastern on May 27 to buy your ticket.
+* Each person selected will be able to buy one ticket.
 
-You can [read lots more about our switch to a lottery system]() on the OpenNews blog. And we'll have additional information SOMETHING SOMETHING SOMETHING SOMETHING
+You can [read lots more about our switch to a lottery system](LINK) on the OpenNews blog, and we'll post additional details when lottery registration opens on May 18.
 
 ## Welcome, n00bs
 
 We think SRCCON is best when there's a mix of folks new to SRCCON and veterans of the conference. Our lottery system is designed to ensure that new SRCCON participants will get a healthy percentage of all available tickets, and will otherwise randomly allocate tickets. So SRCCON alums, you can put your name in without worrying that you're taking a new attendee's spot.
 
-## Financial assistance
+## Financial & family assistance
 
-We offer a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend, and that we also offer attendees [free childcare](/childcare) run by providers we trust with our own kids.
+We offer a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend, and we also offer attendees [free childcare](/childcare) run by providers we trust with our own kids.
 
 ## Sponsor tickets
 
