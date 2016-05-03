@@ -13,7 +13,7 @@ permalink: /index.html
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems.
 
-## Upcoming Dates for SRCCON 2016
+## Tickets are coming!
 
 <p></p>
 * **May 18**, ticket lottery registration opens
