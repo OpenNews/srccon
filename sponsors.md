@@ -29,7 +29,7 @@ As Lead Sponsor of SRCCON you receive:
 
 Our Accessibility Sponsors help make SRCCON welcoming to as many as possible. We have three Accessibility Sponsor slots available:
 
-  * Childcare
+  * Childcare **< SOLD OUT**
   * Scholarships
   * Transcripts
 

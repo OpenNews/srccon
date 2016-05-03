@@ -64,7 +64,7 @@ Our participants represent organizations ranging from massive to tiny, and come 
 
 <div id="mc_embed_signup">
 
-<form action="//mozillaopennews.us5.list-manage.com/subscribe/post?u=71c95e9a43708843d2fdc1f09&amp;id=916d42bf72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="//mozillaopennews.us5.list-manage.com/subscribe/post?u=71c95e9a43708843d2fdc1f09&id=5e8e58d6a1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
     <div id="mc_embed_signup_scroll">
 
