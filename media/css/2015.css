@@ -106,6 +106,10 @@ header.stickerdots #headertop, header.books #headertop, header.scholarships #hea
   height: 50px;
 }
 
+header.tickets #headertop {
+  height: 50px;
+}
+
 .container {
   box-sizing: border-box;
   display: block;

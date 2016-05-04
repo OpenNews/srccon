@@ -13,9 +13,8 @@ Our proposal period has now closed, and we are reviewing [this year's amazing li
 ## How a Pitch Becomes a Session
 Session proposals closed on April 20. We're now spending a couple of weeks reviewing proposals within the SRCCON team, with additional reviews and perspectives from across our community as we assemble a final list of sessions.
 
-* **April 20**, call for proposals closes (midnight PDT).
 * **May 11**, notification of accepted proposals.
-* **May 18**, SRCCON 2016 tickets go on open sale.
+* **May 18**, SRCCON 2016 [ticket lottery](/tickets) opens.
 
 In reviewing proposals, we look for:
 
@@ -39,7 +38,7 @@ Many of our sessions work as structured discussions and problem-solving groups; 
 
 ## Tickets for Facilitators
 
-We reserve tickets for the facilitators of all accepted sessions, and all facilitators will be given an opportunity to buy a ticket before they go on public sale on May 18. However, instead of providing free tickets for session facilitators, we offer need-based scholarships that anyone—facilitator or otherwise—can apply for if they need help covering the costs of attending. (Scholarship applications will open April 25.)
+We reserve tickets for the facilitators of all accepted sessions, and all facilitators will be given an opportunity to buy a ticket before the [ticket lottery opens](/tickets) on May 18. However, instead of providing free tickets for session facilitators, we offer need-based scholarships that anyone—facilitator or otherwise—can apply for if they need help covering the costs of attending. ([Scholarship applications](/scholarships) will open May 5.)
 
 Why do we do it this way? Mostly because SRCCON is a collaborative, peer-to-peer event, and we consider all attendees to be active participants, rather than either speakers or passive audience members.  This approach also helps us keep ticket prices low enough to be affordable for most news organizations.
 
