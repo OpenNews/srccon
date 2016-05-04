@@ -19,6 +19,8 @@ Whether you&rsquo;re a newsroom developer at a small organization with a straine
 ## What we&rsquo;re offering
 Scholarships include a ticket to SRCCON and $500 for you to use toward the cost of travel to the event. We also have an extremely small number of $1,000 scholarships available for participants with much higher travel costs. (For scholarship recipients who live in the Portland area, we offer a SRCCON ticket without the additional travel funding.)
 
+We are also offering 5 scholarships for Dow Jones News Fund alumni. If you are an alum of the Dow Jones News Fund, contact [mailto:heather.taylor@dowjones.com](Heather Taylor) to apply for the Dow Jones News Fund sponsored scholarships.
+
 ## Who should apply
 * Anyone who is part of the journalism code community
 * Anyone interested in learning more about the journalism code community
