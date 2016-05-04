@@ -52,5 +52,6 @@ Luckily, Portland is a relatively cheap city once you arrive. Also, this entire 
 [Email us](srccon@opennews.org).
 
 <div id="sponsortag">
-<p><span>Scholarships to SRCCON are made possible by <a href="https://slack.com/"></span><img src="/media/img/partners/slack.jpg" class="transcript" alt="Slack"></a>.</p>
+<p><span>Scholarships to SRCCON are made possible by <a href="https://www.wordpress.com/"></span><img src="/media/img/partners/wordpress-logo-hoz-rgb.png" class="scholarship" alt="Wordpress"></a>.
+<p>Additional scholarship support from the <a class="underline" href="https://www.newsfund.org/">Dow Jones News Fund</a>.
 </div>

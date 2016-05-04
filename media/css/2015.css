@@ -533,23 +533,34 @@ ul.supportingsponsor li.knightfoundation img {
 
 /*remote page styles */
 
-body.remote #sponsortag p {
+#sponsortag p {
   font-size: 1em;
 }
 
-body.remote #sponsortag p span {
+#sponsortag p span {
   margin-top: -20px;
 }
 
-body.remote #sponsortag img {
-  width: 20%;
+#sponsortag img.scholarship {
+  width: 30%;
   position: relative;
-  top: 10px;
+  top: 20px;
+  left: 8px;
 }
 
-body.remote #sponsortag a {
+#sponsortag a {
   border-bottom: none;
 }
+
+#sponsortag a.underline {
+    border-bottom: 1px solid #aaa;
+  }
+
+#sponsortag a.underline:hover {
+    color: black;
+    border-bottom: 1px solid black;
+  }
+
 
 body.remote table a {
   color: #404040;
