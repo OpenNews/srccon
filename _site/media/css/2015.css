@@ -554,6 +554,13 @@ ul.supportingsponsor li.knightfoundation img {
   left: 8px;
 }
 
+#sponsortag img.childcare {
+  width: 18%;
+  position: relative;
+  top: 35px;
+  left: 8px;
+}
+
 #sponsortag a {
   border-bottom: none;
 }
