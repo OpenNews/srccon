@@ -10,7 +10,7 @@ permalink: /scholarships/index.html
 <p class="bodybig">We don&rsquo;t want cost to prevent you from coming to SRCCON. To help defray the cost of attending SRCCON, OpenNews is now offering a limited number of travel scholarships.</p>
 
 ## Apply for a scholarship
-We&rsquo;re accepting applications for a limited number of scholarships May 16.
+We&rsquo;re accepting applications for a limited number of scholarships from May 5 to May 16.
 
 {% include scholarshipbutton.html %}
 
