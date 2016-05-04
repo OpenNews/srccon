@@ -43,14 +43,14 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       <div id="headbox">
         
           <h2>Scholarships</h2>
-          <h3>We offer a limited number of travel scholarships to help you make it to SRCCON.</h3>
+          <h3>We know not everyone can afford a trip to Portland, so we offer a limited number of travel scholarships to help you make it to SRCCON.</h3>
         
       </div>
     </div>
   </div>
   
   <div class="container">
-      <p class="byline">photo by <a href="https://flic.kr/p/cZWiFy">Matthew Paulson</a></p>
+      <p class="byline">photo by <a href="">Erik Westra</a></p>
   </div>
   
 </header>
@@ -60,13 +60,17 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     <div id="contentbox">
       <p class="bodybig">We don&rsquo;t want cost to prevent you from coming to SRCCON. To help defray the cost of attending SRCCON, OpenNews is now offering a limited number of travel scholarships.</p>
 
-<aside class="columns">
-    <div class="col">
-        <h2>Apply for a scholarship</h2>
-        <p>We&rsquo;re accepting applications for a limited number of scholarships May 16.</p>
-        <a href="https://docs.google.com/forms/d/1Sy4EcITk_W-yRZm95zB_2KFc71tawLkiDGG-gO-62FI/viewform" class="button">Apply now</a>
-    </div>
-</aside>
+<h2 id="apply-for-a-scholarship">Apply for a scholarship</h2>
+<p>We’re accepting applications for a limited number of scholarships May 16.</p>
+
+<!--scholarship button-->
+<p class="btn" id="scholarshipbutton">Apply for a Scholarship</p>
+
+<script type="text/javascript">
+document.getElementById("scholarshipbutton").onclick = function () {
+  location.href = "https://docs.google.com/forms/d/1Sy4EcITk_W-yRZm95zB_2KFc71tawLkiDGG-gO-62FI/viewform";
+};
+</script>
 
 <p>Whether you’re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend SRCCON.</p>
 
@@ -93,7 +97,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 <p>OpenNews staff reviews all applications. We prioritize applications from members of communities under-represented in the journalism and technology, as well as from people who would be unable to facilitate an accepted session without the scholarship.</p>
 
 <h2 id="do-i-still-need-to-purchase-a-ticket-to-srccon">Do I still need to purchase a ticket to SRCCON?</h2>
-<p>If you receive a scholarship, you will not have to purchase a ticket. We will notify you about the status of your application the day before registration closes for the SRCCON lottery.</p>
+<p>If you receive a scholarship, you will not have to purchase a ticket. We will notify you about the status of your application before registration closes for the SRCCON lottery.</p>
 
 <h2 id="when-will-i-receive-my-scholarship">When will I receive my scholarship?</h2>
 <p>When we notify scholarship recipients, we will include information about how to receive the scholarship funds. In short, you will need to send us an invoice and our administrators will process the payment. It may take a month or so for check processing.</p>
@@ -106,6 +110,11 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 <h2 id="questions-not-covered-here">Questions not covered here?</h2>
 <p><a href="srccon@opennews.org">Email us</a>.</p>
+
+<div id="sponsortag">
+<p><span>Scholarships to SRCCON are made possible by <a href="https://slack.com/"><img src="/media/img/partners/slack.jpg" class="transcript" alt="Slack" /></a>.
+
+</span></p></div>
 
     </div>
 </div>

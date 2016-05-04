@@ -1,22 +1,18 @@
 ---
 layout: 2015_layout
 title: Scholarships
-subtitle: We offer a limited number of travel scholarships to help you make it to SRCCON.
+subtitle: We know not everyone can afford a trip to Portland, so we offer a limited number of travel scholarships to help you make it to SRCCON.
 sub-section: interior
 background: scholarships
-byline:   Matthew Paulson
-bylineurl: https://flic.kr/p/cZWiFy
+byline:   Erik Westra
 permalink: /scholarships/index.html
 ---
 <p class="bodybig">We don&rsquo;t want cost to prevent you from coming to SRCCON. To help defray the cost of attending SRCCON, OpenNews is now offering a limited number of travel scholarships.</p>
 
-<aside class="columns">
-    <div class="col">
-        <h2>Apply for a scholarship</h2>
-        <p>We&rsquo;re accepting applications for a limited number of scholarships May 16.</p>
-        <a href="https://docs.google.com/forms/d/1Sy4EcITk_W-yRZm95zB_2KFc71tawLkiDGG-gO-62FI/viewform" class="button">Apply now</a>
-    </div>
-</aside>
+## Apply for a scholarship
+We&rsquo;re accepting applications for a limited number of scholarships May 16.
+
+{% include scholarshipbutton.html %}
 
 Whether you&rsquo;re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend SRCCON.
 
@@ -41,7 +37,7 @@ We want to make sure that SRCCON is an event that includes the diversity of the 
 OpenNews staff reviews all applications. We prioritize applications from members of communities under-represented in the journalism and technology, as well as from people who would be unable to facilitate an accepted session without the scholarship.
 
 ## Do I still need to purchase a ticket to SRCCON?
-If you receive a scholarship, you will not have to purchase a ticket. We will notify you about the status of your application the day before registration closes for the SRCCON lottery.
+If you receive a scholarship, you will not have to purchase a ticket. We will notify you about the status of your application before registration closes for the SRCCON lottery.
 
 ## When will I receive my scholarship?
 When we notify scholarship recipients, we will include information about how to receive the scholarship funds. In short, you will need to send us an invoice and our administrators will process the payment. It may take a month or so for check processing.
@@ -54,3 +50,7 @@ Luckily, Portland is a relatively cheap city once you arrive. Also, this entire 
 
 ## Questions not covered here?
 [Email us](srccon@opennews.org).
+
+<div id="sponsortag">
+<p><span>Scholarships to SRCCON are made possible by <a href="https://slack.com/"></span><img src="/media/img/partners/slack.jpg" class="transcript" alt="Slack"></a>.</p>
+</div>

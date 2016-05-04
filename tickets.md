@@ -8,11 +8,9 @@ background: tickets
 byline: Erik Westra
 permalink: /tickets/index.html
 ---
-# Tickets
-
 Tickets to SRCCON 2016 will go on open sale in May via lottery. This is a change from the way we've sold tickets previously—first-come/first-serve—because we we were selling out our entire ticket allocation in seconds. By switching to a lottery, we hope to offer a ticketing system that doesn't prioritize the speed of your internet connection or how fast you can mash a button.
 
-Here's what you need to know about getting a SRCCON ticket:
+**Here's what you need to know about getting a SRCCON ticket:**
 
 * Tickets will cost $195.
 * Registration for the lottery is open May 18 till noon Eastern on May 24.

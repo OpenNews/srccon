@@ -54,6 +54,12 @@ header.tickets {
   background-image: url(/media/img/2015/tickets.jpg);
 }
 
+header.scholarships {
+  background-image: url(/media/img/2016/scholarships.jpg);
+  background-size: cover;
+  background-position: top;
+}
+
 header.lifevests {
   background-image: url(/media/img/2015/lifevests.jpg)
 }
@@ -77,11 +83,8 @@ header.remote {
   background-image: url(/media/img/2015/remote.jpg);
 }
 
-header.scholarships {
-  background-image: url(/media/img/2015/mplsschol.jpg);
-}
 
-header.mcnamara h3, header.coffee h3, header.lifevests h2, header.lifevests h3, header.books h2, header.books h3, header.guide h3, header.guide h2, header.remote h3, header.remote h2, header.stickerdots h2, header.stickerdots h3 {
+header.mcnamara h3, header.coffee h3, header.lifevests h2, header.lifevests h3, header.books h2, header.books h3, header.guide h3, header.guide h2, header.remote h3, header.remote h2, header.stickerdots h2, header.stickerdots h3, header.scholarships h3, header.scholarships h2 {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
@@ -92,7 +95,7 @@ header.mcnamara h3, header.coffee h3, header.lifevests h2, header.lifevests h3, 
   height: 70px;
 }
 
-header.stickerdots #headertop, header.books #headertop {
+header.stickerdots #headertop, header.books #headertop, header.scholarships #headertop {
   background-color:rgba(0, 0, 0, 0.15);
   height: 50px;
 }
@@ -1080,6 +1083,9 @@ td {
     header.homepage {
       background-position: 0 -80px;
     }
+    header.scholarships {
+      background-position: 0 0px;
+    }
     .homepage #headbox {
       padding-top: 0px;
     }
@@ -1250,7 +1256,7 @@ td {
     #headbox h4.homepage {
         font-size: 1.2em;
     }
-    #headertop, header.stickerdots #headertop, header.books #headertop {
+    #headertop, header.stickerdots #headertop, header.books #headertop, header.scholarships #headertop {
       background-color: white;
       height: 50px;
     }
@@ -1266,6 +1272,9 @@ td {
     }
     header.homepage {
       background-position: 0 0px;
+    }
+    header.scholarships {
+      background-position: 0 30px;
     }
     #headbox h3.homepage {
     font-size: 1.3em;
