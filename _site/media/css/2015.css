@@ -540,10 +540,10 @@ ul.supportingsponsor li.knightfoundation img {
 }
 
 #sponsortag img.scholarship {
-  width: 30%;
+  width: 40%;
   position: relative;
-  top: 20px;
-  left: 8px;
+  top: 35px;
+  left: -12px;
 }
 
 #sponsortag img.childcare {
@@ -686,7 +686,7 @@ footer #sponsorbox .three div#partners ul li img, footer #sponsorbox .four div#p
 }
 
 footer #sponsorbox .three div#sponsors ul li.lead img {
-  height: 130px;
+  width: 350px;
   margin-right: 15px;
 }
 
@@ -701,7 +701,7 @@ footer #sponsorbox .three div#sponsors ul li.accessibility img.slack {
 }
 
 footer #sponsorbox .four div#sponsors ul li.lead img {
-  height: 110px;
+  width: 350px;
 }
 
 footer #sponsorbox .four div#sponsors ul li.accessibility img {
