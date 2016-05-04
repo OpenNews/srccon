@@ -225,19 +225,7 @@ div.pink:before {
 }
 
 
-body.sessions header nav ul li#sessions a {
-  border-bottom: 1px solid white;
-}
-
-body.tickets header nav ul li#tickets a {
-  border-bottom: 1px solid white;
-}
-
-body.location header nav ul li#location a {
-  border-bottom: 1px solid white;
-}
-
-body.docs header nav ul li#docs a {
+body.sessions header nav ul li#sessions a, body.tickets header nav ul li#tickets a, body.location header nav ul li#location a, body.docs header nav ul li#docs a, body.proposals header nav ul li#proposals a {
   border-bottom: 1px solid white;
 }
 
