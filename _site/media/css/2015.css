@@ -591,7 +591,7 @@ footer #sponsorbox {
   clear: both;
   margin: 20px auto;
   height: auto;
-  background: #b9acac;
+  background: #BFBABA;
   background-size: cover;
   max-width: 1500px;
   margin-bottom: 50px;
@@ -649,9 +649,10 @@ footer p.sponsortag {
 }
 
 footer .three p.sponsortag, footer .four p.sponsortag {
-  padding-top: 5px;
-  text-align: left;
+  padding-top: 0px;
+  text-align: right;
   font-size: .9em;
+  margin-top: -45px;
 }
 
 footer span.sponsorcaption {
@@ -667,8 +668,6 @@ span.sponsortype {
   text-align: center;
 }
 
-
-
 footer #sponsorbox .two div#sponsors ul li.lead img {
   height: 160px;
   margin-right: 25px;
@@ -678,6 +677,7 @@ footer #sponsorbox .two div#sponsors ul li.accessibility img {
   height: 130px;
   margin-right: 25px;
 }
+
 
 footer #sponsorbox .two div#partners ul li img {
   height: 50px;
@@ -689,6 +689,11 @@ footer #sponsorbox .container.three {
 
 footer #sponsorbox .three div#partners ul li img, footer #sponsorbox .four div#partners ul li img {
   height: 40px;
+  margin-top: 8px;
+}
+
+footer #sponsorbox .three div#partners {
+  width: 300px;
 }
 
 footer #sponsorbox .three div#sponsors ul li.lead img {
@@ -723,6 +728,10 @@ footer #sponsorbox div#partners ul li {
 
 footer #sponsorbox ul li a:hover, footer #sponsorbox ul li a {
   border-bottom: none;
+}
+
+footer #sponsorbox div#sponsors li.lead {
+  margin-top: 0px;
 }
 
 footer .col {
