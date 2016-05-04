@@ -18,7 +18,7 @@ SRCCON is a hands-on conference focused on the practical challenges news technol
 <p></p>
 * **May 18**, ticket lottery registration opens
 * **May 24**, ticket lottery registration closes (noon ET) 
-* **May 24**, lottery draw & ticket notifications (throughout afternoon)
+* **May 25**, ticket notifications
 
 <p></p>
 

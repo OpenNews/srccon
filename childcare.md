@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Childcare
-subtitle: We offer free childcare for the duration of the SRCCON program and welcome families of all sizes
+subtitle: We offer free childcare for the duration of the SRCCON program and welcome families of all sizes.
 section: childcare
 sub-section: interior
 background: childcare

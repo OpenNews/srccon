@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Sessions
-subtitle: Our peer-led sessions combine skill-sharing, discussion, and collaboration. Proposals are open through April 20!
+subtitle: Our peer-led sessions combine skill-sharing, discussion, and collaboration.
 section: sessions
 sub-section: interior
 background: stickerdots
@@ -13,14 +13,14 @@ Our proposal period has now closed, and we are reviewing [this year's amazing li
 ## How a Pitch Becomes a Session
 Session proposals closed on April 20. We're now spending a couple of weeks reviewing proposals within the SRCCON team, with additional reviews and perspectives from across our community as we assemble a final list of sessions.
 
-* **May 11**, notification of accepted proposals.
-* **May 18**, SRCCON 2016 [ticket lottery](/tickets) opens.
+* **May 11**, notification of accepted proposals
+* **May 18**, SRCCON 2016 [ticket lottery](/tickets) opens
 
 In reviewing proposals, we look for:
 
-* topics that are relevant to code, design, and data folks in newsrooms (and allied fields)
-* evidence that you've thought through your proposed session topic and format, and what you'd like participants to take away from it
-* sessions that probably wouldn't work as well at another conference
+* topics that are relevant to code, design, and data folks in newsrooms (and allied fields).
+* evidence that you've thought through your proposed session topic and format, and what you'd like participants to take away from it.
+* sessions that probably wouldn't work as well at another conference.
 
 We make it a priority to build a program that is balanced and that reflects the makeup of our communities. We actively welcome session proposals from members of communities underrepresented in journalism and technology, and from non-coastal and small-market news organizations.
 

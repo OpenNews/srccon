@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Pitch Your Session
-subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals are open through April 10!
+subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration.
 section: sessions
 sub-section: interior
 background: stickerdots

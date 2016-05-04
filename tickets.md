@@ -20,7 +20,7 @@ Tickets to SRCCON 2016 will go on open sale in May via lottery. This is a change
 
 You can [read lots more about our switch to a lottery system](LINK) on the OpenNews blog, and we'll post additional details when lottery registration opens on May 18.
 
-## Welcome, n00bs
+## Welcome, first-timers
 
 We think SRCCON is best when there's a mix of folks new to SRCCON and veterans of the conference. Our lottery system is designed to ensure that new SRCCON participants will get a healthy percentage of all available tickets, and will otherwise randomly allocate tickets. So SRCCON alums, you can put your name in without worrying that you're taking a new attendee's spot.
 
@@ -30,4 +30,4 @@ We offer a limited number of [travel scholarships](/scholarships) to help people
 
 ## Sponsor tickets
 
-If you're unable to get a ticket via the lottery and your organization is able to become a SRCCON sponsor, each level of sponsorship has tickets available, either as a part of the sponsorship package or for reserved purchase to sponsors. We offer a full rundown of our available sponsor packages on [our sponsor page](/sponsors).
+If you're unable to get a ticket via the lottery and your organization is able to become a SRCCON sponsor, each level of sponsorship has tickets available, either as a part of the sponsorship package or held for reserved purchase. We offer a full rundown of available packages on [our sponsor page](/sponsors).

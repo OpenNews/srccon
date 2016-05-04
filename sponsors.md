@@ -54,7 +54,7 @@ Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at br
 
 ## Meal or Snack Sponsors
 
-At SRCCON, we want people thinking about the amazing sessions and community, not where their next meal is coming from, so we feed all our participants breakfast, lunch, dinner and snacks. Help get people fed by becoming a Meal or Snack Sponsor. We have three sponsorships available:
+At SRCCON, we want people thinking about the amazing sessions and community, not where their next meal is coming from, so we feed all our participants breakfast, lunch, dinner, and snacks. Help get people fed by becoming a Meal or Snack Sponsor. We have three sponsorships available:
 
 * Breakfast Sponsor (both days)
 * Lunch Sponsor (both days)
