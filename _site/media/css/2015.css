@@ -667,6 +667,8 @@ span.sponsortype {
   text-align: center;
 }
 
+
+
 footer #sponsorbox .two div#sponsors ul li.lead img {
   height: 160px;
   margin-right: 25px;
@@ -681,23 +683,25 @@ footer #sponsorbox .two div#partners ul li img {
   height: 50px;
 }
 
+footer #sponsorbox .container.three {
+  max-width: 900px;
+}
+
 footer #sponsorbox .three div#partners ul li img, footer #sponsorbox .four div#partners ul li img {
   height: 40px;
 }
 
 footer #sponsorbox .three div#sponsors ul li.lead img {
-  width: 350px;
+  width: 450px;
   margin-right: 15px;
 }
 
 footer #sponsorbox .three div#sponsors ul li.accessibility img {
-  max-height: 115px;
+  max-height: 130px;
   margin-right: 15px;
 }
 
 footer #sponsorbox .three div#sponsors ul li.accessibility img.slack {
-  max-width: 200px;
-  margin-bottom:40px;
 }
 
 footer #sponsorbox .four div#sponsors ul li.lead img {
@@ -709,10 +713,11 @@ footer #sponsorbox .four div#sponsors ul li.accessibility img {
 }
 
 footer #sponsorbox div#partners {
+  float: right;
 }
 
 footer #sponsorbox div#partners ul li {
-  /* display: block; */
+  display: block;
   text-align: left;
 }
 
