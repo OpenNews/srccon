@@ -22,7 +22,7 @@ SRCCON is a hands-on conference focused on the practical challenges news technol
 
 <p></p>
 
-[Learn more about tickets and the lottery](/tickets/), and please [join our notifications list](http://opennews.us5.list-manage2.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=5e8e58d6a1) or follow us [on Twitter](https://www.twitter.com/srccon) to get the latest SRCCON reminders.
+[Learn more about tickets and the lottery](/tickets/), and read about [childcare](/childcare/) and [scholarships](/scholarships/) for this year's SRCCON. Please [join our notifications list](http://opennews.us5.list-manage2.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=5e8e58d6a1) or follow us [on Twitter](https://www.twitter.com/srccon) to get the latest SRCCON reminders.
 
 <div class="pink">
 <div class="innercontainer">
