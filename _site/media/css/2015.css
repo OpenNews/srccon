@@ -589,12 +589,12 @@ footer {
 
 footer #sponsorbox {
   clear: both;
-  margin: 20px auto;
   height: auto;
   background: #BFBABA;
   background-size: cover;
   max-width: 1500px;
-  margin-bottom: 50px;
+  margin: 20px auto 50px;
+  right: auto;
 }
 
 footer #sponsorbox .container {
@@ -652,7 +652,7 @@ footer .three p.sponsortag, footer .four p.sponsortag {
   padding-top: 0px;
   text-align: right;
   font-size: .9em;
-  margin-top: -45px;
+  margin-top: -40px;
 }
 
 footer span.sponsorcaption {
@@ -1048,12 +1048,6 @@ td {
       max-width: 900px;
     }
 
-    footer #sponsorbox .three div#sponsors ul li.lead img {
-      margin-right: 10px;
-      max-width: 175px;
-
-    }
-
     footer #sponsorbox .three div#sponsors ul li.accessibility img {
       margin-right: 10px;
       max-width: 165px;
@@ -1071,6 +1065,16 @@ td {
 
     footer #sponsorbox .four div#sponsors ul li.accessibility img {
       height: 80px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    footer #sponsorbox .three {
+        max-width: none;
+        margin: 0 30px;
+    }
+    footer #sponsorbox .three div#sponsors ul li.lead img {
+        width: 375px;
     }
 }
 
@@ -1180,18 +1184,49 @@ td {
       margin-right: -2em;
     }
 
-    footer #sponsorbox .four div#sponsors ul li.lead img {
-      height: 120px;
+    footer #sponsorbox .three div#sponsors ul li.lead img {
+      height: 50px;
+      width: auto;
     }
 
-    footer #sponsorbox .four div#sponsors ul li.accessibility img {
+    footer #sponsorbox .three div#sponsors ul li.accessibility img {
       height: 100px;
+      width: auto;
+      max-width: none;
     }
-
-    footer #sponsorbox .three div#sponsors ul li.accessibility img.slack {
-      margin-bottom:0;
+    footer .three p.sponsortag, footer .four p.sponsortag {
+        margin-top: 0;
+        width: 55%;
+        text-align: center;
     }
+    footer #sponsorbox ul li {
+    }
+    footer #sponsorbox ul li span.sponsorcaption {
+        margin-left: 0;
+    }
+}
 
+@media screen and (max-width: 770px) {
+    footer #sponsorbox .three div#sponsors ul li.accessibility img {
+      height: 70px;
+    }
+    footer .three p.sponsortag, footer .four p.sponsortag {
+        width: auto;
+        text-align: left;
+        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    footer #sponsorbox .three div#sponsors ul li.lead img {
+      height: 40px;
+    }
+    footer #sponsorbox .three div#sponsors ul li.accessibility img {
+      height: 50px;
+    }
+    footer #sponsorbox .three div#partners ul li img {
+        height: 30px;
+    }
 }
 
 @media screen and (max-width: 720px) {
@@ -1210,16 +1245,45 @@ td {
     }
 }
 
+@media screen and (max-width: 680px) {
+    footer #sponsorbox .three div#partners {
+        float: none;
+        display: block;
+        width: auto;
+        margin-bottom: 30px;
+    }
+    footer #sponsorbox div#partners ul li {
+        margin-top: 0;
+        display: inline-block;
+    }
+    footer #sponsorbox .three div#sponsors ul li.lead {
+        display: block;
+        text-align: left;
+    }
+    footer #sponsorbox .three div#sponsors ul li.lead img {
+      height: 60px;
+    }
+    footer #sponsorbox .three div#sponsors ul li.accessibility {
+        text-align: left;
+    }
+    footer #sponsorbox .three div#sponsors ul li.accessibility img {
+      height: 90px;
+    }
+    footer #sponsorbox .three div#partners ul li img {
+        height: 40px;
+    }
+    footer #sponsorbox .three p.small {
+        margin-bottom: 0;
+    }
+    footer #sponsorbox ul {
+        margin-top: .33em;
+    }
+}
+
 @media screen and (max-width: 640px) {
     p, #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
       font-size: 1.3em;
       line-height: 1.5em;
-    }
-    footer #sponsorbox ul li {
-      display: block;
-      padding-right: 0;
-      margin-top: 20px;
-      width: auto;
     }
     footer #sponsorbox img {
         max-width: 100%;
@@ -1316,10 +1380,11 @@ td {
     p, #contentbox li, ul.homepage li p, .homepage .buttontext p, .homepage p.bottomrun  {
       font-size: 1.2em;
     }
-    footer #sponsorbox ul li {
+    footer #sponsorbox ul li,
+    footer #sponsorbox div#partners ul li {
       display: block;
+      text-align: left;
       padding-right: 0;
-      margin-top: 20px;
       width: auto;
     }
     #headbox h2 {
@@ -1379,6 +1444,9 @@ td {
 
     .homepage #headbox {
       padding-left: 100px;
+    }
+    footer #sponsorbox .three div#sponsors ul li.lead img {
+        height: auto;
     }
 }
 @media screen and (max-width: 360px) {
