@@ -542,8 +542,8 @@ ul.supportingsponsor li.knightfoundation img {
 #sponsortag img.scholarship {
   width: 40%;
   position: relative;
-  top: 35px;
   left: -12px;
+  vertical-align: middle;
 }
 
 #sponsortag img.childcare {
@@ -1374,7 +1374,19 @@ td {
     font-size: 1.3em;
     margin-top: 25px;
     }
-
+    #sponsortag {
+        max-width: 67%;
+    }
+    #sponsortag img.childcare {
+        width: 180px;
+        top: 1em;
+        left: auto;
+    }
+    #sponsortag img.scholarship {
+        width: 300px;
+        top: 0;
+        left: auto;
+    }
 }
 @media screen and (max-width: 480px) {
     p, #contentbox li, ul.homepage li p, .homepage .buttontext p, .homepage p.bottomrun  {
