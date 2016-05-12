@@ -25,13 +25,13 @@ As Lead Sponsor of SRCCON you receive:
 * Special mention on stage during general session.
 * Sponsor of official SRCCON Field Notes notebook.
 
-## Accessibility Sponsors
+## Accessibility Sponsors **< SOLD OUT**
 
 Our Accessibility Sponsors help make SRCCON welcoming to as many as possible. We have three Accessibility Sponsor slots available:
 
   * Childcare **< SOLD OUT**
-  * Scholarships
-  * Transcripts
+  * Scholarships **< SOLD OUT**
+  * Transcripts **< SOLD OUT**
 
 Accessibility Sponsors receive:
 
