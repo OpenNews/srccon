@@ -628,9 +628,6 @@ footer #sponsorbox:before {
 }
 
 
-
-
-
 footer #sponsorbox ul {
   padding-left: 0px;
 }
@@ -683,7 +680,7 @@ footer #sponsorbox .two div#partners ul li img {
   height: 50px;
 }
 
-footer #sponsorbox .container.three {
+footer #sponsorbox .container.three, footer #sponsorbox .container.four {
   max-width: 900px;
 }
 
@@ -696,7 +693,7 @@ footer #sponsorbox .three div#partners {
   width: 300px;
 }
 
-footer #sponsorbox .three div#sponsors ul li.lead img {
+footer #sponsorbox .three div#sponsors ul li.lead img, footer #sponsorbox .four div#sponsors ul li.lead img {
   width: 450px;
   margin-right: 15px;
 }
@@ -710,11 +707,16 @@ footer #sponsorbox .three div#sponsors ul li.accessibility img.slack {
 }
 
 footer #sponsorbox .four div#sponsors ul li.lead img {
-  width: 350px;
+  width: 450px;
+  display: block;
 }
 
 footer #sponsorbox .four div#sponsors ul li.accessibility img {
   height: 85px;
+}
+
+footer #sponsorbox .four div#sponsors {
+  width: 500px;
 }
 
 footer #sponsorbox div#partners {
@@ -1048,6 +1050,15 @@ td {
       max-width: 900px;
     }
 
+    footer #sponsorbox .four div#sponsors {
+      width: auto;
+    }
+
+    footer #sponsorbox .three div#sponsors ul li.lead img  {
+      margin-right: 10px;
+      max-width: 175px;
+    }
+
     footer #sponsorbox .three div#sponsors ul li.accessibility img {
       margin-right: 10px;
       max-width: 165px;
@@ -1060,7 +1071,6 @@ td {
 
 
     footer #sponsorbox .four div#sponsors ul li.lead img {
-      height: 100px;
     }
 
     footer #sponsorbox .four div#sponsors ul li.accessibility img {
@@ -1188,6 +1198,12 @@ td {
       height: 50px;
       width: auto;
     }
+    footer #sponsorbox .four div#sponsors ul li.lead img {
+    }
+
+    footer #sponsorbox .four div#sponsors ul li.accessibility img {
+      height: 100px;
+    }
 
     footer #sponsorbox .three div#sponsors ul li.accessibility img {
       height: 100px;
@@ -1297,6 +1313,13 @@ td {
       text-align: center;
     }
 
+    footer .three p.sponsortag, footer .four p.sponsortag {
+      padding-top: 0px;
+      text-align: center;
+      font-size: .9em;
+      margin-top: 0px;
+    }
+
     footer .col {
         float: none;
         width: auto;
@@ -1395,7 +1418,7 @@ td {
     footer #sponsorbox ul li,
     footer #sponsorbox div#partners ul li {
       display: block;
-      text-align: left;
+      text-align: center;
       padding-right: 0;
       width: auto;
     }
