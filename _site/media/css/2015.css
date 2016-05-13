@@ -1050,8 +1050,6 @@ td {
       max-width: 900px;
     }
 
-<<<<<<< HEAD
-=======
     footer #sponsorbox .four div#sponsors {
       width: auto;
     }
@@ -1059,10 +1057,8 @@ td {
     footer #sponsorbox .three div#sponsors ul li.lead img  {
       margin-right: 10px;
       max-width: 175px;
-
     }
 
->>>>>>> ticketing_comms
     footer #sponsorbox .three div#sponsors ul li.accessibility img {
       margin-right: 10px;
       max-width: 165px;
@@ -1203,6 +1199,10 @@ td {
       width: auto;
     }
     footer #sponsorbox .four div#sponsors ul li.lead img {
+    }
+
+    footer #sponsorbox .four div#sponsors ul li.accessibility img {
+      height: 100px;
     }
 
     footer #sponsorbox .three div#sponsors ul li.accessibility img {
@@ -1418,7 +1418,7 @@ td {
     footer #sponsorbox ul li,
     footer #sponsorbox div#partners ul li {
       display: block;
-      text-align: left;
+      text-align: center;
       padding-right: 0;
       width: auto;
     }
