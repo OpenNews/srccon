@@ -18,7 +18,7 @@ Tickets to SRCCON 2016 will go on open sale in May via lottery. This is a change
 * If selected, you will have until 5pm Eastern on May 27 to buy your ticket.
 * Each person selected will be able to buy one ticket.
 
-You can [read lots more about our switch to a lottery system](LINK) on the OpenNews blog, and we'll post additional details when lottery registration opens on May 18.
+You can [read lots more about our switch to a lottery system](https://opennews.org/blog/srccon-tix/) on the OpenNews blog, and we'll post additional details when lottery registration opens on May 18.
 
 ## Welcome, first-timers
 
