@@ -16,7 +16,7 @@ The following sessions have been confirmed so far for SRCCON 2016. We thank all 
     <div class="session-proposal" id="proposal-{{ proposal.id }}">
         <h2 class="session-title"><a href="#proposal-{{ proposal.id }}">{{ proposal.title }} <span class="permalink">&para;</span></a></h2>
         {% if facilitator_name %}<p class="facilitator">Facilitated by {{ facilitator_name }}{% if cofacilitator_name %} and {{ cofacilitator_name }}{% endif %}</p>{% endif %}
-        <p class="session-description">{{ proposal.description }}</p>
+        <p class="session-description">{{ proposal.description | markdownify }}</p>
     </div>
 {% endfor %}
 </div>
