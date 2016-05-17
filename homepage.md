@@ -9,15 +9,19 @@ byline: Roland Tanglao
 bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-p5w6Dx-atirrB-4JiraL-hffjay-ebMNw2-s546gW-p5fAsx-iEr2K-6ZJ4nV-sJeCev-5Xk37W-e38Kk3-bSu8Fi-f7DSat-ahDPN3-dVCQEe-tJqaR9-fMScsJ-bZ9NpU-bYr36s-atm5oy-btKD5-atiran-aj5xNo-hffaJW-d4Bb3E-6opceo-fMzcXc-atm727-ebUL1e-vwiJoA-h4hoeh-bryhzc-8ppkY7-tyGWvQ-61fcGq-7hSgfa-sWXgoG-4MMGjY-dCb92X-bZh9y7-8Vxbr2-bYHPVN-skuEVF-8wdbup-bZCWso-aHzZri-aHzXpZ-aHzURc
 permalink: /index.html
 ---
+Our lottery for ticket sales is now open! You can register a place in the ticket lottery until noon Eastern on May 24.
 
+{% include lotterygo.html %}
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems.
+
+This year SRCCON will have over 50 sessions in a wide range of topics, from tech strategies to workplace struggles. [See our list of accepted sessions](/sessions).
 
 ## Tickets are coming!
 
 <p></p>
 * **May 18**, ticket lottery registration opens
-* **May 24**, ticket lottery registration closes (noon ET) 
+* **May 24**, ticket lottery registration closes (noon ET)
 * **May 25**, ticket notifications
 
 <p></p>

@@ -8,7 +8,9 @@ background: tickets
 byline: Alyson Hurt
 permalink: /tickets/index.html
 ---
-Tickets to SRCCON 2016 will go on open sale in May via lottery. This is a change from the way we've sold tickets previously—first-come/first-serve—because we we were selling out our entire ticket allocation in seconds. By switching to a lottery, we hope to offer a ticketing system that doesn't prioritize the speed of your internet connection or how fast you can mash a button.
+{% include lotterygo.html %}
+
+Tickets to SRCCON 2016 are on sale now via lottery. This is a change from the way we've sold tickets previously—first-come/first-serve—because we we were selling out our entire ticket allocation in seconds. By switching to a lottery, we hope to offer a ticketing system that doesn't prioritize the speed of your internet connection or how fast you can mash a button.
 
 **Here's what you need to know about getting a SRCCON ticket:**
 
