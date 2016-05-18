@@ -10,7 +10,7 @@ permalink: /tickets/index.html
 ---
 {% include lotterygo.html %}
 
-The SRCCON 2016 ticket lottery is now open for registration. This is our first year distributing tickets via lottery instead of a first-come/first-serve ticket sale, and we hope the switch to the lottery system will produce a smoother experience that doesn't favor the fastest internet connections—or twitchiest clicking fingers.
+The SRCCON 2016 ticket lottery is now open for registration. This is our first year distributing tickets via lottery instead of a first-come/first-serve ticket sale, and we hope the switch to the lottery system will produce a smoother experience that doesn't favor the fastest internet connections or twitchiest mouse-fingers.
 
 **Here's what you need to know about getting a SRCCON ticket:**
 
