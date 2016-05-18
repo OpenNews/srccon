@@ -1,24 +1,24 @@
 ---
 layout: 2015_layout
 title: Tickets
-subtitle: Register between May 18 and May 24 to participate in our lottery for SRCCON 2016 tickets.
+subtitle: Submit a ticket request this week to participate in our lottery for SRCCON 2016 tickets.
 section: tickets
 sub-section: interior
 background: tickets
 byline: Alyson Hurt
 permalink: /tickets/index.html
 ---
-Tickets to SRCCON 2016 will go on open sale in May via lottery. This is a change from the way we've sold tickets previously—first-come/first-serve—because we we were selling out our entire ticket allocation in seconds. By switching to a lottery, we hope to offer a ticketing system that doesn't prioritize the speed of your internet connection or how fast you can mash a button.
+{% include lotterygo.html %}
+
+The SRCCON 2016 ticket lottery is now open for registration. This is our first year distributing tickets via lottery instead of a first-come/first-serve ticket sale, and we hope the switch to the lottery system will produce a smoother experience that doesn't favor the fastest internet connections or twitchiest mouse-fingers.
 
 **Here's what you need to know about getting a SRCCON ticket:**
 
-* Tickets will cost $195.
-* Registration for the lottery is open May 18 until noon Eastern on May 24.
-* You will be notified of your status in the lottery (selected or not) by 5pm Eastern on May 25.
-* If selected, you will have until 5pm Eastern on May 27 to buy your ticket.
-* Each person selected will be able to buy one ticket.
+* The lottery is open **May 18 until noon Eastern on May 24**.
+* Tickets will cost $195, each person selected will be able to purchase a single ticket, and tickets are non-transferrable.
+* You will be notified of your status in the lottery (selected or not) by 5pm Eastern on **May 25**. If selected, you will have 48 hours, until 5pm Eastern on May 27, to buy your ticket.
 
-You can [read lots more about our switch to a lottery system](https://opennews.org/blog/srccon-tix/) on the OpenNews blog, and we'll post additional details when lottery registration opens on May 18.
+You can [read lots more about our switch to a lottery system](https://opennews.org/blog/srccon-tix/) on the OpenNews blog.
 
 ## Welcome, first-timers
 

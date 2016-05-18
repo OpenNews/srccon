@@ -57,42 +57,32 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   <a href="/" id = "cornerlogo"><img src="/media/img/2015/corner_logo.png"></a>
 
     <div id="contentbox">
-      
-<!--session button-->
-<p class="btn" id="pitchbutton">Place Your Request Now</p>
-<!--<p class="bottomrun">We're already receiving great sessions. <a href="">View the proposals so far.</a></p>-->
+      <p>Register now for our SRCCON ticket lottery. Note that all fields marked with an asterisk (*) are required—everything else is just useful information to us and doesn’t factor into the lottery at all. If we draw your name in the lottery, you’ll be able to purchase a single, non-transferrable ticket.</p>
 
-<script type="text/javascript">
-document.getElementById("pitchbutton").onclick = function () {
-  location.href = "/tickets/lottery/";
-};
+<!--
+  If possible, insert the following lines into your <head>.
+-->
+
+<script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-2.2.3.min.js"><\/script>')</script>
+
+<link href="//d3q1ytufopwvkq.cloudfront.net/0/formrenderer.css" rel="stylesheet" />
+
+<script src="//d3q1ytufopwvkq.cloudfront.net/0/formrenderer.js"></script>
+
+<!-- Insert everything below in the <body>. -->
+
+<form data-formrenderer="">This form requires JavaScript to complete.</form>
+
+<script>
+  // Uncomment this line and set it to the CSS class that your website uses for buttons:
+  // FormRenderer.BUTTON_CLASS = '';
+
+  new FormRenderer({
+    "project_id":"KLyDhmyaa7zSiQJn",
+    "afterSubmit": "/tickets/lottery/thanks"
+    });
 </script>
 
-<!-- end session button -->
-
-<p>The SRCCON 2016 ticket lottery is now open for registration. This is our first year distributing tickets via lottery instead of a first-come/first-serve ticket sale, and we hope the switch to the lottery system will produce a smoother experience that doesn’t favor the fastest internet connections or twitchiest mouse-fingers.</p>
-
-<p><strong>Here’s what you need to know about getting a SRCCON ticket:</strong></p>
-
-<ul>
-  <li>The lottery is open <strong>May 18 until noon Eastern on May 24</strong>.</li>
-  <li>Tickets will cost $195, each person selected will be able to purchase a single ticket, and tickets are non-transferrable.</li>
-  <li>You will be notified of your status in the lottery (selected or not) by 5pm Eastern on <strong>May 25</strong>. If selected, you will have 48 hours, until 5pm Eastern on May 27, to buy your ticket.</li>
-</ul>
-
-<p>You can <a href="https://opennews.org/blog/srccon-tix/">read lots more about our switch to a lottery system</a> on the OpenNews blog.</p>
-
-<h2 id="welcome-first-timers">Welcome, first-timers</h2>
-
-<p>We think SRCCON is best when there’s a mix of folks new to SRCCON and veterans of the conference. Our lottery system is designed to ensure that new SRCCON participants will get a healthy percentage of all available tickets, and will otherwise randomly allocate tickets. So SRCCON alums, you can put your name in without worrying that you’re taking a new attendee’s spot.</p>
-
-<h2 id="financial--family-assistance">Financial &amp; family assistance</h2>
-
-<p>We offer a limited number of <a href="/scholarships">travel scholarships</a> to help people who wouldn’t otherwise be able to attend, and we also offer attendees <a href="/childcare">free childcare</a> run by providers we trust with our own kids.</p>
-
-<h2 id="sponsor-tickets">Sponsor tickets</h2>
-
-<p>If you’re unable to get a ticket via the lottery and your organization is able to become a SRCCON sponsor, each level of sponsorship has tickets available, either as a part of the sponsorship package or held for reserved purchase. We offer a full rundown of available packages on <a href="/sponsors">our sponsor page</a>.</p>
 
     </div>
 </div>

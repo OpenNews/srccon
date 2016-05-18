@@ -10,30 +10,26 @@ bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-
 permalink: /index.html
 ---
 
+The SRCCON 2016 ticket lottery is now open for registration! You can [submit a ticket request](/tickets) anytime until **noon Eastern on May 24**. Ticket notifications go out on **May 25 by 5pm Eastern**.
+
+{% include lotterygo.html %}
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems.
 
-## Tickets are coming!
+This year SRCCON will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles. [See our list of accepted sessions](/sessions) or learn more about the [ticket lottery](/tickets) and our [childcare](/childcare/) options at this year's SRCCON.
 
-<p></p>
-* **May 18**, ticket lottery registration opens
-* **May 24**, ticket lottery registration closes (noon ET) 
-* **May 25**, ticket notifications
 
-<p></p>
-
-[Learn more about tickets and the lottery](/tickets/), and read about [childcare](/childcare/) and [scholarships](/scholarships/) for this year's SRCCON. Please [join our notifications list](http://opennews.us5.list-manage2.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=5e8e58d6a1) or follow us [on Twitter](https://www.twitter.com/srccon) to get the latest SRCCON reminders.
 
 <div class="pink">
 <div class="innercontainer">
-<h2>Our Location</h2>
+<h2>Our location</h2>
 <p>SRCCON will be held at the Pacific Northwest College of Art, in the gorgeously renovated 1918 building that housed Portland's original Post Office. Portland offers excellent restaurants, cafés, and breweries in a walkable, transit-friendly city, and easy day-trips include hiking around Mt. Hood and the gorgeous—and often sunny—Oregon coast. </p>
 
 <p>Stay tuned for information on lodging, things to do in Portland, and much more.</p>
 </div>
 </div>
 
-## Who Attends SRCCON
+## Who attends SRCCON
 
 The majority of SRCCON participants are developers, designers, and data analysts who work in newsrooms. We also enthusiastically welcome attendees from closely allied fields like civic tech, mapping, open data, and government—and others who are curious about journalism and excited to share their expertise at a journalism-centric conference.
 
@@ -42,9 +38,9 @@ Our participants represent organizations ranging from massive to tiny, and come 
 <div class="pink">
 <div class="innercontainer">
 
-<h2>Contact Us</h2>
+<h2>Contact us</h2>
 
-<p>To get information about upcoming deadlines around session proposals, when tickets will go on sale, and other SRCCON-related info and news, sign up for the SRCCON 2016 notification list:</p>
+<p>To get information about upcoming deadlines and other SRCCON-related info and news, sign up for the SRCCON 2016 notification list:</p>
 
 <!-- Begin MailChimp Signup Form -->
 
