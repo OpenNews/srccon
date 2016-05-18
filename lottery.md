@@ -1,14 +1,14 @@
 ---
 layout: 2015_layout
 title: Tickets
-subtitle: Register between May 18 and May 24 to participate in our lottery for SRCCON 2016 tickets.
+subtitle: Submit a ticket request this week to participate in our lottery for SRCCON 2016 tickets.
 section: tickets
 sub-section: interior
 background: tickets
 byline: Alyson Hurt
 permalink: /tickets/lottery/index.html
 ---
-THIS IS INTRO TEXT TO THE LOTTERY EMBED.
+Register now for our ticket lottery. Please note that, if selected, you may purchase one ticket and that ticket is non-transferrable. May the odds be ever in your favor.
 
 <!--
   If possible, insert the following lines into your <head>.

@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Tickets
-subtitle: Register between May 18 and May 24 to participate in our lottery for SRCCON 2016 tickets.
+subtitle: Submit a ticket request this week to participate in our lottery for SRCCON 2016 tickets.
 section: tickets
 sub-section: interior
 background: tickets

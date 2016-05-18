@@ -11,11 +11,11 @@ permalink: /tickets/index.html
 {% include lotterygo.html %}
 
 The SRCCON 2016 ticket lottery is now open for registration. This is our first year distributing tickets via lottery instead of a first-come/first-serve ticket sale, and we hope the switch to the lottery system will produce a smoother experience that doesn't favor the fastest internet connections—or twitchiest clicking fingers.
- 
+
 **Here's what you need to know about getting a SRCCON ticket:**
 
 * The lottery is open **May 18 until noon Eastern on May 24**.
-* Tickets will cost $195, and each person selected will be able to purchase a single ticket.
+* Tickets will cost $195, each person selected will be able to purchase a single ticket, and tickets are non-transferrable.
 * You will be notified of your status in the lottery (selected or not) by 5pm Eastern on **May 25**. If selected, you will have 48 hours, until 5pm Eastern on May 27, to buy your ticket.
 
 You can [read lots more about our switch to a lottery system](https://opennews.org/blog/srccon-tix/) on the OpenNews blog.
