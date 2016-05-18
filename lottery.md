@@ -8,7 +8,7 @@ background: tickets
 byline: Alyson Hurt
 permalink: /tickets/lottery/index.html
 ---
-Register now for our ticket lottery. Please note that, if selected, you may purchase one ticket and that ticket is non-transferrable. May the odds be ever in your favor.
+Register now for our SRCCON ticket lottery. Note that all fields marked with an asterisk (*) are required&mdash;everything else is just useful information to us and doesn't factor into the lottery at all. If we draw your name in the lottery, you'll be able to purchase a single, non-transferrable ticket.
 
 <!--
   If possible, insert the following lines into your <head>.
