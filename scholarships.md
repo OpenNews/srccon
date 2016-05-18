@@ -7,19 +7,17 @@ background: scholarships
 byline:   Erik Westra
 permalink: /scholarships/index.html
 ---
-<p class="bodybig">We don&rsquo;t want cost to prevent you from coming to SRCCON. To help defray the cost of attending SRCCON, OpenNews is now offering a limited number of travel scholarships.</p>
+**The application window for travel scholarships to SRCCON 2016 is now closed**. Thank you so much to everyone who applied.
 
 ## Apply for a scholarship
 We&rsquo;re accepting applications for a limited number of scholarships from May 5 to May 18.
-
-{% include scholarshipbutton.html %}
 
 Whether you&rsquo;re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend SRCCON.
 
 ## What we&rsquo;re offering
 Scholarships include a ticket to SRCCON and $500 for you to use toward the cost of travel to the event. We also have an extremely small number of $1,000 scholarships available for participants with much higher travel costs. (For scholarship recipients who live in the Portland area, we offer a SRCCON ticket without the additional travel funding.)
 
-We are also offering five scholarships for Dow Jones News Fund alumni. If you are an alum of the Dow Jones News Fund, contact [Heather Taylor](heather.taylor@dowjones.com) to apply for the Dow Jones News Fund sponsored scholarships.
+We are also offering five scholarships for Dow Jones News Fund alumni. That scholarship opportunity is also now closed.
 
 ## Who should apply
 * Anyone who is part of the journalism code community
@@ -45,7 +43,7 @@ If you receive a scholarship, you will not have to purchase a ticket. We will no
 When we notify scholarship recipients, we will include information about how to receive the scholarship funds. In short, you will need to send us an invoice, and our administrators will process the payment. It may take a month or so for check processing.
 
 ## What if I need more than $500 for my travel?
-We're able to offer mostly $500 scholarships at this time. This year, we are also offering an extremely small number of $1,000 scholarships for exceptionally high travel costs. We've added a question to the form to capture more information about the level of need for travel costs. Also, feel free to contact us with [any feedback](erika@mozillafoundation.org) on the scholarship process.
+We're able to offer mostly $500 scholarships at this time. This year, we are also offering an extremely small number of $1,000 scholarships for exceptionally high travel costs. We've added a question to the form to capture more information about the level of need for travel costs.
 
 ## What are other ways I can cover the cost of my travel?
 Luckily, Portland is a relatively cheap city once you arrive. Also, this entire site is a [GitHub pages repo](https://github.com/OpenNews/srccon), so if you, say, wanted to add a link to a room-share board, you could go right ahead and do that. Or you can [email with any suggestions](erika@mozillafoundation.org).

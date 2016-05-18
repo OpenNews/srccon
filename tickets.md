@@ -26,7 +26,7 @@ We think SRCCON is best when there's a mix of folks new to SRCCON and veterans o
 
 ## Financial & family assistance
 
-We offer a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend, and we also offer attendees [free childcare](/childcare) run by providers we trust with our own kids.
+We offered a limited number of travel scholarships (now closed) to help people who wouldn't otherwise be able to attend, and we also offer attendees [free childcare](/childcare) run by providers we trust with our own kids.
 
 ## Sponsor tickets
 
