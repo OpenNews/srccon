@@ -10,7 +10,7 @@ bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-
 permalink: /index.html
 ---
 
-The SRCCON 2016 ticket lottery is now [open for registration](/tickets)! You can submit a ticket request anytime until **noon Eastern on May 24**, and ticket notifications go out on **May 25 by 5pm Eastern**.
+The SRCCON 2016 ticket lottery is now open for registration! You can [submit a ticket request](/tickets) anytime until **noon Eastern on May 24**. Ticket notifications go out on **May 25 by 5pm Eastern**.
 
 {% include lotterygo.html %}
 
