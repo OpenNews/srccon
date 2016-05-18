@@ -7,7 +7,7 @@ background: scholarships
 byline:   Erik Westra
 permalink: /scholarships/index.html
 ---
-**The application window for travel scholarships to SRCCON 2016 is now closed**. Thank you so much to everyone who applied.
+#The application window for travel scholarships to SRCCON 2016 is now closed. Thank you so much to everyone who applied.
 
 ## Apply for a scholarship
 We&rsquo;re accepting applications for a limited number of scholarships from May 5 to May 18.
