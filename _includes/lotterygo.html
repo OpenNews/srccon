@@ -1,4 +1,4 @@
-{% if page.title == 'Join us for SRCCON' %}
+{% if page.title == 'Join us for SRCCON'|'Sessions' %}
 <div id="buttonbox">
 <!--session button-->
 
@@ -13,6 +13,17 @@ document.getElementById("pitchbutton").onclick = function () {
 </script>
 <!--end session button -->
 </div>
+{% elsif page.title == 'Sessions' %}
+<!--session button-->
+<p class="btn" id="pitchbutton">Find Out About Tickets</p>
+<!--<p class="bottomrun">We're already receiving great sessions. <a href="">View the proposals so far.</a></p>-->
+
+<script type="text/javascript">
+document.getElementById("pitchbutton").onclick = function () {
+  location.href = "/tickets/";
+};
+</script>
+<!-- end session button -->
 {% else %}
 <!--session button-->
 <p class="btn" id="pitchbutton">Place Your Request Now</p>
