@@ -8,6 +8,8 @@ background: stickerdots
 byline: Erik Westra
 permalink: /sessions/index.html
 ---
+{% include lotterygo.html %}
+
 The following sessions have been confirmed so far for SRCCON 2016. We thank all who submitted proposals. We have a handful of sessions left to finalize, and session descriptions here will evolve in the weeks leading up to SRCCON. This year's final schedule will reflect these updates and include an evening slate of fun, informal talks and discussions. We will publish the complete SRCCON schedule in July.
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
