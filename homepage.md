@@ -10,13 +10,11 @@ bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-
 permalink: /index.html
 ---
 
-The SRCCON 2016 ticket lottery is now open for registration! You can [submit a ticket request](/tickets) anytime until **noon Eastern on May 24**. Ticket notifications go out on **May 25 by 5pm Eastern**.
-
-{% include lotterygo.html %}
+The SRCCON 2016 ticket lottery is **now closed** for registration. Ticket notifications will go out on **May 25 by 5pm Eastern**. If you are selected to recieve a ticket, you will have until **5pm Eastern May 27** to purchase it.
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems.
 
-This year SRCCON will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles. [See our list of accepted sessions](/sessions) or learn more about the [ticket lottery](/tickets) and our [childcare](/childcare/) options at this year's SRCCON.
+This year SRCCON will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles. [See our list of accepted sessions](/sessions).
 
 
 
