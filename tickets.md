@@ -9,19 +9,19 @@ byline: Alyson Hurt
 permalink: /tickets/index.html
 ---
 
-The SRCCON 2016 ticket lottery is **closed for registration**. Thanks to everyone who put their name in for the lottery this year.
+**The SRCCON 2016 ticket lottery is now closed**. Thanks to everyone who put their name in for the lottery this year.
 
 **Here's what you need to know about getting a SRCCON ticket:**
 
-* The lottery is open **May 18 until noon Eastern on May 24**. IT IS NOW CLOSED.
-* Tickets will cost $195, each person selected will be able to purchase a single ticket, and tickets are non-transferrable.
-* You will be notified of your status in the lottery (selected or not) by 5pm Eastern on **May 25**. If selected, you will have 48 hours, until 5pm Eastern on **May 27**, to buy your ticket.
+* The lottery was open May 18 until noon Eastern on May 24. 
+* Everyone who registered will be notified of their status in the lottery (selected or not) by **5pm Eastern on May 25**. 
+* Each selected person will have 48 hours to buy a single, non-transferrable ticket. Tickets will cost $195.
 
 You can [read lots more about our switch to a lottery system](https://opennews.org/blog/srccon-tix/) on the OpenNews blog.
 
 ## Welcome, first-timers
 
-We think SRCCON is best when there's a mix of folks new to SRCCON and veterans of the conference. Our lottery system is designed to ensure that new SRCCON participants will get a healthy percentage of all available tickets, and will otherwise randomly allocate tickets. So SRCCON alums, you can put your name in without worrying that you're taking a new attendee's spot.
+We think SRCCON is best when there's a mix of folks new to SRCCON and veterans of the conference. Our lottery system is designed to ensure that new SRCCON participants will get a healthy percentage of all available tickets, and will otherwise randomly allocate tickets. 
 
 ## Financial & family assistance
 

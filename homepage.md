@@ -10,7 +10,7 @@ bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-
 permalink: /index.html
 ---
 
-The SRCCON 2016 ticket lottery is **now closed** for registration. Ticket notifications will go out on **May 25 by 5pm Eastern**. If you are selected to recieve a ticket, you will have until **5pm Eastern May 27** to purchase it.
+_**The SRCCON 2016 ticket lottery is now closed**. Everyone who registered will receive notification of whether their request was selected or not by **5pm Eastern May 25**. If your request is selected, you'll have 48 hours to purchase your ticket._
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems.
 
