@@ -49,9 +49,7 @@ Other hotels not far from the conference venue include:
 <br>(503) 222-0001
 
 ## Childcare
-We are offering free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the Marriott Courtyard Portland City Center via the astonishingly named but genuinely great [KiddieCorp](https://www.kiddiecorp.com/). The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Register your child now](https://www.kiddiecorp.com/srcconkids.htm), or [learn more about their staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
-
-Staff-to-child ratios range from 1:2 for children 6-11 months to 1:7 for children aged 6-12 years, and KiddieCorp will work with SRCCON organizers to handle registration and logistics so your kid(s) can have a great time while you're conferencing nearby.
+We are offering free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the Marriott Courtyard Portland City Center via the genuinely great team at [KiddieCorp](https://www.kiddiecorp.com/). [Learn all about it and get registered!](http://srccon.org/childcare/)
 
 ## Transit
 Portland's [MAX Light Rail system](https://trimet.org/max/) is an easy way to get around the city. You can take the Red Line from the airport to the Oak/SW 1st Ave station for $2.50. That will drop you off about 4 blocks from the conference hotel.
