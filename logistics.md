@@ -1,20 +1,20 @@
 ---
 layout: 2015_layout
 title: Logistics
-subtitle: Learn more about where to stay, what to do, and how to engage at SRCCON
+subtitle: Welcome to Portland! Learn where to stay, what to do while you're in town, and how to have the best time at SRCCON
 section: logistics
 sub-section: interior
 background: pnca
 permalink: /logistics/index.html
 ---
-SRCCON 2016 takes place at the [Pacific Northwest College of Art](https://www.google.com/maps/place/Pacific+Northwest+College+of+Art/@45.5269699,-122.6803404,17z/data=!3m1!4b1!4m5!3m4!1s0x549509fec32013d9:0x3ad790efffd31e44!8m2!3d45.5269699!4d-122.6781517), near downtown Portland, Oregon. PROBABLY SOME ADDITIONAL INFO/NARRATIVE.
+SRCCON 2016 takes place at the [Pacific Northwest College of Art](https://www.google.com/maps/place/Pacific+Northwest+College+of+Art/@45.5269699,-122.6803404,17z/data=!3m1!4b1!4m5!3m4!1s0x549509fec32013d9:0x3ad790efffd31e44!8m2!3d45.5269699!4d-122.6781517), a beautifully restored and renovated 1918 building near downtown Portland, Oregon. Portland offers excellent restaurants, cafés, and breweries in a walkable, transit-friendly city, and easy day-trips include hiking around Mt. Hood and the gorgeous—and often sunny—Oregon coast. Over the next six weeks, we'll continue to publish lots of information to help you get the most out of your time at SRCCON and—for those who aren't local—explore the surrounding areas as well.
 
 ## Schedule
-SRCCON will run from 9am till 10pm on Thursday, July 28 (including breakfast and non-session evening activities), and from 10am till 6pm on Friday, July 29. We'll publish a full session schedule soon. <-PROB WE DONT WANT TO SAY SOON?
+SRCCON will run from 9am till 10pm on Thursday, July 28 (including breakfast and non-session evening activities), and from 10am till 6pm on Friday, July 29. We'll publish a full session schedule in July!
 
 ## Lodging
 
-We have reserved a block of rooms at the [Marriott Courtyard Portland City Center](http://www.marriott.com/hotels/travel/pdxpc-courtyard-portland-city-center/), 550 SW Oak St, at a base rate of $239 a night. To get the conference rate, please call XXXX or use [THIS LINK]. The reserved block of rooms will be available until all rooms are booked, or XXXX, whichever happens first—booking early is always a good idea.
+We have reserved a block of rooms at the [Marriott Courtyard Portland City Center](http://www.marriott.com/hotels/travel/pdxpc-courtyard-portland-city-center/), 550 SW Oak St, at a base rate of $239 a night. To get the conference rate, please [use this link to register](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=SRCCON%20Room%20Block%5Epdxpc%60WESWESA%60239.00%60USD%60false%601%607/26/16%607/30/16%607/5/16&app=resvlink&stop_mobi=yes) or call the hotel directly at 503-505-5000 (or Marriott central reservations at 800-606-3717) and mention SRCCON. The reserved block of rooms will be available until all rooms are booked, or July 7, whichever happens first—booking early is always a good idea.
 
 Other hotels not far from the conference venue include:
 
@@ -57,7 +57,7 @@ Staff-to-child ratios range from 1:2 for children 6-11 months to 1:7 for childre
 Portland's [MAX Light Rail system](https://trimet.org/max/) is an easy way to get around the city. You can take the Red Line from the airport to the Oak/SW 1st Ave station for $2.50. That will drop you off about 4 blocks from the conference hotel.
 
 ## Meals at SRCCON
-We want you to be happy and well-fed at SRCCON, so we're providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We'll also have tea, coffee, and snacks—healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
+We want you to be happy and well-fed at SRCCON, so we're providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We'll also have tea, coffee, and snacks—both healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
 
 ## Thursday Night at SRCCON
 Thursday night, join us for SRCCON's evening fun: we'll be hosting games, lightning talks, and other activities. There will be local beverages and snacks, and much more. [Learn more and sign up now](https://public.etherpad-mozilla.org/p/SRCCON2016).
