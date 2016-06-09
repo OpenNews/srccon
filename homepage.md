@@ -10,7 +10,7 @@ bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-
 permalink: /index.html
 ---
 
-_**The SRCCON 2016 ticket lottery is now closed**. Everyone who registered will receive notification of whether their request was selected or not by **5pm Eastern May 25**. If your request is selected, you'll have 48 hours to purchase your ticket._
+_**SRCCON 2016 is sold out**. Thanks to everyone who entered our ticket lottery, and we're excited to see all the attendees in Portland. If you weren't able to join us this year, we'll again have live transcription of many sessions, and we're working on more options for remote participation._
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems.
 
@@ -20,10 +20,10 @@ This year SRCCON will have more than 50 sessions on a wide range of topics, from
 
 <div class="pink">
 <div class="innercontainer">
-<h2>Our location</h2>
-<p>SRCCON will be held at the Pacific Northwest College of Art, in the gorgeously renovated 1918 building that housed Portland's original Post Office. Portland offers excellent restaurants, cafés, and breweries in a walkable, transit-friendly city, and easy day-trips include hiking around Mt. Hood and the gorgeous—and often sunny—Oregon coast. </p>
+<h2>Location & lodging</h2>
+<p>SRCCON will be held at the <a href="https://www.google.com/maps/place/Pacific+Northwest+College+of+Art/@45.5269699,-122.6803404,17z/data=!3m1!4b1!4m5!3m4!1s0x549509fec32013d9:0x3ad790efffd31e44!8m2!3d45.5269699!4d-122.6781517">Pacific Northwest College of Art</a>, in the gorgeously renovated 1918 building that housed Portland's original Post Office.  </p>
 
-<p>Stay tuned for information on lodging, things to do in Portland, and much more.</p>
+<p>Our discounted hotel rate expires July 7, and will likely sell out before then. <a href="/logistics/">Learn more about lodging options and book your room now in the SRCCON room block!</a> </p>
 </div>
 </div>
 

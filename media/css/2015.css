@@ -56,6 +56,11 @@ header.stickerdots {
   background-size: cover;
 }
 
+header.pnca {
+  background-image: url(/media/img/2016/pnca.jpg);
+  background-size: cover;
+}
+
 header.tickets {
   background-image: url(/media/img/2015/tickets.jpg);
 }

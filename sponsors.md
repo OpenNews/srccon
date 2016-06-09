@@ -56,8 +56,8 @@ Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at br
 
 At SRCCON, we want people thinking about the amazing sessions and community, not where their next meal is coming from, so we feed all our participants breakfast, lunch, dinner, and snacks. Help get people fed by becoming a Meal or Snack Sponsor. We have three sponsorships available:
 
-* Breakfast Sponsor (both days)
-* Lunch Sponsor (both days)
+* Breakfast Sponsor (both days) **< SOLD OUT**
+* Lunch Sponsor (both days) **< SOLD OUT**
 * Snack Sponsor (both days)
 
 As a Meal or Snack Sponsor, you receive:
@@ -75,9 +75,9 @@ Becoming an event sponsor is a great way to support SRCCON. Event Sponsors recei
 * Logo on sponsorship page of SRCCON website.
 * Logo on sponsorship signage at event.
 
-## Local Media Sponsors
+## Local Sponsors
 
-Local Media Sponsorship is open only to media companies from the Portland area. As a Local Media Sponsor, you receive:
+Local Sponsorship is open only to companies from the Portland area. As a Local Sponsor, you receive:
 
 * 2 free tickets to SRCCON.
 * Logo on sponsorship page of SRCCON website.

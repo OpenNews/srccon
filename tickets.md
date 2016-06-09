@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Tickets
-subtitle: Submit a ticket request this week to participate in our lottery for SRCCON 2016 tickets.
+subtitle: Our lottery for SRCCON 2016 tickets is now closed, and we thank all who participated!
 section: tickets
 sub-section: interior
 background: tickets
