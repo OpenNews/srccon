@@ -1,94 +1,75 @@
 ---
 layout: 2015_layout
-title: Become a SRCCON Sponsor
-subtitle: Sponsorship is a great way to help make SRCCON happen, and we'd love your help this year.
+title: Our Sponsors
+subtitle: Sponsors help make SRCCON happen. Thanks to ours!
 section: sponsors
 sub-section: interior
 background: coffee
 permalink: /sponsors/index.html
 ---
-SRCCON is a conference centered on the challenges that news technology and data teams encounter every day. It attracts the best newsroom developers, designers, and data analysts for two days of thinking, working, and building together.
+<div id="sponsorpage">
+<ul class="toplevel">
 
-Our sponsors help us make SRCCON unique and accessible by keeping our ticket price well below cost, getting people to the event, and bringing in the special touches that make SRCCON… SRCCON.
+<li><a href="http://www.condenast.com" class="imglink"><img src="/media/img/partners/conde.png"></a>
+<h3>SRCCON Lead Sponsor</h3>
+<p>Condé Nast is a premier media company renowned for producing the highest quality content for the world's most influential audiences.  Attracting more than 100 million consumers across its industry-leading print, digital and video brands, the company’s portfolio includes some of the most iconic titles in media: Vogue, Vanity Fair, Glamour, Brides, GQ, GQ Style, The New Yorker, Condé Nast Traveler, Allure, Architectural Digest, Bon Appétit, Epicurious, Wired, W, Golf Digest, Golf World, Teen Vogue, Ars Technica, The Scene, Pitchfork and Backchannel.  The company’s newest division, Condé Nast Entertainment, was launched in 2011 to develop film, television and premium digital video programming.</p></li>
 
-We offer several levels of sponsorship in order to accommodate a variety of sizes of companies and organizations. Please join us in helping make SRCCON 2016 amazing:
+<li class="accessiblitysponsor"><a href="https://vip.wordpress.com/" class="imglink"><img src="/media/img/partners/wpcom-vip-logo-graphite.jpg"></a>
+<h3>SRCCON Scholarship Sponsor</h3>
+<p>We know WordPress. WordPress.com VIP provides hosting and support for some of the biggest sites on the web, including Time.com,
+FiveThirtyEight.com, QZ.com, TheSun.co.uk, and Fusion.net. VIP provides rock-solid cloud hosting on the WordPress.com server grid,
+serving billions of pages every month.</p></li>
 
-## Lead Sponsor **< SOLD OUT**
+<li class="accessiblitysponsor"><a href="http://www.nytimes.com" class="imglink"><img src="/media/img/partners/nyt.png" class="nyt"></a>
+<h3>SRCCON Transcript Sponsor</h3>
+<p>This year The New York Times celebrates our 20th year as a digital publication. We are a continually evolving team of journalists, coders, designers, product managers, women and men all contributing to the 160+ year history of the Grey Lady.</p></li>
 
-As Lead Sponsor of SRCCON you receive:
+<li class="accessiblitysponsor"><a href="http://jsk.stanford.edu/" class="imglink"><img src="/media/img/partners/jsk.jpg" class="jsk"></a>
+<h3>SRCCON Childcare Sponsor</h3>
+<p><a href="http://www.slack.com">Slack</a> is an easy to use messaging app for teams. All your communication in one place, integrating with the tools and services you use every day. It’s teamwork, but simpler, more pleasant, and more productive.</p></li>
 
-* 3 free tickets to SRCCON.
-* Logo on SRCCON website (in partners section) visible on every page.
-* Logo and description of product/company on sponsorship page of SRCCON website (1 paragraph max).
-* Logo on sponsorship signage at event.
-* Logo on signage at Thursday Night Dinner.
-* Special mention on stage during general session.
-* Sponsor of official SRCCON Field Notes notebook.
+<li class="accessiblitysponsor"><a href="http://www.mailchimp.com/" class="imglink"><img src="/media/img/partners/mc_script_black_web.png"></a>
+<h3>SRCCON Coffee & Tea Hack Station Sponsor</h3></li>
 
-## Accessibility Sponsors **< SOLD OUT**
+</ul>
 
-Our Accessibility Sponsors help make SRCCON welcoming to as many as possible. We have three Accessibility Sponsor slots available:
+<h2>Meal Sponsors</h2>
 
-  * Childcare **< SOLD OUT**
-  * Scholarships **< SOLD OUT**
-  * Transcripts **< SOLD OUT**
+<ul class="eventsponsor meals">
 
-Accessibility Sponsors receive:
+<li><a href="https://newslab.withgoogle.com/" class="imglink"><img src="/media/img/partners/news-lab-logo-2.png"></a></li>
 
-* 2 free tickets to SRCCON.
-* Logo on SRCCON website (in partners section) visible on every page.
-* Logo and description of product/company on sponsorship page of SRCCON website (1 paragraph max).
-* Logo on page(s) that correspond with your accessibility sponsorship.
-* Logo on sponsorship signage at event.
-* Special mention on stage during general session.
+<li><a href="https://github.com/" class="imglink"><img src="/media/img/partners/GitHub_Logo.png"></a></li>
 
-## Coffee & Tea Hack Station Sponsor **< SOLD OUT**
+</ul>
 
-Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at breaks to make each other hot beverages and compare session notes. Our Coffee & Tea Hacking Station Sponsor receives:
+<h2>Event Sponsors</h2>
 
-* 2 free tickets to SRCCON.
-* Recyclable coffee cups with your logo on them.
-* Logo on signage at the Coffee & Tea Hacking Station.
-* Logo on sponsorship page of SRCCON website.
-* Logo on sponsorship signage at event.
+<ul class="eventsponsor">
 
-## Meal or Snack Sponsors
+<li class="djnf"><a href="https://www.newsfund.org/" class="imglink"><img src="/media/img/partners/DJ_News_Fund_Revised.png"></a></li>
 
-At SRCCON, we want people thinking about the amazing sessions and community, not where their next meal is coming from, so we feed all our participants breakfast, lunch, dinner, and snacks. Help get people fed by becoming a Meal or Snack Sponsor. We have three sponsorships available:
+<li class="fusion"><a href="http://fusion.net/" class="imglink"><img src="/media/img/partners/FUSION_LOGO.jpg"></a></li>
 
-* Breakfast Sponsor (both days) **< SOLD OUT**
-* Lunch Sponsor (both days) **< SOLD OUT**
-* Snack Sponsor (both days)
+</ul>
 
-As a Meal or Snack Sponsor, you receive:
+<h2>Local Sponsor</h2>
 
-* 1 free ticket to SRCCON.
-* Logo on signage at buffet tables when your meal is served.
-* Logo on sponsorship page of SRCCON website.
-* Logo on sponsorship signage at event.
+<ul class="localsponsor">
+<li><a href="https://www.civilcomments.com/" class="imglink"><img src="/media/img/partners/Civil_Logo_transparent.png"></a></li>
+</ul>
 
-## Event Sponsors
+<h2>Supporting Sponsors</h2>
+<ul class="supportingsponsor">
+<li><a href="https://www.mapbox.com/" class="imglink"><img src="/media/img/partners/Mapbox-Graphic.jpg"></a>
+<li><a href="http://www.alleyinteractive.com/" class="imglink"><img src="/media/img/partners/alley.jpg"></a></li>
+<li class="um"><a href="https://www.journalism.cuny.edu/" class="imglink"><img src="/media/img/partners/CUNY.png"></a></li>
+</ul>
 
-Becoming an event sponsor is a great way to support SRCCON. Event Sponsors receive:
+<h2>OpenNews Project Partners</h2>
+<ul class="supportingsponsor">
+<li><a href="http://www.mozilla.org/" class="imglink"><img alt="Mozilla" src="/media/img/partners/mozilla.png"></a></li>
+<li class="knightfoundation"><a href="http://www.knightfoundation.org/" class="imglink"><img alt="Knight Foundation" src="/media/img/partners/knight.png"></a></li>
+</ul>
 
-* 1 free ticket to SRCCON.
-* Logo on sponsorship page of SRCCON website.
-* Logo on sponsorship signage at event.
-
-## Local Sponsors
-
-Local Sponsorship is open only to companies from the Portland area. As a Local Sponsor, you receive:
-
-* 2 free tickets to SRCCON.
-* Logo on sponsorship page of SRCCON website.
-* Logo on sponsorship signage at event.
-
-## Supporting Sponsors
-
-Want to support SRCCON on a budget? Our Supporting Sponsorship level lets you help make SRCCON happen! Supporting Sponsors receive:
-
-* 1 guaranteed ticket (purchased separately).
-* Logo on sponsorship page of SRCCON website.
-* Logo on sponsorship signage at event.
-
-If you would like to sponsor SRCCON with one of the above packages, or would like to talk about a custom sponsorship, please [send us a note](mailto:dan@mozillafoundation.org).
+</div>

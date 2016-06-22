@@ -492,17 +492,29 @@ li.accessiblitysponsor img {
   width: 325px;
 }
 
+li.accessiblitysponsor img.jsk {
+  width: 225px;
+}
+
+li.accessiblitysponsor img.nyt {
+  width: 400px;
+}
+
 ul.eventsponsor li {
   display: inline;
   padding: 0 50px;
 }
 
-ul.eventsponsor li img {
+ul.eventsponsor li img, ul.localsponsor li img {
   width: 185px;
 }
 
 ul.eventsponsor li.fusion img {
   width: 150px;
+}
+
+ul.eventsponsor li.djnf img {
+  width: 220px;
 }
 
 ul.supportingsponsor li {
@@ -520,7 +532,7 @@ ul.supportingsponsor li.jsk img {
 }
 
 ul.supportingsponsor li.um img {
-  width: 200px;
+  width: 230px;
 }
 
 ul.supportingsponsor li.knightfoundation img {
