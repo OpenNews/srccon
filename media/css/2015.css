@@ -505,8 +505,12 @@ ul.eventsponsor li {
   padding: 0 50px;
 }
 
-ul.eventsponsor li img, ul.localsponsor li img {
+ul.eventsponsor li img {
   width: 185px;
+}
+
+ul.localsponsor li img {
+  width: 150px;
 }
 
 ul.eventsponsor li.fusion img {
@@ -514,7 +518,7 @@ ul.eventsponsor li.fusion img {
 }
 
 ul.eventsponsor li.djnf img {
-  width: 220px;
+  width: 250px;
 }
 
 ul.supportingsponsor li {
@@ -533,6 +537,10 @@ ul.supportingsponsor li.jsk img {
 
 ul.supportingsponsor li.um img {
   width: 230px;
+}
+
+ul.supportingsponsor li.alley img {
+  width: 160px;
 }
 
 ul.supportingsponsor li.knightfoundation img {
