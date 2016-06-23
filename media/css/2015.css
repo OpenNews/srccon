@@ -1277,11 +1277,23 @@ td {
     #contentbox #sponsorpage li img {
       width: 100%;
     }
-
-    #contentbox #sponsorbox ul.eventsponsor li {
+    #contentbox #sponsorpage li img.jsk,
+    #contentbox #sponsorpage ul.localsponsor li img,
+    #contentbox #sponsorpage ul.supportingsponsor li img {
+      width: 50%;
+    }
+    #contentbox #sponsorpage ul.eventsponsor li {
       margin-left: 0px;
       padding: 0px;
+      display: block;
     }
+    #contentbox #sponsorpage ul.eventsponsor li img,
+    #contentbox #sponsorpage ul.supportingsponsor li.alley img,
+    #contentbox #sponsorpage ul.supportingsponsor li.um img,
+    #contentbox #sponsorpage ul.supportingsponsor li.knightfoundation img {
+        width: 67%;
+    }
+    
 }
 
 @media screen and (max-width: 720px) {

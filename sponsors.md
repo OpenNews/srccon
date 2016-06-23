@@ -35,41 +35,33 @@ serving billions of pages every month.</p></li>
 </ul>
 
 <h2>Meal Sponsors</h2>
-
 <ul class="eventsponsor meals">
-
-<li><a href="https://newslab.withgoogle.com/" class="imglink"><img src="/media/img/partners/news-lab-logo-2.png"></a></li>
-
-<li><a href="https://github.com/" class="imglink"><img src="/media/img/partners/GitHub_Logo.png"></a></li>
-
+    <li><a href="https://newslab.withgoogle.com/" class="imglink"><img src="/media/img/partners/news-lab-logo-2.png"></a></li>
+    <li><a href="https://github.com/" class="imglink"><img src="/media/img/partners/GitHub_Logo.png"></a></li>
 </ul>
 
 <h2>Event Sponsors</h2>
-
 <ul class="eventsponsor">
-
-<li class="djnf"><a href="https://www.newsfund.org/" class="imglink"><img src="/media/img/partners/DJ_News_Fund_Revised.png"></a></li>
-<li class="djnf"><a href="http://www.voxmedia.com/" class="imglink"><img src="/media/img/partners/vox_media_horiz.png"></a></li>
-
+    <li class="djnf"><a href="https://www.newsfund.org/" class="imglink"><img src="/media/img/partners/DJ_News_Fund_Revised.png"></a></li>
+    <li class="djnf"><a href="http://www.voxmedia.com/" class="imglink"><img src="/media/img/partners/vox_media_horiz.png"></a></li>
 </ul>
 
 <h2>Local Sponsor</h2>
-
 <ul class="localsponsor">
-<li class="civil"><a href="https://www.civilcomments.com/" class="imglink"><img src="/media/img/partners/Civil_Logo_transparent.png"></a></li>
+    <li class="civil"><a href="https://www.civilcomments.com/" class="imglink"><img src="/media/img/partners/Civil_Logo_transparent.png"></a></li>
 </ul>
 
 <h2>Supporting Sponsors</h2>
 <ul class="supportingsponsor">
-<li><a href="https://www.mapbox.com/" class="imglink"><img src="/media/img/partners/Mapbox-Graphic.jpg"></a>
-<li class="alley"><a href="http://www.alleyinteractive.com/" class="imglink"><img src="/media/img/partners/alley.jpg"></a></li>
-<li class="um"><a href="https://www.journalism.cuny.edu/" class="imglink"><img src="/media/img/partners/CUNY.png"></a></li>
+    <li><a href="https://www.mapbox.com/" class="imglink"><img src="/media/img/partners/Mapbox-Graphic.jpg"></a></li>
+    <li class="alley"><a href="http://www.alleyinteractive.com/" class="imglink"><img src="/media/img/partners/alley.jpg"></a></li>
+    <li class="um"><a href="https://www.journalism.cuny.edu/" class="imglink"><img src="/media/img/partners/CUNY.png"></a></li>
 </ul>
 
 <h2>OpenNews Project Partners</h2>
 <ul class="supportingsponsor">
-<li><a href="http://www.mozilla.org/" class="imglink"><img alt="Mozilla" src="/media/img/partners/mozilla.png"></a></li>
-<li class="knightfoundation"><a href="http://www.knightfoundation.org/" class="imglink"><img alt="Knight Foundation" src="/media/img/partners/knight.png"></a></li>
+    <li><a href="http://www.mozilla.org/" class="imglink"><img alt="Mozilla" src="/media/img/partners/mozilla.png"></a></li>
+    <li class="knightfoundation"><a href="http://www.knightfoundation.org/" class="imglink"><img alt="Knight Foundation" src="/media/img/partners/knight.png"></a></li>
 </ul>
 
 </div>
