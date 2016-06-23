@@ -500,6 +500,10 @@ li.accessiblitysponsor img.nyt {
   width: 400px;
 }
 
+li.wordpress img {
+  width: 280px;
+}
+
 ul.eventsponsor li {
   display: inline;
   padding: 0 50px;
@@ -1245,6 +1249,7 @@ td {
     footer #sponsorbox ul li span.sponsorcaption {
         margin-left: 0;
     }
+
 }
 
 @media screen and (max-width: 770px) {
@@ -1256,6 +1261,7 @@ td {
         text-align: left;
         font-size: 1em;
     }
+
 }
 
 @media screen and (max-width: 740px) {
@@ -1267,6 +1273,14 @@ td {
     }
     footer #sponsorbox .three div#partners ul li img {
         height: 30px;
+    }
+    #contentbox #sponsorpage li img {
+      width: 100%;
+    }
+
+    #contentbox #sponsorbox ul.eventsponsor li {
+      margin-left: 0px;
+      padding: 0px;
     }
 }
 

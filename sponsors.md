@@ -14,7 +14,7 @@ permalink: /sponsors/index.html
 <h3>SRCCON Lead Sponsor</h3>
 <p>Condé Nast is a premier media company renowned for producing the highest quality content for the world's most influential audiences.  Attracting more than 100 million consumers across its industry-leading print, digital and video brands, the company’s portfolio includes some of the most iconic titles in media: Vogue, Vanity Fair, Glamour, Brides, GQ, GQ Style, The New Yorker, Condé Nast Traveler, Allure, Architectural Digest, Bon Appétit, Epicurious, Wired, W, Golf Digest, Golf World, Teen Vogue, Ars Technica, The Scene, Pitchfork and Backchannel.  The company’s newest division, Condé Nast Entertainment, was launched in 2011 to develop film, television and premium digital video programming.</p></li>
 
-<li class="accessiblitysponsor"><a href="https://vip.wordpress.com/" class="imglink"><img src="/media/img/partners/wpcom-vip-logo-graphite.jpg"></a>
+<li class="accessiblitysponsor wordpress"><a href="https://vip.wordpress.com/" class="imglink"><img src="/media/img/partners/wpcom-vip-logo-graphite.jpg"></a>
 <h3>SRCCON Scholarship Sponsor</h3>
 <p>We know WordPress. <a href="https://vip.wordpress.com/">WordPress.com VIP</a> provides hosting and support for some of the biggest sites on the web, including Time.com,
 FiveThirtyEight.com, QZ.com, TheSun.co.uk, and Fusion.net. VIP provides rock-solid cloud hosting on the WordPress.com server grid,
