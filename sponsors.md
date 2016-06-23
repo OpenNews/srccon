@@ -21,7 +21,7 @@ permalink: /sponsors/index.html
 FiveThirtyEight.com, QZ.com, TheSun.co.uk, and Fusion.net. VIP provides rock-solid cloud hosting on the WordPress.com server grid,
 serving billions of pages every month.</p></li>
 
-<li class="accessiblitysponsor"><a href="http://www.nytimes.com" class="imglink"><img src="/media/img/partners/nyt.png" class="nyt"></a>
+<li class="accessiblitysponsor"><a href="http://www.nytimes.com" class="imglink"><img src="/media/img/partners/NYT.png" class="nyt"></a>
 <h3>SRCCON Transcript Sponsor</h3>
 <p>This year <a href="http://www.nytimes.com">The New York Times</a> celebrates our 20th year as a digital publication. We are a <a href="http://www.nytco.com/careers/technology/">continually evolving team</a> of journalists, coders, designers, product managers, women and men all contributing to the 160+ year history of the Grey Lady.</p></li>
 
