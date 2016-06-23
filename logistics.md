@@ -14,9 +14,7 @@ SRCCON will run from 9am till 10pm on Thursday, July 28 (including breakfast and
 
 ## Lodging
 
-We have reserved a block of rooms at the [Marriott Courtyard Portland City Center](http://www.marriott.com/hotels/travel/pdxpc-courtyard-portland-city-center/), 550 SW Oak St, at a base rate of $239 a night. To get the conference rate, please [use this link to register](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=SRCCON%20Room%20Block%5Epdxpc%60WESWESA%60239.00%60USD%60false%601%607/26/16%607/31/16%607/5/16&app=resvlink&stop_mobi=yes) or call the hotel directly at 503-505-5000 (or Marriott central reservations at 800-606-3717) and mention SRCCON. The reserved block of rooms will be available until all rooms are booked, or July 7, whichever happens first—booking early is always a good idea.
-
-Other hotels not far from the conference venue include:
+Our discounted room block at the [Marriott Courtyard Portland City Center](http://www.marriott.com/hotels/travel/pdxpc-courtyard-portland-city-center/), 550 SW Oak St, is fully booked. There are still rooms available at the hotel, but they are regular rate (with slight discounts reported via various online booking systems). There are lots of other hotels available near the conference venue, including:
 
 **[The Benson](https://www.coasthotels.com/hotels/oregon/portland/the-benson-hotel/) ($269)**
 <br>0.4 miles away
