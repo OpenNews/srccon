@@ -492,6 +492,18 @@ li.accessiblitysponsor img {
   width: 325px;
 }
 
+li.accessiblitysponsor img.jsk {
+  width: 225px;
+}
+
+li.accessiblitysponsor img.nyt {
+  width: 400px;
+}
+
+li.wordpress img {
+  width: 280px;
+}
+
 ul.eventsponsor li {
   display: inline;
   padding: 0 50px;
@@ -501,8 +513,16 @@ ul.eventsponsor li img {
   width: 185px;
 }
 
+ul.localsponsor li img {
+  width: 150px;
+}
+
 ul.eventsponsor li.fusion img {
   width: 150px;
+}
+
+ul.eventsponsor li.djnf img {
+  width: 250px;
 }
 
 ul.supportingsponsor li {
@@ -520,7 +540,11 @@ ul.supportingsponsor li.jsk img {
 }
 
 ul.supportingsponsor li.um img {
-  width: 200px;
+  width: 230px;
+}
+
+ul.supportingsponsor li.alley img {
+  width: 160px;
 }
 
 ul.supportingsponsor li.knightfoundation img {
@@ -1225,6 +1249,7 @@ td {
     footer #sponsorbox ul li span.sponsorcaption {
         margin-left: 0;
     }
+
 }
 
 @media screen and (max-width: 770px) {
@@ -1236,6 +1261,7 @@ td {
         text-align: left;
         font-size: 1em;
     }
+
 }
 
 @media screen and (max-width: 740px) {
@@ -1248,6 +1274,26 @@ td {
     footer #sponsorbox .three div#partners ul li img {
         height: 30px;
     }
+    #contentbox #sponsorpage li img {
+      width: 100%;
+    }
+    #contentbox #sponsorpage li img.jsk,
+    #contentbox #sponsorpage ul.localsponsor li img,
+    #contentbox #sponsorpage ul.supportingsponsor li img {
+      width: 50%;
+    }
+    #contentbox #sponsorpage ul.eventsponsor li {
+      margin-left: 0px;
+      padding: 0px;
+      display: block;
+    }
+    #contentbox #sponsorpage ul.eventsponsor li img,
+    #contentbox #sponsorpage ul.supportingsponsor li.alley img,
+    #contentbox #sponsorpage ul.supportingsponsor li.um img,
+    #contentbox #sponsorpage ul.supportingsponsor li.knightfoundation img {
+        width: 67%;
+    }
+    
 }
 
 @media screen and (max-width: 720px) {
