@@ -514,7 +514,7 @@ ul.eventsponsor li img {
 }
 
 ul.localsponsor li img {
-  width: 150px;
+  width: 170px;
 }
 
 ul.eventsponsor li.fusion img {
@@ -1293,7 +1293,7 @@ td {
     #contentbox #sponsorpage ul.supportingsponsor li.knightfoundation img {
         width: 67%;
     }
-    
+
 }
 
 @media screen and (max-width: 720px) {
