@@ -1,14 +1,14 @@
 ---
 layout: 2015_layout
 title: Childcare
-subtitle: We offer free childcare for the duration of the SRCCON program and welcome families of all sizes.
+subtitle: We offer free childcare for the duration of the SRCCON program and welcome families of all sizes. Registration is now closed.
 section: childcare
 sub-section: interior
 background: childcare
 permalink: /childcare/index.html
 ---
 
-We are offering free childcare throughout the full SRCCON schedule (including Thursday evening). Our providers are the wonderful [KiddieCorp](https://www.kiddiecorp.com/) team, whom we welcome back for their second year at SRCCON.
+We are offering free childcare throughout the full SRCCON schedule (including Thursday evening). Our providers are the wonderful [KiddieCorp](https://www.kiddiecorp.com/) team, whom we welcome back for their second year at SRCCON. Childcare registration is now closed—if you missed the deadline and need childcare, please [contact us](mailto:srccon@opennews.org), and we'll add you to the wait list.
 
 ## Our care providers
 
@@ -18,8 +18,7 @@ One of our own staff members' young child happily spent last SRCCON in KiddieCor
 
 ## Logistics
 
-Location details are coming soon, and in the meantime, you can [check out the registration process](https://www.jotform.com/KiddieCorp/srcconkids) and [learn more about KiddieCorp's staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
+You can [check out the registration process](https://www.jotform.com/KiddieCorp/srcconkids) and [learn more about KiddieCorp's staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
 
-<div id="sponsortag">
-<p><span>Childcare at SRCCON is made possible by <a href="http://jsk.stanford.edu//"></span><img src="/media/img/partners/jsk.jpg" class="childcare" alt="John S Knight Fellowships"></a>
+<div id="sponsortag"><p><span>Childcare at SRCCON is made possible by<a href="http://jsk.stanford.edu/"></span><img src="/media/img/partners/jsk.jpg" class="childcare" alt="John S Knight Fellowships"></a>
 </div>
