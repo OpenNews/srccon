@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Logistics
-subtitle: Welcome to Portland! Learn where to stay, what to do while you're in town, and how to have the best time at SRCCON
+subtitle: Welcome to Portland! Learn where to stay, what to do while you're in town, and how to have the best time at SRCCON.
 section: logistics
 sub-section: interior
 background: pnca
@@ -46,17 +46,21 @@ Our discounted room block at the [Marriott Courtyard Portland City Center](http:
 <br>Portland, OR 97204
 <br>(503) 222-0001
 
-## Childcare
-We are offering free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the Marriott Courtyard Portland City Center via the genuinely great team at [KiddieCorp](https://www.kiddiecorp.com/). [Learn all about it and get registered!](http://srccon.org/childcare/)
-
 ## Transit
 Portland's [MAX Light Rail system](https://trimet.org/max/) is an easy way to get around the city. You can take the Red Line from the airport to the Oak/SW 1st Ave station for $2.50. That will drop you off about 4 blocks from the conference hotel.
 
-## Meals at SRCCON
-We want you to be happy and well-fed at SRCCON, so we're providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We'll also have tea, coffee, and snacks—both healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
-
 ## Thursday Night at SRCCON
 Thursday night, join us for SRCCON's evening fun: we'll be hosting games, lightning talks, and other activities. There will be local beverages and snacks, and much more. [Learn more and sign up now](https://public.etherpad-mozilla.org/p/SRCCON2016).
+
+## Childcare
+We are offering free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the Marriott Courtyard Portland City Center via the genuinely great team at [KiddieCorp](https://www.kiddiecorp.com/). Childcare registration is now closed—if you missed the deadline and need childcare, please [contact us](mailto:srccon@opennews.org), and we'll add you to the wait list.
+
+## Partners at SRCCON
+
+Some of you are coming to Portland with partners and have wondered if they can take part in any of our activities. We’re happy to say that they’re welcome to join us for Thursday evening’s meal and activities, with a special [$45 partner ticket that you can purchase now](https://www.eventbrite.com/e/srccon-thursday-evening-partner-access-tickets-26333714850?access=SRCCONpartner).
+
+## Meals at SRCCON
+We want you to be happy and well-fed at SRCCON, so we're providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We'll also have tea, coffee, and snacks—both healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
 
 ## Alcoholics Anonymous
 On Thursday night, the closest meeting to SRCCON is at [8pm at the Portland Alano Club](http://home.pdxaa.org/meetings/thurs-night-candlelight/?d=4&r=45&t=O), 909 Northwest 24th Avenue. It is an “open” meeting, meaning that you don’t have to be alcoholic to go. AA Portland also hosts a [full list of area meetings](http://home.pdxaa.org/meetings/).
