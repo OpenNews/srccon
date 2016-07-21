@@ -10,11 +10,9 @@ bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-
 permalink: /index.html
 ---
 
-_**SRCCON 2016 is sold out**. Thanks to everyone who entered our ticket lottery, and we're excited to see all the attendees in Portland. If you weren't able to join us this year, we'll again have live transcription of many sessions, and we're working on more options for remote participation._
-
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems.
 
-This year SRCCON will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles. [See our list of accepted sessions](/sessions).
+This year SRCCON will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles. [The 2016 schedule is now live!](http://schedule.srccon.org)
 
 
 
