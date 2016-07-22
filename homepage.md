@@ -10,6 +10,9 @@ bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-
 permalink: /index.html
 ---
 
+{% include live_sessions_table.html %}
+
+
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems.
 
 This year SRCCON will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles.
@@ -108,3 +111,6 @@ Our participants represent organizations ranging from massive to tiny, and come 
 SRCCON is produced by [Knight-Mozilla OpenNews](http://opennews.org), an organization built to support the community of news developers, designers, and data analysts helping journalism thrive on the open web.
 
 The “src” in SRCCON stands for “Source,” as in "view source." We pronounce it “Source-con,” but you can say it however you want.
+
+
+{% include live_sessions_js.html %}

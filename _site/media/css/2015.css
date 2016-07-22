@@ -593,28 +593,51 @@ ul.supportingsponsor li.knightfoundation img {
 
 #sponsortag a.underline {
     border-bottom: 1px solid #aaa;
-  }
+}
 
 #sponsortag a.underline:hover {
     color: black;
     border-bottom: 1px solid black;
-  }
-
-
-body.remote table a {
-  color: #404040;
-  font-weight: bold;
-  text-decoration: none;
 }
 
-body.remote table a:hover {
-  text-decoration: underline;
+.live table {
+    width: 100%;
+    margin-bottom: 2em;
 }
-
-body.remote table tr:nth-child(odd) {
-  background-color: #eee;
+.live .session-time {
+    max-width: 130px;
 }
-
+.live table a {
+    text-decoration: none;
+}
+.live table a.session-title {
+    color: #404040;
+    font-weight: bold;
+    text-decoration: none;
+}
+.live table a.session-transcript {
+    font-family: "ff-tisa-sans-web-pro",sans-serif;
+    display: inline-block;
+    line-height: 1;
+    font-size: .83em;
+    color: #fff;
+    background-color: #caa5ce;
+    padding: 3px 6px;
+    border-radius: 5px;
+    margin-top: .4em;
+}
+.live table a.session-title:hover {
+    text-decoration: underline;
+}
+.live table tr:nth-child(odd) {
+    background-color: #eee;
+}
+#contentbox .live h2 {
+    margin: 1em 0 .5em .4em;
+}
+.hidden {
+    display: none;
+}
 
 
 footer {
@@ -871,11 +894,18 @@ footer .columns {
   margin-left: 25px;
 }
 
-.homepage .btn {
+.homepage .btn,
+.live .btn {
   float: none;
   margin-left: auto;
   margin-right: auto;
   width: 90%
+}
+
+.live .btn {
+    font-family: "ff-tisa-sans-web-pro",sans-serif;
+    display: block;
+    margin: 0 auto 3em;
 }
 
 .btn#schedulebutton {
