@@ -16,4 +16,4 @@ We'll send out [alerts on Twitter](http://twitter.com/srccon) when a transcribed
 
 The "Add to Slack" button will ask you to authorize access for a team you belong to, and choose a channel to receive the alerts. That's it!
 
-<div id="sponsortag"><p><span>Transcriptions at SRCCON are made possible by <a href="http://www.nytimes.com"></span><img src="/media/img/partners/NYT.png" class="nyt" alt="The New York Times"></a>
+<div id="sponsortag"><p><span>Transcriptions at SRCCON are made possible by</span> <a href="http://www.nytimes.com"><img src="/media/img/partners/NYT.png" class="nyt" alt="The New York Times"></a>
