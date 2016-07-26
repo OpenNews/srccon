@@ -587,6 +587,12 @@ ul.supportingsponsor li.knightfoundation img {
   left: 8px;
 }
 
+#sponsortag img.nyt {
+  width: 33%;
+  position: relative;
+  vertical-align: middle;
+}
+
 #sponsortag a {
   border-bottom: none;
 }
@@ -1568,6 +1574,9 @@ td {
     }
     footer #sponsorbox .three div#sponsors ul li.lead img {
         height: auto;
+    }
+    #sponsortag img.nyt {
+      width: 67%;
     }
 }
 @media screen and (max-width: 360px) {
