@@ -591,6 +591,7 @@ ul.supportingsponsor li.knightfoundation img {
   width: 33%;
   position: relative;
   vertical-align: middle;
+  padding-left: .33em;
 }
 
 #sponsortag a {
