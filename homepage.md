@@ -12,14 +12,11 @@ permalink: /index.html
 
 {% include live_sessions_table.html %}
 
+Attendees, be welcome! Please start your SRCCON with our handy [**How To SRCCON**](/howtosrccon) guide and the [**2016 schedule app**](http://schedule.srccon.org). The registration/info desks on the first and third floors will be staffed throughout the event, and our safety helpline is **SRC CON 2909** (772 266-2909). 
 
-SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems.
+If you're not here with us in Portland, we invite you to check out our [**remote-participation options**](/docs), including live streaming transcriptions with their very own Slack bot.
 
-This year SRCCON will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles.
-
-[**The 2016 schedule is now live!**](http://schedule.srccon.org)
-
-
+SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. This year, SRCCON will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles.
 
 <div class="pink">
 <div class="innercontainer">
