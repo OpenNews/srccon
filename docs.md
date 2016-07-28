@@ -1,3 +1,4 @@
+---
 layout: 2015_layout
 title: Docs
 subtitle: We are building SRCCON in the open and sharing what we learn.
