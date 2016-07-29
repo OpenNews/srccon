@@ -36,12 +36,12 @@ Writeups pay $200, invoiced on publication. Pitch us a writeup on a session or a
 
 ## Making-of-SRCCON Docs
 
-* [Captioning a Multi-Track Conference - How SRCCON Did It](http://opennews.org/blog/srccon-transcription/)
-* [Five Things We've Learned About Sessions](http://opennews.org/blog/srccon-top5/)
-* [How to Plan a Great SRCCON Session](http://opennews.org/blog/srccon-session-planning/)
-* [Making SRCCON Good for Humans](http://opennews.org/blog/srccon-human-stuff/)
-* [SRCCON Ticketing: What We Did and Why](http://opennews.org/blog/srccon-tickets/)
-* [Why You Want a Code of Conduct & How We Made One](http://incisive.nu/2014/codes-of-conduct/)
+* [Captioning a Multi-Track Conference - How SRCCON Did It](http://opennews.org/blog/srccon-transcription)
+* [Five Things We've Learned About Sessions](http://opennews.org/blog/srccon-top5)
+* [How to Plan a Great SRCCON Session](http://opennews.org/blog/srccon-session-planning)
+* [Making SRCCON Good for Humans](http://opennews.org/blog/srccon-human-stuff)
+* [SRCCON Ticketing: What We Did and Why](http://opennews.org/blog/srccon-tickets)
+* [Why You Want a Code of Conduct & How We Made One](http://incisive.nu/2014/codes-of-conduct)
 
 
 ## Resources & Inspiration
