@@ -1,8 +1,8 @@
 ---
 layout: 2015_layout
 title: Join us for SRCCON
-subtitle: Spend two amazing days building better newsroom code, culture, and process—together.
-eventdate: Join us in Portland, Oregon<br> July 28 & 29 for SRCCON 2016
+subtitle: Ttwo amazing days building better newsroom code, culture, and process—together.
+eventdate: SRCCON 2016 took place<br>July 28 & 29 in Portland, Oregon
 section: homepage
 background: homepage
 byline: Roland Tanglao
@@ -10,22 +10,19 @@ bylineurl: https://www.flickr.com/photos/roland/14345610224/in/photolist-nRF18j-
 permalink: /index.html
 ---
 
-{% include live_sessions_table.html %}
+<iframe src="https://player.vimeo.com/video/180221748" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><em><a href="https://vimeo.com/180221748">SRCCON 2016 highlights video</a>, videography by <a href="http://www.searlevideo.com/">Searle Video</a>.</em></p>
 
-Attendees, be welcome! Please start your SRCCON with our handy [**How To SRCCON**](/howtosrccon) guide and the [**2016 schedule app**](http://schedule.srccon.org). The registration/info desks on the first and third floors will be staffed throughout the event, and our safety helpline is **SRC CON 2909** (772 266-2909). 
+SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. This year, SRCCON included more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles.
 
-If you're not here with us in Portland, we invite you to check out our [**remote-participation options**](/docs), including live streaming transcriptions with their very own Slack bot.
-
-SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. This year, SRCCON will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles.
-
-<div class="pink">
+<!---  <div class="pink">
 <div class="innercontainer">
 <h2>Location & lodging</h2>
 <p>SRCCON will be held at the <a href="https://www.google.com/maps/place/Pacific+Northwest+College+of+Art/@45.5269699,-122.6803404,17z/data=!3m1!4b1!4m5!3m4!1s0x549509fec32013d9:0x3ad790efffd31e44!8m2!3d45.5269699!4d-122.6781517">Pacific Northwest College of Art</a>, in the gorgeously renovated 1918 building that housed Portland's original Post Office.  </p>
 
 <p>Our discounted hotel rate is sold out, but there are plenty of other options in Downtown Portland. <a href="/logistics/">Learn more about lodging options and other logistics.</a> </p>
 </div>
-</div>
+</div>  --->
 
 ## Who attends SRCCON
 
