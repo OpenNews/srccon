@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Join us for SRCCON
-subtitle: Ttwo amazing days building better newsroom code, culture, and process—together.
+subtitle: Two amazing days building better newsroom code, culture, and process—together.
 eventdate: SRCCON 2016 took place<br>July 28 & 29 in Portland, Oregon
 section: homepage
 background: homepage
