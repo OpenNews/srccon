@@ -1,7 +1,18 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # Through an iPhone darkly: Media and networks through the lens of science fiction
 
-## Joe Germuska
+### Session facilitator(s): Joe Germuska
 
+### Day & Time: Friday, 2:30-3:30pm
+
+### Room: Innovation Studio 
 
 PARTICIPANT: Good afternoon, we are waiting for one more person to show so I'll do a little preface. Hopefully you've read the session thing. This is not just me filling your brains about stuff. We actually have a handful of wonderful volunteers who will each share 0 sort of science fictional story that has something that they want to nerd out about you with you. So this is all about just enjoying the ideas of science fiction stuff. So as soon as Gerald comes, or maybe a minute before and there's going to be  time. Like if we all do our talks in five minutes or less.
 

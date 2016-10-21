@@ -1,8 +1,18 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # ‘Insert Caption Here’: how Facebook made video captioning cool
 
-## Session facilitator(s): Gideon Goldberg
+### Session facilitator(s): Gideon Goldberg
 
-## Day & Time: Friday, 10:30-11:30am Room: Boardroom
+### Day & Time: Friday, 10:30-11:30am
+
+### Room: Boardroom
 
 
 GIDEON: So I think we'll kick off, and if any people come in, they can mosey. My name is Gideon. Yeah, this session is called how Facebook made captioning cool. I hope you're in the right place. This session is being transcribed as I'm standing here. So what that means is, stuff—and I think they're audio recording this, as well. So if, at any point you want to go off the record, then you have to say, "I would like to go off the record." And then Stanley will stop typing. And then when you say, "Back on record," then we'll carry on. And if you would like to identify yourself for the transcript, that's cool, as well. Okay. So that's kind of the housekeeping part. So just I'm going to talk you through kind of what I had planned for the session format. So there's kind of two halves. So, yeah, let me just start by saying a little bit about myself. So my name is Gideon, I work at The Guardian, which is a newspaper in London. And right now we work on the video development team. So we're a tiny team of two developers. But we're embedded with the video production stuff. We make all different stuff. So The Guardian produces, like, everything from like long-form documentaries, right through to very short kind of clips and explainers that help kind of show, and having in between. And so it's been a fun experience to get a bit closer to the production side. In terms of my kind of accessibility interest, in a past life I worked for the BBC, on something called the BBC Ouch, which is like a magazine site. And what was interesting about that was that, yeah, my producer was blind and the head of the website was blind and so we were very strict about accessibility. And so in those days, we were hand-cranking sites, and PHP files. And we were making a headers like an h2, or h3, and everything. And we had lots of accessibility standards. We transcribed all our audio and we had different color contrasted versions of our website. So that was kind of interesting but when I went to work on other things, I found out not everywhere was quite so concerned with accessibility. So I've tried to sort of campaign everywhere I've gone to try and improve things in that regard with kind of mixed success.

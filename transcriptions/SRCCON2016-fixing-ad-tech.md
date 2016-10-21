@@ -1,6 +1,18 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # Skipping the blame game and working across teams to fix newsroom Ad Tech.
 
-## By: Aram Zucker-Scharff & Jarrod Dicker.
+### Session facilitator(s): Aram Zucker-Scharff, Jarrod Dicker
+
+### Day & Time: Thursday, 12-1pm
+
+### Room: Classroom 305 
 
 Aram: Hello, everyone, you are in skipping the game blame working across teams to fix newsroom ad tech.  Hopefully you're in the right place.  We're going to quickly go through who we are and some of the challenges that we are facing as newsrooms that need to continue making money so that we can all stay in business.  And then we're going to try to break into some sort of back and forth, some conversations about challenges you face, metrics that you love but can't seem to turn into money and also opportunities for projects that may be you see or that we can help think of together.
 

@@ -1,4 +1,16 @@
-# Closing
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# SRCCON 2016 Closing Session
+
+### Day & Time: Friday, 5:15pm
+
+### Room: Commons
 
 
 DAN: Hey, everyone. Wow. That's loud. Somehow, there are many people here right now, than at any point. It's unbelievable. Thank you all for sticking around. And thank you—thank you for SRCCON. Thank all of you for being here, you know, and not just physically here, but really, I mean, it's two long days, you know? But two invigorating days. And thank you all for sticking through all of it. You know? We certainly have been to conferences before where the final session is a few people standing with suitcases and everyone else jetted a long time ago. And, um, it's really wonderful to see all of you here, and kind of overwhelming. I think I already told Brian Brennan, that I'm going to totally fucking cry up here, but I'm going to totally cry at some point. So just spoiler alert on that. But really, thank all of you for coming. Thank you to the facilitators who really, without SRCCON, would be nothing. The facilitators put in an incredible amount of work. All of them bought tickets to come here. You know. And so if you were in a good session today, just gives those folks a round of applause.

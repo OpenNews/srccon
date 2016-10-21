@@ -1,8 +1,18 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # How can we peer review our data stories?
 
-## Session facilitator(s): Ariana Giorgi, Christine Zhang
+### Session facilitator(s): Ariana Giorgi, Christine Zhang
 
-## Day & Time: Thursday, 12-1pm Room: Boardroom
+### Day & Time: Thursday, 12-1pm
+
+### Room: Boardroom
 
 
 

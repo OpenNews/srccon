@@ -1,6 +1,18 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # Better Analytics: Why You Have to Define Success Before You Use Analytics—And How To Do It
 
-## Tyler Fisher & Sonya Song.
+### Session facilitator(s): Tyler Fisher, Sonya Song
+
+### Day & Time: Friday, 2:30-3:30pm
+
+### Room: Classroom 305 
 
 TYLER:  Hey, everyone.  Everybody, we're going to get started.  Welcome to better analytics, why you have to define success before you use analytics and how to do it.  Very robust discussion title.
 

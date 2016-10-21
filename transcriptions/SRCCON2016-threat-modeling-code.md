@@ -1,6 +1,18 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # Threat Modeling for Code: When is Bad Code the Better Solution?
 
-## Facilitated by Julia Wolfe and Ivar Vong
+### Session facilitator(s): Julia Wolfe, Ivar Vong
+
+### Day & Time: Thursday, 10:30-11:30am
+
+### Room: Innovation Studio 
 
 Julia: Hello, I'm Julia Wolfe, I work at the Wall Street Journal as a news app developer and I am presenting with Ivar. He's at the Marshall Project and seems like that's all he wants to say. So welcome to threat modeling for code: When is bad code going to s on the screen? When is bad code a better solution? Ivar and I both—we talk a lot about the overlap betwe editorial. We have strong feelings about when they should and shouldn't overlap and. So just a couple of quick things before we get started.
 

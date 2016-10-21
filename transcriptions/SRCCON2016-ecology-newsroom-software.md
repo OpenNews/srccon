@@ -1,12 +1,21 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # The Ecology of Newsroom Software
 
-## Session facilitator(s): Ted Han, Mike Tigas
+### Session facilitator(s): Ted Han, Mike Tigas
 
-## Day & Time: Thursday, 2:30-3:30pm Room: Classroom 310
+### Day & Time: Thursday, 2:30-3:30pm
+
+### Room: Classroom 310
 
 
-
-TED: And I'm Ted Han, I run a document collab. Some of you may know know.
+TED: And I'm Ted Han, I run DocumentCloud. Some of you may know know.
 
 
 

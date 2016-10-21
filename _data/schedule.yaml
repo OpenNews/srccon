@@ -105,21 +105,6 @@
         "transcription": ""
     }, 
     {
-        "day": "Friday", 
-        "description": "", 
-        "everyone": "y", 
-        "facilitators": "", 
-        "facilitators_twitter": "", 
-        "id": "friday-closing", 
-        "length": "", 
-        "notepad": "", 
-        "room": "Commons", 
-        "time": "5:15pm", 
-        "timeblock": "friday-evening", 
-        "title": "Closing", 
-        "transcription": "y"
-    }, 
-    {
         "day": "Thursday", 
         "description": "When stories have abstract topics, coming up with visual components can be a challenge. How the hell do you visually illustrate “borderless economies” or “Medicaid fraud?” Learn how to approach abstract stories from a visual angle and a step-by-step method for creating compelling visual assets. We’ll be free-associating, writing, drawing and collaging, art-school style. What are the methods people can use beyond photo and video to tell stories? We will dive into the use of abstraction, motion, color, and texture to appeal to people’s emotions. Also, get ready for some drawing games that will change how you think about the abstract.", 
         "everyone": "", 
@@ -988,5 +973,20 @@
         "timeblock": "friday-pm-2", 
         "title": "Getting more out of your newsroom experiments", 
         "transcription": ""
-    }
+    },
+    {
+        "day": "Friday", 
+        "description": "", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "friday-closing", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Commons", 
+        "time": "5:15pm", 
+        "timeblock": "friday-evening", 
+        "title": "Closing", 
+        "transcription": "y"
+    } 
 ]

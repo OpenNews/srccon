@@ -1,4 +1,17 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written recordâ€”about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # Welcome to SRCCON 2016!
+
+### Day & Time: Thursday, 9:45am
+
+### Room: Commons
+
 
 DAN: Hello! This is very low. Yes, I do. Hey, everyone. I'm Dan. And welcome to Portland, and welcome to SRCCON!
 
@@ -48,19 +61,13 @@ And also, it's kind of funny... but when we were doing our setup yesterday Bee, 
 
 I don't get to go to any of the sessions because I just have to hang out and make sure that everybody's happy. So I really like doing that. So come find me if you need something.
 
-
-
-DAN: Thank you, Erik. Yeah, if you're looking at the maps, the bathrooms with just a í ½í²© are gender neutral. And the bathrooms with the "M," or "W" before that í ½í²©, those are where you go, if that's how you're feeling. So we've done what we can to make SRCCON as easy for you to be a part of, and, in fact, there is a ton more stuff to think about, in making SRCCON awesome, and so we've made a guide and emailed it to you at almost midnight last night but we made it at srccon.org/how-to-srccon. And it talks a lot more about the various systems and processes that are in place to make this easy and good for you.
+DAN: Thank you, Erik. Yeah, if you're looking at the maps, the bathrooms with just a poop emoji are gender neutral. And the bathrooms with the "M," or "W" before that poop emoji, those are where you go, if that's how you're feeling. So we've done what we can to make SRCCON as easy for you to be a part of, and, in fact, there is a ton more stuff to think about, in making SRCCON awesome, and so we've made a guide and emailed it to you at almost midnight last night but we made it at srccon.org/how-to-srccon. And it talks a lot more about the various systems and processes that are in place to make this easy and good for you.
 
 But here's the thing: We can make SRCCON good but it's you all that make it great. It's all of you participating. It's all of you bringing everything that you have for the next two days, that are really going to â€” that's going to make SRCCON successful.
 
 We can just set it up, but it's you all that make it happen. And so one thing that I want to do real fast is all of you, just for one minute, introduce yourselves to someone at your table that you haven't met yet, and if you've met everyone at your table say hey, take a moment.
 
-
-
 [ Introductions ]
-
-
 
 All right. It's impossible to stop it once it starts. Focus back up for one second, and then you can continue these conversations. Heads up. Thank you. Um...
 

@@ -1,7 +1,18 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # Accessibility in media
 
-## Joanna S. Kao & John Burn-Murdoch
+### Session facilitator(s): Joanna S. Kao, John Burn-Murdoch
 
+### Day & Time: Thursday, 4-5pm
+
+### Room: Classroom 305 
 
 
 JOHN:  Hey, folks.  So --

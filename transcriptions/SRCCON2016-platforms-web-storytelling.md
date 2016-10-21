@@ -1,9 +1,18 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # Get you a CMS that can do both: Platforms, the web, and storytelling imperatives
 
-## Session facilitator(s): David Yee
+### Session facilitator(s): David Yee
 
-## Day & Time: Friday, 4-5pm Room: Boardroom
+### Day & Time: Friday, 4-5pm
 
+### Room: Boardroom
 
 
 DAVID: This is momentous. It's the last session of SRCCON. I'm overwhelmed by a lot of the things that I've sat in on the last couple of days, and I'm sure you have, as well. It's been an interesting opportunity to the think about in this talk, on what I've seen, in the course of the last 24 hours, I've probably had my colleague help me figure out how does this fit in line with what we've heard this week. So I'm just going to frame the conversation first. I'm going to ask you a little bit, who you are. And I'm going to set expectations about this talk because this is a really, really big topic that I called in my notes, get you a CMS that can do both. Which I think is a great title. And...

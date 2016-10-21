@@ -1,10 +1,18 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # Give and Receive: Can we strengthen our community through remote mentorship and office hours?
 
-## Session facilitator(s): Julia Smith
+### Session facilitator(s): Julia Smith
 
-## Day & Time: Friday, 2:30-3:30pm Room: Boardroom
+### Day & Time: Friday, 2:30-3:30pm
 
-
+### Room: Boardroom
 
 JULIA: And on that note we want to talk about office hours and mentorship. So I'm Julia Smith and I work on the technology team at the institute for non-profit news. And the goal for this session is to, sort of, talk about user needs for office hours like people would want to use them, people who offer open office hours, what they're trying to get from it, what inhibits them from being productive in those meetings, and then, how we can use office hours to grow the community, and provide mentorship for people who need it who may not work in a big newsroom, or who may, you know, be far away from the coasts. That, sort of, thing. So so we're going to sort of talk about those user needs first, and then the rest of this session will sort of be a design exercise to go through workflow. So we'll probably split into two groups or something, and work through a new workflow for a new and improved office hours system.
 

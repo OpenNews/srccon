@@ -1,6 +1,18 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # Building news apps for humanity
 
-## Thomas Wilburn
+### Session facilitator(s): Thomas Wilburn
+
+### Day & Time: Thursday, 12-1pm
+
+### Room: Innovation Studio 
 
 So if you're just coming in, if you want to fill in this table here, that would be great OK, hey, I'm going to go ahead and get started. Just real quick and then people can trickle in, but I did want to cover some real simple like preliminary material. This is welcome, by the way, to building news apps for humanity. I'm Thomas Wilburn. I did want to call attention. This is one of the rooms where we are we've got our wonderful transcription taking place, which is fantastic. I wanted to go over a few notes about it. If you are going to talk and this is mostly going to be a discussion-focused session, please introduce yourself, say your name, and it says affiliation. I don't know if you want to network that hard, but you know, go for it, I guess.[laughter]For the transcriber. If you need to go off the record, so if you're going to say something that you're worried about being transcribed and then your boss reading it later as they are browsing through the SRCCON transcripts as they, I'm sure will  do, please feel free to say the next comment is off the record, don't transcribe it, and then when you're done, let them know, let Norma know that it is back on the record so that she can start writing it back down again. And then also, please remember that because this is being recorded, don't speak at a glacial pace, so take your time and that way we can make sure that everything gets captured. So let's go ahead. I did want to start out with a brief kind of introduction to kind of focus and figure out where that discussion is going to go and direct it a little bit. So what we've got here is in 2014, there's a guy called Eric  meyer, he's tremendously influential in the web. In 2014, his daughter, Rebecca died of cancer. She was 6 years old. It was unbelievably tragic and at the end of the year, Facebook showed him this: Here's what your year looked like, with party balloons and partygoers and his daughter, who had died of cancer, right? So this is not a thing where Facebook meant to be cruel, but he described this as inadvertent algorithmic cruelty, right? The people at Facebook had never assumed that your year in review would be anything other than celebratory, right, that would be anything other than people surrounded by partygoers, so when this hit him, he wrote a post about it and he started thinking about how is it that as we build these systems that are auThomasated or that are not necessarily human-controlled, how do we make sure that this kind of inadvertent algorithmic cruelty is not a constant going forward?
 

@@ -1,6 +1,18 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
 # Designing participatory algorithmic decisionmaking processes
 
-## Tara Adiseshan, Linda Sandvik
+### Session facilitator(s): Tara Adiseshan, Linda Sandvik
+
+### Day & Time: Thursday, 2:30-3:30pm
+
+### Room: Innovation Studio 
 
 PARTICIPANT: Welcome, everybody. I think folks are still trickling down from lunch, but I think we're going to go ahead and get started. I'm a little sick right now so I might b sitting down for part of the session but my name is Tara and this is Linda and we're really excited to have you all here.
 
