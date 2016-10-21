@@ -37,4 +37,6 @@ We had a live-captioning team transcribe 26 sessions at SRCCON. Live streams wer
 During and after SRCCON, we have a documentation team writing up session summaries, collecting resource lists, and more. We'll be [publishing the write-ups on Source](https://source.opennews.org) in the weeks that follow the conference, and also collecting write-ups and blog posts from attendees.
 
 
-<div id="sponsortag"><span>Transcription at SRCCON is made possible by <a href="http://www.nytimes.com"></span><img src="/media/img/partners/NYT.png" class="nyt" alt="The New York Times"></a></div>
+<div id="sponsortag">
+    <span>Transcription at SRCCON is made possible by</span> <a href="http://www.nytimes.com"><img src="/media/img/partners/NYT.png" class="nyt" alt="The New York Times"></a>
+</div>

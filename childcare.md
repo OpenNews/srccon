@@ -20,5 +20,6 @@ One of our own staff members' young child happily spent last SRCCON in KiddieCor
 
 You can [check out the registration process](https://www.jotform.com/KiddieCorp/srcconkids) and [learn more about KiddieCorp's staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
 
-<div id="sponsortag"><p><span>Childcare at SRCCON is made possible by</span><a href="http://jsk.stanford.edu/"><img src="/media/img/partners/jsk.jpg" class="childcare" alt="John S Knight Fellowships"></a>
+<div id="sponsortag">
+    <span>Childcare at SRCCON is made possible by</span> <a href="http://jsk.stanford.edu/"><img src="/media/img/partners/jsk.jpg" class="childcare" alt="John S Knight Fellowships"></a>
 </div>
