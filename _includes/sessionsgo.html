@@ -1,0 +1,27 @@
+{% if page.title == 'Join us for SRCCON' %}
+<div id="buttonbox">
+<!--session button-->
+
+<p class="btn" id="pitchbutton">Get Ready to Pitch a Session</p>
+
+<!--<p class="bottomrun">We're already recieving great sessions. <a href="">View the proposals so far.</a></p>-->
+
+<script type="text/javascript">
+document.getElementById("pitchbutton").onclick = function () {
+  location.href = "/sessions/";
+};
+</script>
+<!--end session button -->
+</div>
+{% else %}
+<!--session button-->
+<p class="btn" id="pitchbutton">Pitch a Session</p>
+<!--<p class="bottomrun">We're already recieving great sessions. <a href="">View the proposals so far.</a></p>-->
+
+<script type="text/javascript">
+document.getElementById("pitchbutton").onclick = function () {
+  location.href = "/sessions/pitch";
+};
+</script>
+<!-- end session button -->
+{% endif %}

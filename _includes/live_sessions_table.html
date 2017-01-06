@@ -1,0 +1,12 @@
+<div class="live hidden">
+    <h2 id="live-leader">Right now at SRCCON</h2>
+    <table>{% for session in site.data.schedule %}
+        <tr class="hidden live-{{ session.timeblock }}">
+            <td class="session-time">{{ session.time }}</td>
+            <td><a class="session-title" href="http://schedule.srccon.org/#_session-{{ session.id }}">{{ session.title }}</a>{% if session.transcription != "" %}<br><a class="session-transcript" href="http://srccon.aloft.nu/2016-{{ session.id }}">Live transcript</a>{% endif %}</td>
+        </tr>
+{% endfor %}
+    </table>
+    
+    <a class="btn" href="http://schedule.srccon.org">See the full schedule</a>
+</div>

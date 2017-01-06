@@ -1,0 +1,38 @@
+{% if page.title == 'Join us for SRCCON' %}
+<div id="buttonbox">
+<!--session button-->
+
+<p class="btn" id="pitchbutton">Learn About the Lottery &amp; Get Registered</p>
+
+<!--<p class="bottomrun">We're already receiving great sessions. <a href="">View the proposals so far.</a></p>-->
+
+<script type="text/javascript">
+document.getElementById("pitchbutton").onclick = function () {
+  location.href = "/tickets/";
+};
+</script>
+<!--end session button -->
+</div>
+{% elsif page.title == 'Sessions' %}
+<!--session button-->
+<p class="btn" id="pitchbutton">Find Out About Tickets</p>
+<!--<p class="bottomrun">We're already receiving great sessions. <a href="">View the proposals so far.</a></p>-->
+
+<script type="text/javascript">
+document.getElementById("pitchbutton").onclick = function () {
+  location.href = "/tickets/";
+};
+</script>
+<!-- end session button -->
+{% else %}
+<!--session button-->
+<p class="btn" id="pitchbutton">Place Your Request Now</p>
+<!--<p class="bottomrun">We're already receiving great sessions. <a href="">View the proposals so far.</a></p>-->
+
+<script type="text/javascript">
+document.getElementById("pitchbutton").onclick = function () {
+  location.href = "/tickets/lottery/";
+};
+</script>
+<!-- end session button -->
+{% endif %}

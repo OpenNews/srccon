@@ -1,0 +1,359 @@
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: books
+byline: Nate Bolt
+bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-4VkeqM-4VpqGm-4VkcGz-4Vpr1S-4Vken4-fmXRof-2YtFPR-fmHB44-dFxkXG-7yv4t7-4VnnAn-5A3XSn-4Vnnmv-4VnnqK-9uup4n-4Vnnv6-3ViP2v-4VnngF-4VkgVa-4VkeuZ-4Vkg5R-4VpmbC-4VpnDu-4Vk9rK-4VpqRL-4VpsPb-4VpuU3-4Vkf5D-4Vkdj6-4Vk8uc-b1TXEz-4VkhcX-mF5DPa-fmHXAB-r8mgB3-s5i4Mz-7i3R7t-og8qB5-fmXSCf-7i7Ky9-92YNnD-fmHDut-5C51hV-rMM8b3-k639ok-8FDPAB-apFhiP-rL2vRV-4VptiN
+permalink: /docs/transcripts/datadrivendecisions/index.html
+---
+
+# Data Driving Decision-making—What We Learned from Audiosear.ch
+
+### Session Facilitator(s): Anne Wootton, Peter Karman
+
+### Day & Time: Friday, 3-4pm
+
+### Room: Minnesota
+
+
+Testing testing testing.
+
+
+Okay.
+
+
+How are we doing for time? It's after 3:00. We should start. Thanks for being patient while we solve our technical problems.
+
+
+And maybe I'll leave it on this slide for now, because we're going to talk about the hypothesis for a second. But first we should introduce ourselves. I'm Anne.
+
+
+And I'm Peter.
+
+
+And we work together at Pop Up Archive. So I'll tell you first a little bit about what Pop Up Archive does and what led us to start this new project and series of experiments. Which is where our—the experience that we want to share with you about how we use data to drive our decisions and run various tests came from. Pop Up Archive—I started with my co-founder, Bailey, who unfortunately is not here, in 2012, through a night news challenge data grant. And we work with sound. Specifically spoken word. To make sound searchable. And what that means is we work with radio producers and stations, media companies, archives, universities, to index audio. Whether it's a single file that gets dragged and dropped onto our website or a vast quantity of, say, thousands of hours of Studs Turkel's broadcasts when he was on WNT for 40 years, every day of the week for an hour a day. And so journalists use Pop Up Archive to help them log their raw tape, and produce material more quickly. Whether it's a story or an audio piece, or some combination of both. What we do is work with a variety of software. So speech-to-text in the first place, to create machine transcriptions, and then some semantic analysis software to identify topics. Things like locations and people in audio. And so that can be useful for finished work, whether it's an archival collection or a radio story or a podcast that came out yesterday. To help it be searchable to audiences, indexable, by search engines, and so we've been at that for, you know, going on three years now. As our team grew last year, and the buzz around podcasts was sort of exploding, probably because of the podcast that shall not be named, Serial, we saw this opportunity—and you know, we can talk offline about this all you want, but I think podcasts as an industry are a thing that have been around for over a decade now and have been growing slowly and steadily all along, regardless of the journalistic buzz that may crop up around it or the echo chambers that we in particular have been privy to. So we wanted to take an opportunity to go out and where Pop Up Archive is very much a push model, and we have partners and customers who elect to have us index sound for them or provide a workspace for their reporters to edit transcripts and embed transcripts and that kind of thing. We wanted to go out and look at the—for starters, at least—the most popular, high performing podcasts, and use our software, use the sort of platform that we already had, to index all that material, and start to look at patterns in that data and see how basically creating a full text search engine and various other functionality or capabilities around that could be useful for podcasting as an industry, for podcasters as producers, for their listeners, as an audience. And I think even before we got to that point, we had a sort of an offsite meeting. There are five of us. Four of us work in Oakland, California. Peter is in Kansas. So we all got together at the end of last year, and spent a week sort of consolidating all of our ideas around what the mission of Pop Up Archive was, making sure we're all on the same page, doing some team building stuff, playing guitar, and as part of that, we had sort of started to project out end goals for Pop Up Archive, or what has since become Audiosear.ch, the new thing we're working on. Looking really far into the future, and making all kinds of assumptions, and bringing all sorts of pre-conceived notions and preferences and biases into it. So we sort of slowed ourselves down at that point and said—how could we come up with some very basic questions or hypotheses? And the simplest ways possible of testing those. And ultimately, having metrics or parameters for testing them that will enable us to be sort of objective about the way we go about this. And take ego out of the process, for one thing, but really be as sort of methodical and scientific about it as possible. So I'll let Peter talk a little bit more about hypothesis-driven decision making, data-driven decision making, and then we can show you sort of what the progression of our hypotheses and tests and data looked like, and then we're gonna turn it over to you guys to do some stuff too.
+
+
+Yeah. So I want to preface talking about hypotheses by saying—even though the language is, like, from science, that this is not science. This is art and science kind of commingled and often blurred, and just like a lot of things that we do in software design, and so forth, there's a certain amount of science approach and methodology and sort of rigor that we want to have, but reality is often far more messy, and so we make sort of calls about things, and decisions that sometimes don't have data behind them, or have more intuitive data behind them, that sometimes we struggle to articulate. So hypothesis decision making for us was sort of a way of deciding on a common language to use, when we were talking about where we wanted to place our time and energy. And so these three statements on this slide—we believe—fill in the blank. This is like Mad Libs for decision making. We believe this capability will result in this outcome, and we will know we have succeeded when... Fill in the blank. And this was like a little game we decided we were going to play, just to see how it would go. What this allowed us to do was to sort of surface what our first principles or sort of basic assumptions were about things, because instead of coming with—I want to build a widget—we came with—I think if... I believe that if we had a widget, it would result in making a lot of money. And I would know that, because my bank account would get higher. Right? The process of playing that game allowed us to sort of zero in on what each of the five members of our team were sort of bringing to the table, in terms of what our own hopes and aspirations were for what we were going to do. And also allowed us to see that there were some commonalities around those. And to talk about them in a way that we could share in common. My own experience of it was that it felt very awkward at first. It sort of felt like we were playing dressup or something. In terms of talking this way. But pretty soon after we'd done it for, you know, that initial meeting and then in the weeks subsequent to that, it allowed us to—it became a shorthand for a lot of our process, and that actually saved us some time in the long run, I think, because we were able to frame things in a common way.
+
+
+You could ask a question like—so what's the hypothesis here? Instead of, like, I'm not so sure that what you're saying makes sense, or, you know, raising issues with something that a person had brought up. In what felt like a way more subjective manner, inevitably, because we're all people, at the end of the day. So I don't know—you started talking about some of the assumptions. And these are the initial hypotheses. Assumptions and hypotheses that we came up with in December. And there's—I mean, like Peter said, it felt kind of awkward at first. There are also sort of two aspects to this for us. One is the framework of working within these hypotheses and tests to begin with, and to my mind, the other piece of it was figuring out which data to track, to actually evaluate the hypotheses successfully. So I'm going to run you through a sort of—the progression of metric spreadsheets that we've had over the months since then, which have sort of adapted to, we think, better reflect what we need them to, to assess these things and make decisions. So... I don't know. Peter, do you want to, like, start just sort of talking through—I can do this too, but I feel like they're going to hear from me a lot on the other metric spreadsheets.
+
+
+Sure. One of the ones that just caught my eye, looking at this, that I remember quite clearly, was number five there, which says—Google includes an audio tab. That was shorthand for—when you go to Google, you can search the web. You can search images. You can search products. But there's no audio tab. And I think—I might have been the one that brought this one. I was like—that would be my goal. That Google would have an audio tab. That you could go and search all the internet's audio. So then when I... But in order to... That was my end goal. Then I had to sort of think about, like, how would I frame that as a hypothesis? I believe that...
+
+
+And just to quickly interject, in coming up with these assumptions, you have to scope where the assumptions are too. Being like—I assume that a lot of corn grows in Iowa. It was like... Fundamentally... Coming out in part of our talks about mission and I think the way this could be applied to some of what you guys are doing—what the goal for a particular project or story or coverage is going to be. So for us, it was society is missing valuable information from recorded voices, and if we have solved this problem, here are some assumptions about the way the world will work, like Peter just said. Also just to clarify—in the column where you see the assumptions on the far left, they don't directly correlate to everything to the right of it. So the hypotheses are sort of separately listed out there. It's not like a one to one correlation. And then the tests definitely relate to the hypotheses.
+
+
+Yeah. So what we did is we sort of sat down and wrote all these out. We wanted—we had some assumptions about things like... People would pay us some money if they could do X. And we wanted to unpack that a little bit more and get more granular with it. People actually—so we'd take a step back and say—people are missing the ability to do X. And whether they know it or not. And we think if we could supply X, that would end up profiting us. So we went through the process of doing these. And I'm not going to go into too much detail here, unless people are very interested in our particular hypotheses.
+
+
+You can ask questions at any time.
+
+
+Feel free to interrupt at any time. But at the end of this sort of initial period, we walked away with—I don't know how many. A dozen?
+
+
+A dozen. And we ranked them, in terms of how hard they would be on a scale of one to five, and we went through—and everything that's highlighted in green are what we decided we really wanted to do. And I remember Peter having the idea that we would like to knock off all the easy ones because they were easy, and then we got into deeper discussion about the 3s and the 4s and the 5s, and you can see on the bottom we've left some of these out. Which is cool, to come back to this, because we've totally done all these things. So we have our hypotheses chosen, then we had to write tests for them. So it sort of moves us to the next side of this.
+
+
+Right. And so... Writing tests—or maybe that's too technical a phrase, although it is kind of what we did in some ways—it's been impressed upon us as an industry, I think, for the last ten plus years or so that data is good. Right? We should collect lots of data. Whether it's Google Analytics, or whatever—your tool du jour. We want to be able to make data-driven decisions, because that's a good thing. There's a certain art, though. Because there's so much data that you could collect from a website, for example. How much time are people spending there, what do they click on when they're there, where do they enter, where do they leave—that you could spend a lot of time trying to drink from the fire hose. But it's sometimes helpful to sort of think about what are the data points that would help me answer my question? And so that for us... Led us down the path of saying—well, we could... We're going to collect as much data as we can, but we're only going to pay attention to a few key metrics. Because those are the things that we've sort of decided amongst ourselves are going to be the important ones for helping us to determine whether this hypothesis can be proven or not. And we had a variety of tools at our disposal to do that. One of the tools we used a lot early on—even before this process—was a product called Mixpanel, which allows you to register events that happen on your website. Like if somebody clicked on this, or somebody submitted that form or that kind of a thing. And what it also allowed you to do was to define work flows or pipelines...
+
+
+Funnels.
+
+
+Funnels through which you could say... Someone came to my site and clicked on something. What I was interested in next was—were they going to sign up and give me their email address, or were they going to abandon the site? And if they signed up and gave me their email address, were they then willing to also give me their credit card information? So you could sort of pre-define that as a funnel or pipeline that you were interested in. And Mixpanel then let us track the progression of those activities. That I think was really helpful for us, especially when we weren't exactly sure what data we wanted to pay attention to. Because we had some specific use cases that were tied to these hypotheses, that we could then make real in the tool, and then see. Did people in fact follow through on this progression of steps that we thought they would? At a certain point, we reached some limits around what we could do with Mixpanel. I think primarily because we were interested in collecting more data than could fit neatly into any given particular pipeline. And so we started experimenting with another product called Optimizely, which basically lets you do A/B testing on your site. And started to collect some data from that. What text should we put on the button? Well I think it should say foobar, and I think it should say I love Minneapolis. Well, what's the action? What do we want people to do? The only way to really know what it should say is to try both things, and see who clicks on it more. Right? So Optimizely was a really helpful way to be able to do that. Because it allowed us to pre-define a certain set of options and it would rotate through those and you could gather data about that. And then of course Google Analytics. We were using that already to sort of get basic usage on the site. What you're able to do now—I'm sure many of you do this—is that you can actually fire events from the server rather than on the client side with JavaScript, so we started pushing lots of data into Google Analytics that wasn't necessarily a result of somebody clicking on something, but it was background events or API calls that there was no JavaScript to execute, for example. But we wanted to funnel all that data into a single place so that we could start to use some of the nifty reporting tools that that offered us, and see all that activity in a single place.
+
+
+So, I mean, this is our first month's worth of metrics, and it sort of illustrates the fire hose that Peter was talking about. We're getting data from all these different places. Someone has to make sense. This was just a dump of Mixpanel events, basically. And then we were forced pretty quickly, given the wide range of things we could track, to figure out which ones we needed to put the most energy into tracking. And I think one of the reasons that tools like Mixpanel and Optimizely had been valuable at some points but not as valuable for us as they could have been in other situations was that—they were really great at testing and fine tuning User Experience components of a website, or UI elements of a website. And that was interesting to us for certain hypotheses, but we were asking way broader and more overarching questions about parts of it. And in fact, being forced to phrase things in terms of hypotheses led us to some necessary conversations and gave us a helpful foundation for talking about things, like—we're running all these tests. A lot of them are really UI focused. Are we trying to build a destination site for podcasts? Is that actually a thing that we want to do? Is that... Is the assumption that there's a need for that something that we really want to follow through on and be devoting our energy to? Or... Which... To like... Spoiler alert, given Pop Up Archive's background and where most of our interests and, frankly, expertise lay... Do we want to focus more on something that's an API service, that is intended primarily for enterprises, that could be used as sort of a white label data source? And by developer communities, right? You'll see... So just to root this in some form of reality, Audiosear.ch today looks like this. It changes all the time. We've added all sorts of different stuff to it, as we've been testing out these hypotheses. And you know, short of the fact that we put API on the homepage, this is a work in progress, right? It's a place where we're sort of showcasing some of the capabilities that we've been able to develop, and then we use that in turn as a measurement for some of our tests as well. Like, is this generating buzz or interest? Are people contacting us, because they've seen what we've shown through this website? And it's not about how many unique visitors we have or how much the traffic is growing or how much monthly active users we have, but it's more about, in some cases, the more qualitative output that we're seeing from it, or results that we're seeing from it, and it's still fundamentally a place where we can learn things about user behavior too that we think are helpful to answer our hypotheses, but to then inform our decision about where we go with this project and how it can ultimately be used by the people we want it to be used by or who we see having a need for it.
+
+
+So, for example, we had a hypothesis early on that... We think that if people are offered suggestions about what they should listen to, that that would increase the amount of time that they spend on our website. Rather than just sort of passively letting them discover us through organic search, we want to now proactively encourage them to continue to spend time on it. Well, part of the original—I mean, as Anne was just alluding to—what that led us to talk about was—do we really care if people spend a lot of time on our website? Is that important to us? Maybe it's not important to us, because we're a destination—we want to be a destination site. Maybe it's important to us because then we can go to potential customers and say—if you use us as a recommendation service, to help keep people on your site, that would be a good product to have. Right? We can help increase the amount of time that people spend on your website. Not necessarily on our website. So what we did was we put together a hypothesis that just simply said—we think showing related audio will increase time on site. Not necessarily because we're interested in keeping eyeballs on our site, but we can use that as evidence to say—you should buy our product. That'll help keep eyeballs on your site. And we put together some basic algorithms to identify—what is a piece of related audio? How can I suggest something that's similar? How can I determine whether A is similar to B? And we came up with just some basic tests around that, that we could run for ourselves, and then we put it out in the wild and kept track of what people clicked on. Did time on site go up or down? Did the presence or absence of related audio suggestions on a particular place in the page make a difference in anything? And we, I think, answered that—yes. Making suggestions about related things does help keep people interested in things. But then we started to be—so we answered that hypothesis in the affirmative. Then we want one step further. We said—let's create a second one out of that. We think that if we put... If we change our algorithm for how we determine what's similar, that will increase the chances that someone will click on something. And so now we can—now we're in the process of testing that out. If we tweak the knob this way, people will spend more time. If we tweak the knob that way, people will spend more time. And use the tools we've already got established to help measure that.
+
+
+To get high level for one more quick moment, you may notice—I've had you on our February metrics page and our March metrics page and it's this big old data dump and you see all the tabs below. Here are the tags that people are clicking on our website, one by one. Here are the different things getting played on the site, the different categories people tend to click on. Go to Google Analytics for that information. Here are... I think this is, like, where we were still waiting for some of the Mixpanel data to get seeded, and in March, we're very much in a similar place. Here are the search terms that are dragging people to the site. All this to say—this was our experience of the firehose. And our metrics checkins would be really lengthy and it was hard to know what to latch onto in all of that. So over time—first of all, fundamentally, we started couching all of our metrics checkins in the hypotheses themselves. So we were like—created this separate tab, we have some of the hypotheses that Peter has also mentioned. Like related audio improves engagement on the site. Here's the test for that. Here's the way that we're going to track it. And then increasingly, we've built out—like, who's responsible when we assess it and what we do with that. Putting the hypotheses, like, at the top of each page, and this really—it's been a work in progress, right? So you slowly start to see them appear. Okay. One hypothesis. Does organic search traffic increase when you have transcripts for audio on the website? And the site is relatively new. That's going to take some time. Doing that helped the sort of executive summary of our metrics checkins, which we do weekly—get a lot of shorter. And then all this data is still here. And people who are curious about something can go poke around with it if they want. It may actually end up being valuable to us down the road, but we're really focused on three or four questions that are valuable to us, and their priority may change over time. One challenge we also faced was—what's a good threshold for action? If we have a hypothesis that people want to share segments from within audio, and I think I can probably find this from, like, May's... All right. 
+
+I'll touch on Optimizely one more time in a second, but if we look at this hypothesis like—people want to share transcript lines. This is specifically about sharing transcript lines, but we found you've got to start somewhere. Rather than sort of—people want to share segments from within audio. But anyway, this—track percent of sessions with snippet—any non-zero tweet results. So if two people do the thing, what are you supposed to do with that? It's non-zero. But then what? And I think what we've learned in our learning is that—by starting somewhere with a hypothesis like this, and getting some sort of result, it forces you to then move on from that hypothesis. And in this particular case, for example, we were able to sort of reassess it, and the hypothesis matured and sort of blossomed into a few others, which were not just like beating a dead horse, like we were able to do it—maybe Twitter isn't the best way to do this, and maybe transcript lines aren't the thing people want to share. So we got two more hypothesis lines to test as a result of this one. And if we don't see a significant change from baseline that we've established, we know to junk it and move on. It's also tough with tools like Optimizely and these more sort of fundamental questions about behaviors that are developing or nonexistent to test everything at once. Because you've got this matrix of possibilities, and the more you add, the more the permutations just sort of grow exponentially. So we really just try to break it down to one thing and do it as quickly and as efficiently as we can so we can take what we learned from that and apply it back into it. 
+
+We could be A/B testing this too. Share this line? Share this segment? I don't know. But fundamentally, there's a bigger question that we're asking there. And so then I think you'll see—by the time we get over to this month, Emily is our colleague who works on this the most. And so she's come up with ways of categorizing our hypotheses, which can also be helpful, and then when we look at—I think probably behaviors is best. She's just like—okay, related audio improves engagement on the site. People want to share transcript lines. And she'll say—this week is the deadline for this hypothesis. So, like, let's go over it right now. And then we can look and see—you know, here are... In orange, related audio clicks, as compared to tweets, as a percentage of traffic on the site. And back to the firehose question—are you looking at total visits, unique visits, non-bounce visits, which—we usually err towards the latter, because those engage the most meaningful visitors to the site—are you looking at this stuff as a percentage of total behavior, are you looking at it as raw numbers, which—for organic search, for example, the raw numbers may be steadily growing, marching along, but then we write a blog post that's popular, and so as a percentage of our traffic it goes down a lot because there's been a ton of referrals that week. So these are questions we all had to answer as we went along.
+
+
+And none of us are statisticians. Sometimes we kind of shrug and go—I don't know. What's the more meaningful thing here? So to echo back to what I said in the beginning about art versus science, there's a certain interpretative art that has to go into this data. That says—does it feel like I should do something with this? Does it feel like this is important or not?
+
+
+A quick example of that and the way we've started augmenting the metrics themselves, because there's so much information here, so people—we can look at this and quickly grab the takeaways—you'll notice in blue Emily's made notes next to this chart, of all the behaviors of this site. These are all the Mixpanel events that we're tracking. The taste maker grid is something that we had just deployed, it had just been released, so Peter—feel free to disagree with me on this if you want, but to look at the taste maker grid and see it come in—none of us has huge numbers, but we defined our statistical significance to be like—as long as it's in the hundreds, we're willing to pull certain conclusions from it—the fact that it sort of came in at this place, where we have other behaviors that have been on the site for weeks or months, that aren't seeing the same type of interaction, like, that's the type of thing where you're like—huh, that's interesting. That's significant. And boy, the taste maker stuff you can only get to if you click an arrow to expand it and then scroll down past the fold of the homepage. How does that affect this? Maybe we should A/B test the homepage now. We've had a search bar up there forever. So that's how it's like—it's definitely more of an art than a science, because we're sort of feeling our way through it, but using this data to ground ourselves as much as we can.
+
+
+So yeah.
+
+
+This is a quick question. Or maybe two questions. The first question—is sounds like you do a lot of passive data collection. And maybe you were about to just say this, but... Do you ever just ask people what they think and what they do on the site?
+
+
+All the time, yeah. All the time.
+
+
+But, like, in a uniform, analyzable way?
+
+
+Putting surveys out and that kind of thing? We have not done any official surveys.
+
+
+We have, actually.
+
+
+When we started, you mean? When we started? Yeah.
+
+
+Well, they were in March.
+
+
+For the Audiosear.ch tool?
+
+
+So we've put surveys out that aren't necessarily explicitly directed at behaviors on the Audiosear.ch site, for the reason I kind of said earlier, which is—we're not trying to perfect it as a destination site per se, but we're more interested in the behaviors underlying it. We had a social sharing survey. How do you discover new podcasts? And how do you discuss podcasts with other people, for example. And so from there, we're able—the top three responses were—word of mouth, other podcasts, and Twitter. Which is, I think, partly where some of our bias towards Twitter has come in. A lot of the taste maker information and the sharing stuff is a little Twitter-focused. But we're also revisiting that, as we question what shape sharing behavior actually works for most people. The other survey we did was around listening. How do you listen to podcasts? Where do you get them? What apps do you use? That kind of thing.
+
+
+So does that, like, I don't know... It sounds like you did it once and maybe... Are you planning on doing it again in light of all this other passive data collection? I mean, would you tend to value an actual person's response more than, like, a passive behavioral inference? Or would you...
+
+
+That's a great question. I'm interested in what Anne's going to answer. And I'm going to start.
+
+
+Yeah, please, please.
+
+
+My wife is a university researcher. So we have this—you can imagine, like, the dinner topic conversation around this kind of stuff. I actually trust, personally, the passive stuff more. And that's because I pay attention to cowpads. And I think people, when they fill out surveys, can be unconscious in how they answer sometimes. They can lie. They can give aspirational answers, rather than real answers. I'm actually interested in what you actually click on, not what you think you might like to click on. But that's my bias. And my wife actually disagrees with me. So this is what makes it fun to be married to her. So how would you answer that question?
+
+
+It also seems like it's... You keep mentioning—it's an art. There's an art to writing surveys.
+
+
+Yes, there is.
+
+
+There definitely is. And my answer is: It's both. So I don't share quite the bias that Peter does against survey data. But the way that the survey data has been most valuable to me is that it will give us a sense for general trends that we might not be able to pick up on without building out a lot of tests on the website. Like, for example, everybody said they look for podcasts on Twitter. Nobody said Facebook. I have no idea why, and I wouldn't have guessed that, necessarily. So those kinds of general preferences, I guess, I find myself internalizing as I'm coming up with these. And then on an even more qualitative level, depending on who we're talking to and what they're saying, if there's a big podcasting network or audio distributor saying—I saw that latest beta testing email and the stuff you're doing is really interesting. We should talk about it. Okay. That's significant. That's one person, but speaking on behalf of arguably a larger organization that could do meaningful work with us. So that type of qualitative feedback is helpful. And some of our hypotheses get evaluated that way. Okay, this related audio hypothesis has been validated in some ways because people are noticing, and people who could really take it to the next step with us are talking about it.
+
+
+And it also seems like if you had a hypothesis, like this taste maker grid thing—people want to find audio picked by people. You could ask—are you trying to find audio picked by people? And if people say... Yes... Then your hypothesis might be confirmed. It might not be.
+
+
+Yeah. Yeah.
+
+
+I mean, I don't know how that would work functionally on the site.
+
+
+No, but those are... Yeah, no. I think they're good questions.
+
+
+Just a one question... Yes/no kind of thing.
+
+
+I think it's worth asking the question.
+
+
+And can circumvent a lot of—because a lot of these—like Optimizely lets you test things without building them out. We have dummy things on the site, that say feature coming soon, just to see what people will click on. And we'll talk about this really quickly, because we want you guys to do stuff for a while—is that it will tell you when your data has reached its statistical significance. So that's really helpful. Because we're like—I don't know. Five people clicked on it. What is that supposed to mean? And sometimes they'll say—okay, you're trying to figure out if people are more interested, to get deeper into the audio, if they'll click on transcript or full player or search. Even with just dozens of responses to this prompt, we have statistically significant results, and as a matter of fact, transcript is the winner. On the other hand, looking at engagement, as measured by that, they're like—good luck. You need another 55,000 visitors before you know if this is statistically significant. So I found that to be super helpful. But it's a great point. To be able to ask people—to supplement this—would you rather get audio picked by taste makers in the industry that you care about or your friends? Those would be things that might be hard to build... Or could be hard to build. There are ways we could build it in a simple test. Yeah.
+
+
+I'm curious what your mechanism is for deciding if the hypothesis was fault or if the test wasn't exactly the right test to be using to confirm or deny. Are you looking at the wrong stats, or were you wrong about the... And sort of how you guys in your conversations when you check back in... How do you figure that out, and how does it change with time?
+
+
+So this happened yesterday. For us. In our meeting that we had over there. Calling to our folks—
+
+
+Underneath the airplane.
+
+
+When we called our folks in Oakland. We were talking specifically about... Oh, the sharing of transcripts.
+
+
+I showed you guys this one.
+
+
+We heard qualitatively in the conversation and in the survey that Anne mentioned earlier—we heard qualitatively that people really wanted the ability to share their experience with audio. And we... When you have a hammer, every problem looks like a nail kind of thing. So we had a hammer called full text search. And we thought—what if we hit the problem of sharing with that hammer? What if people... And in many ways, that allowed us to take the problem of audio out of the equation. Because we turned it into a text problem, not an audio problem. So we made the ability to click on a button next to a line of text, as you were listening to audio or reading it on the page—you could click on the line and tweet it. Tweet the line, tweet a link to the page. Right? We thought—oh, this is a great way to share things, we think. Right? It got... Not a lot of usage. So then we started to ask ourselves—this is the conversation we had yesterday.
+
+
+Yeah, I'm just going to show you. So we have—you know, 299 bounced sessions, here are the various things people are doing, they're searching within the transcript, clicking on our link for the API, and then tweet is all the way down here.
+
+
+So it's 7 out of however many hundred it was. That's not many. Was it worth all the time we put into developing it? Was there a return on investment there? So I think, to summarize the conversation, which was your question... I think we all agreed... Yeah, that's not a very big number. And then we asked ourselves... Somebody said... Well, is it that we just did it the wrong way? Could we have solved the problem of sharing in some other way? Could we improve upon what we did and make that experiment better? Reduce the number of clicks? Or whatever? Or could we even approach it at a 90-degree shift, and maybe it's really more about audio. Maybe people want to be able to—when they hear something and they're listening to it, they want to be able to talk back to it. Share that with my friend. You know? Siri or whoever. That would be a totally different hammer to approach—which then makes it look like a different nail too, right? But that, I think, is what the process would look like. Were we to keep iterating on that. Does that help?
+
+
+Yeah.
+
+
+So we have a little thing we want people to help us with. If you get into a group, we want to practice making hypotheses. And you can... Please. You can pick any problem you want. If you can't think of one, think of something you might want to improve about SRCCON. All right? So we'll do this for, like, say five, six minutes. And then gather back and share them with each other. So just play the game with us.
+
+
+Yeah, and you really don't have to be serious. One hypothesis we found ourselves coming up with yesterday was like—ooh yeah, we could use Optimizely to test this thing. And Peter was like... Do we really need to? And maybe the hypothesis was—Optimizely is a helpful tool. We kind of already know that. Optimizely continues to be a helpful tool.
+
+
+And it's a fun tool.
+
+
+So do whatever you want.
+
+
+Talk amongst yourselves.
+
+(breakout sessions)
+
+
+All right. We gave you more time because you were having so much fun talking. Let's go around the room and share hypotheses.
+
+
+You're starting with me?
+
+
+Tony, you've been elected by a table of your peers.
+
+
+By your maniacal peer of one.
+
+
+So we took your SRCCON suggestion. We believe that the increased availability of a selection of high quality teas in the break room will result in fewer SRCCON attendees leaving the conference to go to Starbucks or some other place.
+
+
+I like this. Yes.
+
+
+To obtain tea. We will know we have succeeded when more SRCCON attendees are staying put on campus with their tea.
+
+
+And how would you measure it?
+
+
+We would measure the number of people observed...
+
+
+Plant a person in each room.
+
+
+You basically have to do that. Measure the number of people returning with a big tea thing.
+
+
+Excellent. Here's another suggestion for how you could evaluate it. Go around the trash cans at the end of the day and count the number of Starbucks cups.
+
+
+I already do that.
+
+(laughter)
+
+
+We've got it in SPSS. We're doing multi-linear projections.
+
+
+I like it.
+
+
+We can't afford SPSS.
+
+
+We're ruling out multi-co-linearity.
+
+
+You should always count all the things. Yes. Figure that out. How about you guys? What did you come up with?
+
+
+You want to talk?
+
+
+Go ahead.
+
+
+We take this challenge of improve SRCCON. So we believe SRCCON can double its size and still be intimate.
+
+
+Okay.
+
+
+It will result in more knowledge sharing and more (inaudible). And we will know it has succeeded when it takes two minutes to sell out.
+
+
+Two minutes instead of 46 seconds to sell out.
+
+
+The number of smaller newsrooms increase.
+
+
+In terms of representation?
+
+
+Yeah.
+
+
+The increase of the number of international participants. I'm alone.
+
+
+Aww.
+
+
+There are those two dudes from Argentina.
+
+
+Yeah. I mean... [making a soccer joke] We hate them over in Brazil. We hate them. We have a wider variety of sessions going on simultaneously. So that they don't overcrowd. Right? That's it.
+
+
+That's great. That was lovely. All right.
+
+
+One question I would ask—I know we're going to go a tiny bit over, but... How do you evaluate the quality of the experience of people? That seems like one thing that might be hard. It stays intimate. How do you gauge that intimacy or test that intimacy?
+
+
+Did you talk about that at all?
+
+
+Not really, no.
+
+
+This is the common thing that we will do in our team, is someone will say—da-da-da. And we'll say—yeah, but how would you measure that?
+
+
+Instead of saying—Peter, why aren't you thinking about the fact that we'll have no way of knowing whether or not it's still intimate. Well, to properly evaluate that hypothesis... Everybody is kind of happy and it feels like playing dressup. What?
+
+
+All right. This table.
+
+
+Sure. Okay. We actually did something different. We actually looked at a real life project that I happened to have done for work. And in, like, early June, and we've actually gotten metrics back on it. And so we started talking about things that we possibly could have done differently or better to have gotten a different outcome. So the project I was talking about—that we were talking about—was—one is like a visual storytelling snowfall-ish representation of a 200-page research report. I work for Pew Research, so we make a lot of those. Versus a single interactive, which sort of took a chunk of information from the snowfall-ish thing and was a single thing that you could interact with. So some of the things that we came up with were the fact that the single interactive was a little bit more, like, bite-sized, and easily consumable. And something that reporters and other people who wanted to pick this particular story up could easily refer to, we also talked about embedability, as far as the single interactive, versus some of the interactive components that were part of the snowfall thing. And then as far as exposure, we talked about how the single interactive got picked up by Vox, which probably vastly contributed to more clicks, more page impressions, more everything. It got about 50% more traffic than the snowfall thing. But the snowfall thing, in contrast, got picked up by the AP, and was written about by 200 different news outlets. So we talked about the fact that the mediums were different. So wire service versus an online presence.
+
+
+Interesting. I love the real world stuff. That's great.
+
+
+All right. We're out of time. So... I want to hear, though, from the last table here.
+
+
+Ours is not dissimilar from the first one.
+
+
+Counting cups?
+
+
+Okay. Well, we had also said basically that there were two things—the easier to measure thing and the harder to measure thing. One of which was more interesting. The harder to measure thing was... Does believing that having coffee and lunch will facilitate better conversations by making sure that everybody stays around the conference... And that's harder to measure, because that's sort of an all-day sort of thing. But we figured there would be ways to track it, like what's the head count in and out of the doors, for example. And the easier to measure thing is whether lunch onsite specifically facilitates better contact and conversation between participants, and that's one of those things that you can just stand out there and do a head count.
+
+
+And also watch people that seem to be having conversations as opposed to sitting there on their laptop or something.
+
+
+And counting the number of people who are eating alone or not talking. Yeah, yeah, interesting.
+
+
+And start by counting the number of lunches that got eaten versus the number of people who were here today.
+
+
+And since this is a restricted domain, you can count the number of people compared to the number of attendees.
+
+
+That's great. So we're out of time. I will leave you just with one thing, unless there's anything you want to say. The one topic of conversation I really wanted to have, that we ran out of time for, which probably deserves its whole other thing, is cultural. Which is: What's attractive to you about this idea? What's unattractive to you about this idea? And what would prevent you from trying to implement this kind of a thing in your own organization? So I'll just leave you with those questions, and if you come up with an answer, tweet it at me. Thanks very much.
+
+
+Yeah. Thanks.
+
+(applause)

@@ -1,3 +1,6 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+name: SRCCON
+markdown: kramdown
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+gems:
+  - jekyll-redirect-from
