@@ -1,3 +1,4 @@
+language: bash
 before_deploy: pip install --user awscli
 deploy:
   provider: script
