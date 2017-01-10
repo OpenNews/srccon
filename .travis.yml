@@ -3,4 +3,9 @@ rvm:
   - 2.1
 install: gem install jekyll -v 2.4.0 && gem install jekyll-redirect-from && gem install s3_website
 script: jekyll build
-after_success: s3_website push
+after_success:
+  - test $TRAVIS_BRANCH = "master" && s3_website push --config-dir=_config/production/
+branches:
+  only:
+  - master
+  - staging
