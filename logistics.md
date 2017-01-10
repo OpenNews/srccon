@@ -14,7 +14,7 @@ SRCCON will run from 9am till 10pm on Thursday, July 28 (including breakfast and
 
 ## Lodging
 
-Our discounted room block at the [Marriott Courtyard Portland City Center](http://www.marriott.com/hotels/travel/pdxpc-courtyard-portland-city-center/), 550 SW Oak, is fully booked. There are still rooms available at the hotel, but they are regular rate (with slight discounts reported via various online booking systems). There are lots of other hotels available near the conference venue, including:
+Our discounted room block at the [Marriott Courtyard Portland City Center](http://www.marriott.com/hotels/travel/pdxpc-courtyard-portland-city-center/), 550 SW Oak Street, is fully booked. There are still rooms available at the hotel, but they are regular rate (with slight discounts reported via various online booking systems). There are lots of other hotels available near the conference venue, including:
 
 **[The Benson](https://www.coasthotels.com/hotels/oregon/portland/the-benson-hotel/) ($269)**
 <br>0.4 miles away
