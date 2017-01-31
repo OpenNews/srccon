@@ -46,7 +46,7 @@ When we notify scholarship recipients, we will include information about how to 
 We're able to offer mostly $500 scholarships at this time. This year, we are also offering an extremely small number of $1,000 scholarships for exceptionally high travel costs. We've added a question to the form to capture more information about the level of need for travel costs.
 
 ## What are other ways I can cover the cost of my travel?
-Luckily, Portland is a relatively cheap city once you arrive. Also, this entire site is a [GitHub pages repo](https://github.com/OpenNews/srccon), so if you, say, wanted to add a link to a room-share board, you could go right ahead and do that. Or you can [email with any suggestions](erika@mozillafoundation.org).
+Luckily, Portland is a relatively cheap city once you arrive. Also, this entire site is a [GitHub pages repo](https://github.com/OpenNews/srccon), so if you, say, wanted to add a link to a room-share board, you could go right ahead and do that. Or you can [email with any suggestions](erika@opennews.org).
 
 ## Questions not covered here?
 [Email us](srccon@opennews.org).

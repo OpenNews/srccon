@@ -94,7 +94,7 @@ Our participants represent organizations ranging from massive to tiny, and come 
 
 <ul>
 <li><a href="mailto:srccon@opennews.org">Email us with questions</a></li>
-<li><a href="mailto:dan@mozillafoundation.org">Email us for sponsor info</a></li>
+<li><a href="mailto:dan@opennews.org">Email us for sponsor info</a></li>
 <li><a href="https://www.twitter.com/srccon">Follow us on Twitter</a></li>
 </ul>
 
