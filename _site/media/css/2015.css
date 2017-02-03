@@ -29,8 +29,8 @@ header {
 
 header.homepage {
   height: 600px;
-  background-size: 1200px;
-  background-image: url(/media/img/2016/portland.jpg);
+  width: 100%;
+  background-image: url(/media/img/2017/minneapolis.jpg);
 }
 
 header.mcnamara {
@@ -209,7 +209,15 @@ div.pink {
   margin-bottom: 50px;
 }
 
-div.pink:after {
+div.blue {
+  background-color: #c5ecec;
+  width: 1500px;
+  margin-left: -50%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+div.pink:after, div.blue:after {
       content: '';
       position: absolute;
       width: 70px;
@@ -221,7 +229,7 @@ div.pink:after {
       background: #f9dcdc;
 }
 
-div.pink:before {
+div.pink:before, div.blue:before {
       content: '';
       position: absolute;
       width: 70px;
@@ -231,6 +239,11 @@ div.pink:before {
       left: 45%;
       margin-left: -25px;
       background:white;
+}
+
+div.blue:after {
+  background: #c5ecec;
+}
 }
 
 
@@ -257,8 +270,7 @@ body.proposals header nav ul li#proposals a {
 
 .homepage #headbox {
   max-width: 960px;
-  padding-top: 20%;
-  padding-left: 150px;
+  padding-top: 10%;
 }
 
 #headbox h2 {
@@ -281,9 +293,8 @@ body.proposals header nav ul li#proposals a {
   font-size: 1.8em;
   line-height: 1.3em;
   position: relative;
-  margin-left: 350px;
   margin-bottom: 15px;
-  text-shadow: none;
+  text-shadow: 1;
 }
 
 #headbox h3.homepage {
@@ -1256,7 +1267,7 @@ td {
       margin-left: 25px;
     }
 
-    div.pink {
+    div.pink, div.blue {
       width: auto;
       background-size: cover;
       margin-top: 50px;
