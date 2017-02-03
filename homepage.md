@@ -42,8 +42,13 @@ Our participants represent organizations ranging from massive to tiny, and come 
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
         #mc_embed_signup{background:#c5ecec; clear:left; font:14px Helvetica,Arial,sans-serif; }
-        /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+        #mc_embed_signup form {
+          padding-left: 0px;
+        }
+        #mc_embed_signup input.email {
+          width: 95%;
+        }
+        /
 </style>
 <div id="mc_embed_signup">
 <form action="//opennews.us5.list-manage.com/subscribe/post?u=71c95e9a43708843d2fdc1f09&amp;id=996e9290cc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -69,9 +74,6 @@ Our participants represent organizations ranging from massive to tiny, and come 
 </div>
 </div>
 
-SRCCON is produced by [Knight-Mozilla OpenNews](http://opennews.org), an organization built to support the community of news developers, designers, and data analysts helping journalism thrive on the open web.
+SRCCON is produced by [OpenNews](http://opennews.org), an organization built to connect a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism.
 
 The “src” in SRCCON stands for “Source,” as in "view source." We pronounce it “Source-con,” but you can say it however you want.
-
-
-{% include live_sessions_js.html %}

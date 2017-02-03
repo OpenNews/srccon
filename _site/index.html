@@ -91,8 +91,13 @@
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
         #mc_embed_signup{background:#c5ecec; clear:left; font:14px Helvetica,Arial,sans-serif; }
-        /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+        #mc_embed_signup form {
+          padding-left: 0px;
+        }
+        #mc_embed_signup input.email {
+          width: 95%;
+        }
+        /
 </style>
 <div id="mc_embed_signup">
 <form action="//opennews.us5.list-manage.com/subscribe/post?u=71c95e9a43708843d2fdc1f09&amp;id=996e9290cc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
@@ -118,133 +123,24 @@
 </div>
 </div>
 
-<p>SRCCON is produced by <a href="http://opennews.org">Knight-Mozilla OpenNews</a>, an organization built to support the community of news developers, designers, and data analysts helping journalism thrive on the open web.</p>
+<p>SRCCON is produced by <a href="http://opennews.org">OpenNews</a>, an organization built to connect a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism.</p>
 
 <p>The “src” in SRCCON stands for “Source,” as in “view source.” We pronounce it “Source-con,” but you can say it however you want.</p>
-
-<script src="/media/js/moment.min.js"></script>
-
-<script src="/media/js/moment.timezone.min.js"></script>
-
-<script>
-moment.tz.add('America/Los_Angeles|PST PDT|80 70|0101|1Lzm0 1zb0 Op0');
-moment.tz.setDefault("America/Los_Angeles");
-var now = moment(),
-    thursdayMorning = moment('2016-07-28 09:00'),
-    thursdayAM1 = moment('2016-07-28 10:30'),
-    thursdayAMbreak = moment('2016-07-28 11:30'),
-    thursdayAM2 = moment('2016-07-28 12:00'),
-    thursdayLunch = moment('2016-07-28 13:00'),
-    thursdayPM1 = moment('2016-07-28 14:30'),
-    thursdayPMbreak = moment('2016-07-28 15:30'),
-    thursdayPM2 = moment('2016-07-28 16:00'),
-    thursdayEvening = moment('2016-07-28 17:00'),
-    thursdayEveningEnd = moment('2016-07-28 21:30'),
-    fridayMorning = moment('2016-07-29 09:30'),
-    fridayAM1 = moment('2016-07-29 10:30'),
-    fridayAMbreak = moment('2016-07-29 11:30'),
-    fridayAM2 = moment('2016-07-29 12:00'),
-    fridayLunch = moment('2016-07-29 13:00'),
-    fridayPM1 = moment('2016-07-29 14:30'),
-    fridayPMbreak = moment('2016-07-29 15:30'),
-    fridayPM2 = moment('2016-07-29 16:00'),
-    fridayEvening = moment('2016-07-29 17:00'),
-    fridayEveningEnd = moment('2016-07-29 18:00');
-
-var showLive = function(timeblock) {
-    var timeblockToShow = '',
-        leaderText = '';
-        
-    switch(true) {
-        case now.isBetween(thursdayMorning, thursdayAM1):
-            timeblockToShow = '.live-thursday-morning';
-            break;
-        case now.isBetween(thursdayAM1, thursdayAMbreak):
-            timeblockToShow = '.live-thursday-am-1';
-            break;
-        case now.isBetween(thursdayAMbreak, thursdayAM2):
-            timeblockToShow = '.live-thursday-am-2';
-            leaderText = 'Next up at SRCCON';
-            break;
-        case now.isBetween(thursdayAMbreak, thursdayLunch):
-            timeblockToShow = '.live-thursday-am-2';
-            break;
-        case now.isBetween(thursdayLunch, thursdayPM1):
-            timeblockToShow = '.live-thursday-lunch';
-            break;
-        case now.isBetween(thursdayPM1, thursdayPMbreak):
-            timeblockToShow = '.live-thursday-pm-1';
-            break;
-        case now.isBetween(thursdayPMbreak, thursdayPM2):
-            timeblockToShow = '.live-thursday-pm-2';
-            leaderText = 'Next up at SRCCON';
-            break;
-        case now.isBetween(thursdayPMbreak, thursdayEvening):
-            timeblockToShow = '.live-thursday-pm-2';
-            break;
-        case now.isBetween(thursdayEvening, thursdayEveningEnd):
-            timeblockToShow = '.live-thursday-evening';
-            break;
-        case now.isBetween(fridayMorning, fridayAM1):
-            timeblockToShow = '.live-friday-morning';
-            break;
-        case now.isBetween(fridayAM1, fridayAMbreak):
-            timeblockToShow = '.live-friday-am-1';
-            break;
-        case now.isBetween(fridayAMbreak, fridayAM2):
-            timeblockToShow = '.live-friday-am-2';
-            leaderText = 'Next up at SRCCON';
-            break;
-        case now.isBetween(fridayAMbreak, fridayLunch):
-            timeblockToShow = '.live-friday-am-2';
-            break;
-        case now.isBetween(fridayLunch, fridayPM1):
-            timeblockToShow = '.live-friday-lunch';
-            break;
-        case now.isBetween(fridayPM1, fridayPMbreak):
-            timeblockToShow = '.live-friday-pm-1';
-            break;
-        case now.isBetween(fridayPMbreak, fridayPM2):
-            timeblockToShow = '.live-friday-pm-2';
-            leaderText = 'Next up at SRCCON';
-            break;
-        case now.isBetween(fridayPMbreak, fridayEvening):
-            timeblockToShow = '.live-friday-pm-2';
-            break;
-        case now.isBetween(fridayEvening, fridayEveningEnd):
-            timeblockToShow = '.live-friday-evening';
-            break;
-    }
-    
-    if (timeblockToShow) {
-        document.querySelector('.live').classList.remove('hidden');
-        [].forEach.call(document.querySelectorAll(timeblockToShow), function(el) {
-            el.classList.remove('hidden');
-        });
-        if (leaderText) {
-            document.querySelector('#live-leader').innerHTML = leaderText;
-        }
-    }
-}
-showLive();
-</script>
-
 
     </div>
 </div>
 <footer>
     
 <div id="sponsorbox" class="container">
-  <div class="container four">
-    <div id="partners">
+  <div class="container one">
+    <div id="sponsors">
     <p class="small">Our Partners:</p>
     <ul>
-      <li><a href="http://www.mozilla.org/"><img alt="Mozilla" src="/media/img/partners/mozilla.png"  /></a></li>
-        <li><a href="http://www.knightfoundation.org/"><img alt="Knight Foundation" src="/media/img/partners/knight.png" /></a></li>
+      <li><a href="http://www.knightfoundation.org/"><img alt="Knight Foundation" src="/media/img/partners/knight.png" /></a></li>
       </ul>
     </div>
 
-<div id="sponsors">
+<!--<div id="sponsors">
       <p class="small">Our Sponsors:</p>
       <ul>
         <li class="lead"><a href="http://www.condenast.com"><img alt="Conde Nast" src="/media/img/partners/conde.png"></a><br><span class ="sponsorcaption">lead sponsor</span></li>
@@ -252,8 +148,8 @@ showLive();
         <li class="accessibility"><a href="http://jsk.stanford.edu"><img alt="John S Knight Fellowships" src="/media/img/partners/jsk-logo-text-transparent.png"  /></a><br><span class ="sponsorcaption">childcare sponsor</span></li>
         <li class="accessibility"><a href="http://www.nytimes.com/"><img alt="Slack" src="/media/img/partners/NYTstackedNameplate.png" class="slack" /></a><br><span class ="sponsorcaption">transcript sponsor</span></li>
       </ul>
-    </div>
-    <p class="small sponsortag"><a href="/sponsors">View all of SRCCON's amazing sponsors.</a>.</p>
+    </div>-->
+    <p class="small sponsortag"><a href="/sponsors">Become a sponsor of SRCCON.</a>.</p>
   </div>
 </div>
 
@@ -266,9 +162,8 @@ showLive();
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
     <li><a href="/conduct">Code of conduct</a>
     <!--<li><a href="/scholarships">Scholarships</a>-->
-    <li><a href="/sponsors/">Our Sponsors</a>
-    <li id="schedule"><a href="http://2015.srccon.org">2015 site & transcripts</a></li>
-    <li>Join our <a href="http://eepurl.com/czSVTL">mailing list</a></li>
+    <li><a href="/sponsors/">Become a Sponsor</a>
+    <li>Join our <a href="http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc">mailing list</a></li>
     <li><a href="mailto:srccon@opennews.org">Email us</a></li>
     <li><a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/80x15.png"> CC Attribution 3.0</a></li>
 </ul>
@@ -281,7 +176,7 @@ showLive();
   </div>
   <div class="col last">
     <h2>About OpenNews</h2>
-<p><a href="http://www.opennews.org">Knight-Mozilla OpenNews</a> is a joint project of <a href="http://www.mozilla.org">Mozilla</a> and the <a href="http://www.knightfoundation.org/">Knight Foundation</a> that supports the growing community of news developers, designers, and data reporters helping journalism thrive on the open web. More at <a href="http://www.opennews.org">opennews.org</a> and @<a href="https://twitter.com/opennews">OpenNews</a>.</p>
+<p><a href="http://www.opennews.org">OpenNews</a> connects a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning and solving problems together can create a stronger, more responsive, and ascendant journalism ecosystem. Incubated at the <a href="https://www.mozilla.org/en-US/foundation/>Mozilla Foundation</a> from 2011-2016, OpenNews is now a project of <a href="http://www.communitypartners.org/>Community Partners.</a>
 
   </div>
 </div>
