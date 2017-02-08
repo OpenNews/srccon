@@ -9,7 +9,7 @@ byline: Joe D
 bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8-cYJ5BW-dvdBz6-bx3hGz-bjwfyN-eiyt2R-bzndNi-xpTv4c-c1uNoN-87b43u-dwF5Xi-877Usp-9KXu6o-7JWWQ3-eiRr3x-bkmRcj-dmCBA5-dmCbxp-bk8hN1-aPrDyF-c3oCfy-eds2cy-63QpuP-6RykQm-bwqeeP-82nsNg-bcMuqH-p4YhA-6ruw6u-bzQzwU-6N35wm-6yQoFn-diJKXS-dBFrpJ-aG3CYP-edHBYv-4f5wv-jwewB-6CZYnF-4oiFUn-bw5j8Z-4cE92J-bAYTin-bQsdTz-dLN559-5o98t6-bkQyU9-djE7or-duoc32-aJBXGg
 permalink: /index.html
 ---
-SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included more than 300 attendees and 50 sessions that covered a wide range of topics, from tech strategies to workplace culture struggles.
+SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included nearly 300 attendees and 50 sessions that covered a wide range of topics, from tech strategies to workplace culture struggles.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 <p class="caption"><em><a href="https://vimeo.com/180221748">SRCCON 2016 highlights video</a>, videography by <a href="http://www.searlevideo.com/">Searle Video</a>.</em></p>
@@ -17,9 +17,9 @@ SRCCON is a hands-on conference focused on the practical challenges news technol
 <div class="blue">
 <div class="innercontainer">
 <h2>SRCCON 2017</h2>
-<p>This year, SRCCON will return to the <a href="https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887">McNamara Alumni Center in Minneapolis, Minnesota</a> on east bank of the University of Minnesota and our home for SRCCON in 2015.</p>
+<p>This year, SRCCON will return to the <a href="https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887">McNamara Alumni Center in Minneapolis, Minnesota</a> on the east bank of the University of Minnesota and our home for SRCCON in 2015.</p>
 
-<p>We will be announcing the dates of our ticket lottery (due to the massive demand for SRCCON tickets, we distribute them using a lottery system) and our call for session proposals at the NICAR conference, March 2-5 in Jacksonville, Florida. We'll also update this site, Twitter, and our mailing list with  the info</p>
+<p>We will be announcing the dates of our ticket lottery (due to the massive demand for SRCCON tickets, we distribute them using a lottery system) and our call for session proposals at the <a href="http://www.ire.org/conferences/nicar2017/">NICAR conference in March</a>. We'll also update this site, Twitter, and our mailing list with the info.</p>
 
 <p>Once tickets are sold, we'll be opening up a discounted block of hotel rooms at the Commons Hotel located directly next to our SRCCON venue.</p>
 </div>
