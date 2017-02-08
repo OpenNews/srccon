@@ -676,6 +676,7 @@ footer #sponsorbox .container {
   max-width: 1000px;
   padding-top: 10px;
   padding-bottom: 25px;
+  height: 200px;
 }
 
 footer #sponsorbox:after {
@@ -740,6 +741,10 @@ span.sponsortype {
   text-align: center;
 }
 
+footer #sponsorbox p.sponsorblurb {
+  margin-top: 50px;
+}
+
 footer #sponsorbox .two div#sponsors ul li.lead img {
   height: 160px;
   margin-right: 25px;
@@ -751,8 +756,9 @@ footer #sponsorbox .two div#sponsors ul li.accessibility img {
 }
 
 
-footer #sponsorbox .two div#partners ul li img {
+footer #sponsorbox .two div#partners ul li img, footer #sponsorbox div#partners ul li img {
   height: 50px;
+  margin-top: -15px;
 }
 
 footer #sponsorbox .container.three, footer #sponsorbox .container.four {
@@ -1207,7 +1213,7 @@ td {
         right: auto;
     }
     header.homepage {
-      background-position: 0 -80px;
+      background-position: 0 50px;
     }
     header.scholarships {
       background-position: 0 0px;
@@ -1221,11 +1227,10 @@ td {
     }
 
    #headbox h3 br {
-     display: none;
    }
 
     #headbox h3.homepage, #headbox h4.homepage {
-        margin-left: 200px;
+        margin-left: 0px;
         font-size: 1.4em;
     }
 
@@ -1492,7 +1497,7 @@ td {
       float: none;
     }
     header.homepage {
-      background-position: 0 0px;
+      background-position: 0 60px;
     }
     header.scholarships {
       background-position: 0 30px;
@@ -1525,6 +1530,10 @@ td {
       text-align: center;
       padding-right: 0;
       width: auto;
+    }
+
+    p.sponsorblurb {
+      display: none;
     }
     #headbox h2 {
         font-size: 2.1em;
@@ -1574,15 +1583,16 @@ td {
     }
 
     #headbox h3.homepage {
-      padding-top: 0px;
+      padding-top: 30px;
     }
 
     #headbox h3.homepage, #headbox h4.homepage {
-      margin-left: 80px;
+      margin-left: 0px;
+      text-align: center;
     }
 
     .homepage #headbox {
-      padding-left: 100px;
+      padding-left: 0px;
     }
     footer #sponsorbox .three div#sponsors ul li.lead img {
         height: auto;
@@ -1605,7 +1615,7 @@ td {
     }
 
     #headbox h3.homepage, #headbox h4.homepage {
-      margin-left: 150px;
+      margin-left: 0px;
     }
 
     .homepage #headbox {

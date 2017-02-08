@@ -11,7 +11,7 @@ permalink: /index.html
 ---
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included more than 300 attendees and 50 sessions that covered a wide range of topics, from tech strategies to workplace culture struggles.
 
-<iframe src="https://player.vimeo.com/video/180221748" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 <p class="caption"><em><a href="https://vimeo.com/180221748">SRCCON 2016 highlights video</a>, videography by <a href="http://www.searlevideo.com/">Searle Video</a>.</em></p>
 
 <div class="blue">
@@ -27,7 +27,7 @@ SRCCON is a hands-on conference focused on the practical challenges news technol
 
 ## Who attends SRCCON
 
-The majority of SRCCON participants are developers, designers, and data analysts who work in newsrooms. We also enthusiastically welcome attendees from closely allied fields like civic tech, mapping, open data, and government—and others who are curious about journalism and excited to share their expertise at a journalism-centric conference.
+The majority of SRCCON participants are developers, designers, and data analysts who work in newsrooms. We also enthusiastically welcome attendees from closely allied fields like civic tech, mapping, open data, and others who are curious about journalism and excited to share their expertise at a journalism-centric conference.
 
 Our participants represent organizations ranging from massive to tiny, and come from all over the US and many other countries. Each year, we particularly welcome journalists and allies from the city hosting SRCCON, and we're working to build better remote-participation options for those who can't attend in person.
 
