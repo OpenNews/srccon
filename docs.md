@@ -10,32 +10,14 @@ bylineurl: https://www.flickr.com/photos/boltron/3212284622/in/photolist-5TRNiC-
 permalink: /docs/index.html
 ---
 
-We'd love for everyone interested in coming to SRCCON to be able to attend, and as the next-best thing, we're offering ways to join in remotely and learn from this year's sessions long after the event is over. This page brings together our remote-participation options, and our growing collection of documentation and also some of the resources we return to again and again as we work to make SRCCON better for all.
-
-## Live Transcripts
-
-Our live-captioning team will be transcribing almost half of all this year's SRCCON sessions—we've [marked them on the schedule](http://schedule.srccon.org/)—and we'll post links to the streaming transcripts on the homepage during the event. You can also install our brand-new [SRCCON Transcript Alert bot for Slack](http://srccon.org/slackbot/) or follow [@srccon](https://twitter.com/srccon) on Twitter for links to transcripts as they go live.
-
-After the event is over, we'll open up all the transcripts for collaborative copyediting and correction to produce a final collection of cleaned-up transcripts.
-
-## Audio & Video
-
-We're experimenting with audio capture this year, and will be posting edited audio from selected SRCCON sessions later this summer, along with a short highlights video.
-
-## Your Writeups, We Want Them
-
-We're looking for writeups of SRCCON sessions, and also for a few writeups that cut across sessions and follow a single theme across the event.  We'll publish these [on Source](http://www.source.openews.org) in August, and here's what we're looking for:
-
- * 1500-2500 words
- * Conversational, clear tone, aimed at working designers, developers, and data analysts in newsrooms
- * Enlivened by tech details, process descriptions, advice, and/or specific strategies grounded in SRCCON discussions
-
-The ideal writeup is a slightly detailed narrative version of your own SRCCON notes—what you'd tell a colleague about things you learned or processed, with the links and resources you'd want to pass along to them.
-
-Writeups pay $200, invoiced on publication. Pitch us a writeup on a session or a theme by emailing [source@opennews.org](mailto://source@opennews.org)—we'd love your help bringing more of SRCCON's wealth of shared knowledge to a wider audience!
+We put a great deal of emphasis in capturing the work involved in putting SRCCON together. As a result, we have an ongoing series of docs on the logistics and theory that go into SRCCON.
 
 ## Making-of-SRCCON Docs
 
+* [Thursday Nights at SRCCON](https://opennews.org/blog/srccon-thursday/)
+* [How We Planned & Ran the SRCCON Travel Scholarships](https://opennews.org/blog/srccon-scholarship-process-admin/)
+* [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/)
+* [3 Ways to Facilitate a Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/)
 * [Captioning a Multi-Track Conference - How SRCCON Did It](http://opennews.org/blog/srccon-transcription)
 * [Five Things We've Learned About Sessions](http://opennews.org/blog/srccon-top5)
 * [How to Plan a Great SRCCON Session](http://opennews.org/blog/srccon-session-planning)
