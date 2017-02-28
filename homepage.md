@@ -21,10 +21,9 @@ Curious about how it all works? Learn more about [sessions at SRCCON](/sessions)
 
 Once tickets are sold, we'll be opening up a discounted block of hotel rooms at the Commons Hotel located directly next to our SRCCON venue.
 
-
-
 <div class="blue">
 <div class="innercontainer">
+
 <h2>What is SRCCON like?</h2>
 <p>SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included more than 300 attendees and 50 sessions that covered a wide range of topics, from tech strategies to workplace culture struggles.</p>
 
