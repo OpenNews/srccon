@@ -18,7 +18,11 @@ This year, SRCCON will return to the [McNamara Alumni Center in Minneapolis, Min
 * **April 26**, ticket lottery opens.
 * **May 8**, lottery closes.
 
+Curious about how it all works? Learn more about [sessions at SRCCON](/sessions) and [our ticket lottery](/tickets). Much more information about both will be forthcoming.
+
 Once tickets are sold, we'll be opening up a discounted block of hotel rooms at the Commons Hotel located directly next to our SRCCON venue.
+
+
 
 <div class="blue">
 <div class="innercontainer">
