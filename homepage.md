@@ -19,6 +19,13 @@ SRCCON is a hands-on conference focused on the practical challenges news technol
 <h2>SRCCON 2017</h2>
 <p>This year, SRCCON will return to the <a href="https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887">McNamara Alumni Center in Minneapolis, Minnesota</a> on east bank of the University of Minnesota and our home for SRCCON in 2015.</p>
 
+<h2>Key dates for your calendar:</h2>
+ <ul>
+ <li><strong>March 30</strong>, call for proposals opens.</li>
+ <li><strong>April 20</strong>, proposals close.</li>
+ <li><strong>May 18</strong>, tickets go on sale.</li>
+ </ul>
+
 <p>We will be announcing the dates of our ticket lottery (due to the massive demand for SRCCON tickets, we distribute them using a lottery system) and our call for session proposals at the NICAR conference, March 2-5 in Jacksonville, Florida. We'll also update this site, Twitter, and our mailing list with  the info</p>
 
 <p>Once tickets are sold, we'll be opening up a discounted block of hotel rooms at the Commons Hotel located directly next to our SRCCON venue.</p>
