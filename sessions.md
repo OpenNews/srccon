@@ -13,12 +13,12 @@ SRCCON is built around two days of peer-led conversations, hands-on workshops, a
 
 **Our call for proposals opens on March 22 and closes April 7.**
 
+There are a lot of ways to think about sessions at SRCCON, but the main thing is to consider how it's *different* than other conferences you may have attended. SRCCON is highly participatory: sessions are not a panel on a stage of a speaker running through slides. This is an opportunity to compare notes, share skills, and learn from each other.  
+
 So you can be prepared to pitch a great session at SRCCON, we asked a couple previous participants to talk about their experience hosting SRCCON sessions:
 
 * [3 Ways To Facilitate A Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/), by ProPublica's Sisi Wei
 * [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR's Alyson Hurt
-
-There are a lot of ways to think about sessions at SRCCON, but the main thing is to consider how it's *different* than other conferences you may have attended. SRCCON is highly participatory: sessions are not a panel on a stage of a speaker running through slides. This is an opportunity to compare notes, share skills, and learn from each other.  
 
 ## What Makes a Great Session Topic?
 
