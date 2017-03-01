@@ -50,7 +50,7 @@ If that sounds like a lot of effort…it is! But it also means that people who a
 
 ## Example Sessions from SRCCON 2016
 
-[Illustrating Investigations: Creating compelling visuals for abstract stories](https://2016.srccon.org/schedule/#_session-illustrating-investigations). This fun, highly interactive, morning session let participants do something they may not normally do: pick up paper and pencil and draw!
-[True Life: I Work Remotely](https://2016.srccon.org/schedule/#_session-remote-work). This was an excellent peer-to-peer experience shareing session that allowed both remotees and the remote-curious to learn from each other.
-[Let's All Be Terrible at Things Together](https://2016.srccon.org/schedule/#_session-lets-be-terrible). This session forced people out of their comfort zones and into collaborating around weaknesses and fears.
-[Every day I’m juggling: Managing managers, peer expectations, and your own project ideas](https://2016.srccon.org/schedule/#_session-juggling-expectations). Talking to management, helping them to see things from your perspective, coaxing change out of newsrooms--it's tough to go it alone. This session used the "experts in the room" to help level each other up.
+* [Illustrating Investigations: Creating compelling visuals for abstract stories](https://2016.srccon.org/schedule/#_session-illustrating-investigations). This fun, highly interactive, morning session let participants do something they may not normally do: pick up paper and pencil and draw!
+* [True Life: I Work Remotely](https://2016.srccon.org/schedule/#_session-remote-work). This was an excellent peer-to-peer experience shareing session that allowed both remotees and the remote-curious to learn from each other.
+* [Let's All Be Terrible at Things Together](https://2016.srccon.org/schedule/#_session-lets-be-terrible). This session forced people out of their comfort zones and into collaborating around weaknesses and fears.
+* [Every day I’m juggling: Managing managers, peer expectations, and your own project ideas](https://2016.srccon.org/schedule/#_session-juggling-expectations). Talking to management, helping them to see things from your perspective, coaxing change out of newsrooms--it's tough to go it alone. This session used the "experts in the room" to help level each other up.
