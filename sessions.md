@@ -1,6 +1,6 @@
 ---
 layout: 2015_layout
-title: How to Pitch (and Run) a Great SRCCON Session
+title: Sessions at SRCCON
 subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals open March 22.
 section: sessions
 sub-section: interior
