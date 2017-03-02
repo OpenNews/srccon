@@ -15,7 +15,7 @@ So, once again, we'll be running a ticket lottery. Tickets will once again cost 
 Much more information about our ticket lottery will be forthcoming in the weeks preceeding the lottery open. In the meantime, feel free to read more about:
 
 * [Why we launched our SRCCON lottery.](https://opennews.org/blog/srccon-tix/)
-<!--* [How we ran last year's lottery system.](https://opennews.org/blog/srccon-lottery/)-->
+* [How we ran last year's lottery system.](https://opennews.org/blog/srccon-lottery/)
 
 In addition to our ticket lottery, we have a number of other methods for attending SRCCON:
 
