@@ -14,8 +14,8 @@ This year, SRCCON will return to the [McNamara Alumni Center in Minneapolis, Min
 ## Key dates for your calendar:
 * **March 22**: call for proposals opens
 * **April 7**: proposals close
-* **April 26**: ticket lottery opens
-* **May 8**: lottery closes
+* **May 3**: ticket lottery opens
+* **May 10**: lottery closes
 
 Curious about how it all works? Learn more about [sessions at SRCCON](/sessions) and [our ticket lottery](/tickets). Much more information about both will be forthcoming.
 
