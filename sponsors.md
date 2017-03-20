@@ -84,7 +84,7 @@ Becoming an event sponsor is a great way to support SRCCON. Event Sponsors recei
 
 ## Local Media Sponsors
 
-Local Media Sponsorship is open only to media companies from the Portland area. As a Local Media Sponsor, you receive:
+Local Media Sponsorship is open only to media companies from the Minneapolis/St. Paul area. As a Local Media Sponsor, you receive:
 
 * 2 free tickets to SRCCON.
 * Logo on sponsorship page of SRCCON website.
