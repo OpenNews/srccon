@@ -156,4 +156,6 @@ Ok, so you're excited to pitch your SRCCON session! If you feel ready to go, [su
 
 ## Submit a Session Proposal
 
+<a class="btn" href="/proposals/pitch" style="float: right; margin: 1em .5em; display: inline-block;">Propose a Session</a>
+
 Our call for proposals is open until April 7 at 11:59pm ET. We'd love to have you [pitch a session](/proposals/pitch/) so we can consider your ideas for SRCCON 2017, August 3 & 4 in Minneapolis.

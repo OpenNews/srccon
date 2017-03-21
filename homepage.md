@@ -11,8 +11,14 @@ permalink: /index.html
 ---
 This year, SRCCON will return to the [McNamara Alumni Center in Minneapolis, Minnesota](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) on east bank of the University of Minnesota and our home for SRCCON in 2015.
 
+
+## Our call for session proposals is open!
+
+We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**. Thinking about a session idea for this year's SRCCON? We've put together [a proposals guide](/proposals/guide) to help you out.
+
+<a class="btn" href="/proposals/pitch">Propose a Session</a>
+
 ## Key dates for your calendar:
-* **March 22**: call for proposals opens
 * **April 7**: proposals close
 * **May 3**: ticket lottery opens
 * **May 10**: lottery closes

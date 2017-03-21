@@ -11,7 +11,13 @@ permalink: /sessions/index.html
 
 SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. The community members who step up to facilitate these sessions make it all possible.
 
-**Our call for proposals opens on March 22 and closes April 7.**
+## Our Call for Session Proposals is Open!
+
+<a class="btn" href="/proposals/pitch" style="float: right; margin: 1em .5em; display: inline-block;">Propose a Session</a>
+
+We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**. Thinking about a session idea for this year's SRCCON? We've put together [a proposals guide](/proposals/guide) to help you out.
+
+## About Sessions at SRCCON
 
 There are a lot of ways to think about sessions at SRCCON, but the main thing is to consider how it's *different* than other conferences you may have attended. SRCCON is highly participatory: sessions are not a panel on a stage of a speaker running through slides. This is an opportunity to compare notes, share skills, and learn from each other.  
 
