@@ -9,7 +9,9 @@ permalink: /scholarships/index.html
 ---
 <p class="bodybig">If you want to attend SRCCON, we don&rsquo;t want cost to prevent you from coming, which is why we work to keep ticket prices low. To help defray the cost of attending SRCCON, OpenNews offers a limited number of travel scholarships.</p>
 
-Whether you&rsquo;re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend SRCCON. And new this year, you do not have to fill out a separate application to apply. Scholarship questions will be part of both the call for proposals form and the ticket lottery signup form.
+Whether you&rsquo;re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend SRCCON. 
+
+*New this year*, you do not have to fill out a separate application to apply. Scholarship questions will be part of both the call for proposals form and the ticket lottery signup form.
 
 ### What we&rsquo;re offering
 A ticket to SRCCON and $500 for you to use toward the cost of travel to the event. (For scholarship recipients who live in the Minneapolis area, we offer a SRCCON ticket without the additional travel funding.)
