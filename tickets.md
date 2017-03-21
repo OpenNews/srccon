@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Tickets at SRCCON
-subtitle: Get ready, our ticket lottery opens April 26.
+subtitle: Get ready, our ticket lottery opens May 3.
 section: sessions
 sub-section: interior
 background: tickets
