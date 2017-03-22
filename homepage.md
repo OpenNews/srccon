@@ -16,14 +16,14 @@ We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**.
 
 <a class="btn" href="/sessions/proposals/pitch">Pitch a Session</a>
 
-Thinking about a session idea for this year's SRCCON? We've put together [a proposals guide](/sessions/proposals/guide) to help you out.
+Thinking about a session idea for SRCCON 2017? We've put together [a proposals guide](/sessions/proposals/guide) to help you out.
 
-## Key dates for your calendar:
+## Upcoming dates for your calendar:
 * **April 7**: proposals close
 * **May 3**: ticket lottery opens
 * **May 10**: lottery closes
 
-This year, SRCCON will return to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) at the University of Minnesota in Minneapolis, our home for SRCCON in 2015.
+On August 3 & 4, SRCCON will return to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) at the University of Minnesota in Minneapolis, our home for SRCCON in 2015.
 
 Tickets to SRCCON are [distributed via lottery](/tickets). Once tickets are sold, we'll open up a discounted block of hotel rooms at the Commons Hotel located directly next to our SRCCON venue.
 
