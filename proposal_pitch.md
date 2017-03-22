@@ -24,5 +24,5 @@ We can't wait to hear about your idea for SRCCON 2017! After we give your propos
   // Uncomment this line and set it to the CSS class that your website uses for buttons:
   // FormRenderer.BUTTON_CLASS = '';
 
-  new FormRenderer({"project_id":"oFHHaY75VD5E87aD", "afterSubmit": "/proposals/thanks"});
+  new FormRenderer({"project_id":"oFHHaY75VD5E87aD", "afterSubmit": "/sessions/proposals/thanks"});
 </script>
