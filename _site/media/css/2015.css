@@ -395,6 +395,10 @@ p, #contentbox li {
   line-height: 1.7em;
 }
 
+p.caption {
+  font-size: 1em;
+}
+
 #contentbox ul {
 padding-left: 0;
 }
