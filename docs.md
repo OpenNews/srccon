@@ -12,21 +12,26 @@ permalink: /docs/index.html
 
 We put a great deal of emphasis in capturing the work involved in putting SRCCON together. As a result, we have an ongoing series of docs on the logistics and theory that go into SRCCON.
 
-## Making-of-SRCCON Docs
-
-* [Thursday Nights at SRCCON](https://opennews.org/blog/srccon-thursday/)
-* [How We Planned & Ran the SRCCON Travel Scholarships](https://opennews.org/blog/srccon-scholarship-process-admin/)
+## Sessions & Proposals
+* [SRCCON Proposal Guide](/sessions/proposals/guide)
 * [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/)
 * [3 Ways to Facilitate a Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/)
-* [Captioning a Multi-Track Conference - How SRCCON Did It](http://opennews.org/blog/srccon-transcription)
 * [Five Things We've Learned About Sessions](http://opennews.org/blog/srccon-top5)
 * [How to Plan a Great SRCCON Session](http://opennews.org/blog/srccon-session-planning)
-* [Making SRCCON Good for Humans](http://opennews.org/blog/srccon-human-stuff)
-* [SRCCON Ticketing: What We Did and Why](http://opennews.org/blog/srccon-tickets)
+
+## Participant Experience
 * [Why You Want a Code of Conduct & How We Made One](http://incisive.nu/2014/codes-of-conduct)
+* [Making SRCCON Good for Humans](http://opennews.org/blog/srccon-human-stuff)
+* [Thursday Nights at SRCCON](https://opennews.org/blog/srccon-thursday/)
+
+## Logistics
+* [How We Planned & Ran the SRCCON Travel Scholarships](https://opennews.org/blog/srccon-scholarship-process-admin/)
+* [SRCCON Ticketing: What We Did and Why](http://opennews.org/blog/srccon-tickets)
+* [The SRCCON Ticket Lottery: What we Learned](https://opennews.org/blog/srccon-lottery/)
+* [Captioning a Multi-Track Conference - How SRCCON Did It](http://opennews.org/blog/srccon-transcription)
 
 
-## Resources & Inspiration
+## Other Resources & Inspiration
 
 * [2015 Will Be the Year You Pitch a NICAR Lightning Talk](https://medium.com/@sisiwei/2015-will-be-the-year-you-pitch-a-nicar-lightning-talk-dd293e5d78ca) by Sisi Wei
 * [Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options) by Kara Sowles
