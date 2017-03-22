@@ -34,7 +34,7 @@ So you can be prepared to pitch a great session at SRCCON, we asked a couple pre
 
 Successful sessions often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too. (When we receive multiple pitches on the same subject, we sometimes suggest that the proposers consider combining forces, but no one's obligated to do so.)
 
-Last year's sessions dealt with topics including burnout, chatbots, community-building, documentation, hiring processes, illustration, kite-mapping, machine learning, mobile dataviz, newsroom analytics, and user-centered design.To give you a taste, here's [a small selection of great sessions from 2016](#examples).
+Last year's sessions dealt with topics including burnout, chatbots, community-building, documentation, hiring processes, illustration, machine learning, mobile development, newsroom analytics, and user-centered design. To give you a taste, here's [a small selection of great sessions from 2016](#examples).
 
 ## What Makes a Great Session Format?
 
