@@ -6,7 +6,7 @@ section: sessions
 sub-section: interior
 background: stickerdots
 byline: Erik Westra
-permalink: /proposals/pitch/index.html
+permalink: /sessions/proposals/pitch/index.html
 ---
 
 We can't wait to hear about your idea for SRCCON 2017! Our review team will give your proposal an initial read, then add the title and description to our [current list of proposals](/proposals). If you're still thinking about the best way to frame your session idea, we've put together [a proposals guide full of advice](/proposals/guide). Or if you're all set, the proposal form is below!

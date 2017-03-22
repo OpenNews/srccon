@@ -6,7 +6,7 @@ section: sessions
 sub-section: interior
 background: stickerdots
 byline: Erik Westra
-permalink: /proposals/thanks/index.html
+permalink: /sessions/proposals/thanks/index.html
 ---
 
 ## Thank you for submitting a proposal to SRCCON 2017!
