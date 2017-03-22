@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: SRCCON Proposal Guide
-subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals open March 22.
+subtitle: The best sessions combine your passion, creativity, and experience. Here's how to make your idea stand out.
 section: sessions
 sub-section: interior
 background: stickerdots
@@ -9,7 +9,7 @@ byline: Erik Westra
 permalink: /sessions/proposals/guide/index.html
 ---
 
-<a class="btn" href="/proposals/pitch" style="float: right; margin: 1em .5em; display: inline-block;">Propose a Session</a>
+<a class="btn" href="/sessions/proposals/pitch" style="float: right; margin: 1em .5em; display: inline-block;">Propose a Session</a>
 
 There are a lot of ways to think about sessions at SRCCON. We've put this guide together to help you turn your great idea into an equally great session proposal.
 
@@ -80,7 +80,7 @@ Topics don't just emerge from a list of latest trends; we bring them to SRCCON b
 
 ## What Makes a Great Session Proposal?
 
-As you propose an idea for SRCCON, your session description is the first opportunity to tell us how you'll spend time your time with everyone else who's excited about the same topic. We reserve 75 minutes for each session, which can be plenty of time to dig into even deep topics—but it does go faster than you think! Even though SRCCON is a conversational conference, an sketch of the ground you hope to cover is a great indicator of the thought you're putting into a session.
+As you propose an idea for SRCCON, your session description is the first opportunity to tell us how you'll spend time your time with everyone else who's excited about the same topic. We reserve 75 minutes for each session, which can be plenty of time to dig into even deep topics—but it does go faster than you think! Even though SRCCON is a conversational conference, a sketch of the ground you hope to cover is a great indicator of the thought you're putting into a session.
 
 Effective SRCCON sessions are about effort and preparation more than expertise. We encourage you to describe how you'll share what you know, the types of great questions you'll pose, and the ways you'll help people learn something new. We find that the most promising proposals:
 
@@ -92,8 +92,8 @@ Other qualities that help a proposal stand out:
 
 * session ideas that might not work as well at a traditional conference
 * creative formats that support learning or sharing
-* plans that help attendees learn new techniques or technologies, or upgrade their skills
-* plans that help attendees build a peer group, engaging with other perspectives from people doing the same work
+* plans to help attendees learn new techniques or technologies, or upgrade their skills
+* plans to help attendees build a peer group, engaging with other perspectives from people doing the same work
 
 <span id="great-session-plan"></span>
 
@@ -139,7 +139,7 @@ It's also useful to think about information/activity density and, again, your de
 ## Example Sessions from SRCCON 2016
 
 * [Illustrating Investigations: Creating compelling visuals for abstract stories](https://2016.srccon.org/schedule/#_session-illustrating-investigations). This fun, highly interactive, morning session let participants do something they may not normally do: pick up paper and pencil and draw!
-* [True Life: I Work Remotely](https://2016.srccon.org/schedule/#_session-remote-work). This was an excellent peer-to-peer experience shareing session that allowed both remotees and the remote-curious to learn from each other.
+* [True Life: I Work Remotely](https://2016.srccon.org/schedule/#_session-remote-work). This was an excellent peer-to-peer experience sharing session that allowed both remotees and the remote-curious to learn from each other.
 * [Let's All Be Terrible at Things Together](https://2016.srccon.org/schedule/#_session-lets-be-terrible). This session forced people out of their comfort zones and into collaborating around weaknesses and fears.
 * [Every day I’m juggling: Managing managers, peer expectations, and your own project ideas](https://2016.srccon.org/schedule/#_session-juggling-expectations). Talking to management, helping them to see things from your perspective, coaxing change out of newsrooms--it's tough to go it alone. This session used the "experts in the room" to help level each other up.
 
@@ -147,7 +147,7 @@ It's also useful to think about information/activity density and, again, your de
 
 ## How We Support SRCCON Proposers
 
-Ok, so you're excited to pitch your SRCCON session! If you feel ready to go, [submit your proposal now]. If you have still have some questions, we are here for you:
+Ok, so you're excited to pitch your SRCCON session! If you feel ready to go, [you can submit your proposal now](/sessions/proposals/pitch/). If you have still have some questions, we are here for you:
 
 * Always feel free to email [srccon@opennews.org](mailto:srccon@opennews.org). We're happy to give feedback on session proposals, answer questions not covered here, or help in other ways.
 * Check out the #srccon channel on the [News Nerdery Slack](http://newsnerdery.org/). OpenNews staff members are in the channel, so if there's a question that may be of broad interest, feel free to add it there. We'll also have official office hours 10am-1pm ET on Wednesday, March 29, and 2-5pm ET on Wednesday, April 8.
@@ -158,4 +158,4 @@ Ok, so you're excited to pitch your SRCCON session! If you feel ready to go, [su
 
 ## Submit a Session Proposal
 
-Our call for proposals is open until April 7 at 11:59pm ET. We'd love to have you [pitch a session](/proposals/pitch/) so we can consider your ideas for SRCCON 2017, August 3 & 4 in Minneapolis.
+Our call for proposals is open until April 7 at 11:59pm ET. We'd love to have you [pitch a session](/sessions/proposals/pitch/) so we can consider your ideas for SRCCON 2017, August 3 & 4 in Minneapolis.

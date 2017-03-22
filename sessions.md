@@ -13,9 +13,13 @@ SRCCON is built around two days of peer-led conversations, hands-on workshops, a
 
 ## Our Call for Session Proposals is Open!
 
-<a class="btn" href="/proposals/pitch" style="float: right; margin: 1em .5em; display: inline-block;">Propose a Session</a>
+<a class="btn" href="/sessions/proposals/pitch" style="float: right; margin: 1em .5em; display: inline-block;">Propose a Session</a>
 
-We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**. Thinking about a session idea for this year's SRCCON? We've put together [a proposals guide](/proposals/guide) to help you out.
+We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**. Session proposals will be listed on the SRCCON website shortly after they're submitted.
+
+## New this year: A Guide to Proposing Sessions
+
+Have an idea for this year's SRCCON but not sure about the best way pitch it? Let us help you! We've put together [a proposals guide](/sessions/proposals/guide) with advice on turning great ideas into great session proposals.
 
 ## About Sessions at SRCCON
 
@@ -52,11 +56,11 @@ On the flip side, facilitators who have a harder time have usually tried to fit 
 
 If that sounds like a lot of effort…it is! But it also means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they're willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you're pitching solo and want someone to work with you on the ground.
 
-<div id="examples"></div>
+<span id="examples"></span>
 
 ## Example Sessions from SRCCON 2016
 
 * [Illustrating Investigations: Creating compelling visuals for abstract stories](https://2016.srccon.org/schedule/#_session-illustrating-investigations). This fun, highly interactive, morning session let participants do something they may not normally do: pick up paper and pencil and draw!
-* [True Life: I Work Remotely](https://2016.srccon.org/schedule/#_session-remote-work). This was an excellent peer-to-peer experience shareing session that allowed both remotees and the remote-curious to learn from each other.
+* [True Life: I Work Remotely](https://2016.srccon.org/schedule/#_session-remote-work). This was an excellent peer-to-peer experience sharing session that allowed both remotees and the remote-curious to learn from each other.
 * [Let's All Be Terrible at Things Together](https://2016.srccon.org/schedule/#_session-lets-be-terrible). This session forced people out of their comfort zones and into collaborating around weaknesses and fears.
 * [Every day I’m juggling: Managing managers, peer expectations, and your own project ideas](https://2016.srccon.org/schedule/#_session-juggling-expectations). Talking to management, helping them to see things from your perspective, coaxing change out of newsrooms--it's tough to go it alone. This session used the "experts in the room" to help level each other up.

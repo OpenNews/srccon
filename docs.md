@@ -24,7 +24,7 @@ We put a great deal of emphasis in capturing the work involved in putting SRCCON
 * [Making SRCCON Good for Humans](http://opennews.org/blog/srccon-human-stuff)
 * [SRCCON Ticketing: What We Did and Why](http://opennews.org/blog/srccon-tickets)
 * [Why You Want a Code of Conduct & How We Made One](http://incisive.nu/2014/codes-of-conduct)
-
+* [Proposal Guide: Pitching a Great Session for SRCCON](/sessions/proposals/guide)
 
 ## Resources & Inspiration
 

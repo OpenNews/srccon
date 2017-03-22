@@ -12,9 +12,9 @@ permalink: /index.html
 
 ## Our call for session proposals is open!
 
-We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**. Thinking about a session idea for this year's SRCCON? We've put together [a proposals guide](/proposals/guide) to help you out.
+We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**. Thinking about a session idea for this year's SRCCON? We've put together [a proposals guide](/sessions/proposals/guide) to help you out.
 
-<a class="btn" href="/proposals/pitch">Pitch a Session</a>
+<a class="btn" href="/sessions/proposals/pitch">Pitch a Session</a>
 
 ## Key dates for your calendar:
 * **April 7**: proposals close

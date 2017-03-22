@@ -9,7 +9,9 @@ byline: Erik Westra
 permalink: /sessions/proposals/pitch/index.html
 ---
 
-We can't wait to hear about your idea for SRCCON 2017! Our review team will give your proposal an initial read, then add the title and description to our [current list of proposals](/proposals). If you're still thinking about the best way to frame your session idea, we've put together [a proposals guide full of advice](/proposals/guide). Or if you're all set, the proposal form is below!
+We can't wait to hear about your idea for SRCCON 2017! After we give your proposal an initial read, we'll publish the title and description on the SRCCON website.
+
+**New this year:** [our SRCCON Proposal Guide](/sessions/proposals/guide). If you're thinking about pitching a session, we highly recommend reading through [this guide to crafting a great proposal](/sessions/proposals/guide). Or if you're all set, the proposal form is below!
 
 <script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-2.2.3.min.js"><\/script>')</script>
 <link href="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.css" rel="stylesheet" />
