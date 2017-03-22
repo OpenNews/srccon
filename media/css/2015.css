@@ -907,7 +907,7 @@ footer .columns {
   float: right;
   cursor: pointer;
   width: 40%;
-  background: #F79797;
+  background: #78d3d3;
   border-radius: 10px;
   font-family: Arial;
   color: #ffffff;
@@ -916,6 +916,7 @@ footer .columns {
   text-decoration: none;
   text-align: center;
   margin-left: 25px;
+  border: none;
 }
 
 .homepage .btn,
@@ -965,7 +966,7 @@ div.fr_bottom {
 }
 
 .btn:hover, form.fr_form button:hover {
-  background: #FF5F5F;
+  background: #52c6c6;
   color: white;
   text-decoration: none;
   border: none;
