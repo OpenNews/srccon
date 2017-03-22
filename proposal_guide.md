@@ -9,6 +9,8 @@ byline: Erik Westra
 permalink: /proposals/guide/index.html
 ---
 
+<a class="btn" href="/proposals/pitch" style="float: right; margin: 1em .5em; display: inline-block;">Propose a Session</a>
+
 There are a lot of ways to think about sessions at SRCCON. We've put this guide together to help you turn your great idea into an equally great session proposal.
 
 ## In this guide
@@ -155,7 +157,5 @@ Ok, so you're excited to pitch your SRCCON session! If you feel ready to go, [su
 <span id="submit-proposal"></span>
 
 ## Submit a Session Proposal
-
-<a class="btn" href="/proposals/pitch" style="float: right; margin: 1em .5em; display: inline-block;">Propose a Session</a>
 
 Our call for proposals is open until April 7 at 11:59pm ET. We'd love to have you [pitch a session](/proposals/pitch/) so we can consider your ideas for SRCCON 2017, August 3 & 4 in Minneapolis.
