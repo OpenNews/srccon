@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Join us for SRCCON
-subtitle: Two amazing days building better newsroom code, culture, and process—together.
+subtitle: Two amazing days building better newsroom code, culture, and process—together. <br />Pitch your session now.
 eventdate: SRCCON 2017 is coming.<br>August 3 & 4 in Minneapolis.
 section: homepage
 background: homepage
@@ -9,23 +9,29 @@ byline: Joe D
 bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8-cYJ5BW-dvdBz6-bx3hGz-bjwfyN-eiyt2R-bzndNi-xpTv4c-c1uNoN-87b43u-dwF5Xi-877Usp-9KXu6o-7JWWQ3-eiRr3x-bkmRcj-dmCBA5-dmCbxp-bk8hN1-aPrDyF-c3oCfy-eds2cy-63QpuP-6RykQm-bwqeeP-82nsNg-bcMuqH-p4YhA-6ruw6u-bzQzwU-6N35wm-6yQoFn-diJKXS-dBFrpJ-aG3CYP-edHBYv-4f5wv-jwewB-6CZYnF-4oiFUn-bw5j8Z-4cE92J-bAYTin-bQsdTz-dLN559-5o98t6-bkQyU9-djE7or-duoc32-aJBXGg
 permalink: /index.html
 ---
-This year, SRCCON will return to the [McNamara Alumni Center in Minneapolis, Minnesota](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) on east bank of the University of Minnesota and our home for SRCCON in 2015.
 
-## Key dates for your calendar:
-* **March 22**: call for proposals opens
+## Our call for session proposals is open!
+
+We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**.
+
+<a class="btn" href="/sessions/proposals/pitch">Pitch a Session</a>
+
+Thinking about a session idea for SRCCON 2017? We've put together [a proposals guide](/sessions/proposals/guide) to help you out.
+
+## Upcoming dates for your calendar:
 * **April 7**: proposals close
-* **April 26**: ticket lottery opens
-* **May 8**: lottery closes
+* **May 3**: ticket lottery opens
+* **May 10**: lottery closes
 
-Curious about how it all works? Learn more about [sessions at SRCCON](/sessions) and [our ticket lottery](/tickets). Much more information about both will be forthcoming.
+On August 3 & 4, SRCCON will return to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) at the University of Minnesota in Minneapolis, our home for SRCCON in 2015.
 
-Once tickets are sold, we'll be opening up a discounted block of hotel rooms at the Commons Hotel located directly next to our SRCCON venue.
+Tickets to SRCCON are [distributed via lottery](/tickets). Once tickets are sold, we'll open up a discounted block of hotel rooms at the Commons Hotel located directly next to our SRCCON venue.
 
 <div class="blue">
 <div class="innercontainer">
 
 <h2>What is SRCCON like?</h2>
-<p>SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included more than 300 attendees and 50 sessions that covered a wide range of topics, from tech strategies to workplace culture struggles.</p>
+<p>SRCCON is a hands-on conference, full of <a href="/sessions">conversations and workshops</a> focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included more than 300 attendees and 50 sessions that covered a wide range of topics, from tech strategies to workplace culture struggles.</p>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 <p class="caption"><em><a href="https://vimeo.com/180221748">SRCCON 2016 highlights video</a>, videography by <a href="http://www.searlevideo.com/">Searle Video</a>.</em></p>
