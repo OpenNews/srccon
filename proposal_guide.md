@@ -6,7 +6,9 @@ section: sessions
 sub-section: interior
 background: stickerdots
 byline: Erik Westra
-permalink: /sessions/proposals/guide/index.html
+permalink: /sessions/proposals/guide/
+redirect_from:
+  - /proposals/guide/
 ---
 
 <a class="btn" href="/sessions/proposals/pitch" style="float: right; margin: 1em .5em; display: inline-block;">Propose a Session</a>
