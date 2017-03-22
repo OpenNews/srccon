@@ -8,7 +8,7 @@ background: tickets
 byline: Alyson Hurt
 permalink: /tickets/index.html
 ---
-Tickets to SRCCON 2017 will go on open sale at the beginning of May via a lottery. We switched to a lottery system last year, after selling out the first two SRCCONs in seconds. We want this conference to be as accessible as possible to the whole community, and we believe that happens better with a system that isn’t first-come, first-served.
+Tickets to SRCCON 2017 will go on open sale in May via a lottery. We switched to a lottery system last year, after selling out the first two SRCCONs in seconds. We want this conference to be as accessible as possible to the whole community, and we believe that happens better with a system that isn’t first-come, first-served.
 
 So, once again, we'll be running a ticket lottery. Tickets will cost $195 and include admission to SRCCON, five meals, and access to our free childcare. **The lottery will open on May 3 and close on May 10.** Those selected in the lottery will be notified shortly thereafter.
 
