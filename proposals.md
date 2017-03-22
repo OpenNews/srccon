@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
-title: Sessions
-subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration.
+title: Your Proposals
+subtitle: We're displaying all the proposed sessions for this year's SRCCON.
 section: proposals
 sub-section: interior
 background: stickerdots
