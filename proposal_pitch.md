@@ -6,7 +6,9 @@ section: sessions
 sub-section: interior
 background: stickerdots
 byline: Erik Westra
-permalink: /sessions/proposals/pitch/index.html
+permalink: /sessions/proposals/pitch/
+redirect_from:
+  - /proposals/pitch/
 ---
 
 We can't wait to hear about your idea for SRCCON 2017! After we give your proposal an initial read, we'll publish the title and description on the SRCCON website.
