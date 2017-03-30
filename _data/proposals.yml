@@ -52,7 +52,7 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
-        "description": "The web has been moving to be more secure and under HTTPS for some time— but many outlets are having issues moving to a more secure web for their content. This generally boils down to issues with 3rd party content and advertising revenue streams that can be affected from the move. But there are also massive benefits to moving to HTTPS. Not just ensuring the privacy and security of our users— but there is also many new web APIs that require it.\n\nFor the session— we want to dive into the issues that we have faced, and how many of us are working within a new HTTPS world. We also want to look into the new web APIs that HTTPS opens up, and how they can be used on our own web experiences.", 
+        "description": "The web has been moving to be more secure and under HTTPS for some time— but many outlets are having issues moving to a more secure web for their content. This generally boils down to issues with 3rd party content and advertising revenue streams that can be affected from the move. But there are also massive benefits to moving to HTTPS. Not just ensuring the privacy and security of our users— but there is also many new web APIs that require it.\n\nFor the session— we want to dive into the issues that we have faced, and how many of us are working within a new HTTPS world. We also want to look into the new web APIs that HTTPS opens up, and how they can be used on our own web experiences.", 
         "facilitator": "Ian Carrico", 
         "facilitator_twitter": "iamcarrico", 
         "id": 664705, 
