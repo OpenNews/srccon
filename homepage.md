@@ -16,7 +16,7 @@ We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**.
 
 <a class="btn" href="/sessions/proposals/pitch">Pitch a Session</a>
 
-Thinking about a session idea for SRCCON 2017? We've put together [a proposals guide](/sessions/proposals/guide) to help you out.
+Thinking about a session idea for SRCCON 2017? We've put together [a proposals guide](/sessions/proposals/guide) to help you out. Want to see what sessions have been proposed? [We're publishing them as they come in](/sessions/proposals).
 
 ## Upcoming dates for your calendar:
 * **April 7**: proposals close
