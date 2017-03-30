@@ -15,7 +15,7 @@ SRCCON is built around two days of peer-led conversations, hands-on workshops, a
 
 <a class="btn" href="/sessions/proposals/pitch" style="float: right; margin: 1em .5em; display: inline-block;">Propose a Session</a>
 
-We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**. Session proposals will be listed on the SRCCON website shortly after they're submitted.
+We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**. Session proposals will be [listed on the SRCCON website](/sessions/proposals) shortly after they're submitted.
 
 ## New this year: A Guide to Proposing Sessions
 
