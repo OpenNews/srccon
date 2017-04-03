@@ -2,6 +2,36 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Using some of the videos from the Whistle Blowers Interview Archive(whistleblower.press), we’ll take an hands on approach to explore key concepts, ideas and techniques to identify narrative points, test out story ideas, and craft a compelling story.\n\nThis session focusses on the underlying evergreen storytelling principles that transcend the medium, so no knowledge of video or audio editing required, just curiosity towards story telling principles and techniques.", 
+        "facilitator": "Pietro Passarelli", 
+        "facilitator_twitter": "pietropassarell", 
+        "id": 731914, 
+        "submitted_at": "2017-04-01T13:16:17.292Z", 
+        "title": "How to craft compelling stories out of audio/video interviews?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "In this guided session, we'll ask you a series of questions to help you identify what you're most worried about and why. We'll work through how to take care of yourself emotionally, how to keep what you plan for manageable, and how to identify those who can help you. \n\nThis session is great for those are worried, or those who want to know how to help others. Participants can talk through their answers with others, or go through the session individually.", 
+        "facilitator": "Mago Torres", 
+        "facilitator_twitter": "magiccia", 
+        "id": 731050, 
+        "submitted_at": "2017-04-01T00:45:27.043Z", 
+        "title": "Threat Modeling, But For Your Own Well-Being"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Working with code in organizations is a trade, involving craftsmanship and careful curation of content to build bold and clear narratives. Style guides and design patterns give us some frameworks for crafting simple, repeatable, and structured projects; likewise by committing to a pattern, we can forecast the utility of a project or interactive, and easily solicit contributions toward a more evolved and better-tested model for design. Still, as with documentation, these patterns can sometimes be forgotten, difficult to commit to, or lost in the tight timelines for interactive development and the driving need to introduce new and different interaction models. Let's collect a series of vetted design patterns and compose a quick reference for these guidelines based on themes; thereafter we can create a \"plain\" version that pulls from all references and might be worth incorporating into the exploratory planning stages of future interactives across newsrooms, disciplines, and projects. Maybe we can submit the output as an IRE tipsheet: https://www.ire.org/resource-center/tipsheets/?q=newsrooms&page=2", 
+        "facilitator": "Aurelia Moser", 
+        "facilitator_twitter": "auremoser", 
+        "id": 724689, 
+        "submitted_at": "2017-03-29T20:32:50.798Z", 
+        "title": "Pro-pattern making: let's compose a set of design guidelines for clear and crisp news"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "The Computational Journalism Workbench is an integrated platform for data journalism, under development at Columbia journalism school.  It combines scraping, analysis, notification and visualization in one easy tool. It works by assembling simple modules into a “workflow,” a repeatable, sharable, automatically updating pipeline that produces a publishable chart or a live API endpoint. And it's community driven: you can write modules for it in Python and Javascript -- say to scrape your favorite site -- and browse the large collection of modules that others have built.", 
         "facilitator": "Jonathan Stray", 
         "facilitator_twitter": "jonathanstray", 
