@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Whether you’re an aspiring manager, or have been leading teams for years, managing people can present intimidating challenges. What are you most afraid of? Maybe you think you’re not ~ charismatic ~ enough. Or you worry that being manager means you’re not doing “real” work. Perhaps you’re nervous that your team doesn’t like you (and you might be right). As a group, or in small groups, we’ll talk about the things that most terrify us, and then work together to come up with solutions and ideas.", 
+        "facilitator": "Kaeti Hinck", 
+        "facilitator_twitter": "@kaeti", 
+        "id": 738328, 
+        "submitted_at": "2017-04-05T21:05:56.060Z", 
+        "title": "Managing people, managing yourself"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Around the world, media organizations and civic tech initiatives are building tools and platforms for debunking misinformation: fact checking sites, collaborative verification tools, and browser plugins. \n\nThe [ClaimReview specification](https://schema.org/ClaimReview), an extremely simple data format for making fact checks machine-readable, has the potential to connect and interlink these platforms and tools. In this session, we’ll discuss how this could work. After a quick introduction into the ClaimReview spec, let’s brainstorm and prototype ideas for the connected fact checking tools and services of the future!", 
+        "facilitator": "Simon Jockers", 
+        "facilitator_twitter": "sjockers", 
+        "id": 738007, 
+        "submitted_at": "2017-04-05T19:59:51.015Z", 
+        "title": "Fighting lies with JSON: Linked Data for the fact checking tools of the future"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Dashboards! Yay! Who doesn't love a good analytics dashboard? They help bring together metrics from diverse sources and maybe even do some math for cool blended metrics and hey suddenly this seems like a lot of work to maintain, with all these APIs and whatnot. I sure hope someone is using this thing... Oh... Oh? Hmm.", 
         "facilitator": "Ryan Sholin", 
         "facilitator_twitter": "ryansholin", 
