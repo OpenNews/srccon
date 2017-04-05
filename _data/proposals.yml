@@ -2,6 +2,96 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Dashboards! Yay! Who doesn't love a good analytics dashboard? They help bring together metrics from diverse sources and maybe even do some math for cool blended metrics and hey suddenly this seems like a lot of work to maintain, with all these APIs and whatnot. I sure hope someone is using this thing... Oh... Oh? Hmm.", 
+        "facilitator": "Ryan Sholin", 
+        "facilitator_twitter": "ryansholin", 
+        "id": 737956, 
+        "submitted_at": "2017-04-05T17:12:06.092Z", 
+        "title": "Why you absolutely positively shouldn't build an all-encompassing analytics dashboard. Unless you should."
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "This session will quickly demonstrate what hundreds of paying classrooms are doing with fanschool.org and explore what we've learned about delivering news to students when they draft teams of countries or states and get points for news mentions and tone. \n\nWe'll spend the rest of the time discussing + designing answers to the following questions:\n1) How can thinking like a 9th grader help us improve news? \n2) What are the best existing content engagement models outside news you've seen?  (no points for mentioning \"social media,\" email \"newsletter,\" or \"quiz\")\n3) If you could design a news interface, what would a user click on first?  (no points for saying \"Sign Up\" or \"headline\")", 
+        "facilitator": "Eric Nelson", 
+        "facilitator_twitter": "@FANgeopolitics", 
+        "id": 737916, 
+        "submitted_at": "2017-04-05T17:21:06.623Z", 
+        "title": "Is fantasy sports a better model for getting people who have never held a newspaper to engage?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "For journalist and developers. Some familiarity with command line terminal prefered but not required and interest in video editing. \n\n- installing ffmpeg ( the easy way using brew)\n- CLI 101 understanding commands and flags arguments \n- some basic ffmpeg commands \n- Extract audio from video\n- Make gift from images\n- Make gif from video\n- Burn srt captions onto video ( captions burner https://voxmedia.github.io/captions_burner )\n- Read video metadata with ffprobe ( eg camera timecode, duration etc..)\n- Work with EDL\n- Use ffmpeg wrappers such as node fluent ffmpeg.\n\nDivide into groups to practice and edit some sample material.", 
+        "facilitator": "Pietro Passarelli", 
+        "facilitator_twitter": "pietropassarell", 
+        "id": 737721, 
+        "submitted_at": "2017-04-05T15:24:46.623Z", 
+        "title": "ffmpeg 101: Video editing at your fingertips."
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "autoEdit.io is an open source project, to make it easier, faster and more accessible to work with video interviews. Participants will be helped to setup the application on their own system for an hands on test run. \n\nDifferent use cases are briefly presented, : \ntranscriptions plain text (Q&A pieces)\nVideo editing (paper cuts EDL)\ncaptioning srt.\n\nSecond part, group discussions on how participants currently tackle the problem of transcriptions, what services, app, tips, tricks and techniques do they use?\nAs well as explore range of use cases they have encountered.", 
+        "facilitator": "Pietro Passarelli", 
+        "facilitator_twitter": "pietropassarell", 
+        "id": 737705, 
+        "submitted_at": "2017-04-05T15:16:32.319Z", 
+        "title": "Hands on autoEdit: How can automated transcriptions help you with captions, Q&A articles, video editing and more…?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "True or false?: Major political events are regularly covered on live TV, and all of them feature speakers with an agenda.\n\nWhen the lens of public attention shines on politicians it is important for journalists to be able to contextualize their messages as quickly and effectively as possible.  During this session we will teach participants about open source tools that are being used today by live fact checkers to create annotated transcripts. They will learn about an open service called Opened Captions and how it can be used in conjunction with google doc to get real time transcriptions of political speeches. \n\nThis is an hands on session,  drawing on experience from Vox and NPR collaboration, participants will also be shown how to export the annotated speech from the google doc into a news article static web page, that could be ready for publication.", 
+        "facilitator": "Pietro Passarelli", 
+        "facilitator_twitter": "pietropassarell", 
+        "id": 737606, 
+        "submitted_at": "2017-04-05T14:33:34.107Z", 
+        "title": "Hands on: Live fact checking TV speeches in your google docs!"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The Internet of Things is not a bunch of IFTTT recipes. IoT is an idea that a network of connected devices can inform and improve our lives. We've seen many news dispatches from the dystopian hellscape of consumer IoT with toys, cameras, and other compromised devices making us second guess if this is all just a horrific blunder. However, there are massive efficiencies being gained through industrial and agricultural uses of IoT. As we continue down the path of real-time tweaking of our reality based on data, journalists need to understand how commercial IoT is being used and how to more meaningful interpret data reported by government, non-government, and private-sector entities using IoT.", 
+        "facilitator": "Dave Stanton", 
+        "facilitator_twitter": "gotoplanb", 
+        "id": 737187, 
+        "submitted_at": "2017-04-05T05:22:37.821Z", 
+        "title": "Making sense of the Internet of Things"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "While it would be amazing for journalists to be spread across America, the big media companies are parked mostly in NYC and DC. This means we analyze data from afar and write anecdotal trend pieces without much understanding of the vast and diverse local populations that might be impacted or influencing some topic. Fear not! There are bunches of motivated and stoked people at the local level that want to find, process, and provide information to the public to help them be more informed. These civic hacktivists share an ethos with journalists. We should look to connect with local Code for America brigades to get more context at the local level until we actually achieve better geographic diversity in media.\n\nRebekah and Dave co-founded two Code for America brigades in Florida (Miami and Gainesville). Erie recently joined Code for America to help strengthen the network of brigades. This means they help connect hackers and activists with their local governments to find ways to make government work better for the people. Come and discuss tactics for connecting with local brigades to find data and better understand local issues, local people and local governments… since we know y’all don’t have people living there.", 
+        "facilitator": "Dave Stanton", 
+        "facilitator_twitter": "gotoplanb", 
+        "id": 737155, 
+        "submitted_at": "2017-04-05T04:19:36.339Z", 
+        "title": "Code Across America: Working with local Code for America brigades to find local stories"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "If people come to you to find out how to troubleshoot encryption keys or choose a password manager, you're a security trainer. Even if you know you're not really qualified or an expert. So let's talk about best practices for ethical and responsible skill sharing, and about strategies for helping your friends, family, colleagues, sources, neighbors, and local lawmakers get their digital privacy straightened out without overwhelming anyone.", 
+        "facilitator": "Amanda Hickman", 
+        "facilitator_twitter": "amandabee", 
+        "id": 735317, 
+        "submitted_at": "2017-04-05T00:44:03.391Z", 
+        "title": "Let's be better security trainers together"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "When search and social platforms dominate how news sites get traffic, how much does the actual organization of a news site matter anymore? People from different news orgs will share what they are doing with taxonomy and section fronts.", 
+        "facilitator": "Albert Sun", 
+        "facilitator_twitter": "albertsun", 
+        "id": 734638, 
+        "submitted_at": "2017-04-03T22:10:56.958Z", 
+        "title": "Taxonomy? Do tags, categories and feeds matter anymore?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Using some of the videos from the Whistle Blowers Interview Archive(whistleblower.press), we’ll take an hands on approach to explore key concepts, ideas and techniques to identify narrative points, test out story ideas, and craft a compelling story.\n\nThis session focusses on the underlying evergreen storytelling principles that transcend the medium, so no knowledge of video or audio editing required, just curiosity towards story telling principles and techniques.", 
         "facilitator": "Pietro Passarelli", 
         "facilitator_twitter": "pietropassarell", 
