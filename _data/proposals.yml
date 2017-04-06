@@ -2,6 +2,46 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Website accessibility is a big, hairy problem. Not very many great resources exist, testing can be a pain, and just figuring out where to start can leave you scratching your head. As a result, if accessibility gets thought about at all, it's as an afterthought. If you're someone who needs an accessible site, you're left wandering in an information wasteland.\n\nIt doesn't have to be this way! Building accessible websites is completely doable. You just have to think about it from the beginning. In this session, we'll start with an overview of basic accessibility principles, tools, and testing. We'll then break into groups and try testing some apps, data visualizations and sites in a way that will help you think about how usable the site really is. You'll walk away with a sheaf of resources and, hopefully, a new understanding of what accessibility on the web can look like.", 
+        "facilitator": "Heather Billings", 
+        "facilitator_twitter": "hbillings", 
+        "id": 738551, 
+        "submitted_at": "2017-04-06T00:17:04.198Z", 
+        "title": "News for everyone: Thinking about accessibility"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "As people in the news business, we tend to read tons of stuff. But it's easy to get into a rut of reading only news stories and commentary about the people who write them. What else do you like to read? Is there something that helps you get out of the journalism echo chamber from time to time, see the world from another perspective, and maintain a bit of work/life balance? Let's share suggestions—the less conventional, the better!", 
+        "facilitator": "Justin Myers", 
+        "facilitator_twitter": "myersjustinc", 
+        "id": 738484, 
+        "submitted_at": "2017-04-05T22:51:35.643Z", 
+        "title": "Battle the Bubble: What are you reading beyond journo-Twitter?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Facebook data can be used to gain insights in communities' behaviours. Most prominently, it was used in WSJ's Blue Feed / Red Feed [1].\nWe (derStandard.at | DER STANDARD) also used it to cover the Austrian presidential elections, covering the candidates' preferred media outlets (by analyzing links), comment moderation behaviour [2] and fan's other liked pages (a la Blue Fed / Red Feed).\nWe also mapped connections between right-wing organizations, media and politicians using (among others) the audience overlap on their Facebook pages.\n\nThis session will cover an intro to the available data, how to work with it, and common traps to avoid.\n\n[1] http://graphics.wsj.com/blue-feed-red-feed/\n[2] http://derstandard.at/2000048203012/Praesidentschaftskandidaten-Was-von-den-Facebook-Seiten-verschwindet", 
+        "facilitator": "Markus »fin« Hametner", 
+        "facilitator_twitter": "fin", 
+        "id": 738442, 
+        "submitted_at": "2017-04-06T09:04:08.130Z", 
+        "title": "Working with Facebook data"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Sifting through big data can provide fantastic insights without needing heavy lifting software. Besides map reduce and rigorous scientific methodology, there can often be interesting insights gleaned from the outliers. Zooming into small data can reveal either bugs in your big data scope or oddball user behaviour. Both of these can be nuggets of gold.", 
+        "facilitator": "Nicola Hughes", 
+        "facilitator_twitter": "DataMinerUK", 
+        "id": 738435, 
+        "submitted_at": "2017-04-05T22:17:25.167Z", 
+        "title": "Is It A Bug Or Is It A Story? Examples of data science in the newsroom"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Whether you’re an aspiring manager, or have been leading teams for years, managing people can present intimidating challenges. What are you most afraid of? Maybe you think you’re not ~ charismatic ~ enough. Or you worry that being manager means you’re not doing “real” work. Perhaps you’re nervous that your team doesn’t like you (and you might be right). As a group, or in small groups, we’ll talk about the things that most terrify us, and then work together to come up with solutions and ideas.", 
         "facilitator": "Kaeti Hinck", 
         "facilitator_twitter": "@kaeti", 
