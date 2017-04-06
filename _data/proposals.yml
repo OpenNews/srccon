@@ -2,6 +2,56 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "This session will discuss the ways in which people integrate code review into the coding process. Whether you are a developer, analyst or designer – what strategies work when you have someone to review or pair with, vs. when you’re the solo coder, or vs. when everyone is just too busy?!", 
+        "facilitator": "Jennifer Stark", 
+        "facilitator_twitter": "@_JAStark", 
+        "id": 739262, 
+        "submitted_at": "2017-04-06T16:32:05.156Z", 
+        "title": "Code review strategies when you're on a team vs. code solo."
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Many of our newsrooms are awash with teachers. We’re adjuncts at j-schools, mentors at non-profits and lecturers at bootcamps. How can we take the curriculums and techniques we use outside our day-jobs to help our organizations grow? How can in-newsroom coding classes be flexible enough for newsroom demands? Trickier still, how do we convince managers it’s a worthy investment? Let’s focus our efforts: Together we can brainstorm a curriculum and the best way to get buy-in. Focusing less on how to teach one-off sessions, we’ll build a multi-week course outline and include useful teaching techniques to spread knowledge and expertise throughout the newsroom for folks who will benefit the most.", 
+        "facilitator": "Julia Wolfe", 
+        "facilitator_twitter": "juruwolfe", 
+        "id": 739257, 
+        "submitted_at": "2017-04-06T15:45:19.552Z", 
+        "title": "Hacking a code-rriculum for your newsroom"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Email as a medium has had a bad reputation - we can't seem to stop drowning in our inboxes. But the popularity of email-first publications like Lenny and the Skimm and offerings from established organizations like the Atlantic and the New York Times's Daily Briefing and Race/Related newsletter bucks that trend. How can you cut through inbox noise to deliver valuable experiences that build deeper relationships with your readers? We'll talk through identifying user needs, awareness tactics, and how format, tone, rhythm and structure can influence the success of your project. Through a series of group design exercises, you'll learn how to develop a nascent idea into a full fledged project that takes advantage of email's strengths. At the end of this workshop you'll be able to take these strategies back to spin up email-based projects on your own.", 
+        "facilitator": "Tracie Lee", 
+        "facilitator_twitter": "ambienttraffic", 
+        "id": 739187, 
+        "submitted_at": "2017-04-06T14:54:16.196Z", 
+        "title": "Email is dead, long live email"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "You're on a product, design or engineering team but you work at a news organization. Should you play by the same rules as the newsroom, or is this an infringement on your speech? Reasonable people can disagree, so let's do that. Let's disagree and see what we can learn on either end of the spectrum.", 
+        "facilitator": "Brian Hamman", 
+        "facilitator_twitter": "hamman", 
+        "id": 739182, 
+        "submitted_at": "2017-04-06T14:40:49.040Z", 
+        "title": "Should Our Engineers Donate to Campaigns?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Organizing community media hacks, hackathons or mediathons is always stressful, exhausting and most of the time frustrating. After 2 years organizing hacking events in different countries and for different objectives some life hacks for hacks have made a part of my experience. No more \"uber\" for news services, or \"tinder\" for content.  Gathering a community to share their skills towards one objective should be fun but most of all, useful. Imagine 150 women from 12 different Spanish speaking countries working on one issue: gender. That's what happened at  Mexico's mediathon 2016.  From pre working every session to pre organize teams, choosing profiles, choosing themes before hand, have a plan to continue and publish the final products.  Building communities through marathons of skill sharing and covering specific news is an opportunity and it's powerful. Let's work on the spaces where we can publish the stories we want but can't in our newsroom.", 
+        "facilitator": "Sandra Barrón", 
+        "facilitator_twitter": "_sandrabarron", 
+        "id": 739175, 
+        "submitted_at": "2017-04-06T14:53:56.023Z", 
+        "title": "Hack your hackathon"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Website accessibility is a big, hairy problem. Not very many great resources exist, testing can be a pain, and just figuring out where to start can leave you scratching your head. As a result, if accessibility gets thought about at all, it's as an afterthought. If you're someone who needs an accessible site, you're left wandering in an information wasteland.\n\nIt doesn't have to be this way! Building accessible websites is completely doable. You just have to think about it from the beginning. In this session, we'll start with an overview of basic accessibility principles, tools, and testing. We'll then break into groups and try testing some apps, data visualizations and sites in a way that will help you think about how usable the site really is. You'll walk away with a sheaf of resources and, hopefully, a new understanding of what accessibility on the web can look like.", 
         "facilitator": "Heather Billings", 
         "facilitator_twitter": "hbillings", 
