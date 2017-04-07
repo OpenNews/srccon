@@ -2,12 +2,52 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "The title says it all. We’ll kick off the session with some examples from our own work -- from getting people to talk about their own mortality (#WhatMattersMost) to asking them to share what was motivating their vote in the 2016 election (#MyTopIssue) to “inviting” them to a historical event (don't forget to tag your +1!)\n\nBut more importantly we want to hear from others -- what’s worked for you? Why? What would you have done differently? And how have you built upon your success?\n\nThis will be a fun, creative, rapid-fire session.", 
+        "facilitator": "Sarah Moughty", 
+        "facilitator_twitter": "smoughts", 
+        "id": 745672, 
+        "submitted_at": "2017-04-07T23:36:16.608Z", 
+        "title": "Steal This Idea: Audience Engagement Strategies That Work"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Over a year on, have Accelerated Mobile Pages and Instant Articles made the web great again?\n\nLet's compare notes on how Google and Facebook's schemes have affected our sites, our readers, and the bottom line. What has worked and what hasn't for each of the formats, from an editorial and technical standpoint? What pains us the most about the services? How are we feeling, really? We'll get it all off our chests.\n\nThen, with a bigger focus on interactive content with AMP and newer developments likely to be announced between now and SRCCON -- especially for Instant Articles at F8 in April -- we will also look towards the future. What changes are coming, and what changes would we as publishers like to see? How can we plot together to make them happen?", 
+        "facilitator": "Mo Jangda", 
+        "facilitator_twitter": "mjangda", 
+        "id": 745661, 
+        "submitted_at": "2017-04-07T23:30:22.882Z", 
+        "title": "AMP & Instant Articles Group Therapy Session"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "After election 2016, more people are aware of the insular bubbles they live in. How can we encounter more people beyond our existing networks? Let's review some existing projects that attempt to burst bubbles, discuss challenges/dangers/pitfalls, and brainstorm ways to escape echo chambers.", 
+        "facilitator": "Cathy Deng", 
+        "facilitator_twitter": "cthydng", 
+        "id": 745634, 
+        "submitted_at": "2017-04-07T23:27:27.323Z", 
+        "title": "Creative ways to break people out of their bubbles"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "There is a lot of stigma around talking about mental health that often most of us choose to remain silent about it. After all no one wants to come off as “crazy” to their co-workers. \nMental illness spans a spectrum from ridiculed to romanticized. Certain mental conditions are praised and talked about as desirable traits. Statements like “She is OCD about code styles,” are often passed around as compliments.\n\nLet’s talk about talking about mental health at workplace. Let us collectively try to answer some of these questions and more.\n\nHow and when should you talk about mental health?\nWho should your share it with? How do you draw the line between sharing and oversharing?\nHow can managers and co-workers do better wellness-checks without seeming intrusive?\nHow do you talk about your clinical diagnosis and distinguish it from hyperbole when words like bipolar, addiction, OCD and depression are thrown around casually?\n\nThis will be an off-the-record conversation where we discuss some issues and problems and walk away with ideas for self-care. We hope that the participants walk away feeling that they are not alone.", 
         "facilitator": "Kavya Sukumar", 
         "facilitator_twitter": "kavyasukumar", 
         "id": 745610, 
         "submitted_at": "2017-04-07T23:01:15.910Z", 
         "title": "Keeping sane at work: Talking about mental health"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "As much as we'd love to believe that people are rational, fact-driven creatures...our brains aren't wired that way. Our mental heuristics (aka shortcuts) serve us well as cavemen in securing food and avoiding predators. However, these mental tendencies can become dangerous when we evaluate complex information, interpret the news, and develop political beliefs. Let's review some interesting findings from cognitive science and discuss their practical implications for journalists.", 
+        "facilitator": "Cathy Deng", 
+        "facilitator_twitter": "@cthydng", 
+        "id": 745584, 
+        "submitted_at": "2017-04-07T23:09:14.255Z", 
+        "title": "Humans are irrational! & what it means for journalists"
     }, 
     {
         "cofacilitator": null, 
