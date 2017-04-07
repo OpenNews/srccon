@@ -2,6 +2,86 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "We all know that breaking down the walls between editorial, design, and engineering is beneficial to not only our newsroom products but also to the stories we share with our audience. But we’re just scraping the surface of collaboration between writers and designers. In many newsrooms the design process is something that happens at the very end of a project, and usually consists of applying a layer of visual design to a completed project. \n\nIf we apply traditional product design processes such as brainstorms, rapid iteration, and user testing to our storytelling products, we can make better experiences for our audience. By taking an example story concept, we will do a design brainstorm to think of different ways to tell one story. Participants will also leave with documentation and examples of how they can apply all parts of the product design process to a story.", 
+        "facilitator": "Kelsey Scherer", 
+        "facilitator_twitter": "kelsa_", 
+        "id": 744844, 
+        "submitted_at": "2017-04-07T18:43:41.209Z", 
+        "title": "How to apply a product design process to your storytelling projects"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Look around you, in your newsroom. How diverse are your developers and data journalists? Progressive journalism schools have been producing women, people of color, women of color that are developers and data journalists... but they aren't getting hired. This ain't no pipeline problem. At some point we need to stop talking about diversity and start hiring or realize we are the problem in this equation.", 
+        "facilitator": "Robert Hernandez", 
+        "facilitator_twitter": "webjournalist", 
+        "id": 744800, 
+        "submitted_at": "2017-04-07T18:31:55.664Z", 
+        "title": "What the hell is our problem?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "It’s surprisingly easy to end up in a teaching role without any particular training in how to teach. Whether you teach regularly or just occasionally (like leading sessions at conferences, hint, hint), come join this crash course in how we can teach to groups more effectively. We’ll take a quick look at recent trends and research in pedagogy for strategies you can use, then talk through common classroom problems such as needy and know-it-all students, questions you can’t answer off-hand, and how to deal if you don’t fit your students’ expectations about what a teacher is like.", 
+        "facilitator": "Lisa Waananen Jones", 
+        "facilitator_twitter": "@lisawaananen", 
+        "id": 744794, 
+        "submitted_at": "2017-04-07T18:54:30.160Z", 
+        "title": "Teachers' Lounge: Talking Tips and Strategies for Effective Teaching to Groups"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "It can sometimes feel as if every week there's some new framework or build tool or language in vogue. Such is the nature of the tech industry, but in a busy newsroom it can be difficult to find the opportunity to explore new shiny things while meeting tight deadlines and reacting to breaking news. On the other hand, lagging too far behind can leave us with out-of-date practices and isolated from the wider industry. In this session, we'll be discussing how to get this balance right, how to adopt new tech within teams and departments without leaving anyone behind, and how to deal with FOMO (fear of missing out). Finally, we will work together to come up with a practical criteria for evaluating new technologies.", 
+        "facilitator": "Elliot Bentley", 
+        "facilitator_twitter": "elliot_bentley", 
+        "id": 744769, 
+        "submitted_at": "2017-04-07T18:17:36.313Z", 
+        "title": "Keeping Up With the Code Fashion Trends"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Come challenge and explore your perspective on power as an individual and in a group. We'll facilitate the classic Drawbridge Exercise often used in anti-racism trainings, and look for ways that it might strengthen our storytelling. We hope that this exercise is mentally, socially, and emotionally enlightening. It might be more fun if you don't Google the activity beforehand.", 
+        "facilitator": "Jenny Ye", 
+        "facilitator_twitter": "thepapaya", 
+        "id": 744750, 
+        "submitted_at": "2017-04-07T18:45:51.571Z", 
+        "title": "The Drawbridge Exercise: an exploration of power"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "News breaks and journalists & editors scramble to react. Afterward shoulders are shrugged and we say \"Forget it, Jake. It's breaking news.\" That's how it works right?\n\nBut that's not how it needs to work. What if instead we could approach breaking news situations with a sense of calm and confidence? What if we considered the who, what, where, why and how of things that could happen, and simply left the when to chance?\n\nPut simply - let's all plan for the news that could/will happen in our market and consider a needs assessment. \n\nWhat background information and context should be at or near our fingertips? How to teach a reporting staff to know what their first \"reads\" are of a situation given their beat? What roles need to be filled first to get a handle on the news? What efficient and non-repetitive methods of managing information exist? How can we receive information from our audience? How can we convey meaningful information to our audience? And what traps exist?", 
+        "facilitator": "Chris Keller", 
+        "facilitator_twitter": "chrislkeller", 
+        "id": 744572, 
+        "submitted_at": "2017-04-07T18:04:23.295Z", 
+        "title": "This just in... You can plan for breaking news"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Hackers, state programs, malicious advertising code, coffeeshop snoopers, airline Wi-fi— all of these have the potential to steal our users personal information. What responsibility do we have to protect our users information? How can we achieve those responsibilities? How can we be honest with our users about what we do not have control over?\n\nThere are a lot questions swirling about privacy on the internet, and we want to dive into the tough questions we have to ask ourselves about how role to protect users on the internet today.", 
+        "facilitator": "Ian Carrico", 
+        "facilitator_twitter": "iamcarrico", 
+        "id": 744555, 
+        "submitted_at": "2017-04-07T17:43:43.467Z", 
+        "title": "How do we protect our users privacy?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Several data visualisation folks, including myself, have had to kill babies because they aren't meant for smaller/vertical devices. Another thing most of us have done in the past is making an amazing interactive visualisation for bigger screens and having a static version of it for mobile devices. \n\nTo overcome this struggle that always ends with me cursing the existence of phones, I have been wireframing first for the mobile and then for desktop. It helps me avoid thinking of visualisations that would never work on a phone. That is just the first step.\n\nIn this session we'll discuss more of such approaches - strategies and pointers to make better visualisations. These are visualisations that are not scaled down to work on the phone, but provide a rich experience irrespective of a user's device. After going over the pointers, we'll distribute some story ideas and sketch out a mobile wireframe/data viz to apply all that we learnt!", 
+        "facilitator": "Gurman Bhatia", 
+        "facilitator_twitter": "gurmanbhatia", 
+        "id": 744553, 
+        "submitted_at": "2017-04-07T17:49:42.934Z", 
+        "title": "Designing visualizations for mobile"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Readers are increasingly relying on apps like Apple News and Facebook to get their news and relying less on directly sourcing information from media websites. If news organizations only publish stories on our own websites we’re missing out on a huge opportunity to read a wider, more diverse audience. However, investing engineering and design time into supporting a wide variety of platforms is not always feasible — each platform has their own set of constraints that makes building something for each is time consuming. With this session, we’d like to pose a few questions: How might we pare down interactivity to fit constraints of each platform without sacrificing innovation? How might we maintain quality of code and design when creating two or more versions of the same story? How might we make better tools to allow for more newsrooms to take advantage of publishing on distributed platforms?", 
         "facilitator": "Kavya Sukumar", 
         "facilitator_twitter": "kavyasukumar", 
@@ -28,6 +108,16 @@
         "id": 744257, 
         "submitted_at": "2017-04-07T16:25:15.234Z", 
         "title": "I've made mistakes, you've made mistakes, we've all made mistakes. And it's OK"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "As thoughtful and deliberate as we try to be, we’re all still human, and the overwhelming majority of us tend to seek out information that confirms what we already believe to be true. That’s a problem. As media organizations, we’re only serving a fraction of our communities if we can only reach those who already know and agree with the stories we’re sharing. So, what actually encourages people to consider perspectives that differ from their own, and how do we create more space for that?\n\nIn this session, we’ll dig in on these questions and get a little vulnerable as we try to create that space for ourselves. We’ll talk about how people come to believe what they believe, and look at the latest research around confirmation bias, the backlash effect, and other factors that shape how we make decisions and, ultimately, change our minds. In small groups, we’ll talk about areas where our perspectives have changed over time, and reflect on the forces that helped us change our point of view. We’ll surface common themes as a group and discuss ways these experiences could inform and—dare we say—change the way we approach our work.", 
+        "facilitator": "Marie Connelly", 
+        "facilitator_twitter": "eyemadequiet", 
+        "id": 744228, 
+        "submitted_at": "2017-04-07T17:14:48.911Z", 
+        "title": "How do we change our minds anyway?"
     }, 
     {
         "cofacilitator": null, 
@@ -582,7 +672,7 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
-        "description": "The web has been moving to be more secure and under HTTPS for some time— but many outlets are having issues moving to a more secure web for their content. This generally boils down to issues with 3rd party content and advertising revenue streams that can be affected from the move. But there are also massive benefits to moving to HTTPS. Not just ensuring the privacy and security of our users— but there is also many new web APIs that require it.\n\nFor the session— we want to dive into the issues that we have faced, and how many of us are working within a new HTTPS world. We also want to look into the new web APIs that HTTPS opens up, and how they can be used on our own web experiences.", 
+        "description": "The web has been moving to be more secure and under HTTPS for some time— but many outlets are having issues moving to a more secure web for their content. This generally boils down to issues with 3rd party content and advertising revenue streams that can be affected from the move. But there are also massive benefits to moving to HTTPS. Not just ensuring the privacy and security of our users— but there is also many new web APIs that require it.\n\nFor the session— we want to dive into the issues that we have faced, and how many of us are working within a new HTTPS world. We also want to look into the new web APIs that HTTPS opens up, and how they can be used on our own web experiences.", 
         "facilitator": "Ian Carrico", 
         "facilitator_twitter": "iamcarrico", 
         "id": 664705, 
