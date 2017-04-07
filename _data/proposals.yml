@@ -2,6 +2,96 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "This session will give an overview of Flourish (flourish.studio), a powerful and flexible new platform for data visualization and interactive storytelling. Flourish allows journalists to quickly make and publish high-end interactive content from an ever-growing library of templates. But crucially newsrooms developer can use the Flourish SDK to adapt templates or make new ones from scratch using D3, WebGL or any other libraries and technologies. These new templates can be shared with newsroom colleagues – to create a custom toolkit for a particular newsroom – or released publicly for everyone to use or adapt. Thanks to a partnership with Google News Lab, Flourish is free for newsrooms, including support with publishing and template development. This overview will introduce Flourish both for journalists and newsroom developers.", 
+        "facilitator": "Duncan Clark", 
+        "facilitator_twitter": "@theduncanclark", 
+        "id": 741614, 
+        "submitted_at": "2017-04-07T10:46:18.801Z", 
+        "title": "Flourish: How to Create Powerful Visualization Tools for your Newsrooms"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Things can be difficult if you are one of the few people away from the main team. For a lot of us who work in international newsrooms, a newsroom with multiple offices or with staggered shift schedules, distance, time zones and language barriers can be an issue. How do you keep up with the team? How do you learn new skills when there isn’t really anyone around/awake to share them with you? How do you get help? If you are part of the main team, what are you doing to collaborate with people from another office/timezone? \n\nIn this session, we will learn about long-distance collaboration by playing with Lego followed by a discussion. Participants will be split into paired groups and tasked to build a city together under conditions simulating cross-timezone teamwork.", 
+        "facilitator": "Yue Qiu", 
+        "facilitator_twitter": "YueQiu_cuj", 
+        "id": 740615, 
+        "submitted_at": "2017-04-07T10:09:10.465Z", 
+        "title": "Learning with Lego: how to work with a team when you’re half a world (or half a day) away"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The Edelman Trust Survey shows people increasingly prefer the views of ‘people like me’ to those of experts. This results in them choosing not to vaccinate their children, or argue the moon landing was a hoax. Research shows bombarding people with more facts doesn’t work to change their mind, particularly if they see those with the facts as part of a ‘cultural elite’.\n\nThis session will ask participants to consider how they currently include experts in their storytelling, and workshop some alternatives. By telling stories in more innovative ways, we can help counter the death of expertise, restoring some of the trust that has been eroded in media.", 
+        "facilitator": "Charis Palmer", 
+        "facilitator_twitter": "charispalmer", 
+        "id": 739997, 
+        "submitted_at": "2017-04-07T06:12:42.849Z", 
+        "title": "Experts are the antidote to alternative facts"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Journalism is a powerful tool as a possible place to show different views of the world as well as a voice to model solidarity and allyship. Based on the workshop that Valerie Aurora has been doing in tech companies and the anti-oppresion work that many other organizations have been doing we want to propose a place for people working in media to get resources to educate themselves as way as a place to role play allyship in a moment of the US that show so much hate everywhere. \n\nThis is a workshop to practice simple ways of using privilege and influence to support people that are target of systematic oppression.", 
+        "facilitator": "Gabriela Rodriguez Beron", 
+        "facilitator_twitter": "gaba", 
+        "id": 739950, 
+        "submitted_at": "2017-04-07T04:25:05.017Z", 
+        "title": "Privileges & Allies in the Media Creation"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "We know the mantra, \"own your community.\" It's place in history, a beloved sports team, a recurring story that affects the community.\nTo embrace that mantra today is a taller order than ever with smaller staffs but the same demands.\nLet's take a look through a couple of specific cases where a big event or topic needs to serve up as much good storytelling for our hungry audience as we can come up with. We'll talk about how smart use of the people you have, smart organization of content (both new and exisiting), perceptive and active use of social media and some gee-whiz tools can have you playing up to the competition and building audience.", 
+        "facilitator": "Gina Boysun", 
+        "facilitator_twitter": "@gboysun", 
+        "id": 739926, 
+        "submitted_at": "2017-04-07T03:44:24.839Z", 
+        "title": "Punching above your fighting weight: Owning the story"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "We live in a time of travel restrictions, laptop bans, and surveillance states. The challenges of securing your data, crossing borders, and protecting your sources is getting greater every day. \nWe’ll design a participatory session mapping out the risks and challenges journalists, researchers, and media producers face from an individual to an organizational level. We’ll discuss various security solutions and how to implement them, and cover skills and tools that are essential for digital newsrooms that rely on the internet and connected devices to work. \nWe’ll also share experiences, best practices, learned lessons, and physical security considerations for crossing borders with digital data.", 
+        "facilitator": "Sarah Aoun", 
+        "facilitator_twitter": "sa0un", 
+        "id": 739863, 
+        "submitted_at": "2017-04-07T02:35:52.374Z", 
+        "title": "Developing Digital & Physical Security in Context"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Why is it so hard for even the nerdiest among us to work across teams in a newsroom? In small teams, we’ll create short comics that illustrate collaboration challenges and (possible) solutions.  What kinds of collaboration problems?  Ones we know and love: failure to communicate early, tap the right partners and manage time effectively.  We’ll show some examples and talk about the scenarios they describe, then guide the group exercise to storyboard our own solutions.  Toward the end, we’ll share our work and discuss. No drawing skills required!", 
+        "facilitator": "Becky Bowers", 
+        "facilitator_twitter": "beckybowers", 
+        "id": 739853, 
+        "submitted_at": "2017-04-07T02:08:13.008Z", 
+        "title": "Drawn Together: Doodling Our Way Toward Stronger Collaboration"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Whether you’re a solo journalist with a big idea or working at a massive media organization, eventually you’re going to have to ask someone (or more likely several people) to sign off on checks to make things happen. This session will explore tailoring project pitches to get funder buy-in at a variety of budgets and stakeholders, ranging from crowdfunding and micro-grants to buy-in from your newsroom or large foundation funders.", 
+        "facilitator": "Yvonne Leow", 
+        "facilitator_twitter": "yvonneleow", 
+        "id": 739812, 
+        "submitted_at": "2017-04-07T01:32:12.691Z", 
+        "title": "News App Shark Tank: Tailoring Pitches for Any Funder"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Who doesn't love a good, old fashioned pub quiz? At the start of the session, we will break the room up into groups of five or fewer. Everyone will be given a small whiteboard to write their answers. \n\nRound One: Trivia. We will have four categories: local news, millennials, apps, and accessibility. Each category has four questions and you will get 1, 3, 5, or 7 points to wager on each question. The questions will be based off user research and academic studies about how people consume news. \n\nRound Two: Pictures. We will have screenshots of A/B tests from apps and websites of real publications. Players will need to guess which screenshot was the winning one. \n\nRound Three: Numbers. We will ask questions about the percentage of online users that engage in certain habits. The team that guesses the closest correct percentage wins the points. \n\nFinal Round: Guess the pub! We will read five clues (audience characteristics) of each publication. The earlier you guess the publication, the more points you get – but be careful, if you guess incorrectly you'll get 0 points! \n\nThe winning team will get something totally amazing, like tickets to Hamilton or a puppy. This pub quiz is a great way to have some fun, get to know other attendees, and learn something about the people who consume the content we create. (Credit: This structure is based off of Stump Trivia from the Boston area)", 
+        "facilitator": "Steph Yiu", 
+        "facilitator_twitter": "@crushgear", 
+        "id": 739785, 
+        "submitted_at": "2017-04-07T01:15:43.511Z", 
+        "title": "Know Your Audience! A Pub(lication) Trivia Night (or Afternoon)"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "With trust in journalism under attack, it’s important to reimagine our current processes and products in the newsroom. Design thinking is crucial for this innovation. Let’s practice the framework for design thinking by defining the challenges faced in the newsroom, ideate on potential solutions, and prototype our own products.", 
         "facilitator": "Jennifer Lee", 
         "facilitator_twitter": "jealee_", 
