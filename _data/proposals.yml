@@ -2,12 +2,92 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Congratulations! You’re a news developer. You’ve learned to code, *and* you’ve learned to hack it as a journalist. You’ve worked hard for this. Some of us are lucky enough to find mentors and camaraderie along side other talented tradesmen and women in this noble field. We build and publish ambitious bespoke interactive stories that break the article template. We build tools and libraries that leverage datasets to build maps and graphics on deadline. We tell stories and send them into the world to enlighten and inform. But how did we get here? What drove us into this field, and is that still what motivates us?\n\nThis is a discussion meant to answer mid-career questions: What’s interesting to you personally? What’s exciting about your job, your field, and the work you do, and how are you going to approach it? What does a meaningful career look like to you? What do you think you’ll be doing in 5 years? 10 years? …20 years?", 
+        "facilitator": "Chris Canipe", 
+        "facilitator_twitter": "ccanipe", 
+        "id": 745396, 
+        "submitted_at": "2017-04-07T21:44:21.205Z", 
+        "title": "Mid-Career Questions"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Open formats and protocols are one of the strongest weapons we have to fight some of the challenges that periodically arise in our world of technology. Can we use them to fight the problem of fake news and filter bubbles?", 
+        "facilitator": "Matt Terenzio", 
+        "facilitator_twitter": "@mterenzio", 
+        "id": 745368, 
+        "submitted_at": "2017-04-07T21:26:56.787Z", 
+        "title": "Fighting fake news with open formats and protocols"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Maps are excellent tools for illustrating narratives and digesting complex data, but the world of mapping software is vast and can be intimidating. In this session, we will present an overview of the open source and proprietary software tools available for interactive web map design and development, and provide tips and tricks for processing geographic data and designing visually compelling base maps and data visualizations. We will facilitate a small group activity where you’ll have the chance to get your hands dirty and use a prompt story pitch and some raw data to design and create a custom map.", 
+        "facilitator": "Molly Lloyd", 
+        "facilitator_twitter": "mollymerp", 
+        "id": 745362, 
+        "submitted_at": "2017-04-07T21:16:48.007Z", 
+        "title": "Maps and Storytelling"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Pothole locations, property tax bills, school test scores– local data is still vital to people’s daily lives and therefore, an important part of local news coverage. However, it can many times be tough to get ahold of and to deal with, especially when your editors expect New York Times level of quality with the budget and resources of the Pawnee Journal. In this session, we invite other local data journalists and enthusiasts to discuss the difficulties in working with local data and how can we make it better. How do we deal with local governments that give you data from a dot matrix printer? What are the best strategies to take national stories and localize them, especially when data might not exist on the local level? What’s the best way to showcase a data story that will really resonate with your readers who want to know more about what’s going on in their community? We’ll also be discussing our roles in small and ever-shrinking newsrooms, like we can maximize our usefulness without becoming a service desk. Join us to come up with a game plan to make local data journalism on par quality-wise with what the national newsrooms are doing.", 
+        "facilitator": "Carla Astudillo", 
+        "facilitator_twitter": "@carla_astudi", 
+        "id": 745314, 
+        "submitted_at": "2017-04-07T21:45:00.854Z", 
+        "title": "LOCAL DATA JOURNALISM STILL MATTERS (and we can make it better!)"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The pace of news development makes it very difficult to keep up with the new features being pushed into web browsers every few weeks. And it makes it near-impossible to get involved in the proposal and development process for these features and new APIs while they are in their early stages. And that’s a shame, because it means that we have very little input into the tool the vast majority of our readers use to consume the content we create.\n\nMaybe it’s time to get together and involve ourselves more in those processes. What features do we want browser manufacturers to add? What do news publishers want from the Notification API? What’s holding us back from using it right now? What issues do we have in playing video on the web right now? Or using audio more effectively?\n\nThis session will be an open discussion on how we can best organise ourselves. Do we set up a Slack room? A mailing list? How can we notify each other about new features, share our experiences working with them, or provide feedback on forthcoming features before they’re even developed?", 
+        "facilitator": "Alastair Coote", 
+        "facilitator_twitter": "_alastair", 
+        "id": 745309, 
+        "submitted_at": "2017-04-07T20:57:45.952Z", 
+        "title": "The web platform is evolving rapidly. How can we keep up and shape it into the platform we want?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Pushing for projects with your managers can be hard. In resource-strapped newsrooms, diverting time and money towards digital experimentation can seem like a huge ask. \n\nOne way to get around that? Tiny experiments. Smaller initiatives can be implemented quickly to gather some initial intel that can inform the original idea, spur iteration and help to nudge a project forward.\n\nLet’s talk through how to make a tiny experiment, implement it and, if we have time, prototype (or role play) one on the spot!", 
+        "facilitator": "Julia B. Chan", 
+        "facilitator_twitter": "juliachanb", 
+        "id": 745305, 
+        "submitted_at": "2017-04-07T21:00:21.223Z", 
+        "title": "Push don’t pitch: Conduct tiny experiments to push through ideas instead of pitching them"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Are you mining content to find important information ?\nGreat ! Help us make more data openly available !\n\nFutureTDM is a European project to see how we can improve the uptake of TDM and we came across various barriers: technical, legal and a lack of skill. This session aims to share experiences and skill and discuss  what problems you may have faced and how together can help achieve the right to read is the right to mine !", 
+        "facilitator": "Freyja van den Boom", 
+        "facilitator_twitter": "vdtree", 
+        "id": 745293, 
+        "submitted_at": "2017-04-07T21:15:57.364Z", 
+        "title": "Do you Mine (d) ?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "The Panama Papers, Electionland, Documenting Hate -- in an age of shrinking newsrooms and big stories, collaboration between news organizations is key. Tools and systems that enable the many to work together -- both off-the-shelf and custom -- are a key ingredient to making that collaboration smooth. Together, we'll talk about the pros, cons, and heartaches in getting newsrooms to collaborate, and explore the possibilities through fun, group activities.", 
         "facilitator": "Ken Schwencke", 
         "facilitator_twitter": "schwanksta", 
         "id": 745262, 
         "submitted_at": "2017-04-07T20:41:25.280Z", 
         "title": "Greasing the wheels of inter-newsroom collaboration"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Learning how to protect ourselves online is not just about installing security tools. It's also about learning how our data flows, who see our data, and when. To understand the basics of protecting our data, in this guided exercise, we'll learn threat modeling by examining where our data touches networks in everyday tasks.", 
+        "facilitator": "Martin Shelton", 
+        "facilitator_twitter": "mshelton", 
+        "id": 745245, 
+        "submitted_at": "2017-04-07T21:45:06.517Z", 
+        "title": "Newsroom Threat Modeling 101"
     }, 
     {
         "cofacilitator": null, 
@@ -58,6 +138,16 @@
         "id": 745106, 
         "submitted_at": "2017-04-07T19:52:58.457Z", 
         "title": "Songs of Love and Hate and Interactive Content"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Many data projects, apps, and graphics are built as \"one-offs\", which means they struggle to integrate with the core site and CMS. This leads to a glut of disorganized tools and projects; we shudder as we page through our GitHub repos and S3 buckets, where orphan graphics and datasets lie abandoned. There is great potential in indexing and connecting these projects, to help audiences and reporters alike discover and maintain our institutional resources. This can give a running start to new projects, and connect everyday stories to the larger narratives and investigations around the newsroom. What does your CMS know about your graphics, data apps, and visualizations? If the answer is \"not much\", do you maintain a list or wiki to index and record your output? Do you have a typology of data projects? Can your CMS connect resources between disparate projects? For those who have managed successful initiatives in this area, what technical solutions and cognitive frameworks helped you get there?", 
+        "facilitator": "Liam Andrew", 
+        "facilitator_twitter": "mailbackwards", 
+        "id": 745092, 
+        "submitted_at": "2017-04-07T21:34:27.110Z", 
+        "title": "Connecting your data projects to the CMS...and each other"
     }, 
     {
         "cofacilitator": null, 
