@@ -2,6 +2,76 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "After years, you’ve finally convinced your bosses/clients/teams to go agile — but why do the same stubborn problems remain? Sprints get interrupted, editors can’t define acceptance criteria, and the newsroom still doesn’t get along with the ad team. We’ll work in small groups, to discuss the problems (or questions) that still exist in “newsroom agile.” In part two, groups will share some of the problems and talk about solutions we’ve tried or ideas on how to get the most out of news developers, while grappling with the realities of the news cycle.", 
+        "facilitator": "Jared Novack", 
+        "facilitator_twitter": "jarednova", 
+        "id": 744000, 
+        "submitted_at": "2017-04-07T15:18:25.983Z", 
+        "title": "Why Isn’t Agile Solving All of My Problems?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "This session will adapt the freeform map-building game [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year/) to the context of a newsroom, with players playing as themselves within a newsroom covering a big story on a four-day deadline. A deck of cards is split into four suits; each suit represents a day and each card an hour. Draw a card, read the prompt, and determine how it affects your story in progress. The goal is to make it to the deadline with everything you need to publish the story.\n\nAfter 55 minutes of play, we'll come back together to talk about sources of tension between different aspects of the newsroom, ways that people worked together, and how you might have handled things differently given a second chance.", 
+        "facilitator": "Ben Keith", 
+        "facilitator_twitter": "benlkeith", 
+        "id": 743908, 
+        "submitted_at": "2017-04-07T15:17:31.746Z", 
+        "title": "A Quiet Week: A game about making the news"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Build a web platform. Now publish many distinct brands using the same codebase, while assigning each brand a unique look and feel. This session will explore ideas for managing brand-specific characteristics, how those characteristics may apply to a visual website theme, and some tools for generating customized assets that skin each brand. We'll take a high-level look at some platform design, asset management, and publishing workflows currently used to distinguish Vox Media's web brands.", 
+        "facilitator": "Greg MacWilliam", 
+        "facilitator_twitter": "@gmacwilliam", 
+        "id": 743755, 
+        "submitted_at": "2017-04-07T15:11:09.894Z", 
+        "title": "Branded Websites, at Scale"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The U.S. has become increasingly polarized and, ironically, we complain about it within our own filter bubbles. Indeed, we comfortably sympathize with the views of our political parties, influencers and friends, and ignore the banter; in fact, Fox News viewers believe the news they watch is “fair and balanced”, while CNN watchers dismiss the idea that they could possibly be consuming “fake news.”  But why such polarization and how did we get here?  If Brexit and the US election teach us one thing, it is that it may be time to step outside our comfort bubbles and start a conversation with the opposing view. \n\nNow suppose you land in another filter bubble full of despisers and disbelievers. How would you convince them that universal healthcare isn’t a bad idea, or that a strong dollar doesn’t translate into a strong US economy? How would you even start such a conversation? For more complicated political and economic issues, how would you help people move forward beyond face value and hearsay? If laying out facts doesn’t work, how can you approach others outside your own filter bubbles with a more accessible, heartfelt or persuasive approach?\n\nThe suggested encounter will not be easy. But filter bubbles won’t burst by themselves. It is up to us to take them on, and we are conscientious and badass enough to pull it off!", 
+        "facilitator": "Sonya Song", 
+        "facilitator_twitter": "sonya2song", 
+        "id": 743691, 
+        "submitted_at": "2017-04-07T14:25:06.681Z", 
+        "title": "WHY YOU ARE PART OF THE FILTER BUBBLE PROBLEM AND WHAT YOU CAN DO ABOUT IT"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "jQuery – you may love it, you may hate it, but it always gets the job done. Anyone who builds websites has used it at one point or another. Now, what if you could use your jQuery DOM scripting skills for web scraping? Artoo.js let’s you do exactly that. It is a bookmarklet that injects a web scraper into the browser console and lets you extract data from websites using jQuery – or plain JavaScript, if you prefer that. In this session, we will get you up and running with artoo.js through a series of quick and interactive web scraping exercises. You will learn how to set it up, how to use it for common tasks, and even how to build your own custom scraper bookmarklets for your non-technical colleagues to use.", 
+        "facilitator": "Simon Jockers", 
+        "facilitator_twitter": "sjockers", 
+        "id": 743688, 
+        "submitted_at": "2017-04-07T15:02:04.592Z", 
+        "title": "Web scraping! jQuery! Robots! A data extraction workshop for web developers"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "A few weeks ago, a leader of a non-profit media company asked me for \"the secrets\" to business development - building out new revenue streams, and how he wanted to unlock the special sauce of big media companies. I'm here to tell you - there is no secret sauce, and we all have a role to play in understanding, influencing, driving, and (yes) remaking the business models that underly the companies many of us work for.\n\nAll of our jobs, most of our frustrations, and almost all of our opportunities are shaped by the business models that our employers have. Let's talk about what we need to understand about those business models, how to evolve and change them, and what we need to do to build an independent organizations that have business models that their audience love.\n\nJoin Kate Myers (First Look Media,  Inside Higher Ed, NPR, Kaplan, troublemaker) and Brian Boyer (Spirited Media, NPR, Chicago Tribune, ProPublca, also troublemaker) to discuss what we need to know to build better news organizations today.", 
+        "facilitator": "Kate Myers", 
+        "facilitator_twitter": "TheKateMyers", 
+        "id": 743573, 
+        "submitted_at": "2017-04-07T14:51:40.581Z", 
+        "title": "Business Models: What We All Can Do About Them"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The pressures on news storytellers to be resourceful and to deliver have never been greater. The stresses involved can be compounded by our day-to-day caregiving responsibilities for children and parents, among others. Building on a generative discussion at SRCCON 2016, we’ll discuss promoted practices for prioritizing work projects while being present for loved ones (all while creating some opportunities for fun). We’ll take from examples from what works at different news organizations, in countries around the world, and from your own experiences.", 
+        "facilitator": "Emily Goligoski", 
+        "facilitator_twitter": "emgollie", 
+        "id": 743528, 
+        "submitted_at": "2017-04-07T13:56:29.483Z", 
+        "title": "Caregiving while Reporting, Editing, Publishing, and Analyzing the News"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "This session will give an overview of Flourish (flourish.studio), a powerful and flexible new platform for data visualization and interactive storytelling. Flourish allows journalists to quickly make and publish high-end interactive content from an ever-growing library of templates. But crucially newsrooms developer can use the Flourish SDK to adapt templates or make new ones from scratch using D3, WebGL or any other libraries and technologies. These new templates can be shared with newsroom colleagues – to create a custom toolkit for a particular newsroom – or released publicly for everyone to use or adapt. Thanks to a partnership with Google News Lab, Flourish is free for newsrooms, including support with publishing and template development. This overview will introduce Flourish both for journalists and newsroom developers.", 
         "facilitator": "Duncan Clark", 
         "facilitator_twitter": "@theduncanclark", 
@@ -48,6 +118,16 @@
         "id": 739926, 
         "submitted_at": "2017-04-07T03:44:24.839Z", 
         "title": "Punching above your fighting weight: Owning the story"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "What was that lightbulb moment or interactions that led you to a better understanding of your users/audience? What did it take for you to start seeing them as real people that you *want* to serve, not just eyeballs to count or users to get to perform a specific action? This session is about recognizing those moments, and strategizing how to create them for your coworkers.\n\nPart 1: The session would begin with a few people sharing with the whole group about their \"lightbulb\" moment — the point in time when they shifted their thinking about their audience they're serving. Once those who want to share have shared, we'll divide into smaller groups based on similarity of moments (people who were taught to think this way by a mentor, people who had an interaction with an audience member, people who had some kind of formal empathy training, etc.). Those small groups will write up a quick explanation for why they think that particular experience was successful in changing their mindset. We'll come back together as a group and share the lessons with each other. \n\nPart 2: We'll learn about a specific method of empathy training and try it out. We would break up into groups, assign people specific publications and have them go through the exercise of putting together a persona — a thought-out target audience member with a specific background. Based on this persona, people will then think of ways to serve them with editorial content, story formats and outreach. Time permitting, each group will present their persona and approach. (If time is running short, the groups will pair and present to one other group.)", 
+        "facilitator": "Julia Haslanger", 
+        "facilitator_twitter": "JuliaJRH", 
+        "id": 739888, 
+        "submitted_at": "2017-04-07T13:00:42.965Z", 
+        "title": "How I learned to stop worrying and love the audience"
     }, 
     {
         "cofacilitator": null, 
