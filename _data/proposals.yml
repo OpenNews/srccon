@@ -2,6 +2,36 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Readers are increasingly relying on apps like Apple News and Facebook to get their news and relying less on directly sourcing information from media websites. If news organizations only publish stories on our own websites we’re missing out on a huge opportunity to read a wider, more diverse audience. However, investing engineering and design time into supporting a wide variety of platforms is not always feasible — each platform has their own set of constraints that makes building something for each is time consuming. With this session, we’d like to pose a few questions: How might we pare down interactivity to fit constraints of each platform without sacrificing innovation? How might we maintain quality of code and design when creating two or more versions of the same story? How might we make better tools to allow for more newsrooms to take advantage of publishing on distributed platforms?", 
+        "facilitator": "Kavya Sukumar", 
+        "facilitator_twitter": "kavyasukumar", 
+        "id": 744399, 
+        "submitted_at": "2017-04-07T16:50:31.870Z", 
+        "title": "Keeping up with evolving platforms: Designing and developing with constraints"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Once the exclusive domain of scientists, engineers and HAM radio operators, a new generation of cheap hardware and open source software have cracked open the radio spectrum for hackers and hobbyists – and journalists – to explore. Radios are built into dozens of devices we use every day, and the radio spectrum is a tightly regulated, poorly understood invisible national asset. There are stories flying around in the air around you, and it’s time you started looking for them. Using the popular $20 RTL-SDR USB dongle (limited quantities will be provided at the workshop) we will get you up and running with the tools you’ll need to track aircraft flying over your head, listen to emergency responder radios and download weather satellite images WITHOUT THE INTERNET. We’ll also look at some interesting examples of how the radio spectrum has been used in reporting the news.", 
+        "facilitator": "Jon Keegan", 
+        "facilitator_twitter": "jonkeegan", 
+        "id": 744264, 
+        "submitted_at": "2017-04-07T16:26:44.310Z", 
+        "title": "Exploring the Radio Spectrum for News"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "You're not alone. We've all made mistakes. Let’s talk about our biggest or smallest mess-ups, things we learned from them and what others can do to avoid making the same mistakes. Maybe you cleared your computer by accident or had to issue several corrections on a story. Whatever it is, we're here to support each other. \n\nIn this off-the-record conversation, we’ll talk about some of the mistakes we’ve made and some tricks on how to keep calm after them. We'll also brainstorm ways you can avoid a potential disaster.", 
+        "facilitator": "Sandhya Kambhampati", 
+        "facilitator_twitter": "sandhya__k", 
+        "id": 744257, 
+        "submitted_at": "2017-04-07T16:25:15.234Z", 
+        "title": "I've made mistakes, you've made mistakes, we've all made mistakes. And it's OK"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "After years, you’ve finally convinced your bosses/clients/teams to go agile — but why do the same stubborn problems remain? Sprints get interrupted, editors can’t define acceptance criteria, and the newsroom still doesn’t get along with the ad team. We’ll work in small groups, to discuss the problems (or questions) that still exist in “newsroom agile.” In part two, groups will share some of the problems and talk about solutions we’ve tried or ideas on how to get the most out of news developers, while grappling with the realities of the news cycle.", 
         "facilitator": "Jared Novack", 
         "facilitator_twitter": "jarednova", 
@@ -48,6 +78,16 @@
         "id": 743688, 
         "submitted_at": "2017-04-07T15:02:04.592Z", 
         "title": "Web scraping! jQuery! Robots! A data extraction workshop for web developers"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Journalism tech is a new frontier! VR! 3D modeling! Interactive doohickeys! But for many of us who work in smaller media organizations with old-school content distribution models, our job isn’t just figuring out how to code fancy, exciting new things. It’s a lot more.\n\nAs a lone coder in your organization, you often don’t really fit into any part of that traditional reporting-writing-editing-publishing process. You’re raring to do cool stuff, but to get there you have to be a strong advocate for your ideas, figure out how to structure and manage your own work, and determine which projects are worth your time and which will leave you in a weeks-long quagmire of despair.\n\nLet’s talk about tools and strategies for self-advocacy, time management and communication we all need to get to the fun, awesome, inventive part of our jobs.", 
+        "facilitator": "Andrea Suozzo", 
+        "facilitator_twitter": "asuozzo", 
+        "id": 743600, 
+        "submitted_at": "2017-04-07T16:25:53.241Z", 
+        "title": "So You're a Lonely Coder. Now What?"
     }, 
     {
         "cofacilitator": null, 
