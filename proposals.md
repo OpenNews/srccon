@@ -17,7 +17,7 @@ We'll list proposed sessions for SRCCON 2017 here. After the call for proposals 
     <div class="session-proposal" id="proposal-{{ proposal.id }}">
         <h2 class="session-title"><a href="#proposal-{{ proposal.id }}">{{ proposal.title }} <span class="permalink">&para;</span></a></h2>
         {% if facilitator_name %}<p class="facilitator">Proposed by {{ facilitator_name }}{% if cofacilitator_name %} and {{ cofacilitator_name }}{% endif %}</p>{% endif %}
-        <p class="session-description">{{ proposal.description }}</p>
+        <p class="session-description">{{ proposal.description | markdownify }}</p>
     </div>
 {% endfor %}
 </div>
