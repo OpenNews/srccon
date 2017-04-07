@@ -2,6 +2,126 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "The Panama Papers, Electionland, Documenting Hate -- in an age of shrinking newsrooms and big stories, collaboration between news organizations is key. Tools and systems that enable the many to work together -- both off-the-shelf and custom -- are a key ingredient to making that collaboration smooth. Together, we'll talk about the pros, cons, and heartaches in getting newsrooms to collaborate, and explore the possibilities through fun, group activities.", 
+        "facilitator": "Ken Schwencke", 
+        "facilitator_twitter": "schwanksta", 
+        "id": 745262, 
+        "submitted_at": "2017-04-07T20:41:25.280Z", 
+        "title": "Greasing the wheels of inter-newsroom collaboration"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The Product Game is a fun, intense, and highly interactive card and computer-based simulation of an entire Agile project, packed into a single hour-long game. The purpose of the game is to give digital professionals (i.e. designers and developers) and stakeholders (i.e. editorial and business leaders) the experience of collaborating on a project without actually having to produce any work.\n\nOur seventy-five minutes are carefully planned. We'll spend ten minutes getting into teams and going over the rules, then we'll have one ten minute first round followed by nine five minute rounds. We'll spend the last few minutes reviewing the results, announcing the winner, and debriefing, and we'll share an explanation of the gameplay and scoring with all the players that they can take with them.\n\nAttendees will be quickly split into teams at the beginning of the session based on their role within their organization, and each team will be given a deck of playing cards, plus a budget and a number of person-hours. Teams play their cards using a computer (one laptop is necessary per team) so that scores and account balances update in real time.\n\nEach card is a user story, which costs person-hours and money to produce. Most cards require multiple turns to complete. Each turn represents a Sprint (in Agile sense) and lasts five minutes. A projector at the front of the room shows time remaining in the turn.\n\nEach user story has a point value, but the value of each user story isn't printed on the corresponding card, since product development is never that easy! The short project brief which all teams receive, and a comprehensive audience research report which teams can buy out of their allocated budget provide hints as to which stories are most valuable. Exceeding allotted time or cash budgets can impact the final score too.\n\nAs players engage in the game, what they’ll find is that there are a lot of tradeoffs. Work on lots of features poorly, or just one or two really well? Spend money on research, or save money and hope for the best? Skip QA to spend engineering hours on new features, or make sure all the bugs are squashed?\n\nThe product game is presented by Austin Smith, CEO of Alley Interactive, and Dan Maccarone, CEO of Charming Robot, but make no mistake: this isn't a talk and we won’t have a slideshow, this is an entirely collaborative experience. We bring our experience executing dozens of projects to the game design, but the game itself is a fun workout for collaboration on digital teams, not a tutorial in product development.\n\nWe've played The Product Game twice: we debuted it at the WordPress.com VIP Workshop in 2015, and presented it again at Tribune Media in Chicago. These games focused on building a complete ad-supported digital news product. We'll design a completely new case study for SRCCON which will feature a data-driven news app at a fictional news organization that must integrate with various existing systems, and we'll custom print SRCCON cards with the user stories that will yield a finished product.", 
+        "facilitator": "Austin Smith", 
+        "facilitator_twitter": "netaustin", 
+        "id": 745222, 
+        "submitted_at": "2017-04-07T20:27:47.408Z", 
+        "title": "The Product Game"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The Fluxkit, designed and assembled by George Maciunas in 1965, contained printed matter, a film, and a variety of objects including a “wood box with offset labels and rubber opening containing unknown object.” by the Fluxus artist Ay-O.  The label read: “put finger in hole.”\n\nFluxus artists were playful revolutionaries who tried to undermine the authority of the museum, and the primacy of the artist, often by requiring the viewer to the complete (and, in doing so, co-create) a piece of art.  To many of us, interactive has become a noun.  But how interactive is your interactive, really?  When’s the last time you stopped to consider just how revolutionary an idea it is to include your reader in the completion (or co-creation) of your work as a journalist?\n\nIn this session, we will disengage from our newsrooms and our tools and our data sets for a while and think about the essence of interaction.  What entices us to reach beyond ourselves and affect the world?  What do we expect?  What makes those experiences rewarding?  Is there a difference between exploration and interaction?  How does individual action differ from communal participation?\n\nAlong the way, we’ll consider a range of contrived, non-journalistic, interactive experiences: religious services, Fluxus happenings, game nights, and dance parties.  And we’ll ask why some experiences that invite interaction meet with indifference or refusal.\n\nFinally, we will take our inspiration and create instructions for building a digital interactive experience, and exchange them with each other.  Take your instructions home.  Follow them.  After SRCCON, we’ll publish all the interactives together as new sNerdFluxkit (2017).", 
+        "facilitator": "Scott Blumenthal", 
+        "facilitator_twitter": "blumysden", 
+        "id": 745163, 
+        "submitted_at": "2017-04-07T20:32:37.673Z", 
+        "title": "new sNerdFluxkit (2017)"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Let's find out about your systems for managing all the \"stuff\" that gets thrown your way at work. Whether it's org-mode or Omnifocus, Bullet Journal or a single, giant list please come share how you get organized to get things done. If you don't have a system, that's ok too! You'll hear why your colleagues think their methods are worth the time investment, and find out how to get started.\n\nWe'll talk about the different kinds of stuff we have to manage and why it's important to have a system. \nWe'll walk through a workday to see what kind of \"stuff\" comes our way, then talk with each other about how we handle each kind.\nWe'll talk about ways to avoid inbox bloat and make decisions about inputs.\nAnd finally we'll share other particular pain points or tips & tricks for managing day-to-day tasks.", 
+        "facilitator": "Brent Jones", 
+        "facilitator_twitter": "brentajones", 
+        "id": 745155, 
+        "submitted_at": "2017-04-07T20:39:29.750Z", 
+        "title": "Avoiding the Avalanche: Strategies for staying on top of work instead of being buried by it"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "How do you tag news content? How do you understand what keywords are relevant to the story or what taxonomy an article belongs to? Being able to tag news efficiently is a valuable asset for any news organization that wants to have an online presence, but many news outlets are struggling nowadays when it comes to tagging. \n\nIn this session, we will first take some time to talk about why news tagging is important and which areas it can particularly prove useful for. When is Machine Learning useful? And where do we get taxonomies from? Then, we will present EXTRA (“EXTraction Rules Apparatus”), an open source project that was developed by IPTC (https://iptc.org) with the support of Google DNI and allows news editors to precisely identify the categories to which a piece of news belongs to. The system manages to recommend the most relevant categories using Boolean rules, with sophisticated natural language processing capabilities. We particularly look for the audience to share their views and experience on news tags and taxonomies, what problems they have had or know of and ways they could be solved. Then we will show how this new open source tool can help editors in newsrooms build their own taxonomy system and will let the participants interact with the system and try building their own rules to categorize news stories.", 
+        "facilitator": "Katerina Iliakopoulou", 
+        "facilitator_twitter": "@matzika00", 
+        "id": 745154, 
+        "submitted_at": "2017-04-07T20:39:37.189Z", 
+        "title": "Introducing EXTRA: An open source project to classify news text using rules"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "You're being asked to build the next Snow Fall (\"Hello, 2012 called and they'd like this and Snooki back\") and all you can do is drop in an iframe that won't resize properly, or sneak in a SCRIPT tag into the article text and knowingly break the AMP version. And you have an hour.\n\nWhat if we were to tell you there was a way to have your cake and eat it. Leverage your existing article as the ultimate fallback, learn how to incorporate best practices and practical techniques , and you are free to transform the page however you need.\n\nRevising the user-experience, GIFs, ambient video background, interactive charts, iframes to the obscure, re-skinning. Have it all.\n\nUsing our combined experience from Quartz, Pitchfork, The New Yorker, and Hearst, this session will start from the basic workarounds to leverage today, and increasingly advanced techniques that are considerate of sharing, SEO, web page performance, ads, deployment, version control, and much more...", 
+        "facilitator": "Michael Donohoe", 
+        "facilitator_twitter": "donohoe", 
+        "id": 745106, 
+        "submitted_at": "2017-04-07T19:52:58.457Z", 
+        "title": "Songs of Love and Hate and Interactive Content"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "An ever-growing cornucopia of tools, frameworks, packages, and languages beckons to newsroom developers and media technologists. Whether you’re an individual developer or part of a large, medium, or small team, deciding which technologies to invest your time and sweat equity into may be one of the most important and complex decisions you make. Do we use an old standby that we know really well, or we forge out and try something new? How do we balance following technological passions and interests while still making sure everyone on the team knows how to work with the codebase? Are the benefits of getting in on the ground floor of something new worth the risks? How do you know if your team has the expertise to pull it off, or if your organization has the resources?", 
+        "facilitator": "Matt Johnson", 
+        "facilitator_twitter": "xmatt", 
+        "id": 745089, 
+        "submitted_at": "2017-04-07T19:56:18.277Z", 
+        "title": "How Do You Stack Your Tech Deck?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Global warming is quite possibly the biggest challenge humanity is facing in our lifetime. Yet, we are having a hard time getting the message through: According to a 2016 Pew report, less than half of Americans believe that man-made global warming is real*. \n\nClimate change is a complex topic but also diffuse and impersonal – hard to grasp for both the audience and us journalists. In this session, we'll work on better understanding climate change issues and on finding new, relatable ways to communicate them. We'll play a game in which we step in the shoes of climate change deniers, beneficiaries, but most importantly of those who suffer from the effects of global warming. Based on our learnings from that, we’ll come up with new ideas for communicating global warming, its reasons, and its effects on people’s lives – through graphics, interactive storytelling, or whatever else we can prototype on paper.\n\n* http://www.pewinternet.org/2016/10/04/public-views-on-climate-change-and-climate-scientists/", 
+        "facilitator": "Felix Michel", 
+        "facilitator_twitter": "felixmichel", 
+        "id": 745068, 
+        "submitted_at": "2017-04-07T20:09:09.583Z", 
+        "title": "Making climate change personal"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Daily iPad editions. Audio slideshows. Snowfall everything. Publish with Facebook / Apple / Google / RSS / VR / ???. The Next Big Thing will save the journalism industry, until it doesn’t, by which point we’re already onto the next Next Big Thing. Let’s remember the forgotten futures, share our own favorite failed experiments (was it “too weird” or “not Times-ian” enough?), and acknowledge that most innovation leads to failure -- and no single Next Big Thing will save us.", 
+        "facilitator": "Joel Eastwood", 
+        "facilitator_twitter": "JoelEastwood", 
+        "id": 745064, 
+        "submitted_at": "2017-04-07T19:44:46.924Z", 
+        "title": "The Future Of News That Wasn't"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "In what ways do you interact with datasets? How might those interactions be improved? In this workshop we'll work through a series of small-group exercises to identify:\n\n- how we find, store, analyze, and publish data right now, and how those methods fail us\n- what gets in our way of keeping data organized and reusable\n- the kinds of training team members need to work with data\n- ways we might improve our day-to-day data work\n\nBy the end of the workshop you'll have a clearer understanding of what issues you face when working with data, learned from the experiences of other participants, and started a plan for improving how your newsroom works with data.", 
+        "facilitator": "Seth Vincent", 
+        "facilitator_twitter": "sethdvincent", 
+        "id": 745037, 
+        "submitted_at": "2017-04-07T19:43:06.241Z", 
+        "title": "Working with data: Where was that spreadsheet? Wait, why has it changed?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Hackers have your passwords, ISPs can sell your browsing history, and the CIA presumably knows everything. In a world of internet-connected fridges (and microwaves?) it is hard to separate prudence from paranoia, and easy to be so overwhelmed you do nothing at all. We'll share best practices for journalists working on deadline to secure their communications and identity, and discuss practical strategies to help your colleagues and your sources protect their privacy online.", 
+        "facilitator": "Joel Eastwood", 
+        "facilitator_twitter": "JoelEastwood", 
+        "id": 744947, 
+        "submitted_at": "2017-04-07T19:12:02.621Z", 
+        "title": "Information Security for Mere Mortals"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "In the current political environment, news cycles are getting shorter and the amount of work that needs to be done is greater by the day. We would like to discuss practical approaches newsrooms are taking to cover American democracy in the age of Trump, from building databases to automating information changes to making life easier for on-the-ground reporters and everything in between.", 
+        "facilitator": "Aaron Williams", 
+        "facilitator_twitter": "aboutaaron", 
+        "id": 744933, 
+        "submitted_at": "2017-04-07T20:28:39.955Z", 
+        "title": "Practical approaches for creating software to cover democracy"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "We all know that breaking down the walls between editorial, design, and engineering is beneficial to not only our newsroom products but also to the stories we share with our audience. But we’re just scraping the surface of collaboration between writers and designers. In many newsrooms the design process is something that happens at the very end of a project, and usually consists of applying a layer of visual design to a completed project. \n\nIf we apply traditional product design processes such as brainstorms, rapid iteration, and user testing to our storytelling products, we can make better experiences for our audience. By taking an example story concept, we will do a design brainstorm to think of different ways to tell one story. Participants will also leave with documentation and examples of how they can apply all parts of the product design process to a story.", 
         "facilitator": "Kelsey Scherer", 
         "facilitator_twitter": "kelsa_", 
