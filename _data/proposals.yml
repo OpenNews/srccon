@@ -2,12 +2,152 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "There is a lot of stigma around talking about mental health that often most of us choose to remain silent about it. After all no one wants to come off as “crazy” to their co-workers. \nMental illness spans a spectrum from ridiculed to romanticized. Certain mental conditions are praised and talked about as desirable traits. Statements like “She is OCD about code styles,” are often passed around as compliments.\n\nLet’s talk about talking about mental health at workplace. Let us collectively try to answer some of these questions and more.\n\nHow and when should you talk about mental health?\nWho should your share it with? How do you draw the line between sharing and oversharing?\nHow can managers and co-workers do better wellness-checks without seeming intrusive?\nHow do you talk about your clinical diagnosis and distinguish it from hyperbole when words like bipolar, addiction, OCD and depression are thrown around casually?\n\nThis will be an off-the-record conversation where we discuss some issues and problems and walk away with ideas for self-care. We hope that the participants walk away feeling that they are not alone.", 
+        "facilitator": "Kavya Sukumar", 
+        "facilitator_twitter": "kavyasukumar", 
+        "id": 745610, 
+        "submitted_at": "2017-04-07T23:01:15.910Z", 
+        "title": "Keeping sane at work: Talking about mental health"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The Intercept newsroom just went thru a unionizing drive and joined the Writer's Guild Association (https://www.wgaeast.org/2017/04/the-intercept-unionizes-with-the-writers-guild-of-america-east/). Being part of the union organizing committee we dealt with the challenges of unionizing. Given that we're in an era where the journalism community is under persistent attack from the Trump regime, we want more newsrooms to unionize across the country. \n\nIn this session we want to have a broader discussion about unionizing, focusing on the pros and cons and the process of joining a union.", 
+        "facilitator": "Moiz Syed", 
+        "facilitator_twitter": "moizsyed", 
+        "id": 745564, 
+        "submitted_at": "2017-04-07T22:37:26.823Z", 
+        "title": "UNIONIZE! Pros and cons of being in a union and how to unionize your newsroom"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "What does effective and meaningful mentorship look like in an industry whose shape is rapidly and anxiously shifting? Does the advice of an engineer or editor who’s been in the weeds for a while still hold true amidst new platforms, storytelling formats, and organizational structures? What this conversation presupposes is that, as a group, we can expose a framework for mentorship in media organizations circa 2017 that optimizes for change, flexibility, smart work, and self-care without compromising on the actual work of journalism, engineering, and information design. \n\nIn this session, we’ll talk about both sides of the equation—the experience of being both a mentor and a mentee (if you’re lucky, you’ve been in both situations)—and experiment with conversational frameworks that emerge from the best examples of this interaction, focusing on common issues for careers at all stages in evolving newsrooms and media companies.", 
+        "facilitator": "David Yee", 
+        "facilitator_twitter": "@tangentialism", 
+        "id": 745561, 
+        "submitted_at": "2017-04-07T22:31:25.418Z", 
+        "title": "The Life-Changing Magic of Media Mentorship"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Under the Trump regime the question of how you can reframe biased state collected data under the lens of anti-fascist narratives becomes even more crucial. What are some of the ways to in which the data released by the state can be used in an anti-fascist way?", 
+        "facilitator": "Akil Harris", 
+        "facilitator_twitter": "ghostOfAkilism", 
+        "id": 745533, 
+        "submitted_at": "2017-04-07T22:27:15.969Z", 
+        "title": "How to do anti-fascist work with fascist state data."
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Work in small groups where you tell stories with visuals. Not an artist? Abstraction is key! Ever looked at a drawing/graphic, and it's not Michelangelo style but still appreciate the concept and storytelling? Drawings and graphics can be an effective way to react to the news. From drawing, collaging, to making gifs, brainstorm and make something fun. The newsroom can be very dynamic, there are more than one ways to tell a story! Think to yourself what kinds of stories do I want to draw or tell visually. Work together to come up with a story idea and how to show that visually, ranging from quick reactions to breaking news to an evergreen topic.", 
+        "facilitator": "Stefie Gan", 
+        "facilitator_twitter": "@stefiegan", 
+        "id": 745498, 
+        "submitted_at": "2017-04-07T22:17:20.176Z", 
+        "title": "Cartoons and Funnies in the Newsroom"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Legacy newsroom workflow can hold back any type of innovative thinking. Whether you have a print product or not, all newsrooms are affected by slower, more analog mindsets. Now’s the time for technologists, designers and the in-betweeners (journo-technologists) to spread the word about design and product thinking to editors and reporters. Whether it’s how to think of a story as a product or thinking about breaking news stories as MVPs, we feel thinking intentionally about features, roadmapping, iteration can make journalism stronger and newsrooms more efficient.", 
+        "facilitator": "Helga Salinas", 
+        "facilitator_twitter": "@helga_salinas", 
+        "id": 745483, 
+        "submitted_at": "2017-04-07T21:57:14.172Z", 
+        "title": "It’s time to be a product/design-thinking evangelist"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Newsroom tools are increasingly at the center of change happening across diverse teams. And while it often sounds like technical problems being solved, it is most important to focus on culture and the people behind the processes.", 
+        "facilitator": "Ryan Osborn", 
+        "facilitator_twitter": "@Rozzy", 
+        "id": 745477, 
+        "submitted_at": "2017-04-07T21:56:13.260Z", 
+        "title": "What We Talk About When We Talk About Tools"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "We’ll start with a brainstorm of common topics, concepts, and processes that we think would benefit from explanation on interdisciplinary teams, i.e. version control, APIs, web accessibility, HTTPS, staging vs. production. Then, we’ll divide into groups and come up with any and all relevant metaphors (if time allows, we’ll even do a GIF-based brainstorm!) We’ll eventually refine and narrow down a list of useful metaphors — and none of that “explain what you do to your mom” language — the outcome of this session will be accessible and inclusive metaphors for all!", 
+        "facilitator": "Nicole Zhu", 
+        "facilitator_twitter": "nicolelzhu", 
+        "id": 745452, 
+        "submitted_at": "2017-04-07T21:47:46.654Z", 
+        "title": "Towards better metaphors: Accessible and inclusive ways to explain technical work"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Finding allies, collaborating, following the news, finding your beat, and learning the reporter's walk. For those of us entering journalism for the first time, there is a lot to learn. ie. How to keep up with the pace? We'll break into groups and discuss things we have learned so far: resources good for new journalists, standard practices, ethics, incorporating artwork, personal columns, etc. Previous experiences from different industries can help inform the newsroom. Share your thoughts. For newsroom veterans, come by and provide your perspective and listen in on what newcomers are saying about the newsroom. Having a variety of voices in the newsroom is valuable.", 
+        "facilitator": "Stefie Gan", 
+        "facilitator_twitter": "@stefiegan", 
+        "id": 745451, 
+        "submitted_at": "2017-04-07T22:01:43.822Z", 
+        "title": "New to the Newsroom?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Is your newsroom moving to WordPress? Moving away from WordPress? Moving to your parent company's CMS? Moving to Arc? Building a new CMS from scratch using Node? Rails? Django? (Are you using Django-CMS or Mezzanine or Wagtail?) Going headless with WordPress? Going headless with React?\n\n...or is your newsroom paralyzed by the sheer magnitude of the task of choosing and migrating to a new CMS, let along upgrading your current one?\n\nThis session is about the why and how of migrating your content to new systems. When is it time to change up your CMS, and why? When is it better to repair your ship instead of jumping off? What does the transition process look like-- for instance, how do you handle your archival stories, or make sure your frontend and backend features are in sync? How do you pull it off (technically)? How do you pull it off (organizationally)? Most importantly: was it worth it?", 
+        "facilitator": "Liam Andrew", 
+        "facilitator_twitter": "mailbackwards", 
+        "id": 745429, 
+        "submitted_at": "2017-04-07T22:37:43.048Z", 
+        "title": "Switching CMSes"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Podcasting is becoming an increasingly popular form of expression. The barrier to entry is low, and the industry has a wide range of production values, but what tools, platforms and techniques do we all use to make sure we make the most of our podcasts? We’ll talk to podcasters and non-podcasters alike about their trials, tribulations and aspirations, discussing subjects as diverse as:\n\nRecording equipment\nFile formats\nEditing\nAssistive tools\nDistribution channels and platforms\nPromotion\nRunning length and content\nHopes and fears\n\n- Recording equipment\n- File formats\n- Editing\n- Assistive tools\n- Distribution channels and platforms\n- Promotion\n- Running length and content\n- Hopes and fears", 
+        "facilitator": "Mark Boas", 
+        "facilitator_twitter": "@maboa", 
+        "id": 745424, 
+        "submitted_at": "2017-04-07T21:52:23.116Z", 
+        "title": "Doing the Podcasting thing"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Inviting audiences to share their feedback at all stages of the news process opens paths to better serve our communities. Yet in many newsrooms, we miss this opportunity and only engage our audiences post-publication. Often, we think of user research as something used exclusively for developing technology platforms. But it’s applicable to all kinds of newsroom workflows, from editorial to design to engagement to business development. Creating processes to learn and improve user experiences (UX) can lead to more inclusive digital platforms, content, and tools that share information and engage audiences. \n\nWhen is user feedback valuable? Pretty much always: during the ideation, creation or validation phases for content, platforms, tools and experiences. However, at each of these stages, how and why we use audience feedback is subtly different. So, to navigate this process, we will work together to draw a project roadmap that outlines what types of user feedback can be collected at each stage, and what methods are most appropriate. We’ll identify and practice some impactful ways to gather and respond to user feedback. We will also brainstorm audience engagement tactics, such as: usability testing of interactive graphics on mobile devices, focus groups to decide next steps after a story is produced, or co-designing processes for audiences to engage with your organization in new ways.", 
+        "facilitator": "Sonja Marziano", 
+        "facilitator_twitter": "ssmarziano", 
+        "id": 745413, 
+        "submitted_at": "2017-04-07T21:56:02.659Z", 
+        "title": "Let’s Create a Roadmap for User Testing and Feedback in Newsrooms"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Congratulations! You’re a news developer. You’ve learned to code, *and* you’ve learned to hack it as a journalist. You’ve worked hard for this. Some of us are lucky enough to find mentors and camaraderie along side other talented tradesmen and women in this noble field. We build and publish ambitious bespoke interactive stories that break the article template. We build tools and libraries that leverage datasets to build maps and graphics on deadline. We tell stories and send them into the world to enlighten and inform. But how did we get here? What drove us into this field, and is that still what motivates us?\n\nThis is a discussion meant to answer mid-career questions: What’s interesting to you personally? What’s exciting about your job, your field, and the work you do, and how are you going to approach it? What does a meaningful career look like to you? What do you think you’ll be doing in 5 years? 10 years? …20 years?", 
         "facilitator": "Chris Canipe", 
         "facilitator_twitter": "ccanipe", 
         "id": 745396, 
         "submitted_at": "2017-04-07T21:44:21.205Z", 
         "title": "Mid-Career Questions"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Stereotype: I’m too quiet. I can’t be a leader. \nStereotype: If I don’t show up to work social functions, I am seen as not committed.\nStereotype: I can’t facilitate meetings. I can’t be a leader. \n\nToo often, introverts are shoved aside as being too quiet, too meek, and not social enough to be a leader. In fact, introverts can add great value to teams: being great listeners, thinking differently about team culture, cultivating relationships with colleagues, to name a few. We want to push back on stereotypes about how we lead, how we run teams, how we manage, and how we take care of ourselves as we succeed.", 
+        "facilitator": "Helga Salinas", 
+        "facilitator_twitter": "@helga_salinas", 
+        "id": 745393, 
+        "submitted_at": "2017-04-07T21:52:34.262Z", 
+        "title": "Just because I’m an introvert doesn’t mean I can’t lead"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Machine Learning is becoming an integral part of our lives more and more everyday. From what we buy to what we see on our Facebook feed, there’s an algorithm that tries to understand our habits, our preferences, even our mood when viewing content. What about news content? Should we create a custom user experience when it comes to journalism? \n\nLet’s discuss doing personalization on news platforms. We will start from what a recommendations engine is and how it works. Then will dig deeper into the bigger questions that arise when trying to customize user’s experience when displaying news content:\n\n- How can we make sure the reader is not being kept in a news bubble, but she is still allowed to explore? \n\n- How can we make sure we are not promoting certain news stories more than others?\n\n- How can news editors be part of the process of personalizing the news? \n\n- Who holds the power? Journalists or Engineers? \n\n- What about readers’ data privacy? \n\n- Do readers get to choose when to receive personalized news content? \n\nWe will discuss all or at least most of the above ethical dilemmas and try to give answers based on our experiences in the workplace.", 
+        "facilitator": "Katerina Iliakopoulou", 
+        "facilitator_twitter": "matzika00", 
+        "id": 745374, 
+        "submitted_at": "2017-04-07T22:09:28.182Z", 
+        "title": "The Ethics of Personalizing the News"
     }, 
     {
         "cofacilitator": null, 
@@ -88,6 +228,16 @@
         "id": 745245, 
         "submitted_at": "2017-04-07T21:45:06.517Z", 
         "title": "Newsroom Threat Modeling 101"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Product development, news hierarchy, storytelling capabilities and responsive experiences makes for a significant challenge in building products that handle the news. Add in cross- and off-platform and the mélange of choices makes following the golden path of spicing up an organization's news experience incredibly difficult. Let's help each other see across the dunes by talking through our respective organizations' strategies for dealing with our readers' ever bifurcating approach to consumption, and how to cut through the fog of the future to find the simplest solution.", 
+        "facilitator": "Erin Sparling", 
+        "facilitator_twitter": "everyplace", 
+        "id": 745235, 
+        "submitted_at": "2017-04-07T21:46:25.162Z", 
+        "title": "News Development and Occam's Razor"
     }, 
     {
         "cofacilitator": null, 
@@ -242,6 +392,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Liveblogs in 2016 are very different from live coverage in 2017. Breaking news formats have evolved.  So have story pace and reader preferences.  The New York Times has moved away from liveblogs towards a handful of new forms, each under active guidance/editing.  The Guardian Mobile Lab is prototyping a future for live coverage that moves beyond the single pageview towards self-updating and sequential notifications, alongside “shifting lenses” to give different perspectives throughout a live event.  But even the newest ideas continue to wrestle with being seen as a Product and all that entails.  \nLet’s discuss the latest habits — for newsrooms, readership and notifications — and the future of live coverage tools.", 
+        "facilitator": "Tiff Fehr", 
+        "facilitator_twitter": "tiffehr", 
+        "id": 744790, 
+        "submitted_at": "2017-04-07T22:02:11.988Z", 
+        "title": "Live Coverage Forms For (and From) the Immediate Future"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "It can sometimes feel as if every week there's some new framework or build tool or language in vogue. Such is the nature of the tech industry, but in a busy newsroom it can be difficult to find the opportunity to explore new shiny things while meeting tight deadlines and reacting to breaking news. On the other hand, lagging too far behind can leave us with out-of-date practices and isolated from the wider industry. In this session, we'll be discussing how to get this balance right, how to adopt new tech within teams and departments without leaving anyone behind, and how to deal with FOMO (fear of missing out). Finally, we will work together to come up with a practical criteria for evaluating new technologies.", 
         "facilitator": "Elliot Bentley", 
         "facilitator_twitter": "elliot_bentley", 
@@ -332,6 +492,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "We're sick of building custom newsroom tools that do the same thing over and over again for different projects with a range of different data requirements. This year we're in the middle of building three big data tools for our newsroom that are making us question some of our ways. We want to have some reflection and  a discussion with the SRCCON community and share/gather some best practices in how we can move beyond building bespoke CMSes.", 
+        "facilitator": "Moiz Syed", 
+        "facilitator_twitter": "@moizsyed", 
+        "id": 744062, 
+        "submitted_at": "2017-04-07T22:25:43.669Z", 
+        "title": "Custom data tools: How do we stop building bespoke CMSes?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "After years, you’ve finally convinced your bosses/clients/teams to go agile — but why do the same stubborn problems remain? Sprints get interrupted, editors can’t define acceptance criteria, and the newsroom still doesn’t get along with the ad team. We’ll work in small groups, to discuss the problems (or questions) that still exist in “newsroom agile.” In part two, groups will share some of the problems and talk about solutions we’ve tried or ideas on how to get the most out of news developers, while grappling with the realities of the news cycle.", 
         "facilitator": "Jared Novack", 
         "facilitator_twitter": "jarednova", 
@@ -348,6 +518,16 @@
         "id": 743908, 
         "submitted_at": "2017-04-07T15:17:31.746Z", 
         "title": "A Quiet Week: A game about making the news"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Sometimes it’s hard to see the data ~right before our eyes~. In this session, we’ll talk about ways for people to find sources of inspiration for data-driven stories within communities they cover, even if no dataset currently exists. What if you collected the results of your readers grading the president or used crowdsourcing to find out where cicadas are swarming (both real examples!) to tell stories about your community? \n\nWe’ll talk about how to look for patterns in everyday occurrences to create structured datasets out of text, images, public statements and more, which can enrich and inform our storytelling. We’ll also look at some surprising data sets that already exist and discuss how to incorporate them into our own coverage and use them find new story ideas. Together, we’ll brainstorm data-driven stories inspired by what we find during our stay in Minneapolis, around SRCCON, or even the just in the room we’re in. We’ll workshop some of those ideas and expand the discussion to incorporate them into possible stories in our own communities. We’ll also talk about how to get the rest of your newsroom to think in a data-driven mindset while reporting, and leave with some story ideas to take back with us.", 
+        "facilitator": "Ashley Wu", 
+        "facilitator_twitter": "ashhwu", 
+        "id": 743793, 
+        "submitted_at": "2017-04-07T22:04:23.176Z", 
+        "title": "Data: They walk among us!"
     }, 
     {
         "cofacilitator": null, 
@@ -378,6 +558,16 @@
         "id": 743688, 
         "submitted_at": "2017-04-07T15:02:04.592Z", 
         "title": "Web scraping! jQuery! Robots! A data extraction workshop for web developers"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "It was a great idea. You worked really hard to bring it into this world, watched it grow and blossom. It had its moment in the sun, but now it's starting to slow down. Show its age. It's having a hard time keeping up, to be completely honest. Maybe you've even already moved on. How do you say goodbye? What does end of life care look like for news/tech projects? How do you manage successful transitions and handoffs? In this session we'll talk about about the hard decisions you sometimes have to make, how to prepare for these situations and how to make sure your projects (or at least the lessons learned) live on.", 
+        "facilitator": "Adam Schweigert", 
+        "facilitator_twitter": "aschweig", 
+        "id": 743676, 
+        "submitted_at": "2017-04-07T22:47:01.411Z", 
+        "title": "Let's Talk About Death 💀"
     }, 
     {
         "cofacilitator": null, 
@@ -652,7 +842,7 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
-        "description": "Website accessibility is a big, hairy problem. Not very many great resources exist, testing can be a pain, and just figuring out where to start can leave you scratching your head. As a result, if accessibility gets thought about at all, it's as an afterthought. If you're someone who needs an accessible site, you're left wandering in an information wasteland.\n\nIt doesn't have to be this way! Building accessible websites is completely doable. You just have to think about it from the beginning. In this session, we'll start with an overview of basic accessibility principles, tools, and testing. We'll then break into groups and try testing some apps, data visualizations and sites in a way that will help you think about how usable the site really is. You'll walk away with a sheaf of resources and, hopefully, a new understanding of what accessibility on the web can look like.", 
+        "description": "Designing accessible experiences can feel like a big, hairy problem. Not very many great resources exist, testing can be a pain, and just figuring out where to start can leave you scratching your head. Thinking about it in the context of journalism and visual storytelling — where content is dominant and often unpredictable — can be even more confusing. As a result, if accessibility gets thought about at all, it’s often an afterthought. If you’re someone who needs an accessible site, you’re left wandering in an information wasteland.\n\nIt doesn’t have to be this way! Building accessible content and interfaces — even on tight deadlines — is completely doable. You just have to think about it from the beginning. In this session, we’ll start with an overview of basic accessibility principles, tools, and testing. We’ll then break into groups and look at those principles in the context of journalism — testing some apps, looking at alt text, debating the pros and cons of delivering alternative experiences and and dissecting data visualizations and sites in a way that will help you think about how usable the site really is. You’ll walk away with a sheaf of resources, practical tips to improve your next project and, hopefully, a new understanding of what accessibility on the web can look like.", 
         "facilitator": "Heather Billings", 
         "facilitator_twitter": "hbillings", 
         "id": 738551, 
