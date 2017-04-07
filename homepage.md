@@ -10,6 +10,15 @@ bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8
 permalink: /index.html
 ---
 
+## Thank you, session proposers!
+
+SRCCON is built from the journalism-tech community's passion and creativity, and we're so grateful for all the ideas you came up with for this year's schedule.
+
+<a class="btn" href="/sessions/proposals">Read this year's proposals</a>
+
+You can check out [the amazing proposals for SRCCON 2017](/sessions/proposals), and we'll publish the list of accepted sessions before our [ticket lottery](/tickets) opens on May 3.
+
+{% comment %}
 ## Our call for session proposals is open!
 
 We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**.
@@ -17,9 +26,9 @@ We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**.
 <a class="btn" href="/sessions/proposals/pitch">Pitch a Session</a>
 
 Thinking about a session idea for SRCCON 2017? We've put together [a proposals guide](/sessions/proposals/guide) to help you out. Want to see what sessions have been proposed? [We're publishing them as they come in](/sessions/proposals).
+{% endcomment %}
 
 ## Upcoming dates for your calendar:
-* **April 7**: proposals close
 * **May 3**: ticket lottery opens
 * **May 10**: lottery closes
 
