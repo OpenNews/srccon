@@ -40,7 +40,7 @@ Tickets to SRCCON are [distributed via lottery](/tickets). Once tickets are sold
 <div class="innercontainer">
 
 <h2>What is SRCCON like?</h2>
-<p>SRCCON is a hands-on conference, full of <a href="/sessions">conversations and workshops</a> focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included more than 300 attendees and 50 sessions that covered a wide range of topics, from tech strategies to workplace culture struggles.</p>
+<p>SRCCON is a hands-on conference, full of <a href="/sessions">conversations and workshops</a> focused on the practical challenges that news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included nearly 300 attendees and more than 50 sessions that covered a wide range of topics, from tech strategies to workplace culture struggles.</p>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 <p class="caption"><em><a href="https://vimeo.com/180221748">SRCCON 2016 highlights video</a>, videography by <a href="http://www.searlevideo.com/">Searle Video</a>.</em></p>
