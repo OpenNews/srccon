@@ -7,6 +7,8 @@ sub-section: interior
 background: stickerdots
 byline: Erik Westra
 permalink: /sessions/proposals/index.html
+redirect_from:
+  - /proposals/
 ---
 
 We'll list proposed sessions for SRCCON 2017 here. After the call for proposals closes on April 7, we'll review them all and publish the list of accepted sessions prior to our [ticket lottery](/tickets) opening on May 3. If you have an idea for this year's SRCCON, you can [propose a session now](/sessions/proposals/pitch)!
