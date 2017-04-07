@@ -2,6 +2,96 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "With trust in journalism under attack, it’s important to reimagine our current processes and products in the newsroom. Design thinking is crucial for this innovation. Let’s practice the framework for design thinking by defining the challenges faced in the newsroom, ideate on potential solutions, and prototype our own products.", 
+        "facilitator": "Jennifer Lee", 
+        "facilitator_twitter": "jealee_", 
+        "id": 739758, 
+        "submitted_at": "2017-04-07T00:04:26.313Z", 
+        "title": "Design Thinking for News"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "A session for skeptics and enthusiasts alike, the buzz around virtual reality is only intensifying but there still aren't a ton of headsets in households and there isn't enough really inspiring content. Enter A-Frame, a WebVR framework that allows anyone with basic web development skills to create VR content and anyone with a smartphone better than an iPhone5 to view it. We'll spend a little time talking about the history, present capabilities and future of WebVR, as well as some basic best practices for developing VR content. then we'll dive right in and build our first A-Frame scene.", 
+        "facilitator": "Rebecca Poulson", 
+        "facilitator_twitter": "RebeccaPoulson", 
+        "id": 739666, 
+        "submitted_at": "2017-04-07T00:15:24.693Z", 
+        "title": "An Intro to WebVR (and why you should care about it)"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Personalized news: it seems like the grail for engaged news users and news providers. But where do these recommendations come from? In this session we’ll get to some of the ways news organizations are making use of the existing research and the technical possibilities (and challenges) news organizations are up against, in an attempt to demystify the nuts and bolts of what goes into a recommendation system. What are the differences between content and item-based recommendations, how can you use mobile signals to inform these recommendations, and how do you decide what permutations are best for your news organization? We’ll try do that through what we promise will be a well-thought out, but ultimately probably strange game of tag.", 
+        "facilitator": "Madeline Welsh", 
+        "facilitator_twitter": "@madelinebwelsh", 
+        "id": 739642, 
+        "submitted_at": "2017-04-06T21:44:30.476Z", 
+        "title": "Recommended for you - says who?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Come and build a simple plugin for The Coral Project's open source comment system, and learn how the platform is architected for extensibility, flexibility, and security. Basic code skills required.", 
+        "facilitator": "Jeff Nelson", 
+        "facilitator_twitter": "jeff4code", 
+        "id": 739640, 
+        "submitted_at": "2017-04-06T21:40:29.705Z", 
+        "title": "Build a Coral Plugin"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Forget the taboos. Let's talk frankly about revenue, engagement, and transparency. We want this group to discuss (and hopefully design) engagement ladders that aren't only ethical, but that also directly improve both reporting and revenue potential – all without compromising journalistic independence. Let's break down the wall and have some frank conversations about metrics, money, and bringing the audience closer to everything we do.", 
+        "facilitator": "Andrew Losowsky", 
+        "facilitator_twitter": "losowsky", 
+        "id": 739607, 
+        "submitted_at": "2017-04-06T21:25:24.398Z", 
+        "title": "Let's Talk About Engagement and Revenue"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Stop throwing away your shot. Using the dueling personalities of Alexander Hamilton and Aaron Burr, we'll discuss solutions to common problems standing between you and a more productive and calm workday. Learn to create a comprehensible and effective way to get things done, improve your workflow, find better ways to effectively work with other people, and more!", 
+        "facilitator": "Hannah Birch", 
+        "facilitator_twitter": "hannahsbirch", 
+        "id": 739582, 
+        "submitted_at": "2017-04-06T20:43:52.643Z", 
+        "title": "Are you Hamilton or are you Burr? What you can learn about benignly manipulating the people around you"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Tons of data to be had, and so hard to use. Even if we understand it, some it runs against received knowledge or against editorial goals that are founded in quality / editorial importance (versus straight pv potential). In this session, we may touch on questions like:  What are places where data is unambiguously helpful? How and where can this knowledge be delivered to editorial users? Does quant goal setting make sense in an editorial context?", 
+        "facilitator": "Ariane Bernard", 
+        "facilitator_twitter": "arianebernard", 
+        "id": 739552, 
+        "submitted_at": "2017-04-06T20:32:58.800Z", 
+        "title": "Data-led editorial decisions: what do we need to complement news judgement?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "As newsroom developers, we work at the intersection of media and technology. We sit primarily, though, within the context of the former. What we do is vital to the future of news, and it’s great! We use technology to build media! It’s exciting! But it fuels a pit of worry in my stomach because technology is defining new media standards. So, I wonder: Does the tech industry need people who understand the complexities of news more than the media industry needs people who understand the complexities of code? Where do we fit in the tech industry? What responsibilities do we have?", 
+        "facilitator": "Sara Simon", 
+        "facilitator_twitter": "sarambsimon", 
+        "id": 739547, 
+        "submitted_at": "2017-04-06T20:02:37.076Z", 
+        "title": "Reality Check: Our Role In Tech"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Are you cripplingly shy? Socially awkward, perhaps? Do you get taken advantage of because you don't know how to say no? Maybe you have a colleague who picks on you. Any newsroom has a cast of personalities ranging from introverted to outwardly aggressive. If you're that person who fears talking to people -- a skill that's required of journalists -- or gets bullied by the big loudmouth in the newsroom who undermines you and your ideas, finding your place in a collaborative newsroom environment or just do your job as a journalist can be challenging. This session, or therapy circle, would explore real strategies to overcome whatever personality traits participants may have that hinders their journalism. For example, to deal with my debilitating anxiety attacks that precede asking colleagues or sources to do something for me, I put my 'roller derby hat' on and become a whole new person to become as fierce and unapologetic as I am on the track beating up and getting beaten up by other women. Find your 'roller derby hat' or 'Sasha Fierce' here.", 
+        "facilitator": "Yoohyun Jung", 
+        "facilitator_twitter": "yoohyun_jung", 
+        "id": 739458, 
+        "submitted_at": "2017-04-06T18:43:34.252Z", 
+        "title": "Overcoming crippling personality traits to survive in a newsroom"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "This session will discuss the ways in which people integrate code review into the coding process. Whether you are a developer, analyst or designer – what strategies work when you have someone to review or pair with, vs. when you’re the solo coder, or vs. when everyone is just too busy?!", 
         "facilitator": "Jennifer Stark", 
         "facilitator_twitter": "@_JAStark", 
