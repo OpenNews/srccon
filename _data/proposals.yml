@@ -2,6 +2,36 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "A flood of new story formats, platforms, and distribution models make the maintenance of a single monolithic content management system increasingly unsustainable, and as your organization rises to the challenge of new models of journalism, your codebase follows suit. The business calls for a modular and presentation-agnostic content model—but how is it stored and modified? Syndication platforms need rendering pipelines—should you extract a reusable system from your owned-and-operated platform? You have plans for a more responsive and API-client-driven toolset—why couple it with your websites? The last five years have completely transformed the way we conceive of CMS architectures, potentially leading to dramatically more granular and focused microsystems. Why is this the case, and how does it affect the work of the people who support them? Most importantly: how, by being thoughtful about the structures of our teams, can we infer smart and maintainable systems that are built to expect the unexpected?\n\nConway’s Law can wreak havoc on teams as they pivot from monoliths to modular content management platforms. In this session, we'll learn how to carefully delineate the boundaries between systems and teams to reduce crosstalk and latency (for networks of both servers and people), talk through the many Disciplines of Content to help divide team responsibilities, and think about notions of ownership and stewardship when you have twice as many codebases as engineers on your teams.", 
+        "facilitator": "David Yee", 
+        "facilitator_twitter": "tangentialism", 
+        "id": 745829, 
+        "submitted_at": "2017-04-08T01:46:05.543Z", 
+        "title": "Conway’s Law of Content Management: Organizing teams in the twilight of the Monolithic CMS"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "FOIA is an awesome tool for government transparency, but FOIA is often also slow and easily blocked by various exceptions. In this session, we'll look at some of the other ways in which the federal government publicizes what it is up to and how you can use that to figure out things before you must resort to FOIA.", 
+        "facilitator": "Jacob Harris", 
+        "facilitator_twitter": "harrisj", 
+        "id": 745804, 
+        "submitted_at": "2017-04-08T02:07:23.098Z", 
+        "title": "Beyond FOIA: Brainstorming Other Ways To See What Your Government Is Up To"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "In this session we'll share our experiences with our work which we felt went slightly (or terribly) wrong. I'm happy to kick off with some examples of my own personal disasters and invite everyone to share their experiences.\n\nWhether it's things that didn't scale, technology choices laden with regret, code that proved difficult to deploy or maintain, bad practices, challenging team dynamics, terrible user experiences, time spent building things that no-one used or didn't get launched, unburden your soul and share your tales of woe with the room and help us identify themes and figure out what we can learn from it all.", 
+        "facilitator": "Iain Collins", 
+        "facilitator_twitter": "iaincollins", 
+        "id": 745787, 
+        "submitted_at": "2017-04-08T01:28:53.255Z", 
+        "title": "#newsgrets - News Gone Wrong"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Everyone agrees that mentorship is a good thing, but formal mentorship programs often fail because they are too time consuming to run. The Women in Tech group at The Times decided to tackle this problem last year and was able to create a mentorship program (for women and men!) that rolled out to the entire digital organization. We will share tips, discuss the lessons we learned and run a condensed version of the goal planning and peer coaching workshops that are part of the program.", 
         "facilitator": "Erica Greene", 
         "facilitator_twitter": null, 
