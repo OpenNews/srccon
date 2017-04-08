@@ -2,6 +2,46 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "How can we stop our biases from getting into our stories? Is there even such a thing as an unbiased story? Our team has received numerous criticisms about the bias in our work on Trump, Syria, the election, healthcare, the military and the weather. We'll share our experiences and examples where we could have been more rigirous. Let's discuss ways we could have been more diligent in culling our views from our work. Let's come up with ways to curb our biases, vet our data sources, and expand our sources.", 
+        "facilitator": "Rebecca Lai", 
+        "facilitator_twitter": "kkrebeccalai", 
+        "id": 745950, 
+        "submitted_at": "2017-04-08T04:01:21.259Z", 
+        "title": "Bias in the News"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Distribution platforms like AMP, Facebook Instant Articles, and Apple News have changed how our organizations work. Having grown reliant on social distribution to reach new audiences, Publishers who had only ever dictated their terms of distribution had to learn to adapt their already-aging business models to walled gardens, new ways to measure reach and engagement, and work within Other People’s Priorities. Content format compatibility issues, maintaining wholly separate designs inside of early-stage platforms with low feature-sets, participation being equally opt-in and required to maintain SEO and reach, reduced ad opportunities, and gaps in analytics...it was a lot to take in. But publishers are doing more than making the best of it: they’re thriving.\n\nIn this session, we’ll look at what we’ve learned from learning to adapt. Your humble hosts will draw from their experience at The New Yorker, Pitchfork, Wired, Quartz, Hearst, and Condé Nast to offer a survey of the technologies and strategies publishers have created to navigate this uncharted frontier. We’ll discuss how our organizations monitor engagement, drive subscriptions and revenue, and balance our legacy systems with the needs these new platforms oblige.", 
+        "facilitator": "Matt Dennewitz", 
+        "facilitator_twitter": "mattdennewitz", 
+        "id": 745943, 
+        "submitted_at": "2017-04-08T03:59:17.820Z", 
+        "title": "My Life In the Bush of Platforms"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "I wasn't going to submit a SRCCON session proposal but I think I need to have a debate with Greg about this \"art and poetry\" conversation he wants to host. As someone who has spent a fair amount of time in the uneasy space between art and journalism, I think there are extremely important lessons the two fields can learn from each other, and in recent history the research-intensive approach of some conceptual artists could be mistaken for journalism. Frankly, the differences between data visualizations by tech artists and visualizations by reporters are often negligible. But the things that make art valuable are, to some extent, the reasons it can't and shouldn't be journalism. This session will look both at some of the ethical and creative dilemmas of the artist-journalist blurring, as well as examples of working through those dilemmas toward productive collaboration.", 
+        "facilitator": "Ingrid Burrington", 
+        "facilitator_twitter": "lifewinning", 
+        "id": 745922, 
+        "submitted_at": "2017-04-08T03:41:23.870Z", 
+        "title": "Counterpoint: No Greg, Journalists Shouldn't Become Artists"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Journalism is a dishearteningly tough industry to break into for those not already in \"the know.\" It's even tougher for freelancing, an industry that depends almost entirely on personal connections and networks. Journalism has an already-acknowledged problem with including diverse employees, which includes people of different backgrounds, education, nationality, ethnicity, gender and even geographic location. How do we reconcile a heavily networking-based industry with one that wants - and needs - to be open and diverse? We can start with person-to-person networking and tech tools to bridge the gap.", 
+        "facilitator": "Samantha Sunne", 
+        "facilitator_twitter": "samanthasunne", 
+        "id": 745909, 
+        "submitted_at": "2017-04-08T03:38:15.913Z", 
+        "title": "Cracking freelance culture"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "We’re constantly bombarded with news and information on our smartphones and other devices. This can take a toll on our mental health. Turn off your phones and check out this session. We’ll explore ways our fellow journalists take a step back at the end of the day to focus on themselves. Bring hobby ideas, advice for fighting the temptation to check your email when you’re off work or on vacation, and any suggestions on ways to clear your mind. Let’s take care of one another.", 
         "facilitator": "Vanessa Martinez", 
         "facilitator_twitter": "vnessamartinez", 
@@ -12,12 +52,42 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "It can be argued that local news organizations used to drive the national news conversation. Now, it's clearly the other way around as national news stories drive local coverage at the expense of local and regional issues receiving the attention they deserve.\n\nLet's look at how we can better communicate within a region for a better understanding of local and regional issues. It's also an opportunity to explore if and how such an approach can make national issues more relatable to a region. We can identify how existing tools and strategies can be leveraged to allow for a more collaborative approach, playing to the strengths of the potential partners.", 
+        "facilitator": "Andre Natta", 
+        "facilitator_twitter": "acnatta", 
+        "id": 745900, 
+        "submitted_at": "2017-04-08T03:40:07.206Z", 
+        "title": "Reserving the Flow: Will Local Ever Drive The National Discussion Again?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Many publishers have shut down their comment sections over the last several years because maintaining  a large-scale, civil conversation on the internet is a challenging and expensive undertaking. In this session, we will discuss how advances in machine learning can help solve this problem. We will present the work The New York Times has been doing with Google's Jigsaw group to experiment with combining human moderation with automatic \"bot\" moderation that has been trained on millions of comments. We'll host a discussion on the pros and cons of automatic moderation and we will get everyone set up with the publicly available toxicity API so they can start playing around with the models.", 
         "facilitator": "Erica Greene", 
         "facilitator_twitter": null, 
         "id": 745898, 
         "submitted_at": "2017-04-08T03:21:28.379Z", 
         "title": "Robot-Assisted Community Management"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "What happens when you apply agile software development best practices to the news production and publishing process?  \n\nHow might open sourcing the entire \"news stack\" – the content && the code – lead to new ways of collaborating with the community?\n\nWhat if every article had version control?\n\nCould these practices help newsrooms build trust with readers and deliver a richer news experience that works the way open source software does? \n\nLet's talk it out using some design thinking to see what happens when journalism looks more collaborative, cooperative, and iterative.", 
+        "facilitator": "Matt Kiser", 
+        "facilitator_twitter": "matt_kiser", 
+        "id": 745894, 
+        "submitted_at": "2017-04-08T03:44:04.738Z", 
+        "title": "Let's Get Agile: Approaching Journalism Like a Web Developer"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The title refers to the question that I have often asked myself after the election and subsequent current events.The events of this past year have caused journalists of color, like myself, to address issues associated with how workflows and newsroom culture reinforce the conflict of being a person of color and journalist. Examples include being told that you can’t be objective to cover a certain community or that stories you’re pitching won’t be interesting to that publication’s audience. Expanding on a conversation I led at  NICAR (http://ire.org/events-and-training/event/2702/2986/ ), I’m hoping to not only create a supportive environment for JOC to talk honestly about their workplace experiences, but to identify common themes (i.e., being a token, pitching stories but being told their audience/publication isn't interested) and exploring possible solutions or success/survival stories.", 
+        "facilitator": "Helga Salinas", 
+        "facilitator_twitter": "helga_salinas", 
+        "id": 745892, 
+        "submitted_at": "2017-04-08T03:59:02.307Z", 
+        "title": "How do I exist in a newsroom and be a POC? Pt. 2"
     }, 
     {
         "cofacilitator": null, 
@@ -62,12 +132,32 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "In many rural newsrooms, it’s not uncommon to find one or two reporters covering entire communities. They write stories, take photos, record audio, shoot video, manage a website and interact with the audience on social media. They’re dedicated to their mission of finding and sharing news, but they face challenges: it’s difficult to recruit media professionals to rural areas; burnout is common; and many news organizations lack the knowledge and training necessary to incorporate new technology. Nonetheless, they push forward. Some are trying new storytelling methods, learning new technology and developing innovative ways to reach and grow their audience. They are small, but mighty. And with a little help, they could be mightier. Let’s have a conversation about the challenges small, rural organizations face, and then brainstorm the best ways to help them. Maybe that’s through new technology, or training that’s accessible to them where they work. It may be as simple as a virtual support network that ties small newsrooms together so they can encourage each other and share best practices. As these rural news operations grow stronger and become more digital, they’ll be able to share their stories with a wider audience. That will benefit the individual organizations, but it will also help the wider audience - the cities and the coasts - see a more complete picture of the country.", 
+        "facilitator": "Sara Konrad Baranowski", 
+        "facilitator_twitter": "@skonradb", 
+        "id": 745874, 
+        "submitted_at": "2017-04-08T03:33:03.338Z", 
+        "title": "Support the Middle: Together, we can build tools to help the smallest newsrooms"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Sometimes the art of the FOIA lies in knowing exactly what record you want to request, and hounding it down until you get it. Other times, though, there are benefits to casting a wide net and requesting things that would be interesting if they exist. FOIA The Dead, a project that files a FOIA request to the FBI for the subject of every New York Times obituary as it's published, is an example of the latter. In this session, we'll discuss what other kinds of problems can be solved with parallel automated records requests, and give participants the tools to start filing.", 
         "facilitator": "Parker Higgins", 
         "facilitator_twitter": "xor", 
         "id": 745870, 
         "submitted_at": "2017-04-08T02:37:00.198Z", 
         "title": "Bring Out Your Dead: lessons in massively parallel records request from 2000 FOIAed obituaries"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Open data portals. Leaked documents. Open source intelligence. FOIA requests. Open data is the future of journalism, transparency, and accountability! Or is it? We keep collecting data, but we already have too much to process and information alone accomplishes nothing. How can we sort through open data more effectively to find high-impact stories?\n\nEffective analysis of open data is difficult, but it can be done and there are many success stories. Through storytelling and brainstorming, this session aims to explore possible \"design patterns\" for investigations using large open datasets. We'll start with participants sharing experiences of what has and hasn't worked for them when using open data in the past. Then we'll come up with a few investigative questions that could be explored with open data discuss the data sources, analysis methods, and approaches that could be used to answer these questions. At the end of the session, we'll discuss the patterns we see in high-impact applications of open datasets- useful combinations of data sources, particularly effective analysis methods, and the most helpful types of questions to ask.", 
+        "facilitator": "M C McGrath", 
+        "facilitator_twitter": "Shidash", 
+        "id": 745864, 
+        "submitted_at": "2017-04-08T03:38:49.685Z", 
+        "title": "Design Patterns for Open Data: The Quest for Stories and Impact"
     }, 
     {
         "cofacilitator": null, 
