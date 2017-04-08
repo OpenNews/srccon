@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "In the microcosm that is data journalism and investigative journalism - how can we make sure that we reach a more readers, producing stories untainted by our own biases?\n\nWith the ongoing recognition that to cover topics diversely our teams need to be diverse, so let us get together and figure out how to hotwire the system, working to find solutions inside newsrooms, outside newsrooms and across the industry - so we can work more diversely now.", 
+        "facilitator": "Annabel Church", 
+        "facilitator_twitter": "annabelchurch", 
+        "id": 745884, 
+        "submitted_at": "2017-04-08T03:08:48.260Z", 
+        "title": "Diversity under the radar"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "“If [people] were able to be convinced that art is precise advance knowledge of how to cope with the psychic and social consequences of the next technology, would they all become artists?” Marshall McLuhan wrote in Understanding Media. Should we all become artists? I seriously thought about it a couple years ago. Here’s why: Whether we use text, images, graphics or code to tell stories, we deal with symbols, images, abstractions and interpretations every day. Journalism’s history is basically one of integrating new disciplines, techniques and technologies to more effectively tell stories. Lately for the data/tech community in news, that’s mostly involved stats, social science, computer science and other quantitative- or science-oriented fields. Although we should continue to do this vigorously, we equally need to embrace the arts. And not just from a visual or design standpoint, but for the ideas that underlie and advance art. In doing this, we can also see how seemingly disparate things relate -- like cubism and physics, concrete poetry and GUIs or conceptual art and algorithms. We’ll explore these and other ways the analog humanities can help us think about digital media from technical and humanistic perspectives -- going everywhere from abstraction to Afrofuturism.", 
+        "facilitator": "Greg Linch", 
+        "facilitator_twitter": "greglinch", 
+        "id": 745881, 
+        "submitted_at": "2017-04-08T03:03:52.823Z", 
+        "title": "Let's talk about art and poetry"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Modern content management is about 30 years old, and that messy computational translation from pure thought and aesthetic intent to the screen has been central to the evolution of the forms that depend on it.\n\nFrom the first attempts at SGML at scale by the OED, to HTML-in-Wordpress, to Markdown and AMP and so many others, there have been countless attempts at preserving the intent of writers, editors, and designers across the gap between our editorial back-offices and the mass printing press of our users’ many and varied devices.\n\nThe solutions we’ve had have been fraught in so many different ways. The unmaintainable solipsistic mess that always seems to result from giving editors access to tweak the raw HTML. The arcane incantations of Markdown, a hex cast by console-dwelling developers to curse users for their ever-stymying needs. AMP, Apple News, and FBIA, those trojan horses of platform control over publishing, the life-blood of content.\n\nWe spend a lot of time trying to massage content into the right forms in order to display it efficiently, and most importantly to create interesting new ways for authors, editors, and designers to express their ideas creatively and efficiently. The proliferation of device form factors isn’t helping to make it easy.\n\nThis discussion is intended to be a space for attendees to share their frustrations with existing systems, and their current attemptsto address these problems. We’d also like explore the significant possibilities that could emerge from [a] shared and extensible approach[es] to content storage.", 
         "facilitator": "Blaine Cook", 
         "facilitator_twitter": "blaine", 
@@ -38,6 +58,16 @@
         "id": 745853, 
         "submitted_at": "2017-04-08T02:55:21.795Z", 
         "title": "Manager Is the Loneliest Number"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "When you think about your job, what are the first five things that come to mind? Is safety one of them? \nBy definition, safety is the condition of being protected from or unlikely to cause danger, risk, or injury. Do you feel that your job provides such a space for you and your peers?\nThis discussion will take a look at this issue from the inside out. First, we will compare and contrast what we deem fundamentally safe and unsafe on an individual level. We will see how culture, ethnicity, upbringings, and general background influence us. For instance, what would be the differences between a Black woman’s definition of safety and that of a Latino man.\nThese definitions will be compared to the workplace’s environment. How closely do these align? With the comparison’s results, we will take a deeper look at:\n- how companies maintain safe spaces (or why it isn’t working)\n- diversity in leadership: how leadership is involved + leadership demographics and how it correlates to safety\n- transparency and communication in the company\n- and more…\nDuring the discussion’s last segment, I would love for us all to create a short ‘safety kit’ that we can all keep for future reference, and maybe share with our companies! Either to congratulate them for doing the right things or to kindly nudge them in the right direction.", 
+        "facilitator": "Pamela L Assogba", 
+        "facilitator_twitter": "pam_yam", 
+        "id": 745847, 
+        "submitted_at": "2017-04-08T03:14:50.882Z", 
+        "title": "Do you feel safe?"
     }, 
     {
         "cofacilitator": null, 
