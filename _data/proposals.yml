@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Modern content management is about 30 years old, and that messy computational translation from pure thought and aesthetic intent to the screen has been central to the evolution of the forms that depend on it.\n\nFrom the first attempts at SGML at scale by the OED, to HTML-in-Wordpress, to Markdown and AMP and so many others, there have been countless attempts at preserving the intent of writers, editors, and designers across the gap between our editorial back-offices and the mass printing press of our users’ many and varied devices.\n\nThe solutions we’ve had have been fraught in so many different ways. The unmaintainable solipsistic mess that always seems to result from giving editors access to tweak the raw HTML. The arcane incantations of Markdown, a hex cast by console-dwelling developers to curse users for their ever-stymying needs. AMP, Apple News, and FBIA, those trojan horses of platform control over publishing, the life-blood of content.\n\nWe spend a lot of time trying to massage content into the right forms in order to display it efficiently, and most importantly to create interesting new ways for authors, editors, and designers to express their ideas creatively and efficiently. The proliferation of device form factors isn’t helping to make it easy.\n\nThis discussion is intended to be a space for attendees to share their frustrations with existing systems, and their current attemptsto address these problems. We’d also like explore the significant possibilities that could emerge from [a] shared and extensible approach[es] to content storage.", 
+        "facilitator": "Blaine Cook", 
+        "facilitator_twitter": "blaine", 
+        "id": 745878, 
+        "submitted_at": "2017-04-08T02:37:44.046Z", 
+        "title": "Working together to evolve Content Storage"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Sometimes the art of the FOIA lies in knowing exactly what record you want to request, and hounding it down until you get it. Other times, though, there are benefits to casting a wide net and requesting things that would be interesting if they exist. FOIA The Dead, a project that files a FOIA request to the FBI for the subject of every New York Times obituary as it's published, is an example of the latter. In this session, we'll discuss what other kinds of problems can be solved with parallel automated records requests, and give participants the tools to start filing.", 
+        "facilitator": "Parker Higgins", 
+        "facilitator_twitter": "xor", 
+        "id": 745870, 
+        "submitted_at": "2017-04-08T02:37:00.198Z", 
+        "title": "Bring Out Your Dead: lessons in massively parallel records request from 2000 FOIAed obituaries"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "How do you discover your next greatest love? That podcast you want to listen to, at the exclusion of human interaction. And once you have found your favourite episode or series that you exuberantly want to share - how do you share that with your friends?\n\nWith podcasting becoming increasingly popular and we get excited by new stories and new methods; marketing has moved from word of mouth to in network advertising and recommendation services, consumption has gained some new apps, and sharing can (sometimes) be done by series, episode and by clip. \n\nLet’s go further and figure out what can we do to make podcasts more accessible, sharable and enjoyable.", 
         "facilitator": "Annabel Church", 
         "facilitator_twitter": "@annabelchurch", 
@@ -28,6 +48,16 @@
         "id": 745829, 
         "submitted_at": "2017-04-08T01:46:05.543Z", 
         "title": "Conway’s Law of Content Management: Organizing teams in the twilight of the Monolithic CMS"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "The internet needs a living, community-curated list of the best resources and tools for journalists interested in digital security.  So let's just build one!  The huge variety of excellent tools, manuals, links and best practices regarding digital security for journalists can be hard to navigate.  Those helpful indices and best-of guides that do exist are not assembled collaboratively by the community of journalists who use them and are sometimes updated only sporadically, if at all.   In this focused working session, we’ll break into rotating groups to assemble a list of the best resources in three areas:  security guides and getting-started resources, secure communication tools/practices and personal digital security resources.  Through the magic of Github/Pages, we’ll publish our work by the end of the session and establish a framework for future contributions.  Everyone will leave this session with not only a new, useful resource, but also the invitation, ability and (hopefully) motivation to edit and evolve it into the future.", 
+        "facilitator": "Matt Perry", 
+        "facilitator_twitter": "@mattoperry", 
+        "id": 745825, 
+        "submitted_at": "2017-04-08T02:48:15.701Z", 
+        "title": "Let’s build and launch a community-curated resource list for digital security -- in just over an hour!"
     }, 
     {
         "cofacilitator": null, 
