@@ -2,6 +2,36 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Making any startup run is hard work, but there are specific challenges -- and specific benefits -- to running one inside a bigger company. \n\nSome topics of conversation:\n- Risk vs. stability\n- Rolling your own vs. leveraging existing company platforms\n- Equity vs. job security\n- Nesting dolls corporate executive structures\n- Being a company inside of a division. \n- Spinning up vs. finding external funding. \n- How do I do this at my own company?\n\nWhy us?\n\nBreaking News germinated inside MSNBC.com, when it was still an independent joint venture of Microsoft and NBC. We had good neighbors -- the company had bought NEWSVINE and EveryBlock. We became a part of NBC News when they fully bought out Msnbc.com in 2014. At our height, we had 20 employees, evenly split between product and editorial.", 
+        "facilitator": "Martin McClellan", 
+        "facilitator_twitter": "@hellbox", 
+        "id": 745700, 
+        "submitted_at": "2017-04-08T00:11:18.316Z", 
+        "title": "Sailing the pirate ship: running a startup inside a bigger company"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "This is a simulation and design activity.  We'll start by looking at some of the ways we need to consider the needs of users we forget about. In groups, we will explore a refreshed article page for a hypothetical publication but will do so with some members of the group being given temporary disabilities through the use of tools such as blindfolds, ear plugs, and arm slings. \nWhile debriefing the design simulation, we'll also explore how the decisions we made will benefit more than just the disabled users they were originally designed for.", 
+        "facilitator": "Aaron Jorbin", 
+        "facilitator_twitter": "aaronjorbin", 
+        "id": 745685, 
+        "submitted_at": "2017-04-08T00:00:55.367Z", 
+        "title": "Designing for Everyone"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "AMP! Apple News! Snapchat! Flipboard! Hoobastank!\n\nThese days, the modern media outlet is expected to be on all platforms, all the time. How do we help our organizations thrive in this distributed world? This session focuses on the tactics: the decisions we make and the actions we take to ensure that our stories are seen far and wide.\n\n* What are we looking to achieve when we distribute our content?\n* Which platforms are easy (an RSS feed) and which are hard (a real-time API with a proprietary format)?\n* How do we prioritize which platforms to be on?\n* How do editorial processes change when a story is going to be published on different platforms which we don't fully control?\n* What do publishing tools look like when content creation no longer targets a single owned-and-operated platform?\n* How do we learn from these platforms? What if they're actually on to something in terms of audience experience?", 
+        "facilitator": "Luigi Ray-Montanez", 
+        "facilitator_twitter": "1uigi", 
+        "id": 745680, 
+        "submitted_at": "2017-04-08T00:13:20.222Z", 
+        "title": "Life on Other People's Platforms"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "The title says it all. We’ll kick off the session with some examples from our own work -- from getting people to talk about their own mortality (#WhatMattersMost) to asking them to share what was motivating their vote in the 2016 election (#MyTopIssue) to “inviting” them to a historical event (don't forget to tag your +1!)\n\nBut more importantly we want to hear from others -- what’s worked for you? Why? What would you have done differently? And how have you built upon your success?\n\nThis will be a fun, creative, rapid-fire session.", 
         "facilitator": "Sarah Moughty", 
         "facilitator_twitter": "smoughts", 
@@ -78,6 +108,16 @@
         "id": 745533, 
         "submitted_at": "2017-04-07T22:27:15.969Z", 
         "title": "How to do anti-fascist work with fascist state data."
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Explore how the art of storytelling can begin with… art. In this session, Leah Kohlenberg, a former journalist and founder of The Roaming Studio, will lead you through a drawing exercise  — yes, even those of you who say \"I can’t draw” — and demonstrate how stirring your creative juices helps you  tell better stories. She’s been doing this with news organizations and academic environments for a couple of years now, researching it along the way. Her early conclusion: It really works!", 
+        "facilitator": "Jennifer LaFleur", 
+        "facilitator_twitter": "@j_la28", 
+        "id": 745516, 
+        "submitted_at": "2017-04-08T00:03:29.985Z", 
+        "title": "Drawing for your brain"
     }, 
     {
         "cofacilitator": null, 
@@ -718,6 +758,16 @@
         "id": 739853, 
         "submitted_at": "2017-04-07T02:08:13.008Z", 
         "title": "Drawn Together: Doodling Our Way Toward Stronger Collaboration"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "How do we make learning and training journalists a more enjoyable and a less intimidating experience for everyone involved? What does the structure of good training actually look like? \n\nIn this session, we’ll start by discussing the good and the bad ways newsrooms approach training and then we will brainstorm opportunities in our own newsrooms to create new or retool existing training to better provide an engaging and more meaningful learning experience for our staff.\n\nTeams will then tackle a series of three short Amazing Race-style scenarios — involving roadblocks and detours — as they work to create a checklist that will serve as starting point for those looking develop their own curriculum or lead their own training sessions in their newsrooms.", 
+        "facilitator": "Andrew Nguyen", 
+        "facilitator_twitter": "onlyandrewn", 
+        "id": 739815, 
+        "submitted_at": "2017-04-08T00:13:31.686Z", 
+        "title": "Expanding your team’s tool belt: Developing better training for your newsroom"
     }, 
     {
         "cofacilitator": null, 
