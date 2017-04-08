@@ -2,6 +2,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Everyone agrees that mentorship is a good thing, but formal mentorship programs often fail because they are too time consuming to run. The Women in Tech group at The Times decided to tackle this problem last year and was able to create a mentorship program (for women and men!) that rolled out to the entire digital organization. We will share tips, discuss the lessons we learned and run a condensed version of the goal planning and peer coaching workshops that are part of the program.", 
+        "facilitator": "Erica Greene", 
+        "facilitator_twitter": null, 
+        "id": 745755, 
+        "submitted_at": "2017-04-08T01:04:47.221Z", 
+        "title": "Mentorship at Scale: How The NYT Women in Tech group build a mentorship program for 250+ people in our free time"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "Bring a book or three; leave with different books. We'll keep track of the number of books you donate with some sort of token that you can trade in for another book, if you want to browse before leaving with a book.\n\nThe goal is to not have any spare books left over at the end of SRCCON.\n\n![A camera in a library rotates around a freestanding book carousel](http://i.imgur.com/4Wn7GHj.gif)", 
         "facilitator": "Ben Keith", 
         "facilitator_twitter": "benlkeith", 
