@@ -11,7 +11,9 @@ redirect_from:
   - /proposals/
 ---
 
-We'll list proposed sessions for SRCCON 2017 here. After the call for proposals closes on April 7, we'll review them all and publish the list of accepted sessions prior to our [ticket lottery](/tickets) opening on May 3. If you have an idea for this year's SRCCON, you can [propose a session now](/sessions/proposals/pitch)!
+These are the proposed sessions for SRCCON 2017! We're currently reviewing all proposals, and we'll publish the list of accepted sessions before our [ticket lottery](/tickets) opens on May 3.
+
+{% comment %}We'll list proposed sessions for SRCCON 2017 here. After the call for proposals closes on April 7, we'll review them all and publish the list of accepted sessions prior to our [ticket lottery](/tickets) opening on May 3. If you have an idea for this year's SRCCON, you can [propose a session now](/sessions/proposals/pitch)!{% endcomment %}
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.proposals %}

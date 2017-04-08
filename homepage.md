@@ -10,6 +10,15 @@ bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8
 permalink: /index.html
 ---
 
+## Thank you, session proposers!
+
+SRCCON is built from the journalism-tech community's passion and creativity, and we're so grateful for all the ideas you came up with for this year's schedule.
+
+<a class="btn" href="/sessions/proposals">Read this year's proposals</a>
+
+You can check out [the amazing proposals for SRCCON 2017](/sessions/proposals), and we'll publish the list of accepted sessions before our [ticket lottery](/tickets) opens on May 3.
+
+{% comment %}
 ## Our call for session proposals is open!
 
 We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**.
@@ -17,9 +26,9 @@ We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**.
 <a class="btn" href="/sessions/proposals/pitch">Pitch a Session</a>
 
 Thinking about a session idea for SRCCON 2017? We've put together [a proposals guide](/sessions/proposals/guide) to help you out. Want to see what sessions have been proposed? [We're publishing them as they come in](/sessions/proposals).
+{% endcomment %}
 
 ## Upcoming dates for your calendar:
-* **April 7**: proposals close
 * **May 3**: ticket lottery opens
 * **May 10**: lottery closes
 
@@ -31,7 +40,7 @@ Tickets to SRCCON are [distributed via lottery](/tickets). Once tickets are sold
 <div class="innercontainer">
 
 <h2>What is SRCCON like?</h2>
-<p>SRCCON is a hands-on conference, full of <a href="/sessions">conversations and workshops</a> focused on the practical challenges news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included more than 300 attendees and 50 sessions that covered a wide range of topics, from tech strategies to workplace culture struggles.</p>
+<p>SRCCON is a hands-on conference, full of <a href="/sessions">conversations and workshops</a> focused on the practical challenges that news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included nearly 300 attendees and more than 50 sessions that covered a wide range of topics, from tech strategies to workplace culture struggles.</p>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 <p class="caption"><em><a href="https://vimeo.com/180221748">SRCCON 2016 highlights video</a>, videography by <a href="http://www.searlevideo.com/">Searle Video</a>.</em></p>

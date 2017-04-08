@@ -11,15 +11,22 @@ permalink: /sessions/index.html
 
 SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. The community members who step up to facilitate these sessions make it all possible.
 
+## We're Reviewing Sessions RIGHT NOW
+
+Thank you to everyone who proposed a session for SRCCON 2017. You can check out [all the amazing ideas right here](/sessions/proposals), and we'll publish the list of accepted sessions before our [ticket lottery](/tickets) opens on May 3.
+
+{% comment %}
 ## Our Call for Session Proposals is Open!
 
 <a class="btn" href="/sessions/proposals/pitch" style="float: right; margin: 1em .5em; display: inline-block;">Propose a Session</a>
 
 We'll be accepting proposals through **Friday, April 7, at 11:59pm ET**. Session proposals will be [listed on the SRCCON website](/sessions/proposals) shortly after they're submitted.
 
+
 ## New this year: A Guide to Proposing Sessions
 
 Have an idea for this year's SRCCON but not sure about the best way pitch it? Let us help you! We've put together [a proposals guide](/sessions/proposals/guide) with advice on turning great ideas into great session proposals.
+{% endcomment %}
 
 ## About Sessions at SRCCON
 
