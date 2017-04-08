@@ -32,6 +32,16 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "Where are my fellow managers at? As a new manager, I've faced a slew of new challenges — hiring, team building, training, how to give feedback, goal setting, meeting structures — with little to no formal preparation, and it's hard to find answers on StackOverflow or ask for help on Twitter. For any managers looking for advice or with tips and experience to share, let's talk through our problems, share mottos (you all have mottos, right?) and meet fellow managers we can turn to for help in the future. Send in questions or problems you'd like addressed ahead of time (or show up with them!), and bring success stories to share.\n\nNot a manager? You're welcome too! Your perspective is important (after all, us managers exist to help you succeed). And for anyone interested or considering management in the future, this is a chance to hear about some of the less glamorous parts of the job. As some topics may be delicate or personal, this session will be off the record. We'll split into smaller groups to separate managers from their team members as necessary.", 
+        "facilitator": "Sarah Squire", 
+        "facilitator_twitter": "sarahjsquire", 
+        "id": 745853, 
+        "submitted_at": "2017-04-08T02:55:21.795Z", 
+        "title": "Manager Is the Loneliest Number"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "It’s never too early to start planning for elections! The 2016 cycle saw the release of Elex, a Python wrapper built by the New York Times and NPR for the Associated Press’ results API. In early 2017, McClatchy released an open-source version of their all-in-one elections rig, which uses Elex. With these projects available to reduce unnecessary repetition of work, what tools do we still need to have a complete elections toolkit? Bring your ideas for what’s missing and how we can build them. Some examples might include a library for converting AP’s test schedule emails into structured data or a UI framework for results maps and tables.", 
         "facilitator": "Greg Linch", 
         "facilitator_twitter": "greglinch", 
