@@ -2,6 +2,36 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "We’re constantly bombarded with news and information on our smartphones and other devices. This can take a toll on our mental health. Turn off your phones and check out this session. We’ll explore ways our fellow journalists take a step back at the end of the day to focus on themselves. Bring hobby ideas, advice for fighting the temptation to check your email when you’re off work or on vacation, and any suggestions on ways to clear your mind. Let’s take care of one another.", 
+        "facilitator": "Vanessa Martinez", 
+        "facilitator_twitter": "vnessamartinez", 
+        "id": 745901, 
+        "submitted_at": "2017-04-08T03:21:55.739Z", 
+        "title": "Let’s take care of one another: ways to unplug and relax"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "Many publishers have shut down their comment sections over the last several years because maintaining  a large-scale, civil conversation on the internet is a challenging and expensive undertaking. In this session, we will discuss how advances in machine learning can help solve this problem. We will present the work The New York Times has been doing with Google's Jigsaw group to experiment with combining human moderation with automatic \"bot\" moderation that has been trained on millions of comments. We'll host a discussion on the pros and cons of automatic moderation and we will get everyone set up with the publicly available toxicity API so they can start playing around with the models.", 
+        "facilitator": "Erica Greene", 
+        "facilitator_twitter": null, 
+        "id": 745898, 
+        "submitted_at": "2017-04-08T03:21:28.379Z", 
+        "title": "Robot-Assisted Community Management"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "As a UX designer who works in digital news I often wonder what types of audience data editors find useful for writing stories. At The Boston Globe we are moving toward a more user centered product.\n In this session I would like to facilitate a concept development session where we might break the room into groups and have these groups come up with as much information as possible within three timed rounds. We will converge on an idea together and discuss the different merits of concepts by having one person from each group after each group has talked amongst themselves and then participate by discussing the types of audience data that might be useful to help editors write better stories and keep a finger on the pulse of their target audience. The goal is to understand if the quality of stories improves (trend data) when editors are armed with qualitative or quantitative audience data before they begin writing.", 
+        "facilitator": "Brendon Attebury", 
+        "facilitator_twitter": "Battebury", 
+        "id": 745890, 
+        "submitted_at": "2017-04-08T03:24:13.825Z", 
+        "title": "Arming editors. What types of audience data help drive results for writers/editors. Open discussion and concept development session."
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "In the microcosm that is data journalism and investigative journalism - how can we make sure that we reach a more readers, producing stories untainted by our own biases?\n\nWith the ongoing recognition that to cover topics diversely our teams need to be diverse, so let us get together and figure out how to hotwire the system, working to find solutions inside newsrooms, outside newsrooms and across the industry - so we can work more diversely now.", 
         "facilitator": "Annabel Church", 
         "facilitator_twitter": "annabelchurch", 
