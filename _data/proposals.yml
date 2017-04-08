@@ -2,6 +2,26 @@
     {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
+        "description": "How do you discover your next greatest love? That podcast you want to listen to, at the exclusion of human interaction. And once you have found your favourite episode or series that you exuberantly want to share - how do you share that with your friends?\n\nWith podcasting becoming increasingly popular and we get excited by new stories and new methods; marketing has moved from word of mouth to in network advertising and recommendation services, consumption has gained some new apps, and sharing can (sometimes) be done by series, episode and by clip. \n\nLet’s go further and figure out what can we do to make podcasts more accessible, sharable and enjoyable.", 
+        "facilitator": "Annabel Church", 
+        "facilitator_twitter": "@annabelchurch", 
+        "id": 745855, 
+        "submitted_at": "2017-04-08T02:33:43.981Z", 
+        "title": "Getting heard in the herd"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "description": "It’s never too early to start planning for elections! The 2016 cycle saw the release of Elex, a Python wrapper built by the New York Times and NPR for the Associated Press’ results API. In early 2017, McClatchy released an open-source version of their all-in-one elections rig, which uses Elex. With these projects available to reduce unnecessary repetition of work, what tools do we still need to have a complete elections toolkit? Bring your ideas for what’s missing and how we can build them. Some examples might include a library for converting AP’s test schedule emails into structured data or a UI framework for results maps and tables.", 
+        "facilitator": "Greg Linch", 
+        "facilitator_twitter": "greglinch", 
+        "id": 745844, 
+        "submitted_at": "2017-04-08T02:09:43.749Z", 
+        "title": "What pieces of the elections toolkit are we missing and how can we build them?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
         "description": "A flood of new story formats, platforms, and distribution models make the maintenance of a single monolithic content management system increasingly unsustainable, and as your organization rises to the challenge of new models of journalism, your codebase follows suit. The business calls for a modular and presentation-agnostic content model—but how is it stored and modified? Syndication platforms need rendering pipelines—should you extract a reusable system from your owned-and-operated platform? You have plans for a more responsive and API-client-driven toolset—why couple it with your websites? The last five years have completely transformed the way we conceive of CMS architectures, potentially leading to dramatically more granular and focused microsystems. Why is this the case, and how does it affect the work of the people who support them? Most importantly: how, by being thoughtful about the structures of our teams, can we infer smart and maintainable systems that are built to expect the unexpected?\n\nConway’s Law can wreak havoc on teams as they pivot from monoliths to modular content management platforms. In this session, we'll learn how to carefully delineate the boundaries between systems and teams to reduce crosstalk and latency (for networks of both servers and people), talk through the many Disciplines of Content to help divide team responsibilities, and think about notions of ownership and stewardship when you have twice as many codebases as engineers on your teams.", 
         "facilitator": "David Yee", 
         "facilitator_twitter": "tangentialism", 
