@@ -6,7 +6,7 @@ section: proposals
 sub-section: interior
 background: stickerdots
 byline: Erik Westra
-permalink: /sessions/proposals/index.html
+permalink: /sessions/proposals/
 redirect_from:
   - /proposals/
 ---
