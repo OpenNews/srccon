@@ -1,29 +1,36 @@
 ---
 layout: 2015_layout
 title: Tickets at SRCCON
-subtitle: Get ready, our ticket lottery opens May 3.
+subtitle: Our ticket lottery is open now to May 10.
 section: sessions
 sub-section: interior
 background: tickets
 byline: Alyson Hurt
 permalink: /tickets/index.html
 ---
-Tickets to SRCCON 2017 will go on open sale in May via a lottery. We switched to a lottery system last year, after selling out the first two SRCCONs in seconds. We want this conference to be as accessible as possible to the whole community, and we believe that happens better with a system that isn’t first-come, first-served.
+{% include lotterygo.html %}
 
-So, once again, we'll be running a ticket lottery. Tickets will cost $195 and include admission to SRCCON, five meals, and access to our free childcare. **The lottery will open on May 3 and close on May 10.** Those selected in the lottery will be notified shortly thereafter.
+The SRCCON 2017 ticket lottery is now open for registration. Our lottery system is designed to distribute tickets in a more equitable fashion than a first-come-first-served system that rewards the fastest internet connections or twitchiest mouse-fingers.
 
-Much more information about our ticket lottery will be forthcoming in the weeks preceding the lottery open. In the meantime, feel free to read more about:
+Here's what you need to know about getting a SRCCON ticket:
 
-* [Why we launched our SRCCON lottery.](https://opennews.org/blog/srccon-tix/)
-* [How we ran last year's lottery system.](https://opennews.org/blog/srccon-lottery/)
+* The lottery is open **May 3 until eastern Eastern on May 10.**
+* Tickets will cost $195, each person selected will be able to purchase a single ticket.
+* **Tickets are non-transferrable and _must_ be claimed by the individual selected in the lottery.**
+* You will be notified of your status in the lottery (selected or not) by **5pm Eastern on May 11.** If selected, you will have until 5pm Eastern on Sunday May 14, to buy your ticket.
+* If you are not selected and if any unsold tickets remain after the purchase window closes, we will hold a second chance lottery on Monday, May 15 and will notify about status by the end of that same day.
+* If you are selected for the second chance lottery, you will have until 5pm Eastern on Thursday, May 18 to purchase a ticket.
 
-In addition to our ticket lottery, we have a number of other methods for attending SRCCON:
+## Welcome, first-timers
 
-## Facilitating Sessions
-In previous years, session facilitators have made up more than a third of all SRCCON attendees. All of our sessions are peer-led by conference attendees--not "experts" that only show up for their session. Consider becoming a facilitator at SRCCON this year by [learning more about sessions](/sessions). Our call for proposals opens March 22.
+We think SRCCON is best when there's a mix of folks new to SRCCON and veterans of the conference. Our lottery system is designed to ensure that new SRCCON participants will get a healthy percentage of all available tickets, and will otherwise randomly allocate tickets. So SRCCON alums, you can put your name in without worrying that you're taking a new attendee's spot.
 
-## Scholarships
-Every year, thanks to sponsors, we offer scholarships to SRCCON. Scholarships include money for travel and a free ticket to the event. This year we'll have expanded scholarship offerings--more information is forthcoming.
+## Financial & family assistance
 
-## Sponsors
-If your organization would like to help SRCCON happen, each level of sponsorship has tickets available, either as a part of the sponsorship package or for reserved purchase to sponsors. We will offer a full rundown of our available sponsor packages on our [sponsor page](/sponsors).
+We offered a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. To apply for a scholarship to SRCCON, use the form that is built into our lottery ticket request system.
+
+In addition to financial assistance, we know that making sure you have coverage for your children is important, so we also offer attendees [free childcare](/childcare) run by providers we trust with our own kids.
+
+## Sponsor tickets
+
+If you're unable to get a ticket via the lottery and your organization is able to become a SRCCON sponsor, each level of sponsorship has tickets available, either as a part of the sponsorship package or held for reserved purchase. We offer a full rundown of available packages on [our sponsor page](/sponsors).
