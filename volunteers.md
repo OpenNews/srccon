@@ -13,10 +13,10 @@ We need YOU to help make SRCCON work. In addition to participants running sessio
 
 Volunteers will help with:
 
-- registration
-- supporting session leaders
-- set-up and clean-up
-- those unexpected tasks that always come up during an event
+* registration
+* supporting session leaders
+* set-up and clean-up
+* those unexpected tasks that always come up during an event
 
 Volunteering will be a significant time commitment. For offering that time and missing out on some (but not all!) of the festivities, you will have our gratitude, free entry to the event, a SRCCON Volunteer T-shirt, and the knowledge that you played an integral role in making our third SRCCON a success.
 

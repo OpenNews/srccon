@@ -98,4 +98,4 @@ Want to support SRCCON on a budget? Our Supporting Sponsorship level lets you he
 * Logo on sponsorship page of SRCCON website.
 * Logo on sponsorship signage at event.
 
-If you would like to sponsor SRCCON with one of the above packages, or would like to talk about a custom sponsorship, please [send us a note](mailto:dan@mozillafoundation.org).
+If you would like to sponsor SRCCON with one of the above packages, or would like to talk about a custom sponsorship, please [send us a note](mailto:dan@opennews.org).
