@@ -31,5 +31,5 @@ Alongside our ticket lottery registration, this same form is where you apply for
   // Uncomment this line and set it to the CSS class that your website uses for buttons:
   // FormRenderer.BUTTON_CLASS = '';
 
-  new FormRenderer({"project_id":"YNJYm6becWHSUsll"});
+  new FormRenderer({"project_id":"YNJYm6becWHSUsll", "afterSubmit": "/tickets/lottery/thanks"});
 </script>
