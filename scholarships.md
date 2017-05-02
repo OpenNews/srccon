@@ -43,7 +43,7 @@ If you receive a scholarship, you will not have to purchase a ticket.
 When we notify scholarship recipients, we will include information about how to receive the scholarship funds. In short, you will need to send us an invoice and our administrators will process the payment. It may take a month or so for check processing.
 
 ## What if I need more than $500 for my travel?
-We're able to offer $500 scholarships at this time. Luckily, Minneapolis is a relatively cheap city once you arrive. Also, this entire site is a [GitHub pages repo](https://github.com/OpenNews/srccon), so if you say, wanted to add a link to a room-share board, you could go right ahead and do that. Or, you can [email with any suggestions](erika@opennews.org).
+We're able to offer $500 scholarships at this time. Luckily, Minneapolis is a relatively cheap city once you arrive. Also, this entire site runs [off a Github repo](https://github.com/OpenNews/srccon), so if you say, wanted to add a link to a room-share board, you could go right ahead and do that. Or, you can [email with any suggestions](mailto:erika@opennews.org).
 
 ## Questions not covered here?
-[Email us](srccon@opennews.org).
+[Email us](mailto:srccon@opennews.org).
