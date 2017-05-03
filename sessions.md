@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Sessions at SRCCON
-subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration. Proposals open March 22.
+subtitle: Our peer-led sessions combine skillsharing, discussion, and collaboration.
 section: sessions
 sub-section: interior
 background: stickerdots

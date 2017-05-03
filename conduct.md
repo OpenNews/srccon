@@ -21,6 +21,8 @@ SRCCON participants agree to:
 
 If any attendee engages in harassing behavior, the conference organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the conference team with a concise description of your grievance; any grievances filed will be considered by the entire OpenNews team.)
 
+This code of conduct covers all of SRCCON, including the evening program. During SRCCON, we will publicize a contact email and phone number, in addition to pointing out the staff in matching t-shirts so you know who to contact if you see or experience an issue.
+
 We welcome your feedback on this and every other aspect of SRCCON, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
 
 <div class='ruleabove'>
