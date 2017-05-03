@@ -1,6 +1,8 @@
 language: ruby
 rvm:
-- 2.1
+- 2.4.1
+sudo: required
+dist: precise
 install: gem install jekyll -v 3.3.0 && gem install jekyll-redirect-from && gem install s3_website
 script: jekyll build
 after_success:
