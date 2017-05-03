@@ -12,6 +12,6 @@ permalink: /tickets/lottery/thanks/index.html
 
 Thanks for registering for the SRCCON ticket lottery and/or submitting a scholarship application.
 
-After the lottery closes, we'll draw names, and we'll email you to tell you if you've been selected (or not) by 5pm Eastern on May 11. Alongside the lottery draw, we will also be notifying scholarship recipients as well.
+After the lottery closes, we'll draw names, and we'll email you to tell you if you've been selected (or not) by 5pm Eastern on May 11. Alongside the lottery draw, we will also notify scholarship recipients.
 
 We’ve also just emailed you with all the relevant dates and details, so check your inbox—and your spam filters!
