@@ -6,7 +6,7 @@ section: sessions
 sub-section: interior
 background: stickerdots
 byline: Erik Westra
-permalink: /sessions/index.html
+permalink: /sessions/
 ---
 
 {% include lotterygo.html %}

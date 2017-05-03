@@ -33,7 +33,7 @@ As Lead Sponsor of SRCCON you receive:
 
 Our Accessibility Sponsors help make SRCCON welcoming to as many as possible. We have three Accessibility Sponsor slots available:
 
-  * Childcare
+  * Childcare **< SOLD OUT**
   * Facilitator Scholarships **< SOLD OUT**
   * Scholarships **< SOLD OUT**
   * Transcripts
@@ -48,7 +48,7 @@ Accessibility Sponsors receive:
 * Logo on page(s) that correspond with your accessibility sponsorship.
 * Logo on sponsorship signage at event.
 
-## Coffee & Tea Hack Station Sponsor
+## Coffee & Tea Hack Station Sponsor **< SOLD OUT**
 
 Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at breaks to make each other hot beverages and compare session notes. Our Coffee & Tea Hacking Station Sponsor receives:
 
@@ -64,7 +64,7 @@ Our Coffee & Tea Hacking Stations are where SRCCON attendees come together at br
 At SRCCON, we want people thinking about the amazing sessions and community, not where their next meal is coming from, so we feed all our participants breakfast, lunch, dinner, and snacks. Help get people fed by becoming a Meal or Snack Sponsor. We have three sponsorships available:
 
 * Breakfast Sponsor (both days)
-* Lunch Sponsor (both days) **< SOLD OUT**
+* Lunch Sponsor (both days) 
 * Snack Sponsor (both days) **< SOLD OUT**
 
 As a Meal or Snack Sponsor, you receive:
