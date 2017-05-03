@@ -1,7 +1,7 @@
 ---
 layout: 2015_layout
 title: Join us for SRCCON
-subtitle: Two amazing days building better newsroom code, culture, and process—together. <br />Pitch your session now.
+subtitle: Two amazing days building better newsroom code, culture, and process—together. <br />
 eventdate: SRCCON 2017 is coming.<br>August 3 & 4 in Minneapolis.
 section: homepage
 background: homepage

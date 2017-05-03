@@ -28,7 +28,7 @@ We think SRCCON is best when there's a mix of folks new to SRCCON and veterans o
 
 ## Financial & family assistance
 
-We offered a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. To apply for a scholarship to SRCCON, use the form that is built into our lottery ticket request system.
+We offer a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. To apply for a scholarship to SRCCON, use the form that is built into our lottery ticket request system.
 
 In addition to financial assistance, we know that making sure you have coverage for your children is important, so we also offer attendees [free childcare](/childcare) run by providers we trust with our own kids.
 

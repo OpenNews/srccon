@@ -23,6 +23,16 @@ document.getElementById("pitchbutton").onclick = function () {
   location.href = "/tickets/";
 };
 </script>
+{% elsif page.title == 'Scholarships' %}
+<!--session button-->
+<p class="btn" id="pitchbutton">Register for Lottery + <br>Apply for a Scholarship</p>
+<!--<p class="bottomrun">We're already receiving great sessions. <a href="">View the proposals so far.</a></p>-->
+
+<script type="text/javascript">
+document.getElementById("pitchbutton").onclick = function () {
+  location.href = "/tickets/";
+};
+</script>
 <!-- end session button -->
 {% else %}
 <!--session button-->
