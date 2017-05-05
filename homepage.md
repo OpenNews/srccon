@@ -16,7 +16,7 @@ For the first time, we are building our [scholarship application](/scholarships)
 
 {% include lotterygo.html %}
 
-This year SRCCON will return to Minneapolis Minnesota on August 3 & 4. We will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles. [See our list of accepted sessions](/sessions) or learn more about the [ticket lottery](/tickets) and our [childcare](/childcare/) options at this year's SRCCON.
+On August 3 & 4, SRCCON will return to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) at the University of Minnesota in Minneapolis, our home for SRCCON in 2015. We will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles. [See our list of accepted sessions](/sessions) or learn more about the [ticket lottery](/tickets) and our [childcare](/childcare/) options at this year's SRCCON.
 
 Once our ticket lottery closes and all tickets are sold, we'll open up a discounted block of hotel rooms at the Commons Hotel located directly next to our SRCCON venue.
 
