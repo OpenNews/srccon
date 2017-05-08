@@ -144,6 +144,18 @@
         "title": "Finding a better way to test skills while hiring"
     }, 
     {
+        "cofacilitator": "Alan Palazzolo", 
+        "cofacilitator_twitter": "zzolo", 
+        "cofacilitator_two": "Andre Natta", 
+        "cofacilitator_two_twitter": "acnatta", 
+        "description": "The Panama Papers, Electionland, Documenting Hate -- in an age of shrinking newsrooms and big stories, collaboration between news organizations is key. Tools and systems that enable the many to work together -- both off-the-shelf and custom -- are a key ingredient to making that collaboration smooth. Together, we'll talk about the pros, cons, and heartaches in getting newsrooms to collaborate, and explore the possibilities through fun, group activities.", 
+        "facilitator": "Ken Schwencke", 
+        "facilitator_twitter": "schwanksta", 
+        "id": 745262, 
+        "submitted_at": "2017-04-07T20:41:25.280Z", 
+        "title": "Greasing the wheels of inter-newsroom collaboration"
+    }, 
+    {
         "cofacilitator": "Elliot Bentley", 
         "cofacilitator_twitter": "elliot_bentley", 
         "cofacilitator_two": null, 
@@ -324,6 +336,18 @@
         "title": "Making climate change personal"
     }, 
     {
+        "cofacilitator": null, 
+        "cofacilitator_twitter": null, 
+        "cofacilitator_two": null, 
+        "cofacilitator_two_twitter": null, 
+        "description": "Whether you’re an aspiring manager, or have been leading teams for years, managing people can present intimidating challenges. What are you most afraid of? Maybe you think you’re not ~ charismatic ~ enough. Or you worry that being manager means you’re not doing “real” work. Perhaps you’re nervous that your team doesn’t like you (and you might be right). As a group, or in small groups, we’ll talk about the things that most terrify us, and then work together to come up with solutions and ideas.", 
+        "facilitator": "Kaeti Hinck", 
+        "facilitator_twitter": "@kaeti", 
+        "id": 738328, 
+        "submitted_at": "2017-04-05T21:05:56.060Z", 
+        "title": "Managing people, managing yourself"
+    }, 
+    {
         "cofacilitator": "Jessica Kosturko", 
         "cofacilitator_twitter": null, 
         "cofacilitator_two": null, 
@@ -384,7 +408,7 @@
         "title": "Practical approaches for creating software to cover democracy"
     }, 
     {
-        "cofacilitator": "Sydette Harris", 
+        "cofacilitator": "Sydette Harry", 
         "cofacilitator_twitter": "blackamazon", 
         "cofacilitator_two": null, 
         "cofacilitator_two_twitter": null, 
@@ -394,6 +418,18 @@
         "id": 739950, 
         "submitted_at": "2017-04-07T04:25:05.017Z", 
         "title": "Privileges & Allies in the Media Creation"
+    }, 
+    {
+        "cofacilitator": "Madeline Welsh", 
+        "cofacilitator_twitter": "madelinebwelsh", 
+        "cofacilitator_two": null, 
+        "cofacilitator_two_twitter": null, 
+        "description": "Pushing for projects with your managers can be hard. In resource-strapped newsrooms, diverting time and money towards digital experimentation can seem like a huge ask. \n\nOne way to get around that? Tiny experiments. Smaller initiatives can be implemented quickly to gather some initial intel that can inform the original idea, spur iteration and help to nudge a project forward.\n\nLet’s talk through how to make a tiny experiment, implement it and, if we have time, prototype (or role play) one on the spot!", 
+        "facilitator": "Julia B. Chan", 
+        "facilitator_twitter": "juliachanb", 
+        "id": 745305, 
+        "submitted_at": "2017-04-07T21:00:21.223Z", 
+        "title": "Push don’t pitch: Conduct tiny experiments to push through ideas instead of pitching them"
     }, 
     {
         "cofacilitator": "Ben Tesch", 
