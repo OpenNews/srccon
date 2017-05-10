@@ -10,15 +10,11 @@ bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8
 permalink: /index.html
 ---
 
-The SRCCON 2016 ticket lottery is now open for registration! You can [submit a ticket request](/tickets) anytime until **noon Eastern on May 10**. Ticket notifications go out the following day.
+**The SRCCON ticket lottery is now closed. Thanks to all who entered.**
 
-For the first time, we are building our [scholarship application](/scholarships) into our lottery ticket request form as well. If you need assistance getting to SRCCON and want to apply, simply choose that option on the lottery request form.
+This year SRCCON will return to the [McNamara Alumni Center in Minneapolis Minnesota](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975143,-93.2278449,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ved=0ahUKEwjg_Ou0xuXTAhUD6IMKHSjyDOEQ_BIIgwEwEQ) on August 3 & 4. We will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles.
 
-{% include lotterygo.html %}
-
-On August 3 & 4, SRCCON will return to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) at the University of Minnesota in Minneapolis, our home for SRCCON in 2015. We will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles. [See our list of accepted sessions](/sessions) or learn more about the [ticket lottery](/tickets) and our [childcare](/childcare/) options at this year's SRCCON.
-
-Once our ticket lottery closes and all tickets are sold, we'll open up a discounted block of hotel rooms at the Commons Hotel located directly next to our SRCCON venue.
+[See our list of accepted sessions](/sessions), check out information about hotels and other [SRCCON logistics](/logistics), or learn more about our [childcare](/childcare/) options at this year's SRCCON.
 
 <div class="blue">
 <div class="innercontainer">
