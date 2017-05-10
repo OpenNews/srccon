@@ -38,7 +38,7 @@
     {
         "cofacilitator": "Pam Assogba", 
         "cofacilitator_twitter": "pam_yam", 
-        "cofacilitator_two": "Alex Laughlin", 
+        "cofacilitator_two": null, 
         "cofacilitator_two_twitter": null, 
         "description": "When we meet someone new at conferences like this one, we usually ask \"What do you do?\" or \"Where are you from?\" as in, where do you work? Our work can become a huge part of our identities, especially as passionate, smart people with ambition who look to find purpose in their work. That's a really tall order as we advance in our careers and struggle to find meaning in our work with one job.\nDuring this session, we'll discuss the things we want to do and impact with our work; the big stuff that we want to accomplish in our careers; the projects we want to run, not backlog. How do we start building those opportunities outside of our jobs to grow our careers? How can we create side projects at work and become an \"intrapreneur\" so you have institutional resources? What should we look for in full time work that is compatible with your career, and how do you navigate that line?", 
         "facilitator": "Elite Truong", 
@@ -407,6 +407,18 @@
         "submitted_at": "2017-04-06T00:17:04.198Z", 
         "title": "News for everyone: Thinking about accessibility"
     }, 
+    {
+        "cofacilitator": "Emma Carew Grovum",
+        "cofacilitator_twitter": "emmacarew",
+        "cofacilitator_two": null, 
+        "cofacilitator_two_twitter": null, 
+        "description": "Are you cripplingly shy? Socially awkward, perhaps? Do you get taken advantage of because you don't know how to say no? Maybe you have a colleague who picks on you. Any newsroom has a cast of personalities ranging from introverted to outwardly aggressive. If you're that person who fears talking to people -- a skill that's required of journalists -- or gets bullied by the big loudmouth in the newsroom who undermines you and your ideas, finding your place in a collaborative newsroom environment or just do your job as a journalist can be challenging. This session, or therapy circle, would explore real strategies to overcome whatever personality traits participants may have that hinders their journalism. For example, to deal with my debilitating anxiety attacks that precede asking colleagues or sources to do something for me, I put my 'roller derby hat' on and become a whole new person to become as fierce and unapologetic as I am on the track beating up and getting beaten up by other women. Find your 'roller derby hat' or 'Sasha Fierce' here.",
+        "facilitator": "Yoohyun Jung",
+        "facilitator_twitter": "yoohyun_jung",
+        "id": 739458,
+        "submitted_at": "2017-04-06T18:43:34.252Z",
+        "title": "Overcoming crippling personality traits to survive in a newsroom"
+    },
     {
         "cofacilitator": "Steven Rich", 
         "cofacilitator_twitter": "dataeditor", 
