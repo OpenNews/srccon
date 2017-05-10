@@ -24,3 +24,6 @@ We know [evenings at conferences can be tough](https://opennews.org/blog/srccon-
 
 ## Childcare
 We offer free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the adjoining Commons Hotel. The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about our free childcare now.](/childcare)
+
+## More
+There's a lot more to see and do at SRCCON and in Minneapolis and we'll be updating this page regularly as SRCCON approaches.
