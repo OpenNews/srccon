@@ -12,7 +12,9 @@ permalink: /index.html
 
 **The SRCCON ticket lottery is now closed. Thanks to all who entered.**
 
-This year SRCCON will return to the [McNamara Alumni Center in Minneapolis Minnesota](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975143,-93.2278449,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ved=0ahUKEwjg_Ou0xuXTAhUD6IMKHSjyDOEQ_BIIgwEwEQ) on August 3 & 4. We will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles. [See our list of accepted sessions](/sessions), check out information about hotels and other [SRCCON logistics](/logistics), or learn more about our [childcare](/childcare/) options at this year's SRCCON.
+This year SRCCON will return to the [McNamara Alumni Center in Minneapolis Minnesota](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975143,-93.2278449,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ved=0ahUKEwjg_Ou0xuXTAhUD6IMKHSjyDOEQ_BIIgwEwEQ) on August 3 & 4. We will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles.
+
+[See our list of accepted sessions](/sessions), check out information about hotels and other [SRCCON logistics](/logistics), or learn more about our [childcare](/childcare/) options at this year's SRCCON.
 
 <div class="blue">
 <div class="innercontainer">
