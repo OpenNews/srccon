@@ -11,7 +11,7 @@ permalink: /logistics/index.html
 redirect_from:
  - /location/index.html
 ---
-SRCCON 2015 takes place at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis.
+SRCCON 2017 takes place at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis.
 
 ## Lodging
 We will be making a special conference rate at [The Commons Hotel](http://www.commonshotel.com) available to ticketholders. The Commons Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather.
