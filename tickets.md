@@ -1,16 +1,16 @@
 ---
 layout: 2015_layout
 title: Tickets at SRCCON
-subtitle: Our ticket lottery is open now to May 10.
+subtitle: Our ticket lottery is now closed.
 section: sessions
 sub-section: interior
 background: tickets
 byline: Alyson Hurt
 permalink: /tickets/index.html
 ---
-{% include lotterygo.html %}
 
-The SRCCON 2017 ticket lottery is now open for registration. Our lottery system is designed to distribute tickets in a more equitable fashion than a first-come-first-served system that rewards the fastest internet connections or twitchiest mouse-fingers.
+
+**The SRCCON 2017 ticket lottery is now closed. Thanks to all who entered.** Our lottery system is designed to distribute tickets in a more equitable fashion than a first-come-first-served system that rewards the fastest internet connections or twitchiest mouse-fingers.
 
 Here's what you need to know about getting a SRCCON ticket:
 
