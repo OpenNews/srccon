@@ -72,6 +72,18 @@
         "title": "Caregiving while Reporting, Editing, Publishing, and Analyzing the News"
     }, 
     {
+        "cofacilitator": "Ernie Hsiung",
+        "cofacilitator_twitter": "ErnieAtLYD",
+        "cofacilitator_two": null, 
+        "cofacilitator_two_twitter": null, 
+        "description": "While it would be amazing for journalists to be spread across America, the big media companies are parked mostly in NYC and DC. This means we analyze data from afar and write anecdotal trend pieces without much understanding of the vast and diverse local populations that might be impacted or influencing some topic. Fear not! There are bunches of motivated and stoked people at the local level that want to find, process, and provide information to the public to help them be more informed. These civic hacktivists share an ethos with journalists. We should look to connect with local Code for America brigades to get more context at the local level until we actually achieve better geographic diversity in media.\n\nRebekah and Dave co-founded two Code for America brigades in Florida (Miami and Gainesville). Erie recently joined Code for America to help strengthen the network of brigades. This means they help connect hackers and activists with their local governments to find ways to make government work better for the people. Come and discuss tactics for connecting with local brigades to find data and better understand local issues, local people and local governments… since we know y’all don’t have people living there.",
+        "facilitator": "Dave Stanton",
+        "facilitator_twitter": "gotoplanb",
+        "id": 737155,
+        "submitted_at": "2017-04-05T04:19:36.339Z",
+        "title": "Code Across America: Working with local Code for America brigades to find local stories"
+    },
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "cofacilitator_two": null, 
@@ -94,18 +106,6 @@
         "id": 743793, 
         "submitted_at": "2017-04-07T22:04:23.176Z", 
         "title": "Data: They walk among us!"
-    }, 
-    {
-        "cofacilitator": "Leah Kohlenberg", 
-        "cofacilitator_twitter": "leahkohlenberg", 
-        "cofacilitator_two": null, 
-        "cofacilitator_two_twitter": null, 
-        "description": "Explore how the art of storytelling can begin with… art. In this session, Leah Kohlenberg, a former journalist and founder of The Roaming Studio, will lead you through a drawing exercise  — yes, even those of you who say \"I can’t draw” — and demonstrate how stirring your creative juices helps you  tell better stories. She’s been doing this with news organizations and academic environments for a couple of years now, researching it along the way. Her early conclusion: It really works!", 
-        "facilitator": "Jennifer LaFleur", 
-        "facilitator_twitter": "@j_la28", 
-        "id": 745516, 
-        "submitted_at": "2017-04-08T00:03:29.985Z", 
-        "title": "Drawing for your brain"
     }, 
     {
         "cofacilitator": "Darla Cameron", 
@@ -168,16 +168,16 @@
         "title": "Greasing the wheels of inter-newsroom collaboration"
     }, 
     {
-        "cofacilitator": "Elliot Bentley", 
-        "cofacilitator_twitter": "elliot_bentley", 
+        "cofacilitator": "Kavya Sukumar",
+        "cofacilitator_twitter": "kavyaSukumar",
         "cofacilitator_two": null, 
         "cofacilitator_two_twitter": null, 
-        "description": "An ever-growing cornucopia of tools, frameworks, packages, and languages beckons to newsroom developers and media technologists. Whether you’re an individual developer or part of a large, medium, or small team, deciding which technologies to invest your time and sweat equity into may be one of the most important and complex decisions you make. Do we use an old standby that we know really well, or we forge out and try something new? How do we balance following technological passions and interests while still making sure everyone on the team knows how to work with the codebase? Are the benefits of getting in on the ground floor of something new worth the risks? How do you know if your team has the expertise to pull it off, or if your organization has the resources?", 
-        "facilitator": "Matt Johnson", 
-        "facilitator_twitter": "xmatt", 
-        "id": 745089, 
-        "submitted_at": "2017-04-07T19:56:18.277Z", 
-        "title": "How Do You Stack Your Tech Deck?"
+        "description": "True or false?: Major political events are regularly covered on live TV, and all of them feature speakers with an agenda.\n\nWhen the lens of public attention shines on politicians it is important for journalists to be able to contextualize their messages as quickly and effectively as possible.  During this session we will teach participants about open source tools that are being used today by live fact checkers to create annotated transcripts. They will learn about an open service called Opened Captions and how it can be used in conjunction with google doc to get real time transcriptions of political speeches. \n\nThis is an hands on session,  drawing on experience from Vox and NPR collaboration, participants will also be shown how to export the annotated speech from the google doc into a news article static web page, that could be ready for publication.",
+        "facilitator": "Pietro Passarelli",
+        "facilitator_twitter": "pietropassarell",
+        "id": 737606,
+        "submitted_at": "2017-04-05T14:33:34.107Z",
+        "title": "Hands on: Live fact checking TV speeches in your google docs!"
     }, 
     {
         "cofacilitator": "Chris Canipe", 
@@ -228,6 +228,18 @@
         "title": "How do we protect our users privacy?"
     }, 
     {
+        "cofacilitator": "Elliot Bentley", 
+        "cofacilitator_twitter": "elliot_bentley", 
+        "cofacilitator_two": null, 
+        "cofacilitator_two_twitter": null, 
+        "description": "An ever-growing cornucopia of tools, frameworks, packages, and languages beckons to newsroom developers and media technologists. Whether you’re an individual developer or part of a large, medium, or small team, deciding which technologies to invest your time and sweat equity into may be one of the most important and complex decisions you make. Do we use an old standby that we know really well, or we forge out and try something new? How do we balance following technological passions and interests while still making sure everyone on the team knows how to work with the codebase? Are the benefits of getting in on the ground floor of something new worth the risks? How do you know if your team has the expertise to pull it off, or if your organization has the resources?", 
+        "facilitator": "Matt Johnson", 
+        "facilitator_twitter": "xmatt", 
+        "id": 745089, 
+        "submitted_at": "2017-04-07T19:56:18.277Z", 
+        "title": "How Do You Stack Your Tech Deck?"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "cofacilitator_two": null, 
@@ -264,28 +276,16 @@
         "title": "Know Your Audience! A Pub(lication) Trivia Night (or Afternoon)"
     }, 
     {
-        "cofacilitator": "Ted Han", 
-        "cofacilitator_twitter": "knowtheory", 
+        "cofacilitator": "Leah Kohlenberg", 
+        "cofacilitator_twitter": "leahkohlenberg", 
         "cofacilitator_two": null, 
         "cofacilitator_two_twitter": null, 
-        "description": "It was a great idea. You worked really hard to bring it into this world, watched it grow and blossom. It had its moment in the sun, but now it's starting to slow down. Show its age. It's having a hard time keeping up, to be completely honest. Maybe you've even already moved on. How do you say goodbye? What does end of life care look like for news/tech projects? How do you manage successful transitions and handoffs? In this session we'll talk about about the hard decisions you sometimes have to make, how to prepare for these situations and how to make sure your projects (or at least the lessons learned) live on.", 
-        "facilitator": "Adam Schweigert", 
-        "facilitator_twitter": "aschweig", 
-        "id": 743676, 
-        "submitted_at": "2017-04-07T22:47:01.411Z", 
-        "title": "Let's Talk About Death 💀"
-    }, 
-    {
-        "cofacilitator": "Mary Brown", 
-        "cofacilitator_twitter": "mwbvosd", 
-        "cofacilitator_two": null, 
-        "cofacilitator_two_twitter": null, 
-        "description": "Forget the taboos. Let's talk frankly about revenue, engagement, and transparency. We want this group to discuss (and hopefully design) engagement ladders that aren't only ethical, but that also directly improve both reporting and revenue potential – all without compromising journalistic independence. Let's break down the wall and have some frank conversations about metrics, money, and bringing the audience closer to everything we do.", 
-        "facilitator": "Andrew Losowsky", 
-        "facilitator_twitter": "losowsky", 
-        "id": 739607, 
-        "submitted_at": "2017-04-06T21:25:24.398Z", 
-        "title": "Let's Talk About Engagement and Revenue"
+        "description": "Explore how the art of storytelling can begin with… art. In this session, Leah Kohlenberg, a former journalist and founder of The Roaming Studio, will lead you through a drawing exercise  — yes, even those of you who say \"I can’t draw” — and demonstrate how stirring your creative juices helps you  tell better stories. She’s been doing this with news organizations and academic environments for a couple of years now, researching it along the way. Her early conclusion: It really works!", 
+        "facilitator": "Jennifer LaFleur", 
+        "facilitator_twitter": "@j_la28", 
+        "id": 745516, 
+        "submitted_at": "2017-04-08T00:03:29.985Z", 
+        "title": "Learn to Draw, Boost Your Brain Power!"
     }, 
     {
         "cofacilitator": null, 
@@ -298,6 +298,30 @@
         "id": 735317, 
         "submitted_at": "2017-04-05T00:44:03.391Z", 
         "title": "Let's be better security trainers together"
+    }, 
+    {
+        "cofacilitator": "Ted Han", 
+        "cofacilitator_twitter": "knowtheory", 
+        "cofacilitator_two": null, 
+        "cofacilitator_two_twitter": null, 
+        "description": "It was a great idea. You worked really hard to bring it into this world, watched it grow and blossom. It had its moment in the sun, but now it's starting to slow down. Show its age. It's having a hard time keeping up, to be completely honest. Maybe you've even already moved on. How do you say goodbye? What does end of life care look like for news/tech projects? How do you manage successful transitions and handoffs? In this session we'll talk about about the hard decisions you sometimes have to make, how to prepare for these situations and how to make sure your projects (or at least the lessons learned) live on.", 
+        "facilitator": "Adam Schweigert", 
+        "facilitator_twitter": "aschweig", 
+        "id": 743676, 
+        "submitted_at": "2017-04-07T22:47:01.411Z", 
+        "title": "Let's Talk About Death "
+    }, 
+    {
+        "cofacilitator": "Mary Brown", 
+        "cofacilitator_twitter": "mwbvosd", 
+        "cofacilitator_two": null, 
+        "cofacilitator_two_twitter": null, 
+        "description": "Forget the taboos. Let's talk frankly about revenue, engagement, and transparency. We want this group to discuss (and hopefully design) engagement ladders that aren't only ethical, but that also directly improve both reporting and revenue potential – all without compromising journalistic independence. Let's break down the wall and have some frank conversations about metrics, money, and bringing the audience closer to everything we do.", 
+        "facilitator": "Andrew Losowsky", 
+        "facilitator_twitter": "losowsky", 
+        "id": 739607, 
+        "submitted_at": "2017-04-06T21:25:24.398Z", 
+        "title": "Let's Talk About Engagement and Revenue"
     }, 
     {
         "cofacilitator": "Jordan Wirfs-Brock", 
