@@ -17,7 +17,7 @@ SRCCON 2017 takes place at the <a href="https://www.google.com/maps/place/mcnama
 
 We have reserved a block of rooms at the [The Commons Hotel](http://www.commonshotel.com) at a base rate of $153 per night. To get the conference rate, please call 612-379-8888 and ask for the SRCCON rate, or use our [dedicated booking link](https://gc.synxis.com/rez.aspx?Hotel=76179&Chain=21643&template=RBE&shell=RBE&start=availresults&arrive=8/1/2017&depart=8/6/2017&adult=1&child=0&group=080117SRCC). 
 
-The Commons Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather. The reserved block of rooms will be available until July 2 or all rooms are booked, whichever happens first—booking early is always at good idea!
+The Commons Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather. The reserved block of rooms will be available until July 2 or all rooms are booked, whichever happens first—booking early is always a good idea!
 
 ## Transit
 The [Minneapolis METRO system](http://www.metrotransit.org/metro-system) is an easy way to get around the city. You can ride light rail from the airport to the conference hotel for $1.75: Follow the light rail signs to the airport tram, which will take you right to the light rail station. Take the northbound ("Downtown Minneapolis") Blue Line to the Downtown East station, then cross to the other track to transfer to the eastbound Green Line. Take the Green Line two stops to East Bank. You’ll be looking right at [The Commons Hotel](http://www.commonshotel.com). The [McNamara Alumni Center](http://www.mac-events.org/) conference venue is another block past the hotel, on SE Oak Street.
