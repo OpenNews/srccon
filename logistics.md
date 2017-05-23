@@ -14,7 +14,13 @@ redirect_from:
 SRCCON 2017 takes place at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis.
 
 ## Lodging
-We will be making a special conference rate at [The Commons Hotel](http://www.commonshotel.com) available to ticketholders. The Commons Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather.
+
+We have reserved a block of rooms at the [The Commons Hotel](http://www.commonshotel.com) at a base rate of $153 per night. To get the conference rate, please call 612-379-8888 and ask for the SRCCON rate, or use our [dedicated booking link](https://gc.synxis.com/rez.aspx?Hotel=76179&Chain=21643&template=RBE&shell=RBE&start=availresults&arrive=8/1/2017&depart=8/6/2017&adult=1&child=0&group=080117SRCC). 
+
+The Commons Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather. The reserved block of rooms will be available until July 2 or all rooms are booked, whichever happens first—booking early is always at good idea!
+
+## Transit
+The [Minneapolis METRO system](http://www.metrotransit.org/metro-system) is an easy way to get around the city. You can ride light rail from the airport to the conference hotel for $1.75: Follow the light rail signs to the airport tram, which will take you right to the light rail station. Take the northbound ("Downtown Minneapolis") Blue Line to the Downtown East station, then cross to the other track to transfer to the eastbound Green Line. Take the Green Line two stops to East Bank. You’ll be looking right at [The Commons Hotel](http://www.commonshotel.com). The [McNamara Alumni Center](http://www.mac-events.org/) conference venue is another block past the hotel, on SE Oak Street.
 
 ## Meals at SRCCON
 We want you to be happy and well-fed at SRCCON, so we're providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We'll also have tea, coffee, and snacks—healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
