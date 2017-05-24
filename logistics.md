@@ -15,7 +15,9 @@ SRCCON 2017 takes place at the <a href="https://www.google.com/maps/place/mcnama
 
 ## Lodging
 
-We have reserved a block of rooms at the [The Commons Hotel](http://www.commonshotel.com) at a base rate of $153 per night. To get the conference rate, please call 612-379-8888 and ask for the SRCCON rate, or use our [dedicated booking link](https://gc.synxis.com/rez.aspx?Hotel=76179&Chain=21643&template=RBE&shell=RBE&start=availresults&arrive=8/1/2017&depart=8/6/2017&adult=1&child=0&group=080117SRCC). 
+We have reserved a block of rooms at the [The Commons Hotel](http://www.commonshotel.com) at a base rate of $153 per night. To get the conference rate, please call 612-379-8888 and ask for the SRCCON rate, or use our [dedicated booking link](https://gc.synxis.com/rez.aspx?Hotel=76179&Chain=21643&template=RBE&shell=RBE&start=availresults&arrive=8/1/2017&depart=8/6/2017&adult=1&child=0&group=080117SRCC).
+
+SRCCON begins at 9am Thursday morning, Aug. 3, and will wrap up around 6pm Friday, Aug. 4. Many attendees plan to arrive on Wednesday and leave Friday night or Saturday morning. Community members sometimes plan related events around SRCCON as well, so if you want more time in Minneapolis, the conference rate is available Aug. 1-6.
 
 The Commons Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather. The reserved block of rooms will be available until July 2 or all rooms are booked, whichever happens first—booking early is always a good idea!
 
@@ -26,7 +28,7 @@ The [Minneapolis METRO system](http://www.metrotransit.org/metro-system) is an e
 We want you to be happy and well-fed at SRCCON, so we're providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We'll also have tea, coffee, and snacks—healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
 
 ## Thursday evening at SRCCON
-We know [evenings at conferences can be tough](https://opennews.org/blog/srccon-thursday/), so we schedule Thursday evening as an opportunity to have fun, relax, talk, and learn with colleagues and new friends. Thursday night is an opportunity to focus on the "life" side of the work/life balance. As part of that, we make a special Thursday evening ticket available for partners of SRCCON attendees.   
+We know [evenings at conferences can be tough](https://opennews.org/blog/srccon-thursday/), so we schedule Thursday evening as an opportunity to have fun, relax, talk, and learn with colleagues and new friends. Thursday night is an opportunity to focus on the "life" side of the work/life balance. As part of that, we make a special Thursday evening ticket available for partners of SRCCON attendees.
 
 ## Childcare
 We offer free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the adjoining Commons Hotel. The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about our free childcare now.](/childcare)
