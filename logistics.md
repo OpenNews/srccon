@@ -17,6 +17,8 @@ SRCCON 2017 takes place at the <a href="https://www.google.com/maps/place/mcnama
 
 We have reserved a block of rooms at the [The Commons Hotel](http://www.commonshotel.com) at a base rate of $153 per night. To get the conference rate, please call 612-379-8888 and ask for the SRCCON rate, or use our [dedicated booking link](https://gc.synxis.com/rez.aspx?Hotel=76179&Chain=21643&template=RBE&shell=RBE&start=availresults&arrive=8/1/2017&depart=8/6/2017&adult=1&child=0&group=080117SRCC). 
 
+SRCCON begins at 9am Thursday morning, Aug. 3, and will wrap up around 6pm Friday, Aug. 4. Many attendees plan to arrive on Wednesday and leave Friday night or Saturday morning. Community members sometimes plan related events around SRCCON as well, so if you want more time in Minneapolis, the conference rate is available Aug. 1-6.
+
 The Commons Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather. The reserved block of rooms will be available until July 2 or all rooms are booked, whichever happens first—booking early is always at good idea!
 
 ## Transit
