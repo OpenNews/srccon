@@ -6,7 +6,7 @@ section: sessions
 sub-section: interior
 background: stickerdots
 byline: Erik Westra
-permalink: /facilitators
+permalink: /facilitators/index.html
 ---
 
 Session facilitators make SRCCON what it is, a collaborative, hands-on conference that brings peers together to work on the practical challenges facing journalism today. We’ve put this guide together to help you think about planning and running a great session.
