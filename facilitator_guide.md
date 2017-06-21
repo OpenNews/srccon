@@ -4,7 +4,7 @@ title: SRCCON Facilitator Guide
 subtitle: Facilitators combine creativity and experience to help attendees learn something new. Here's how to plan and run a great session.
 section: sessions
 sub-section: interior
-background: stickerdots
+background: facilitators
 byline: Erik Westra
 permalink: /facilitators/index.html
 ---
@@ -13,15 +13,15 @@ Session facilitators make SRCCON what it is, a collaborative, hands-on conferenc
  
 ## In This Guide
 * [What Sets SRCCON Apart?](#about-srccon)
-* [What Is a Facilitator and What Do They Do?](#what-is-a-facilitator)
+* [What is a Facilitator and What Do They Do?](#what-is-a-facilitator)
 * [Key Moments for Facilitators Before SRCCON](#key-moments)
 * [Planning Your Session Before SRCCON](#planning)
 * [Facilitating a Great Session Once You're at SRCCON](#facilitating)
-* [How many people will be in my session?](#how-many-people)
-* [What kinds of people will be in my session?](#what-kinds-people)
-* [What materials will I have?](#what-materials)
-* [How much time will I have?](#how-much-time)
-* [Will my session be recorded?](#recording)
+* [How Many People Will Be In My Session?](#how-many-people)
+* [What Kinds of People Will Be In My Session?](#what-kinds-people)
+* [What Materials Will I Have?](#what-materials)
+* [How Much Time Will I Have?](#how-much-time)
+* [Will My Session Be Recorded?](#recording)
 * [Tips on Effective Facilitation](#tips-facilitation)
 * [Tips on Running an Inclusive Session](#tips-inclusivity)
 * [Additional Resources](#resources)
@@ -85,7 +85,7 @@ Once you're at the venue, conference staff and volunteers will be around to answ
 
 <span id="how-many-people"></span>
 
-### How many people will be in my session?
+### How Many People Will Be In My Session?
  
 About 275 people attend SRCCON, and we program about 6 topics at a time, so most sessions will have 30 to 50 people in the room. Some topics will draw fewer—and that's fine! Some of the smallest sessions at SRCCON are incredibly meaningful for the people who are there, and we want to encourage those conversations.
  
@@ -93,7 +93,7 @@ Some sessions might bring in larger crowds as well, so we encourage you to spend
  
 <span id="what-kinds-people"></span>
 
-### What kinds of people will be in my session?
+### What Kinds of People Will Be In My Session?
  
 First and foremost, you’ll be surrounded by peers—people excited about journalism and ready to share their expertise at a journalism-centric conference. More than a third of the attendees at SRCCON will be session facilitators themselves. Most participants are developers, designers, and data analysts who work in newsrooms, but we also welcome reporters, editors, managers, and multimedia journalists, as well as attendees from related fields like civic tech, art, mapping, and open data. Most participants come from the U.S., although many countries will be represented. We draw from large media organizations as well as smaller, regional, and noncoastal newsrooms.
  
@@ -106,7 +106,7 @@ As a facilitator, there are a couple ways you can really support the people in y
 
 <span id="what-materials"></span>
 
-### What materials will I have?
+### What Materials Will I Have?
  
 Every room at SRCCON will be well-stocked with note paper, post-it notes, pens, and sharpies. We'll make sure you have a whiteboard or a giant scratchpad on an easel, too; if you want to send people away with ideas they can act on, grabbing a marker and whiteboarding the best comments from the room is a great way to do it.
  
@@ -116,7 +116,7 @@ If you need any special supplies for your session, we’ll ask you to tell us ab
 
 <span id="how-much-time"></span>
 
-### How much time will I have?
+### How Much Time Will I Have?
  
 The conference schedule sets aside 75 minutes for each SRCCON session. You don’t have to fill the entire time, but we want you to have plenty of room to dig into a topic and respond to threads that emerge along the way. If your session needs _more_ than 75 minutes, let us know and we can adjust appropriately. The conference schedule also builds in a 30-minute break between sessions—plenty of time for attendees to hang around and ask questions or continue conversations before they head out.
  
@@ -124,7 +124,7 @@ How you use your time is completely up to you. While you won't need a script lik
 
 <span id="recording"></span>
  
-### Will my session be recorded?
+### Will My Session Be Recorded?
  
 SRCCON works with [White Coat Captioning](http://www.whitecoatcaptioning.com/) to provide live transcriptions in about half our sessions each year. This [helps some people at the conference](https://opennews.org/blog/srccon-transcription/) track conversations more easily, and allows additional people to participate remotely. It also provides a great record of sessions that have taken place [in previous years](https://2016.srccon.org/transcription/).
  

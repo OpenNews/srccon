@@ -84,6 +84,10 @@ header.guide {
   background-image: url(/media/img/2015/mplsnight.jpg);
 }
 
+header.facilitators {
+  background-image: url(/media/img/2017/facilitators.jpg);
+  background-size: cover;
+}
 
 header.books {
   background-image: url(/media/img/2015/books.jpg);
