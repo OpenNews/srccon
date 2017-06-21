@@ -11,7 +11,7 @@ permalink: /facilitators/index.html
 
 Session facilitators make SRCCON what it is, a collaborative, hands-on conference that brings peers together to work on the practical challenges facing journalism today. We’ve put this guide together to help you think about planning and running a great session.
  
-### In This Guide
+## In This Guide
 * [What Sets SRCCON Apart?](#about-srccon)
 * [What Is a Facilitator and What Do They Do?](#what-is-a-facilitator)
 * [Key Moments for Facilitators Before SRCCON](#key-moments)
@@ -28,7 +28,7 @@ Session facilitators make SRCCON what it is, a collaborative, hands-on conferenc
 
 <span id="about-srccon"></span>
  
-### What Sets SRCCON Apart?
+## What Sets SRCCON Apart?
  
 SRCCON is a highly participatory event, where everyone is engaged in learning, building, and problem-solving together. That's one of the reasons we refer to you as facilitators, not speakers or presenters. When you run a session at SRCCON, you’re in a room with dozens of other smart people with an opportunity to compare notes, share skills, and help everyone learn from each other.
  
@@ -42,19 +42,19 @@ Our sessions inhabit these values in different ways, through structured discussi
 
 <span id="what-is-a-facilitator"></span>
 
-### What Is a Facilitator and What Do They Do?
+## What Is a Facilitator and What Do They Do?
  
 As a facilitator, you bring your experience and excitement (or even skepticism) to leading a discussion or workshop with a highly engaged group.
  
-* Guide - you set an agenda for the group. That could be laying out the contours of a problem you are wrestling with, and then guiding a group conversation that explores solutions. Or it could be teaching participants a new skill or technique they can take back to their newsroom.
-* Invite - you gather the wisdom in the room. You help make sure everyone feels able to participate, not just the people who already feel comfortable speaking up. You have the power to make conversations inclusive, and to help the room reach consensus, build connections, and find best practices.
-* Organize - you help everyone make the session productive. That means keeping an eye on time, and working through the activities on your agenda. At the end, you bring everything to a close, helping attendees summarize what they worked on and calling out key takeaways.
+* **Guide.** You set an agenda for the group. That could be laying out the contours of a problem you are wrestling with, and then guiding a group conversation that explores solutions. Or it could be teaching participants a new skill or technique they can take back to their newsroom.
+* **Invite.** You gather the wisdom in the room. You help make sure everyone feels able to participate, not just the people who already feel comfortable speaking up. You have the power to make conversations inclusive, and to help the room reach consensus, build connections, and find best practices.
+* **Organize.** You help everyone make the session productive. That means keeping an eye on time, and working through the activities on your agenda. At the end, you bring everything to a close, helping attendees summarize what they worked on and calling out key takeaways.
  
 Facilitators don't need to come in with all the answers. You're there to guide discussions or collaborative work, and to help attendees contribute and walk away having learned something new. 
 
 <span id="key-moments"></span>
 
-### Key Moments for Facilitators Before SRCCON
+## Key Moments for Facilitators Before SRCCON
  
 * **End of June:** We'll ask you for any supply and scheduling needs you might have.
 * **Early July:** We'll share a timeline you can use for outlining your session, and optionally pair you up with peers for feedback.
@@ -64,7 +64,7 @@ Facilitators don't need to come in with all the answers. You're there to guide d
 
 <span id="planning"></span>
 
-### Planning Your Session Before SRCCON
+## Planning Your Session Before SRCCON
  
 SRCCON attendees show up ready to pitch in, whether that's writing code, working through activities, or participating in conversations. Much of the work you'll do as a facilitator will take place in the weeks leading up to SRCCON, as you outline your session. We've found that keeping two things in mind can help translate your awesome ideas into a meaningful experience for SRCCON attendees:
  
@@ -79,13 +79,13 @@ And finally, make sure to block out time in your outline for wrapup. We found th
 
 <span id="facilitating"></span>
 
-### Facilitating a Great Session Once You're at SRCCON
+## Facilitating a Great Session Once You're at SRCCON
  
 Once you're at the venue, conference staff and volunteers will be around to answer questions and help you with any problems that come up. We'll also set aside some time before SRCCON begins for you to see the venue and check out the room where you'll be leading your session. Here are a few more things to help you anticipate what the facilitation experience will be like:
 
 <span id="how-many-people"></span>
 
-#### How many people will be in my session?
+### How many people will be in my session?
  
 About 275 people attend SRCCON, and we program about 6 topics at a time, so most sessions will have 30 to 50 people in the room. Some topics will draw fewer—and that's fine! Some of the smallest sessions at SRCCON are incredibly meaningful for the people who are there, and we want to encourage those conversations.
  
@@ -93,7 +93,7 @@ Some sessions might bring in larger crowds as well, so we encourage you to spend
  
 <span id="what-kinds-people"></span>
 
-#### What kinds of people will be in my session?
+### What kinds of people will be in my session?
  
 First and foremost, you’ll be surrounded by peers—people excited about journalism and ready to share their expertise at a journalism-centric conference. More than a third of the attendees at SRCCON will be session facilitators themselves. Most participants are developers, designers, and data analysts who work in newsrooms, but we also welcome reporters, editors, managers, and multimedia journalists, as well as attendees from related fields like civic tech, art, mapping, and open data. Most participants come from the U.S., although many countries will be represented. We draw from large media organizations as well as smaller, regional, and noncoastal newsrooms.
  
@@ -106,7 +106,7 @@ As a facilitator, there are a couple ways you can really support the people in y
 
 <span id="what-materials"></span>
 
-#### What materials will I have?
+### What materials will I have?
  
 Every room at SRCCON will be well-stocked with note paper, post-it notes, pens, and sharpies. We'll make sure you have a whiteboard or a giant scratchpad on an easel, too; if you want to send people away with ideas they can act on, grabbing a marker and whiteboarding the best comments from the room is a great way to do it.
  
@@ -116,7 +116,7 @@ If you need any special supplies for your session, we’ll ask you to tell us ab
 
 <span id="how-much-time"></span>
 
-#### How much time will I have?
+### How much time will I have?
  
 The conference schedule sets aside 75 minutes for each SRCCON session. You don’t have to fill the entire time, but we want you to have plenty of room to dig into a topic and respond to threads that emerge along the way. If your session needs _more_ than 75 minutes, let us know and we can adjust appropriately. The conference schedule also builds in a 30-minute break between sessions—plenty of time for attendees to hang around and ask questions or continue conversations before they head out.
  
@@ -124,7 +124,7 @@ How you use your time is completely up to you. While you won't need a script lik
 
 <span id="recording"></span>
  
-#### Will my session be recorded?
+### Will my session be recorded?
  
 SRCCON works with [White Coat Captioning](http://www.whitecoatcaptioning.com/) to provide live transcriptions in about half our sessions each year. This [helps some people at the conference](https://opennews.org/blog/srccon-transcription/) track conversations more easily, and allows additional people to participate remotely. It also provides a great record of sessions that have taken place [in previous years](https://2016.srccon.org/transcription/).
  
@@ -134,27 +134,32 @@ We also have experimented with audio recording in some sessions, but again, if y
 
 <span id="tips-facilitations"></span>
 
-### Tips on Effective Facilitation
+## Tips on Effective Facilitation
  
 SRCCON is built upon participation and folks are coming to your session expecting to be involved and active. Some things to consider in your role as session facilitator:
  
-* **Start by setting some ground rules.** This can be super helpful for participants, and for you to refer back to as facilitator. Some examples:
-    * Everyone should speak 1/_n_ of the time, where _n_ is the number of people in the room. This encourages folks to be conscious of how much they are speaking. An additional note is that speaking and offering opinions is not the only way to contribute to a session: listening and asking questions are also powerful ways to participate.
-    * Respect the schedule.
-    * Be curious and generous. 
-* **Take advantage of your power as facilitator.** You've set the agenda, and your role is to guide and support conversation.
-    * You can decide in the moment how to handle unexpected challenges. You can also decide when it is best to throw out your original agenda and try something new.
-    * If a problematic comment comes up in your session, you can confront the issue. For example, if a participant only uses male pronouns to refer to developers, you might clarify that there are skilled developers of all genders, including some folks right there in the room.
-    * Guide the tenor of the discussion—it’s a conversation, not a debate. Try to make sure the room isn’t dominated by just a few voices; keep an eye out for body language that says “I might have something to add” even when that person doesn’t feel confident enough to cut in. Go ahead and call on that person to see if they’d like to say something. You can also tell folks who keep chattin that you’d like to hear from other people in the room.
-    * Elicit reflection from the group. "Noticings," or observations without judgment, can help participants build self-awareness and explore statements. For example, "I noticed that you referenced a study, could you say more about what struck you about it?" When you do get a comment that’s not quite what you expected, you can almost always find part of it to build on.
-* **Work with people in the room.** Leading a group of creative people toward a common goal can be hard, especially while you're juggling time, information, and conversations. A cofacilitator can help lighten the load, and keeps each of you from having to be “on” the whole time. But also don’t be afraid to ask an enthusiastic attendee to help keep time, take notes, or watch for people with something to say.
-* **Be clear about outcomes.** Call out the goals for each discussion at the outset, check along the way that you're making progress toward them, and review goals at the end of the session. (This is sometimes referred to as "tell them what you're going to tell them, then tell them, then tell them what you told them.")
+**Start by setting some ground rules.** This can be super helpful for participants, and for you to refer back to as facilitator. Some examples:
+
+* Everyone should speak 1/_n_ of the time, where _n_ is the number of people in the room. This encourages folks to be conscious of how much they are speaking. An additional note is that speaking and offering opinions is not the only way to contribute to a session: listening and asking questions are also powerful ways to participate.
+* Respect the schedule.
+* Be curious and generous. 
+
+**Take advantage of your power as facilitator.** You've set the agenda, and your role is to guide and support conversation.
+
+* You can decide in the moment how to handle unexpected challenges. You can also decide when it is best to throw out your original agenda and try something new.
+* If a problematic comment comes up in your session, you can confront the issue. For example, if a participant only uses male pronouns to refer to developers, you might clarify that there are skilled developers of all genders, including some folks right there in the room.
+* Guide the tenor of the discussion—it’s a conversation, not a debate. Try to make sure the room isn’t dominated by just a few voices; keep an eye out for body language that says “I might have something to add” even when that person doesn’t feel confident enough to cut in. Go ahead and call on that person to see if they’d like to say something. You can also tell folks who keep chattin that you’d like to hear from other people in the room.
+* Elicit reflection from the group. "Noticings," or observations without judgment, can help participants build self-awareness and explore statements. For example, "I noticed that you referenced a study, could you say more about what struck you about it?" When you do get a comment that’s not quite what you expected, you can almost always find part of it to build on.
+
+**Work with people in the room.** Leading a group of creative people toward a common goal can be hard, especially while you're juggling time, information, and conversations. A cofacilitator can help lighten the load, and keeps each of you from having to be “on” the whole time. But also don’t be afraid to ask an enthusiastic attendee to help keep time, take notes, or watch for people with something to say.
+
+**Be clear about outcomes.** Call out the goals for each discussion at the outset, check along the way that you're making progress toward them, and review goals at the end of the session. (This is sometimes referred to as "tell them what you're going to tell them, then tell them, then tell them what you told them.")
  
 Overall, use your wisdom and passion as your guide; we greatly appreciate you sharing your time and knowledge with the group, and trust each facilitator to create an optimal sharing environment.
 
 <span id="tips-inclusivity"></span>
 
-### Tips on Running an Inclusive Session
+## Tips on Running an Inclusive Session
  
 Inclusion is about creating space where people can feel more able to share and work together. It includes respecting things like pronouns and accessibility needs, and at SRCCON we also encourage you to:
  
@@ -167,7 +172,7 @@ In your sessions and outside them, the SRCCON staff will fully support you in ma
 
 <span id="resources"></span>
 
-### Additional Resources
+## Additional Resources
  
 * [How to approach planning a session](http://opennews.org/blog/srccon-session-planning/)
 * [How to facilitate a great session, by Sisi Wei](https://opennews.org/blog/srccon-facilitator-recs-one/)
