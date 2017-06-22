@@ -13,7 +13,7 @@ Session facilitators make SRCCON what it is, a collaborative, hands-on conferenc
  
 ## In This Guide
 * [What Sets SRCCON Apart?](#about-srccon)
-* [What is a Facilitator and What Do They Do?](#what-is-a-facilitator)
+* [What Is a Facilitator and What Do They Do?](#what-is-a-facilitator)
 * [Key Moments for Facilitators Before SRCCON](#key-moments)
 * [Planning Your Session Before SRCCON](#planning)
 * [Facilitating a Great Session Once You're at SRCCON](#facilitating)
