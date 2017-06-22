@@ -516,8 +516,8 @@
         "title": "Support the Middle: Together, we can build tools to help the smallest newsrooms"
     }, 
     {
-        "cofacilitator": "Gina Boysun", 
-        "cofacilitator_twitter": "gboysun", 
+        "cofacilitator": "", 
+        "cofacilitator_twitter": "", 
         "cofacilitator_two": null, 
         "cofacilitator_two_twitter": null, 
         "description": "Is your newsroom moving to WordPress? Moving away from WordPress? Moving to your parent company's CMS? Moving to Arc? Building a new CMS from scratch using Node? Rails? Django? (Are you using Django-CMS or Mezzanine or Wagtail?) Going headless with WordPress? Going headless with React?\n\n...or is your newsroom paralyzed by the sheer magnitude of the task of choosing and migrating to a new CMS, let along upgrading your current one?\n\nThis session is about the why and how of migrating your content to new systems. When is it time to change up your CMS, and why? When is it better to repair your ship instead of jumping off? What does the transition process look like-- for instance, how do you handle your archival stories, or make sure your frontend and backend features are in sync? How do you pull it off (technically)? How do you pull it off (organizationally)? Most importantly: was it worth it?", 
@@ -528,8 +528,8 @@
         "title": "Switching CMSes"
     }, 
     {
-        "cofacilitator": "Aurelia Moser", 
-        "cofacilitator_twitter": "auremoser", 
+        "cofacilitator": "Amy Kovac-Ashley", 
+        "cofacilitator_twitter": "terabithia4", 
         "cofacilitator_two": null, 
         "cofacilitator_two_twitter": null, 
         "description": "It’s surprisingly easy to end up in a teaching role without any particular training in how to teach. Whether you teach regularly or just occasionally (like leading sessions at conferences, hint, hint), come join this crash course in how we can teach to groups more effectively. We’ll take a quick look at recent trends and research in pedagogy for strategies you can use, then talk through common classroom problems such as needy and know-it-all students, questions you can’t answer off-hand, and how to deal if you don’t fit your students’ expectations about what a teacher is like.", 
