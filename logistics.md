@@ -21,6 +21,10 @@ SRCCON begins at 9am Thursday morning, Aug. 3, and will wrap up around 6pm Frida
 
 The Commons Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather. The reserved block of rooms will be available until July 2 or all rooms are booked, whichever happens first—booking early is always a good idea!
 
+## Room share
+
+Have a room and looking for a roommate? Don't have a room and looking for someone who does? Add your info to the [room share list]( https://etherpad.opennews.org/p/srcconRoomShare2017).
+
 ## Transit
 The [Minneapolis METRO system](http://www.metrotransit.org/metro-system) is an easy way to get around the city. You can ride light rail from the airport to the conference hotel for $1.75: Follow the light rail signs to the airport tram, which will take you right to the light rail station. Take the northbound ("Downtown Minneapolis") Blue Line to the Downtown East station, then cross to the other track to transfer to the eastbound Green Line. Take the Green Line two stops to East Bank. You’ll be looking right at [The Commons Hotel](http://www.commonshotel.com). The [McNamara Alumni Center](http://www.mac-events.org/) conference venue is another block past the hotel, on SE Oak Street.
 
