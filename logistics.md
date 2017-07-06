@@ -20,7 +20,15 @@ In addition to this page with all the logistical details you may need as you pre
 We want you to be happy and well-fed at SRCCON, so we're providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We'll also have tea, coffee, and snacks—healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
 
 ## Thursday evening at SRCCON
-We know [evenings at conferences can be tough](https://opennews.org/blog/srccon-thursday/), so we schedule Thursday evening as an opportunity to have fun, relax, talk, and learn with colleagues and new friends. Thursday night is an opportunity to focus on the "life" side of the work/life balance. As part of that, we make a special Thursday evening ticket available for partners of SRCCON attendees.
+We know [evenings at conferences can be tough](https://opennews.org/blog/srccon-thursday/), so we schedule Thursday evening as an opportunity to have fun, talk, and relax with colleagues and new friends. You might end up learning a new skill or two as well, but we try to focus the evening program on the "life" side of the work/life balance.
+
+We'll keep feeding you, too—there'll be awesome local snacks, beer and wine, and plenty of great nonalcoholic beverages. After dinner on Thursday, the evening program will spread throughout the SRCCON venue for things like:
+
+* board games ([bring one you'd like to teach people to play!](https://etherpad.opennews.org/p/BoardGames))
+* lightning talks
+* a guided walk through Minneapolis with a local expert
+* conversations about things you love (we'll schedule rooms for these and post a signup sheet at SRCCON)
+* hobby workshops (want to teach people how to do something cool? [Tell us about it!](https://docs.google.com/forms/d/10TMdvqWDlYGCDyN-dPooQ7QGVqQAZLdsP8mFsaHQ9UE/edit))
 
 ## Childcare
 We offer free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the adjoining Commons Hotel. The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about our free childcare and register now.](/childcare)
