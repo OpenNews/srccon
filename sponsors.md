@@ -29,14 +29,14 @@ As Lead Sponsor of SRCCON you receive:
 * Logo on sponsorship signage at event.
 * Logo on signage at Thursday Night Dinner.
 
-## Accessibility Sponsors
+## Accessibility Sponsors **< SOLD OUT**
 
 Our Accessibility Sponsors help make SRCCON welcoming to as many as possible. We have three Accessibility Sponsor slots available:
 
   * Childcare **< SOLD OUT**
   * Facilitator Scholarships **< SOLD OUT**
   * Scholarships **< SOLD OUT**
-  * Transcripts
+  * Transcripts **< SOLD OUT**
 
 Accessibility Sponsors receive:
 
