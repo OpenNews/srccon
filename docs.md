@@ -13,6 +13,7 @@ permalink: /docs/index.html
 We put a great deal of emphasis in capturing the work involved in putting SRCCON together. As a result, we have an ongoing series of docs on the logistics and theory that go into SRCCON.
 
 ## Sessions & Proposals
+* [SRCCON Facilitator Guide: How to Run a Great Session](/facilitators/index.html)
 * [SRCCON Proposal Guide: How to Craft a Great Session Pitch](/sessions/proposals/guide)
 * [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/)
 * [3 Ways to Facilitate a Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/)
@@ -20,11 +21,14 @@ We put a great deal of emphasis in capturing the work involved in putting SRCCON
 * [How to Plan a Great SRCCON Session](http://opennews.org/blog/srccon-session-planning)
 
 ## Participant Experience
+* [SRCCON Participant Guide: How to Have a Great Time at SRCCON](/guide/participant)
 * [Why You Want a Code of Conduct & How We Made One](http://incisive.nu/2014/codes-of-conduct)
 * [Making SRCCON Good for Humans](http://opennews.org/blog/srccon-human-stuff)
 * [Thursday Nights at SRCCON](https://opennews.org/blog/srccon-thursday/)
 
 ## Logistics
+* [Why We Wrote Our SRCCON Proposals Guide](https://opennews.org/blog/srccon-proposal-guide/)
+* [Why We Expanded Our Scholarship Program](https://opennews.org/blog/srccon-scholarships-update/)
 * [How We Planned & Ran the SRCCON Travel Scholarships](https://opennews.org/blog/srccon-scholarship-process-admin/)
 * [SRCCON Ticketing: What We Did and Why](http://opennews.org/blog/srccon-tickets)
 * [Why You Want a Code of Conduct & How We Made One](http://incisive.nu/2014/codes-of-conduct)
