@@ -6,7 +6,7 @@ section: sessions
 sub-section: interior
 background: guide
 byline: Erik Westra
-permalink: /guide/participant
+permalink: /guide/participant/index.html
 ---
 
 SRCCON is unlike a lot of other conferences. It's highly participatory, and is designed to help you share your skills and wisdom with a bunch of folks who are likely dealing with similar challenges and questions. We've built it around the "hallway conversations" that are often cut short at other conferences. We put together this guide to help newcomers and returning participants alike get the most out of SRCCON.
