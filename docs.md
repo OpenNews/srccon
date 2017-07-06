@@ -21,7 +21,7 @@ We put a great deal of emphasis in capturing the work involved in putting SRCCON
 * [How to Plan a Great SRCCON Session](http://opennews.org/blog/srccon-session-planning)
 
 ## Participant Experience
-* [SRCCON Participant Guide: How to Have a Great Time at SRCCON](/guide/participant)
+* [SRCCON Participant Guide: How to Have a Great Time at SRCCON](/guide/participant/index.html)
 * [Why You Want a Code of Conduct & How We Made One](http://incisive.nu/2014/codes-of-conduct)
 * [Making SRCCON Good for Humans](http://opennews.org/blog/srccon-human-stuff)
 * [Thursday Nights at SRCCON](https://opennews.org/blog/srccon-thursday/)
