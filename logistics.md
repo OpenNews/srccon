@@ -14,7 +14,7 @@ redirect_from:
 SRCCON 2017 takes place at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis.
 
 ## Preparing for SRCCON
-In addition to this page with all the logistical details you may need as you prep for SRCCON, we wanted to make sure you had some information about what to expect at the conference. Take a look at our new [SRCCON Participant Guide](/guide/participant). It's our best guess at the questions you may have as you're getting ready for SRCCON.
+In addition to this page with all the logistical details you may need as you prep for SRCCON, we wanted to make sure you had some information about what to expect at the conference. Take a look at our new [SRCCON Participant Guide](/guide/participant/index.html). It's our best guess at the questions you may have as you're getting ready for SRCCON.
 
 ## Meals at SRCCON
 We want you to be happy and well-fed at SRCCON, so we're providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We'll also have tea, coffee, and snacks—healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
