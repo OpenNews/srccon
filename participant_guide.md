@@ -54,8 +54,8 @@ It brings together nearly 300 designers, developers, data analysts, editors, and
 ## When and where is SRCCON?
 This year we return to Minneapolis on August 3 and 4 at the [McNamara Alumni Center]() at the University of Minnesota. We're still finalizing the overall schedule, but the basic timing is:
 
-- **Thursday, August 3** from 9am to 9:30pm, with all meals covered, four blocks of sessions, and a bunch of fun evening activities
-- **Friday, August 4** from 10am to 6pm, with breakfast and lunch covered, four blocks of sessions, and a closing of the event
+- **Thursday, August 3** from 9am to 9:30pm, with all meals covered, two blocks of sessions, and a bunch of fun evening activities
+- **Friday, August 4** from 10am to 6pm, with breakfast and lunch covered, two blocks of sessions, and a closing of the event
 
 ## How much time should I allow for traveling to SRCCON?
 Most people arrive Wednesday evening in order to get to SRCCON bright and early on Thursday morning. The venue is about 40 minutes from the airport on transit or by cab (depending on traffic). 
