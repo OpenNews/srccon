@@ -47,7 +47,7 @@ SRCCON is unlike a lot of other conferences. It's highly participatory, and is d
 
 
 ## What is SRCCON?
-SRCCON is a hands-on conference, full of [conversations and workshops](/sessions) focused on the practical challenges that news technology and data teams encounter every day. SRCCON is pronounced "Source-con," and the "SRCON" stands for "Source" as in "view source."
+SRCCON is a hands-on conference, full of [conversations and workshops](/sessions) focused on the practical challenges that news technology and data teams encounter every day. SRCCON is pronounced "Source-con," and the "SRC" stands for "Source" as in "view source."
 
 It brings together nearly 300 designers, developers, data analysts, editors, and other journalists for two-days of collaborative sessions, group meals, and activities. SRCCON is produced by OpenNews, an organization built to connect a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism.
 
