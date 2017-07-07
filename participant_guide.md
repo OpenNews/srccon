@@ -137,7 +137,7 @@ Meals are buffet style, with a variety of tasty options to meet all dietary need
 Many SRCCON participants are not into the coffee and beer culture, so we make sure there's plenty of tea and uncaffeinated drinks at the coffee station and at the meals throughout the day. In the evening, when we do provide alcohol, we also provide tasty sodas and non-alcoholic beer.
 
 ## What is this Thursday evening thing all about? 
-We also want to make sure you get a chance to connect with everyone at SRCCON about the things you love to do in your free time, not just what you work on during the day. Our Thursday night program is all about the "life" side of the work-life balance, and we'll spread throughout the conference venue for board games and lightning talks, get outside for field trips, and pull together hobby workshops and interesting conversations. You can find all the details about the activities on the [page we post them on]().
+We also want to make sure you get a chance to connect with everyone at SRCCON about the things you love to do in your free time, not just what you work on during the day. Our Thursday night program is all about the "life" side of the work-life balance, and we'll spread throughout the conference venue for board games and lightning talks, get outside for field trips, and pull together hobby workshops and interesting conversations. You can find more details on the [logistics page](/logistics#thursday-evening-at-srccon).
 
 ## What am I supposed to do for 30 minutes in between every session?
 You have a bunch of options. You could certainly chat with a stranger who may be thinking exactly the same thing. You could make a(nother) cup of coffee or tea. You could check out the lobby area. You could go for a walk outside in the park in front of the building. You should use that time--as all other time at SRCCON--in the way that best meets your needs. We do our best to provide numerous options so that one of them will be what you need at the time. Extra-long breaks mean you don't have to choose between taking care of your needs or finishing up an interesting conversation with someone else—you have plenty of time for both before you head off to your next session.
@@ -165,5 +165,5 @@ The structure and feel of SRCCON were inspired by the organizing team's experien
 SRCCON embodies the values of OpenNews: we believe a diverse community of peers working, learning, and solving problems together can create the stronger, more representative ecosystem that journalism needs to thrive. At SRCCON, we get to spend two days together in person with that community.
 
 ## I have another question, how can I find out more?
-Feel free to [email us](mailto:srccon@opennews.org) or if you're feeling fancy, you can submit a pull request on this page with your question.
+Feel free to [email us](mailto:srccon@opennews.org) or if you're feeling fancy, you can [submit a pull request on this page](https://github.com/OpenNews/srccon/blob/master/participant_guide.md) with your question.
 
