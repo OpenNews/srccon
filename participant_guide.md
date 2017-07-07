@@ -47,15 +47,15 @@ SRCCON is unlike a lot of other conferences. It's highly participatory, and is d
 
 
 ## What is SRCCON?
-SRCCON is a hands-on conference, full of [conversations and workshops](/sessions) focused on the practical challenges that news technology and data teams encounter every day. SRCCON is pronounced "Source-con," and the "SRCON" stands for "Source" as in "view source."
+SRCCON is a hands-on conference, full of [conversations and workshops](/sessions) focused on the practical challenges that news technology and data teams encounter every day. SRCCON is pronounced "Source-con," and the "SRC" stands for "Source" as in "view source."
 
 It brings together nearly 300 designers, developers, data analysts, editors, and other journalists for two-days of collaborative sessions, group meals, and activities. SRCCON is produced by OpenNews, an organization built to connect a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism.
 
 ## When and where is SRCCON?
 This year we return to Minneapolis on August 3 and 4 at the [McNamara Alumni Center]() at the University of Minnesota. We're still finalizing the overall schedule, but the basic timing is:
 
-- **Thursday, August 3** from 9am to 9:30pm, with all meals covered, four blocks of sessions, and a bunch of fun evening activities
-- **Friday, August 4** from 10am to 6pm, with breakfast and lunch covered, four blocks of sessions, and a closing of the event
+- **Thursday, August 3** from 9am to 9:30pm, with all meals covered, two blocks of sessions, and a bunch of fun evening activities
+- **Friday, August 4** from 10am to 6pm, with breakfast and lunch covered, two blocks of sessions, and a closing of the event
 
 ## How much time should I allow for traveling to SRCCON?
 Most people arrive Wednesday evening in order to get to SRCCON bright and early on Thursday morning. The venue is about 40 minutes from the airport on transit or by cab (depending on traffic). 
@@ -76,7 +76,7 @@ In addition to your usual business trip preparation, there's a few additional it
 On Thursday evening, many folks also bring board games to play, and in fact there's already a [sign-up sheet](https://etherpad.opennews.org/p/BoardGames) where folks are sharing what games they plan to bring.
 
 ## What is the dress code?
-The way I've described it in the past is that at SRCCON, people might wear their _favorite_ hoodie. Meaning, it's pretty casual. OpenNews staff will literally all be in T-shirts (so you can find us for safety reasons!), but that gives you a sense of things. If you're more comfortable in dressier clothes or just wanna show off some new item, totally go for it. You'll see a wide range of dress styles at SRCCON. We know that clothing selection can be a really tricky thing to navigate though, so if there's anything we can do to help you feel more comfortable, [just let Erika know](erika@opennews.org) (who wrote this guide and is heading up planning participant experience this year).
+The way I've described it in the past is that at SRCCON, people might wear their _favorite_ hoodie. Meaning, it's pretty casual. OpenNews staff will literally all be in T-shirts (so you can find us for safety reasons!), but that gives you a sense of things. If you're more comfortable in dressier clothes or just wanna show off some new item, totally go for it. You'll see a wide range of dress styles at SRCCON. We know that clothing selection can be a really tricky thing to navigate though, so if there's anything we can do to help you feel more comfortable, [just let Erika know](mailto:erika@opennews.org) (who wrote this guide and is heading up planning participant experience this year).
 
 ## Do people do any homework before they arrive?
 It's certainly possible, but not required by any means. You're coming to SRCCON because you've been doing work in news organizations, or nearby, that makes you curious about how we can work together better. You already have the skills and experiences that will be valuable in your conversations at SRCCON. 
@@ -85,7 +85,7 @@ It's certainly possible, but not required by any means. You're coming to SRCCON 
 Many folks stay at The Commons conference hotel, so a lot of attendees will likely congregate in the hotel lobby to find others for dinner or exploring Minneapolis. Several Minneapolis locals helped craft this [locals guide](/guide/index.html) with a bunch of tips to help guide those adventures! A lot of people also use Twitter to help coordinate outings, putting out a call for people to visit a particular type of restaurant or go for a hike or similar. Which brings us to...
 
 ## What's the hashtag? Do you want my pictures?
-Our conference Twitter account is [SRCCON](https://twitter.com/srccon) and most people just use the hash tag #SRCCON. If that gets overrun by spammers, @SRCCON will tweet a new one. Please feel free to use it to coordinate cab carpools from the airport, dinner plans, and the like. If you take pictures during SRCCON (following the [guidelines below](#what-are-these-lanyard-colors-all-about)), feel free to tag them or [email them to us](srccon@opennews.org). We love using pics in our materials!
+Our conference Twitter account is [SRCCON](https://twitter.com/srccon) and most people just use the hash tag #SRCCON. If that gets overrun by spammers, @SRCCON will tweet a new one. Please feel free to use it to coordinate cab carpools from the airport, dinner plans, and the like. If you take pictures during SRCCON (following the [guidelines below](#what-are-these-lanyard-colors-all-about)), feel free to tag them or [email them to us](mailto:srccon@opennews.org). We love using pics in our materials!
 
 ## What happens at the opening to SRCCON?
 Most everyone arrives on time for SRCCON for a tasty breakfast and quick introduction to the event and each other. We usually take a quick "turn to your neighbor and say hello" moment that is quite chaotic and loud, but a lot of fun. SRCCON is a great place to catch up with old friends, but we like to create little opportunities like the group welcome to meet a new person in a slightly structured, low-stakes way. (Some introvert-friendly structured socializing!)
@@ -116,7 +116,7 @@ It's possible some sessions might involve moving around the room (as you are abl
 Each session will be led by a facilitator or two or three who will guide participants through the session and let you know what to expect. If they describe a session that doesn't work for you, no worries, you can totally leave and try out a different session. SRCCON doesn't quite operate under the "rule of two feet" that some unconferences do, where people very frequently walk into and out of sessions, but facilitators do understand that people may leave or enter their sessions at any times and prepare for this.
 
 ## Where is the conference schedule?
-The SRCCON schedule lives at [schedule.srccon.org](schedule.srccon.org), so you'll want to load that link on your phone. The schedule will be posted about a week before SRCCON. You can even mark sessions you want to attend and build your own custom schedule. We'll also post session names outside each room during the conference.
+The SRCCON schedule lives at [schedule.srccon.org](http://schedule.srccon.org), so you'll want to load that link on your phone. The schedule will be posted about a week before SRCCON. You can even mark sessions you want to attend and build your own custom schedule. We'll also post session names outside each room during the conference.
 
 ## How will I find the sessions?
 Flip over your nametag, and you'll see a map of the space. There will also be ample signage around the venue. 
@@ -131,7 +131,7 @@ At lunch during SRCCON, we'll have an open sign up board for anyone who would li
 Some of the SRCCON organizers are super interested in coffee, so they thought it would be fun to have a spot where people could have actually good coffee (and tea!). The coffee station has a person on-hand to help you figure out how to use all the coffee gadgets, or you could ask the person next to you how to do it because everyone makes the coffee themselves. It's become a nice communal spot, where attendees have a quick chat over the roar of a coffee grinder or while waiting for a tea to steep. In addition to all the coffee gadgetry, there is also hot water and associated devices to make all types of tea.
 
 ## What are the meals like?
-Meals are buffet style, with a variety of tasty options to meet all dietary needs (just be sure to let us know when you register or [email us](srccon@opennews.org) if anything changed). Meals are a communal experience at SRCCON. With folks gathering around tables to chat, sometimes to host entire sessions, and enjoy some camaraderie. Yes, sometimes folks catch up on work email as well, but there's a lot of chatting happening too. We provide breakfast and lunch both days of SRCCON as well as dinner on Thursday night. In addition, there's ample snacks throughout so you never have to worry about finding sufficient energy to keep your brain moving.
+Meals are buffet style, with a variety of tasty options to meet all dietary needs (just be sure to let us know when you register or [email us](mailto:srccon@opennews.org) if anything changed). Meals are a communal experience at SRCCON. With folks gathering around tables to chat, sometimes to host entire sessions, and enjoy some camaraderie. Yes, sometimes folks catch up on work email as well, but there's a lot of chatting happening too. We provide breakfast and lunch both days of SRCCON as well as dinner on Thursday night. In addition, there's ample snacks throughout so you never have to worry about finding sufficient energy to keep your brain moving.
 
 ## What are the non-caffeinated, non-alcoholic drink options like?
 Many SRCCON participants are not into the coffee and beer culture, so we make sure there's plenty of tea and uncaffeinated drinks at the coffee station and at the meals throughout the day. In the evening, when we do provide alcohol, we also provide tasty sodas and non-alcoholic beer.
@@ -146,7 +146,7 @@ You have a bunch of options. You could certainly chat with a stranger who may be
 You are supported by the [SRCCON code of conduct](/conduct), which is backed by a detailed action plan. If you feel harassed, unsafe, or concerned about something happening to you or that you see happening to someone else, you can call us or flag down a staff person or volunteer in a color-coded SRCCON shirt.
 
 ## What happens if I have a question or need a band-aid, pain reliever, or safety pin?
-You can ask a volunteer or staff person who you see in a color -oded shirt, or there will also always be someone back at the registration desk as well.
+You can ask a volunteer or staff person who you see in a color-coded shirt, or there will also always be someone back at the registration desk as well.
 
 ## I have non-conference work to do! Help!
 We understand. Given the participatory nature of SRCCON sessions, it's not a good idea to try to multi-task in the session itself. But you can find space throughout the venue for quiet work--there is a lobby area with a bunch of chairs by a fire, there is a wide expansive park in front of the buildings, there's ample hallway space for huddling, and if you're staying at the conference hotel, it's a super short walk (there's even a tunnel!) to head back to the hotel.
@@ -165,5 +165,5 @@ The structure and feel of SRCCON were inspired by the organizing team's experien
 SRCCON embodies the values of OpenNews: we believe a diverse community of peers working, learning, and solving problems together can create the stronger, more representative ecosystem that journalism needs to thrive. At SRCCON, we get to spend two days together in person with that community.
 
 ## I have another question, how can I find out more?
-Feel free to [email us](srccon@opennews.org) or if you're feeling fancy, you can submit a pull request on this page with your question.
+Feel free to [email us](mailto:srccon@opennews.org) or if you're feeling fancy, you can submit a pull request on this page with your question.
 
