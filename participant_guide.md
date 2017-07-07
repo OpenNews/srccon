@@ -146,7 +146,7 @@ You have a bunch of options. You could certainly chat with a stranger who may be
 You are supported by the [SRCCON code of conduct](/conduct), which is backed by a detailed action plan. If you feel harassed, unsafe, or concerned about something happening to you or that you see happening to someone else, you can call us or flag down a staff person or volunteer in a color-coded SRCCON shirt.
 
 ## What happens if I have a question or need a band-aid, pain reliever, or safety pin?
-You can ask a volunteer or staff person who you see in a color -oded shirt, or there will also always be someone back at the registration desk as well.
+You can ask a volunteer or staff person who you see in a color-coded shirt, or there will also always be someone back at the registration desk as well.
 
 ## I have non-conference work to do! Help!
 We understand. Given the participatory nature of SRCCON sessions, it's not a good idea to try to multi-task in the session itself. But you can find space throughout the venue for quiet work--there is a lobby area with a bunch of chairs by a fire, there is a wide expansive park in front of the buildings, there's ample hallway space for huddling, and if you're staying at the conference hotel, it's a super short walk (there's even a tunnel!) to head back to the hotel.
