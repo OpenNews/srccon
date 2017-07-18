@@ -30,8 +30,8 @@ We'll keep feeding you, too—there'll be awesome local snacks, beer and wine, a
 * conversations about things you love (we'll schedule rooms for these and post a signup sheet at SRCCON)
 * hobby workshops (want to teach people how to do something cool? [Tell us about it!](https://docs.google.com/forms/d/10TMdvqWDlYGCDyN-dPooQ7QGVqQAZLdsP8mFsaHQ9UE/edit))
 
-## Childcare
-We offer free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the adjoining Commons Hotel. The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about our free childcare and register now.](/childcare)
+## Thursday evening, bring your partners
+If you have partners or friends who will be in Minneapolis, feel free to invite them to join the Thursday evening fun. We're happy to welcome them for Thursday evening's dinner and activities, with a special <a href="https://www.eventbrite.com/e/srccon-2017-partner-ticket-tickets-36309639108">$45 partner ticket that you can purchase now</a>
 
 ## More to Do/Eat/Drink/See/Dance To
 If you're looking for things to before, after, or during SRCCON, we have [compiled a guide to wonderful things in the Minneapolis-Saint Paul area](/guide/index.html), written by local news nerds.
@@ -77,3 +77,5 @@ The [Minneapolis METRO system](http://www.metrotransit.org/metro-system) is an e
 ## Parking
 Transit in Minneapolis is great, but if you'll be driving, there's [a lot right near the McNamara Alumni Center](http://mac-events.org/directions/) with a $12 daily rate.
 
+## Childcare
+We offer free, on-site childcare throughout the full SRCCON schedule (including Thursday evening) at the adjoining Commons Hotel. The caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education. [Learn more about our free childcare.](/childcare)
