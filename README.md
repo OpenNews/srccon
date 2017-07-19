@@ -2,6 +2,8 @@
 
 This is the website for [SRCCON](http://www.srccon.org), the yearly conference for newsroom developers, designers, data reporters, and others who work with code in and around newsrooms.
 
+[![Build Status](https://travis-ci.org/OpenNews/srccon.svg?branch=master)](https://travis-ci.org/OpenNews/srccon)
+
 ## How to update the SRCCON site
 ### Testing changes locally
 * Clone this repository to your local machine.
