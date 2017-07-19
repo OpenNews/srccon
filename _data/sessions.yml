@@ -1,5 +1,17 @@
 [
     {
+        "cofacilitator": "Sydette Harry", 
+        "cofacilitator_twitter": "blackamazon", 
+        "cofacilitator_two": null, 
+        "cofacilitator_two_twitter": null, 
+        "description": "Journalism is a powerful tool. A place to show different views of the world as well and an opportunity to do active solidarity and combat historical bias .  Based on the Ada Initiative Ally Skills workshop by Valerie Aurora, this lab puts ally skills to work on journalistic product. How can we take our professional skills as journalists, editors, data scientists, programmers et al , and really commit to changing the way we cover issues and produce product?\n\nKeeping our desire to fight inequality at the fore how would those skills change the reporting on the contentious issues of right now and confront systemic oppression with journalistic excellence.", 
+        "facilitator": "Gabriela Rodriguez Beron", 
+        "facilitator_twitter": "gaba", 
+        "id": 739950, 
+        "submitted_at": "2017-04-07T04:25:05.017Z", 
+        "title": "Aim to Misbehave: Privileges & Allies in the Media Creation : A Lab/Remix"
+    }, 
+    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "cofacilitator_two": null, 
@@ -36,18 +48,6 @@
         "title": "Bring Out Your Dead: lessons in massively parallel records request from 2000 FOIAed obituaries"
     }, 
     {
-        "cofacilitator": "Pam Assogba", 
-        "cofacilitator_twitter": "pam_yam", 
-        "cofacilitator_two": null, 
-        "cofacilitator_two_twitter": null, 
-        "description": "When we meet someone new at conferences like this one, we usually ask \"What do you do?\" or \"Where are you from?\" as in, where do you work? Our work can become a huge part of our identities, especially as passionate, smart people with ambition who look to find purpose in their work. That's a really tall order as we advance in our careers and struggle to find meaning in our work with one job.\nDuring this session, we'll discuss the things we want to do and impact with our work; the big stuff that we want to accomplish in our careers; the projects we want to run, not backlog. How do we start building those opportunities outside of our jobs to grow our careers? How can we create side projects at work and become an \"intrapreneur\" so you have institutional resources? What should we look for in full time work that is compatible with your career, and how do you navigate that line?", 
-        "facilitator": "Elite Truong", 
-        "facilitator_twitter": "elitetruong", 
-        "id": 743830, 
-        "submitted_at": "2017-04-08T00:18:22.551Z", 
-        "title": "Building a career outside of your job: the ways we create side hustles and start freelancing"
-    }, 
-    {
         "cofacilitator": null, 
         "cofacilitator_twitter": null, 
         "cofacilitator_two": null, 
@@ -58,6 +58,18 @@
         "id": 743573, 
         "submitted_at": "2017-04-07T14:51:40.581Z", 
         "title": "Business Models: What We All Can Do About Them"
+    }, 
+    {
+        "cofacilitator": "Andrea Suozzo", 
+        "cofacilitator_twitter": "asuozzo", 
+        "cofacilitator_two": null, 
+        "cofacilitator_two_twitter": null, 
+        "description": "Imagine a job where you could spend all your time pursuing new, creative projects, and get your whole office on board for every big, exciting idea you come up with.\n\nThat’s probably not your job (If it is, we envy you!). When you have an idea, you have to convince other people to embrace it. Maybe you’re trying to get buy-in on a new digital project, but your newsroom is focused on the reporting-writing-editing process. Maybe you’re trying to convince others to embrace a big idea that’s going to require lots of resources and time. Or maybe you see a way to overhaul a longstanding process to make your organization function better. In this session, we’ll create games to help us figure out ways to face the challenges of navigating digital initiatives in a small news organization.\n\nBring a work challenge you’ve been grappling with — or just bring yourself and your creativity!", 
+        "facilitator": "Sara Konrad Baranowski", 
+        "facilitator_twitter": "@skonradb", 
+        "id": 745874, 
+        "submitted_at": "2017-04-08T03:33:03.338Z", 
+        "title": "Candyland, Catan and Codenames — Oh My! Navigate Roadblocks in Small Newsrooms With Games"
     }, 
     {
         "cofacilitator": "Joe Germuska", 
@@ -118,6 +130,18 @@
         "id": 739853, 
         "submitted_at": "2017-04-07T02:08:13.008Z", 
         "title": "Drawn Together: Doodling Our Way Toward Stronger Collaboration"
+    }, 
+    {
+        "cofacilitator": "Pam Assogba", 
+        "cofacilitator_twitter": "pam_yam", 
+        "cofacilitator_two": null, 
+        "cofacilitator_two_twitter": null, 
+        "description": "When we meet someone new at conferences like this one, we usually ask ""What do you do?"" or ""Where are you from?"" as in, where do you work? Our work can become a huge part of our identities, especially as passionate, smart people with ambition who look to find purpose in their work. That's a really tall order as we advance in our careers and struggle to find meaning in our work with one job.\n\nDuring this session, we'll discuss the things we want to do and impact with our work; the big stuff that we want to accomplish in our careers; the projects we want to run, not backlog. How do we start building those opportunities outside of our jobs to grow our careers? How can we create side projects at work and become an ""intrapreneur"" so you have institutional resources? What should we look for in full time work that is compatible with your career, and how do you navigate that line?", 
+        "facilitator": "Elite Truong", 
+        "facilitator_twitter": "elitetruong", 
+        "id": 743830, 
+        "submitted_at": "2017-04-08T00:18:22.551Z", 
+        "title": "Every Day I'm Hustling: Building and managing a career outside of your day job"
     }, 
     {
         "cofacilitator": "Julia Wolfe", 
@@ -408,16 +432,16 @@
         "title": "My Life In the Bush of Platforms"
     }, 
     {
-        "cofacilitator": null, 
-        "cofacilitator_twitter": null, 
+        "cofacilitator": "Britt Binler", 
+        "cofacilitator_twitter": "brittbinler", 
         "cofacilitator_two": null, 
         "cofacilitator_two_twitter": null, 
-        "description": "The Fluxkit, designed and assembled by George Maciunas in 1965, contained printed matter, a film, and a variety of objects including a “wood box with offset labels and rubber opening containing unknown object.” by the Fluxus artist Ay-O.  The label read: “put finger in hole.”\n\nFluxus artists were playful revolutionaries who tried to undermine the authority of the museum, and the primacy of the artist, often by requiring the viewer to the complete (and, in doing so, co-create) a piece of art.  To many of us, interactive has become a noun.  But how interactive is your interactive, really?  When’s the last time you stopped to consider just how revolutionary an idea it is to include your reader in the completion (or co-creation) of your work as a journalist?\n\nIn this session, we will disengage from our newsrooms and our tools and our data sets for a while and think about the essence of interaction.  What entices us to reach beyond ourselves and affect the world?  What do we expect?  What makes those experiences rewarding?  Is there a difference between exploration and interaction?  How does individual action differ from communal participation?\n\nAlong the way, we’ll consider a range of contrived, non-journalistic, interactive experiences: religious services, Fluxus happenings, game nights, and dance parties.  And we’ll ask why some experiences that invite interaction meet with indifference or refusal.\n\nFinally, we will take our inspiration and create instructions for building a digital interactive experience, and exchange them with each other.  Take your instructions home.  Follow them.  After SRCCON, we’ll publish all the interactives together as new sNerdFluxkit (2017).", 
+        "description": "The Fluxkit, designed and assembled by George Maciunas in 1965, contained printed matter, a film, and a variety of objects including a “wood box with offset labels and rubber opening containing unknown object,” by the Fluxus artist Ay-O.  The label read: “put finger in hole.”\n\nFluxus artists were playful revolutionaries who tried to undermine the authority of the museum and the primacy of the artist.  One strategy they deployed was demanding that the viewer complete (and thereby co-create) certain pieces of art.\n\nTo many of us news nerds, “interactive” has become a noun.  But how interactive is your interactive, really?  When’s the last time you stopped to consider just how revolutionary an idea it is to include your reader in the completion (or co-creation) of your work as a journalist?\n\nIn this session, we’ll forget about our newsrooms, tools, and data sets for a while and think about the essence of interaction.  What inspires us as individuals to reach out and try to affect the world?  As part of a group?  By what means can we do so?  How might find we are changed in turn?  What invites us and what repels us?  Where do exploration and interaction diverge?\n\nThen we’ll zoom back in and ask: how can we orchestrate meaningful interactive experiences through our work?  I’ll suggest some inspiration from the art world: happenings, instruction pieces, escape rooms, live action installations; please bring some inspirations of your own.\n\nAlone and in teams, we will hammer out manifestos and instruction pieces for building digital interactives, then swap them with each other.  Take your instructions home.  Follow them.  After SRCCON, we’ll publish the raw materials and the the interactives together as new sNerdFluxkit (2017).", 
         "facilitator": "Scott Blumenthal", 
         "facilitator_twitter": "blumysden", 
         "id": 745163, 
         "submitted_at": "2017-04-07T20:32:37.673Z", 
-        "title": "new sNerdFluxkit (2017)"
+        "title": "new sNerdFluxkit (2017): inspiration and provocations for people who make interactives"
     }, 
     {
         "cofacilitator": null, 
@@ -430,6 +454,18 @@
         "id": 738551, 
         "submitted_at": "2017-04-06T00:17:04.198Z", 
         "title": "News for everyone: Thinking about accessibility"
+    }, 
+    {
+        "cofacilitator": "Kelsey Scherer", 
+        "cofacilitator_twitter": "kelsa_", 
+        "cofacilitator_two": null, 
+        "cofacilitator_two_twitter": null, 
+        "description": "What can newsrooms learn from the process of launching a product? In this session we’ll use a WTF Just Happened Today as a case study to illustrate an example of launching an MVP product, validating product decisions, and iterating on a product. We’ll define a set of constraints through a group brainstorming session to identify a set of problems to be solved. From there, we’ll do a design brainstorm to think through products that can solve those problems, and create a hypothetical new news product worth paying for.", 
+        "facilitator": "Matt Kiser", 
+        "facilitator_twitter": "matt_kiser", 
+        "id": 745894, 
+        "submitted_at": "2017-04-07T20:44:03.338Z", 
+        "title": "News products: How to design, launch, and iterate something worth paying for"
     }, 
     {
         "cofacilitator": "Emma Carew Grovum",
@@ -454,18 +490,6 @@
         "id": 744933, 
         "submitted_at": "2017-04-07T20:28:39.955Z", 
         "title": "Practical approaches for creating software to cover democracy"
-    }, 
-    {
-        "cofacilitator": "Sydette Harry", 
-        "cofacilitator_twitter": "blackamazon", 
-        "cofacilitator_two": null, 
-        "cofacilitator_two_twitter": null, 
-        "description": "Journalism is a powerful tool as a possible place to show different views of the world as well as a voice to model solidarity and allyship. Based on the workshop that Valerie Aurora has been doing in tech companies and the anti-oppresion work that many other organizations have been doing we want to propose a place for people working in media to get resources to educate themselves as way as a place to role play allyship in a moment of the US that show so much hate everywhere. \n\nThis is a workshop to practice simple ways of using privilege and influence to support people that are target of systematic oppression.", 
-        "facilitator": "Gabriela Rodriguez Beron", 
-        "facilitator_twitter": "gaba", 
-        "id": 739950, 
-        "submitted_at": "2017-04-07T04:25:05.017Z", 
-        "title": "Privileges & Allies in the Media Creation"
     }, 
     {
         "cofacilitator": "Madeline Welsh", 
@@ -502,18 +526,6 @@
         "id": 739182, 
         "submitted_at": "2017-04-06T14:40:49.040Z", 
         "title": "Should Our Engineers Donate to Campaigns?"
-    }, 
-    {
-        "cofacilitator": "Andrea Suozzo", 
-        "cofacilitator_twitter": "asuozzo", 
-        "cofacilitator_two": null, 
-        "cofacilitator_two_twitter": null, 
-        "description": "In many rural newsrooms, it’s not uncommon to find one or two reporters covering entire communities. They write stories, take photos, record audio, shoot video, manage a website and interact with the audience on social media. They’re dedicated to their mission of finding and sharing news, but they face challenges: it’s difficult to recruit media professionals to rural areas; burnout is common; and many news organizations lack the knowledge and training necessary to incorporate new technology. Nonetheless, they push forward. Some are trying new storytelling methods, learning new technology and developing innovative ways to reach and grow their audience. They are small, but mighty. And with a little help, they could be mightier. Let’s have a conversation about the challenges small, rural organizations face, and then brainstorm the best ways to help them. Maybe that’s through new technology, or training that’s accessible to them where they work. It may be as simple as a virtual support network that ties small newsrooms together so they can encourage each other and share best practices. As these rural news operations grow stronger and become more digital, they’ll be able to share their stories with a wider audience. That will benefit the individual organizations, but it will also help the wider audience - the cities and the coasts - see a more complete picture of the country.", 
-        "facilitator": "Sara Konrad Baranowski", 
-        "facilitator_twitter": "@skonradb", 
-        "id": 745874, 
-        "submitted_at": "2017-04-08T03:33:03.338Z", 
-        "title": "Support the Middle: Together, we can build tools to help the smallest newsrooms"
     }, 
     {
         "cofacilitator": "Pattie Reaves", 
