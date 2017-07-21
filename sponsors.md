@@ -15,11 +15,9 @@ permalink: /sponsors/index.html
 <p>Condé Nast is a premier media company renowned for producing the highest quality content for the world's most influential audiences.  Attracting more than 100 million consumers across its industry-leading print, digital and video brands, the company’s portfolio includes some of the most iconic titles in media: <i>Vogue, Vanity Fair, Glamour, Brides, GQ, GQ Style, The New Yorker, Condé Nast Traveler, Allure, Architectural Digest, Bon Appétit,</i> Epicurious, <i>Wired, W, Golf Digest,</i> Golf World, <i>Teen Vogue,</i> Ars Technica, The Scene, Pitchfork and Backchannel.  The company’s newest division, Condé Nast Entertainment, was launched in 2011 to develop film, television and premium digital video programming. Want to join Condé Nast in growing and enhancing its digital operations? We are hiring top talent across engineering, data science, product, and design in our <a href="http://condenast.avature.net/careers/SearchJobsTechnology">New York</a> and <a href="http://www.condenast.com/austin/">Austin</a> offices.
 </p></li>
 
-<li class="accessiblitysponsor wordpress"><a href="https://vip.wordpress.com/" class="imglink"><img src="/media/img/partners/2017/wpcom-vip-logo-graphite.jpg"></a>
+<li class="accessiblitysponsor wordpress"><a href="https://vip.wordpress.com/" class="imglink"><img src="/media/img/partners/2017/WordPressVIP.jpg"></a>
 <h3>SRCCON Scholarship Sponsor</h3>
-<p>We know WordPress. <a href="https://vip.wordpress.com/">WordPress.com VIP</a> provides hosting and support for some of the biggest sites on the web, including Time.com,
-FiveThirtyEight.com, QZ.com, TheSun.co.uk, and Fusion.net. VIP provides rock-solid cloud hosting on the WordPress.com server grid,
-serving billions of pages every month.</p></li>
+<p>We free you to publish. That's our mission. Our managed platform is more than just a place to put your sites. It’s purpose-built systems, data centers, tools, practical expertise, and thoughtful specialists that, together, free you and your team to focus on business rather than worrying about DevOps. VIP clients enjoy a best-in-class managed cloud platform, expert guidance and code review, hands-on support, and a partner network of the best WordPress design and development shops on the planet.</p></li>
 
 <li class="accessiblitysponsor"><a href="http://www.nytimes.com" class="imglink"><img src="/media/img/partners/2017/NYT.png" class="nyt"></a>
 <h3>SRCCON Facilitator Scholarship Sponsor</h3>
