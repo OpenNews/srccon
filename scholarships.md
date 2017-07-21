@@ -49,3 +49,9 @@ We're able to offer $500 scholarships at this time. Luckily, Minneapolis is a re
 
 ## Questions not covered here?
 [Email us](mailto:srccon@opennews.org).
+
+<div id="sponsortag" style="margin-top: 3em;">
+<h3>Scholarships to SRCCON are made possible by:</h3> 
+<p><a href="https://vip.wordpress.com/"><img src="/media/img/partners/2017/wpcom-vip-logo-graphite.jpg" style="width:150px; margin-left: .8em;" class="scholarship" alt="Wordpress"></a> 
+<a href="http://www.nytimes.com"><img src="/media/img/partners/2017/NYT.png" style="width:350px; margin-left: 5em; margin-top: .8em;" class="scholarship" alt="New York Times"></a></p>
+</div>
