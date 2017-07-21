@@ -54,4 +54,5 @@ We're able to offer $500 scholarships at this time. Luckily, Minneapolis is a re
 <h3>Scholarships to SRCCON are made possible by:</h3> 
 <p><a href="https://vip.wordpress.com/"><img src="/media/img/partners/2017/wpcom-vip-logo-graphite.jpg" style="width:150px; margin-left: .8em;" class="scholarship" alt="Wordpress"></a> 
 <a href="http://www.nytimes.com"><img src="/media/img/partners/2017/NYT.png" style="width:350px; margin-left: 5em; margin-top: .8em;" class="scholarship" alt="New York Times"></a></p>
+<p>WordPress provided scholarships to SRCCON participants and The New York Times provided scholarships to SRCCON facilitators. Thanks to both organizations for supporting 40 people in attending SRCCON!</p>
 </div>
