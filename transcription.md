@@ -10,9 +10,16 @@ permalink: /transcription/index.html
 
 It's important to us to keep SRCCON small enough to feel friendly and conversational, but we also care about getting the ideas and conversations that take place at SRCCON into the wider world. The most important way this happens is when attendees return to their home newsrooms and put their new skills and approaches to work, but we are also documenting SRCCON as extensively as possible.
 
+## Write-Ups
+
+In the leadup to SRCCON 2017, we’re featuring a selection of sessions from last year’s conference [on Source](https://source.opennews.org/articles/tags/srccon-spotlight/). Those write-ups include transcripts and audio when we have them, and brand-new interviews with the session facilitators. You can keep up with the series at [SRCCON Spotlight](https://source.opennews.org/articles/tags/srccon-spotlight/).
+
+During and after this year's SRCCON, we'll also have a documentation team writing up session summaries, collecting resource lists, and more. We'll [publish everything on Source](https://source.opennews.org) in the weeks that follow the conference, and also collect write-ups and blog posts from attendees.
+
+
 ## Transcription
 
-Our live-captioning team will transcribe 26 sessions at SRCCON. Live streams will be available during these sessions, and links to the archives will remain below.
+Our live-captioning team will transcribe 26 sessions at SRCCON this year. Live streams will be available during these sessions, and links to the archives will remain below.
 
 <div>
     <h3>Thursday sessions</h3>
@@ -31,11 +38,6 @@ Our live-captioning team will transcribe 26 sessions at SRCCON. Live streams wil
 {% endfor %}
     </table>
 </div>
-
-## Write-Ups
-
-During and after SRCCON, we have a documentation team writing up session summaries, collecting resource lists, and more. We'll be [publishing the write-ups on Source](https://source.opennews.org) in the weeks that follow the conference, and also collecting write-ups and blog posts from attendees.
-
 
 <div id="sponsortag">
     <span>Transcription at SRCCON is made possible by</span> <a href="http://www.facebook.com/"><img src="/media/img/partners/2017/facebook-logo.png" class="" alt="Facebook"></a>
