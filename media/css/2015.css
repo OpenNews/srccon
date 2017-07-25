@@ -529,7 +529,7 @@ li.wordpress img {
 }
 
 ul.eventsponsor li {
-  display: inline;
+  display: inline-block;
   padding: 0 50px;
 }
 
@@ -547,6 +547,9 @@ ul.eventsponsor li.fusion img {
 
 ul.eventsponsor li.djnf img {
   width: 250px;
+}
+ul.eventsponsor li.mprnews img {
+  margin-bottom: -2px;
 }
 
 ul.supportingsponsor li {
@@ -684,7 +687,7 @@ footer #sponsorbox .container {
   max-width: 1000px;
   padding-top: 10px;
   padding-bottom: 25px;
-  height: 200px;
+  height: auto;
 }
 
 footer #sponsorbox:after {
@@ -731,6 +734,7 @@ footer p.sponsortag {
 
 footer .three p.sponsortag, footer .four p.sponsortag {
   padding-top: 0px;
+  padding-right: 1em;
   text-align: right;
   font-size: .9em;
   margin-top: -40px;
@@ -823,6 +827,11 @@ footer #sponsorbox ul li a:hover, footer #sponsorbox ul li a {
 
 footer #sponsorbox div#sponsors li.lead {
   margin-top: 0px;
+}
+footer #sponsorbox div#sponsors li.accessibility {
+  width: 45%;
+  margin-right: 0;
+  margin-left: 0;
 }
 
 footer .col {
@@ -1146,10 +1155,16 @@ td {
 
     footer #sponsorbox .container {
       max-width: 900px;
+      right: auto;
     }
 
     footer #sponsorbox .four div#sponsors {
-      width: auto;
+      width: 65%;
+      padding: 0 1em;
+    }
+    footer #sponsorbox .four div#partners {
+      width: 35%;
+      padding: 0 1em;
     }
 
     footer #sponsorbox .three div#sponsors ul li.lead img  {
@@ -1296,6 +1311,12 @@ td {
       width: auto;
     }
     footer #sponsorbox .four div#sponsors ul li.lead img {
+        width: 95%;
+    }
+    footer #sponsorbox .four div#partners ul li img {
+      height: auto;
+      width: 100%;
+      margin-top: 8px;
     }
 
     footer #sponsorbox .four div#sponsors ul li.accessibility img {
@@ -1351,7 +1372,7 @@ td {
       width: 50%;
     }
     #contentbox #sponsorpage ul.eventsponsor li {
-      margin-left: 0px;
+      margin: 0px 0px 2em 0px;
       padding: 0px;
       display: block;
     }
@@ -1360,6 +1381,12 @@ td {
     #contentbox #sponsorpage ul.supportingsponsor li.um img,
     #contentbox #sponsorpage ul.supportingsponsor li.knightfoundation img {
         width: 67%;
+    }
+    footer #sponsorbox .four div#sponsors ul li {
+        width: auto;
+        display: block;
+        margin-bottom: 2.5em;
+        text-align: left;
     }
 
 }
@@ -1426,6 +1453,7 @@ td {
 
     footer #sponsorbox div#partners {
       float: none;
+      margin-bottom: 2.5em;
     }
 
     footer #sponsorbox div#partners ul li {

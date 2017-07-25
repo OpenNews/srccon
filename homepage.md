@@ -10,11 +10,14 @@ bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8
 permalink: /index.html
 ---
 
-**The SRCCON ticket lottery is now closed. Thanks to all who entered.**
+{% include 2017_live_sessions_table.html %}
 
 This year SRCCON will return to the [McNamara Alumni Center in Minneapolis Minnesota](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975143,-93.2278449,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ved=0ahUKEwjg_Ou0xuXTAhUD6IMKHSjyDOEQ_BIIgwEwEQ) on August 3 & 4. We will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles.
 
-[See our list of accepted sessions](/sessions), check out information about hotels and other [SRCCON logistics](/logistics), or learn more about our [childcare](/childcare/) options at this year's SRCCON.
+[**The 2017 schedule is now live!**](http://schedule.srccon.org) 
+
+If you're preparing to attend, we have a bunch of details on the [SRCCON logistics page](/logistics). You can also take a look at reflections from prior SRCCON sessions in the [SRCCON spotlight series on Source](https://source.opennews.org/articles/tags/srccon-spotlight/). 
+
 
 <div class="blue">
 <div class="innercontainer">
@@ -79,3 +82,5 @@ Our participants represent organizations ranging from massive to tiny, and come 
 SRCCON is produced by [OpenNews](http://opennews.org), an organization built to connect a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism.
 
 The “src” in SRCCON stands for “Source,” as in "view source." We pronounce it “Source-con,” but you can say it however you want.
+
+{% include 2017_live_sessions_js.html %}
