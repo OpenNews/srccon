@@ -481,21 +481,6 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "", 
-        "everyone": "y", 
-        "facilitators": "", 
-        "facilitators_twitter": "", 
-        "id": "thursday-evening", 
-        "length": "", 
-        "notepad": "", 
-        "room": "Memorial", 
-        "time": "7pm", 
-        "timeblock": "thursday-evening", 
-        "title": "SRCCON at night: Games, conversations & workshops, lightning talks and more", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Thursday", 
         "description": "\"Can't draw a stick figure,\" you say? Let me prove you wrong in one lesson! Realistic drawing isn't as hard as it looks - and there are a lot of reasons to try and do it. Learning to draw exercises your right brain, which can aid focus, attention, memory and analytical ability (think of it as cross training for the brain). Come try it out yourself at this session, as I walk you step-by-step through completing a finished, realistic drawing. For all experience levels, including the complete beginner.", 
         "everyone": "y", 
         "facilitators": "Leah Kohlenberg", 
@@ -556,21 +541,6 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "Conversations are your opportunity to get a small group together to talk about how to plan an amazing vacation or listen to your favorite music or discuss what book changed your life—anything that you're passionate about. We'll have signup sheets at SRCCON, so you bring the ideas and we'll make the space.", 
-        "everyone": "y", 
-        "facilitators": "", 
-        "facilitators_twitter": "", 
-        "id": "evening-conversations-1", 
-        "length": "", 
-        "notepad": "", 
-        "room": "", 
-        "time": "7-8pm", 
-        "timeblock": "thursday-evening-1", 
-        "title": "Evening conversations (Sign up at SRCCON!)", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Thursday", 
         "description": "Carpal tunnel syndrome is a real risk for those of us who spent all of our waking hours on the computer. Come learn a few simple exercises my dad (a bone and joint surgeon) taught me to help relieve the strain on your wrists!", 
         "everyone": "y", 
         "facilitators": "Aditi Bhandari", 
@@ -582,6 +552,21 @@
         "time": "7-8pm", 
         "timeblock": "thursday-evening-1", 
         "title": "Hobby workshop: Physiotherapy (save your wrists!)", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "Conversations are your opportunity to get a small group together to talk about how to plan an amazing vacation or listen to your favorite music or discuss what book changed your life—anything that you're passionate about. We'll have signup sheets at SRCCON, so you bring the ideas and we'll make the space.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "evening-conversations-1", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "time": "7-8pm", 
+        "timeblock": "thursday-evening-1", 
+        "title": "Evening conversations (Sign up at SRCCON!)", 
         "transcription": ""
     }, 
     {
@@ -616,21 +601,6 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "Conversations are your opportunity to get a small group together to talk about how to plan an amazing vacation or listen to your favorite music or discuss what book changed your life—anything that you're passionate about. We'll have signup sheets at SRCCON, so you bring the ideas and we'll make the space.", 
-        "everyone": "y", 
-        "facilitators": "", 
-        "facilitators_twitter": "", 
-        "id": "evening-conversations-2", 
-        "length": "", 
-        "notepad": "", 
-        "room": "", 
-        "time": "8-9pm", 
-        "timeblock": "thursday-evening-2", 
-        "title": "Evening conversations (Sign up at SRCCON!)", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Thursday", 
         "description": "I can't make you the next Rodney Mullen, but I'm confident I can help you pop your first ollie. Come learn the physics behind an ollie and other skateboard tricks. I'll also have some practice boards to give it a shot. Closed-toe shoes required to practice.", 
         "everyone": "y", 
         "facilitators": "Dave Stanton", 
@@ -657,6 +627,21 @@
         "time": "8-9pm", 
         "timeblock": "thursday-evening-2", 
         "title": "Hobby workshop: Digital security", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "Conversations are your opportunity to get a small group together to talk about how to plan an amazing vacation or listen to your favorite music or discuss what book changed your life—anything that you're passionate about. We'll have signup sheets at SRCCON, so you bring the ideas and we'll make the space.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "evening-conversations-2", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "time": "8-9pm", 
+        "timeblock": "thursday-evening-2", 
+        "title": "Evening conversations (Sign up at SRCCON!)", 
         "transcription": ""
     }, 
     {
@@ -691,21 +676,6 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "Conversations are your opportunity to get a small group together to talk about how to plan an amazing vacation or listen to your favorite music or discuss what book changed your life—anything that you're passionate about. We'll have signup sheets at SRCCON, so you bring the ideas and we'll make the space.", 
-        "everyone": "y", 
-        "facilitators": "", 
-        "facilitators_twitter": "", 
-        "id": "evening-conversations-3", 
-        "length": "", 
-        "notepad": "", 
-        "room": "", 
-        "time": "9-10pm", 
-        "timeblock": "thursday-evening-3", 
-        "title": "Evening conversations (Sign up at SRCCON!)", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Thursday", 
         "description": "Drones have gotten very popular, cheap, and are incredibly capable platforms. Let's explore together the various sorts of photos and video you can capture from the air, what you can do with those images, and the best way to go about collecting it.", 
         "everyone": "y", 
         "facilitators": "Ian Dees", 
@@ -717,6 +687,21 @@
         "time": "9-10pm", 
         "timeblock": "thursday-evening-3", 
         "title": "Hobby workshop: Drone photography", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "Conversations are your opportunity to get a small group together to talk about how to plan an amazing vacation or listen to your favorite music or discuss what book changed your life—anything that you're passionate about. We'll have signup sheets at SRCCON, so you bring the ideas and we'll make the space.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "evening-conversations-3", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "time": "9-10pm", 
+        "timeblock": "thursday-evening-3", 
+        "title": "Evening conversations (Sign up at SRCCON!)", 
         "transcription": ""
     }, 
     {
