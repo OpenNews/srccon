@@ -30,3 +30,10 @@ var filter = ListFilter({
     filterItemClass: '.session-proposal'
 });
 </script>
+
+## Community reviewers
+
+We'd also like to thank the folks who helped us select this amazing slate of sessions! We reached out to community members with a range of experiences and perspectives to make sure that SRCCON would have sessions that responded to your needs.
+
+Thank you, community reviewers!
+[list of reviewers]
