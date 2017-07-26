@@ -9,7 +9,9 @@ byline: Erik Westra
 permalink: /sessions/
 ---
 
-The following sessions have been confirmed so far for SRCCON 2017. We thank all who submitted proposals. We still have a handful of sessions left to finalize, and session descriptions here will evolve in the weeks leading up to SRCCON. This year's final schedule will reflect these updates and include an evening slate of fun, informal talks, discussions, and activities. We will publish the complete SRCCON schedule in July.
+The following sessions have been confirmed for SRCCON 2017. Huge thanks to all who submitted proposals, and to the [community panel](#community-review) that helped us during the review process.
+
+Some session descriptions here may evolve between now and SRCCON. This year's final schedule will reflect any updates and include an evening slate of fun, informal talks, discussions, and activities. The complete [2017 SRCCON schedule is available here](http://schedule.srccon.org).
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.sessions %}
@@ -31,9 +33,18 @@ var filter = ListFilter({
 });
 </script>
 
+<span id="community-review"></span>
+
 ## Community reviewers
 
 We'd also like to thank the folks who helped us select this amazing slate of sessions! We reached out to community members with a range of experiences and perspectives to make sure that SRCCON would have sessions that responded to your needs.
 
 Thank you, community reviewers!
-[list of reviewers]
+
+* Michael Grant
+* Chris Groskopf
+* Geoff Hing
+* Greta Kaul
+* Dolly Li
+* Haoyun Su
+* Christine Zhang
