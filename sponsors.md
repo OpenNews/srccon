@@ -55,7 +55,7 @@ permalink: /sponsors/index.html
 
 <h2>Supporting Sponsor</h2>
 <ul class="supportingsponsor">
-    <li class="buzzfeed"><a href="https://www.buzzfeed.com" class="imglink"><img src="/media/img/partners/2017/buzzfeed_news.png"></a></li>
+    <li class="buzzfeed"><a href="https://www.buzzfeed.com" class="imglink"><img src="/media/img/partners/2017/BuzzFeedNews_Color.png"></a></li>
 </ul>
 
 <h2>OpenNews Project Partners</h2>
