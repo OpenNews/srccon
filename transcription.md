@@ -19,7 +19,7 @@ During and after this year's SRCCON, we'll also have a documentation team writin
 
 ## Transcription
 
-Our live-captioning team will transcribe 26 sessions at SRCCON this year. Live streams will be available during these sessions, and links to the archives will remain below.
+Our live-captioning team will transcribe 25 sessions at SRCCON this year. Live streams will be available during these sessions, and links to the archives will remain below. If you'd like to get a reminder and a link to the live transcript as these sessions get ready to begin, you can [add the "SRCCON Transcript Alerts" bot](/slackbot/) to your team's Slack.
 
 <div>
     <h3>Thursday sessions</h3>
