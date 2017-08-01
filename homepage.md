@@ -2,7 +2,7 @@
 layout: 2015_layout
 title: Join us for SRCCON
 subtitle: Two amazing days building better newsroom code, culture, and process—together. <br />
-eventdate: SRCCON 2017 is coming.<br>August 3 & 4 in Minneapolis.
+eventdate: SRCCON 2017 is here.<br>August 3 & 4 in Minneapolis.
 section: homepage
 background: homepage
 byline: Joe D
@@ -12,11 +12,11 @@ permalink: /index.html
 
 {% include 2017_live_sessions_table.html %}
 
-This year SRCCON will return to the [McNamara Alumni Center in Minneapolis Minnesota](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975143,-93.2278449,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ved=0ahUKEwjg_Ou0xuXTAhUD6IMKHSjyDOEQ_BIIgwEwEQ) on August 3 & 4. We will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles.
+Attendees, be welcome! 
 
-[**The 2017 schedule is now live!**](http://schedule.srccon.org) 
+We are so pleased to have these two days to chat, plan, and care for one another. If you need any logistical info [we have you covered](/logistics) and of course the handy, mobile-friendly [**2017 schedule app**](http://schedule.srccon.org) is available for all your session planning needs. The registration desk in Memorial Hall will be staffed throughout the event, and our safety helpline is **SRC CON 2909** (772 266-2909). 
 
-If you're preparing to attend, we have a bunch of details on the [SRCCON logistics page](/logistics). You can also take a look at reflections from prior SRCCON sessions in the [SRCCON spotlight series on Source](https://source.opennews.org/articles/tags/srccon-spotlight/). 
+If you're not here with us in Minneapolis, we invite you to check out our [**remote-participation options**](/transcription), including live streaming transcriptions with their very own Slack bot. 
 
 
 <div class="blue">
