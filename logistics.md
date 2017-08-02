@@ -14,19 +14,15 @@ redirect_from:
 SRCCON 2017 takes place at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis.
 
 ## Preparing for SRCCON
-In addition to this page with all the logistical details you may need as you prep for SRCCON, we wanted to make sure you know what to expect at the conference. Take a look at our new [SRCCON Participant Guide](/guide/participant/index.html). It's our best guess at the questions you may have.
-
-As you're getting ready for your trip to SRCCON, a few more things to check out:
-
-* [Let other attendees know](https://etherpad.opennews.org/p/SRCCON2017) about any coffee, tea, or games you may be bringing to share, or just that you're gonna be there!
-* [Pitch a lightning talk](https://docs.google.com/forms/d/e/1FAIpQLSfaalUYMDB8NH17eVOX36C0HTdAt5fpMDunB5IJptuVmpCE9w/viewform) on making mistakes and learning from them.
-* [Host an office hours conversation](https://docs.google.com/spreadsheets/d/1zBXlFtCUMjt84wGNXTP2jgw4nwETBLJYYtHNZ0LWtAg/edit#gid=0) and chat one-on-one with participants about a project you're working on or maybe a position you're hiring for.
+In addition to this page with all the logistical details you may need as you prep for SRCCON, we wanted to make sure you know what to expect at the conference. Take a look at our new [SRCCON Participant Guide](/guide/participant/). It's our best guess at the questions you may have.
 
 ## Getting to SRCCON
 If you're still looking to make your lodging arrangements, we've got [a list of nearby hotels](#lodging) and a [roomshare list](#room-share). For getting to the venue, you can also check out [transit](#transit) and [parking](#parking) details. If you're attending from outside the U.S., [we have a recommended resource](#travel-from-outside-the-us) for what to consider at the U.S. border crossing.
 
 ## During SRCCON
 We've tried to think of everything you might need, from [hearty, tasty meals](#meals-at-srccon) to [childcare](#childcare). You can check out [the full schedule now](http://schedule.srccon.org/) (it's mobile friendly too!). When you arrive at the venue, we'll also have on-the-spot signups to host conversations about the "life" side of work/life balance on Thursday evening, and the "work" side during Friday lunch.
+
+Throughout SRCCON, we'll also have office hours (new this year) and a big job board for any positions you'd like to post. We'll have a signup sheet for the office hours, where you can block out an hour to chat one-on-one with participants about a project you're working on or maybe a position you're hiring for. We'll have post-its at the ready for your job posting needs as well.
 
 Thursday evening, we'll feed you dinner and [have three hours of fun planned](#thursday-evening-at-srccon), and you can even [bring your partner](#thursday-evening-bring-your-partners) to join you. We've also gathered details about a local [Alcoholics Anonymous meeting](#alcoholics-anonymous), and your fellow news nerds have written an enormous [guide to the Twin Cities](#more-to-doeatdrinkseedance-to).
 
@@ -43,7 +39,7 @@ We know [evenings at conferences can be tough](https://opennews.org/blog/srccon-
 We'll keep feeding you, too—there'll be awesome local snacks, beer and wine, and plenty of great nonalcoholic beverages. After dinner on Thursday, the evening program will spread throughout the SRCCON venue for things like:
 
 * board games ([bring one you'd like to teach people to play!](https://etherpad.opennews.org/p/BoardGames))
-* [lightning talks](https://docs.google.com/forms/d/e/1FAIpQLSfaalUYMDB8NH17eVOX36C0HTdAt5fpMDunB5IJptuVmpCE9w/viewform) pitch by July 28!
+* lightning talks
 * a guided walk through Minneapolis with a local expert
 * conversations about things you love (we'll schedule rooms for these and post a signup sheet at SRCCON)
 * hobby workshops
