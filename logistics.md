@@ -14,7 +14,7 @@ redirect_from:
 SRCCON 2017 takes place at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis.
 
 ## Preparing for SRCCON
-In addition to this page with all the logistical details you may need as you prep for SRCCON, we wanted to make sure you know what to expect at the conference. Take a look at our new [SRCCON Participant Guide](/guide/participant/index.html). It's our best guess at the questions you may have.
+In addition to this page with all the logistical details you may need as you prep for SRCCON, we wanted to make sure you know what to expect at the conference. Take a look at our new [SRCCON Participant Guide](/guide/participant/). It's our best guess at the questions you may have.
 
 ## Getting to SRCCON
 If you're still looking to make your lodging arrangements, we've got [a list of nearby hotels](#lodging) and a [roomshare list](#room-share). For getting to the venue, you can also check out [transit](#transit) and [parking](#parking) details. If you're attending from outside the U.S., [we have a recommended resource](#travel-from-outside-the-us) for what to consider at the U.S. border crossing.
