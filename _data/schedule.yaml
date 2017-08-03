@@ -526,21 +526,6 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "\"Can't draw a stick figure,\" you say? Let me prove you wrong in one lesson! Realistic drawing isn't as hard as it looks - and there are a lot of reasons to try and do it. Learning to draw exercises your right brain, which can aid focus, attention, memory and analytical ability (think of it as cross training for the brain). Come try it out yourself at this session, as I walk you step-by-step through completing a finished, realistic drawing. For all experience levels, including the complete beginner.", 
-        "everyone": "y", 
-        "facilitators": "Leah Kohlenberg", 
-        "facilitators_twitter": "leahkohlenberg", 
-        "id": "learn-to-draw-2", 
-        "length": "", 
-        "notepad": "y", 
-        "room": "Johnson", 
-        "time": "7-8pm", 
-        "timeblock": "thursday-evening-1", 
-        "title": "Learn to Draw, Boost Your Brain Power!", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Thursday", 
         "description": "Sometimes the art of the FOIA lies in knowing exactly what record you want to request, and hounding it down until you get it. Other times, though, there are benefits to casting a wide net and requesting things that would be interesting if they exist. FOIA The Dead, a project that files a FOIA request to the FBI for the subject of every New York Times obituary as it's published, is an example of the latter. In this session, we'll discuss what other kinds of problems can be solved with parallel automated records requests, and give participants the tools to start filing.", 
         "everyone": "y", 
         "facilitators": "Parker Higgins", 
@@ -548,10 +533,25 @@
         "id": "bring-out-foia", 
         "length": "", 
         "notepad": "y", 
-        "room": "Heritage", 
+        "room": "Johnson", 
         "time": "7-8pm", 
         "timeblock": "thursday-evening-1", 
         "title": "Bring Out Your Dead: lessons in massively parallel records request from 2000 FOIAed obituaries", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "\"Can't draw a stick figure,\" you say? Let me prove you wrong in one lesson! Realistic drawing isn't as hard as it looks - and there are a lot of reasons to try and do it. Learning to draw exercises your right brain, which can aid focus, attention, memory and analytical ability (think of it as cross training for the brain). Come try it out yourself at this session, as I walk you step-by-step through completing a finished, realistic drawing. For all experience levels, including the complete beginner.", 
+        "everyone": "y", 
+        "facilitators": "Leah Kohlenberg", 
+        "facilitators_twitter": "leahkohlenberg", 
+        "id": "learn-to-draw-2", 
+        "length": "", 
+        "notepad": "y", 
+        "room": "Heritage", 
+        "time": "7-8pm", 
+        "timeblock": "thursday-evening-1", 
+        "title": "Learn to Draw, Boost Your Brain Power!", 
         "transcription": ""
     }, 
     {
