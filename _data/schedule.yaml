@@ -556,6 +556,21 @@
     }, 
     {
         "day": "Thursday", 
+        "description": "", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "evening-point-of-it-all", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Minnesota", 
+        "time": "7-8pm", 
+        "timeblock": "thursday-evening-1", 
+        "title": "Conversation: What's the point of it all? (Does journalism make a difference)", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
         "description": "Board games, card games, story games--we'll have plenty to choose from. Bring your own to share and play.", 
         "everyone": "y", 
         "facilitators": "Tiff Fehr, Joe Germuska", 
@@ -686,7 +701,7 @@
         "room": "Heritage", 
         "time": "8-9pm", 
         "timeblock": "thursday-evening-2", 
-        "title": "Let's talk about road trips!", 
+        "title": "Conversation: Road trips!", 
         "transcription": ""
     }, 
     {
@@ -701,7 +716,7 @@
         "room": "Minnesota", 
         "time": "8-9pm", 
         "timeblock": "thursday-evening-2", 
-        "title": "Roller Derby as journalism stress coping", 
+        "title": "Conversation: Roller Derby as journalism stress coping", 
         "transcription": ""
     }, 
     {
