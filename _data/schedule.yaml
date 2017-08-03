@@ -61,17 +61,17 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "Sometimes the art of the FOIA lies in knowing exactly what record you want to request, and hounding it down until you get it. Other times, though, there are benefits to casting a wide net and requesting things that would be interesting if they exist. FOIA The Dead, a project that files a FOIA request to the FBI for the subject of every New York Times obituary as it's published, is an example of the latter. In this session, we'll discuss what other kinds of problems can be solved with parallel automated records requests, and give participants the tools to start filing.", 
+        "description": "FOIA is an awesome tool for government transparency, but FOIA is often also slow and easily blocked by various exceptions. In this session, we'll look at some of the other ways in which the federal government publicizes what it is up to and how you can use that to figure out things before you must resort to FOIA.", 
         "everyone": "", 
-        "facilitators": "Parker Higgins", 
-        "facilitators_twitter": "xor", 
-        "id": "bring-out-foia", 
+        "facilitators": "Jacob Harris, Rebecca Williams", 
+        "facilitators_twitter": "harrisj,internetrebecca", 
+        "id": "beyond-foia-brainstorming", 
         "length": "75 minutes", 
         "notepad": "y", 
         "room": "Heritage", 
         "time": "10-11:15am", 
         "timeblock": "thursday-am-1", 
-        "title": "Bring Out Your Dead: lessons in massively parallel records request from 2000 FOIAed obituaries", 
+        "title": "Beyond FOIA: Brainstorming Other Ways To See What Your Government Is Up To", 
         "transcription": ""
     }, 
     {
@@ -207,21 +207,6 @@
         "time": "1pm", 
         "timeblock": "thursday-lunch", 
         "title": "Lunch at SRCCON", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Thursday", 
-        "description": "FOIA is an awesome tool for government transparency, but FOIA is often also slow and easily blocked by various exceptions. In this session, we'll look at some of the other ways in which the federal government publicizes what it is up to and how you can use that to figure out things before you must resort to FOIA.", 
-        "everyone": "", 
-        "facilitators": "Jacob Harris, Rebecca Williams", 
-        "facilitators_twitter": "harrisj,internetrebecca", 
-        "id": "beyond-foia-brainstorming", 
-        "length": "75 minutes", 
-        "notepad": "y", 
-        "room": "Johnson", 
-        "time": "1:15-2:30pm", 
-        "timeblock": "thursday-lunch", 
-        "title": "Beyond FOIA: Brainstorming Other Ways To See What Your Government Is Up To", 
         "transcription": ""
     }, 
     {
