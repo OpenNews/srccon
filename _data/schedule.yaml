@@ -271,6 +271,21 @@
     }, 
     {
         "day": "Thursday", 
+        "description": "", 
+        "everyone": "", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thu-lunch-talk-hiring", 
+        "length": "75 minutes", 
+        "notepad": "y", 
+        "room": "Minnesota", 
+        "time": "1:15-2:30pm", 
+        "timeblock": "thursday-lunch", 
+        "title": "Let's Talk About Hiring", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
         "description": "**1-2pm**\n**Web Performance**\nConde Nast\n\n**OPEN SLOT**\n\n**2-3pm**\n**Publishing on the Web Progressively**\nJohn Paul\n\n**Building an Engineering Culture at a News Org**\nNew York Times", 
         "everyone": "y", 
         "facilitators": "", 
@@ -601,6 +616,21 @@
     }, 
     {
         "day": "Thursday", 
+        "description": "AMA with \"Minority Whip,\" aka Rachel, a data geek and skater", 
+        "everyone": "y", 
+        "facilitators": "Rachel Alexander", 
+        "facilitators_twitter": "rachelwalexande", 
+        "id": "evening-roller-derby", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Minnesota", 
+        "time": "7-8pm", 
+        "timeblock": "thursday-evening-1", 
+        "title": "Roller Derby as journalism stress coping", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
         "description": "Conversations are your opportunity to get a small group together to talk about how to plan an amazing vacation or listen to your favorite music or discuss what book changed your life—anything that you're passionate about. We'll have signup sheets at SRCCON, so you bring the ideas and we'll make the space.", 
         "everyone": "y", 
         "facilitators": "", 
@@ -657,6 +687,21 @@
         "time": "8-9pm", 
         "timeblock": "thursday-evening-2", 
         "title": "Hobby workshop: Pop an ollie on a skateboard", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "Bring your favorite destinations and your survival strategies!", 
+        "everyone": "y", 
+        "facilitators": "Dan Sinker,Janice Dillard", 
+        "facilitators_twitter": "dansinker,janicedillard", 
+        "id": "evening-road-trips", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Heritage", 
+        "time": "8-9pm", 
+        "timeblock": "thursday-evening-2", 
+        "title": "Let's talk about road trips!", 
         "transcription": ""
     }, 
     {
@@ -987,6 +1032,36 @@
         "time": "1pm", 
         "timeblock": "friday-lunch", 
         "title": "Lunch at SRCCON", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
+        "description": "Plus a demo of CJ Workbench", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "fri-lunch-build-data-notebook", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Johnson", 
+        "time": "1pm", 
+        "timeblock": "friday-lunch", 
+        "title": "Build a Better Data Notebook", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
+        "description": "", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "fri-lunch-journalism-impact", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Ski-U-Mah", 
+        "time": "1pm", 
+        "timeblock": "friday-lunch", 
+        "title": "Rethinking Journalism's Impact and How We Measure It", 
         "transcription": ""
     }, 
     {
