@@ -616,21 +616,6 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "AMA with \"Minority Whip,\" aka Rachel, a data geek and skater", 
-        "everyone": "y", 
-        "facilitators": "Rachel Alexander", 
-        "facilitators_twitter": "rachelwalexande", 
-        "id": "evening-roller-derby", 
-        "length": "", 
-        "notepad": "", 
-        "room": "Minnesota", 
-        "time": "7-8pm", 
-        "timeblock": "thursday-evening-1", 
-        "title": "Roller Derby as journalism stress coping", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Thursday", 
         "description": "Conversations are your opportunity to get a small group together to talk about how to plan an amazing vacation or listen to your favorite music or discuss what book changed your life—anything that you're passionate about. We'll have signup sheets at SRCCON, so you bring the ideas and we'll make the space.", 
         "everyone": "y", 
         "facilitators": "", 
@@ -702,6 +687,21 @@
         "time": "8-9pm", 
         "timeblock": "thursday-evening-2", 
         "title": "Let's talk about road trips!", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "AMA with \"Minority Whip,\" aka Rachel, a data geek and skater", 
+        "everyone": "y", 
+        "facilitators": "Rachel Alexander", 
+        "facilitators_twitter": "rachelwalexande", 
+        "id": "evening-roller-derby", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Minnesota", 
+        "time": "8-9pm", 
+        "timeblock": "thursday-evening-2", 
+        "title": "Roller Derby as journalism stress coping", 
         "transcription": ""
     }, 
     {
