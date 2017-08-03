@@ -49,7 +49,7 @@ permalink: /sponsors/index.html
 
 <h2>Local Sponsors</h2>
 <ul class="eventsponsor">
-    <li><a href="http://www.startribune.com/" class="imglink"><img src="/media/img/partners/2017/StarTrib_Logo_Hor.jpg"></a></li>
+    <li><a href="http://www.startribune.com/" class="imglink"><img src="/media/img/partners/2017/Strib_horiz_new.png"></a></li>
     <li class="mprnews"><a href="http://mpr.org" class="imglink"><img src="/media/img/partners/2017/MPRnews_horz2.png"></a></li>
 </ul>
 
