@@ -1035,18 +1035,18 @@
         "transcription": ""
     }, 
     {
-        "day": "Friday", 
-        "description": "Plus a demo of CJ Workbench", 
+        "day": "", 
+        "description": "", 
         "everyone": "y", 
-        "facilitators": "Jonathan Stray", 
-        "facilitators_twitter": "jonathanstray", 
-        "id": "fri-lunch-build-data-notebook", 
+        "facilitators": "Chris Groskopf", 
+        "facilitators_twitter": "onyxfish", 
+        "id": "fri-lunch-mapping", 
         "length": "", 
         "notepad": "", 
         "room": "Johnson", 
         "time": "1pm", 
         "timeblock": "friday-lunch", 
-        "title": "Build a Better Data Notebook", 
+        "title": "Mapping Problems WTF: Bivariates vs. Choropleths (and other things that are hard too)", 
         "transcription": ""
     }, 
     {
@@ -1152,6 +1152,21 @@
         "time": "2:30-3:45pm", 
         "timeblock": "friday-pm-1", 
         "title": "Finding your spot in the newsroom", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
+        "description": "Plus a demo of CJ Workbench", 
+        "everyone": "", 
+        "facilitators": "Jonathan Stray", 
+        "facilitators_twitter": "jonathanstray", 
+        "id": "fri-lunch-build-data-notebook", 
+        "length": "75 minutes", 
+        "notepad": "y", 
+        "room": "Thomas Swain", 
+        "time": "2:30-3:45pm", 
+        "timeblock": "friday-pm-1", 
+        "title": "Build a Better Data Notebook", 
         "transcription": ""
     }, 
     {
