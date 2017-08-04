@@ -9,7 +9,7 @@ bylineurl: https://www.flickr.com/photos/dvortygirl/3982230988
 permalink: /conduct/index.html
 ---
 
-<p class="safety"><b>SRCCON SAFETY HELPLINE:</b> Members of the conference team will be available via voice or text at: <b>(SRC) CON-2909</b> | <b>(772) 266-2909</b></p>
+<p class="safety"><b>SRCCON SAFETY HELPLINE:</b> Members of the conference team will be available via voice or text at <b>(SRC) CON-2909</b> | <b>(772) 266-2909</b>, or by email at <b><a href="mailto:srccon@opennews.org">srccon@opennews.org</a></b></p>
 
 SRCCON and OpenNews are committed to providing a welcoming and harassment-free environment for participants of all races, gender and trans statuses, sexual orientations, physical abilities, physical appearances, and beliefs. We&rsquo;ve written this code of conduct not because we expect bad behavior from our community&mdash;which, in our experience, is overwhelmingly kind and civil&mdash;but because we believe a clear code of conduct is one necessary part of building a respectful community space.
 
