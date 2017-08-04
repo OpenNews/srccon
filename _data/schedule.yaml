@@ -1035,7 +1035,7 @@
         "transcription": ""
     }, 
     {
-        "day": "", 
+        "day": "Friday", 
         "description": "", 
         "everyone": "y", 
         "facilitators": "Chris Groskopf", 
@@ -1092,6 +1092,21 @@
         "time": "1pm", 
         "timeblock": "friday-lunch", 
         "title": "Shorthand on fleek", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
+        "description": "Get outside to see how looking at the world like an artist can make you a better journalist", 
+        "everyone": "y", 
+        "facilitators": "Leah Kohlenberg,Alexandra Nicolas", 
+        "facilitators_twitter": "", 
+        "id": "fri-lunch-sketching", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Memorial", 
+        "time": "1pm", 
+        "timeblock": "friday-lunch", 
+        "title": "Urban sketching for journalists", 
         "transcription": ""
     }, 
     {
