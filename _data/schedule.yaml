@@ -1021,21 +1021,6 @@
     }, 
     {
         "day": "Friday", 
-        "description": "How do you tag news content? How do you understand what keywords are relevant to the story or what taxonomy an article belongs to? Being able to tag news efficiently is a valuable asset for any news organization that wants to have an online presence, but many news outlets are struggling nowadays when it comes to tagging.\n\nIn this session, we will first take some time to talk about why news tagging is important and which areas it can particularly prove useful for. When is Machine Learning useful? And where do we get taxonomies from? Then, we will present EXTRA (“EXTraction Rules Apparatus”), an open source project that was developed by IPTC (https://iptc.org) with the support of Google DNI and allows news editors to precisely identify the categories to which a piece of news belongs to. The system manages to recommend the most relevant categories using Boolean rules, with sophisticated natural language processing capabilities. We particularly look for the audience to share their views and experience on news tags and taxonomies, what problems they have had or know of and ways they could be solved. Then we will show how this new open source tool can help editors in newsrooms build their own taxonomy system and will let the participants interact with the system and try building their own rules to categorize news stories. ", 
-        "everyone": "", 
-        "facilitators": "Katerina Iliakopoulou", 
-        "facilitators_twitter": "matzika00", 
-        "id": "introducing-extra", 
-        "length": "75 minutes", 
-        "notepad": "y", 
-        "room": "Board Room (5th floor)", 
-        "time": "11:45am-1pm", 
-        "timeblock": "friday-am-2", 
-        "title": "Introducing EXTRA: An open source project to classify news text using rules", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Friday", 
         "description": "Let's eat together as a group. Meals are provided when you attend SRCCON, and our local caterer will have tasty options for all dietary needs.", 
         "everyone": "y", 
         "facilitators": "", 
@@ -1077,6 +1062,36 @@
         "time": "1pm", 
         "timeblock": "friday-lunch", 
         "title": "Rethinking Journalism's Impact and How We Measure It", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
+        "description": "", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "fri-lunch-podcasts", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Minnesota", 
+        "time": "1pm", 
+        "timeblock": "friday-lunch", 
+        "title": "Podcasts: Let's recommend our favorites", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
+        "description": "An intro course on Gregg Shorthand using stereotypically millennial phrases", 
+        "everyone": "y", 
+        "facilitators": "Stan Sakai", 
+        "facilitators_twitter": "", 
+        "id": "fri-lunch-shorthand", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Thomas Swain", 
+        "time": "1pm", 
+        "timeblock": "friday-lunch", 
+        "title": "Shorthand on fleek", 
         "transcription": ""
     }, 
     {
@@ -1153,21 +1168,6 @@
         "timeblock": "friday-pm-1", 
         "title": "News for everyone: Thinking about accessibility", 
         "transcription": ""
-    }, 
-    {
-        "day": "Friday", 
-        "description": "In what ways do you interact with datasets? How might those interactions be improved? In this workshop we'll work through a series of small-group exercises to identify:\n\n- how we find, store, analyze, and publish data right now, and how those methods fail us\n- what gets in our way of keeping data organized and reusable\n- the kinds of training team members need to work with data\n- ways we might improve our day-to-day data work\n\nBy the end of the workshop you'll have a clearer understanding of what issues you face when working with data, learned from the experiences of other participants, and started a plan for improving how your newsroom works with data. ", 
-        "everyone": "", 
-        "facilitators": "Seth Vincent", 
-        "facilitators_twitter": "sethdvincent", 
-        "id": "working-with-data", 
-        "length": "75 minutes", 
-        "notepad": "y", 
-        "room": "Thomas Swain", 
-        "time": "2:30-3:45pm", 
-        "timeblock": "friday-pm-1", 
-        "title": "Working with data: Where was that spreadsheet? Wait, why has it changed?", 
-        "transcription": "y"
     }, 
     {
         "day": "Friday", 
