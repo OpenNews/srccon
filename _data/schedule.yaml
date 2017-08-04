@@ -1091,7 +1091,7 @@
         "room": "Thomas Swain", 
         "time": "1pm", 
         "timeblock": "friday-lunch", 
-        "title": "Shorthand on fleek", 
+        "title": "Shorthand on fleek: An intro course using stereotypically millennial phrases", 
         "transcription": ""
     }, 
     {
@@ -1171,7 +1171,7 @@
     }, 
     {
         "day": "Friday", 
-        "description": "Plus a demo of CJ Workbench", 
+        "description": "Jupyter is an amazing tool for data work, but it has all sorts of problems. You have to be able to code in Python, it doesn't manage data versions, isn't designed for audiences to understand, and there's no easy way to share reusable data processing recipes. Come see the Computational Journalism Workbench, a new open source platform that aims to solve these problems for you -- and needs your suggestions and support.", 
         "everyone": "", 
         "facilitators": "Jonathan Stray", 
         "facilitators_twitter": "jonathanstray", 
