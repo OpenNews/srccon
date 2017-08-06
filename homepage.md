@@ -1,8 +1,8 @@
 ---
 layout: 2015_layout
-title: Join us for SRCCON
+title: SRCCON 2017
 subtitle: Two amazing days building better newsroom code, culture, and process—together. <br />
-eventdate: SRCCON 2017 is here.<br>August 3 & 4 in Minneapolis.
+eventdate: SRCCON 2017 took place<br>August 3 & 4 in Minneapolis
 section: homepage
 background: homepage
 byline: Joe D
@@ -10,14 +10,9 @@ bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8
 permalink: /index.html
 ---
 
-{% include 2017_live_sessions_table.html %}
+Thank you, SRCCON 2017 attendees! You brought your ideas, your passions, and your whole selves to Minneapolis and created an incredible experience for everyone there. We'll be cleaning up [transcripts](/transcription) and publishing writeups on [Source](https://source.opennews.org) soon, and sharing more of the wonderful work that took place in [more than 50 sessions and workshops](http://schedule.srccon.org) this year.
 
-Attendees, be welcome! 
-
-We are so pleased to have these two days to chat, plan, and care for one another. If you need any logistical info [we have you covered](/logistics) and of course the handy, mobile-friendly [**2017 schedule app**](http://schedule.srccon.org) is available for all your session planning needs. The registration desk in Memorial Hall will be staffed throughout the event, and our safety helpline is **SRC CON 2909** (772 266-2909). 
-
-If you're not here with us in Minneapolis, we invite you to check out our [**remote-participation options**](/transcription), including live streaming transcriptions with their very own Slack bot. 
-
+And stay tuned for more information about [SRCCON:WORK](https://work.srccon.org) in Philadelphia this December, where we can continue many of these important conversations about taking care of each other and taking on the hard work of journalism.
 
 <div class="blue">
 <div class="innercontainer">
@@ -82,5 +77,3 @@ Our participants represent organizations ranging from massive to tiny, and come 
 SRCCON is produced by [OpenNews](http://opennews.org), an organization built to connect a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism.
 
 The “src” in SRCCON stands for “Source,” as in "view source." We pronounce it “Source-con,” but you can say it however you want.
-
-{% include 2017_live_sessions_js.html %}
