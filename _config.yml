@@ -5,3 +5,7 @@ kramdown:
 gems:
   - jekyll-redirect-from
 exclude: ['*.yml']
+collections:
+  transcripts:
+    output: true
+    permalink: /:collection/:slug/
