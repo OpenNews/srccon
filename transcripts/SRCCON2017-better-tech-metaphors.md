@@ -1,7 +1,18 @@
-Toward better metaphors: Accessible and inclusive ways to explain technical work
-Session facilitator(s): Nicole Zhu
-Day & Time: Thursday, 4:45-6pm
-Room: Ski-U-Mah 
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Toward better metaphors: Accessible and inclusive ways to explain technical work
+
+### Session facilitator(s): Nicole Zhu
+
+### Day & Time: Thursday, 4:45-6pm
+
+### Room: Ski-U-Mah 
 
 NICOLE: Okay. The doors are slowly closing, so we're going to go ahead and get started.
 

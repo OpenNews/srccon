@@ -1,7 +1,18 @@
-Are you Hamilton or Burr? How to benignly manipulate the people around you
-Session facilitator(s): Hannah Birch
-Day & Time: Thursday, 10-11:15am
-Room: Ski-U-Mah
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Are you Hamilton or Burr? How to benignly manipulate the people around you
+
+### Session facilitator(s): Hannah Birch
+
+### Day & Time: Thursday, 10-11:15am
+
+### Room: Ski-U-Mah
 
 HANNAH: Good morning. Welcome to SRCCON. Do we have anybody from the northeast? I'm really glad that you're here. I'm glad that you made it.
 

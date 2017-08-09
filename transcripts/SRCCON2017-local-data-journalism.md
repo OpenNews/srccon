@@ -1,7 +1,18 @@
-Local data journalism still matters (and we can make it better!)
-Session facilitator(s): Carla Astudillo, Erin Petenko, Steve Stirling
-Day & Time: Thursday, 3-4:15pm
-Room: Johnson
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Local data journalism still matters (and we can make it better!)
+
+### Session facilitator(s): Carla Astudillo, Erin Petenko, Steve Stirling
+
+### Day & Time: Thursday, 3-4:15pm
+
+### Room: Johnson
 
 ERIN: I'm Erin.
 

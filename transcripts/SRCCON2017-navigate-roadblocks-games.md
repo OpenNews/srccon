@@ -1,7 +1,18 @@
-Candyland, Catan and Codenames — Oh My! Navigate Roadblocks in Small Newsrooms With Games
-Session facilitator(s): Sara Konrad Baranowski, Andrea Suozzo
-Day & Time: Thursday, 11:45am-1pm
-Room: Ski-U-Mah
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Candyland, Catan and Codenames — Oh My! Navigate Roadblocks in Small Newsrooms With Games
+
+### Session facilitator(s): Sara Konrad Baranowski, Andrea Suozzo
+
+### Day & Time: Thursday, 11:45am-1pm
+
+### Room: Ski-U-Mah
 
 SARA: I'm Sara Konrad Baranowski. I am an editor at a small paper in north central Iowa. It's a very rural area, and a very small staff. There are only five of us in the newsroom, and that includes me. Which presents challenges.
 

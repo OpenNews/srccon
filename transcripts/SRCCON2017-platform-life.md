@@ -1,7 +1,18 @@
-My Life In the Bush of Platforms
-Session facilitator(s): Matt Dennewitz, Michael Donohoe, Luigi Ray-Montanez
-Day & Time: Thursday, 3-4:15pm
-Room: Thomas Swain
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# My Life In the Bush of Platforms
+
+### Session facilitator(s): Matt Dennewitz, Michael Donohoe, Luigi Ray-Montanez
+
+### Day & Time: Thursday, 3-4:15pm
+
+### Room: Thomas Swain
 
 MATT: Hi, welcome to my life in the bush of platforms. My name is Matt. Michael, Luigi. We're going to talk to you about our experience with the recent explosion of platforms in the last couple of years. First, a little bit about us, my name is Matt. I'm the engineering director at Condé Nast for Wired and pitchfork. If you want to talk later, I have some interests up there. Python, baseball, music and things like that.
 

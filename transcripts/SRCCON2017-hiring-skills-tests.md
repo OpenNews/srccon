@@ -1,7 +1,18 @@
-Finding a better way to test skills while hiring
-Session facilitator(s): Rachel Schallom
-Day & Time: Friday, 10-11:15am
-Room: Thomas Swain
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Finding a better way to test skills while hiring
+
+### Session facilitator(s): Rachel Schallom
+
+### Day & Time: Friday, 10-11:15am
+
+### Room: Thomas Swain
 
 RACHEL:  All right, let's go ahead and get started. So today we're going to talk about what it's like evaluating design and development talent, and kind of get into a little bit of how we can make a that a more human and kind process. So my name is Rachel. I was laid off for eight months, and I was industry-famous for a hot minute when I wrote about hiring and all of the people that treated me like garbage. So it's been really fun to be like, "I love your piece," and I'm like, I'm still not over that. I applied for 71 jobs. Had interviews at 22 organizations and I sent 11 idea proposals and not a single one of them hired. I now work at the Wall Street Journal.
 

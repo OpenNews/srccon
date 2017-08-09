@@ -1,7 +1,18 @@
-Why you are part of the filter bubble problem and what you can do about it
-Session facilitator(s): Sonya Song
-Day & Time: Friday, 10-11:15am
-Room: Ski-U-Mah
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Why you are part of the filter bubble problem and what you can do about it
+
+### Session facilitator(s): Sonya Song
+
+### Day & Time: Friday, 10-11:15am
+
+### Room: Ski-U-Mah
 
 SONYA: So how many of you are reporters or editors? Yes? Engineers? No engineers. How about other people?
 

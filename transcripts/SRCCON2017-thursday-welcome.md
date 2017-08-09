@@ -1,7 +1,18 @@
-Welcome to SRCCON 2017!
-Session facilitator(s): OpenNews Staff
-Day & Time: Thursday, 9:30am
-Room: Memorial
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Welcome to SRCCON 2017!
+
+### Session facilitator(s): OpenNews Staff
+
+### Day & Time: Thursday, 9:30am
+
+### Room: Memorial
 
 DAN SINKER: Hello this mic works. That's awesome. I'm Dan and a lot of you had a hard time getting here, so it's amazing how many people are here. If you had a flight delay or cancelation or whatever, raise your hand real quick. Give this folks a big hand.
 

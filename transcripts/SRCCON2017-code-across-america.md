@@ -1,7 +1,18 @@
-Code Across America: Working with local Code for America brigades to find local stories
-Session facilitator(s): Dave Stanton, Ernie Hsiung
-Day & Time: Friday, 4:15-5:30pm
-Room: Ski-U-Mah
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Code Across America: Working with local Code for America brigades to find local stories
+
+### Session facilitator(s): Dave Stanton, Ernie Hsiung
+
+### Day & Time: Friday, 4:15-5:30pm
+
+### Room: Ski-U-Mah
 
 ERNIE: All right. We have one table worth. That's fine.
 

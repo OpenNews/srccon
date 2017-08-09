@@ -1,7 +1,18 @@
-SRCCON 2017 Closing Session
-Session facilitator(s): Erika Owens
-Day & Time: Friday, 5:30pm
-Room: Memorial
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# SRCCON 2017 Closing Session
+
+### Session facilitator(s): Erika Owens
+
+### Day & Time: Friday, 5:30pm
+
+### Room: Memorial
 
 ERIKA: Hello, SRCCON!
 

@@ -1,7 +1,18 @@
-Let’s be better security trainers together
-Session facilitator(s): Amanda Hickman, Matt Perry
-Day & Time: Thursday, 3-4:15pm
-Room: Ski-U-Mah
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Let’s be better security trainers together
+
+### Session facilitator(s): Amanda Hickman, Matt Perry
+
+### Day & Time: Thursday, 3-4:15pm
+
+### Room: Ski-U-Mah
 
 AMANDA: Oh, look. Mike is here. He can help us.
 

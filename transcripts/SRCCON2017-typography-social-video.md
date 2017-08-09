@@ -1,7 +1,18 @@
-Using and Abusing Typography: How Social Video Is Playing Games With Your Heart
-Session facilitator(s): Dolly Li
-Day & Time: Thursday, 11:45am-1pm
-Room: Johnson
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Using and Abusing Typography: How Social Video Is Playing Games With Your Heart
+
+### Session facilitator(s): Dolly Li
+
+### Day & Time: Thursday, 11:45am-1pm
+
+### Room: Johnson
 
 DOLLY: I'm Dolly and I'm at AJ+, and if you don't know what that is, that's the published version of Al Jazeera, and you may or may not have seen it and that's part of what we're going to be talking about today.
 

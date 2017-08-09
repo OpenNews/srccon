@@ -1,7 +1,18 @@
-How do we change our minds anyway?
-Session facilitator(s): Marie Connelly, B Cordelia Yu
-Day & Time: Thursday, 10-11:15am
-Room: Johnson
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# How do we change our minds anyway?
+
+### Session facilitator(s): Marie Connelly, B Cordelia Yu
+
+### Day & Time: Thursday, 10-11:15am
+
+### Room: Johnson
 
 CORDELIA: So before we get started, especially thins this is the first session, I want to bring us into this time and this space. So take a breath. Sort of wind down, feel the earthe beneath your feet. I want to acknowledge that we're on the traditional grounds of the Chippewa Indians and I learned this practice from Native American activists and I want to recognize their elders' current and past. And we want to start this way because part of this conversation is about thinking about the world to shape the way we think, so a lot of them are pretty hidden like the fact that we don't really think that we're on occupied land. So, like, part of what we want to do here is have the conversations that are going to be difficult because we're talking about changing minds. Along those lines, couple of content warnings. We may get into topics of classism, and ableism, and those things. So feel free to take care of what you need to do. Speaking of boundaries, we have the lovely Stanley here transcribing for us. So as they said at the beginning, if you want to say something that you'd rather is off the record, just say off the record and he'll stop, and then say on the record so you can start back up again. And for the friends who are following along on the transcript, if you look at the description of the session, we started prepopulating the etherpad with notes and stuff, so you can follow along there. And... that's all I had for now.
 

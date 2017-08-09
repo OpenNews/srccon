@@ -1,7 +1,18 @@
-Greasing the wheels of inter-newsroom collaboration
-Session facilitator(s): Alan Palazzolo, Andre Natta
-Day & Time: Thursday, 4:45-6pm
-Room: Johnson
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Greasing the wheels of inter-newsroom collaboration
+
+### Session facilitator(s): Alan Palazzolo, Andre Natta
+
+### Day & Time: Thursday, 4:45-6pm
+
+### Room: Johnson
 
 ALAN: Hey, everyone. I think we're going to get started. A few people joining us. And so you're in our newsroom collaboration session. There's another one if you need to talk about this and more next — yet tomorrow?
 

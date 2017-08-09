@@ -1,7 +1,18 @@
-Making climate change personal
-Session facilitator(s): Simon Jockers, Cathy Deng
-Day & Time: Friday, 2:30-3:45pm
-Room: Ski-U-Mah
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Making climate change personal
+
+### Session facilitator(s): Simon Jockers, Cathy Deng
+
+### Day & Time: Friday, 2:30-3:45pm
+
+### Room: Ski-U-Mah
 
 CATHY: Hi, everyone, are you ready to get started? I'm Cathy. I'm currently at the BuzzFeed Open Lab.
 

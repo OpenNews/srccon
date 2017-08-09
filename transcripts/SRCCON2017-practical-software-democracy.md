@@ -1,7 +1,18 @@
-Practical approaches for creating software to cover democracy
-Session facilitator(s): Aaron Williams, Steven Rich
-Day & Time: Thursday, 10-11:15am
-Room: Thomas Swain
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Practical approaches for creating software to cover democracy
+
+### Session facilitator(s): Aaron Williams, Steven Rich
+
+### Day & Time: Thursday, 10-11:15am
+
+### Room: Thomas Swain
 
 AARON: All right, we've got a crew, let's do it. Hello! I'm Aaron.
 

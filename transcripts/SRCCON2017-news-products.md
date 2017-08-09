@@ -1,7 +1,18 @@
-News products: How to design, launch, and iterate something worth paying for
-Session facilitator(s): Matt Kiser, Kelsey Scherer
-Day & Time: Thursday, 11:45am-1pm
-Room: Thomas Swain
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# News products: How to design, launch, and iterate something worth paying for
+
+### Session facilitator(s): Matt Kiser, Kelsey Scherer
+
+### Day & Time: Thursday, 11:45am-1pm
+
+### Room: Thomas Swain
 
 MATT:  All right, I think let's get started here. We've got a lot in store for you. We're going to do this -- try to get this slide to change ... Of course it's not changing yet ... so we are going to have a quick agenda here. We're going to go through a case study and then we're going to do an exercise around brainstorming exercise, and then a quick share with the group and get you guys out of here to your next session. So I'm Matt, I run a website called WTF Just Happened Today. It tracks the happenings in the White House, and it's a weird new job for me, because I used to work as a product manager at places like business insider and Forbes and now I work for myself as a journalist and long story short, I quit journalism a long time ago to be a product manager and now it's full circle. And this is Kelsey.
 

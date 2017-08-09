@@ -1,7 +1,18 @@
-Teachers’ Lounge: Talking Tips and Strategies for Effective Teaching to Groups
-Session facilitator(s): Lisa Waananen Jones, Amy Kovac-Ashley
-Day & Time: Friday, 11:45am-1pm
-Room: Ski-U-Mah
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Teachers’ Lounge: Talking Tips and Strategies for Effective Teaching to Groups
+
+### Session facilitator(s): Lisa Waananen Jones, Amy Kovac-Ashley
+
+### Day & Time: Friday, 11:45am-1pm
+
+### Room: Ski-U-Mah
 
 AMY: Hi, everyone. Welcome to the teachers lounge. We're going to go ahead and get started.
 

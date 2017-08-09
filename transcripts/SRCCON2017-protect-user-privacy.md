@@ -1,7 +1,18 @@
-How do we protect our users’ privacy?
-Session facilitator(s): Ian Carrico, Lo Bénichou
-Day & Time: Thursday, 4:45-6pm
-Room: Thomas Swain
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# How do we protect our users’ privacy?
+
+### Session facilitator(s): Ian Carrico, Lo Bénichou
+
+### Day & Time: Thursday, 4:45-6pm
+
+### Room: Thomas Swain
 
 IAN: What time is this session supposed to start?
 

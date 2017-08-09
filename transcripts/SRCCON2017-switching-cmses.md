@@ -1,7 +1,18 @@
-Switching CMSes
-Session facilitator(s): Liam Andrew, Pattie Reaves
-Day & Time: Friday, 11:45am-1pm
-Room: Thomas Swain
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# Switching CMSes
+
+### Session facilitator(s): Liam Andrew, Pattie Reaves
+
+### Day & Time: Friday, 11:45am-1pm
+
+### Room: Thomas Swain
 
 LIAM: Hello, everyone, thanks for coming to Switching CMSes. I think we all probably have some stories about switching CMSes, so we want to get into them. This might turn into more of a cry session.
 

@@ -1,7 +1,18 @@
-new sNerdFluxkit (2017): inspiration and provocations for people who make interactives
-Session facilitator(s): Scott Blumenthal, Britt Binler
-Day & Time: Friday, 10-11:15am
-Room: Johnson
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# new sNerdFluxkit (2017): inspiration and provocations for people who make interactives
+
+### Session facilitator(s): Scott Blumenthal, Britt Binler
+
+### Day & Time: Friday, 10-11:15am
+
+### Room: Johnson
 
 SCOTT: So, um, so this is the new sNerdFluxkit 2017. Thanks everybody for coming out. I'm Scott. There's a slide for this. We have a slide for everything! So I'm Scott Blumenthal and I'm the deputy editor at the New York Times.
 

@@ -1,7 +1,18 @@
-This just in… You can plan for breaking news
-Session facilitator(s): Chris Keller, Sara Simon
-Day & Time: Friday, 2:30-3:45pm
-Room: Johnson
+---
+layout: 2015_layout
+title: Session Transcripts
+subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
+section: docs
+sub-section: interior
+background: remote
+---
+# This just in… You can plan for breaking news
+
+### Session facilitator(s): Chris Keller, Sara Simon
+
+### Day & Time: Friday, 2:30-3:45pm
+
+### Room: Johnson
 
 CHRIS: We'll give a couple of minutes for people to make the right decision and come to our session. I'm dangerous with the microphone. Anybody wanna karaoke? Where is Greg? You should bring him down here! Welcome everyone to the post-lunch session where news will break, or we'll all just be prepared for when it does break. My name is Chris Keller
 
