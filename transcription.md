@@ -12,13 +12,13 @@ It's important to us to keep SRCCON small enough to feel friendly and conversati
 
 ## Transcription
 
-Our live-captioning team will transcribe 25 sessions at SRCCON this year. Live streams will be available during these sessions, and links to the archives will remain below. If you'd like to get a reminder and a link to the live transcript as these sessions get ready to begin, you can [add the "SRCCON Transcript Alerts" bot](/slackbot/) to your team's Slack.
+Our live-captioning team transcribed about half the sessions at SRCCON this year. Live streams were available during these sessions, and links to the cleaned-up archives appear below.
 
 <div>
     <h3>Thursday sessions</h3>
     <table>{% assign thursday = site.data.schedule | where:"day","Thursday" %}
 {% for session in thursday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="http://aloft.nu/srccon/2017-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="/transcripts/SRCCON2017-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
@@ -27,7 +27,7 @@ Our live-captioning team will transcribe 25 sessions at SRCCON this year. Live s
     <h3>Friday sessions</h3>
     <table>{% assign friday = site.data.schedule | where:"day","Friday" %}
 {% for session in friday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="http://aloft.nu/srccon/2017-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="/transcripts/SRCCON2017-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
