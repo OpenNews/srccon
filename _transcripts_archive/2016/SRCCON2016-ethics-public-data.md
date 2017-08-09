@@ -1,18 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# You're The Reason My Name Is On Google: The Ethics Of Publishing Public Data.
-
-### Session facilitator(s): Ryan Murphy
-
-### Day & Time: Thursday, 10:30-11:30am
-
-### Room: Classroom 305 
+You're The Reason My Name Is On Google: The Ethics Of Publishing Public Data
+Session facilitator(s): Ryan Murphy
+Day & Time: Thursday, 10:30-11:30am
+Room: Classroom 305 
 
 PARTICIPANT: Okay.  Sorry about that.  We had to figure out the projector.
 

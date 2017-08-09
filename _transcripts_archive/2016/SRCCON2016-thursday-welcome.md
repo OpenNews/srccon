@@ -1,17 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# Welcome to SRCCON 2016!
-
-### Day & Time: Thursday, 9:45am
-
-### Room: Commons
-
+Welcome to SRCCON 2016!
+Session facilitator(s): OpenNews Staff
+Day & Time: Thursday, 9:45am
+Room: Commons
 
 DAN: Hello! This is very low. Yes, I do. Hey, everyone. I'm Dan. And welcome to Portland, and welcome to SRCCON!
 

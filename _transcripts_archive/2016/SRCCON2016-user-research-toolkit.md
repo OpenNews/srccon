@@ -1,18 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# Let's build a user research toolkit
-
-### Session facilitator(s): Emily Goligoski, Andrew Losowosky
-
-### Day & Time: Thursday, 4-5pm
-
-### Room: Innovation Studio 
+Let's build a user research toolkit
+Session facilitator(s): Emily Goligoski, Andrew Losowosky
+Day & Time: Thursday, 4-5pm
+Room: Innovation Studio 
 
 Andrew: Hello! , hello, hello, welcome to the session on hungry for audience insights? Hello, I'm Andrew L and I'm Emily. If you can't hear, it's because we have a microphone, if you can't hear us we should definitely use it, so just raise your hand if you can't hear it and say a thing and we will do that while we're talking about  voices and amplification, SRCCON is  per experimenting if with some sessions and recording some of them. If anyone is uncomfortable with that, just raise your hand and we'll switch it off. If that changes during the session, just let us  know, that is totally fine and I think do we have a transcriber in this session?
 

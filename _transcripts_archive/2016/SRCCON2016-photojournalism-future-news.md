@@ -1,18 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# Where does photojournalism fit in the future of news?
-
-### Session facilitator(s): Neil Bedi
-
-### Day & Time: Friday, 12-1pm
-
-### Room: Classroom 305 
+Where does photojournalism fit in the future of news?
+Session facilitator(s): Neil Bedi
+Day & Time: Friday, 12-1pm
+Room: Classroom 305 
 
 NEIL:  It looks like we're going to have a tiny group, so everyone can --
 Hi, everyone, I'm Neil.  I'm a technologist, but I first got into photojournalism through journalism.  I was first a photojournalist.  And because of that I have a lot of close friends that are photojournalists.  So on a regular basis, I know how tough it is to be a photojournalist right now.  Not a lot of people are hiring, most people are firing.  It's not a good place.

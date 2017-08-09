@@ -1,18 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# The good and bad of newsroom on-boarding processes (and how can we make them better)
-
-### Session facilitator(s): Sandhya Kambhampati
-
-### Day & Time: Thursday, 2:30-3:30pm
-
-### Room: Classroom 305 
+The good and bad of newsroom on-boarding processes (and how can we make them better)
+Session facilitator(s): Sandhya Kambhampati
+Day & Time: Thursday, 2:30-3:30pm
+Room: Classroom 305 
 
 PARTICIPANT: I think I'm going to get started just because I want to talk about on boarding and offboarding.  If people trickle in, they can come in and take a seat at the tables or whatever.
 

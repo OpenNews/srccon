@@ -1,18 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# How can teams build a consistent culture of documentation?
-
-### Session facilitator(s): Kelsey Scherer, Lauren Rabaino
-
-### Day & Time: Friday, 4-5pm
-
-### Room: Innovation Studio 
+How can teams build a consistent culture of documentation?
+Session facilitator(s): Kelsey Scherer, Lauren Rabaino
+Day & Time: Friday, 4-5pm
+Room: Innovation Studio 
 
 Lauren: If you all end up being the only people here, you're all going to have to group together, to do one group activity:
 

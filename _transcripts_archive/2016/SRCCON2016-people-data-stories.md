@@ -1,19 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# Keeping people at the forefront of data stories
-
-### Session facilitator(s): William Wolfe-Wylie
-
-### Day & Time: Friday, 12-1pm
-
-### Room: Boardroom
-
+Keeping people at the forefront of data stories
+Session facilitator(s): William Wolfe-Wylie
+Day & Time: Friday, 12-1pm
+Room: Boardroom
 
 WILLIAM: Just in case you're arriving, there's a link up on the screen, and open to etherpad, and there's a pile of videos in there. And if you sign up for one, at last part of the interactive part of this. If you're without a device, they work on mobile devices but if you don't have any electronic devices, you can pair up, sign up for two profiles and then you can have lots of fun together.
 

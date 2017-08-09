@@ -1,20 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# How can we peer review our data stories?
-
-### Session facilitator(s): Ariana Giorgi, Christine Zhang
-
-### Day & Time: Thursday, 12-1pm
-
-### Room: Boardroom
-
-
+How can we peer review our data stories?
+Session facilitator(s): Ariana Giorgi, Christine Zhang
+Day & Time: Thursday, 12-1pm
+Room: Boardroom
 
 ARIANA: Okay. If everyone could start to take their seats. If we get get your attention. Hello. Thank you, Justin. Okay, so I'm Ariana Giorgi, and I'm a computational journalist at the Dallas Morning News. And I work on visualizations and, also, analysis Christine?
 

@@ -1,18 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# Why your bot is nothing without a human 
-
-### Session facilitator(s): Millie Tran, Stacy-Marie Ishmael
-
-### Day & Time: Friday, 10:30-11:30am
-
-### Room: Innovation Studio 
+Why your bot is nothing without a human 
+Session facilitator(s): Millie Tran, Stacy-Marie Ishmael
+Day & Time: Friday, 10:30-11:30am
+Room: Innovation Studio 
 
 PARTICIPANT: Hello! It is 10:30 and we're starting on time, very robotically. So my name is Stacey Marie Ishmael, Millie Tran, and that's. We are going to talk to you today about. We have about seven different titles to this presentation. It's why your bot is nothing without a human. Your bots are bad, stop building them. Which should give you some sense of where we're going with thi me mostly. What we're hoping to achieve is that by the end of this, you'll have a better understanding of what are some of the things that we, particularly we in the newsroom sense, are doing when we're writing and creating bots that are driving our audiences insane and how we can stop doing that and create better user experiences with them. We would like this to be as interactive as possible, because none of us like talking at people, so if you have questions in between, yell them, you know, we'll listen. All  right, let us begin.
 

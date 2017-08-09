@@ -1,18 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# Break Down that Wall: Why Editorial and Audience Development Need to Work Together.
-
-### Session facilitator(s): Sarah Moughty, Pamela Johnston
-
-### Day & Time: Friday, 10:30-11:30am
-
-### Room: Classroom 305 
+Break Down that Wall: Why Editorial and Audience Development Need to Work Together
+Session facilitator(s): Sarah Moughty, Pamela Johnston
+Day & Time: Friday, 10:30-11:30am
+Room: Classroom 305 
 
 PAMELA:  Can you guys see back there?  It's a tough room.  If you want to be closer, feel free.
 

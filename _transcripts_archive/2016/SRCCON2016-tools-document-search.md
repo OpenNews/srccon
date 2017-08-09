@@ -1,18 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# Tools to securely search millions of documents remotely and across borders
-
-### Session facilitator(s): Miguel Fiandor
-
-### Day & Time: Thursday, 4-5pm
-
-### Room: Classroom 310 
+Tools to securely search millions of documents remotely and across borders
+Session facilitator(s): Miguel Fiandor
+Day & Time: Thursday, 4-5pm
+Room: Classroom 310 
 
 MIGUEL: Okay. Let's start. I'll leave this open. Somehow if someone wants to come in. Sorry. I wasn't watching the time. Okay. So I'm Miguel Fiandor and I'm a data apps developer at ICIJ. And I'm going to show you what are the tools we have been using, some of them, how has the communication been for the Panama Papers, how is the thing working, and how is the link a little bit, and I prepared two posts that it would be nice if you could answer, so we see the opinion about us. We discuss about it. And if we have time at the end, I'll show you some data, and stuff we use, and I also prepared a fake leak of data so we can simulate what you would do if you receive some kind of leak, similar, and what kind of things we can start doing with it.
 

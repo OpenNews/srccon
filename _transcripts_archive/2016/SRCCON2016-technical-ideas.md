@@ -1,18 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# How do we convey technical ideas without dumbing things down? AKA Making Effective Data Visualizations
-
-### Session facilitator(s): Bo Peng
-
-### Day & Time: Thursday, 10:30-11:30am
-
-### Room: Boardroom
+How do we convey technical ideas without dumbing things down? AKA Making Effective Data Visualizations
+Session facilitator(s): Bo Peng
+Day & Time: Thursday, 10:30-11:30am
+Room: Boardroom
 
 BO: Does everyone have, like, markers? There's not enough paper. Welcome. Welcome to SRCCON. How many of you, is it your first time here at SRCCON? How many of you, is it not your first time here? Okay. Cool. Then you guys are actually—this is my first time at SRCCON. One of my former coworkers, raved about the very first time she came here. And so I just, like, had to get in here. And she's hero, too, somewhere. Lori, if you see here. Well, with, to your very first session, and also my very first session. So I'm, like, a little bit nervous. Today, we're going to be talking about data visualizations in the context of journalism, but also I found. So I'm not a journalist; I'm a data science consultant. But I think a lot of the key ideas overlap, and so, I want to share, with you some of the things that I've learned, making data visualizations for my clients, but also, in respecting the one over in time talking, you know, in a room, I want to make sure that everybody has a chance to speak up, and draw their own data visualizations, or pretend data visualizations and make sure that everyone learns from each other, because I just as much want to learn from you, as you might want to learn from each other, around this stuff.
 

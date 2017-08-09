@@ -1,18 +1,7 @@
----
-layout: 2015_layout
-title: Session Transcripts
-subtitle: A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.
-section: docs
-sub-section: interior
-background: remote
----
-# Every day I'm juggling: Managing managers, peer expectation, and your own project ideas 
-
-### Session facilitator(s): Gina Boysun, Justin Myers
-
-### Day & Time: Friday, 12-1pm
-
-### Room: Innovation Studio 
+Every day I'm juggling: Managing managers, peer expectation, and your own project ideas 
+Session facilitator(s): Gina Boysun, Justin Myers
+Day & Time: Friday, 12-1pm
+Room: Innovation Studio 
 
 Gina. We'll wait just a couple of minutes to see if there's any stragglers, but then we'll get going right away. My name is Jonah Boysun I'm an online editor i  Spokane, I'm a manager of a team of a couple of news dev and a couple of producers, and I have a boss right now who knows nothing about tech and I have some peers who know a lot about tech and I have some reporterrers who know not very much so kind of how this bubbled up for me is ideas for how we can pitch ideas, help people to learn, how to help our bosses be advocates for us up the chain and it's nice in this room that most of us are that already. We're all tech and we know what we're doing, so it's kind of nice to be among my people, but really back at home, we're special unicorns in a department full of people who do journalism. Maybe know a little bit of tech. There's a whole spectrum of ability. And so what we're going to talk about today is some strategies and I am we're going to break up into small groups, too, but some strategies for how you can most effectively tell stories, set expectations for projects, how to fail successfully when you have made a mistake and learn from that, and so I'll hand it off to Justin and he'll talk a little bit and we'll go from there.
 
