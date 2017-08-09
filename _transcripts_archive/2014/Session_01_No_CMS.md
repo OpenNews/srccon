@@ -1,16 +1,7 @@
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.
-
-Captioning by the wonderful people of White Coat Captioning, LLC
-whitecoatcaptioning.com
-
-
-
-SRCCON 2014
-Session 1 7-24-14, 1100-1200
-Franklin 2
-"There is no CMS"
-Session leader(s): Matt Boggie and Alexis Lloyd
---
+There is no CMS
+Session facilitator(s): Matt Boggie, Alexis Lloyd
+Day & Time: Thursday, 11am-12pm
+Room: Franklin 2
 
 >> Hi, everyone.  Good morning.  Hi, everybody.  We're going to start.
 >> Hello!

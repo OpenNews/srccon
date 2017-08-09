@@ -1,12 +1,7 @@
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.
-
-Captioning by the wonderful people of White Coat Captioning, LLC
-whitecoatcaptioning.com
-
-
-7/25/14 
-Session 30 - Making things happen with small teams
-Session Leader: Kaeti Hinck
+Making things happen with small teams
+Session facilitator(s): Kaeti Hinck
+Day & Time: Friday, 3-4pm
+Room: Franklin 1
 
 >>  All right, guys, let's get started.
 >> Hi, everyone ... ... OK, thanks for coming.  I'm Kaeti Hinck, if you don't know me, I work at MinnPost, and we are a small team, and one of the reasons I wanted to have this conversation with you, is just the collective wisdom of other people who are working on small teams and smaller organizations can really be of benefit to each other, so to start, I just want to quickly go around, just say your name, where you're working, where you're from, and just one sentence about something that you're hoping to get out of this session.  And if that makes you really nervous, you don't have to do that, you can just say your name, where you're from.

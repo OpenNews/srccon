@@ -1,13 +1,7 @@
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.
-
-Captioning by the wonderful people of White Coat Captioning, LLC
-whitecoatcaptioning.com
-
-
-7/25/14.
-Session 21 - Toward web-native storytelling!
-Session Leaders: Claire O'Neill and Tyler Fisher
-
+Toward web-native storytelling!
+Session facilitator(s): Claire O'Neill, Tyler Fisher
+Day & Time: Friday, 11am-12pm
+Room: Franklin 1
 
 >>Morning, everyone:  So this session was originally called "Cool data bro', but what's the story?" and that seemed kind of mean, so I changed it to web storytelling, whatever that means.  So I guess we can introduce ourselves first.  What we're thinking of doing is we'll introduce ourselves, we'll talk a little bit about our team, and we can sort of talk about a project you did, but then we thought it might be interesting to sort of talk about our design exercise, basically the exercise we do and then break into groups and do that design exercise for a story.  
 

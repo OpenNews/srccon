@@ -5,7 +5,7 @@ whitecoatcaptioning.com
 
 
 
-7/24/14
+Thursday
 Session 3 -- Who are we missing? 
 Session Leader: Mandy Brown
 

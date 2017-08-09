@@ -4,7 +4,7 @@ Captioning by the wonderful people of White Coat Captioning, LLC
 whitecoatcaptioning.com
 
 
-7/24/14, Session 8:  
+Thursday, Session 8:  
 
 Hitchhiker's Guide to Datasets
 Session Leader: Ryan Pitts

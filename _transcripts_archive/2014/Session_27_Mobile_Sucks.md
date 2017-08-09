@@ -1,12 +1,7 @@
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.
-
-Captioning by the wonderful people of White Coat Captioning, LLC
-whitecoatcaptioning.com
-
-
-7/25/14
-Session 27, Mobile sucks!
-Session Leader: Alastair Coote
+Mobile is the future / mobile sucks / the future sucks
+Session facilitator(s): Alastair Coote
+Day & Time: Friday, 4:30-5:30pm
+Room: Franklin 1
 
 OK, so we're round about 4:30, so we might as well start.  See if anybody comes in a couple of minutes late.  So hi, my name is Alastair Coote. I am a developer at the New York Times.  I work on the interactive news team, often working with mobile, so I've spent way too much of my time staring at these stupid devices.  And mobile is great in many ways, the things that we can do now, sort of everyone has our content in their pocket, that's fantastic, but the real truth is that actually developing for mobile is awful.  It sucks.  All the different devices, all the different browsers on those devices for a minute it felt like we had desktop browsers sorted out, even IE was relatively OK, and then suddenly we're thrown back into this wild west where everything is awful, so I thought we could come together in a sort of group therapy style and we could talk out our problems and hopefully those people in the room with questions and there will be some other people in the room with answers to these questions, even if we haven't gotten answers maybe we can demystify things a little bit.  I don't know, we'll see.  
 

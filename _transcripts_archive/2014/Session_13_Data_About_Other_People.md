@@ -4,7 +4,7 @@ Captioning by the wonderful people of White Coat Captioning, LLC
 whitecoatcaptioning.com
 
 
-7/24/14
+Thursday
 Session 13 - Sartre was wrong - Hell is data about other people
 Session Leader Derek Willis.
 

@@ -1,15 +1,7 @@
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.
-
-Captioning by the wonderful people of White Coat Captioning, LLC
-whitecoatcaptioning.com
-
-
-SRCCON 2014
-Session 9 7-24-14, 1230-1330
-Garden 1
-"Using web type: pitfalls and workarounds"
-Session leader(s): Allen Tan
---
+Using web type: pitfalls and workarounds
+Session facilitator(s): Allen Tan
+Day & Time: Thursday, 12:30-1:30pm
+Room: Garden 1
 
 >> Okay, so I guess we can start unless people are still coming in.  Can you close the door?  Cool.  I didn't expect so many people to come.  So this is awesome.  So, I'm Allen.  I work in Digital Design for the New York Times and one of the biggest things that we did in the redesign over the past year was we migrated all of our fonts that we were using in print and putting that online and we were -- we had for years, been using them in a couple of small places but this was kind of the first time that we deployed it site-wide.  And it seemed like from seeing a lot of new sites redesigning in the past year or two, everyone has been shifting to web fonts.  So I guess it would be good to just sort of talk about, you know?  Have people worked with them before?  Are there problems that you've run into.  Are there things that you wish that you can do that you can't do now?  So I guess, first of all who works at a place whose website uses web fonts?  So... good.  Good proportion.  Does everyone use Typekit?  Do they use Fontdeck?  Webtype.
 >> Font kit.

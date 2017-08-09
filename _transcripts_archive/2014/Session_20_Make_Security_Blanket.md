@@ -1,14 +1,7 @@
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.
-
-Captioning by the wonderful people of White Coat Captioning, LLC
-whitecoatcaptioning.com
-
-SRCCON 2014
-Session 20   7-25-14, 1100-1200
-Franklin 2
-"Make your own security blanket"
-Session leader(s): Jeff Larson
---
+Make your own security blanket
+Session facilitator(s): Jeff Larson
+Day & Time: Friday, 11am-12pm
+Room: Franklin 2
 
 JEFF:  So I'm Jeff Larson, I work with ProPublica.  I have been living in -- let's just say -- sort of a high-security lifestyle for a year now.  Last June, a bunch of very nice British gentlemen came to our offices and asked us if we wanted to work on the Snowden story to which I freaked out because I didn't know how to communicate securely.  About two months before that, my boss and I spent a week setting up PGPT keys.  And funny story.  Klein, who's my boss, he has two PGPT keys because he forgot the password to the first one.  He is the smartest guy in the whole entire world.  Like, he knows Perl.  So he has a PGP, and he also forgot to generate a revocation certificate which is a thing that you have to do to take down a key.  So now, he has a permanent key that he can't use.  And a lot of people email him.  So I want to talk about that situation, right?
 

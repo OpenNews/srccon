@@ -1,15 +1,7 @@
-This is a DRAFT TRANSCRIPT from a live session at SRCCON 2014. This transcript should be considered provisional, and if you were in attendance (or spot an obvious error) we'd love your help fixing it. More information on SRCCON is available at http://srccon.org.
-
-Captioning by the wonderful people of White Coat Captioning, LLC
-whitecoatcaptioning.com
-
-
-SRCCON 2014
-Session 26 7-25-14, 1230-1330
-Franklin 2
-"How to diversify the pipeline of journo-coders"
-Session leader(s): Emma Carew Grovum and Latoya Peterson
---
+How to diversify the pipeline of journo-coders
+Session facilitator(s): Emma Carew Grovum, Latoya Peterson
+Day & Time: Friday, 12:30-1:30pm
+Room: Franklin 2
 
 LATOYA:  All right.  Welcome, how are you?
 >> Great.
