@@ -1,0 +1,387 @@
+Are you Hamilton or Burr? How to benignly manipulate the people around you
+Session facilitator(s): Hannah Birch
+Day & Time: Thursday, 10-11:15am
+Room: Ski-U-Mah
+
+HANNAH: Good morning. Welcome to SRCCON. Do we have anybody from the northeast? I'm really glad that you're here. I'm glad that you made it.
+
+>> It wasn't that bad, compared to what other people --
+
+HANNAH: Excellent. Okay. My name is Hannah Birch, I am the lead producer in New York, so I spend a lot of my time bringing -- can everybody hear me okay? Is this a good volume? If you can't hear me, let me know, and I'll project or bring in a mic.
+
+So, yeah, I'm the lead producer at Propublica, I'm a huge Hamilton fan.
+
+Get more out of your workday with interactions of people, so I'm super stoked to be doing this. My contact information is right here. Feel free to get in touch. I would love to hear from you Hamilton things or otherwise. A few other housekeeping things. This is totally a discussion, so if you have something that you want to chat about, just, like, raise your hand. This is definitely not me, like, monologuing for an hour. And I think that's pretty much it. So I'm just going to start by getting a read of the room, see how familiar people are with Hamilton. Raise your hand if you've listened to Hamilton. Not a programming language. We're talking about the Broadway show.
+
+Okay. So raise your hand if you have listened to the soundtrack at least once. Excellent. Is that everyone? Almost everyone. Great. Raise your hand if you have listened to the soundtrack enough times to obnoxiously sing it with your friends. Great. Me too. Raise your hand if you have listened to it so many times that you know all of the lyrics to Lafayette's rap in guns and ships.
+
+Okay. That doesn't surprise me. I've listened to it, and I still get lost.
+
+So if you're here and want to participate, totally, totally fine. We're going to split up in groups in a little bit, and I'll make sure that people are more familiar, don't want anyone sort of sitting in a corner feeling lost and confused. We have enough of that in the world right now.
+
+If you see me looking at my phone, I swear I'm not checking Twitter. I have notes. I don't want want to forget anything important, and I want to keep track of time. Oh, and if you happen take photos of the session, which I totally encourage you to do, I'm going to be writing about it after the conference. And if you could share those photos on SRCCON hashtag, that would be super helpful.
+
+Okay. So let me just kind of set the stage by summarizing the show, probably kind of know a little bit of this already. So we have Alexander Hamilton; right? He's a founder father, probably the least famous founding father before this whole show happened. Super smart guy; right? He was the first treasury secretary under our first president, George Washington. He's the guy on the $10 bill.
+
+So his contemporary was Aaron Burr, also very smart and very ambitious. Very different from Hamilton in some ways, but he was a lawyer, he ended up being a senator and vice president, eventually. So he and Hamilton spent their entire careers as rivals. They were bugged heads constantly; right? Up until the end. So if you don't know how the show ends, maybe plug your ears right now. Spoiler alert.
+
+Burr ended up killing Hamilton in a dual in 1804, and that's how the show ends. Take your fingers out of your ears if you were worried about spoilers.
+
+So big crux of the show is this personality difference between Hamilton and Burr right you have Hamilton, he's super hot headed and emotional. He has this reputation for having a really hot temper, and he was completely relentless. 100% totally got it, like, remedial. And then Burr, who like Hamilton like I said very smart, very ambitious, but he had a different style. So he was more willing to wait back and let for his moment to maneuver in the situation and get what he wanted. Hamilton was literally stealing canons from the British during the Revolutionary War. Burr was waiting for the right moment for him to change political parties.
+
+So that's what we're going to kind of focus on because, you know, we all the work in newsrooms or something similar to newsrooms; right? And they're super social places. You work with, you know, people, probably a lot of people, probably people with personalities different from yours, maybe people who have kind of extreme personalities sometimes, and that can be really challenging. A lot of stuff that can come up that is not exactly journalism work; right? But I certainly know the feeling of feeling like the inner personal stuff is more difficult to deal with on a day-to-day basis than just, like, sitting down and doing the work itself.
+
+So that's what we're going to talk about here. I'm going to give you a quick rundown on how we're going to spend the next 70 minutes or so. I've been talking for about five minutes. Just so you know where we are in space. We're going to stay as a big group for a little bit and talk about the personality differences between Hamilton and Burr in a little bit more detail. And then we are going to talk about challenging situations we found in newsrooms with kind of the emphasis on the social and personal and stuff.
+
+And then we'll break into groups and brainstorm in groups some solutions to those problems. Or maybe just approaches if there's not an obvious solution. And then we will sort those solutions into our Hamilton and or Burr categories here. And you'll use that process to determine if your group is more Hamilton or Burr or somewhere in between. And then we'll come back together as a big group and discuss.
+
+So markers are here.
+
+Why don't we start with defining some of the more specific character traits that Hamilton has.
+
+So I through out he's hotheaded. Impulsive, what else can we say?
+
+>> Ambitious.
+
+What else?
+
+>> Unapologetic.
+
+>> That's a good one. That's really good.
+
+The word relentless up there.
+
+>> Opinionated.
+
+>> Very opinionated.
+
+>> Confident.
+
+>> Good. That's great. Anything else come to mind?
+
+>> Calculating.
+
+>> That's pretty good.
+
+>> Okay. Does that feel like a pretty good list? Okay. Cool. Move over to Burr here. That's the wrong color. That's the right color.
+
+So we also said that Burr was calculating. That's interesting. We have the similarities between them as well.
+
+All right. What else about Burr?
+
+>> Patient.
+
+>> Patient. Super patient. Wait for it; right?
+
+>> Opportunistic.
+
+>> Opportunistic. Really good point. What else?
+
+>> He has a season. He's experienced.
+
+>> Experienced. Yeah, I like that. He's got kind of a good sense of the world and how it works already.
+
+What else?
+
+>> He's also ambitious.
+
+>> Cautious.
+
+>> Cautious. I think that makes sense. What's kind of fun of the show too is seeing the evolution in act two where he suddenly realizes or decides to try things Hamilton's way and see what happens. I think that's an interesting turn that his character takes.
+
+Anything else we want to add to Burr?
+
+>> He's very jealous.
+
+>> He is very jealous. Yeah. That's an excellent point.
+
+>> Does entitled work? I feel like he belongs higher up than he is.
+
+>> Yeah.
+
+>> I feel like there's a specific word for that. I think entitled works. Let me jot that down. He's kind of always hustling.
+
+Okay. I feel like these are pretty complete.
+
+>> With Hamilton, I might put in the word scrappy as opposed to seasoned.
+
+>> Yeah. That's a good counter point because he came up from a very different background. Excellent.
+
+Okay. Let's change gears a little bit. We can add to these two if something pops in your brain. We can move over to some of the challenging situations here. So I can try a couple of these so we can know what vein we're talking about. I'm going to say things, like -- oh, I'm going to number these also because we're going to use these when we're in groups. So don't let me forget if I stop doing that.
+
+I'm going to say, you know, want people to stop interrupting you. Maybe you're at your desk working, people come up to you a lot or in a meeting, and you get interrupted.
+
+Maybe you need something from someone on a deadline, and they're not paying attention. And it maybe hard if the person outranks you or operating on a different level of detail than you do.
+
+I'm going to say needing something. from someone on a deadline.
+
+Can you think of other examples? Some other sort of challenging situations?
+
+>> When you step on someone else's tows like core competences. Like you do someone else's job.
+
+>> Is it so -- just so I'm clear. Feeling like you have the skills, and you need to help, like, sort of work with someone who doesn't.
+
+>> Maybe the person that has them is busy or whatever, so you do them yourself. And then they take offense to it.
+
+>> Got it so, like, doing things that are not exactly your job, but you're capable of.
+
+>> Overstepping.
+
+>> Overstepping. Okay. All right. That makes sense.
+
+>> Or by contrast maybe being overstepped on.
+
+>> Uh-huh. >> What else?
+
+>> Being caught between two different managers. Maybe someone is your manager. But there's another person who is a manager at the same level of your manager.
+
+>> Uh-huh. Puts you in a bad position.
+
+>> Totally. What else?
+
+>> People asking for something that you've already been told is never going to happen.
+
+>> I see. So are you thinking --
+
+>> It could be a product feature. It could be a, you know, part of the story. It could be anything.
+
+>> Can you say that one more time?
+
+>> People asking for something that you already know is never going to happen. That's a good one. What else?
+
+>> Someone pitches an idea or presentation, and you think it's terrible.
+
+>> And, like, how to react to that?
+
+>> Yeah. What to do.
+
+>> All right. Test.
+
+>> Good one. What else?
+
+>> Figuring out how to say "no" to an idea that's maybe good, but you don't have time for.
+
+>> Okay. Yeah. That's a tricky one.
+
+>> What about someone taking credit for your ideas?
+
+>> That's a great one.
+
+>> These are incredible, by the way. If you have a chance to go in another room. Enormous Post-It notes. Really, really fun.
+
+All right. So you said someone taking credit for your work.
+
+>> Yes. Or your ideas.
+
+>> Or your ideas.
+
+What else? This is a pretty good list.
+
+>> Trying to get stakeholders to keep their eye on the big picture or stay on the big picture.
+
+>> Uh-huh. That's a good one.
+
+>> Okay. Anything else anyone wants to add?
+
+>> Being avoided.
+
+>> Being avoided. That's great. I mean, terrible. But. Good idea.
+
+>> Oh, this happens to me a lot. Several people ask me for things at the same time. Being on a deadline for multiple people and understanding why you can't prioritize.
+
+Okay. Anything else we want to add here? In the back? Is that a hand?
+
+>> No.
+
+>> Just a scratch.
+
+>> It was just a scratch.
+
+>> Why don't we leave it here for now. We can always add to things if stuff pops in your head as we're having conversations.
+Okay. So this is the point that we're going to break into groups. I'm going to give you instruction on how to do that and volume level increases, probably.
+
+So what we're going to do in our groups is write down on Post-It notes solutions or approaches to each -- even some of these problems. You don't have to get to all of them. If you have multiple approaches per problem, you can always write down multiple ideas. Just keep it to one idea per Post-It note. Also, include the number of problem that you're addressing here, so we know, basically, which solution goes with which problem.
+
+Those are the Post-Its that we're going to sort into our Hamilton versus Burr approaches. Also I will have a sheet for the in between category. Because I'm totally aware that some of these things are not binary at all.
+
+Let's see. So we'll plan on spending half an hour on this session. Make sure I'm not missing anything here.
+
+No, I think we're good. Does anyone have any questions about that?
+
+>> Do you want approaches that we think are good, productive approaches, or just, like, an approach?
+
+>> That's a great question. I'm open to anything.
+
+>> Okay.
+
+>> Sometimes it can be really fun to think of super, extreme version of just going in guns blazing. Recognizing that that's probably not something that you would actually do in real life. But sometimes recognizing extremes can help you sort of find the better middle ground.
+
+>> But the goal is to come up with workable.
+
+>> Honestly, the goal of all of this is for you guys to go back to your newsrooms and feel like when these challenges come up -- because this is really tough stuff, and it can be emotionally degrading and tiring. When one of these situations comes up, you can think about it in a productive way and figure out that you have difficult things, instead of feeling small and powerless and like you don't know what to do. So whatever you do that helps you get there is okay with me.
+
+This is a great room for this exercise because we have these nice, small tables.
+
+Why don't we shoot for groups of maybe three or four people. And do me a favor. Folks who are super familiar with Hamilton, can you raise your hands with me? It seemed moth people were, at least familiar enough to have this conversation. But I want to make sure everyone who is less familiar, so our knowledge is evenly distributed.
+
+So find two or three other people, break up into groups. I'm going to go over here and grab Post-Its and walk those around to your groups.
+
+Is there a Hamilton expert that wouldn't mind swapping into this group?
+
+>> We can swap.
+
+>> You wouldn't mind?
+
+>> Do you want to -- do some of you want to swap over here?
+
+>> Just a reminder, we have about ten more minutes.
+
+>> Okay. Folks, we're about 20 minutes through this session. Take about five minutes or so, and after that five minutes, I'm going to send you up here. How is everybody doing? Any more questions? Great. Go for it. [Group Discussion]
+
+>> Okay. We have about ten minutes left. We're going to get to our discussion here.
+
+Great. We're done. Congrats. Excellent job, everyone.
+
+So this is interesting. I did not know how this was going to shake up. If Burr was the way to go or if Hamilton was more popular or this in between space.
+
+So did you guys land on Hamilton versus Burr as a group? Like, are you more team Hamilton or more team bur Baton Rouge? Or was it a mix of two or three? Like, Burr, Hamilton, and then our Peggy group?
+
+More of a mix? How about you guys?
+
+Yeah, everyone is kind of -- who had the darker blue Post-Its? That was you guys, because I think you have the most in the in between category.
+
+>> We had a lot of things, like, being kind or listening.
+
+>> Yeah. We had equal numbers but, like, many of the Hamilton ones are not advisable.
+
+[Laughter]
+
+>> I'm just going to jot some notes down here. So can you give me an example that you thought of that you're, like, that's just a terrible idea.
+
+>> Yeah. We were, like, how could you react to this? And one of them was, like, you could get really angry and yell at the person. Because we had seen that happen.
+
+>> Were you the group that said if an idea sucks, just tell them it sucks.
+
+>> That was us.
+
+>> We had something similar to that.
+
+>> But we also had a Burr one that was, like, kill it quietly and don't tell them why.
+
+[Laughter]
+
+>> Yeah. That wasn't good either.
+
+>> Interesting.
+
+>> And then all the really good ones seem to be in between because we didn't think either of them would have come up with that because it was too sane or something.
+
+>> Too measured.
+
+>> Too measured, you said? That's interesting.
+
+>> And too eager to, like, make it better for everyone in the end.
+
+>> Emotionally aware.
+
+>> Yeah.
+
+>> So it sounds like you came to the conclusion that there's a self interest in Hamilton and Burr that makes working with other people more difficult.
+
+>> I at least didn't think of any of them as particularly, like, collaborative and open.
+
+>> They were successful.
+
+>> They were very successful., yeah.
+
+>> So maybe that's a --
+
+>> What about you guys? Where did you shake out on the -- it looks like you were pretty evenly distributed too. Maybe more on the Hamilton side than the Burr side.
+
+>> We -- we talk these things through and we kind of went with the same thing where you have these nice solutions and these good solutions, and then we were, like, well, let's talk about looking at it through Hamilton's eyes and Burr's eyes, what would be the decisions that they would make?
+
+>> Yeah. So if you -- you know, a lot of these questions are sort of informed by experiences that we all had. And when you guys say that there are -- that there's a distinct pattern in newsrooms of more Hamptons versus more Burrs, it differs from newsroom to newsroom.
+
+>> Whether there are more Hamptons and Burrs.
+
+>> I think reporters are Hamptons and anchors are Burrs. And many people go back and forth, but I think, yeah, I think, you know, -- I think it's easier to maneuver as a Burr in a newsroom as an editor when you're dealing with lots of pieces. It's much harder to go into a newsroom and say I'm going to do this, and I'm going to make these changes, and I'm going to create this. You're going to have a lot of people unhappy or who feel threatened. Whereas reporters, I feel like their ambition is much easier to sort of run free. And I feel like tech people are often more, like -- I don't know. I mean, I -- you know, came in through the editorial side of all of this -- or the writing side or reporting side.
+
+>> When you say they're more like Peggy.
+
+>> Well, I think they're more able to be -- their ambition is really different. It's more collaborative. Their ambition or, you know, maybe it has to do with something in the code that their peers will understand but not something that the audience reading the story will perceive. I also think that they're able to redirect without being personal. And that's much easier to do -- and it's not even tech. I think anywhere but, you know, like, if you're dealing with a writer, if you're dealing with a photographer, dealing with an illustrator or something like that, then I think you're dealing with -- then some of this work is really personal. And I think if you're dealing with a content management system, then often it just -- it's a little different.
+
+>> I think that's a really distinction.
+
+>> I'm sorry?
+
+>> I think that's a really interesting distinction. So it's maybe a more successful strategy in sort of a general way is making the solutions more about the problem, if possible, than about the person that you're talking to or talking with.
+
+>> We kind of had an ocean counter to that because two of us were from tech and people's code is very personal, and we've seen cases where people totally go to that for their code to the death because they made it. So we have a parallel there.
+
+>> Yeah. That makes sense.
+
+>> There's also this idea in the swore world of, like, the brilliant packer programmer who's going to sit in the corner and just turn out a lot of code, which I think used to be tolerated much more than it is now. But there's sort of this hack the Hamilton version, which there's sort of a renegade and, like, they might be hard to work with, but they're genius. I don't know.
+
+>> So kind of in that category of not collaborative at all but successful and moving away from that to a more collaborative space.
+
+>> Yeah.
+
+>> Interesting. So did anyone have kind of a very clear idea -- we have, like, two minutes left here. Unless you want to hang out and chat afterward, which I would love. Are there any epiphanies, like, wow, Burr is the person to relate to here when it comes to solving problems, or they're both self interested, and that's not helpful in most situations, so maybe somewhere in the middle.
+
+>> I don't think Burr is. He seems like the real winner.
+
+[Laughter]
+
+>> It really feels like when we were brainstorming that there's, like, things to be learned from both Hamilton and Burr. But if you really go full Hamilton or full Burr in these situations, there's always, like, not recommended.
+
+>> So useful as a experiment, not so much as a role model.
+
+>> I actually want disagree with what she said, and it's closer to what you said about we had a lot of ideas in equal parts. But the Hamilton ones were more bad or dangerous or whatever. And I think it's easier to be full Burr than full Hamilton in an organization. And, like, being full Burr is probably not a healthy strategy, but it is a sustainable strategy or a more sustainable strategy than being full Hamilton.
+
+>> So when you say being full Burr, like, what are you thinking?
+
+>> Being entirely -- well, congressional is the word that Cece came up with earlier when we were talking. Like, acting congressional, never say what you mean, playing the long game all the time, all of your ambition.
+
+>> Manipulating the system; right?
+
+>> Right. Understanding the system so well that you can game it. Instead of being Hamilton, which is, like, I'm walking into the system. I'm going to win. And then let them come at me.
+
+>> Yeah. I think -- I would agree with that because I think Hamilton is more transparent, like, what his beliefs are. And I find -- it's very -- we had a lot of conversations about how to confront somebody. If you disagree, you have to give negative feedback. These things are hard and oftentimes don't happen. And then they happen through side channels. It can be really hard just to say what you mean and, you know, sometimes that goes off the Rails, but I feel like that happens where oftentimes people say what they mean.
+
+>> A lot of confronting somebody but Hamilton would have confronted them in public at whatever moment it was. Where, like, confronting somebody in private is what Burr did eventually, but that's not really a Burr trait, so confront somebody in private or after the moment was in between.
+
+>> Interesting. So where would you say, like, Hamilton or Burr confronts somebody?
+
+>> Well, it seems Hamilton would confront somebody in the moment battle style.
+
+>> Right.
+
+>> Whereas, like, Burr did not participate in that and was much more, like, he wrote a letter to Hamilton outlining all the ways he had slighted him after 30 years or whatever.
+
+>> Good point. And then Peggy would --
+
+>> Would have, like, maybe had a conversation off to the side a day later or something.
+
+>> Uh-huh.
+
+>> I feel there's much more push back too if you go full Hamilton because it's so obvious. Like, it's just easy -- it's easy to be, like, oh, that was inappropriate in that meeting or you were too aggressive or something like that whereas if you're kind of doing the negotiating, calculating side channels thing, like, you'll rarely get direct.
+
+>> That's a really interesting point, and that's probably more true for women --
+
+>> Yeah. I think women get much more negative push back if you go the Hamilton way. It's seen as very inappropriate.
+
+>> That's actually interesting. So I hadn't thought about the two extremes are dudes and the middle is female. That he was a complete accident, but that's an interesting way to think about it.
+
+>> I was thinking of a phrase that you just through out, which is collateral damage. And made me wonder as you're evaluating these guys, to measure one. The level of collateral damage that comes with that success -- and, again, I don't know about specifically as these two. But what I'm gathering from this is it sounded like Hamilton sounded like he accomplished what he was set out to accomplish. Whereas Burr was, like, how do we accomplish this and what's the collateral damage?
+
+It's interesting to think about that outcome not just in terms of success but --
+
+>> Yeah. That is really interesting.
+
+Okay. Well, we are about four minutes over time. If you want to hang out and keep talking, more than welcome. But session is officially over. Thank you very much for coming. This was super fun. I hope it was useful in some way.
+
+>> Thank you.
+
+>> Now I'm going to think of everyone I know where I work.
+
+[Laughter]

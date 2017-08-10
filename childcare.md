@@ -8,7 +8,7 @@ background: childcare
 permalink: /childcare/index.html
 ---
 
-We are offering free childcare throughout the full SRCCON schedule (including Thursday evening). Our providers are the wonderful [KiddieCorp](https://www.kiddiecorp.com/)  team, whom we welcome back for their third year at SRCCON.
+We are offering free childcare throughout the full SRCCON schedule (including Thursday evening). Our providers are the wonderful [KiddieCorp](https://www.kiddiecorp.com/)  team, whom we welcome back for their third year at SRCCON. Registration has now closed, but [email us](mailto:erika@opennews.org) if you have last-minute childcare needs and we'll see what we can do.
 
 ## Our care providers
 
@@ -18,7 +18,7 @@ Two of our own staff members have had their young children happily in KiddieCorp
 
 ## Logistics
 
-Childcare will take place at the conference hotel, which is right next door to the conference venue. You can [register now](https://www.jotform.com/KiddieCorp/srcconkids) (please register by July 6) and in the meantime, and [learn more about KiddieCorp's staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html)..
+Childcare will take place at the conference hotel, which is right next door to the conference venue. You can [learn more about KiddieCorp's staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html)..
 
 <div id="sponsortag">
     <span>Childcare at SRCCON is made possible by</span> <a href="http://jsk.stanford.edu/"><img src="/media/img/partners/jsk.jpg" class="childcare" alt="John S Knight Fellowships"></a>

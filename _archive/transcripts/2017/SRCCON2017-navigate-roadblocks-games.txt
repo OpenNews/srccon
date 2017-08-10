@@ -1,0 +1,278 @@
+Candyland, Catan and Codenames — Oh My! Navigate Roadblocks in Small Newsrooms With Games
+Session facilitator(s): Sara Konrad Baranowski, Andrea Suozzo
+Day & Time: Thursday, 11:45am-1pm
+Room: Ski-U-Mah
+
+SARA: I'm Sara Konrad Baranowski. I am an editor at a small paper in north central Iowa. It's a very rural area, and a very small staff. There are only five of us in the newsroom, and that includes me. Which presents challenges.
+
+ANDREA: And I'm Andrea Suozzo. I work for a weekly paper in Vermont, and we were -- we're pretty small. We were a lot smaller when we started three year ago. But our newsroom is still under 20. And I'm, like, the only data interactive person in the office. So and social media and newsletters.
+
+>> We wanted to get an idea of the people who are here, so can you have maybe a show of hands for how big your newsroom is. Like, if you're in a really small newsroom is less than 10 or 15 people, if you want to raise your hand.
+
+>> Welcome.
+
+>> 20 to 40. More than that. Or less than 20, I'm sorry. And then much bigger? Okay. Nice little mix.
+
+>> Good distribution.
+
+>> And then I know that your jobs probably span a lot of different things. But -- so you might raise your hand for more than one thing. But what kinds of things do you do in those organizations? Are you reporting? Cool. Are you editing? Are you, like, managing, hiring people. And how about coding?
+
+Sweet. Nikes mix.
+
+>> So the idea for this session came from -- we had two separate pitches here that were a little bit different. But similar in the fact that we wanted to focus on small organizations and some of the challenges.
+
+But as an example, in my organization, it's a small newsroom, five people, we've added newsletters, and we have a Web presence, and we're on social media, and we're trying to do multimedia things with people who maybe weren't always trained in that and worked there for a long time and don't see the value in going digital. So my role as editor is to convince them that digital is fine. I say it's your job and you have to do it. Trying to get them to buy into it.
+
+>> And I've actually kind of recently shifted jobs, so when I came in, I was writing newsletters every day and doing social media, like, all of the social media for an increasing amount of stuff and not getting to do the stuff I really wanted to do. And we've done a lot of reshuffling, and I'm doing a lot of data interactive stuff now. But I'm also creating a job that's never existed in the newsroom and trying to figure out who I report to and what my deadlines are and who I should go to for what. So I've been finding that breaking things down into much simpler, smaller challenges has been the only thing that makes me not freak out. And get extremely stressed out and overwhelmed. And also, I really like board games and board games similarly have, like, kind of break things down into very simple challenges that are very concrete, and you're working towards a solid goal.
+
+So I think that overlap is kind of where we ended up figuring out that, like, this is a cool way to get at some of those challenges in a way that's not just, like, oh, my god. Why are all of these things -- why am I trying to do all of these things at the same time?
+
+>> And you don't have to be super into board games. I am not as into board games. I mean, I enjoy playing them, but I don't have a lot of time to do that. But we're going to attempt to make games, which is totally doable, we believe, in a 75-minute session. But whether you're comfortable with it or not, we'll mix things up and move around in room and hopefully work collaboratively to make fun ways to address these challenges.
+
+>> Yeah. So kind of starting out, just wanted to give you a quick little run down of some examples of what you might jump into. And, first of all, don't panic. It's going to be okay, and it's going to be fun.
+
+So there are as it turns out, a ton of journalism board games and card games, and I started poking around online, and I found all of these, and they're all cool. But they're all kind of complicated. A lot of them are, like, you're putting together a front page. Or you're trying to, like, track down sources or whatever. But one really cool and much simpler example that I really like is cards against community, which is from the Coral Project, the commenting group. And it's a role-playing game, as you can probably tell. You pick a role, and you can be -- you might be the Optumist in the comments. You're trying to make the conversation good, the; isn't that correct, constant is a patrol and is constantly trying to make the conversation terrible. And then you have actions that you can take against other players like shadow ban and, like, moderated and -- so it's a really fun game, I think probably draws on things that we've all kind of experienced in some way or another. As you can see, it's, like, you know, fairly straight forward.
+
+So just what approaches you might take. Many, many board and card games have a board, cards, you might be using a paper or pencil to keep track, you might have dice, you might have tiles, you might have, like, any range of other things. You don't have any of those here today. You have paper and pens. Fun, colorful pens. And your imagination. And the experiences you're bringing to this.
+
+So, obviously, it doesn't have to be a fully formed game by the end of this session.
+
+But as kind of an outline of what approaches you might take, so there are games like munchkin or cards against community where you have a role, and you have certain goals, and those goals might be at odds with other people. They might align with other people. You might be trying to kill monsters, or you might be trying to, like, collect points or any of those things in combination.
+
+You might in a newsroom have, like, an editor and a graphic designer, and you all have goals, and you're trying to get to negotiate with everyone to get to those goals.
+
+There's deck building. So you're kind of curating a deck of cards. And this is obviously not a comprehensive list of all types of games because there are tons out there. But you might be trying to ballet deck of cards to get you to points or, like, the ability to withstand things.
+
+So maybe you are, like, building up a deck that has, like, deadline cards and, you know, like, worklife balance cards, and you're trading with all of your coworkers to try to get a balance deck. But they also are all trying to get a balanced deck.
+
+Or you have a journey. So you're kind of trying to go from one end of the board to the other, you know? Might be playing, like, shoots and ladders, and you, like, get a really good source, and you jump forward, or a source backs out and wants to go anonymous, and you go all the way back down. And then there's territory. So you're trying to accomplish some kind of spatial goal. Maybe you're trying to conquer the island of JavaScript or the peninsula of GIS.
+
+So -- and you can take any other tack you want. But this are some examples.
+
+And keep it simple. You definitely don't want it to be too crazy. And our hope is that this kind of, like, helps us simplify and make some challenges concrete. So if you throw too many things into it, it's going to get really overwhelming.
+
+>> Yeah. But it was a really good civil project that had great free wife eye.
+
+>> That is true.
+
+>> We only have 75 minutes, though.
+
+>> If you have more time, you can definitely build the cones of Dunnshire.
+
+>> We asked them to put this session today so that tonight there's the games. So if you create the games you really love, you could take it to game night and have other people play it.
+
+>> Definitely. So that's kind of it. We're going to throw you guys into group work now. Don't get too comfortable because we're going to shuffle the groups a little in a minute to make sure that there's a good balance and a good number of people at each table.
+
+But you definitely want a goal. You want obstacles, so it's not too easy to win. You want equipment. So is there a deck of cards or is there a board or -- and you want kind of basic parameters for what players are doing and what they can't do.
+
+Keep it simple and don't, like, build a game where you're, like, voting the people who aren't digital -- aren't thinking digitally off the island. That's not a good board game. No, I mean, that's not a productive board game.
+
+>> It would be a fun board game.
+
+>> Yes, that's true. And if you want to share cool stuff that you're coming up with, by all means, share it with the #SRCCONgames.
+
+So to kind of get a feel for the room, how many of you consider yourselves kind of regular or semi frequent board game players? Or card game players or --
+
+>> Is the scale going higher?
+
+>> No. This is just a yes or no.
+
+>> I'm running something tonight, so, yeah, I should probably.
+
+>> The reason we ask is because we want to evenly distribute people that are comfortable with games.
+
+>> That sounds legit.
+
+>> I'm in the middle territory for when my children beg me to play. So I'm really good at, like, candy land and stuff like that.
+
+>> Yeah, we just want to make sure that groups have people familiar with game mechanics, because we obviously can't give you a great run down in a really fast time.
+
+So let's --
+
+>> Those of you who are gamers, raise your hand. And can we number off. If you have your hand up, start over here and go across the room.
+
+>> What are we going up to?
+
+>> 16, so four groups of four.
+
+>> One.
+
+>> Two.
+
+>> Three.
+
+>> Four.
+
+>> One.
+
+>> Two.
+
+>> Three.
+
+>> Was there another one?
+
+>> And now everyone who didn't have your hands raised, raise your hand now. And what were you at? Three? So let's continue counting off.
+
+>> Four.
+
+>> One.
+
+>> Two.
+
+>> Three.
+
+>> Four.
+
+>> One.
+
+>> Two.
+
+>> Three.
+
+>> Somebody left.
+
+>> Okay.
+
+>> That's fine. It will be --
+
+>> So I tried to number the tables. We planned for more people, just in case more came. But if you can find your number and then go to your table, it's one, two --
+
+>> So now that you're all in your groups, and I think you're all kind of introducing yourselves, can you just kind of continue the introductions. That's awesome. And if you can throw out among your groups some examples of, like, newsroom and kind of interpersonal or, you know.
+
+>> A challenge that might make --
+
+>> Challenges that maybe you've faced yourself recently or that you've navigated in the past. And just kind of go around and hopefully pick one out and then go from there. Yeah. And we'll give you kind of milestones along the way to make sure you're staying on time.
+
+>> Five minutes to introduce yourselves and center on a -- or zero in on a challenge that you want to focus on.
+
+>> Yeah. So carry on.
+
+[Group discussion]
+
+>> So you should be getting to the point where you're going to sketch out and outline the game, if you're not already there.
+
+>> So you've got about five minutes left to come up with your game. You are going to kind of present back after the five minutes is up. So if you want to get any visuals down or kind of liked it draw, sketch out what your game looks like, now would be the time to get going.
+
+>> One minute.
+
+>> Okay. Folks. You're probably not done yet. Definitely not done yet. But let's bring it back in and present back whatever you have. You definitely don't have to be done. You can keep working on it over lunch. That's coming up, if you're really into your game. Who feels ready to present?
+
+Okay. So how about you guys go first, and then everyone else, think about whether you're ready.
+
+>> It doesn't have to be complete. I mean, it's just an idea.
+
+>> Whatever you have. Whatever concepts you've come up with. I think from what I heard, all of you had really cool and interesting concepts.
+
+So let's start with you folks.
+
+>> So we don't have a name for it. But the goal of our game is to inform the public, which you do by reaching a certain number of points, and you get more points for publishing more complicated stories.
+
+So when you start out, everyone is an individual, and you can do four actions on your turn. So you can publish a daily story whenever you want, it's not worth that many points, but you can always do that. You don't need any skills or anything special.
+
+Simplified down for the game. And so then there's three other types of stories that get progressively more complicated. So you can do a specials section. You can do the data story, or you can do an investigative. And then if you have the social media skill, you get, like, a combo point on all of those.
+
+So on your turn, you can draw cards that includes skills. You can ask someone to join your team, and then you get the skills you have to come with you. So we were trying to model the question is it easier to say fuck it and do everything yourself? Or is it easier to coerce people to joining us so you can ultimately build cooler things, basically?
+
+So then whichever person or group of people hits the threshold first wins.
+
+>> There are four actions in each person's turn, and you can do the normal thing by story and a good person. Or you can ask someone to join your team either give them a choice to do so. You can spend two of your actions to do that.
+
+>> If they're already on another team.
+
+>> Or you can take a riskier route -- or not risky but spend all of your actions and force that person to join your team.
+
+>> I love the way you phrased it was I went over your head to management and made you join my project.
+
+[Laughter]
+
+>> Cool. Sounds like a fun game. Kind of cut-throat. Awesome. Who wants to go next?
+
+>> You can go.
+
+>> I did a lot of talking on this side.
+
+>> So we are trying to build a tower with blocks of various colors. We have blocks that represent skills and resources and time and tools. And we've got a system of cards where, like, an individual draws a card and that individual -- like something happens where they have to -- they can either gain a skill or lose some time or they get an assignment, or they picked up any skill. And then collectively after everyone's gone around and taken a turn, each time you've gone around the table, we then as a group roll the dice to see what happens to our newsroom, so you can have major breaking news or somebody leaves, and we all have to pick up their work. Or if you roll a seven, nothing happens, and it's just a regular day.
+
+So we have different gains or losses in different kinds of blocks, based on what happens. And that affects the structure of our tower because you have to take away blocks. So it's basically news Jenga.
+
+>> And the goal is to simulate a balanced newsroom.
+
+>> Who's next?
+
+>> We can go.
+
+So we talked about sort of this idea of a different -- sort of similar to you. Decisions you have to make when you have to figure out which resources to apply at what time. So we came up with a -- thank you for these very good notes. With a way that you would start out with a certain amount of money, subscribers, staff, and then you would sort of roll the dice, and you would be presented with a bunch of different scenarios. Choices that you have to make. So, for example, you know, here's a choice that you might have to make in that scenario of build a mobile app.
+
+So if you landed on this, you would choose it. And if you say, yes, I want to do that. So you would keep subscribers, you would maybe gain some money in your budget bank account. But you would also lose money because you actually have to build it. You have to pay someone to build it. And if you say, no, I don't want to do that, then you lose subscribers.
+
+So we went through lots of different scenarios of things that you would gain or laz based on the decisions that you have to make. So the goal is you would end the year with as much money and subscribers and employees as you possibly can. So we started out talking about, like, well, maybe it is just a budget number that you're trying to get to at the end of the year. But as we all know, there are many different things of value that you're trying to figure out how to balance. So I think that covers it. That's the idea. So, yeah. Make a lot of hard decisions all the time.
+
+>> Notifying a theme of resource distribution and limiting of resources. For sure.
+
+And how about the last group?
+
+>> Okay. So we have sort of a similar tactic, but ours is structured around the editorial process as the end goal of deploying the news, which is my new favorite phrase.
+
+We did it. So we wanted something that was going to give each person their own personal motivations for doing well and cooperate with everyone else. And, guys, check me if I missed a deck here. So we start with a pitch deck of stories that come with costs and value. And you have a set number of resources that you can spend throughout the game. And then as each story advances through the editorial process, you pull cards for potential hurdles or advancements for that story.
+
+Am I missing a deck?
+
+>> Or that there might be a pitch meeting sort of debate to pick the initial stories.
+
+>> And each player has particular resources exclusive to them they pulled at the beginning of the game that you can choose to deploy, to help the other people that you're playing with. And the ultimate goal is to get stories over to successfully being deployed. But --
+
+>> Every player has their own goal. So at the beginning of the game, you can decide -- or you draw and maybe your goal is to get, you know, three, like, really audience, like, or engagement-heavy stories. Or your only goal is to get a really high-impact story through. So you have to try to work with the other players to get the group goal done while also negotiating to get your personal goal accomplished by giving and taking to get your chosen stories through each process.
+
+>> So technically, it is possible for everyone to win it if you play it well. I think it's also technically possible for everyone to lose.
+
+[Laughter]
+
+>> Sounds about right.
+
+>> So and -- anyone can speak up here. What was the biggest challenge that you encountered or something that you -- an aspect of the game that you changed up a lot. Or kind of struggled to figure out.
+
+>> Balance was tricky for us. Like, just in terms of, well, how realistic do you want to make this? How many skills are there? How many different kinds of content are there? But then how do we also make it relatively easy to grasp and not need a whole bunch of people or have it take many hours?
+
+>> We came back to different measures of value a lot and whether those need to be parsed out or just all one. And if we Parse them out, how do we Parse them out. And sort of where does that come into play along the process?
+
+>> Yeah. There were a lot of -- just hearing the conversations about the limited resources and the ways, like, choice and chance interacted and how to balance those things was something that I was hearing from everyone as they walked around.
+
+Interesting. The comment themes emerging.
+
+What was the most fun part of the coming up with pieces of your game?
+
+>> Venting.
+
+[Laughter]
+
+>> That's true.
+
+>> I like when we decided on what the actual mechanism of the game was because it was very real to me how to process, like, how to get this done. But also adding a competitive nature to it. What the end goal is. Why does someone want to join my team versus your team? I thought that helped shape a lot of that.
+
+>> And kind of our thinking was that it was really fun to build these games. But also, the fundamentals of this, like, what we asked you to think about goal and tangible challenges. We have that in our everyday work lives. So, you know, we're not saying, like, you can -- you have to take your game home and be, like, hey, guys, let's get together as a newsroom and play this game that I made at SRCCON. But just a different way of thinking about this challenges, like, how am I going to navigate those and like you said, breaking them up into pieces and saying, you know, my end goal is I want everybody to embrace digital. Well, that's a really big goal. How do I get there? And what are the challenges along the way? And how do I get past those challenges? Just as a different way of thinking about how you go about your everyday workplace navigation.
+
+>> Even start awarding yourself points for things you do.
+
+>> Which I mean, I kind of -- I write down -- I don't want to award myself points. But sometimes I have a goal, and I have a notebook, and I'll say my goal at the end of the day is to do this, and I'm all about checking things off on a list. I'm going to write them down just so I can check them off. So it's kind of like that. It's meeting those challenges and advancing towards your ultimate goal.
+
+>> Your productivity planner person, aren't you?
+
+>> Sort of.
+
+>> Well, if anybody does GTD, like, this design exercise is very much like GTD where you have to take a project or something, and you have to break it down into the smaller, more manageable things, so you feel like you're actually getting something done, rather than just rolling the boulder up the hill all the time.
+
+>> And how do you influence people around you to kind of do what you want them to do while maybe you help them out with something, so maybe they'll help you out with something. Give and take.
+
+>> Too many newsrooms are focused on getting today's product out the door. And then when you're faced with this long-term digital or setting up a new team or putting out a big project, that whole idea of breaking it down just -- I've encountered so many people who just can't do it because they have no idea. They're, like, I just need to produce today's story. Get it done.
+
+>> I think that that analogy of the boulder is really good there because it's, like, you get to the end of the day or the end of the week, and you publish something, and you're back at the beginning. How do you make meaning from that?
+
+>> It's often hard to see past the treadmill because you're on it, and it's kind of comfortable. And you know how to do it. You know, oh, this is all right. But you never get off of it. You knew build another treadmill, which in a lot of cases.
+
+>> I think we're at time.
+
+>> If everybody could write, like, your Twitter handle on your sheets, your group because we were going to take pictures and tweet those out. And we're also writing an article for Source about this session. So, you know. If you're okay with putting your Twitter. You don't have to.
+
+>> We're not forcing it.
+
+>> Yeah. Come play games tonight.

@@ -1,0 +1,447 @@
+Let’s be better security trainers together
+Session facilitator(s): Amanda Hickman, Matt Perry
+Day & Time: Thursday, 3-4:15pm
+Room: Ski-U-Mah
+
+AMANDA: Oh, look. Mike is here. He can help us.
+
+MATT: So this is probably a good way to do the groups in a small way.
+
+AMANDA: Excellent. We're going back to our original facilitation plan. Do we need mics, or are we good?
+
+Welcome. I'm Amanda. I run a fellowship program at BuzzFeed news where security is not part of our mandate at all. But --
+
+>> It should be.
+
+AMANDA: It actually shouldn't, but that's a different story. But I'm also sitting inside a newsroom where people don't really have a lot of places to turn when they're trying to figure out what the right answer is and everybody goes straight from let's think about security to how do I set up a GPG key and use it? And that's usually, like, the wrongest answer to any security question or challenge.
+
+So I initially pitched this session, and it turned into a whole convening that Matt and Mike came to in Chicago a month and a half ago to start develop some real curriculum materials for security trainers. And security trainers envisioned as the people in newsrooms who are doing security trainings whether or not they have expertise, whether or not they feel like they have expertise, whether or not they ever asked to do the security trainings. And I think one thing somebody said to me when I was talking about this session was that they felt like there's such a big difference between the amazing security trainers that are really good at doing this professionally and, like, the one person in their IT department who did a workshop, and she just knew nobody was going to follow up on what they said because it wasn't a compelling workshop. And I feel like there's two different ways to address it that might really intersect. One is to get awesome security trainers around the world moving around newsrooms.
+
+And the other way is to find those folks whether they're in the data team or whether they cover arts, but they've got it down, and they're the one to turn to and, like, get those folks some resources to help be better security trainers. And so I'm really interested in starting to build some curriculum materials and a kind of community of practice around being good at doing security training.
+
+And one of the things that's, like, a real, big challenge as I see it is that once upon a time, we talked about the techie as the person who could fix the printer and then always got stuck having to fix the printer. But if you were wrong about fixing the printer, or you give somebody bad advice about the best way to prevent paper jams, the worst-case scenario is a paper jam. And if you're wrong about privacy, you're wrong about security, you're wrong about potential for encryption or the value of encryption or the implications of getting caught, or the implication for security failure, the implications can be a lot more cast offing, so there's a lot more at stake.
+
+Those are some of the things that got us all here. Matt, do you want to introduce yourself?
+
+MATT: Sure. So I'm Matt Perry, I work at WordPress.com on the VIP team, so I get to work with many publishers all around the world, and we do all kinds of stuff for the publishers. But a big role that we play is in helping those folks secure their applications. And also we -- in some cases embed with news organizations and are big part of their security process, so we'll help with just -- we find ourselves fielding all kinds of questions that come out of newsrooms regarding security.
+
+So that's how I got into this whole thing. My background is as a developer, so this is stuff that I certainly didn't think about until I started working with publishers all the time, and then it became obvious that it was a real need.
+
+So I guess the other -- what I'll add to what you said is just -- and in a second we're going to kind of get a sense of who's here. But from just setting the table in terms of what we mean when we're talking about newsroom security, security is, like, a massive topic. It can encompass many things. But in this case in the curriculum project that we're engaged in developing now, we kind of decided to focus on the security practices that are most important to the newsroom. So those largely fall in the buckets of how to secure communications with sources, in particular. But also within the newsroom to prevent things like data loss or data left or surveillance, or other kinds of loss of control of your communication.
+
+And then the second bucket would be stuff around personal digital security. So how to secure things, like, accounts, shared resources used across the newsroom, the right way to do just the everyday stuff that you have to do to remain safe and authenticate it online.
+
+AMANDA: And there are important issues that are not inside that scope including who you talk to and who you share information with and, like, communications that happen out of one mouth and into another ear. That's an important part of newsroom security. It's not part of what we're talking about. The other thing we're not really dealing with is hostile environment trainings and ways that you protect yourself in physically hostile environments and physically dangerous environments.
+
+So just one own those are important, and they're all part of security, and they're not what we're talking about.
+
+MATT: And we're not talking about Web application security or other things that are more technical like that.
+
+So that kind of informed the work we've done in this curriculum so far. And at the end of this, we're going to come back together. We'll do an activity together. But then we'll share with you a link to that curriculum, which is being developed in an open way, and that we would like to invite all of you to get involved with. Either as editors or contributors or whatever. And we'll talk about this resource more.
+
+AMANDA: Yeah. So we wanted to get a gauge of who was actually in the room. And I learned a new trick in the last session, which I'm going to run with. Which is not just yes or no questions. But I'm interested on a scale of one to five where one is I have no idea -- I don't know. And five is I am so on top of everything about my digital security that you cannot even fuck with me.
+
+[Laughter]
+
+So think about it for a minute, and then I want a show of hands. You can just sort of let me know whether you think you're a one-,like, I don't know what I'm doing, and I'm terrified all the time or I'm not even terrified, and I should be terrified. And five is everything I do is on total lock. And yet I'm still able to communicate.
+
+[Laughter]
+
+So think about it and then start to put your hands in the air when you start to think about it and know what your number is.
+
+If I'm being honest, it's three. If I'm trying to assert authority, it's four.
+
+So I'm seeing twos and threes and fours. And then as a yes or no question, how many of you guys have led a formal security workshop for other people?
+
+Were those people in a newsroom?
+
+>> Journalism students.
+
+MATT: Sure.
+
+AMANDA: Fair.
+
+How many people have been asked a question in the newsroom about security? So that's a larger number; right?
+
+AMANDA: Yeah. How many of you have done one-on-one hand holding with a colleague or two?
+
+Awesome.
+
+MATT: Cool.
+
+AMANDA: So that gives us all a sense of where we are. We're all kind of about the same place.
+
+MATT: We're going to do an exercise, and then we'll come back to the curriculum and show you where that's going. But I think the idea behind this next bit is it use the wisdom of this group of people who have led, think about, or ask questions about security in newsrooms as a good gauge of just kind of group of wisdom around this topic.
+
+So we've come up in true SRCCON style, we've come up with four questions, and we have four tables, and they have sticky notes on them. So in a moment, we're going to break into four groups, station ourselves at those four tables, and just spend a few minutes on each one of these questions, which we'll go over in just a moment. And then at the end in also true SRCCON style, we'll take a moment, gather together, and then see if we can discern any patterns to the answers to the questions.
+
+That will take us the next half an hour or so, and then we'll come back to conclude with the discussion and a little bit more about the curriculum. Sound good?
+
+So, Amanda, you're putting. Up the questions.
+
+AMANDA: Yeah. So I can read them because they're almost all up.
+
+MATT: Yeah. Let's go through the questions.
+
+AMANDA: This might be the most loosy-goosy vague and wishy washy. But what belongs on a list of first principles for digital security trainers? First, like, do no harm is probably something part of that.
+
+But what are the -- if you're trying to encourage more people to be security trainers but also to not do it badly and not -- and be ethical as trainers, what are the sort of, like, core principles that you think belong on a list of first principles?
+
+And so there's Post-Its. Everybody at the table. You don't have to argue about it. You can put things up that you disagree, and we'll go back through and be, like, actually, everyone agrees on that. This is a verbatim transcript, and I can't swear; right?
+
+MATT: That's question number one; right? You've got your Post-Its.
+
+AMANDA: This is number two. As a trainer, somebody who asked about security, what resources do you need that you don't have? Like, if somebody were to ask you a question about security now in the newsroom, what's something you really wish you had at your fingertips that you don't? And I can offer and edit -- like we didn't put the as a trainer on there. So if there's resources that you need personally that not even to answer other people's questions, but just that you're sort of, like -- to get from a three to a four, I need help with something. What is that?
+
+MATT: So we can call that number two; right? Should this be number two or this one?
+
+AMANDA: This will be number three.
+
+MATT: Okay. Cool.
+
+AMANDA: This one's going straight on the table.
+
+MATT: All right.
+
+AMANDA: What are your favorite resources? That might be a community, it might be a Web board, it might be a bound volume that you keep on your.
+
+MATT: I can fill out that whole sheet right now because I just did this.
+
+AMANDA: A side channel. So that's going to be at this table. And then number four.
+
+MATT: Where or how did you learn what you do know about security? Did you learn it in a class? Did you read something? Did somebody teach you? So that's number four.
+
+AMANDA: And we have. I might not be that good at counting, but we have four people at each table. You're welcome to carry your computer with you, but we're going to make you move around. So can we get four people at each table?
+
+MATT: And then we'll talk about four minutes on each of the questions and then as a group, shift to the next question. Okay?
+
+AMANDA: And you can discuss as much as you want. You don't have to discuss silently.
+
+MATT: Okay. We're starting the clock on this first portion right now. Enjoy.
+
+[Group discussion]
+
+MATT: All right. One minute, and we're going to rotate. You're physically going to get up and walk to the next table. So anything you don't have down, put them on the posters, please.
+
+AMANDA: Don't edit too much. We can take things that are cryptic.
+
+MATT: Okay. Everybody. Finish your thought, and then we're actually going to physically get up and rotate clockwise.
+
+All right. Guys, weary evicting you to the next table. Rotate over.
+
+Clockwise. Yes. So you guys will be here and then go there.
+
+Okay. One more minute at this station. Get your thoughts up there.
+
+Okay. Everybody. Clockwise to the next table.
+
+This is the physical education of SRCCON.
+
+[Group discussion]
+
+One minute, and then we will do our final rotation.
+
+It is time to rotate again. I was distracted. You guys are done. You're done.
+
+Okay. One minute left to get your final stickies on the paper, and then we'll go on to the next phase here.
+
+AMANDA: All right. Nobody's still adding Post-Its, so we're going to move to the next phase, even though you have 30 seconds remaining.
+
+So now each has in front of you a heap of Post-Its, some of which are kind of vague, some of which are duplicative. So what we're going to invite you photo next five minutes is at your table -- and we'll kind of take stock. And if it seems you're done alrea we'll move on. But at your table, go ahead and start group these out. I was notifying on question -- I'm totally nearsighted. There's lots of names of people or names of news events. I don't know if it's a person or news event in the heart of it. So start to sort of organize those out, and we're going to then and each group to give us a snapshot of, like, big take aways that you're seeing on that board. That's not going to be the end of the board, but that's going to be our next project for the next five minutes.
+
+And if you want to work on the table, you can. If you want to work on the wall, you can. You can move the board as you wish.
+
+MATT: So maybe start choosing someone who you would like to represent your group and summarizing the four in front of you, and then we'll convene in a minute or two to go around the room and hear how things turned out.
+
+Boy, that just shut everything. Sorry.
+
+SOkay. Everybody's looking pretty ready. What do you say, Amanda?
+
+AMANDA: I think we do it.
+
+MATT: We're going to invite a representative or voice from each table and tell us from a broad point of view what sort of themes or grouping you noticed on your board. So we'll go around with that, and see what this exercise produced. So let's see. Should we start with.
+
+AMANDA: Let's start with number one.
+
+MATT: So that was what belongs on a list of first principles for digital security trainers?
+
+>> All right. I'll go. So I'm going to hold it up so you can see it.
+
+So we broadly broke ours into four themes. One of the emergent themes was reassurance, so there was a post it that talked about not one-size-fits-all, meet your audience where they are, make it personal. Another thing that we found was motivation, so trying to get people to care about this issue. Like, you're only as strong as your weakest link. Everything you have is worth something to someone.
+
+Also trying to be realistic and have some sense of realism. So tools are not enough. Explain that there are tradeoffs and risks. And then finally, like, a tactical teaching bucket was also a theme that emerged, including encouraging common sense, do basics first, don't jump straight to PGP. You need to understand people's motivations and then fine-tune it accordingly.
+
+And then we put do no harm in the center because if you think of it as a wheel -- I mean, these are spokes. This is really a central component that we all should take into account.
+
+MATT: Awesome. Thank you. So we're going to record in more detail what's on all of these posters and put them up here later. But that's a great summary of the first one.
+
+AMANDA: Number two.
+
+MATT: Number two. What resources do you need that you do not have?
+
+>> We largely didn't add any Post-It notes because this was very complete by the time we got to it. So we, like, largely clustered things into, like -- there was a lot of workplace stuff, like, I need admin access to my computer to install stuff, management to start thinking about security on our work e-mail would be great. You know, a few things about audits. How audits are, like, terrifying, they suck, we should have them.
+
+[Laughter]
+
+Best practices, like, glossary of terms.
+
+If I had more time, more money. And then lots of things that we sort of figured were tools, product things, you know, like, it would be helpful to have on the CDN we were using or Ubi keys that are free to us or if I had a USB sanitizeer on hand at the office.
+
+Incentives, like, peer pressure and stuff like that to make other people care. Yeah.
+
+MATT: Awesome.
+
+AMANDA: Number three. What are your favorite resources? Where do you go when you need help?
+
+>> Yeah. This is pretty straight forward. This feels like an easier one in terms of the categories. So there are guides that exist. There are tools, there are orbs, specific thought leaders, and then there were specific forums. So people and then guides and tools.
+
+MATT: I'm sorry there were guides, tools, organizes, forums, and thought leaders.
+
+The thought leaders one was one I hadn't thought of before. I'm excited about that, and I'll be inviting you all to it. But, yeah, thought leaders never occurred to me. That's a cool category.
+
+>> Swift on security.
+
+>> I just heard Swift on security is here, and I started looking at it.
+
+>> Really?
+
+>> No.
+
+AMANDA: That is what I heard too. I was, like, one of --
+
+>> Really? There's not that many people here.
+
+AMANDA: I know that's why I was impressed that one of you is Swift on security.
+
+>> This is an open comment and I don't know where to place this. But one of the things we're going to do, and this is what my role role would be is implement security training as part of the on boarding process from the high level company. And then when you actually join a team, actually, they get to sit with somebody and install all the stuff. Like, it's part of their first day practice is just sit there and make them do it. So I don't know if that goes into, like -- it could be reasons you don't have but also favorite resources would be an actual train to on boarding.
+
+>> That's something that I do is we walk everyone through setting up on all their stuff and getting their accounts set up. And we have a on boarding guide we hand to people. Here's your user na so you don't have to ask for it five times.
+
+MATT: Yeah, we have the same thing where I work. It's an essential part of getting hired and setting up all of your stuff. And we have a checklist that you have to make your way through the checklist.
+
+AMANDA: And maybe add on boarding -- or maybe on boarding goes on the resources that you maybe you don't have. Because I feel that's specific curriculum. I mean, this is a conversation I only -- after all of this yesterday started to get roped into a conversation about, like, what our on boarding looks like in terms of privacy and security.
+
+MATT: In many places, on boarding in general is a little chaotic. And then when you add this particular need to it, yeah.
+
+>> We were talking about over there just, like, trying to be more prevent than actionary. What ends up happening is the people who support security practices or IT or community leaders in a space end up spending more of their resources, like, time and energy on reactive stuff than prevent stuff.
+
+MATT: Well, let's come back to that because the curriculum that we were just starting and working, we're going to invite all of you and contribute to is pretty much exactly that. It's designed to be a drop in kind of general purpose newsroom curriculum that you can put someone through when they're joining the organization. Or use with the existence.
+
+AMANDA: Let's get number four now. Where did you learn what you know about digital security?
+
+>> We grouped it into people, so people brought up, like, specifically industry people, people who have written books. Wisdom from coworkers, friends. Experiential kind of stuff. So something that happened to you or being hacked, surveillance, leaks. Different communities, whether they're, like, in real life communities, meet-ups, workshops, conferences, or online ones like Slack. And then a readme section of just anything from Googling stuff, you know, a PDF to 2600 magazine, EFFs, that kind of thing.
+
+MATT: Cool. Awesome.
+
+So once again, we'll take more detailed results of these and put them in this doc. I think -- what do you want to do next?
+
+AMANDA: So I feel like we've been walking through two -- so two resources that exist that we would love to have more people contributing to and playing in. But also, from this point forward, if we get totally sidelined into a conversation that's on topic, we'll just run with it.
+
+So the -- and I said that this session actually came out of -- the curriculum project came out of my initial session pitch. Matt also pitched a session around just gathering security resources, which became part of that curriculum project. So if you want to open it, so we can actually see it.
+
+MATT: Should we start with the curriculum?
+
+AMANDA: Let's start with the resources.
+
+So one thing that we've assembled is a -- the most comprehensive list of resources that we could assemble of communities and guides. So really written out guides to specific digital security practices. Existing curriculum materials, a lot of which are really good but not geared toward newsrooms.
+
+MATT: Yeah, and these are bucketed basically in, like -- I think we divide them into guides in communities sort of really comprehensive ones. Because even a lot of those, like, we were finding people were confronted with the large number of comprehensive resources and didn't know which one to pick. So this will give you an overview of all of them that we know about.
+
+And then the next bucket is this kind of personal, digital security. So how to securan your own digital life and your communications. Mostly your undigital life, your accounts, and things like that. And then there's a section on communication.
+
+So how to communicate with sources in a safe way and stuff that's pretty specific to those who are communicating and doing things like off the record.
+
+Messaging and just understanding how communication works and how you can know if you're communicating securely.
+
+So those are the three buckets that we just started with. This is a -- obviously, an open repo. And there's only one contributor. I would love there to be ten contributors after this. So if you have anything that came up on the sheet or anything else, please PR on this, and we'll keep accepting them. There's a format guide for you to add your own entries.
+
+AMANDA: And I will throw out there that if you're currently -- PR, what does that mean.
+
+MATT: Oh, sorry.
+
+AMANDA: Yeah, it means poll request. But figuring out how to submit a poll request. This is a great opportunity to figure out how to submit a poll request. But also, if you're, like, I can't. I'm sor It's just not going to happen. But these are also three great resources, you can open up an issue, and we'll take it from there.
+
+And if you're looking through it, and you're feeling like there's some structural change or better organization that you want to suggest. Like, the issues would be a great place to suggest some, like, smaller buckets. If you have thoughts about making this stronger, that would be amazing.
+
+>> This starts with chapter three. Is there a one-and two somewhere?
+
+MATT: Yes, there are.
+
+AMANDA: So linear.
+
+MATT: That was the most straight forward one to understand and clear to do there. We'll show you t we're going backwards, actually. So this is chapter two.
+
+AMANDA: Yeah, so chapter two is much less developed, which is why we haven't pushed it into GitHub yet. But it's a whole series of actual lesson plans that we worked up during the curriculum convening, and they're in various states of completion. Some of them have had, like, a really nice edit pass, and they're in really good shape. Some of them are really just kind of a roundup of suggestions that need some shaping. The link to the drive for chapter two is in the ether pad. It's open to edits. We encourage you A, to not, like, blast that on social media.
+
+But if you do, we'll lock it down and figure out how to take it from there. And B, to be respectful in that. Like, somebody actually spent an enormous amount of time writing that, so don't come in and be, like, this is the stupidest piece of crap I've ever seen in my entire life. Don't be back so dumb. Think back to your first principles. There are no dumb questions. We're all building here.
+
+MATT: So these are all under active editing. Long story short, you're welcome to join the editing. If any of these topics are of particular interest to y you're really into writing a training on phishing, and you want to contribute to that. By all means, go in and add comments and edits, and know that there are people in there editing.
+
+AMANDA: And if you're uploading a document about your organization that's great about understanding phishing, this is a great resource. You can absolutely start looking here now. But also, if you want to add things that's, like, actually, I did this, and I had to revise it a little bit, like, we would love that input on those lessons. And our goal for chapter two is in about the next month to actually get through an edit process and move them into mark down documents that are on GitHub, at which point we'll be able to make them a little bit more accessible as a public-facing manual with GitHub as a back-end.
+
+MATT: So the long-term goal of all of this is to assemble a manual that anybody can fork, anybody can use in their organization, and will just kind of get you ten steps ahead and started using this kind of training. And these are, you know, if there's a topic missing he maybe you want to propose a new one. These are just in the two days that we spent in this, these are the ones that we thought were most important.
+
+So I forgot your name.
+
+>> Rebecca.
+
+MATT: So Rebecca noticed that this whole session was just us trying to get you guys to help us do our work, and that's exactly right. That's totally what this is. So you've now all been inducted into this effort. And if you care about this stuff, there's so much opportunity right now to get involved.
+
+AMANDA: It's a wide opulence.
+
+>> Are you going to be entering this stuff into the ether pad or documents?
+
+>> We're committed to photographing it.
+
+>> I'm happy to help type.
+
+>> That would be awesome.
+
+>> Let's talk after because I was planning to do it, but we can divide the work or something like If you're going to do it, that's fine.
+
+[Laughter]
+
+MATT: We'll get it in the.
+
+AMANDA: Paul's totally going to help.
+
+MATT: What's chapter one. I actually forgot.
+
+AMANDA: I didn't even put it up there. So chapter one is a handful of things that's a lot looser but includes some good resources on how to be a better trainer. And if that's something that you have real expertise with or want to work on kind of developing materials around -- so we've gone from, like, poll requests to Google docs. And then we're coming to, like, just talk to me.
+
+So if that's something that you want to work on, I would love to have, like, a few extra hands editing that and getting that really into a shape that's solid and useful and something that, like, feels ready to put out publicly. Right now -- actually, here's chapter one. Chapter one is here.
+
+MATT: So this is more the hows and with whys of doing trainings.
+
+AMANDA: Things like setting up the ground rules, like, there's no stupid questions. Also, there's example presurveys. So if you're going into a room where you don't know people. Or if you're getting ready to do an on boarding session, and you want to get people to check in about where they already are, there are a couple of surveys. And there's one other thing in there that I'm spacing. But it's the sort of, like, how do you do a -- oh, it's a path finding sort of, like, some suggested ways that you might -- if you're coming to this thinking that I'm going to lead a series of training workshops, what are some ways that you're going to organize the materials? Right now, they're alphabetical, which is probably not the best way to approach training. I could be wrong.
+
+>> Does chapter one include level ups training guides? Because it's super robust.
+
+>> Yes.
+
+>> So where is chapter one?
+
+MATT: It's kind of, like, there. It's not even on a Google drive yet.
+
+>> It is on a Google drive, but it's anything of that nature good place for edits yet just because of, like, how energy and time got spent. If people are interested in working on that, I would super love. But it's not in a place where I think it would be helpful and productive for me to be, like, here it is. Because it would become chaos.
+
+>> My question. So I feel there's a lot of guides out there, and evaluating which one's better than the others is good but having folks lead training sessions in their newsroom is most important. So if you get them hands on, that's the most important thing. Is that part of chapter one? Or, like, a bigger plan to make sure that these training sessions actually happen and, like, how follow-up could happen?
+
+AMANDA: Yes, so the other thing that we would love to do is, first of all, collect -- start to build a group of people who are doing trainings or are doing these sort of, like, one-on-one trainings but are open to doing trainings. And get folks actually doing workshops. But our survey expectation about that kind of, like, execution and follow through and kind of, like, building is that at a point where it's ready for publication, which we're close to. I think we're hoping to get that done in the next month. Then the next step is to encourage people to use it and get feedback on what's not working and start building a community of people who are using it and kind of learning from it.
+
+MATT: I would say the other thing. I think this is okay to say. We have a Slack community around all this work. So that would be another way to stay plugged into this and to meet those who aren't here. Because I think in the community, there were maybe 12.
+
+AMANDA: 20 of us.
+
+MATT: Quite a few people. We're just the representatives. If you want to join those people in this activity or in a on going way because you're doing these trainings, that's a good way to do it. Is to is on we'll get that info on the ether pad too.
+
+AMANDA: We still have 15 minutes, but that's where we are. These are it.
+
+MATT: So let's have a time of kind of open discussion here, and then we'll wrap it up once we're kind of done with that. But is there anything that this brought up for you guys that you wanted to mention or talk about?
+
+>> I just had a question. When you were putting -- did you have examples of the newsrooms that are doing this kind of training or who already have kind of a more robust curriculum in place?
+
+AMANDA: No. So our -- I would love -- what I've sort of heard in my kind of work is that there's a lot of folks that are thinking a little bit more about moving this into their on boarding system. I know that the intercept has, like, a really heavy duty on boarding system that may or may not have lasting impact in the newsroom.
+
+I don't know. Do you think -- does anybody here work in a newsroom that you feel does this well?
+
+[Laughter]
+
+I haven't found those newsrooms.
+
+>> I wonder if there's a management process that needs to be put in place. Because I think about the reality would have such great security people who were never even consulted on that particular story. And that's not a -- that's not a personnel failure or a tool failure, that's, like, a management process failure. So maybe there needs to be some sort of process that needs to be laid down from the top down, like, this is -- these are things, like, checklist things that you must do.
+
+AMANDA: And one that thing isn't broken down into the documents but table of contents are actual workshops that you can do with a group of people that are going to go away and use the tools that you showed them how to use.
+
+And another thing about how to talk to your newsroom leadership about making this happen? And whether that's, like, you as full reporters who are, like, we really want better structure here. Or whether that's you as, like, someone who, you know -- a newsroom is, like, can you help us figure this out. And you're, like, okay. But some of this is leadership team. Some of this is, like, get everyone using two factor and understanding why. But you can teach that to users. Some of this does need to come from the top, and that's everything from the kinds of things that you're flagging to making it part of the on boarding process.
+
+I feel like you've had your hand up for a long time.
+
+>> Well, I did have my hand up. But I guess my thought is I'm coming from the perspective of, like, teaching at a university. What's your thought of -- I guess you're saying from top down but bottom up. Do you think that -- I mean, I would love to just do a class on just this. I guess, what's your opinion on that? If you're not going to get the buy in from up top, how much do you think this needs to be part of a journalism curriculum moving forward?
+
+>> I think one of our -- definitely one of our intended audiences -- I was teaching journalism for a long time before I went back into BuzzFeed. Absolutely. Like, one of our hopes is that one of the things that I hear a lot is that, like, individual faculty who are teaching reporting classes are sort of, like, I should do more with security, but I don't -- that's not been part of what I taught before, and I'm not sure the right way to go about teaching it is. So just throw out a few lesson plans that are, like, here are good lessons. Some of them are 20 minutes, some of them are an hour. So maybe it's 20 minutes one week you can have everybody do a little bit of connected app hygiene. But, yes, I think that journalism school should be teaching this.
+
+MATT: Whether it's this resource we're putting together for newsrooms, or maybe it's one of the guides you find in the list. Some of these are really good and can probably form the basis of a unit in a class or something like that.
+
+>> I guess, like, part of the problem too, and it's depressing to say this, but there's a lack of digital literacy among kids. It's a total myth that they know what they're doing with their computers.
+
+MATT: That's a really important point -- the newsroom training bit we definitely positioned in the middle. It's not, like, how does the Internet work. That is a bit assumed. But it's also not, like, what are the super details of all the technical details either.
+
+And it's necessary in order to understand this next layer of practices; right?
+
+>> So I'm not as worried about getting buy in from the leadership where I work as much as I am them turning back to me and saying "You do it."
+
+I don't have any time to do something like that. If I did, I would totally do it. But, like, how do we convince leadership to hire somebody to do this? Like, it is important enough that they create another position where that is their focus?
+
+MATT: I'm going to throw that question back to the folks.
+
+>> What might be good, if it doesn't exist be is, like, a list of newsroom screwups and leaks and stuff; right?
+
+MATT: A disaster list.
+
+>> Like, here's the 100 cases that could have been avoided if we invest right now.
+
+>> That's a good idea.
+
+>> That would actually be a good idea.
+
+MATT: Chapter four.
+
+>> No. I think that would be a great idea as part of this. Because it's not like we don't have things to pick from.
+
+MATT: The reality winter thing actually happened while we were having this convening on the day of. So there's an increasing number of those; right?
+
+>> There's also to go along with that, also making as a company making, like, a public commitment to prioritize security in the workplace. Like, the same way that, like, diversity and inclusion has been a big thing over the past ten years and now companies have to publicly share that information or they're, like, sham But making it something like that where it's, like, this could be the starter thing, and then I think this community could build a site where it's, like, do this or people won't work for you.
+
+But for real.
+
+>> Wasn't there a website where all the major news organizations and whether they had HTTPS --
+
+>> Are you talking about secure.news?
+
+>> I think so.
+
+>> They gave you a letter grade and ranked 50 media websites.
+
+>> If we open up an entire, like, chapter to list of screwups, will you guys bring us Web stories?
+
+>> Oh, yeah.
+
+>> A ton.
+
+>> I would definitely read that for sure.
+
+>> I would blast that on social media.
+
+>> Yeah. I was going to say just put that on Twitter.
+
+>> Cool.
+
+>> We'll do that.
+
+>> It is -- the one thing about screw up stories is that often the screw up was, like, stemmatic. So there's -- like with the reality winter thing, a lot of people were, like, why did they mail the folded -- and it's, like, it really did happen two steps back that the error took place and the person who, like, didn't notice the fold on the scan, like, shouldn't take all the heat. But -- so that's the one hesitation I have with screwup stories. I don't think there's a problem with them as a category, though.
+
+AMANDA: I think the bigger the list is, don't be the inter -- this is human, but look at all of these broken arms. Let's not break any more arms.
+
+>> Also, there's a lot of silent failures that we don't know about. Like the old joke. There's two kinds of companies. Those that have been out and those that don't admit they've been out. And there are advisories who want to be inside of newspapers to gather intelligence, and they're not going to make a noise because they want to keep collecting, and you have no idea that they're there.
+
+>> Yeah. I guess the big problem is not someone hacking your site. It's that they subtle the change a story somewhere, and you don't notice. Like, that's the kind of -- if they're in your -- if they're changing what you're saying, that's much -- you know, people aren't going to realize that you published a story that has the opposite intent.
+
+AMANDA: My newsroom would notice that. That a story was edit. But also, like, who are they talking to? What's happening in their Slack channels? You know, where are these conversations that are moving offline that I would like to know about because I want to know who was the source of that information.
+
+You had a hand up.
+
+>> I did not have my hand up. But that's okay. I think the point that I was going to make is that I think the screwup stories idea originated from your question about how to make management accountable. And while the stories are really embarrassing, I feel like the more motivating factor would be what is the business cost of something like that happening, you know? Like -- that's when anybody empowers is how much did this cost us as an organization for, you know, losing the ad revenue by not publishing that story or for, you know, any number of, you know, economic factors that would affect the business because of bad security.
+
+>> It's almost selling it like insurance.
+
+MATT: Yep. Well, we've reached the end of our time already. Do you have any closing.
+
+>> Thanks, guys.
+
+MATT: Yeah, thank you so much for joining the fight on this. We appreciate it.
+
+AMANDA: If you have pads and pens.
+
+MATT: There's a link back to the etherpad on the schedule. And probably tomorrow we'll have a lot more up there. All right. Thanks again.
+

@@ -1,0 +1,215 @@
+How do we protect our users’ privacy?
+Session facilitator(s): Ian Carrico, Lo Bénichou
+Day & Time: Thursday, 4:45-6pm
+Room: Thomas Swain
+
+IAN: What time is this session supposed to start?
+
+>> Five minutes ago.
+
+IAN: All right, so I'll turn around. Let's -- -- we'll do a quick intro, since I guess we're starting. Thank you for that. Hi, I'm Ian. And this is Lo.
+
+Hi guys. Would you like to do a quick intro of you, Lo?
+
+LO: Yeah, sorry I'm not here. I had a family emergency. I'm probably not going to stay the whole session. I'm probably only going to be here for 10, 15 minutes. I work at Wired in the department. I formerly was a visual journalist and interactive news developer and this year I guess I got really into security and digital security and digital privacy. So there you go.
+
+IAN: And I am a performance engineer over at Vox Media. Got involved in performance security and also advertising, which has some lovely fun privacy implications to it. And kind of merging those two worlds together to have some fun issues that come along with it. This session we put together about security and privacy, first off, let's see here, we got one, two, three, four, five tables? OK. I'm going to have all y'all to go to -- this is actually in the etherpad on the SRCCON site, but we have a little activity that we're going to start with if I can get this working. So it's -- there's the short link or you can go to the etherpad and it will give you a little mini site where we have nine different groups and if we want to get into, I guess just the first five, let's see here. Table 1, 2, 3, 4, 5, and you want to come join a --
+
+>> ERIKA: I'm just hanging out, yeah.
+
+IAN: Let me know when everyone has that little site open.
+
+LO: Can I -- real quick?
+
+IAN: Yeah, please.
+
+LO: Just for a quick intro what you're going to do in this session and like for a long time, really hard to make privacy and security fun because often it's tedious and really just a lot of work. We decided to make this a role play game where I'm get basically a scenario or a mission, and you will be playing as a newsroom. It can be -- I guess there's two different roles. You can be a large or a small newsroom, so you'll have different resources based on that and what we want to get out of this session ultimately is your -- is guidelines and possibly like a manifesto on how to handle situations, stuff like this, for a newsroom and explore the different ways that newsrooms are, you know, under threat. Whether it's through behavioral, technological or ethical threat. So I guess I just wanted to like set up the goal here is that all of you together, by going through the scenarios are just going to take notes on how you're going to handle those missions or those scenarios and those notes are going to be turned into this sort of a guideline and obviously we're not going to spend the whole -- you're not going to spend the whole session just running through the scenario. At the end, the whole point of this is to discuss this together.
+
+IAN: So groups 1, 2, 3, 4, 5, there's -- take the first five activities down below for your table. Each one has a scenario of the newsroom that you're in, the resources that you have, what's been happening, and we want you to take a look at not just -- see what your reaction would be if you were in charge this newsroom. If you were in charge of these users, the journalists in your organization, and what your reaction to these would be. And not just your reaction immediate, but how could you have prevented this from happening in the first place and what policies could have prevented such an issue from arising. So we're going to start with about ten minutes talking about that. And then there's a link on the bottom that do not click in the first ten minutes and then we'll switch up what we're working on a little bit. Does that sound good to everyone? Working in groups? OK, I'll be walking around, but let's chat in our tables and start talking about some things that could occur.
+
+[group activity]
+
+LO: You want to see my dog? Because he's literally staring at me right now. ...
+
+IAN: I'm going to interrupt you all for a brief second. See on the page here where it says, "Do not click here until we give you the green light"? You have the green light. Click there and see what happens ....
+
+IAN: OK, so what we're going to do next is we're going to bring it all back and talk about -- so everyone's different scenario was unique, obviously, and a couple of things: One some of you probably already know this, but every single one of these scenarios is something that has happened. There's background information and there will be links to actual news stories of where people were hacked or the home pages were hacked or things like that. You let's go in reverse order and talk about the different scenarios and kind of what -- what happens -- what you guys took from it and what we should do and because I'm fair we're going to start with 6 and go backwards. So 6 up here right now where we have a newspaper and you wake up in the morning and you look at the home page on your phone and the home page is hacked with an article, "pressure built in House to elect CHIPPY1337 or CHIPPY LEET and the other thing is that you discover that the account was actually created by an employee and you know for a fact that this employee posted the information on a known hacker site and there's no known security breach other than an actual employee. So what did you guys say you should respond to this. Let's start there.
+
+AUDIENCE: Well, the first thing we thought was like how could it have been like so easily done? So like only like certain people are even able to create the accounts, because they didn't believe that a random person was able to create an account.
+
+IAN: I have a quick survey for people of you who work on the back end of CMSs? How many of you can create an account? Note most hands raised.
+
+[laughter]
+
+AUDIENCE: Yeah, so like more authentication, like when you're making something as like a change in the home page, which is very easily accessible to everybody. Especially the people going to it. Setting up a media system to be able to locate logins, if there are any suspicious logins that could be alerted to.
+
+IAN: That's great. Does anyone else in the room have any thoughts on how this could be prevented or reactions to it?
+
+AUDIENCE: Maybe change the CMS.
+
+IAN: Change the CMS?
+
+[laughter]
+
+AUDIENCE: You could have a two-editor necessity to give more people permission. Two people have to agree to give new permissions.
+
+IAN: To give new permissions to a user? Actually, that's ...
+
+AUDIENCE: The one question I have is if the IT team determined that the account is created by an employee, is that just the digital record that was created? Do we know that the employee actually physically created the account?
+
+>> I'm going to say for the purpose of this story, yes, we know for certain that there's a physical record of some kind. So the actual story came from is there was an employee from. LA Times and that found out that he was going to be fired and he got furious.
+
+AUDIENCE: He went to jail.
+
+IAN: Yeah, and the front page of the LA Times was hacked for a day and my reaction to the story was, you know, if I wake up in the morning and see that, what else did they do? Because if they got to the home page, think of like the old articles in the past, the data that had been compromised? I mean they had access to almost everything if they can touch the home page and what you hit on is precisely something that is super-common in security systems of, so many people have access to create so much that any singular employee in the engineering team has complete access to the site. And that's severe danger. Cool. Let's move on to the next team. You all were Wired? Cool. So for this one. You guys got a phone call from security researcher regarding a potentially sensitive information on the magazine's website, names, emails and the hashed passwords of all of your CMS users are being made available on the page within the source code. Unknown if anybody was able to utilize this data in a malicious way, although the passwords, it wasn't a clear password, it was a magical password in the back end. And the twist is that the Editor in Chief of the magazine wants to be as transparent as possible in this matter and leaves it up to you to deal with it. This actually happened to Wired. You can look online to see Wired's entire reaction, and how it happened, why it could happen and how a little true or false flag ruined everything. And let's talk about that and how it happened. What did you guys respond to it with? Or how did you feel it should be responded with.
+
+AUDIENCE: First we would force the users to change the passwords. Either you would change them all immediately in the database and when they next tried to log in, you would prompt them for a new password and make sure that the hash is different from the previous hash. And then we want to make sure that there was no malicious entry into this system, so we would audit the production logs and try to analyze whether or not all of the logins were legitimate. We would also do an audit of the public site to make sure nothing was ... ... And ...: We'd make sure there's two factor authentication on the CMS.
+
+IAN: Does everyone know what two-factor authentication is? Does anyone not know? Oh, fantastic, you're all doing it right.
+
+AUDIENCE: And Pam brought up the point about trust with the audience, that somehow if their information was not also exposed, and so we chose like a persona, so our persona was like a major newspaper, so we just thought of like USA Today and what would USA Today do? And one way for USA Today to explain what happened, was to be on brand, USA Today would get the graphics team to make some highly visual graphics and great photos and like, you know, very visual storytelling for a very broad audience. Do that same thing for this security issue and try to actually just help explain the security issues to their broad audience.
+
+IAN: How would you have prevented this from happening? Did we talk about that?
+
+AUDIENCE: Well, we did talk about if there was two factor authentication, well, two-factor authentication would have prevented any bad, malicious entry.
+
+AUDIENCE: It sound as though they were -- the database was exposed accidentally, so we could talk about code review or management processes to avoid that kind of situation, or we can have -- we can bring in pen testers,.
+
+IAN: What kind of at the timer?
+
+AUDIENCE: Pen tester. Well they'd be looking for other things, as well. Oh, penetration testing.
+
+IAN: Oh, I'm not that familiar with the jargon.
+
+AUDIENCE: I think it's reasonable.
+
+IAN: But to give you a small background of this, it was a query in WordPress that was being done for a REST query to get more content on the page and with that there was some flag that should have been set to false, it was actually set to true and because that was sending all the author's information from the database directly, so it included user information along with T my big problem with this is the emails. You can change passwords, you can change other things, but email addresses can be harnessed and used and it's a weird vector that can be really abused really quickly. Anyone else have any thoughts on either what you would do if this was you or your reaction?
+
+AUDIENCE: Well, the emails for journalists are typically in their byline or on their bio page. Would there be a greater risk having them available this way? As opposed to I want to socially engineer -- [inaudible] and there it is in his bio?
+
+IAN: It depends all of my public email addresses that are list in places are not actual email addresses, they're all aliases. And it's to prevent people from knowing my actual email address and having people find it so I can -- I don't care if NPM doesn't work anymore. I care about what people actually contact me with. But that's me.
+
+AUDIENCE: And advantage a list makes it real easy for a phishing scam, too.
+
+AUDIENCE: There actually is another email field that is still available in the content of some of our websites, but it's explicitly like a writer's or a contributor's "contact me" email address.
+
+IAN: Good point. So our next one is one of my favorites, near and dear to my heart, the intercept. So is everyone familiar with the intercept story that happened like a month ago? OK, so we have a newspaper that gets a -- the -- I think the incident was actually like literally mailed documents securely. They got this information, they have a secure drop set up if they wanted to do it that way, and they make sure all of that's set up properly. Well, shortly after you publish an article about a government program that's happening, your leaker was arrested, and it's due to a -- the documents that you received via secure drop you shared with the government to confirm that it was all true and make sure you get all of your backstory done and it turns out there is enough metadata on there that they could actually find out exactly who sent it to you and arrested them and your leaker has been compromised.
+
+The evil twist to this one is that one of your reporters comes and talks to you and they're working on another story based on a secure drop and the reporter has sent raw documents digitally to the respective agency to corroborate the story. You are unsure if there is metadata or other ways to track down the source of the leak of this one. What did your group do?
+
+AUDIENCE: We were lean on ideas.
+
+AUDIENCE: That's a good way to put it. We're not really sure who's at fault here. Is it the source's fault for not knowing about secure docs or is it the intercept's fault for not caring about the secured docs.
+
+AUDIENCE: And in either case, what could we possibly do now?
+
+IAN: What could be done to prevent it? Did we talk about that?
+
+AUDIENCE: Yes, Don and Paul came up with a great idea, which is retype the documents.
+
+IAN: That's, yeah.
+
+AUDIENCE: Lo-fi,.
+
+IAN: Lo-fi, get out a typewriter!
+
+[laughter]
+
+AUDIENCE: ProPublica actually did a great job with that a couple of weeks ago.
+
+IAN: Yeah, this one is really, really rough, because you're right. Who's at fault on this one? Is it the leaker, that probably should have known that she's working in an organization that audits every single thing that happens in that organization or is it the intercept organization? Anybody else have any thoughts on how this could have been prevented how or what a proper response for an intercept should be?
+
+AUDIENCE: I feel under the make things great category would be to go through previously sent documents and evaluate what the total risk is.
+
+AUDIENCE: I mean I think the intercept has some culpability here, because for their own sake they're doing themselves harm in the future because people aren't going to want to leak to them in the future. Because they caused this.
+
+AUDIENCE: You would think that there's like a tips thing at the bottom and it's still not there. Which is a little surprising.
+
+IAN: Is it their secure drop page?
+
+AUDIENCE: Yeah, their secure drop. It's very detailed.
+
+AUDIENCE: I've never been to that.
+
+AUDIENCE: In this story, was it that they published the secure doc and people who weren't even the NSA were looking at it and figuring out when it was printed?
+
+IAN: I didn't realize that happened.
+
+AUDIENCE: No, I think the intercept organization showed it to someone else in the government to corroborate the story. That person filed or somehow made it known that there was a leak and that's where the investigation. In reality using her work computer contacted the intercept via email about a different issue, so there was also like motivation.
+
+IAN: And I think you're right with that one, and it was like this document, according to the NSA had only been printed like six times or something and only one of which from that location and it knew exactly who printed it. It was once they got the documents in hand, it was quick.
+
+AUDIENCE: They are providing money for her legal defense, which is an interesting ethical question.
+
+AUDIENCE: The intercept is?
+
+AUDIENCE: Yeah, $500,000, I think.
+
+IAN: That could be a whole other session of ethics with all of this, but yeah.
+
+AUDIENCE: I think the biggest ethical question for this one is when you don't consider prevention anymore, you consider the moment of like we've already done this. Like, but no one's been arrested yet.
+
+IAN: Yeah, what do you do? Yeah.
+
+AUDIENCE: And I mean I'm lost.
+
+IAN: Yeah. So many fun questions. Let's go to the next one. 4chan, hack the planet. So this one, last week one of your reporters wrote a story about an infamous troll who happens to be an influential 4chan user. Shortly after publishing the story, you receive a warning from a security firm: Hackers are planning to launch an attack against your staff, and dig up any compromising information. While there has been no direct attacks as of yet, the number of ... the safety and privacy of your employees is at stake. And the twist is one of your editors forwards an email that they clicked on to your IT department. As of now you're unsure if this is related to the threats or if it's just a generic phishing scheme. You're also unsure how much the attacker was able to obtain. So what are we going to respond to with this one?
+
+AUDIENCE: So this one was tricky because there are so many considerations. Where, you know, one is that the reporter gets doxed, and her personal information is revealed. Another is that someone hijacks her social media accounts. Another is that you're -- you know, they get access to your email and any incriminating information is published, so I guess we discussed some things that we would do. Number one, talk to the person affected, make sure that you have a plan to keep them safe and alert the authorities if their personal information and any death threats are made. Enforce two-factor authentication on email. Update all social media passwords immediately. Let's see. Revoke third-party access to Google account.
+
+And communicate to your readers, I guess if you've been hacked or targeted. Let them know that, like, hey, we -- I guess when you regain access to your account, that you've been hacked and that you know, they should disregard whatever was published previously.
+
+AUDIENCE: We talked a lot about having a protocol for this that you plan outside of the human moment of this happening. And like having a checklist or something so that there are steps that you take right away without having to -- because there are other things you'd want to be doing to kind of talk to people and have them feel like it's taken care of.
+
+IAN: One of the things that worried me is a lot of law enforce. Right now when they hear oh, you're getting threats on Twitter or something like this, it's just stuff that happens on the internet, they don't know how to respond properly. And then you have a guy showing up at a pizza parlor, with a gun, fully believing this insanity that's on these weird forums and what happens when someone comes to the offices? You know, most of our offices are public information where they're at. What happens when someone comes to the office wanting to go into the office? Is there physical security there to make sure that you don't have people able to access it who shouldn't be there? Do you have protocols in case what happens if they do gain access? There's a lot of really scary stuff that could happen through some trolling campaigns, as sad as it is. Anyone else have any thoughts on what should be done with this one or what -- how could it be prevented?
+
+AUDIENCE: I think there's been an article that circulated around how every newsroom needs a 4chan reporter? Has anyone heard of that? It's very much in the back of my mind, but try googling that a little bit because it makes a really strong case for them really being familiar with 4chan and if you really Ed that network, which I don't understand it at all.
+
+IAN: Has anyone been on 4chan I have a partner who works in the government and sat down with him and explained to him why if ever he appears in public, I get worried, because I have seen some really crazy things. Or I'll check 8chan every other month or 4chan, look at the politics board and see what actually happens on these places, and makes a good point, if you have someone who understands it, because it is heavy and horrible things. You will see the absolute worst the internet has to offer on these message boards, but people live on it and it's scary and it's where a lot of the crazy memes that you'll find on Twitter a week later start in message boards like this.
+
+AUDIENCE: I was just going to say you could set up mentions like Google alert for your name, for your company, etc., so you don't have to remember every month to check it. But you could have it come to you so you you know ...
+
+IAN: Yeah.
+
+AUDIENCE: Some companies run internal phishing attacks and I've seen companies give out awards for the department that was most likely to forward it to the security team and, you know, anti-awards to the department that was most likely to click on it. At a small local newspaper, maybe that's too easy to deanonomize by departments.
+
+IAN: It wasn't too long ago that these Google phishing schemes came out, that were really well done.
+
+OK, let's go to the last one that was far less serious, so the scenario, you were just informed that a cloud-based backup folder was publicly available to anybody with an am done account. This storage contains all of your customers' names, addresses, account information, email addresses and last four digits of their credit cards. The leak originated from incorrectly setting permissions on the concerned folder. And the twist: Is before you're ready to say anything publicly, the Washington Post does an expose on the leak. It's immediately picked up by every major outlet. Spreads like wildfire and the press is calling you for comment. What do we do?
+
+AUDIENCE: Well, sort of broke down response into immediate and longer-term. Our immediate responses is first somebody locks the bucket so it's not accessible anymore and configures log on it so that next time you have some idea and the last sort of immediate response to go to the available PR team and start crafting a comment, so hopefully the gap between the press calling and us having something is short. Whether -- I mean based on PR team feedback, whether that's press release, EIC statement or publisher or whatever the right officers are, obviously that would include response to the press. Longer-term communication to everybody who was potentially affected by the leak, coordination with banks or at least credit card companies for those numbers. Ideally, if it's possible to afford it, credit monitoring services for affected people, and figuring out how to make sure that this fairly sensitive data is not accessible to everybody in engineering, because odds are they don't need it and why was that set up that way in the first place?
+
+IAN: So if I recall correctly, this was the Wall Street Journal, background information?
+
+AUDIENCE: Yeah.
+
+IAN: If anyone who's messed with Amazon security policies, they're confusing and they set it up that anyone could access it, thinking anyone in their organization could have access to it, but it was truly anyone with an Amazon account could access the bucket completely, as long as they have a name for it and they were keeping backups of their user data if I recall correctly in this folder so it was just a generally open folder that they store backups in. Not exactly an uncommon thing. Ways to prevent this?
+
+AUDIENCE: So one of our concerns is why why are backups being stored in a place that engineering needs to access. Don't do that. Store data in separate and appropriately-permissioned things. Backups don't need to be accessible to everybody in the organization.
+
+Configuring permissions correctly, although if you screw up, it's again back to the code review question. Have multiple people sign off on it at the very least.
+
+IAN: What Amazon security releases are code reviewed?
+
+AUDIENCE: Yeah, not enough.
+
+IAN: Indeed.
+
+AUDIENCE: Preventing a human mistake is always like the hardest part. Like, what process can you possibly put in place?
+
+IAN: Does anyone else have any thoughts on how this could be prevented? Actually anyone in engineering groups, how many of you have backups that you can access or Amazon buckets that your entire company can access?
+
+AUDIENCE: I mean we have buckets and we have backups. Some of us in this room have fairly high levels of permission, though. So I'm not a hundred percent sure.
+
+IAN: Yeah, I'm fairly certain at Vox I can say most of our buckets, most of our company cannot access. We -- we are fairly secure on that, but our -- we have a bunch of buckets that have deanonyimized information.
+
+AUDIENCE: We have some that anybody can access, but that also means that anybody can put something else there.
+
+IAN: Yup, cool. So the last thing I want to do is actually something you just said at the very end, which is perfect timing. Thank you for this: Preventing human mistakes, most of these scenarios are all preventing humans from making mistakes. Most of the security issues that you're going to have are all human issues, are all preventing a rogue employee from hacking the home page, a someone configuring permissions incorrectly, and that's -- or clicking a phishing email. These are all -- that's your greatest attack factor from almost everything. You can have all the strictest security policies you want. If whoever's in charge of it makes a mistake, then you have an issue. But yeah, are there any other questions or things we'd like to talk about? This was the bulk of what I kind of wanted to talk about, was different scenarios. Bueller? Bueller?
+
+AUDIENCE: I think in general, I'm not a journalist, so this is my impression of journalist is they have a healthy curiosity. Some of the most foundational sense is to develop a healthy accepts of paranoia and those are two closely related character traits, so I think some of it, yeah, you can prevent human error to a certain extent by just not making it available to people, but also helping people cultivate that sense of insecurity that, or questioning, that will just, you know, prevent some of these things from happening without thinking about it.
+
+IAN: I have a kind of a funny story about that. So the same day that the Google doc phishing thing happened where everyone had Google docs, we actually had -- was it an editor or a writer? Writer, who shared a document with the all staff email address, so it went to everyone at Vox Media and all of a sudden everyone at Vox started sending this email like, I think someone is trying to hack us and it was this writer accidentally on the exact same day, sent out a Google doc sharing link and everyone was kind of freaking out a little bit. There are funny stories that come out of this. Well, awesome. Thank you all for talking about this with me. With different things. All the scenarios are up on the internet and I'm going to type up all the responses and put them on the etherpad. That's what it's called. And yeah, kind of do the -- what we took out of this, and what you can do. Thank you. Cool.
+
+[applause]
+

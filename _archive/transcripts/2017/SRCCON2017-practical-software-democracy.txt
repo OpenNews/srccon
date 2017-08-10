@@ -1,0 +1,273 @@
+Practical approaches for creating software to cover democracy
+Session facilitator(s): Aaron Williams, Steven Rich
+Day & Time: Thursday, 10-11:15am
+Room: Thomas Swain
+
+AARON: All right, we've got a crew, let's do it. Hello! I'm Aaron.
+
+STEVEN: I'm Steven, and welcome to Practical Approaches for Creating Software. Kind of a long title. So that's us on the internet and stuff. And so what we want to talk to you about today is one thing that's been really interesting with our jobs as journalists and as people who work in kind of the news code world is oftentimes the work we do and when we collect data, even like that, we have certain process that is we follow, but what's been interesting under this administration and just since the election it seems like we have to cover a lot more ground a lot more quickly so as reporters, and even newsrooms like the Post where we work, which have a lot of resources we still are really strapped to find data, find deadlines, and get these stories across. So what we wanted to do today is have a meeting of the minds and just discuss the kinds of ways we can collect data and just cover what's happening in America.Ing so we have like two different.
+
+STEVEN: For y'all that don't know me, I'm the database editor for the team at the Post. Over the last six months, the data reporter who works on our politics team has been maternity leave, so I have also a lot of stuff to do surrounding Trump, and most of what I've done is not just collecting data. It's setting up ... ... ...
+
+AARON: We knew that Trump's businesses tended to file for H1V and H2V visas a lot, and so instead of going to the site every day and trying to figure out if they had filed for anything, I set up -- I wrote a script that runs to check every five minutes whether or not Trump business has filed for a visa. One of the sort of beautiful things about this is it sends an email to all interested reporters at Post, so anybody can pick it up and run with it, but I will note that because of the way that the search works on the site, it could -- there's the possibility for false positives. Basically if your business has the word or has the letters T-R-U-M-P in it, it will get back with this and that's why it's an email in it and not an automatic story that gets published online. [laughter]
+
+>> All these Trump and companies that --
+
+>> Right, we've found -- and I'm sure many of you have, that any of these alert systems that we set up, most of them we need some layer of editorial control, because we can run into problems where we get a lot of false positives
+
+AARON: Right, and so we're kind of talking about two ideas here, so in this case you have an automated Python script here. And then we have this -- we checked, you know, the first 100 days of Trump claims, and we didn't write any sophisticated machine learning or LNTK, kind of like text and extraction to kind of get this, it was literally Michelle and Glen in a spreadsheet running through eclipse. Just to say that because we have technology and all of these things at our fingertips, sometimes the most accurate way to do something is by hand, human curation, and so I think you know, these two stories kind of show the universe that we're in right now where you have a mixture of technology that gets us to alert us to stories that we might not have found and we can also have projects like this, where there's a team of reporters sitting together, trying to gather and get data and then publish in some kind of way for the public. And so we want to now ask y'all, like what kind of other ideas out there? I mean I think that in the case of these two stories, so we have Trump, visa filings for business and speeches he's giving, transcripts. So now what we want to do is what are some other kind of data sources or places we can find information and one thing I want to mention. This isn't unique to just Trump, in the case of the business filings, this could have surely been a local business official, a state official, you know, anyone in local government or city government, so it doesn't have to be specific to Trump or the Trump administration, but we are curious, you know, so again, we talked about visas, we talked about sorry, claims of transcripts, what else is out there? Just feel free to shout it out.
+
+AUDIENCE: OpenStates database has a lot of data from constituent legislatures and things like that. You have ... so open states. Just a nice curated dataset around state data. What else?
+
+AUDIENCE: Building permits.
+
+>> Yeah, in the case of Trump, he has hotels, he has, you know, a ton of property, so any other ideas?
+
+AUDIENCE: FEC.
+
+>> Anything else?
+
+AUDIENCE: We did a other a search for deadlines. How those departments are meeting them or saying that they're meeting them or just not meeting them.
+
+AARON: Right. Right. Any other ideas?
+
+AUDIENCE: A lot of policing data that could tie into some of the law enforcement and justice reform debates?
+
+AARON: Right. 
+
+STEVEN: So just to take a step back, so Donald Trump is sort of unique in American history, in that we've never had a person with this many business ties, both foreign and domestic. 
+
+>> I want you to think like the kinds of things that you could get on him. You know, we've -- like with cabinet members, sure, he's had a lot of these rich cabinet members in there, but that's not really a new thing. If you know about any of the cabinet position, most of them are rich donors and not like political folks, so what can we get on Trump and his businesses? Stuff you've done. Stuff you could think to do?
+
+AUDIENCE: Looked into liquor licenses. One of his properties his name was still on the liquor licenses.
+
+AARON: And those are have a ton about how much money is coming in.
+
+STEVEN: On that, I should also note that Trump licenses hads name to a lot of different things, like some Trump hotels, he has nothing to do with them other than his name is on them.
+
+AUDIENCE: Network analysis, there aren't a lot of interweaving webs of different connections from different people.
+
+AARON: Right, and I think BuzzFeed, they did a network on that.
+
+AUDIENCE: How about international business relationships, not only Trump but all his relationships,.
+
+AARON: We recently published a store for Ivanka Trump's clothing lines, that the various businesses across the world that had to go to shipping her clothing into the state. So that has ties with several different business owners.
+
+AUDIENCE: Corporate governance documents, things that have to be filed even if they're privately held, who is or is not the CEO of a company or who got promoted to something.
+
+AARON: Mm-hm.
+
+AUDIENCE: The flights database.
+
+STEVEN: Yes, Trump owns at least one plane and who is it that tracks it? The FAA, you can get their database of the trips that he's taken. We acquired it since 2010. It's pretty interesting.
+
+AUDIENCE: Doesn't the FAA have like incident records, as well, for all of the flying objects registered? 
+
+STEVEN: Yeah, if there was one. I don't know if there are any.
+
+AARON: Right, right.
+
+AUDIENCE: I heard this on NPR recently, but USGA, the golfing association, and you can look up his handicap and --
+
+[laughter]
+
+STEVEN: USGA is great.
+
+AARON: Speaking of his businesses, a lot of his hotels that he has, have restaurants. Guess what you can ask for? Restaurant data. And you can look into who's being hired and like that.
+
+AUDIENCE: Property records can reveal a lot. Who he's selling or buying from, and transactions in the past.
+
+STEVEN: Anybody here from USA Today?
+
+AUDIENCE: I didn't do the condo thing.
+
+STEVEN: Is that what you were going to say?
+
+AUDIENCE: No, but let's do that one.
+
+STEVEN: What else you got?
+
+AUDIENCE: I was going to say connections to -- transfers between different charities and different vendors that are connected to other charities.
+
+STEVEN: It's also probably good to look at politically oriented charities. But USA Today did, they tracked his lawsuits. I mean he is sued a lot. He sues a lot of people, too.
+
+AUDIENCE: Import/export records.
+
+STEVEN: Yup. That's part of how the Ivanka Trump story came together. All right, I'll let you make the
+
+AARON: Go ahead.
+
+AUDIENCE: So how about Goldman Sachs, there are so many Goldman Sachs employees, their relationship and how they work together.
+
+AUDIENCE: Just where he goes. Travel around the country.
+
+AARON: One thing I was going to mention is we did a story where we looked at the Secret Service contracts, not just for him but his immediate family, where they're going, how long they're staying and where they're staying, things like that.
+
+AUDIENCE: There's a lot of legal stuff you could do.
+
+AARON: Right. Cool.
+
+AUDIENCE: Which yeah, it's basically informal guest records. And then also' a push to get the official White House guest records, as well.
+
+AARON: Cool. I think this is a pretty good universe of the kinds of things that exist out there. So now I want to know, just like really quickly, what are some things you can do with this data? We've talked about some stories that we've done and other news organizations have done, can you just to kind of get your brain working, think of how you could either, you know, ask for this information, automate it in some way, or tell a story with it?
+
+AUDIENCE: One thing I saw last week that I thought was really interesting was just a calendar where on the day that the State Department had a press briefing they made that day purple and all the rest of the days were white and it was just kind of a visualization over the past year of how it went from every day to once every three days to they had one last week and it was just such a simple way to show something, but it got the job done really well.
+
+AUDIENCE: There could be an interesting comparison of Trump travel patterns as president versus his travel patterns when he was a private citizen. Still going to the same places he already went to, even though he has this new job as the leader of the free world.
+
+AARON: Right. I like that idea. Cool. We just wanted to kind of get your brain thinking. So now what we'd like you to do is either at tables, or however you want to, get into some groups and come up with, take one or two of these ideas and just think of like a very straightforward process, and so we have a -- what we want you to figure out is like what can you script or what can you, you know, automate in some way? What would you have to do once you actually get this information, via script or via just records request, how would you go about transforming this data? You don't have to be super-detailed, but just like how would you transform the data, then what extra layer of reporting would need to go on top of that? Because I think one thing we'd want to emphasize is just because you get this data doesn't mean you publish it. There has to be a level of reporting to it and a level of analysis and then finally, what is your final story? How would you get the data? what would you -- what extra reporting would you do and they what's the final like product? So those four ideas I'll quickly draft up. Get together for about 15, 20 minutes or so, and then we'll come back to discuss. If you have any questions.
+
+STEVEN: If you have a computer, you might be able to find some of this, and so that might be an interesting thing to come back with. ... ...
+
+[Group activity]
+
+AARON: All right, all right, all right, you've got about 30 seconds left, so I'm sure you all have some really awesome ideas and I would love to hear them as I'm sure everyone else would. So, yeah, can we just, in no particular order, go around and discuss what you all came up with?
+
+AUDIENCE: So our idea was to look at the liquor licenses for Trump properties in basically, in theory, all 50 states, in reality they all have very different alcohol laws and it would take you, like, forever, but kind of comparing Trump properties versus non-Trump properties, Trump properties before he becomes president, Trump properties after he becomes president and sort of look at how long does it take between applying for liquor licenses, and see if it comes slower after he becomes president.
+
+AARON: Right, like is he using his influence? So what would be the starting place for the data?
+
+AUDIENCE: So we were looking just sort of broadly at a bunch of different states and sort of discussing their alcohol laws which were all over the place, but kind of looking at, you know, going into the filings, and then obviously you'd have to do a lot of reporting once you had that data, on, you know, who's on the liquor board, how partisan are they? Are they? You know, sort of what that procedure is and kind of, you know, obviously doing that sort of reporting, talking to people on you know, actually calling someone up and saying hey, was this difficult to get this liquor license? Was it easier after? Do you think that this company had more influence than he did? Etc. So.
+
+AARON: Cool. I dig it. Nice. Who's next?
+
+>> Want me to pick people?
+
+AARON: I saw a handfully up.
+
+AUDIENCE: We started with the legal angles. And kind of what's it like to be sued by Donald Trump, so it kind of starts with he threatens on television to sue you, how often does that actually happen? How often is it a threat? What does the timeline look for -- there's a filing against you, how often does it actually go to a settlement versus a judgment? How often does he win versus how often does he lose? First, how often does he lose on purpose and kind of what the ratios are, what the judgments look like, and whether he -- like if it goes to judgment, he loses every time, or, you know, what the kind of average experience is, and the way we got to that is basically that it seems like there's a lot of apples and oranges comparisons we'd have to do if we were trying to do a line graph of something. There's lots of numbers in lawsuits, but they don't really ever line up with each other, so it would end up being more along the line of like, at this point in the process, what are these different experiences that people had, and how did it end up for them?
+
+AARON: Right, so it was a mixture of looking at, you know, filing the lawsuits and like, going to court and getting those documents and they talking to whoever was being sued and trying to figure out, you know, kind of like, what was it like, what happened, and a mixture of the source documents and --
+
+AUDIENCE: And what happens to the people afterward.
+
+AARON: Nice. I agree with that. Actually might steal that idea.
+
+AUDIENCE: So we thought about building permits, and we realized there wasn't a great way to get this data, so we thought a lot about working backwards, finding his largest properties that you know about, tracing them back as far as you get, hopefully finding those building permits and then trying to associate those permits with contractors and doing that over and over to try to find a list of contractors, a list of addresses, anything that we can find that is associated with Trump, and then hopefully using that data, we thought by address, sorting by address might be the most powerful way to do that, because even if his name isn't directly associated with it, like once you get the addresses, you can generally, I think, get more government data on it. Hopefully.
+
+[laughter]
+
+and then from there, we're hoping like, if you have the address, you can find like financial data, could you find lawsuits, safety records. If you look at the contractors and he uses the same contractors over and over again, we thought about, like, immigration and like, if they -- these contractors are applying for visas, and how Trump is affecting his own businesses, by changing immigration law and all of these things, environmental concerns, things like that. And as far as final story, I think that would depend on what we could get and what we could pull from each of the addresses and the contractors he's uses.
+
+AARON: A good point, starting with contractors is one general idea and as you kind of traverse the data and start making connection, you could generate a number of stories based on that, so it's less of like we're going to do this with specific stories, but start with this idea and see how far it goes out. Which I think is a good thing to talk about when you're doing this kind of reporting is you don't always know what the end product is, but there's something really interesting here, start reporting it out, gather data and over time, you might come to like an actual idea that you're going to report on.
+
+AUDIENCE: Hey, so we ended up talking more about travel, both for Trump you but also for Pence and potentially cabinet officials and really trying to merge a lot of existing sources to get a better, like more complete, more real-time view of who's where and doing what. So part of this is just analyzing existing, like, pool reports that our newsrooms might be getting, part of this is social traffic, like especially if somebody takes a selfie outside of Trump tower that says they're about to do something, hey, maybe we should look at that, and the other aspect of that was the aircraft transponders, both for like the planes owned by the Trump organization, but also the, you know, sort of typical presidential air lift kinds of things, like Air Force One, Air Force two, so on and so forth, like all of planes that are usually used for that purpose either are they going where the president is supposed to be going? Or are they going somewhere else and who's on board?
+
+AARON: Nice and would it just be -- do you have a kind of story or idea that you're kind of trying to get toward?
+
+AUDIENCE: I think just generally having a more complete picture of like the administration is trying to drive and who they're talking to in order to do it.
+
+AARON: Nice. Cool.
+
+STEVEN: Awesome.
+
+AARON: Back there?
+
+AUDIENCE: So we kind of took a different direction and like because there's almost like the sense of like trying to prove Trump's like individual malfeasance, right?
+
+[laughter]
+
+not that that's not important, but so one thing that we got everyone's kind of like interested in is like what is the actual shape of the American immigration story, right? Just yesterday, obviously it became a flash point, but I think it's really hard to talk about what the volumes of different immigration paths over time have been, what they've responded to, policies, wars, you know, just different industries brooming or contracting and trying to get this evergreen portrait of the American immigration story, because when people need talking points or something like that, because the point of this session is about democracy, right, so how do people make informed decisions about them supporting different immigration per spectives or restrictions by speaking to the whole history of America with respect to immigration.
+
+AARON: What's the data for this? Where would you find that information?
+
+AUDIENCE: We were talking about the visas from the Department of Labor. So just visas and then we were asking ourselves the question, so there are different types of visas out there, so asking ourselves the question, we're trying to figure out what kind of visas there are, from the Department of Labor for sure and also non-working visas, too, so the Department of Labor or is it the Department of State? Get data there. These are good sources. 
+
+AARON: Cool. Who's next?
+
+AUDIENCE: We went in a different approach, as well. We found out that there was a list of campaign and presidential stops on Wikipedia, and so we used a script to go ahead and scrape that data off, and we've been talking through several different options of what we could do with it. One was to go ahead and contact those venues and find out what the actual capacity was of the venues, to go in there and see if the number that were being offered were factual or not, and see if there's been a fall-off of the Trump bump, so to speak, see if it's risen or fallen, those things. We also were looking at the fact of where he's been in relation to where funding announcements lead in terms of is there a quid pro quo happening in terms of securing folks for his upcoming reelection that he already filed for, and we were also talking about --
+
+AUDIENCE: The most ambitious idea we had was try to use some kind of machine learning to figure out where he's been to try to work out a predicter to see where he might be going in the future.
+
+AUDIENCE: And also to see if there's some truth that he never goes west of the Mississippi. But if you're a reality TV star that lives on the east coast, would you go west of the Mississippi if you wanted to be in the news cycle and so how that plays out in terms of where he goes and --
+
+AARON: Nice.
+
+AUDIENCE: And he kind of did it.
+
+AUDIENCE: Plotting out the rally size over time that he's been to, a few bumps that haven't been ironed out yet not.
+
+AUDIENCE: Why not? Why isn't it working?
+
+AARON: You wrote a sophisticated script in all of ten minutes. Yeah!
+
+AUDIENCE: As far as data sources go, somebody said somethings that made me think, xif data on photographs can be helpful. You could look at Mar-a-Lago over time and see who's hanging out. And so that's a data source that didn't get listed, but could be really interesting.
+
+AARON: Totally.
+
+AUDIENCE: Following off of that, looking at every single image posted on Trump and White House websites, and look at the xif data and see who owns the licenses for the software that's editing that if that gets embedded and see that oh, there are perhaps non-government people who are working on stuff for the government and then you go digging, do they have a contract or are they volunteering their time, which is apparently a violation of some law. Not campaign finance, but something else.
+
+AARON: Cool. Did you all want to go?
+
+AUDIENCE: That was just off the top of my head.
+
+AARON: All right. Some tables back here who have not spoken yet.
+
+THE COURT: OK, we have lost so maybe not completely thinking everything through, but we got very excited. So we were intrigued by the idea of scraping pull reports for keywords. We were looking at what was it, Trump plays golf.com. Trump golf.com and there's an interesting bunch of data there. We were inspired by that because that story has been done by the Washington Post, comparing how the effectiveness of CEOs decline by how much they play golf. So we were thinking you guys already did that story, but we were thinking that if we scrape for keywords, we could talk about -- with Obama, they talked a lot about what he wore, so we were still brainstorming when we moved on to the next idea, but that was something we thought about. We also were talking about a Twitter bot that scrapes Trump's tweets and comparing that with transcriptions with fox and friends, and matching certain fox and friend's statements with Trump's tweets, ideally with a time connection to show some sort of a connection there. And that would be constant stream of T we know daily show and John Oliver do video connections like this, but this would be an idea to get a constant stream of how often this is happening. We were also wondering how many people who worked on the campaign hadn't been paid yet, which brought up the questions of whether or not they have -- [inaudible] staffers, and finally, we were curious about whether or not Trump spends more money on things, because he's Trump and he's accustomed to it and comparing that to previous presidencies? So does he spend a lot on really expensive hair spray? Did he end up renovating or redecorating in an extra way? We know that Obama actually got a nice basketball court, so we were wondering that did Trump did.
+
+>> I was just wondering, how much of these ideas are helping democracy. Or are we just feeding the beast? We were talking about Trump restaurants and trump always talks about food, but yeah, how is it helping democracy?
+
+AARON: I think this is a good point. My personal take on this is that like I think there's one thing to just like doing stuff to just like, under -- not undermine, but I guess like you said, to be a part of the media cycle, constantly saying Trump did this and didn't do that, what we were hoping to get at in this session is not just talking about Trump specifically, but yeah, the general idea of keeping elected officials accountable and part of what's interesting about this is because of how, I think, global he is as a private individual, and then the fact that he's in the presidency, it just creates really interesting, I think, ways for us to try to understand what is happening. So how we understand that comes in a lot of different ways, so yes, like, I think that you could argue that looking at his restaurant inspection records is trivial and feeds into that, but I think it's also interesting for someone who is making comments about whether it's business or immigration or anything, to look at how he privately is doing that, because if that is how he is trying to -- if that's the message he's giving out to the American people, then I think it's our jobs as reporters to figure out well; is that true? But I hear you, though. Because I do think to some level and a lot of organizations are guilty on this. Are just constantly checking on what you could argue are trivial things.
+
+AUDIENCE: Because there was a story a few days ago about Ivanka's Trump's brand does not make anything in the US and it was connected to the buy American bullshit that you do, but I was wondering, it was a great story, it was showing a hypocrisy of the Trump administration, but that point had been made so many times to maybe I'm very negative here, but to like what I see is to have no impact.
+
+AUDIENCE: I think it's a case of it becomes of what we stop asking the "so what" question. So we are still trying to report globally and nationally and not necessarily thinking about how it ties to the individual and the individual cities. So I think that's a part of it is that the reporting itself isn't necessarily bad. It's just that we haven't made that last step to connect it to an audience. And in that respect, then they're going to get bored and irritated with us and say why are you wasting our time?
+
+AUDIENCE: I think you brought up a good point while we were talking, like, who's our audience and are we even going to reach them? So if we did this kind of algorithm and saying what the strategy is for campaign, and you could use it in theory of hey, guys, you could.
+
+>> This is going to sound very professorial. We're working in journalism now at speeds that are absolutely insane. If you think about when he was on the campaign trail and the moment he said, hey, Russia, go hack emails, everyone thought at this point at that point that what the hell did he just say but now that things are coming out and people are putting timelines to it but we had that, like, someone is documenting all these statements and now it's coming out that there's a timeline to this. What did he know when he said that?
+
+AARON: Really briefly, I want to hear your individual ideas and then we'll wrap. Because we've got a couple of minutes left. Is that what you were talking about or --
+
+AUDIENCE: No, no, we had an idea.
+
+AARON: Would you like to share it?
+
+AUDIENCE: Yeah.
+
+AARON: Awesome.
+
+AUDIENCE: So the idea is we were interested in like restaurant data and all the Trump restaurants that he owns and how they're run. The main like our idea is to somehow indicate how bad those restaurants are, and, you know, maybe you like drive less traffic towards them, so the restaurants fail and then he quits his presidency to go run the restaurants.
+
+AUDIENCE: OK, I'm going to jump in here. Our group had a really meaningful discussion.
+
+[laughter]
+
+and yes, there are dips in like questioning, what does this all lead to, but ultimately the idea started with Trump restaurants as a kind of a fun way to kind of tackle, one, how are food ingredients sourced? Does that align with the whole make America great again policies that he's been advocating for? Another question would be how are these employees being contracted? What's the process to even work at a Trump restaurant, for instance, and that's kind of like where we ended the conversation and kind of splintering off into all of these different ideas, but ultimately, it was just, you know, the Ivanka salad, there's all different ingredients in it, like, where do they come from? Are they actually American farmers that they're supporting? Very unlikely, but who knows.
+
+AUDIENCE: And that seems like a story that would fit into what ump talking about, which is OK, where does where you buy the croutons from matter? He's trying to lock people out of the country. But the idea is that he's so good at business, and say OK, what does a great American business look like? Or how do they hire their employees and does it line up with what he's saying?
+
+AARON: Yeah, and I think there's a couple of points if you wanted to briefly say them.
+
+AUDIENCE: Yeah, I want to bring it back to that focus question that came up a few minutes ago, because I mean, yes, Trump is President of the United States, we should absolutely be paying attention to him. But with all of the other governors, influential mayors, that sort of thing, like, if we fixate on one politician and use our time just focusing on him instead of all of these other people who have this influence, we do at our peril. And so how can we apply some of this not just to the American presidency, but to our governors and to our mayors and to the people who often are having more of an influence on day to day life for individual systems.
+
+STEVEN: Yeah, I mean almost no matter what the Federal Government does, you'll be more impacted by your local and state governments, and so we wanted to focus on Trump, but it is, you're right, like, this is -- this is directly applicable, if you don't work at a national publication and you're not focused on Trump, like, you can find out about a lot of this stuff about the person who's leading the government that you're interested in covering. But if you want to --
+
+AARON: That was a -- yeah, we have very little time left, but so I'm happy to discuss after if you would be so inclined. That's an emoji. Did your slides not load? We have some final talking points, but technical difficulties arise. Oh, there we go.
+
+All right.
+
+STEVEN: So just some things that we've learned throughout doing your jobs. Cron is your friend. Automate when you can. But I had a conversation with this table over here while we were doing it, it's sort of knowing how you want your data to out put. For things that are urgent like visas, where we're not going to write about every single one, having an email sent to reporters, say you're tracking the cost to get into a Trump hotel on a daily basis, you're not going to want e-mail on a daily basis, you want to automate it so it spits it out to a source. The second one is ugly code is good code if it does what you intend it to do. I write really ugly fucking code but it works so I'm happy with it. And don't be afraid to think outside the box on data sources? Was anybody in this group aware that most of Trump's clubs keep calendars of events that happened at those clubs going back for like eight years. You can scrape them. We have done it for two stories, it's really interesting who has been at those clubs, how it's changed since he started running and how it's changed since he became president. You don't always need code. Don't always resort to code first, sometimes you'll find data on these various places, but you could also just ask them for it and it would save you a lot of time. Use your newsroom. There is almost certainly someone that is more code-savvy than you in the newsroom and most of those people are really willing to help on the editorial side and so if you can use them, use them.
+
+AARON: And to the other point if you are in the newsroom where you're the lone coder or any kind of coder, there are people in those newsroom who are ideally well sourced, have really good notes. So collaboration is key. Absolutely.
+
+STEVEN: So the data might not be in one place. This is sort of to your point but is in general, the best stories that I have worked on are stuff where we call all 50 states to compile a database that the Federal Government doesn't. It doesn't always have to be individual states that you do this at. We -- I think we just published a project like literally while we were standing here. That involved FOIAs to 50 different states and we put it all in one database. If I can scrape something, pretty much anyone in this room can scrape anything. But it's the idea of getting data from a bunch of different things and putting it in a place, that can set you apart. And lastly, if possible, open source. If you're running into problems, other people might have run into problems and somebody might have fixed it. And so essentially there's nothing at this link just yet but.
+
+AARON: It does exist, though.
+
+STEVEN: What we're planning to do is during SRCCON I'm going to upload a bunch of things that we've written. I'm going to upload the code about the visas. I'm going to upload an unrelated thing. I'm going to upload a bunch of stuff in here over the course of SRCCON. I meant to do it beforehand, but we just published a large project that I was working on, so I didn't have much time. So basically I'll tweet out what I add as I add it over the course of SRCCON, we hope that you will go to this and add some of your own if you've got anything that you want to -- we're hoping that this can end up being a repository for stuff so that other newsrooms don't have to reinvent the wheel. You know, this is a competitive industry, whether we like it or not, but it's really stupid for us to have to code the same shit.
+
+[laughter]
+
+
+
+AARON: Amen!
+
+[cheers and applause]
+
+
+
+AARON: So please, if you've written any code you came across any unique data sources like your lists of rallies, please just contribute. We called it databae, because he owned the domain and I thought it was cute and vulcan, and so we're like ugly code, but it gets the job done. If you have any ideas, please contribute. If you have any questions, please find us. Thank you all for coming. Really appreciate it. Have a great SRCCON!
+
+[applause]
+

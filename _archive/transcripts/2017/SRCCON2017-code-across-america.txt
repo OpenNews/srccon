@@ -1,0 +1,361 @@
+Code Across America: Working with local Code for America brigades to find local stories
+Session facilitator(s): Dave Stanton, Ernie Hsiung
+Day & Time: Friday, 4:15-5:30pm
+Room: Ski-U-Mah
+
+ERNIE: All right. We have one table worth. That's fine.
+
+DAVE: We can do the ice breaker. We had a cut off of ten whether we were going to make everyone do the awkward who are you.
+
+ERNIE: Thanks for coming, guys.
+
+DAVE: So why don't you do your intro?
+
+ERNIE: Thanks for coming. We are -- yeah, who are we?
+
+DAVE: Who are you, Ernie?
+
+ERNIE: My name is Ernie. I am the tech director for whereby us, which is a media company that focuses on hyperlocal e-mail newsletters based in Miami. I am also the founder of a code for Miami, which is a local CFA brigade in Miami, along with my cofounder Rebecca who some of you may know because she's also the VP of product development and kind of well-known in the journalism and conferencing.
+
+DAVE: Yes. I'm Dave Stanton. I am based in Gainesville, Florida. I am -- I work for a consultancy, and I build custom apps for people. Totally not news anymore. I used to be, I have news in my heart. I got involved in starting a code for America brigade, which we'll talk about what that is very shortly here in Gainesville because I wanted a way to give back, and I felt like I wanted a way to interact with both the government and with news organizations and people trying to use information and storytelling for good.
+
+So that's who I am because I want other people to be able to connect and share their talents to make the world a little bit better of a place.
+
+ERNIE: Fun piece of trivia for me. It was a little different for me three years ago when I started. I had moved to Miami from San Francisco, and I am coming from pure tech background. This is actually kind of my first media job, per se. And I moved out from San Francisco to Miami. Miami isn't necessarily known for its rich tech scene. I moved out there for a relationship. So at first, I was, like, all right. I don't know who my tribe is. I want to get involved. I met Rebecca on a whim because she was organizing this event that -- in conjunction with a event director. I had spun off an instance of a wiki that no one used, and I was, like, F this. I'm bitter. But they ended up finding me. They were, like -- they asked me for my help, and I was, like, sure. And after that, they asked if Rebecca and I could do something on a regular basis, and I said "No, are you crazy? That's a lot of commitment."
+
+And she said "I'll do it if you do it."
+
+And I said "Okay."
+
+That's kind of the gist. Why don't we go around?
+
+DAVE: If you have had any experience with code for America in any way or brigade.
+
+ERNIE: Or if you're coming in new and want to more learn about it.
+
+>> My name is Luigi, I'm a software engineer at Vox media. I am also like these two fine people. I also serve on the national advisory counsel for Code for America, so we help kind of steer the whole brigade network all across the country. There are -- there will be coming this September, so please seek those out.
+
+Oh, there we are. There I am on the right.
+
+ERNIE: These are a bunch of brigade captains from different cities.
+
+>> I'm from Boulder, Colorado, and a data journalist who specializes in politics, and I've done code for America thing in boulder in the past and she and I in our spare time, which there's not of -- trying to develop an app for people in the up coming city council elections to identify their issues and their positions on the issues and match them with the candidate.
+
+DAVE: And are you working with the brigade on that?
+
+>> No. It's just, like, Becky and I are kind of working on it, and we probably should get some help. I mean, she's a really good programmer, but like I said, we both have limited time, and we're trying to do -- we'll get it done.
+
+DAVE: Awesome. That's a perfect little seed for this session here.
+
+>> Hi, I'm Erin. I'm the other part of the Miami tech scene. No, I am from Miami, I teach at the University of Miami. Not too involved because just so much, like, just so busy. And I also split my time between Ft. Lauderdale and Miami. So I know there is a code for Ft. Lauderdale.
+
+ERNIE: There is.
+
+>> I just wanted to support you guys. Also go Gators, obviously. And just kind of learned more stuff that maybe I'm missing.
+
+>> Hi, everyone, I'm Kayla, I'm from L.A. Just graduated with a journalism degree. A little bit of designing, a little bit of coding, reporting. I met Rebecca, like, two years ago at society for news design. That's how some of, like, the fellows.
+
+DAVE: So just coming to learn more about the thing. Have you communicated with any, like, a local brigade? So here to learn more?
+
+>> Yeah.
+
+DAVE: Cool.
+
+>> My name is Christian. I actually went up to the meet-ups in DC when I was an intern, and now I am working with the city of Boise in a temporary role. But I would really like to see start there.
+
+DAVE: So you're on the city side.
+
+>> Yeah. And I would like to --
+
+DAVE: We'll circle back on some of the logistics about brigades. But that's a real key to starting a brigade that code for America wants to make sure that you lay out a plan and that you're not just some people who want to get together and hack on a thing. But you need to have some sort of partner on the city or government side -- it doesn't have to be city. But government side so that they can help you make change happen. And they can also help point you at data and kind of set up resources for you, so it's not just people sitting in a vacuum hacking on a thing and then wondering if it's useful or not.
+
+>> Okay. I'm a journalist. I like America and code.
+
+[Laughter]
+
+ERNIE: We'll take it.
+
+>> Yeah. I was kind of interesting, like, what is this all about? And I'm like these people. Like, come help me. I think I can help them.
+
+DAVE: It's not magic. It's actually a lot of work, and we'll talk about our experiences and other people can share their experiences, well.
+
+>> Hi, I'm Amber. I'm from Denver. I do engagement for a news project there, and code for America -- is there one in Denver, I believe?
+
+ERNIE: There is.
+
+>> I met someone once at something else city related and was really impressed by her and that they were on my list for folks for groups who I want to engage with if I have the right project. And then on the personal side, I'm very new at learning Python, and I was thinking to have real world problems to work on, it would be great to maybe go and help, but I don't know anything about it, other than it exists.
+
+DAVE: Awesome. You fit into, like, two buckets, two of our personas we're going to talk about. One, we're going to go into new stuff. But then our breakout is going to be crafting a project. Or a pitch of a project that you could take to a brigade, and you could then put it in front of the people to see if they would want to take it up.
+
+>> My name is Greta, I work here in Minneapolis at a small nonprofit, and I'm here because I'm interested -- we have a very small newsroom within the a ton of extra resources to throw around, and we sort of talked about the idea for having hackathons for projects, but we never gotten to the step of doing it, and I think part of it is because we don't know what it would be like.
+
+ERNIE: Have you heard of an organization called open Twin Cities?
+
+>> No. There's a Twin Cities research group.
+
+ERNIE: That is a little different. That's the code for America --
+
+DAVE: This hits a lot of the stuff that we've got. You've got to go forward, though.
+
+ERNIE: Nope.
+
+DAVE: You can talk about it. What is code for America?
+
+ERNIE: So code for America. It's a nonprofit. It's based in San Francisco. Believes that government should be by the people for the people. A lot of this was inspired by the CEO Jan polka did a Ted talk a couple of years ago how people can kind of be more engaged with their cities and their governments by, you know, using technology.
+
+They have multiple kind of ways that folks can kind of get involved. There's a fellows program where every year a couple of folks take a ten-month sabbatical from their jobs and then get embedded in the city where they work directly with governments to work with various things. I was a code for America fellow two years ago working with Miami Dade County. But there is also the brigade side of things, and that's basically what we're talking about right now. So there's all of these kind of informal groups but folks of a common nation of developers and designers and people like that that at the end of the day just want to build things that make their places a better place to live. And that's kind of like the root of it, you know?
+
+They all differ a little bit from city to city. Some have by design or by lecturey, like, a really close partnership with their cities and governments. There is a little less, and they try to do with, like, you know, with institutions, you know, foundations, nonprofits, and things like that.
+
+DAVE: And then the way I get stoked on wanting to be more involved was from a society for news design event a couple years ago when the conference was out in San Francisco, there was a workshop the day before at code for America. And when it was kind of a prototyping sort of workshop. And they gave us the spiel and talked about the projects that we worked on. And then while I was there, the code for San Francisco -- they actually have a brigade separate from the organization, and I work for a hack night for San Francisco, and they went through the pitches and did stand-up meetings and talked about the status of this project. Here's what we've done, here's a little bit of a demo. Here's who we could use tonight. Here's the sorts of skills that we could really use to help push this thing forward. And so the project that I really love the most and made it click for me is how I could get -- how this might be welcoming in a community building tool as well is the hack -- it's like metaphorical hacking. You don't even have to use code. It's not about being clever or using wizardry. One of the projects he did in San Francisco was getting people to free Internet so they could get access to government services. There was the break down of there these all of these government services, but you have to get online to get them. Big homeless population, they don't have connections all the time.
+
+The hack that they did, I was just, like -- amazing. Was they went to all the bus stops, and all the bus stops have unique codes on them already. Like, this is bus stop 123, and they set up a small little app that was text messaging, and you text message, and they put stickers oar these numbers and said text this number to this number. And when you do that, just very simple through the Twilio API, and it sends back here's the closest place that has free public Wi-Fi. And I was, like, that is cool. It's not trying to completely think of something from scratch. But it's taking what exists in your city already and finding, like, a clever, unique way to help, like, solve a problem and connect people that were, like, close. Like, almost there and try to get connected.
+
+ERNIE: And, by the way, they're all open source available on GitHub. And there are groups around the country are free to make modifications and localizations as well.
+
+So, yeah, that's kind of the gist of it, you know? It's -- this is a photo of a typical kind of code for Miami event. It's usually kind of centered around a regular kind of hack night as Dave said. And usually there's -- when we say hack night because we get so many different types of folks -- and we'll get into that later -- usually, it kind of goes down to the things with apps and projects. And when you say the word Civic app, it is purposely super high level. There's so many kind of different types of Civic apps. And people will be, like, well, so wait. Didn't, like, Facebook try to create something called, like, brigade.com or something like that?
+
+DAVE: I don't know.
+
+ERNIE: I think it was some sort of -- I don't know. But, like -- so there are, like, larger companies that will make some sort of Civic software, that is of course a specific app. There's kinds of apps where, you know, they're trying to speed up the process that a lot of my code for America's fellows project was trying to build a Twilio SMS app that tries to complete a feedback loop where people in Miami Dade were having problems with their inspectors, and they didn't know what to do, so they propagated this culture of doing things under the table.
+
+So that would be an example of system plumbing; right?
+
+Access appears are an example of you hear the stories of someone having data available, but it's in a 400 Meg text file or, you know, it's in a 300-page PDF; right? And sometimes you just want to have folks build an API so other programmers can, you know, build stuff off of that.
+
+Things like that.
+
+DAVE: In Gainesville, the project that we started with I think falls into the access app category. We found our partner was the city planning department. So they came and had this whole initiative underway about redesigning our city services to be user centric. And so instead of it being organized based on, like, back office stuff, like, how do people want to interface with the city? And then let's build those interfaces. And the first project was about permits. People want to start businesses, we want to encourage small business and permitting systems are super, super archaic. I'm in this type of -- I want to start this sort of business. What's the zoning? What are all the various permits I must have. What is conditional? What if I'm changing zoning between things. So you really have to pay somebody who's an expert and knows all of this stuff. All the docs are in a binder, yellowing pages. So some of it is that kind of lift and shift transcription stuff.
+
+But then also building an interface that's welcoming and not just digitizing an old ineffective process, but trying to make it how do I as a person -- I'm think about starting a business. Should I? And providing information about helping them decide should they or not? And part of this is telling situations, like, no, you're probably not ready. Or there are situations where you are ready. Making it more accessible to people who have to have knowledge to decrypt government documentation.
+
+ERNIE: And that's a good place to start because at least for Miami, we didn't have a relationship inside our city or county for the first year. We were trying to find anyone that would listen. We got a lot of formal e-mails, but it wasn't until kind of year two that we ended up having, like, a connection inside that meeting kind of built a relationship with.
+
+So in the meantime, we did a lot of that. We did a lot of informing the public stuff. We did a lot of reaching out to, like, nonprofits, you know? We -- there's definitely the tie in with government because it's code for America; right? But we also kind of -- and I know Atlanta had a similar thing where if you weren't able to kind of have this relationship with the city right off the bat, we did what we could until it came there; right?
+
+>> Is that what makes the difference between an official and those unofficial brigades? There were gray dots.
+
+ERNIE: Kind of sort of. Yeah. There's -- the way that -- it's more of kind of an organizational, institutional kind of thing that may be changing, given the structures. We could go into that a little later. But that might be changing.
+
+A couple of years ago, there was a relatively process. And the reason why some were formal and others were informal.
+
+Now that that doesn't happen, they're not.
+
+DAVE: When we started, there's a collection of materials that you would have to put together. A charter of what are the sorts of things that you care about? Vision. We care about city, not state projects, per se. Like, we really care about city stuff. Who's going to be or who do you want to be your Civic partner? Like, all right. Well, we're going to start off with the planning department, and we already have this person identified. And they actually -- I can't remember the name of the person, but there was a person who guided us and got us on calls and asked us questions. And we basically got a reference letter from our city manager. When we put the charter together, it went to him, and it was, like, yes, I bless this mess and went back to code for America.
+
+And after we did that, they were able to give us access to, you know, templates and documentation of here's how to run hack nights, here's how to do this stuff, here's some samples that you might do for brainstorming exercises. Here's access to meet up. So meet up.com cost money if you want to do it, and they give you access to it. There's -- as with everything nowadays, there's a Slack team for code for America itself, so you can go in and ask questions of the national org or other brigade folks.
+
+So by kind of -- they make you do a little bit of work. It's not hard. But just to think "Why are we doing this? Is it we're fired up this moment? Or have we thought this through, and we have a reason for existing?"
+
+ERNIE: So since I come from a tech background -- we both come from tech backgrounds, that's kind of where we go to first. But we would be reminisced to say that it's not that. Because it's more than that; right? It's a community organization.
+
+So it's more than just getting together and trying to, like, slug out a piece of code and trying to, like, get things to a server and just bring it out and say ta-da; right?
+
+There are -- we definitely do a lot of proper events. Some of them are, you know, structured, like, say, the hackathons; right? There's -- the national day of Civic hacking, there's formallish events to kind of get a product and base things off of that. And then there's also disco techs, which is short of discovering technology. Instead of doing a hackathon, per se, they centered it around a community fair where people in the committee can teach their peers how to use particular technology; right?
+
+The first couple of disco fairs were general as far as technology is concerned. Now they call their events data disco techs because all of the booths that they have are actually kind of real world paper, not computery projects related to data and how folks use data. And that's purposefully done to try to bring in this accessibility to folks in the community that might not necessarily know.
+
+And, by the way, it's called a discotheque, so there's a real DJ. We tried this in Miami once. It was a lot of fun.
+
+So the other thing about CFA is that it's a lot of -- a lot of it is based on storytelling. So when I was a fellow, a lot of it was kind of -- we kind of had part of the thing was about the product, the thing that we built. But a lot of it was about the story and being able to communicate that; right?
+
+As a techie, that is not necessarily our strong point right off the bat, you know? At least for Miami. A good majority of people that show up to code for Miami because of a bunch of different external factors are fresh out of code school. So what we see in Miami, which, you know, and, again, is a lot of people that just want to learn a thing. They don't care what it's about, they just want to get their hands dirty, just give me a thing. And, you know, that's great in that, you know, they can build a thing; right? But it isn't -- but what we lack are folks from the other side, which kind of brings into the different types of people that you might kind of see.
+
+Now, obviously, because cities are different, the people that show up at code for America brigades will be different, so with each kind of buckets, he have brigade will have some of each bucket. Some cities will have more amounts of one than the other. And they will go into kind of more detail about that.
+
+DAVE: So you do have, you know, journalists and Civic-minded folks that have data and need help. Like, I have part of this. I need help getting this into a position that I can get this out into the world and get greater impact. You're going to have people just want to code. This kind of has two subgroups that are maybe out of a code school or more junior developer and, like, I want to be around people doing thing and drink it in. And then the second are people who are having jobs that are maybe programming jobs but not for good, you know? They're building enterprise apps and software. They're software developers, and they want to feel like they're contributing to some public good that they're not getting during their day jobs.
+
+I think I fall into that bucket often and some of the people that I recruit will fall into that bucket.
+
+And then a lot of engaged residents. In Gainesville, we have a bunch of people that come from the university. University-town people have a lot of opinions and expertise, and it's both a pro and a con. You get these people with expertise, but how do you connect them to projects that are meaningful to them or worth their time.
+
+ERNIE: Or how can the idea that they have embedded in their mind come to fruition; right? I think we still -- not even back in the days. You know, there's still some moments where there's a little bit of frustration. The next slide.
+
+Yeah, so it feels like this sometimes; right? Like the 6th grade prom where the girls are one side of the room and the guys on the other because at the end of the day they're very different audiences, and they're trying to figure out how to communicate with folks that are not necessarily like them. Like them being technologists or folks passionate about some sort of thing or folks that know how to tell a story or things like that.
+
+DAVE: And very different motivations. So you will have the hacker people that come in, and I just want to build something elegant, and I don't really care about its impact on the world because I'm just trying to practice and build this thing. And then you have other people of trying to change the world, and it needs to have certain functionality to do that, and it actually has to get out in the world. So that's this constant struggle of this is volunteerism. It's kind of an open source project in real life. People come in and out. How do you make it where somebody can come in and do something meaningful and feel good about it? And then maybe not coming back for a couple of months because of work or family or whatever it is. You can't make them do a thing. So it's interesting human dynamics.
+
+ERNIE: Herding cats is the term. So we're thinking that we can use your help.
+
+So I think the idea is on our ether pad and the link is from schedule.SRCCON.com, I go into the types of projects that are used. The types of projects that folks have pitched. And the types of kind of things that ways that different brigades across the country have tried to, you know, like, come up with solutions and other cities have been doing their best to kind of take that idea and use it for their own and, you know, remix it and send it back into the Internet and vice versa.
+
+And I think what we would like to see -- why don't you kind of explain?
+
+DAVE: To work in a group to figure out a pitch of an idea that you could take to a brigade for a brigade to then champion it and do this thing. So I think what might make sense is to split into groups based on the type of person you are. Like, are we the journalist folks or some sort of on the outside, and we have the idea, and we have some data, and we need people to help us make this thing happen. And then on the other side, well, I want to work on a project, what do you think?
+
+ERNIE: Yeah, I think that works. Let's try it.
+
+DAVE: I don't know. You tell us.
+
+ERNIE: If you have a better idea, do it.
+
+DAVE: And we do this at all the brigade meetings. People will have ideas. Sometimes we have design workshops and lots of sticky noting. And here's a problem I think we have in the city. Is that a real problem? What if we solve it. Get our city partner to come in and say, oh, we already have a system that does that. Oh, okay. Then we won't do that. Or how do we measure this thing as a success? How do we know when it finishes?
+
+So just going through and brainstorming an idea that you could then get up and say "Hey, I have this idea. I want to solve this problem. Here's how we might do it. Who wants to help me try to do this?"
+
+ERNIE: So what open Austin does, which is the Austin, Texas brigade. What they do that might be kind of a good guide if you're, like, well, that seems like a big ask. Is that they've already tried starting it as a way to kind of figure out. So if you see -- if you see, like, the bold kind of points when you're creating an idea, they put that on their GitHub issues list; right? And they start there.
+
+And the thing they kind of base it off of in the PDF is actually really interesting that I only learned about an hour or two ago, where they base it off of the city of Austin's business plans, which is nuts; right? And then they kind of repurpose it with remixing and the repurposing to see how that could be put in a Civic perspective.
+
+So if you feel like this is kind of, like, oh, what do you mean? Like, that could be a good idea if you're trying to think of something on your own. Also, the next section, what are some project ideas that cities have come up with. This are literally meant for stealing and localizing.
+
+Full disclosure, like, three-quarters of the ideas in Miami haven't even been touched with a ten foot pole; right? Mostly because of resources or lack thereof.
+
+DAVE: Triggered something in my head. Here's how it fits into the city plan. We should have included this from the beginning. When you're pitching a project, it doesn't have to be something that we are now as a brigade are agreeing to take on forever. And that we have to run this thing for forever. You totally -- you can just work on a prototype and then pitch it basically to the city to support it further. And the city can put money behind it and pay whether it's their internal staff to do it or if they want to bring on a vendor to build out certain pieces of it. So that's all allowed within the code for America framework. You can focus on, like, the prototyping part and not worry about how do we actually, like, put this thing on servers and put it out in the wild and maintain it? You can get a city partner that does that part for you.
+
+And so that's clever is that if you put it into the language of the city, then when you're pitching them, it's, like, what's already in the buckets that they're expected to see.
+
+ERNIE: That is the enemy of perfect I think is the quote that we use. Basically, just coming up with something super ugly and then just reiterating on it until it's something that's useful. That's kind of how -- that's a lot of the mantra in the tech world, and that kind of a lot of those principles are brought into building Civic things.
+
+DAVE: And last little tip might be for, like, what's the size of this thing? Think about if you and some friends were going to work on this for a week with no interruption. That would probably be a good amount of scope, and that would take you six months,ish, in hack nights. My guess.
+
+ERNIE: Ish. Sometimes.
+
+So how do you want to do this? Should we just rip off some pieces of paper?
+
+DAVE: I stuck some up on the wall. Get people to stand up and walk around. Get Post-It notes. How do we want to do it? Random or based off types? Anybody have any ideas already? I know some people had ideas.
+
+>> Ideas.
+
+DAVE: So you had an idea. Who else had specific ideas.
+
+>> I want to hear your idea.
+
+>> Oh, right now? So I work here in Minneapolis and last week the campaign finance filings for all the city candidates for mayor and city council came out, but they're all released in PDFs so every single donor. Like, every single line in a campaign, like, the whole disclosure form is on a PDF, and it's, like, I don't know what universe we're living in. But in the state level, you just e-mail the campaign finance board, and you can work with it. But trying to figure a way to use that data.
+
+>> Is it a scan PDF or regular?
+
+>> I think it's a scan PDF.
+
+DAVE: That's a great one.
+
+>> It might not be a scan PDF. You might be able to scrape it.
+
+DAVE: But still structuring it.
+
+>> Right. Because it's really long and different forms have different slightly -- I don't know.
+
+DAVE: Cool. What else? So we have two that are I think really good fits.
+
+>> Sorry, what was the first one.
+
+>> A council mashing app.
+
+ERNIE: What would the goal of the council matching app be?
+
+>> To help people choose a candidate that matches their beliefs. Their -- I'm trying to find --
+
+>> Like their policies matter or something.
+
+>> To try to find somebody who shares their positions on, like, the five most important issues in our city, rather than based on politics or personalities.
+
+DAVE: All right. Let's do two then.
+
+ERNIE: Yeah, why don't we try that?
+
+DAVE: Both of these are awesome ideas, and I could see people in my brigade, like, I want to do that thing.
+
+ERNIE: Those two ideas, what you could do is use the outline of, you know, the things, like, you know, where -- finding research and data; right? What would be the next steps; right? Who benefits?
+
+The type of things you would need to know for someone to kind of build this out. I think all of that is super useful, you know, to go from an idea to being able to start building a working prototype.
+
+DAVE: Yeah, so let's maybe -- yeah. Answer these questions for the two ideas, and then we can look around in some of the project repos from other brigades and see if someone has tackled this and see if there's an existing project that lines up. That could be something we could do.
+
+ERNIE: Yeah, totally.
+
+DAVE: Does that sound like fun?
+
+ERNIE: Choose a row, and one of us will go to one stable and one will go to the other.
+
+>> They are scan PDFs.
+
+ERNIE: So good.
+
+>> That's, like, so wrong.
+
+DAVE: And sideways?
+
+ERNIE: That is awesome.
+
+>> On the spectrum from left, far left to, like, maybe center in some respects. It's --
+
+>> It's definitely on one side of the spectrum.
+
+>> Somebody pretty left can be seen as a total traitor there.
+
+>> In boulder?
+
+>> In boulder or Denver?
+
+>> In boulder. Yeah.
+
+ERNIE: I've heard about that. I actually know Becky from code of America, and she told me about some of the struggles she went through.
+
+>> Well, yeah, she's kind of a mini ignite celebrity. Because I've done ignite too. And I love her ignite talk. I did it a few years before getting women to run for office. And I was, like, hey, city council election is coming up. This was two years ago. I heard her talk, and I was, like, hey, I'm submitting for the next ignite, and I'm going to talk about why it's important to get out there. And I only dropped the F bomb once.
+
+ERNIE: So Becky is a lovely, lovely code for America, there's something an ignite talk where you have five minutes to talk about whatever you want. And to be relatable in the audience, which was young techies, she used the F bomb la.
+
+>> About why you should give a fuck.
+
+ERNIE: Right. Except that what I didn't realize is that, like, folks, like, some French people basically took that and, like, ran with it. Like, people started putting shame campaigns.
+
+>> We have Civic haters there who, like, really went after her. Like, actually, the spokesperson for the city, for her agency got fired for this.
+
+ERNIE: Yeah, her municipal partner got fired.
+
+>> Jeez.
+
+ERNIE: So that was basically -- so she flew back to San Francisco. And she's, like, I have been asked to do a talk about my experiences. And we're all, like, whoa.
+
+>> I mean, but she's still in boulder.
+
+ERNIE: Yeah.
+
+>> So we're going to do this.
+
+ERNIE: Tell her I say hi.
+
+DAVE: So what's your project that you put together?
+
+>> Trying to make the campaign finance filings usable to cue ins.
+
+>> Did you guys look at open election.net? They've got maybe some solutions there. There's some data on the federal level.
+
+>> Nice. Okay. Cool.
+
+DAVE: We used tooling to help do the stuff. And the -- and this is something that -- was this an idea that you want to do, like --
+
+>> This is something last week I was, like, goddamn it.
+
+ERNIE: This is a for real thing.
+
+DAVE: Derrick Wilson will help you. He has all of the tools to do this.
+
+>> Cool. That's good to know.
+
+>> He's a great guy.
+
+DAVE: Not that Derrick Wilson.
+
+ERNIE: Yeah, I didn't think he was an American basketball player. He's 6'9", though. That's impressive.
+
+DAVE: Let me see if I can find.
+
+I don't have it on this computer. But there's also a -- there's a Slack team specifically for journalism dataset cruncher people, and I know he's in there. But it's not super active.
+
+>> I learned about this too.
+
+ERNIE: I've never heard of that.
+
+>> I'm sure Derrick is in there.
+
+>> You know, I don't think he gets on Slack on that Slack that often. Shoot me an e-mail.
+
+>> I would love your card too. Because if you get that up and running.
+
+>> Oh, yeah. We'll totally be out there all over social. And I was going to say. I really like. I bought one of your wife's books.
+
+DAVE: You did. Aw.
+
+>> That's not the stuff I always read, but I thought it was really well done.
+

@@ -1,0 +1,58 @@
+SRCCON 2017 Closing Session
+Session facilitator(s): Erika Owens
+Day & Time: Friday, 5:30pm
+Room: Memorial
+
+ERIKA: Hello, SRCCON!
+
+AUDIENCE: Whoo!
+
+ERIKA: So we have reached the end of SRCCON but before we depart, just wanted to say a few words of thanks and share a reflection. I am Erika from the OpenNews team. And there are a bunch of people to thank for these wonderful two days that we've been able to spend together. So thank you all for these days. We keep these days jam packed but yet the openness and thoughtfulness seems unwavering. Thank you I'm sure the coffee helps but thank you to the staff for the coffee and tea station. Thanks, as well, to our incredible stenographers, Norma, Stan, and Chase who helped us and remote participants.
+
+[ Applause ]
+
+And make our sessions more accessible. Thank you to all of the volunteers, the venue staffers, the catering staff, the childcare staff as we see some wonderful childcare participants coming in.
+
+[ Applause ]
+
+And thanks to the entire SRCCON and OpenNews team. Cornelia, Dan, Eric, Erin, Kate, Lindsay, and Ryan. So many tiny details have come together to make SRCCON possible and they keep track of them all, including what to do with the leftovers. The leftovers that we're able to donate, our chefs have arranged will go to the Harbor Light Center in Minneapolis.
+
+[ Applause ]
+
+So thanks, as well, to all the sponsors who help us keep ticket prices low and offer that childcare. Thanks to the JSK Fellowships, the transcription, thanks to Facebook, and both participant and facilitator scholarships which brought 40 people to SRCCON this week, thanks to WordPress VIP and the New York Times.
+
+[ Applause ]
+
+We'd also like to thank Condé Nast, our returning lead sponsor. They came to SRCCON with several members of their team for sessions and office hours and even a lightning talk and with the generosity that really made this event happen. Oh, great.
+
+[ Applause ]
+
+They came alongside our partners, the Knight Foundation and community partners and we're grateful to all of our sponsors, including Google News Lab, Ally Interactive, Mapbox, Star Tribune, and BuzzFeed News, thanks to the support that helped us these past two days.
+
+[ Applause ]
+
+Thanks to our wonderful facilitators who devised games and templates and questions and activities to help us problem-solve and explore some of the trickiest challenges that we face in journalism and tech. And thank you all for being here, for bringing your curiosity and your perspectives. So one last round of applause, and you can put your clapping hands down for a few minutes. So part of what we aspire to at SRCCON is create a space where we can participate as our full selves where you don't have to feel like it's necessary for you to leave parts of yourself at the door. I was thinking where the name SRCCON even comes from. It stands for the "source" as in "resource," looking at the code behind a web page. Being able to access those building blocks of the web has been transformative for many of us and for this industry. But it's not just the code that drives our work; it's us. It's who we are, and how we got to this point It's not just the knowledge of that programming language, or a gif for searching answers to getcodes, it's ourselves, our many communities, our many identities, and our backgrounds. These aspects of ourselves are not only what allow us to do this work but what drive us to do this work. These building blocks of our work come from our strategies for survival and resiliency. Our ancestors and our chosen families. Our communities within and outside of journalism. Within journalism, there are leaders from the Asian-American Journalists Association, the National Association of Black Journalists, and the National Association of Hispanic Journalists all in this room. I'm so grateful to all of you for having created these spaces for journalists of color to come together and share more openly.
+
+So take on the work to make newsrooms more inclusive that many of your white colleagues have ignored too long. With SRCCON we seek to remedy those gaps, to be a space where we hope no one feels alone or like you have to educate someone else about the validity of your experience. That privileged colleagues can take on the work that people of color have largely led alone. Thank you to Sandhya for leading a talk on this topic, how to support one another and we need support from one another. We've also needed it, but this year, man! This last year has been a challenging time for many folks in this room. We went from the intensity of a presidential election year to unrelenting uncertainty. You may have family members who have been affected by the Muslim ban. You may fear for the health and safety of your friends and family members.
+
+Their ability to access health insurance, their ability to be protected and not harmed by the police. You may have been affected directly by these events yourself. You may just desperately want an out. You may be wondering if journalism is what you want to be doing anymore given all this. And you may, as Avan led us in conversation last night thinking of what is the purpose of journalism. You may be all too familiar with these issues because you know that they've long been in place long since January or they've been in place in other countries. But that's just this year. Two years ago, as Dan mentioned in the opening, we were here in Minneapolis and at the closing of SRCCON, we had just found out about the SCOTUS decision on marriage equality. It felt like at long last with much more necessary work to do, progress in equality was heading in a positive direction, and yet a year ago in this city, Philando Castile was killed in this city by a man who was afraid of a black man. A man who was appealed over 46 times according to our colleagues at MPR and showed an everyday life of an oppressive system that fears and devalues black lives.
+
+Every day we face these alternating systems that harm us.Vastly in this exhaustive state. And, oh, it's our job to report on these events. So whose job is it to pretend that these don't matter to us, or affect our work? Powerful interest benefit the status quo which is rapidly worsening from its already inequitable state. Certainly not us, with this pretense, or our communities, or our work. But when we create spaces for our identities, our curiosities, our full selves, we all benefit. Through events like this, we're able to create time and space, to answer fundamental questions about our work, which Lívia reminded us about last night. Who do we serve, who does this work help? Why are we doing it? The communities that have shaped our lives help to answer our questions. We may need time to reach those conclusions to those answers but we need to build new strategies and tools to do this work. To do this together, with colleagues, peers, friends, committed to supporting one another.
+
+That's why at OpenNews, our purpose is to support your connection with one another. We seek to support you; to help you access the resources you need, that tool to ease your workflow to help you draw on the strength and wisdom within each other. We've got your back so you can continue supporting each other. We do that by bringing people together at events like this one and online. We share strategies and tools through our website, SRC, and we support other ways for you to connect through scholarships to an always-open inbox on anything that you might need from hiring to facilitation. But up next, we have more that we're excited to share with you. 
+
+In August, there's the News Nerd survey which some of you help shape here in SRCCON 2015. It's back. We're partnering with Google News Lab, and Jen, Sue, and Liam who are here are helping us craft a survey to better understand the community and the support that you need to continue this work. In two weeks, we'll send out the survey and we can't wait to see your feedback. 
+
+At the end of this year, we'll have another opportunity to come together at SRCCON:WORK!. We know that people can have a transformative effect on newsrooms. With SRCCON:WORK!, we'll delve into more deeply about the conversations that you've had over the last few days, about collaboration and team work, hiring and career growth, mental health and self-care. As we grow in our careers and deal with many challenges inside and outside of the newsroom, we need to have space to talk about how we, with all of our complexity and wonder, persevere in this work, how we exist as journalists, and friends, and make the journalism our community's need. At OpenNews, we know that if we're going to transform newsroom code and culture, we need to invest in the people who do the work, in all of you, so we'll gather in Philly December 7th through 8th and we hope to see of you in those communities there if you want to keep up with SRCCON:WORK! and other opportunities to nurture your full selves, stay tuned on our email list and we're always open to ideas.
+
+So feel free to reach out. Online, or in person, we have a lot of ways to support ourselves, from NICAR-L, and Lonely Coders, we're all here to support each other because because there are powerful forces to keep us apart. We can't fight these forces without taking telescope that intentionally build opening welcoming spaces that share welcome ideas, and that sustain and drive folks driving journalism. So thanks, again, for for allowing us to join you in this work, and let us walk together into the Minneapolis -- I don't know if it's sun, rain, or maybe even snow. We seem to have gone through many seasons these past couple of days but let us walk into Minneapolis feeling renewed, invigorated, and as emboldened as one community to create the kind of journalism that pushes for equity in every community that we touch. Thank you.
+
+[ Applause ]
+
+[ Cheers & Applause ]
+
+Thank you!
+
+AUDIENCE: Encore!
+
+[ Laughter ]

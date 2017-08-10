@@ -1,8 +1,8 @@
 ---
 layout: 2015_layout
-title: Join us for SRCCON
+title: SRCCON 2017
 subtitle: Two amazing days building better newsroom code, culture, and process—together. <br />
-eventdate: SRCCON 2017 is coming.<br>August 3 & 4 in Minneapolis.
+eventdate: SRCCON 2017 took place<br>August 3 & 4 in Minneapolis
 section: homepage
 background: homepage
 byline: Joe D
@@ -10,15 +10,9 @@ bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8
 permalink: /index.html
 ---
 
-The SRCCON 2016 ticket lottery is now open for registration! You can [submit a ticket request](/tickets) anytime until **noon Eastern on May 10**. Ticket notifications go out the following day.
+Thank you, SRCCON 2017 attendees! You brought your ideas, your passions, and your whole selves to Minneapolis and created an incredible experience for everyone there. We'll be cleaning up [transcripts](/transcription) and publishing writeups on [Source](https://source.opennews.org) soon, and sharing more of the wonderful work that took place in [more than 50 sessions and workshops](http://schedule.srccon.org) this year.
 
-For the first time, we are building our [scholarship application](/scholarships) into our lottery ticket request form as well. If you need assistance getting to SRCCON and want to apply, simply choose that option on the lottery request form.
-
-{% include lotterygo.html %}
-
-On August 3 & 4, SRCCON will return to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) at the University of Minnesota in Minneapolis, our home for SRCCON in 2015. We will have more than 50 sessions on a wide range of topics, from tech strategies to workplace culture struggles. [See our list of accepted sessions](/sessions) or learn more about the [ticket lottery](/tickets) and our [childcare](/childcare/) options at this year's SRCCON.
-
-Once our ticket lottery closes and all tickets are sold, we'll open up a discounted block of hotel rooms at the Commons Hotel located directly next to our SRCCON venue.
+And [stay tuned](http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc) this month for more information about [SRCCON:WORK](https://work.srccon.org) in Philadelphia this December, where we can continue many of these important conversations about taking care of each other and taking on the hard work of journalism.
 
 <div class="blue">
 <div class="innercontainer">

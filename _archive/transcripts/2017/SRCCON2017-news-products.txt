@@ -1,0 +1,172 @@
+News products: How to design, launch, and iterate something worth paying for
+Session facilitator(s): Matt Kiser, Kelsey Scherer
+Day & Time: Thursday, 11:45am-1pm
+Room: Thomas Swain
+
+MATT:  All right, I think let's get started here. We've got a lot in store for you. We're going to do this -- try to get this slide to change ... Of course it's not changing yet ... so we are going to have a quick agenda here. We're going to go through a case study and then we're going to do an exercise around brainstorming exercise, and then a quick share with the group and get you guys out of here to your next session. So I'm Matt, I run a website called WTF Just Happened Today. It tracks the happenings in the White House, and it's a weird new job for me, because I used to work as a product manager at places like business insider and Forbes and now I work for myself as a journalist and long story short, I quit journalism a long time ago to be a product manager and now it's full circle. And this is Kelsey.
+
+KELSEY:  Hey, y'all, I work at Vox Media, I'm a designer. And recently moved back onto the product side.
+
+MATT:  I'm going to run through a quick case study on my situation to sort of lead into the exercise so it should be like food for thought here and this should go pretty quick. So WTF Just Happened Today, for me it was a response to this emergent news event, it was the election and then the inauguration, specifically like a response to the inauguration in that I don't know if you guys remember this, but like inauguration happened and then the news was crazy, just like absolutely bonkers and there was no way that anybody who was not a news y person, like a journalist to keep up with what happened. It eventually turned into my full-time job within 80 or 90 days and it was the confluence of three things, it was timing, it was the right solution and there was this emotional moment in time, right? And so, like, this is what I did to get into this situation. I launched and MVP product. I asked questions in my audience to validate like my product, and then I iteratively improved it over time, and so in two days I went from first commit to launching this product, just a week after the inauguration, and this is what it looked like. It's literally the simple or minimal of Jekyll blog install. It's literally as basic as you can get. This is hosted on GitHub pages, using a tiny letter embed, and Google Analytics and that was it. And so it was the most obvious, boring thing you could possibly do, was a blog, newsletter and a social media account, that was it and so I want to emphasize here that sometimes when you introduce products they don't have to be flashy, they don't have to be perfect, they don't to be innovative from the get-go, they can be fast, cheap and boring, and you see this time and time again, you see this in the startup world, where products launch, MVP and then get better and better. You don't see this much in the news world, you tend to care what things look like. I put an f-bomb in my name not thinking that anyone would see this except me and it turns out it's now my brand and I'm stuck with an f-bomb in my name. So I don't know what to do.
+
+[laughter]
+
+It's I don't know. So the idea around validating products, like I put this in here as a joke, kind much, but I actually think it's kind of important, like, I asked my audience this question: If you do the math, it's something like 1. -- or 1/10th of a percent wrote no, but it was kind of tongue in cheek, but more perform this is a question that gets to the heart of the matter when trying to understand what my audience, like why they're there. And I'm sorry that this is hard to see, but kind of the left two bottom ones are really insightful because they say they're here because they find this concise and useful and it's updated daily, but over here on the left, people are talking about, they like this because the news sources are cited clearly or that it's helping them cope with the news, like I'm a therapist to them in some ways.
+You know, and things like this, this is an email, so my question is actually the bottom part, where I was asking the audience, like my newsletter, like do you want me to put calls to action for like daily things you can do to effect change in the political world and this is like such a thoughtful response I got back and I got hundreds of these. And so that validated for me that I should actually do more than this. I just haven't done more of it because I'm only one dude and I don't have time to do this all the time, but it's something that I would like to D and this is more like an anecdote. I was really stressed out one day and I didn't do the newsletter when I said I was going to do it and I came home and I like kind of just tagged on this line at the end that if anyone responds to this on a Friday night, because like you have a life, why would you be reading the newsletter on a Friday night, I'll send you a sticker. So I went to a concert. I come home and I had 3,000 emails and the next day I had to do a total mea culpa, like, yeah, I don't even have money for 3,000 stickers and sorry. So I have to get into it with people and ask questions, and I know these examples were less on the like hypothesis side, but it's really about testing the hypotheses, right, and then like trying to converge on like what's the right direction I should go in and at one point I asked my audience, like, do you want me only to cover Trump and the White House or do you want me to cover national politics in general and people were like very specifically, just cover Trump and nothing else and I was like, all right, that's what I'm doing, and I just want to do a really quick timeline here of exactly how this went down, so inauguration, a week later, first commit, travel ban, I launched it.
+I did my first tiny letter on the 31st, two days later I had capped out the tiny letter thing, so I switched to MailChimp. A week goes by. GitHub had sent me a very polite email saying, hey, we see you're doing a lot of traffic on your free GitHub page, would you mind, like, knocking that off?
+[laughter]
+
+I hooked, to port this over to build it on the Jekyll site and added S3. A couple days later, I had done a million page views like in that time span and then added search and so on and so forth so we went from like this in the very early days to something that was slightly better. We did a redesign but like where's the content? I don't know, and then the nav at the top got crazy and this isn't perfect, this is a work in progress, but this is much better than it was a few months ago. So the takeaway there is you get much better faster by focusing on the things that are important and I know when we all sit down and launch new products, we all go, these are all must haves, these are important, but you've got to triage that down to the bare minimum and start as quick as possible, right? And the people that were with me in the early days are stoked about like what it looks like today. They're thankful for it and the people that are new have no idea that this was a total disaster in the beginning. The slack team and forum and all those things came second.
+
+AUDIENCE:  How did people find you in the middle? Did they Google WTF Just Happened Today? Or.
+
+MATT:  I literally tweeted it and it went viral. It was just the right timing. So this is going to dovetail into our exercise which we'll start in just a second. I started by defining the problem. News cycle is impossible, people were worried about fake news, they were overwhelmed, they just wanted to be informed. Define the persona, I took a really broad like stroke at this. I think in your world you're going to have to find something much more narrow. But you know, there was 65 million people that did not want our president, literally voted against him and they were motivated and concerned and so that was who I was like building this for. And then I went through, you just coming up with possible solutions and this is just a super-short list. It's all the obvious things. It's like you know, what you choose to do with it, for who, and like how you solve that problem. So you know, I kind of end up in this spot that I'm solving this problem for this 65 million people who didn't vote for Trump by providing a newsletter and blog that summarizes the news and cites a diverse set of sources. I probably should have showed you guys what it looks like. Totally forgot. But you can check it out. Just wtfjusthappened.com. And we thought this exercise would be the best way to cap off this session.
+KELSEY:  So the exercise, we have a couple of different activities we're going to do. Some are individual and some are your table is your group, so some are group sharing and we're also going to have some opportunities for the whole room to share together. Basically we're going to have a couple of sample problems that w're going to present and then we're going to  give you a couple of tools to take back to the problems that you are solving and lead to some brainstorming on your own projects. We have sample problems, but if anyone in this room is, working on something and wants to flag it to the table and work on a different problem, that's totally cool, as well, so we're going to have two minutes to talk about a couple of different problems -- wait, one back. Yeah. So these are our sample problems. They're also on the sheets handed out at the table, so basically we want to give y'all like two minutes to talk as a group through the problems or if you want to present any problems to your group, and then pick one and then from there we're going to structure the rest of the exercises around solving that specific problem. So you have two minutes to talk amongst yourselves.
+
+[group activity]
+
+KELSEY:  Does everyone feel good about their problem?
+
+MATT:  Does everyone have problems?
+
+[laughter]
+
+KELSEY:  Everyone feel good now, good about their problems? Hello!
+
+MATT:  Clap if you can hear me. Clap if you can hear me. Cool. If you haven't quite like solidified your problem. It's all good. Just try and pick one. It's not the end of the world, and if you feel like your group needs to kind of split into two or three groups, that's cool, too. I think we just want to, in the interest of time, move over into the next piece.
+
+KELSEY:  So the next piece, everyone gets like two minutes to think about the problem, and each -- so you can do this individually. I'm going to set the timer for two minutes and you want to be thinking about, like, the person you're solving this problem for. The problems we solve, or the problems we outlined at the beginning are like problems that newsrooms at various levels are facing, but we want to, like, flip the script a little bit and think about the end user that we're providing things for, so think about who is your user, who do they do, why do they need it, and a good exercise is like to think about their age or occupation, it helps like frame the problem a little more. You don't have to get super-specific, but just take like two minutes individually and then you'll come as a group and share your personas. Cool!
+
+MATT:  Raise your hand if you have a question or are confused or anything.
+
+[group activity]
+
+KELSEY:  Some of you are already started to naturally talk about your group, or talk about your personas, so as a table, talk through the things you were thinking of, and nail down one persona that we're then going to brainstorm solutions for. So you probably want to write this down either on the paper or on a post-it note, but agree on one persona for the group and again if you have two varying ideas or three, feel free to like split off into groups within your tables. Cool, go for it.
+
+[group activity]
+
+KELSEY:  Does everyone feel good about their people, their personas, their users? Does anyone need another minute? Thumbs up if you need another minute. OK, one more minute.
+
+KELSEY:  Hey, y'all, we are going to come back in the room now.
+
+MATT:  You guys ready? Yeah? Yeah?
+
+KELSEY:  Can you hear me in the back of the room? Good? Good? Does everyone feel good about their people? Cool. What we're going to do now is share with the room. So if one person from every table wants to talk about the problem they're solving and the person that they have imagined in their brains, and share with the room. Let's do that. Does anyone want to volunteer to go first? You also, if your table has no one that wants to share, that's OK, too, but does anyone want to volunteer from any tables?
+
+AUDIENCE:  All right, hi, everyone. I'm Eunice, and the problem that we were -- the question that we have is people these days have really scheduled days, and we were interested in creating an Alexa. Say hey, Alexia, I have 20 minutes, can you give me the news and it kind of solves the problem of people not being able to listen to podcasts, because sometimes you don't have enough time or say you have longer than 20 minutes and say you're doing laundry when you're doing hands-free stuff. The character we thought of was Nancy, she's 35 years old, has two kids, and she wants to stay current with the news cycle but she's often really busy and she's mindful of what her kids are listening to, too, so turning on CNN may not be the best thing for the family, so, yeah, that's our problem.
+
+MATT:  That's awesome, snaps for Eunice.
+
+KELSEY:  Anyone else want to volunteer from other many tables?
+
+AUDIENCE:  Sure, so two of us are local here in Minneapolis, I think just two of us so we really chose a hyper-local problem, but I'll just read it. We are solving for recent immigrant school kids not getting vaccinated leading to a recent measles outbreak for Aster, who is an immigrant mom with two kids in school with limited English proficiency, by knowing why vaccinations are important to society and knowing communication channels of respected leaders in immigrant communities, so the product was designed to sort of help educate newer arrivals to the system here that may be a little more complex.
+
+KELSEY:  Awesome, thank you.
+
+MATT:  Snaps.
+
+AUDIENCE:  So our table split in two and our half was figuring out how to increase digital subscriptions, so our persona is someone who is in their mid 20s or 30s, who wants to be informed and is very savvy on social media but financially strapped and we didn't really finish the conversation about which solutions but one thing we brought up was this type of persona would be willing to pay for a subscription, but not necessarily to only gain access to one news source, so how can we provide an aggregation for something like $10 a month to high-quality news?
+
+KELSEY:  Awesome, thank you.
+
+MATT:  You know. (Snaps).
+
+KELSEY:  Anyone else want to present for the back of the room? Or anybody?
+
+AUDIENCE:  Sure, so our we ended up with a our persona was pretty much anyone who is an involuntary sports participant. Someone who lives in the town, they don't have a ticket to tonight's game, they don't care about sports at all. They have things they want to do, sports means that traffic is going to be a nightmare in the vicinity of the stadium or there's a 5K going on that's going to close down some of the major commuter roads so this person needs a sort of reliable sports and events schedule because they don't want to get stuck in traffic.
+
+KELSEY:  That's awesome.
+
+MATT:  Yeah, I love that. Snaps!
+
+Is anyone going on? Or should we move on to brainstorming? I see no hands so we're going to move on to brainstorming. The next session is going to be with your table as a group again, we are going to brainstorm as many different solutions to the problem for your table that you've created so the post-it notes or you can take notes on the scrap piece of paper, however you want. It might be a good idea for a couple of people to take notes and now is the time to really get divergent and wild with your ideas, to think about as many ideas as you can, and have a great discussion. I'm going to set a timer for 10 minutes and then you'll have a little bit more group time and then we'll like share as a room and do like a couple of end reflection things after that, so take some time to brainstorm. And we have like a prompt up here if you need some ways to start thinking, if you want to think of like constraints that help you solve your problem for your person.
+
+MATT:  And some of you, it sounds like you might have gone straight into the solution piece when thinking about problems. I challenge you to continue coming up with solutions to the problem you began with, because you'll come up with lots of solutions. So, yeah!
+
+[group activity]
+
+KELSEY:  Hey, everyone!
+
+MATT:  All right, let's move on to the next section.
+
+KELSEY:  The next session, we don't have to stop talking completely. The next section we're going to be voting on the ideas we've been talking about, so I'm going to give you like another 10 minutes to talk through the solutions, it can be a mash-up of the solutions if that's the way you think you should go, but the big takeaway is talk about the person you created earlier and the problem you're trying to solve and try to have a discussion about why an idea is the best idea and then after that we'll take some volunteers and you can share with the room. So you can keep talking. But converge on one idea that you can share with the group.
+
+[group activity]
+
+KELSEY:  Everyone feel good about their solutions?
+
+Good? Doesn't have to be perfect.
+
+AUDIENCE:  Can we use another minute to fill out our sheet?
+
+KELSEY:  Another minute? Yeah!
+
+KELSEY:  Does everyone feel good now? So we're going to do some sharing with the room. The way we're going to do it -- this is on the back of the handout, as well, is repeat the problem, and then to talk us through the solution that you talked about. If you didn't land on one, you can just pick any of your solutions, but I just want to get like an idea of what y'all came up with. Does anyone want to volunteer to go first? Go ahead.
+
+AUDIENCE:  We are solving increasing individual subscriptions for young poor Millennials by creating a marketplace where different users can like enter the marketplace with one subscription and then find other people who have subscription that is they don't have and then match and the incentive for them to eventually subscribe to another publication is that the primary subscriber gets access to offline events, like discounted tickets to a concert or to a Facebook Live with a celebrity or something like that.
+
+KELSEY:  Awesome.
+
+MATT:  Super cool. (Snaps).
+
+KELSEY:  Thank you for sharing. That's so cool.
+
+AUDIENCE:  OK, so we are also solving the sustainable subscription model for a local publishing outlet and also hoping to create a pipeline for people to subscribe to a full local paper for people who are in their mid 20s to 30s who are navigating a new city or are thinking about this as a lonely planet for a new place. For people who have moved and we want to do this by selling a year-long subscription to a weekly newsletter and a piped Google calendar with relevant dates and events and this is all piped to a single website.
+
+KELSEY:  Awesome, thank you for sharing. Do you want to share next?
+
+AUDIENCE:  Sure. So again solving for recent immigrant school kids not getting vaccinated lead to go a recent measles outbreak in Minnesota, and the assumption is that in the state of Utah, this isn't a Minnesota thing, but all refugees get an Android smartphone when they arrive, which is pretty cool so we made that assumption, so the product here was delivering news through the existing calendar app, but supplying sort of a community calendar on that existing app where you can deliver news about vaccinations and a vax schedule and information from local communities.
+
+KELSEY:  Can you ask one follow-up question how do you talk through the calendar solution being better than the community events you had brainstormed? I don't mean to put you on the spot but --
+
+AUDIENCE:  No, I think --
+
+AUDIENCE:  I think it was super-simple. You could implement. A couple people implementing the calendar versus the community events might be a little more involved.
+
+AUDIENCE:  And also, the calendar can be about local events. With popup reminders, saying tomorrow we're going to have this event and would you like to join us.
+
+KELSEY:  Awesome, thanks for letting us put you on the spot. Anyone else want to share? Is that a hand? No.
+
+AUDIENCE:  So we had the problem of somebody that wants to get the news via audio and they have a sort of time that is fluid. So sometimes they have 20 minutes, sometimes they have an hour. So we decided that was going to be multiple versions of the story, short and long, maybe they can tell the app that they want to hurry up and get a TL;DR of the story and then they can come back and fill in the blanks later. And you can also ask it to kind of skip it because of sensitivity things, so our user has two kids that they're often around, so if something comes up in the news that they don't want the kids to hear, they can save it for later and come back to it.
+
+KELSEY:  Awesome, thank you for sharing. (Snaps) and do you want to share?
+
+AUDIENCE:  We were initially tackling the digital subscription revenue by building a calendar aggregator with search filters and subscriptions for particular areas, give us everything that's happened here or traffic that's happened here with and the calendar aggregator moving on to tagging local stories, and then providing notifications and events for uploader forecasts, like oh, next week, I-5 is going to be closed and so do other things, and finally. Notifications for your neighborhood have been very negatively over the last six months. Would you like to look at houses in other neighborhoods?
+
+[laughter]
+
+We only have a couple of more minutes. If anyone else is dying to share, raise your hand now, otherwise I wanted to thank everyone. Both of us want to thank everyone for being here and participating. But since we have a few more minutes if anyone has any questions or anything anyone wanted to make a comment about anything, we can take care of that now or otherwise we can clear it up.
+
+AUDIENCE:  A lot of times people have issues of that's not how we do things or we have 150 years of doing things a different way and killing these fledgling new neat ideas with, you know, 100 years of stuff we did before? So how do you protect and allow these little things, these new ideas and experiments to not get thwarted by naysayers or other things?
+
+MATT:  So like a question -- I have an idea.
+
+KELSEY:  Go ahead.
+
+MATT:  So I think one is a culture problem, right? And you can't change the culture. The culture is going to have to evolve over time and so you're going to have to find buy-in at some level where someone will like shield you and go to bat for you but then take this process and go offsite and do that and come back with a more polished -- do all the messy stuff elsewhere, and then come back with like a more polished solution to present and knowing the sensitivities of the people maybe above you in the culture there, perhaps use some of this design thinking stuff about how you might come up with a resolution to present to them that would be more amenable. That would be like my advice. But culture is super-hard to overcome.
+
+KELSEY:  And the other thing I'll plug is in this room next, the next session is about like running a startup inside of a larger company, so if you're interested in talking about that, I remember that, because I'm also interested in that concept. It's really hard to do, so there will probably be really amazing conversations after this, if you want to talk about that. Did you have a question?
+
+AUDIENCE:  Yeah, so I was wondering how both of you conduct or get a user feedback, because I'm sure you guys both work with very -- like different-size audiences and especially for like smaller projects and more larger projects, what are some successful stories that you've had?
+
+MATT:  I like to use Google forms and just put a form together. I actually prefer to use the Coral project has a tool called Ask. It's super-easy to use. It's the most beautiful form you'll ever experience and it also allows you to do great galleries from it. Like, cherry pick the best responses that you can share back to the community to show that we're listening and stuff. And the upshot here is you can embed it on any page on your website, and it will inherit of all the CSS styles of your site so it looks really native, it looks like you designed it intentionally, but all you did was sign up. I think from like a strategic side, I think, you know, just ask in whatever form or medium that makes sense. I'll do Twitter poll, you know, ask questions. You've got to take that with a grain of sand, it's not going to be the most qualitatively scientifically accurate sort of thing. I don't know if any of those words made sense.
+
+KELSEY:  We'll look at transcript later.
+
+MATT:  Yeah, so you'll start to convert it down and narrow is to the right thing.
+
+KELSEY:  Our researcher at Vox will put together like Google forms and share on each brand's social media to get verified social user feedback and that's one good way. It's a really good lo-fi way to do it.
+
+AUDIENCE:  I had two questions. First one is how did you do it, get your website to be your full-time thing and also, how many friends do you have to have on social media to get -- that we can borrow? ([inaudible]
+
+MATT:  Yeah, so it was very much this unique moment in time, like, I can't stress that enough, that like going viral is not a thing you can manufacture as much as like certain publishers say you can. Like you can do a lot, like get reach, but you can't make viral events happen. So there's a unique moment in time. I was certainly there at the right place and the right time and the right thing. I also had a brand that spoke directly to the emotion people had. I called it WTF just happened, which is exactly what everyone asked when the travel ban went into effect. So it became really obvious for people that that resonated with, that brand, to then share that on, so it was so authentic to who they were and how they were feeling, and the content and everything behind it, was all like aligned with that. That it just creates that perfect storm of timing and product and you can't manufacture that. There's strategies that will devolve into questionable behavior, like preying on people's emotions, like that's a no-no, but I recommend this book called Hooked. It's all about the power of habit and it's all about how do you build products that have triggers, that prompt users to do things, to, you know, create the action you want them to take to, like, further invest in your product, so you start to get that cycle. You know, you buy on Amazon and then you see better recommendations for more stuff you probably don't need but want and then you buy that stuff and those recommendations get better and better and better, right?
+
+AUDIENCE:  The making money part -- and then I have a follow-up to that. Which is like, all of this is true, but you can't manufacture virility. But you can have certain followers and you can track back how certain people's mentions have aided this thing. So I'm curious to know --
+
+MATT:  So the big thing for me was my friends who were all part of different people's Facebook groups, specifically really large groups, those acted as like super-nodes. So my friends took something, authentically shared it into a group into people who authentically cared about that thing and it was such a big pool that that all rippled out, right? There's no like -- you can't like -- I couldn't do this today. Or I couldn't have done this nine months ago. It kind of had to be in this very tight window.
+
+AUDIENCE:  I have a follow-up question to that where you're saying your product is extremely successful given the emotion of that particular moment in which you launched it. How do you plan on evolving your product as like the nation's emotional energy shifts and conversations shifts and people will start caring about different things.
+
+MATT:  It's kind of an existential question. It's the thing that probably keeps me up at night the most. One, what happens with me when the president isn't the president, and exactly that, what happens with news fatigue and I'm trying to find a way to lessen the fatigue piece. One of the things I've recently launched is a forum so that people can connect with each other. And to take that emotional thing and freak out about what's happening and connect it to people connecting with each other, so you start to get that flywheel effect of people investing in each other and then coming back to the beginning. I think we're out of time, and so I'll meet you out there. I need some coffee.
+
+[break]

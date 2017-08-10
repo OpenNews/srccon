@@ -1,0 +1,170 @@
+Using and Abusing Typography: How Social Video Is Playing Games With Your Heart
+Session facilitator(s): Dolly Li
+Day & Time: Thursday, 11:45am-1pm
+Room: Johnson
+
+DOLLY: I'm Dolly and I'm at AJ+, and if you don't know what that is, that's the published version of Al Jazeera, and you may or may not have seen it and that's part of what we're going to be talking about today.
+
+So just to get started, I'm not a type expert but I am a video producer and I spend a lot of time talking about how our visuals affect our audience and how it makes them feel. A little about me, my background is in art and economics. So most of my life, I've been in visuals. So started as an Illustrator and then slowly, from there, start producing graphics for visuals for video, and then became a video producer.
+
+So to get started I want to share with you guys the thing that kind of inspired this whole talk is this sign. So how would you read this? To me, this reads as maid! Please let make this room up as soon as possible. And I found that maid part so alarming. Like, what is the feeling that someone else gets when they see the word "maid!" And they're being told they're different from you, not treated just as another human being, and also being kind of shouted at — maid! There's some other ways this could have been done. Could we make the maid a little smaller, or you could copy, edit, and remove the misogynistist icon and say, please have this room made up. But sometimes that doesn't work. There are forces beyond us for whatever reason or another. So I want to focus a little bit on this maid part. I mean, what's the issue with having maid so big and so high up on this door sign that's asking someone to do something, one, it's condescending. It's saying that someone is below you and it's indicating that maid is not a person and it's aggro as hell. It's super aggro to be just like, maid! Come clean my room.
+
+So I've been fixated on this, and also talking about how words like maid come up in the videos that we make, not just at AJ+ but as you guys know, video everywhere now. And if you haven't made or worked in video and just think this doesn't apply to you, I mean, at some point, someone is going to ask you to touch a video, to embed a video, to look at a video, or they're going to say, hey, we want to start making videos. So whether or not you're doing it now, at some point, it's probably going to enter into your work. So how do we play in this space of social video while still maintaining our journalistic integrity? Once — if you guys remember in 2015, Steve Harvey had his little blunder at Miss Universe. And I suggest we rewatch it a little bit and it is — it's related. 
+
+[ Video ]
+
+VIDEO: I have to apologize. The first runner up is Colombia. Miss Universe, 2015 is Philippines!
+
+DOLLY: So if you remember what basically happened Steve Harvard announced that the winner was Miss Colombia, when it happened to be Miss Philippines. And Steve Harvey, he's not that brilliant. He's not that smart a guy, and he's probably a little bit racist and so I'm not defending him here. But despite how you feel about Steve Harvey, whatever happened there, humiliated two people who probably really didn't deserve it. And it wasn't just Steve Harvey's idiocy, right? If you take a look at the note card that he had laid out... so you can see, I mean, it's not just things like shouting maid! It's also how you lay out your typography. This is very unclear and confusing what's supposed to happen first and what's supposed to happen next, and why would — you know, when he's reading off that list, does he see that Miss Universe is supposed to be Miss Philippines. 
+There's many ways that this can be designed and laid out in that split second that he announced the winner. It should have been idiot proof. You have very little time to absorb this information, so it should come across immediately, and it should come across very clearly how the order's supposed to go. So a very simple solution would have been this. This makes it very clear, just read from bottom to top, start there, end there, the winner is clear. This would have been a very easy solution to just fix a little thing about composition and typography that would have prevented two women from being humiliated and, you know, having to live the rest of their lives with this moment in history. So it's partially some incompetents, partially, text placement. And this is something that we think about a lot in social video, too, right? It's a little bit of the maid that's shouting, and a little bit of the confusing text placement and how do we avoid that. So the Internet is a cesspool and everyone is waiting in it, and more and more people are jumping to social video. I mean, you guys probably saw this recently. This just happened. Donald Trump is now posting his own real news show on Facebook. 
+Everyone can get on Facebook now, anyone can look at social video. It's going to become more and more competitive and things are going to start looking very, very similar. I mean, you can see this comment here, the left is whining about the president using social media because they don't want Trump communicating directly with us. This is going to happen more and more. You know, there are fewer and fewer filters between how that information gets to you, and who is making it. And all of the incentives are there to make more social video, not just for ads, but because of platforms are pushing creators to go in this direction. Another thing that's a scary thing, the people that are getting information now, they don't actually know who is making this content. This report was based on the UK but their consumption is similar to ours, right? People are seeing thighs video but they don't necessarily know that AJ+ made it, or the New York Times made it, it doesn't really matter who has produced that video. What matters is that people are having more loyalty to the visuals than they are to the brands. And this kind of makes sense because if you look at the space of social video, they all kind of look the same. And if we keep going down this path, we may end up in a super tabloidy space, where it's like, I don't know what the different publishers are here but they all kind of look all the same to me. So when we think about this journalistically, going from how do we make sure that we preserve our identities and maintain visual neutral. It's not black and white, right? If it's something like the president himself, you still need a way to make your brand identifiable. And just having your logo is not enough. You should be visually identifiable. 
+So we should go back to the basics, what the purpose of social video is. Social video, you're using it to get someone's attention, you're using visuals to get someone's attention. You want to convey some visual information in a very short period of time because people are scrolling. And you want to develop some loyalty knowing that your brand is not enough to draw someone in. So how do we go about this without completely manipulating our viewer. I want us to look at some bad examples first. And the first one will be a little easier. And then we'll discuss what exactly is wrong in these videos. So let's start with Breitbart.
+
+[ Video ]
+
+It's probably clear to all of us what Breitbart's agenda is but they're a media organization with over 3 million followers on Facebook. That's actually more than most newspapers in this country. But still over 3 million followers is quite a lot. So let's talk a little bit about what's wrong about that particular video. If we remove the editorial aspects and look just at how they using typography, how they're using colors, how they're using fonts, all of the actions and all of the positive things are happening in yellow. So snubbed, an action, kill fake news are yellow and the things that are negative are CNN and fake news, the things that are highlighted in red. And it's gonna end up impacting your viewers in terms of how they see things like CNN, or fake news. Obviously, red and red, that's the two are going to end up being correlated. They're going to say, CNN, fake news, they're linked and then the action, kill it. You are obviously affecting how your audience receives this kind of information. And that one is a bit more clear, right? Like, it's clear what they're trying to do. It's clear that they have an agenda against CNN but let's look at more like the liberal social video spaces. The ones with tens of millions of followers and shares. Stuff like NowThis, and how this can affect you in ways that you don't want to necessarily think about. So this next one is on two Australians, and I'm going to play it and ask you guys what you think. Studying canned air.
+
+[ Video ]
+
+So what do you guys think are some issues with this video?
+
+AUDIENCE: I felt like the color cues were sometimes, like, the last few words, and not necessarily, like, suggesting or emphasizing anything.
+
+DOLLY: Mm-hmm. Anything else? Think about how this might affect someone emotionally. In the same way that if you saw that sign it said maid! In the same way that in the Steve Harvey note card, the text was misplaced. How do you think the weighted text use might affect someone emotionally in how they perceive Australia and China? Well, here's one example. China needs it. Cheers, Australia. Whoops. So one issue with this is that it clearly is perpetuating this white savior mentality in a way that you don't even realize because it clearly indicates that China needs something that the Australians are positively contributing to them. If you watch throughout the video, all of the positive things, Australia, clean air, cheers, mate! All these positive attributes are given to Australia, and China is portrayed in this way that it's — it needs this air, or it needs this help, or saving from Australia when, really, I mean, you're selling — you're why selling air. You're selling air to people who are dying from pollution and your saying, "Cheers!" Saviors for providing this to people who are in such desperate need of your help. And media really has a history of perpetuating of this white savior complex and the idea that China needs something from the western world, and so it continues to add to that storytelling that China needs something, and westerners can give it to them. This next one — and since I am from AJ+, I feel like it's good for me to critique AJ+. And we have an incredible realtime team that produces, like, 15-20 videos a day. So between that and producing 365 days a year since 2014, there are some blunders. Editorial issues aside, what do you think are some of the issues with the way that the type was used in this video? Just scroll you and show you some of the shots that I see. So the reasoning — anyone —
+
+AUDIENCE: If you go to the window, it's popular. It's basically highlighting, it's telling the opposite story of the text. And the fact that they're saying isn't, instead of with the "is not" it makes it harder to parse, and if you watched this quickly, you would decide that Cambodia eats rat meat.
+
+DOLLY: The intention was to say, that it doesn't involve Cambodia, as if it absolves Cambodia in some way. Anything else that you noticed?
+
+AUDIENCE: The rat thing at the beginning reminded me of maid a little bit.
+
+DOLLY: This is exactly the maid problem. And the logic, this created a huge debate in our newsroom, right? Why was this published? What was the point of publishing this? What are the weird, xenophobic stereotypes that you're perpetuating. Like, what are you contributing to the news cycle here? And the argument from the editorial side was that it's a human story, right? If this is a human story, then why would you start with rat meat, right? You could have started with, well, you could have started with the actual human being or if you really really wanted to have, like, people notice the rat meat in the beginning, why does the text need to be so big? You know, you're obviously bringing attention to this thing where it's like so alarming. So you're already setting up your viewer for a really alarming experience. By the time they get to the human component of this is nutritious, whatever, whatever, they're already lost in the entire scare factor.
+
+AUDIENCE: Well, I think the framing of that, the gluten free, free range, it also seems so sarcastic.
+
+DOLLY: You know, if this were truly a story about cuisine of another culture, it would focus less so on identifying mat meat! Maid! And more on the human aspect. and after this, we basically made the decision to never do rat stories again because it just doesn't make sense and it's not doing anyone any favors including us, right? And this video was shared by millions. It was seen by millions and you can — I'm not even sure of the comments — you can imagine what the comments look like. It doesn't help anyone, it doesn't contribute to the news cycle. But if you for some reason, end up in a situation where you're given content and your editor is like you must work on this, there's many ways of doing this without having maid, and rat meat! Right at the beginning. So how do we make it better?
+Things to keep in mind if you're going to be using type in video, and most you'll have to because nobody turns on their sound when they're watching social videos on Facebook. It's the new way of reading and everyone is consuming their video this way. Because no one's turning on their sound, you have to help emote. So you can't not like you can call black and white text and call it a day. Because that's going to get lost in the newsfeed. So it's like this balance between I want to make content that's neutral, and make that my brand is identifiable and emoted through text. So font, you want something that's recognizable but you also want it to be neutral. One thing from some of my students at the Berkeley J School, that they can recognize is the font. It's more to the font and the color, less so, so the AJ+. So if you are working on and deciding the kinds of fonts that you're using, think about your display typefaces, don't use them if you don't have to. You know, this is spammy. And think about is this manipulative? Is this going to make someone feel a certain way without them even seeing the rest of the content? And just because it's pretty doesn't mean it's the right thing to do. Size. Why am I shouting? Maid! Should I even be shouting? There's some things that, maybe, yes, we should call attention to, but not everything such as rat meat.
+Is this confusing? Where am I placing this text? This way, you can help people actually read and consume this information in a fast, easy way. Again, social video, you have very little time to give people information that they need. So you need to make sure that your information is clear, and you don't end up with a Miss Universe type blunder where your audience is super confused, or they misunderstand what you're trying to say and they end up feeling humiliated or embarrassed.
+Order. And this is hierarchy, title, subtitle. It goes along with placement. You want to think about what your audience should see first, and what they see last. And, of course, color. Why am I using this color, what is the purpose of this color, if the brand you're publishing for has a set order of colors then you want to think carefully about how you use it, and where you use it, and what it means each time you use it. So I can't really speak for other brands but at least for AJ+, in 2014, this was our color palette, it was very Easter egg. We tried to use all of the colors in all of the videos, it didn't really make sense and, you know, sometimes we were using green, on, say, a video about Palestine. It just — it feels like you're it feels really whimsical. So we're left pretty much with just the yellow and the gray. And this, now that we've seen a really digested rat meat video, I want to show you guys a video that we did that I really like and I think it's very good use of not just captioning, but also emphasizing using color.
+
+[ Video ]
+
+DOLLY: So what do you guys feel works and doesn't work in that video? Any thoughts? Yes?
+
+AUDIENCE: I kind of like the use of emotion to emphasize things as opposed to just kind of like a subtitle type. It draws more to like the eye, and probably I guess to get people to watch longer. And I like that it ends to this call to action, too, I think is really helpful for social video especially, to keep it going, keep it sharing, and not just finishing and closing the tab.
+
+AUDIENCE: Kind of building on a point that was said earlier, I kind of feel like the built that highlight the text point to actually what's in the content of the video. They're not antithetical to what's being said. So I think it's more authentic or honest in a way.
+
+DOLLY: Right, right. So a few things that I personally like about this video is most of the text is focused on the captioning. So even the yellow and the bold is focused in this one area. So there's no, like, tabloidy, or, you know, big headlines like "maid!" Jumping out at you. It's still conveying information but most people are watching this with the sounds off so they're going to be able to go through this and see what they need to know. Highly toxic nerve agent, odorless, colorless, and it's a gas, and these are what happens when you sarin gas — when you are affected by sarin gas. The only areas where there's more emphasis on some type of headline is this colorless, odorless, tasteless gas. And I think this is a smart use of bigger, bolder text because it very clearly tells you what's at stake. What's at stake when this chemical is used with civilians, on anyone. And that's important to convey. Social video, yes, they really do depend on insighting emotions but you still have to convey what's at stake, what happens to these people when they are attacked by chemical agents.
+And I also like that the rest of it, including the dates are just very minor and they're in the corner, and nothing is really jumping out at you but it gives you all the information you need but also has that emotional response that the audience also needs so that they can care about this topic and, you know, find what's at stake here. Yes?
+
+AUDIENCE: I have two questions. First is when you're writing a script for this, is the script written in yellow and white? Like, where is the script being processed? Are you always following the narrator, or are you feeding the narrator and how much are you thinking about typography when you're writing the script?
+
+DOLLY: So most of our script-writing takes place before it goes into video edit and this varies with producer. Sometimes the bolding or yellow will come in the script as just like script marks. Asterisk here, bold here. You can do bold and stuff in our script in software. But most of the posts — the visual post editing happens once the video is already in a timeline.
+
+AUDIENCE: My other — another follow-up is like, so I hear that you like it. Are you able to learn what people retain as information because, like, I have a similar reaction to the rat meat video that you do and I have a similar reaction to this video but I'm not sure who your audience is. I'm not sure if you've defined your audience. So is there any evidence, or is there any data collection that informs your future script-writing?
+
+DOLLY: So one of the biggest issues with Facebook and social video right now is that there's very little data that they're willing to give us, which is quite different from other platforms like YouTube. So I actually produce more content for YouTube — longer form content — and the way our videos are made for each platform are really different, partially because we can't get that much data. So we rely much on feedback, on commenters. We have a whole forum of comments from each of these videos, things that we really need to highlight, things that our viewers are pointing out to us, or things that are juxtapose shared a lot, or voted on a lot, so we know it's comments that we need to pay attention to. 
+So that's one of the downfalls of social video, you don't get great information for these platforms about what exactly is working. But how we know that something is working for us is when we get our what can we do as a follow-up. We can never really tell anyone, here, donate to this! But we can say Human Rights Watch has these recommendations and share links. So that's how we know our videos are effective. If they get shared a lot, and if people are reaching out to us to understand — to know what the call to action should be, and where they can look into more resources if this is a cause that they're very interested in. So yes, our social team is incredibly busy and we spend a lot of time interacting with our audience. So what can I do in my newsroom? Feedback. That's a huge part of it. Somehow the rat meat video was approved probably by one person, made by two people, and approved by one you gotta be thoughtful about feedback. This is how this makes people feel. This is the issue. This is what writing texts like this implies. This is what rat meat as a headline makes people think.
+A/B testing is great, but A/B testing can only go so far. You can test, like, oh, well, this thumbnail get more clicks than another thumbnail. But you can't necessarily register people's emotional responses. So simply asking people around you how they feel about that video, how they feel about that certain headline could make a huge difference. Because hadn't that rat meat video not been seen by more people, it probably wouldn't have gone out. And multiple iterations. If you're unsure about something, lay things out in different ways. Try different ways, and show someone else, and pick the ones that are most effective in terms of gaining the most audience, and the most effective without imposing some type of maid problem onto it. Yes?
+
+AUDIENCE: How do you balance getting feedback, A/B testing, multiple iterations with having to meet a deadline of getting more and more content out there?
+
+DOLLY: So that is one of the big issues, that's how things like rat meat end up on our newsfeed. So A/B testing for us is more of a long-term thing. So we don't think about that too much in terms of having to cover our daily grind. So our A/B testing is more on our explainers for now. But we'll test things like font color, font size, things that are small that we can change on a day to day basis without affecting our workflow too much. The feedback part — so our — our daily news team who, you know, they make the sarin gas videos, they actually produce probably 90% of the Facebook videos that you guys have of AJ+ and they're a powerhouse and every single Friday, they take the time to get that feedback. They sit and review every single feedback that's been published that week. And this doesn't just include the San Francisco, this includes the Doma team that reviews things when San Francisco goes home for the night. Even stripping down our color palette for all those five colors all the way down to two, it was a long process of feedback, testing, and, you know, and investing in the long-term. 
+So it wasn't overnight that we were able to get rid of all the colors but with enough voices saying, you know, what, green and purple just don't work for me when you're talking about the Syrian Civil War. That it's just inappropriate, and over time we were able to make these modifications. And there are other things that, if going beyond type, since we are working in video, things like animation transactions which were not really strong here, but I'll mention it. Sometimes we try to do animation transitions, and those sometimes can be problematic, too. You know, flickering. When you have flickering text, that also has really strong implication. It contributes to fear mongering.
+And it helps to ensure whether the text makes sense...
+
+[ Rogue Tab Audio ]
+
+Where's it coming from?
+
+AUDIENCE: I think you have to minimize the window. But the long-term testing to answer your question has to be — the A/B testing has to be a long-term project and they can — we can only test things that we can change very easily on a day to day basis. So that does mean like type size, color, and that's actually what led us to strip the colors after a long round of A/B testing but you're not going to be able to see results within a day. Okay. So some playtime. If you guys want to whip out your colors, or someone at your table wants to do this, download this PowerPoint. It's very simple. We're going to play a simple game of DIY tabloid. And this is not to help you make fear mongering headlines but it's more to help you think about what goes into making that, and, therefore, what to avoid. I'll give you guys a few minutes and show you the goals. Everyone got their PowerPoint?
+Okay. So you guys are going to redo these headlines but add your own distinct flavor to it. Two color max, you can use bold, italics, and underline, don't go too crazy, and use as many text boxes as you want. So feel free to separate the words out into a headline, do whatever you want to them will be change the size, change the order and placement. So you should have three images in your PowerPoint. First one the headline would be a swarm of 1,000 bees has put a Florida man into a coma. Make this headline as scary as possible. The second one is this dog went missing in July 2016 and was recently spotted far away from home. Make this one as sad as possible. And then the last one, China's president, Xi Jinping kicks off day one of the World Cup. And it makes me feel really alarmed about over Xi Jinping's involvement in this. And so let's take about 20 minutes, and when you're done, send your screenshots to me so we can take a look together. And we're going, we want to know how we can make this more ethical. So take note so you can make a list of what to avoid, because you can't know what to avoid unless you put your head in it.
+
+AUDIENCE: Can you put the short code up there?
+
+DOLLY: Do you guys want music? What would you guys like to listen to?
+
+AUDIENCE: Standard video background music.
+
+DOLLY: Muzak?
+
+AUDIENCE: I was joking but you can play that song.
+
+DOLLY: What do I want to listen to? This has been my jam so now it's your jam, too. 
+
+[ Group Work ]
+
+Start sending me the screenshots. Email them to me at dollyli@gmail.com. Last minute to get your screenshots in.
+
+AUDIENCE: Where do we send them in?
+
+DOLLY: Dollyli@gmail.com, read the fine print. All right. Let's take a look at some of these. Y'all ready? A swarm of a thousand bees has put a Florida man into a coma. Let's look at — we'll look at a bunch and then we'll come up with some rules to take away about what made these so scary, so we know how to avoid them. Aw!
+
+[ Laughter ]
+
+This dog went — well, there was a two-color rule but that's okay. This is pretty sad. Barely alive. I was gonna say, it's very direct.
+
+[ Laughter ]
+
+That's an embedded rat meat.
+
+[ Laughter ]
+
+A thousand bees, a very, very effective one... a swarm of a thousand bees has put a man in a coma. I love this one because it looks like a missing poster. I love that fine print — and was recently spotted far away from home.
+
+[ Laughter ]
+
+This is really, really offensive. I am completely sad. Oh, I like this operation of kicks off day one. Very cool. Xi Jinping, in big bold letters, I think there needs to be that bit of fear-mongering and emphasizing his name. Definitely some play on numbers, which I think is a common way for social video to be manipulative towards you, which is playing up the numbers. Aw. I feel like this was like the opening to, like, a YouTube video that's about to be, like, a MIDI of a really sad song.
+Let's see. We saw these. Florida man into a coma! Ooh, there we go, I see. A swarm of thousand bees has put a Florida man into a coma. Yup, that's very, very fear mongering there. Aw. That was another headline. Yes, this technique definitely is something that keeps coming up. Let's see if I got any more. Oh, whoa.
+
+[ Laughter ]
+
+Good use of display: Typeface. Very Going to say goosebumps. Would not read. Very spooky.
+
+AUDIENCE: Captain minimal.
+
+DOLLY: This really looks like that it was a bloody event but it may not have been. A swarm of — aw. Pupper! A thousand bees in a coma. This dog went missing. I like the tiny text because it's also like, you have to pay close attention to what's happening.
+Oh, I like this. Oh, haven't seen this yet.
+
+[ Laughter ]
+
+Glowing text. That is spooky. Aw, the use of italics is nice. It definitely Saturns it. This is a scary coma. All right. So let's wrap up. What are some things that you've found yourselves doing to make it scarier or sadder? Anyone want to just shout some stuff out?
+
+AUDIENCE: Find the scariest word and make it big.
+
+DOLLY: Things to avoid — avoid! Let's make those things to avoid. Finding the scariest word and making it big. What about on — yes?
+
+AUDIENCE: I found that we — by emphasizing certain things, we were purposefully distracting from other things that kind of took away from our point.
+
+DOLLY: Emphasizing certain words. Things to take away. We were saying the importance of... other bits of information.
+
+AUDIENCE: Yeah, yeah.
+
+DOLLY: Choosing your facts.
+
+AUDIENCE: Using red carefully — the color red but it's a very warning/alert/scary color. Or, I mean, to avoid — or not using.
+
+DOLLY: Let's see, avoid. Using red carefully. It's an alarming color. What else?
+
+AUDIENCE: And sort of along the same lines, other sort of cultural artifacts, so, like, the missing poster, or it's tabloids, or whatever, I think it's good to take advantage of these other things, you know, having fonts and color choices that we recognize as something.
+
+AUDIENCE: Yeah, I feel like the most emotionally manipulative things are things that you remember from your past. So if you can evoke those things visually, like they could be deadly. Any thoughts on how you — how you guys were treating numbers such as the thousand bees? Yes?
+
+AUDIENCE: Um, I think things like highlighting, and, obviously, like contrast, so bolding the numbers, and then, like, leaving the rest in a lighter font weight, like, helps draw the eye to that very scary statistic.
+
+DOLLY: Right.
+
+AUDIENCE: It's also context, right? A thousand bees is like, is that a lot? If you make it really big, then it seems like super a lot and it's alarmist.
+
+DOLLY: Avoid: Numbers out of text context. Is a thousand bees a lot of bees? By the way, bees are all fake, by the way.
+
+AUDIENCE: What if it was, like, a swarm of bees buzzing, and then the bees triggered something that put him into a coma. Like, maybe the bees were just flying.
+
+DOLLY: Or it was just the sight.
+
+AUDIENCE: Also, how you use numbers, whether or not you include the comma, not include the comma, the way you spell out the word, like, that can change the intonation.
+
+DOLLY: In general, our rule of thumb for numbers, actually this is part of our copy editing rule is to use the commas because it's faster to read and it helps the reader immediately register what the number is. Any other thoughts? Cool. Well, I'll post these online for you guys and thank you!
+
+[ Applause ]
