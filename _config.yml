@@ -8,4 +8,4 @@ exclude: ['*.yml']
 collections:
   transcripts:
     output: true
-    permalink: /:collection/:slug/
+    permalink: /:collection/:title/
