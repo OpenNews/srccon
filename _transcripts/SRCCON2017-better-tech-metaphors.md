@@ -16,7 +16,7 @@ background: remote
 
 NICOLE: Okay. The doors are slowly closing, so we're going to go ahead and get started.
 
-So thanks, everyone for coming. This session is called towards better metaphors, an accessible and inclusive way to explain the technical work that we dove, my name is Nicole Zhu, I'm an engineer on the publishing team at vox media. And just by a show of hand, how many of you are developers or do technical work?
+So thanks, everyone for coming. This session is called towards better metaphors, an accessible and inclusive way to explain the technical work that we dove, my name is Nicole Zhu, I'm an engineer on the publishing team at Vox Media. And just by a show of hand, how many of you are developers or do technical work?
 
 Okay. How many of you are journalists, editors, or, like, cross team sort of collaborates?
 
