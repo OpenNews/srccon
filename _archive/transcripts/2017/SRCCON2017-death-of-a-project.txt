@@ -1,0 +1,137 @@
+Let’s Talk About Death 💀
+Session facilitator(s): Adam Schweigert
+Day & Time: Friday, 4:15-5:30pm
+Room: Thomas Swain
+
+ADAM:  Let's just wait a couple more minutes, and then we can kind of get started. Is there anything -- so like structurally, I'm going to kind of frame the conversation, just have a couple of minutes, I have just like three slides or something, and then I have a couple of exercises and we'll actually break into groups, so you may want to consolidate a little bit. I'd like ideally three groups, that would be good, you think, so if you want to kind of consolidate slightly, that would be great, and also, while we're waiting here, if there's anything in sort of particular that people want to talk about, or you want out of this, I'd also be interested in hearing that, too, so we can kind of focus the conversation. So I've also got a couple of links, too. Contact info, just for me, here, if you kind of want to talk or I can obviously talk afterwards. I've got a couple of other resources here, we've got session notes in the etherpad that I've kind of started with some notes, and I want to also give a shoutout to OpenNews for an event like what was it in December, right? Like, when we sort of started, I was talking about some similar work to write sort of an open source field guide for newsroom, like projects, there's a whole section there on sort of sunsetting and handoffs that I'd love to actually contribute back to you after this, and kind of flesh out some of, so that's another great resource that I'll also put this back up at the end, too. Is there a friendly link for it?
+
+RYAN: There's field guide.opennews.org.
+
+ADAM:  So the session is to talk about end of life care for newsroom projects, right? So in sort of thinking about this, who in here maintains open source or OpenNews room projects on a regular basis? Almost everyone, right? Who actually has a plan for how the project ends? Does anyone have sort of like a contingency plan, like shutting it down? What would happen? No? Totally fine. We're going to write one, so it will be -- ooh.
+
+AUDIENCE:  I also kind of shut one down.
+
+ADAM:  OK, like what's the context around that?
+
+AUDIENCE:  We made a set of tools for embeddable graphics, auto tune, Vox Media, and realize that had it was pretty difficult to maintain, so we spun everything down except for the most widely used tools which was like the charts and then a couple of other things have been folded back into the publishing platform itself, so it's not a separate tool.
+
+ADAM:  Oh, OK, cool. Any other examples that anyone has of sort of a process where you have a plan for shutting it down, or any end of life kind of plans like for the project? So in just like thinking through this, we just thought there was sort of like a few different possible outcomes, right, and the field guide also breaks it down kind of in this way, so there's sort of handing off on a project, either you like leave a job and just kind of like hand it off to the team that's actually still there. You can like hand it off to sort of like the community if it's an open source project. All sorts of issues around like that around sort of governance, how you actually figure that out, or to like another team or if the project's acquired, fold, etc. Theres' also archiving it? Right? Like keeping it like alive in some form. Kind of indicating that it's not, like, maintained, and then like sort of full sort of project like death where you shut it down and pull it off of -- I'm sorry like just the internet, publish git repos, delete stuff, any sort of other scenarios, right? So in sort of thinking through how could we, like, write the sort of missing documentation around this, like for sort of regional projects, I was thinking a bit about hospice care, right? So end of life, sort of care, and how you actually plan like for that. You know, from an organization that actually does this, right? What is actually involved in like that sort of advanced care planning, right? Often it's that you're sort of gathering information about, like, possible like sort of like treatments and outcomes. You then make decisions about it, just kind of like decide like what you would want actually done. You share the values, and then actually like write this down, right? And have sort of a written document that actually outlines a lot of this. So in sort of thinking through like how would this work for sort of technology-like projects, right, I thought it would be sort of helpful to think through each of the three different scenarios and just break into groups, right? So I need like Team Archive and Team Shutdown and just like sticky note or whatever, we can grab like some pads and just think through how would you sort of structure that sort of a document, right? Like, how if you were to kind of like write like a handoff plan for a technology project, like, what are the sections it would have, like what information is in it, like, what do you want to pass on the project's legacy, right? So sometimes it's actually not just like technical, right? It's also cultural and it was like what was the original plan, what did you learn, what are you hoping sort of feeds into future projects and then also like what can you do now to put the structure in place so that the sort of wishes that you have for that outcome are actually like respected at that time and it's whether or not you're actually still there, you know, like whether you're actually still around, so I thought we could take ten minutes and kind of like break into the, like three groups. So do I have a group that wants to talk about, to kind of just like talk about handoffs? Someone volunteer. So we need kind of three groups, I guess. If you guys want to kind of just consolidate slightly, that would be swell.
+
+RYAN:  We have power over here.
+
+ADAM:  So we'll do handoffs here. Handoffs. Then archiving. Archiving, someone? Archiving? And then sunsetting. So if you could sticky-note stuff, or just -- or just like use a tablet, that would be great and then we'll just share sort of what you come up with in a few minutes.
+
+[group activity]
+
+ADAM:  OK, I'm going to give you about two more minutes and then put up the notes and kind of get together and share stuff. All right, let's delegate a spokesperson. We're going to start with handoff, handoff, Team Handoff ... all right, Handoff is over here, right? You guys are Handoff. Who wants to kind of talk about?
+
+AUDIENCE:  Ryan does.
+
+RYAN:  I'm writing.
+
+AUDIENCE:  So we talked about first of all getting a sense of history with the project. So we did handoff, so the idea is history of the project so people know kind of what went into it, and who worked on it in the past and what the things that were done and maybe a little bit of why if possible. The tech, of course. And the roadmap where you wanted to go, and what the feature list and wish list was, document internal info such as, you know, say when the domains are going to need to be renewed and where, maybe the credentials and other important data like that that is really important to have on hand when it comes to. Third a communication of transfer, so who is taking over, if anybody is. Why are -- why are you doing this handoff in like, why are you walking away from this project? That may contain some information that the people picking it up may want to know. A list of relevant events and stakeholders, which could be covered in history, but also going forward. People are going to want to know if this is an annual or more or less often project that's going to come up, you know, who are the stakeholders that are going to want to know about it and what are they going to want to know, so know all the dependencies.
+
+AUDIENCE:  This is the only one that has a potential rebound effect. Being absorbed into another system, graduating upward, so we were trying to make sure that ours didn't preclude death.
+
+ADAM:  Oh, sure, right, that makes sense. OK, Archive?
+
+AUDIENCE:  Yeah, are we going through all four questions or are we just doing the first one?
+
+ADAM:  Yeah, all four.
+
+AUDIENCE:  I'll just give a high-level view, so what information archiving a project would entail, we have like who is responsible for bugs or support, and then like various levels of contact information. We also talked about like if there is a plan to eventually sunset or like kill the project, information on the timeline or expected timeline, explain what level of maintenance is being supported in its archival state, and then like we talked about how to communicate it's been archived best with some information that it's actually in that archived state. In terms of like passing on to future maintainers, like we discussed we would have to talk about who is paying the bills if we're archiving something and keeping it alive. We would want to keep original notes on the product information from the beginning and then information about like dates and comments and context on where things happened originally, if anyone were to like bring it out of archived state. In terms of like the project's legacy, we talked about inspiration to future projects, could be a source of circle context, it could inform a bunch of like new work, and then what can you do to make your team's wishes respected? We talked about making it easy for may going your wishes to be respected. Deciding who is supposed to be responsible for your wishes, explain why your project was important, and then also maintaining your presence, which goes back to like including a bunch of contact information and making yourself available.
+
+ADAM:  Yeah, great. All right, shutdown folks? Death?
+
+AUDIENCE:  So we had a lot of similar things that people have said already. In no particular order at all, origin story, alternatives you could use once we shut down, maybe financial history, migration policy, something to do I think that could depend on the project. Why are you thinking of shutting down? Lessons that we've learned. Failures and regrets, how to resurrect it if you want to in the future. Related to that is like license information or like legal information and like our wishes for the future.
+How and when appropriate to contact forming maintainers, and that's dependent on who the maintainers are and what they really want. Implications for current users and timeline for shutdown.
+ADAM:  OK, so I'll actually get those post-it notes and organize those and try to structure this and share out all of that stuff and there's also notes in the etherpad, which is great. So I'll dump anything in there that you want to share. So the second part of the exercise, right, is to actually try to do this,  right? So as a group to pick like a project that you have, something -- and actually try to go through the like stuff that we just outlined, right, so to try to kind of have -- it obviously just 30 minutes is not enough time to do this, so I think sketch it out, think about sort of a project, sort of do what do the different scenarios look like and try to capture some of this information. So if you want to sort of like pick a project, I would probably use a Google doc or something that you can share with me and I'll kind of collect everything at the end and we can kind of quickly also just talk through it, so and I'll kind of work on the post-it notes while you're in this. So, yeah, do you have a project in mind I guess you guys want to talk about it first and then in like a couple minutes we can kind of share --
+
+AUDIENCE:  Are we still doing handoff?
+
+ADAM:  I'd like you to do them all, but if that's too optimistic, yeah.
+
+ADAM:  Down to like seven minutes or so, so start getting the notes organized and in the etherpad or whatever and we can start talking.
+
+ADAM:  Three minutes. Three minutes. And then we're going to come back together and talk about it.
+
+ADAM:  All right, everyone, time to share our plans. We're going to start with this group over here.
+
+AUDIENCE:  Sure, I'll just sprain. So I have got my editors every year they want to publish and write a story about the public employee payroll, which is a huge, but very simply structured database of names, salaries, and a few other things, like benefits and things like that. And my predecessor put, when they were doing this in like 2012, 2013, put all of this data into a SQL database, which people have since sort of forgotten that it was there, and lost the credentials to, and it was broken for a while, so this was a project that I wish we'd had better handoff plans about. So and going forward, there's no reason for it to be in a SQL database, so it can continue in a more resilient state, and so that was sort of the problem that we were developing a plan for. 
+
+AUDIENCE:  So we just kind of talked through the categories that we had come up from the first exercise, and so just kind of making sure that the history of the original app had been captured. Basically one of the -- I think one of the goals was you should be able to reconstruct this app. The way that it was originally built, if you needed to, and so talking about where did this data come from, who collected it, who built this database originally, what's the schema, how often was it updated? That kind of stuff seemed helpful there and that kind of stuff also worked with the ten-minute test with what did we use to run this app originally? What's the data pipeline, what's that script look like that lets us convert it out of this old system into the new one.
+
+There wasn't a lot of internal -- it didn't sound like there was a lot of internal credential, at least we didn't talk about anything beyond being able to log into a SQL database. And then the roadmap was kind of yeah, like in this project, we want to be able to blame an editor, because this is the thing that actually works and the goal here is to turn it from something that works into something that was actually better and I can't remember, did you talk about handing upward? And yeah, handing upward as opposed to like handing off is kind of how we were thinking about this. And then like kind of describing, you know, for future developers, a few things, like the fact that in a new dataset comes down every year, we're going to be producing this new process yearly and we want a list of people who touch the stuff that relies on this data. A list of the URLs for these interactives that actually call the data, and then kind of making our case to future developers that no, these decision that is we're making right now, they're actually smart, because they maybe won't feel smart even to us in a few years, so we want to kind of document why we're doing this, cost savings being one of those reasons. So I think that pretty much walks through how we were thinking about this project.
+
+ADAM:  All right, and in actually thinking through it, did you find that the structure that you outlined originally was sufficient for documenting it or did you come up with something that was not covered.
+
+AUDIENCE:  It was pretty close to our --
+
+AUDIENCE:  Yeah, I believe so, probably because we used the post-it notes. But I think we talked a little bit more about OK, why were these categories important to us?
+
+ADAM:  Yeah, any thoughts or any sort of questions for them? No? OK. Let's go to the group back there.
+
+AUDIENCE:  Sure, yeah, so we talked about the marshal project needs to die and there's our plan. Just generally document how data gets pulled into the app, the site, how it's stored, edited, and then we thought about breaking down handoff and archive processes into three or four separate documents, kind of based on roles, so technical documents for developers, how to run it, like what the tech stack is, etc., and as a part of that, open sourcing anything that can be. I think that's just a probably a good idea generally, regardless of the project. There are eight to ten partners that participate in this, so this kind of describes how that relationship works. We want to have a document that describes any contracts, rules for the communication between the partners, have some sort of messaging that just says, hey, this is happening, that's important to communicate. So folks that are participating aren't caught off guard, taken by surprise. And then providing some documentation for someone that might want to pick up the project, especially for a project like this that has, you know, high impact. And outside of that, just some odds and end we tack onto the bottom here, like asking the internet archive to help preserve it, make sure that this lasts a long time, talking about part of this, thinking about how to make digital projects, you know, last hundreds or thousands of years. How does the stuff stick around? And the last thing being, you know, in its new, sort of frozen state, does that call for some modifications to the design to make it useful still?
+So, yeah. That's our --
+
+ADAM:  And did you sort of talk about like decisions archive versus killing it? Like the cost involved and that sort of long-term situations there?
+
+AUDIENCE:  No, we didn't really talk about that. I mean does anyone want to jump in with ideas? We kind of -- we focused on the idea of archiving it, and/or handing it off, so --
+
+AUDIENCE:  We also just briefly talked about how to -- like a Kickstarter, people paying for very basic hosting thoughts for this content. We often donate for like new things, as opposed to donate for certain things to live for a while. Just a random thought.
+
+AUDIENCE:  Yeah, I think something else we talked about that's not up there is also the idea of like, how do we keep something secure, because if you like either archived it or started to shut it down, but like left it somewhere, we can go in and mess it up. Yeah, because you do see older projects get attacked and like spam or whatever overtime and that's a problem. OK, cool. Any other thoughts or any sort of questions about that?
+
+AUDIENCE:  I really like the last few items in particular, the last one, because I think it's really easy when the moment comes for a project like this could be like, oh, God, finally we can work away from this, but that suggests some pretty proactive work and maybe some intense work to make it something that actually respects the life of the project and, yeah, I really liked that you noted that.
+
+ADAM:  And finally the last team?
+
+BEN:  We were talking about the a repository that lives on a couple of hundred websites that use it and in its current state, it also exists in an archival state. So the project handoff then becomes why we're handing it off, how much it will take to update it, what's needed in order to update it, you know, how do you access the GitHub repository, how do you access the plugin.org repository, how do you get in touch with the proper person at NPR, etc., then when it comes time to sunset, what alternatives exist to the plugin, what alternatives exist to PIM.js, you can update it so it only comes up in iFrame instead of a PIN embed. Because if you uninstall a short code again in WordPress. It just leaves short codes scattered across your site, little delimited pieces of text and your readers will go, what is this? Why is it here? Hey, your site is broken. And explain why we made it, what's the benefits of it were, and not really documented here is how to not sunset it, but how to murder it, you know, make sure -- what to do in the event not just we're no longer using this plugin, but also we need to make sure that everyone stops using it as much as possible. Which means pushing an update that disables.
+
+AUDIENCE:  This is in the case that we found a security vulnerability or something.
+
+AUDIENCE:  But also communicating that.
+
+ADAM:  So what if you pushed a plugin, but they don't have to install it. Is there anything that you can do to sort of get them that information?
+
+AUDIENCE:  Wordpress.org doesn't tell you who's using your plugin, so we would probably -- I don't know, we could ship an intermediate version of the plugin that contains a notice saying, hey, in a week we're going to publish a version that shuts down, like, completely disables this plugin, these are the steps you need to take, you know, put that up there with a very obnoxious admin notification, because it's important. We'd probably get a lot of flak, but I think wordpress.org would also understand that. But on the other hand if it's a security problem, we should push that update as soon as possible.
+
+ADAM:  OK, questions or thoughts? OK. And sort of wrapping up, how can we make this more of a thing in these organizations? This is kind of something that is often ignored, right, I mean handoff. I mean plans are written in the last possible second, right, in a lot of cases? How would you take this back to sort of your newsroom and I guess make the time for it and kind of make it more -- make it a priority? Does anyone have any thoughts on that?
+
+AUDIENCE:  I think that it's kind of just one subset of having a culture of documentation. If you have -- if you have the documentation, you already have a lot of this stuff around, like who is in charge, why this fits, what the dependencies and alternatives are maybe, what is used to maintain it or what's needed to maintain it. All of that stuff would already be somewhere, so then if you had to kill it, it would be a lot faster and easier to update that part of the documentation and pass it along.
+
+ADAM:  Yeah.
+
+AUDIENCE:  Another thing is if you are in a position to be handing things off to other people, if you start by giving them really good documentation, like it encourages them to then do that for other people or then back to you if they like end up handing something off to you, so setting a good example is something that everyone can do on their own.
+
+ADAM:  Yeah. Yeah?
+
+AUDIENCE:  Also something to be said for the person who is allocating the resources and time is not someone who understands this process or understands the language that goes with it when you begin a process of moving into a small version of this so you're talking about passing on but not passing off, that someone in this position that make sures this happens is already invested in making sure you don't let something die on the vine.
+
+AUDIENCE:  Might also be just like giving developers a time to sunset the project and archive their projects and make sure they can be archived or sunsetted, I mean I work in a newsroom where my first priority is usually to write stories, so the work I do maintaining and, you know, keeping up with applications, doing code on the side, is kind of secondary. But, you know, having like that -- having that as more of a priority to give it, you know, by giving them like a couple days' notice if you're planning on sunsetting something, you know, for one thing, and allowing them the time to work on a sunsetting project, like creating a new design for a project that needs to be killed. That would help a lot, I imagine.
+
+ADAM:  Yeah. Any other final thoughts? We're almost out of time. And I will sort of like just try to like distill this. I think one thing about documentation that is actually helpful is having some like structure and sort of like fill in the blank type of things that people can actually use, so I'll see if I can distill something and share that out and add it into the field guide later, so ... um that's all I got.
+
+AUDIENCE:  This reminds me, I work for a library and we work with a lot of researchers and it's completely different funding context and everything, but one of the things that is becoming a major thing for us and for people doing like research with grant-based research and things like that, is having this kind of plan for their research data, and like having a data management plan built into their initial grant applications and actually thinking of it as a whole -- like a life cycle for the project and what's going to happen and especially for projects where there's like a huge investment in data gathering, it seems like that's something that -- I mean maybe something where practices could be -- a place to look for some of these practices and then libraries are a natural place to -- I mean, you know, they can't just take everything that somebody hands them, but there are datasets and projects that we archive and that like kind of end up getting handed to us for curatorial at least advice if not actual maintenance.
+
+ADAM:  Yeah, and oftentimes there's kind of the expected outcome and that's defined at the outset, but I find that there's often less of a focus on what happens if things get really bad, like how do you maintain systems at the end of a project and I do wonder how we can integrate that so we can make this more of like a priority earlier on. Because that's kind of the thing that I've kind of felt is kind of missing, right? We kind of don't have a plan until things are already starting to get bad and then how do we actually kind of unwind the project. In that that sort of limited timing that we often have, right, and that's interesting, so if you have any sort of examples that you can share, that would be awesome.
+
+AUDIENCE:  Just one more thing along the lines of documentation I think another thing that would probably be helpful is if more people wrote about how they had to sunset their projects, to just like share so that it's less of a bad or sad or scary thing to go through.
+
+ADAM:  I'm going to put my --
+
+AUDIENCE:  You could do that for -- [inaudible] but also for the users. I remember the Atlantic took a feature away. And just really quickly, we put another resource in, we took this feature our, because this is how many people were using it and this is how many people are using this other thing we're going to put a whole ton of time into it. And this was the first time that I saw a company be completely transparent in a way that they were explaining it to the consumers who might have used that feature. I thought it was great.
+
+AUDIENCE:  Yeah, definitely and also writing for the journalism community, too, about anything that you're doing and why, it's actually very helpful.
+
+AUDIENCE:  The other thing is thinking about some of this stuff at the beginning of a project, like, what is my intended life span, because I think it's totally true that writing about a sunsetting process could be this doesn't have to be bad, but also it could be totally intended. It may be that a project runs its course in 18 months and that's fine and I think talking about that when you start a project is pretty helpful so it doesn't feel like this is a failure because it's done. It might not be.
+
+ADAM:  It might be that's when it's done.
+
+AUDIENCE:  Mm-hm.
+
+AUDIENCE:  Another thing is oftentimes for grant-like projects, the people who apply for a grant and the people who execute against it, but to be a little bit open about what the outcome should be and be part of the team that executes the challenge.
+
+ADAM:  I am aware of that situation. I have been in that situation!  Yeah, so if you have any other thoughts, like email me, if you want, I mean me to share things back with you, email me, or send it, you know, I'll send it to you after I kind of just collect things. Also update the etherpad and also the field notes. So put those things back up here. So that's all I have. Thank you so much.
+
+[applause]
