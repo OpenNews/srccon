@@ -1,0 +1,1108 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Session Transcripts | SRCCON 2017: August 3 & 4, Minneapolis</title>
+     <meta name="Description" content="SRCCON, August 3 & 4 in Minneapolis, is a participatory, interactive conference centered on the challenges that news technology and data teams encounter every day.">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <link rel="icon" href="/favicon.ico" />
+    <!-- stylesheet & typekit calls -->
+    <script src="//use.typekit.net/xnh2etj.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+    <link rel="stylesheet" href="/media/css/2015.css" />
+    <!-- endstylesheets -->
+    <!-- script calls -->
+    <!-- end scripts -->
+    <!-- Begin Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-91317400-3', 'auto');
+      ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+</head>
+<body class="docs interior">
+  <header class="remote">
+
+    <div id="headertop">
+      <div class="container">
+        <nav class="navigation">
+          <ul>
+    <li id="sessions"><a href="http://schedule.srccon.org/">schedule</a></li>
+    <li id="logistics"><a href="/logistics">logistics</a></li>
+    <li id="docs"><a href="/docs">docs</a></li>
+    <li id="remote"><a href="/transcription">transcripts</a></li>
+</ul>
+
+        </nav>
+      <div id="headbox">
+        
+          <h2>Session Transcripts</h2>
+          <h3>A live transcription team captured the SRCCON sessions that were most conducive to a written record—about half the sessions, in all.</h3>
+        
+      </div>
+    </div>
+  </div>
+  
+</header>
+<div class="container">
+  <a href="/" id = "cornerlogo"><img src="/media/img/2015/corner_logo.png"></a>
+
+    <div id="contentbox">
+      <h1 id="toward-better-metaphors-accessible-and-inclusive-ways-to-explain-technical-work">Toward better metaphors: Accessible and inclusive ways to explain technical work</h1>
+
+<h3 id="session-facilitators-nicole-zhu">Session facilitator(s): Nicole Zhu</h3>
+
+<h3 id="day--time-thursday-445-6pm">Day &amp; Time: Thursday, 4:45-6pm</h3>
+
+<h3 id="room-ski-u-mah">Room: Ski-U-Mah</h3>
+
+<p>NICOLE: Okay. The doors are slowly closing, so we’re going to go ahead and get started.</p>
+
+<p>So thanks, everyone for coming. This session is called towards better metaphors, an accessible and inclusive way to explain the technical work that we dove, my name is Nicole Zhu, I’m an engineer on the publishing team at vox media. And just by a show of hand, how many of you are developers or do technical work?</p>
+
+<p>Okay. How many of you are journalists, editors, or, like, cross team sort of collaborates?</p>
+
+<p>Okay. Nice. How many of you guys work with, like, your readers, community managers, and support teams and stuff like that?</p>
+
+<p>Cool. Awesome. Great. Good mix.</p>
+
+<p>So before we get started, just some ground rules, this session is being transcribed, so please clap for our amazing transcriber. And just a note if you want to be off the record, just say so, just say off the record, and when you want to come back on the record, say on the record.</p>
+
+<p>This is also a safe space and, also, everyone here has something to contribute. And whether you’re technical, we’re valuing your feedback in this session a lot. So don’t be afraid to speak up and participate and ask questions and stuff like that.</p>
+
+<p>So the reason why I sort of chose the session was because I was inspired by this article in the Thursday Bram in the recompiler, and it was bad metaphors, and it was about why it’s bad to have bad metaphors in programming and the positive aspect of our experiences and why we’re inclusive of all the people in the industry. I think as we all know, metaphors are really beneficial in terms of learning just because metaphors let us connect new material to concepts, situations, and stuff that we already understand.</p>
+
+<p>But there’s also another dimension that I read in this article that was really important to me was that metaphors reflect our culture and our experiences. So the things that we use to describe a concept, a term are – don’t kind of come out of nowhere. They come from us, our people, and our experiences and our backgrounds. So making sure that we are inclusive and accessible in what we use to teach programming concepts is really important because obviously, like, learning programming, concepts, or terms are difficult enough. And so if you make that harder by trying to connect material that someone has to understand, that’s just an extra step that isn’t always super helpful.</p>
+
+<p>And so she sort of has a call to action in this that I took as inspiration for this session, which is that we need a lot more metaphors sprouting from a much wider variety. If you love sewing, rap, all of those things, any sorts of things that you do outside of your day to day job, we want to see what those – what you kind of metaphors you can come up with those.</p>
+
+<p>So things we won’t be doing this session. Please don’t do stuff like this. Come up with metaphors, like, it’s so easy, your mom can understand it. Because your mom is amazing. An example of inclusive metaphors. And examples of what you should do. This is a poll request, and this was to replace terminology that was commonly used in a communication for hardware devices and stuff that is clearly very racially charged and offensive. And so this one person just took that term out and just replaced it with leader and follower. You should not read the comments on this PR, though. It is horrendous.</p>
+
+<p>But the intention and sort of what we’re aiming to do with this session is somewhere along these lines. Is to rethink and reexamine terms and language that we use that might not be inclusive that, again, reflect certain experiences or historical notions that might be outdated and how can we keep those up to date?</p>
+
+<p>So session goals just what we hope to kind of get out of this session today. One, a better awareness of how our experiences, again, influence the metaphors we use to teach new material. The ways in which these metaphors can kind of influence our industry and our culture. Both positively and negatively. Obviously, on a more tangible level how to think of inclusive metaphors on how to help facilitate across teams and, again, the interdisciplinary nature of our industry.</p>
+
+<p>And then brainstorming cure rate a list of useful teaching metaphors that you can take back and share with your newsrooms, teams, Internet, wherever you want. And please add – and please add to those after the session is over.</p>
+
+<p>So before we get started on some of the group thinking exercises, what makes a good metaphor? So I came up with a little bit of a rubric.</p>
+
+<p>So first is it complete? Does the metaphor explain the most important parts of the concept that you’re I’m trying to describe? How does the metaphor hold up if you extend the concept in even more technical ways? So if I was saying that, you know, the term was API, and I was saying, like, it’s a window into the code because you can expose internal functions that can be used by, like, other programs. But then if I was trying to explain authentication with the window metaphor, it’s not super complete because only certain arms can reach through the window. Like, it really doesn’t make sense.</p>
+
+<p>Memorable is the metaphor. Is it easy to remember? Is it creative? Is it inclusive? Does it include people with different identities, whether that’s gender, race, sexuality, their backgrounds and other people’s experiences.</p>
+
+<p>And also, is it accessible when people from different backgrounds and experiences from your own understand the metaphor and its explanation? So, again, is it going to be too complicated to explain, like, a – how racing works before you get to the concept you’re trying to describe.</p>
+
+<p>And so what I want us to do. There’s a bunch of sticky notes up here. I’ll go ahead and pass these out in just a second. But we’re going to take – first, five minutes to just individually do a brainstorm of some common topics, concepts, and processes that you all would think would benefit on common metaphorical.</p>
+
+<p>What are things that you heard a lot but you don’t know what that is or what are things that you have trouble explaining to other people? And really, this is just to get us into a way to identify common terms and processes and stuff that we can then turn into better metaphors.</p>
+
+<p>So I’m going to go ahead and hand these out.</p>
+
+<p>There are more here if you need it.</p>
+
+<p>Just take the first five minutes individually to come up with, again, things that you think might be good candidates for metaphors. And your time starts now.</p>
+
+<p>Okay. That’s time for the individual brainstorm. And now – cool. So now you guys have a bunch of terms you have conquered yourself. We’re going to now share those and group them a little bit. So we’re just going to do a hand raising thing here, and we’ll take ten minutes to do this exercise. So try and, like, prioritize the ones that you think are really, like, the best candidates for metaphors. And we’ll just kind of go around the room, and I’ll write them on this board over here.</p>
+
+<p>So who would like to go first.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Microservices.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Microservices. What else? You in front.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Node.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Node.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Caching.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: I like all of these agreements.</p>
+
+<blockquote>
+  <blockquote>
+    <p>HTTP.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Can you add slash S to that?</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Slash S.</p>
+
+<blockquote>
+  <blockquote>
+    <p>I was going to – VPNs.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: VPNs.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Metadata.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Metadata.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Structure data. More specifically JSON.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Structure data slash JSON.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Regular expressions. Nicole regular expressions. In the back.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Basically just troubleshooting. The process of finding and fixing bugs.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Totally.</p>
+
+<blockquote>
+  <blockquote>
+    <p>As it relates to a noncoder – Nicole I’m going to put down troubleshooting and debugging. Does that work?</p>
+  </blockquote>
+</blockquote>
+
+<p>Okay. In the back.</p>
+
+<blockquote>
+  <blockquote>
+    <p>The DOM.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: The DOM. Yes.</p>
+
+<p>Front-end versus back-end development. Any others?</p>
+
+<blockquote>
+  <blockquote>
+    <p>Virtual environments.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Virtual environments. You in the back.</p>
+
+<blockquote>
+  <blockquote>
+    <p>The difference between deploying to production versus pushing to version control.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Oh, great. So deploying to production and versus version control.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Yeah.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Version control has itself.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Let’s break that out to its own.</p>
+
+<blockquote>
+  <blockquote>
+    <p>No. No. I think his point of deploying versus committing is important. But separately.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Deploy versus commit. Good point.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Mapping projections.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Mapping projections.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Oh.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: I don’t know what that is. So please explain.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Asyity.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: On synchronousity.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Tests.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Tests. Should we throw linting up there too?</p>
+
+<blockquote>
+  <blockquote>
+    <p>This table agreed that GitHub should be up there.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: GitHub. Yes. I’m going to put that close to version control.</p>
+
+<blockquote>
+  <blockquote>
+    <p>The difference between a user and a user’s account.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: The difference between a user and a user’s account.</p>
+
+<p>Any others?</p>
+
+<blockquote>
+  <blockquote>
+    <p>Encryption, PGP.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Encryption PGP. That’s one I’ve been afraid to ask because I don’t know about it.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Databases and MySQL in particular.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Databases and MySQL.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Open source.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Open source. Great.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Search engine indexing.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: So, like, SEO?</p>
+
+<blockquote>
+  <blockquote>
+    <p>IOT.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: IOT.</p>
+
+<p>Anyone else in the back?</p>
+
+<blockquote>
+  <blockquote>
+    <p>Accessibility.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Accessibility.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Unicode.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Unicode.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Separately correlation and causation.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Correlation and causation.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Concurrency.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Concurrency.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Servers.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Servers. Yes.</p>
+
+<blockquote>
+  <blockquote>
+    <p>This might seem really simple compared to all of this. But directories.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Directories. There’s nothing too simple that we’re going to put up here.</p>
+
+<p>Any others?</p>
+
+<blockquote>
+  <blockquote>
+    <p>Agile.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Agile. Yes.</p>
+
+<blockquote>
+  <blockquote>
+    <p>The deep Web.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Yes, the deep Web.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Is the deep Web and the dark Web the same?</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>No.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Let’s find out.</p>
+
+<p>[Laughter]</p>
+
+<blockquote>
+  <blockquote>
+    <p>Maintaining code.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Maintaining code.</p>
+
+<p>Any others that aren’t – or if people want to do plus ones to any of these that they think are especially important. API is not up here. Okay.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Is the cloud up there? I don’t want to talk about it but –</p>
+  </blockquote>
+</blockquote>
+
+<p>[Laughter]</p>
+
+<p>NICOLE: Let’s just throw them up here. We don’t have to turn them into a metaphor. But the cloud.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Machine learning.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Machine learning. Yep?</p>
+
+<blockquote>
+  <blockquote>
+    <p>How about just cat data.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Just data.</p>
+
+<p>I’m going to put that with all the other data stuff too.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Scraping.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Scraping. Yes. Great. Any –</p>
+
+<blockquote>
+  <blockquote>
+    <p>Cryptocurrency.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Cryptocurrency.</p>
+
+<p>Any others?</p>
+
+<blockquote>
+  <blockquote>
+    <p>Front-end versus back-end?</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Yes, we have that up here. We can throw one in as FullStack.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Plus one.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Cool. Any others?</p>
+
+<p>Great. Cool. So we have this giant list of stuff up here. So let’s take the next five to ten minutes and this might go chaotically. But try and group yourselves based on the terms that you either want to explain to someone, or you want explained to you. We really want to get kind of, like, a mix of teams, so that way you can, like, beta test your metaphor on other people. I’m trying to think of the best way to do this.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Can you give us three terms, and then we can go to one of the terms?</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Or, like, six.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Or six. Yeah.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Any number.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: We have about I think 30 people in the room, so give me two minutes to do some very quick math, and I will come up with a – I will divide these into terms and group you all into terms. Cool. Great.</p>
+
+<p>Okay. Great. I have roughly – I did a very poor job of dividing these up visually based on groups. So we’re going to break – so we have about 30 of us. If you can break into six groups of five and try to pair yourselves with people that you don’t know, and I’m going to assign numbers to these sections, quadrants. That’s not a quadrant. Math is wrong.</p>
+
+<p>So let’s – so this will be table one, this will be table two, three, four, five, and then six over there. And so try and – you can come up and look at the terms here and kind of gravitate towards the tables that you think you’re most interested in. And if the table’s full, then try and go to another table. I’ll write numbers on the tables, so you guys can easily find it.</p>
+
+<p>So take a look at the board and just choose the quadrant that you’re most interested in learning or explaining. And I put numbers on the tables one through six, so try to divide yourselves into groups of five.</p>
+
+<p>Maybe there are not enough tables. So join whoever. Sorry about that.</p>
+
+<p>Okay. So now that you guys have your teams, we’re going to dive into the next activity.</p>
+
+<p>You don’t need to go to this link if you don’t want to, but this is where we will eventually collect all of the metaphors in the end. So you can either feel free – it’s a Google dog, so you can feel free to jump into that now or be jotting down notes, or you can be discussing, and we can get that done later.</p>
+
+<p>So this next step, we’re going to take 20 to 25 minutes and come up with your actual metaphors. So kind of remember that rubric and come up with two to three sentences of – describe the metaphor and how it describes the concept, the term process or, like, the key points that you really want to explain. Test it out on each other. It’s always a really great way to sort of stress test that metaphor. And if time allows, and you have your computers, repeat that brainstorm with a GIF. Sorry. Don’t murder me.</p>
+
+<p>As you can see, the CSS one that I always relate to any time I tries to center a DIV in another DIV.</p>
+
+<p>Flex box is amazing.</p>
+
+<p>So let’s go ahead and do that. And if you need to come up to the board and – if you need to come up to the board and get the words that you’re describing or if ones that are a little too – they find challeng just take a stab at it or if you want to try one from another group, feel free. We’re going to take 20 to 25 minutes on this activity. Starting now.</p>
+
+<p>[Group discussion]</p>
+
+<p>About five minutes left. Five minutes.</p>
+
+<p>Okay. All right. Sounds like you guys had a lot to discuss.</p>
+
+<p>I wanted to be sure you had enough time to share all of the things you guys were talking about. Please feel free after to talk with each other.</p>
+
+<p>But let’s regroup and share the metaphors you all came up with, and let’s kind of use this rubric that I mentioned earlier to evaluate all of our metaphors. Ours won’t be that strict because 20 minutes for six terms is difficult, so we can also assess, do we understand it? Does it make sense, and we can work from there.</p>
+
+<p>So let’s go. We have the remainder of the time to discuss. This document, feel free to drop anything in there that we talked about. There’s also a link to the slides and the ether pad and whatnot.</p>
+
+<p>So let’s go from table to table one at a time just sharing one metaphor at a time that you all came up with, and then we’ll just go in a circle until time is up. So which time would like to go first? We’ll go clockwise afterwards.</p>
+
+<blockquote>
+  <blockquote>
+    <p>We can go.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Great.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Did anyone else do version control?</p>
+  </blockquote>
+</blockquote>
+
+<p>Okay. We ran out of ours and started picking off other ones.</p>
+
+<p>Yeah, so our simple metaphor for version control is it’s, like, wallpapering a room in your hou so you start with a blank wall, you put on a sheet of wallpaper, say that looks pretty good, but I want to add some more wallpaper and crown molding, and you say, no, that looks bad and tear that off, and you keep a record of every layer of wallpaper you added, thus allowing anyone else to instantly duplicate all of your layers of wallpaper, or you can revert to several layers back.</p>
+
+<p>NICOLE: We’ll go to this table now. Who would like to share one of the metaphors you came up with?</p>
+
+<blockquote>
+  <blockquote>
+    <p>Okay. I can. Sorry.</p>
+  </blockquote>
+</blockquote>
+
+<p>We had virtual environment, and we said that was, like, an apartment building because there’s many rooms all with locks, but they’re all under the same one building.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Yeah. We had Async programming, this is a different way to order food. So one could be that you order your food, and then you get your food before the next person gets to order, and that’s synchronous. And then with Async, you order your food, and then you get a ticket saying you’re going to get your food later. And then later when your food’s ready, you turn in your ticket like promised and then get your food back.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>So we did caching –</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Two different.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Oh, yeah. Do you want to do yours first?</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Sure. So we came up with two different ways of thinking about caching. One in a kind of positive view is this idea that, like, it’s kind of like the way you think and an example used is music. You may think about a band, you may know a lot about it, you have information. Somebody asks you about that band, you’re able to tell them about it because you know them. But maybe something changes, like, a band member leaves, and you don’t know about that, so you look up new information and refresh your knowledge before you can go back and keep talking about your favorite band.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>I can share the negative example of what I understood of caching before I realized positive examp</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>This is not my metaphor. I read it in a book, and it’s more related to, like, hardware caching in a computer, so computers have different levels of caching. And the deeper the level, the harder it is to get the information. So the metaphor is it’s like your food pantry and how you organize it. The food that you want to eat most often is in the front of the food pa and the farther back the food is in the pantry, it’s, like, the less accessible food. And then if food expires, you throw it out so that you don’t have expired food.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Nice. Love it.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>So we had metadata. It’s like maneuvers packing instructions.</p>
+  </blockquote>
+</blockquote>
+
+<p>[Laughter]</p>
+
+<blockquote>
+  <blockquote>
+    <p>So we had open source, and it’s a garden where people can take clippings and take which way they want. Or just take the fruits. But some people, like, must stay and maintain the garden so the person who started the repo.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: That’s so beautiful.</p>
+
+<blockquote>
+  <blockquote>
+    <p>We had front-end, back-end, and this one really jumped out as being easy for us. The restaurant front of the house and back of the house where the food is the data. And we said that FullStack development is like Benihanas.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>What’s Benihanas?</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Benihanas is where they cook on a hot table in front of you. The table is the stove.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Deploying versus pushing with. So we looked at printing paper and publishing through the newsstand.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Good job. People like that.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>We talked about microservices versus nonmicroservices-based app. So a monolithic is like an artisan who makes you a table, he buys wood and carves it and, you know, – puts it together. But if this artisan has a six-day, there’s nothing they can do, if they make a bad table, you have to fix a lot more than, you know, just the table. Whereas microservices are, like, an assembly line in a car factory. The people who do the wheels don’t really have to know about anything but putting wheels on, and they pass, you know, a thing that has a wheel on it to the next person who doesn’t have to worry about anything that came before that, and they attach things. And if the people who do the engines have a fight with the people who do the cool whip system, you can kind of take them aside without ruining the rest of the app as it’s running and kind of deal with that problem and put them back in. People can have sick days. But at the end, you get the same result. You get a full</p>
+  </blockquote>
+</blockquote>
+
+<p>thing.</p>
+
+<blockquote>
+  <blockquote>
+    <p>This is like microservices because all the wheels are working together in harmony. As opposed to bike with one wheel where if you fall down, you’re kind of –</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>We took VPN, which is a book with a fake cover that you’re reading on the subway.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>So we had maintain code and troubleshooting and debugging. And we said maintaining code is like maintaining a boated, you run into things that you don’t expect. The house with the sail’s set as it exists is a fully functioning boat. But the conditions that you set the sails for have changed, so you need to change the boat in response to the conditions. The website that you’re scraping has changed, so you have to update your code. And then troubleshooting and debugging is testing the boat for sea worthiness when you’re, like, oh, hey, there’s a leak in my boat. Or the sail has gone missi</p>
+  </blockquote>
+</blockquote>
+
+<p>[Laughter]</p>
+
+<p>Something happened to my crew.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Sure so Concurrency is, like, if you imagine track meet, it’s not a Relay where, like, a person has to hand off a baton to the next person. It like, a lot of things are going on and multiple people are running at once and maybe there are other events, like, pole vault and stuff.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Okay. So we had, like, Git, so it was version control. So we went through most of the commands. So add is – oh, so we are metaphor shopping in real life. And so adding is, like, adding an item to your cart. Commit is when you swipe your card to pay for it, push is when you bring it to your cart after you’ve bought it. Your log is, like, your receipt. Your record of transactions. A merge is if you have two people going to the grocery store at the same time, you’re going to pay once, but then you come to the conveyor belt to pay. You look through your – this is kind of awkward.</p>
+  </blockquote>
+</blockquote>
+
+<p>You look through your items, and then you can fix merge conflicts by throwing out the ones you don’t want or getting multiple of the same ones you want or reverting is when you return something to the store.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Can I applaud for that? Because I understand it.</p>
+  </blockquote>
+</blockquote>
+
+<p>[Applause]</p>
+
+<blockquote>
+  <blockquote>
+    <p>So we talked about accessibility. And accessibility is making accessible Web products making them combatable with the technology that people with disabilities use. So, for example, if you have a building, as Kara mentioned, and you have ramps on them that people who are in wheelchairs can easily access the building. But people aren’t in wheelchairs could also access the building, so it’s great.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Just to kind of add to that, that was something we sort of struggled with because I think we’re talking, spending some time about how, like, that metaphor can be confronted and sort of dismissed sometimes. So if folks have thoughts on explaining that in other ways, I would be really curious to hear them.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>This is sort of – your point is a really good one. And another way I’ve seen that explained is they talk about curb cuts, and they’re designed with people with wheelchairs but also strollers or crutches or other things. So they – universal design is good design.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Structured data is the recipe that your personal Chef cooks for you.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Okay. So we had regular and expressions, and we said it’s the instructions for finding letters in the newspaper to cut out with an X-ACTO Knife in order to paste together a ransom note.</p>
+  </blockquote>
+</blockquote>
+
+<p>[Laughter]</p>
+
+<blockquote>
+  <blockquote>
+    <p>So we did API. And I guess we kind of, like, talked about it in two different ways. In terms of what an API is, I think we tried to compare it or make a metaphor as a ATM. So it has a number of functions that are available, but it abstracts a lot of the things that are not necessarily part of your domain. And then in terms of, like, what it’s like to consume an API, it’s kind of like having a Starbucks inside of target. That’s all.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Give it a shot.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Okay. So we tried cryptocurrency.</p>
+  </blockquote>
+</blockquote>
+
+<p>Cryptocurrency is like these computers are extremely strong, extremely burly miners who go into this very dangerous mine deep in the earth and the thing that they’re looking for is fairly rare but requires a lot of labor to find. So they work extremely hard. And as a result, the labor is very valuable. But also, maybe, they’re all the same person.</p>
+
+<p>[Laughter]</p>
+
+<blockquote>
+  <blockquote>
+    <p>I guess to add onto this metaphor. The block chain is, like, every time one of these miners finds this very rare gemstone that is a prime number, they have – they write down in a notebook that they have found a gemstone and all of these miners have magical notebooks that sync with each other so that if any one individual miner tries to erase the work that another miner did, it will automatically repopulate based on all the other notebooks.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Does anyone have any others that they want to share? No? Any GIF brainstorms that anyone else did?</p>
+
+<blockquote>
+  <blockquote>
+    <p>I can just speak also. We talked a lot about correlation and causation, and that was really hard. And the one that we settled on is that since causation always involves correlation, it’s a square and a rectangle. It took us a long time to get there, but we got there.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Were there any others that people wanted to workshop?</p>
+
+<blockquote>
+  <blockquote>
+    <p>Can anyone think of a metaphor for a DOM?</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>The DOM but not a tree or a skeleton.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>It was an involved discussion.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>We skipped it.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>We have a question.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>A garment. Like, a shirt. You can swap out parts of it by patching them or excising them, but it’s a discrete product that is formed of nondiscrete things and has seams.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Tear away pants.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: The DOM is tear away pants.</p>
+
+<blockquote>
+  <blockquote>
+    <p>That’s awesome.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>It’s very visual, not what we actually use. But I kind of – you could think of it as a stop motion an violation where it’s, like, stop motion animation, you have a lot of different pieces that compose it together, and you can easily change the animation, but you don’t have to move everything, you just move the little, individual pieces. And that’s what the DOM is, you manipulate little bits of it to change the whole page.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>So is it kind of like Jenga?</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Is this too simple but Legos? I know you can use Legos as a metaphor for anything.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>I think the main is can’t contain other Legos.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Says you. Challenge accepted.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>We were curious of map projections. If anyone has a good way of explaining that.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Episode in west wing.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Yeah, just play the west wing episode.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Anything else that people found –</p>
+
+<blockquote>
+  <blockquote>
+    <p>Do you have any good metaphors for us?</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>I tried to Google program metaphors, but they’re not nearly as interesting as the ones that you all came up with.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>So what’s cryptocurrency?</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>It’s miners.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Okay. Cool.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>I saw recently kind of relevant to this discussion. I think Google jigsaw put it together, and it’s called sideways dictionary.</p>
+  </blockquote>
+</blockquote>
+
+<p>Oh, you already went over it.</p>
+
+<p>NICOLE: I didn’t talk about it, but you can.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Also, I looked through a bunch of them, though, and not all of them are good. So don’t always trust it. But go to it for ideas.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: It’s a project by the Washington Po It’s called sideways dictionary. I think anyone can submit to it. So I encourage all of you – or I will submit for you. But it’s metaphors for common terms of a lot of what we discussed today. Yeah, it’s a project by Washington Post.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Couldn’t map projection be looking through a camera different lenses. You’re going to see things differently based on the lens. Whichever one you like the best.</p>
+  </blockquote>
+</blockquote>
+
+<p>Close to reality than others.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Or peeling an orange, which is a map projection is an attempt to turn a sphere into a 2D plain, which is fundamentally impossible. So peel an orange and try to flatten the orange peel into a rectangle. It’s impossible. You have to either stretch things or compress things.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Funhouse</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Oh, that’s a good one.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: We have five minutes left if there’s something you want to touch or experiences that have gone well when you’ve taught a concept or someone has taught a concept to you.</p>
+
+<blockquote>
+  <blockquote>
+    <p>The deep Web, dark Web distinction, does everyone understand it.</p>
+  </blockquote>
+</blockquote>
+
+<p>The deep Web is just not indexed by search engines. And the dark Web is, like, where all the really – is also not indexed by search engines, and you need to use Tor, and there’s a lot of things that are really bad happen there.</p>
+
+<blockquote>
+  <blockquote>
+    <p>That’s dark.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>I think you can do the square, rectangle thing.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Metaphors that end up in stories. So, like, sometimes I have to explain in a story what Web script is. So, like, how do you approach things where it’s, like, you can’t just put the actual term because it is assumed that most of the readers would not know it.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>The problem is, like, we’re just – for investigative stories I work on, it’s, like, the – how we did it is important, but it’s not as important as what we actually found. So you need to say as quickly as possible how we did something, which means as little words as possible, which means we can’t have a term and then explain it. We have to explain essentially what we did.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Gotcha. Might have been a story about</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Can’t you just say simpler words? Like pull the information from the website over time.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Right. We’ve gone with road software to pull all the information.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>So this is, like, a bad metaphor but Web scrape is, like, photocopying a phone book. It’s equated to hacking nefarious, which it’s not; right? It’s, like, if you have a phone book, I can look up the number myself, I can call it, it’s publicly-available information. I can use a photocopier to rapidly copy all of this information in a way that a human could do in a much longer time.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Applied but it’s not useful. The end result is just a bunch of data. Nothing has been done yet. It’s just raw data.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Yeah.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Awesome.</p>
+  </blockquote>
+</blockquote>
+
+<p>NICOLE: Great. I think we’re out of time. Thank you so much for coming. I hope you guys learned a lot. Already links. You can find – I’ll share this document on Twitter later too. This was transcribed, so see those posted I guess now. And if you have any metaphors that you, like, wrote down in notes or anything, feel free to come up to me now, and we can figure out a way to send that over. And thank you so much for coming. Stick around if you have any questions or comments about the discussion.</p>
+
+<p>[Applause]</p>
+
+
+    </div>
+</div>
+<footer>
+    
+<div id="sponsorbox" class="container">
+  <div class="container four">
+    <div id="partners">
+    <p class="small">Our Partners:</p>
+    <ul>
+      <li><a href="http://www.knightfoundation.org/"><img alt="Knight Foundation" src="/media/img/partners/knight.png" /></a></li>
+      <li><a href="http://www.communitypartners.org/"><img alt="Community Partners" src="/media/img/partners/CP-Logo.png" /></a></li>
+    </ul>
+  </div>
+ <!-- <div id="sponsors">
+      <p class="sponsorblurb">SRCCON happens thanks to the generous support of our sponsors. <a href="/sponsors">Become a SRCCON sponsor today.</a></p>
+    </div> -->
+<div id="sponsors">
+      <p class="small">Our Sponsors:</p>
+      <ul>
+        <li class="lead"><a href="http://www.condenast.com"><img alt="Conde Nast" src="/media/img/partners/conde.png"></a><br><span class ="sponsorcaption">lead sponsor</span></li>
+        <li class="accessibility"><a href="http://vip.wordpress.com/"><img alt="WordPress VIP" src="/media/img/partners/2017/WordPressVIP_transparent.png"  /></a><br><span class ="sponsorcaption">scholarship sponsor</span></li>
+      <li class="accessibility"><a href="http://www.nytimes.com"><img alt="New York Times" src="/media/img/partners/NYTstackedNameplate.png" /></a><br><span class ="sponsorcaption">scholarship sponsor</span></li>
+        <li class="accessibility"><a href="http://jsk.stanford.edu"><img alt="John S Knight Fellowships" src="/media/img/partners/jsk-logo-text-transparent.png"  /></a><br><span class="sponsorcaption">childcare sponsor</span></li>
+        <li class="accessibility"><a href="http://www.facebook.com/"><img alt="Facebook logo" src="/media/img/partners/2017/facebook-logo.png" /></a><br><span class ="sponsorcaption">transcript sponsor</span></li>
+      </ul>
+    </div>
+    <p class="small sponsortag"><a href="/sponsors">View all of SRCCON's amazing sponsors.</a>.</p>
+  </div>
+  </div>
+</div>
+
+
+<div class="container columns">
+  <div class="col">
+    <h2>More SRCCON</h2>
+<ul>
+    <li><a href="/conduct">Code of conduct</a>
+    <li><a href="/scholarships">Scholarships</a>
+    <li><a href="/sponsors/">Our sponsors</a>
+    <li><a href="/volunteer">Volunteer at SRCCON</a>
+    <li>Join our <a href="http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc">mailing list</a></li>
+    <li>Contact us: <a href="mailto:srccon@opennews.org">Email</a> | <a href="https://twitter.com/srccon">Twitter</a></li>
+    <li>Archives: <a href="http://2016.srccon.org">2016</a> | <a href="http://2015.srccon.org">2015</a> | <a href="http://2014.srccon.org">2014</a>
+    <li><a rel="license" href="http://creativecommons.org/licenses/by/3.0/">CC Attribution 3.0</a></li>
+</ul>
+
+  </div>
+  <div class="col">
+    <h2>About SRCCON</h2>
+<p>SRCCON is a conference for developers, designers, and data analysts in newsrooms—and many others in allied roles and fields. This year, join us in Minneapolis, MN, August 3 & 4 for two days of peer-to-peer sessions built around conversation and collaboration. Keep up with updates <a href="https://twitter.com/srccon">@SRCCON</a>.</p>
+
+  </div>
+  <div class="col last">
+    <h2>About OpenNews</h2>
+<p><a href="http://www.opennews.org">OpenNews</a> connects a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning and solving problems together can create a stronger, more responsive, and ascendant journalism ecosystem. Incubated at the <a href="https://www.mozilla.org/en-US/foundation/">Mozilla Foundation</a> from 2011-2016, OpenNews is now a project of <a href="http://www.communitypartners.org/">Community Partners.</a>
+
+  </div>
+</div>
+
+</footer>
+</body>
+</html>
