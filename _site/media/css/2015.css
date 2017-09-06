@@ -103,7 +103,12 @@ header.mcnamara h3, header.coffee h3, header.coffee h2, header.lifevests h2, hea
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 }
 
-
+header a#banner img {
+    position: absolute;
+    right: 2em;
+    bottom: 2em;
+    width: 300px;
+}
 
 #headertop {
   width: 100%;
@@ -1335,7 +1340,11 @@ td {
     footer #sponsorbox ul li span.sponsorcaption {
         margin-left: 0;
     }
-
+    header a#banner img {
+        width: 200px;
+        right: 1em;
+        bottom: 1em;
+    }
 }
 
 @media screen and (max-width: 770px) {
@@ -1505,6 +1514,11 @@ td {
     .buttontext {
       width: 100%;
     }
+    header a#banner img {
+        width: 180px;
+        right: .5em;
+        bottom: .5em;
+    }
 }
 
 @media screen and (max-width: 560px) {
@@ -1553,6 +1567,11 @@ td {
         width: 300px;
         top: 0;
         left: auto;
+    }
+    header a#banner img {
+        width: 120px;
+        right: -.5em;
+        top: 1.5em;
     }
 }
 @media screen and (max-width: 480px) {
@@ -1634,6 +1653,11 @@ td {
     }
     #sponsortag img.nyt {
       width: 67%;
+    }
+    header a#banner img {
+        width: 100px;
+        right: -.5em;
+        top: 1.5em;
     }
 }
 @media screen and (max-width: 360px) {
