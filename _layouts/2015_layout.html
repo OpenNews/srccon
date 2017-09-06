@@ -29,6 +29,9 @@
 </head>
 <body class="{{ page.section }} {{ page.sub-section }}">
   <header class="{{ page.background }}">
+    {% if page.section == 'homepage' %}
+      <a href="https://work.srccon.org" id="banner"><img src="/media/img/2017/SRCCON-work-star-400.png"></a>
+    {% endif %}
 
     <div id="headertop">
       <div class="container">

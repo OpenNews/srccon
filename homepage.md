@@ -10,9 +10,9 @@ bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8
 permalink: /index.html
 ---
 
-Thank you, SRCCON 2017 attendees! You brought your ideas, your passions, and your whole selves to Minneapolis and created an incredible experience for everyone there. We'll be cleaning up [transcripts](/transcription) and publishing writeups on [Source](https://source.opennews.org) soon, and sharing more of the wonderful work that took place in [more than 50 sessions and workshops](http://schedule.srccon.org) this year.
+Thank you, SRCCON 2017 attendees! You brought your ideas, your passions, and your whole selves to Minneapolis and created an incredible experience for everyone there. We've been cleaning up [transcripts](/transcription) and publishing writeups on [Source](https://source.opennews.org), and sharing more of the wonderful work that took place in [more than 50 sessions and workshops](http://schedule.srccon.org) this year.
 
-And [stay tuned](http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc) this month for more information about [SRCCON:WORK](https://work.srccon.org) in Philadelphia this December, where we can continue many of these important conversations about taking care of each other and taking on the hard work of journalism.
+We'll also be continuing many of these important conversations at [SRCCON:WORK](https://work.srccon.org) this December in Philadelphia. Our program will take on collaboration, career growth, and care, and we invite you to join us in exploring how we can help each other take on the hard work of journalism.
 
 <div class="blue">
 <div class="innercontainer">
