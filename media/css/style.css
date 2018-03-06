@@ -1,0 +1,206 @@
+html {
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family: sans-serif;
+    -ms-text-size-adjust:100%;
+    -webkit-text-size-adjust:100%
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body {
+    margin: 0;
+    color: #404040;
+    overflow-x: hidden;
+    font-size: 1.6em;
+	min-height: 100vh;
+    font-family: freight-text-pro, serif;
+}
+
+header, footer, main {
+    line-height: 1.4em;
+}
+.page-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+a {
+    color: #232D44;
+}
+h1, h2, h3, h4 {
+    line-height: 1.3;
+    margin: 0 0 .33em;
+}
+p.big-lead {
+    font-size: 1.5em;
+    line-height: 1.3;
+    margin: 0 -1.5em 1.5em;
+}
+
+/* HEADER IMAGES */
+header #header-image { /* default to MPLS skyline homepage background */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/media/img/backgrounds/minneapolis.jpg);
+    background-position: 0 -180px;
+    height: 320px;
+}
+.sponsors #header-image {
+    background-image: url(/media/img/backgrounds/sponsors.jpg);
+    background-position: 0 -150px;    
+}
+.conduct #header-image {
+    background-image: url(/media/img/backgrounds/lifevests.jpg);
+    background-position: 0 0;    
+}
+.volunteer #header-image {
+    background-image: url(/media/img/backgrounds/volunteer.jpg);
+    background-position: 0 -225px;    
+}
+
+
+
+
+header, footer, h1, h2, h3, h4, .button {
+    font-family: sofia-pro, sans-serif;
+}
+
+header #corner-logo {
+    float: left;
+    margin: .33em 1em -150px 0;
+}
+header #corner-logo img {
+    width: 240px;
+}
+
+header nav {
+    background-color: #fc6e1f;
+}
+header nav ul {
+    font-size: .67em;
+    margin: 0 0 0 120px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: inherit;
+}
+header nav li {
+    list-style: none;
+    padding-left: 0;
+}
+header nav li a {
+    display: block;
+    padding: 1em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #111;
+}
+header nav a:hover {
+    text-decoration: underline;
+}
+#header-callout {
+    background-color: #232D44;
+    color: #fff;
+    text-align: center;
+    line-height: 1;
+    font-size: .8em;
+}
+.button {
+    border: 0;
+    border-radius: .25em;
+    background-color: #fc6e1f;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    padding: .67em 1em;
+    line-height: 1;
+    display: inline-block;
+}
+#header-callout .button {
+    margin: .5em 0 .5em 1em;
+}
+
+#header-image {
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 0px solid #fff;
+    border-left: 0;
+    border-right: 0;
+}
+
+main {
+    padding: 0 1em 1em;
+}
+#latest-news {
+    margin-left: 0;
+    padding-left: 0;
+}
+#latest-news li {
+    list-style: none;
+    padding-left: 0;
+}
+
+main ul, main p {
+    margin: 0 0 1em;
+}
+
+header, .page-block {
+    margin-bottom: 2em;
+}
+
+main input {
+    font-size: .75em;
+    padding: .25em;
+    margin: 0 0 .5em;
+}
+
+footer p {
+    margin: 0 0 1em;
+}
+
+footer #footer-nav {
+    background-color: #232D44;
+    margin-bottom: 1em;
+    font-size: .67em;
+}
+footer ul {
+    margin: 0 0 2em;
+    padding: 0;
+}
+footer li {
+    list-style: none;
+    padding-left: 0;
+}
+footer #footer-nav ul {
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    height: inherit;
+    padding: 0 2em;
+    margin: 0;
+}
+footer #footer-nav li {
+    flex-grow: 1;
+}
+footer #footer-nav li a {
+    display: block;
+    text-align: center;
+    padding: 1em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+}
+footer #footer-nav a:hover {
+    text-decoration: underline;
+}
+footer #footer-details {
+    padding: 1em;
+    font-size: .67em;
+}
+footer #footer-details .page-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
+

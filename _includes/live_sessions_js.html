@@ -2,29 +2,29 @@
 <script src="/media/js/moment.timezone.min.js"></script>
 <script>
 // add timezone and set default per http://momentjs.com/timezone/docs/#/data-loading/
-moment.tz.add('America/Los_Angeles|PST PDT|80 70|0101|1Lzm0 1zb0 Op0');
-moment.tz.setDefault("America/Los_Angeles");
+moment.tz.add('America/Chicago|CST CDT EST CWT CPT|60 50 50 50 50|01010101010101010101010101010101010102010101010103401010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010|-261s0 1nX0 11B0 1nX0 1wp0 TX0 WN0 1qL0 1cN0 WL0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 11B0 1Hz0 14p0 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 RB0 8x30 iw0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1cN0 1cL0 1cN0 1cL0 s10 1Vz0 LB0 1BX0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0|92e5');
+moment.tz.setDefault("America/Chicago");
 var now = moment(),
-    thursdayMorning = moment('2016-07-28 09:00'),
-    thursdayAM1 = moment('2016-07-28 10:30'),
-    thursdayAMbreak = moment('2016-07-28 11:30'),
-    thursdayAM2 = moment('2016-07-28 12:00'),
-    thursdayLunch = moment('2016-07-28 13:00'),
-    thursdayPM1 = moment('2016-07-28 14:30'),
-    thursdayPMbreak = moment('2016-07-28 15:30'),
-    thursdayPM2 = moment('2016-07-28 16:00'),
-    thursdayEvening = moment('2016-07-28 17:00'),
-    thursdayEveningEnd = moment('2016-07-28 21:30'),
-    fridayMorning = moment('2016-07-29 09:30'),
-    fridayAM1 = moment('2016-07-29 10:30'),
-    fridayAMbreak = moment('2016-07-29 11:30'),
-    fridayAM2 = moment('2016-07-29 12:00'),
-    fridayLunch = moment('2016-07-29 13:00'),
-    fridayPM1 = moment('2016-07-29 14:30'),
-    fridayPMbreak = moment('2016-07-29 15:30'),
-    fridayPM2 = moment('2016-07-29 16:00'),
-    fridayEvening = moment('2016-07-29 17:00'),
-    fridayEveningEnd = moment('2016-07-29 18:00');
+    thursdayMorning = moment('2017-08-03 09:30'),
+    thursdayAM1 = moment('2017-08-03 10:00'),
+    thursdayAMbreak = moment('2017-08-03 11:15'),
+    thursdayAM2 = moment('2017-08-03 11:45'),
+    thursdayLunch = moment('2017-08-03 13:00'),
+    thursdayPM1 = moment('2017-08-03 15:00'),
+    thursdayPMbreak = moment('2017-08-03 16:15'),
+    thursdayPM2 = moment('2017-08-03 16:45'),
+    thursdayEvening = moment('2017-08-03 18:00'),
+    thursdayEveningEnd = moment('2017-08-03 22:00'),
+    fridayMorning = moment('2017-08-04 09:00'),
+    fridayAM1 = moment('2017-08-04 10:00'),
+    fridayAMbreak = moment('2017-08-04 11:15'),
+    fridayAM2 = moment('2017-08-04 11:45'),
+    fridayLunch = moment('2017-08-04 13:00'),
+    fridayPM1 = moment('2017-08-04 14:30'),
+    fridayPMbreak = moment('2017-08-04 15:45'),
+    fridayPM2 = moment('2017-08-04 16:15'),
+    fridayEvening = moment('2017-08-04 17:30'),
+    fridayEveningEnd = moment('2017-08-04 18:30');
 
 var showLive = function(timeblock) {
     var timeblockToShow = '',
