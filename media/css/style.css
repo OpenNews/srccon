@@ -59,15 +59,15 @@ header #header-image { /* default to MPLS skyline homepage background */
 }
 .sponsors #header-image {
     background-image: url(/media/img/backgrounds/sponsors.jpg);
-    background-position: 0 -150px;    
+    background-position: 0 -150px;
 }
 .conduct #header-image {
     background-image: url(/media/img/backgrounds/lifevests.jpg);
-    background-position: 0 0;    
+    background-position: 0 0;
 }
 .volunteer #header-image {
     background-image: url(/media/img/backgrounds/volunteer.jpg);
-    background-position: 0 -225px;    
+    background-position: 0 -225px;
 }
 
 /* HEADER STYLES */
@@ -201,29 +201,82 @@ footer #footer-details {
 }
 footer #footer-details .page-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
-
-
-@media screen and (max-width: 1200px) {
-
-}
 
 @media screen and (max-width: 960px) {
-
+    .big-lead {
+        margin: 0 0 1.2em;
+    }
+    header #header-image {
+        height: 240px;
+    }
+    .homepage #header-image {
+        background-position: 0 -90px;
+    }
+    .volunteer #header-image {
+        background-position: 0 -150px;
+    }
 }
 
 @media screen and (max-width: 800px) {
-
+    body {
+        font-size: 1.5em;
+    }
+    header, main, .page-block {
+        margin-bottom: 1.3em;
+    }
+    #header-callout {
+        line-height: 1.6;
+        padding: .25em;
+    }
+    #header-callout span {
+        display: block;
+    }
+    .big-lead {
+        font-size: 1.4em;
+    }
+    .sponsors #header-image {
+        background-position: 0 -80px;
+    }
+    .volunteer #header-image {
+        background-position: 0 -100px;
+    }
 }
 
 @media screen and (max-width: 640px) {
-
+    .homepage #header-image {
+        background-position: 0 -40px;
+    }
+    .sponsors #header-image {
+        background-position: 0 0;
+    }
+    .volunteer #header-image {
+        background-position: 0 -60px;
+    }
 }
 
 @media screen and (max-width: 480px) {
-
+    body {
+        font-size: 1.4em;
+    }
+    .homepage #header-image {
+        background-position: 0 0;
+    }
+    .volunteer #header-image {
+        background-position: 0 0;
+    }
+    footer #footer-details .page-container {
+        display: inherit;
+    }
+    footer #footer-nav ul {
+        display: inherit;
+        padding: .5em 0;
+    }
+    footer #footer-nav li a {
+        text-align: left;
+    }
 }
 
 @media screen and (max-width: 320px) {
