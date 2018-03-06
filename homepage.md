@@ -7,13 +7,17 @@ bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8
 permalink: /index.html
 ---
 
-<p class="big-lead">SRCCON 2018 returns to the <a href="https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887">McNamara Alumni Center in Minneapolis</a>, our home for <a href="https://2015.srccon.org/">SRCCON 2015</a> and <a href="https://2017.srccon.org/">2017</a>.</p>
+<p class="big-lead">SRCCON 2018 returns to Minneapolis, our home in <a href="https://2015.srccon.org/">2015</a> and <a href="https://2017.srccon.org/">2017</a>. Join us for two amazing days working together to build better newsroom code and culture.</p>
 <!--
     <h2>Latest news</h2>
     <ul id="latest-news">
         <li><a href=""></a></li>
     </ul>
 -->
+
+## When & Where
+
+June 28 & 29, 2018, at the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
 
 ## About SRCCON
 
