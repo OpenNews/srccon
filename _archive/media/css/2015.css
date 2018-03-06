@@ -1,0 +1,1731 @@
+html {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  color: #404040;
+  overflow-x: hidden;
+}
+
+.tk-ff-tisa-sans-web-pro, footer, h2, h3, h4, nav, p.small, #contentbox h1 {
+  line-height: 1.7em;
+}
+header {
+  overflow-x: hidden;
+  background-color: #050404;
+  height: 400px;
+  background-position: 0 -130px;
+  background-repeat: no-repeat;
+
+  max-width: 1500px;
+  margin: 0px auto;
+  margin-bottom: 0;
+  position: relative;
+}
+
+header.homepage {
+  height: 600px;
+  width: 100%;
+  background-image: url(/media/img/2017/minneapolis.jpg);
+}
+
+header.mcnamara {
+  background-image: url(/media/img/2015/mcnamara.jpg);
+}
+
+header.dotpattern {
+  background-image: url(/media/img/2015/dotpattern.jpg);
+}
+
+header.childcare {
+  background-image: url(/media/img/2016/childcare.jpg);
+  background-size: cover;
+
+}
+
+header.postits {
+  background-image: url(/media/img/2015/post-its.jpg);
+}
+
+header.stickerdots {
+  background-image: url(/media/img/2016/sessions.jpg);
+  background-size: cover;
+}
+
+header.pnca {
+  background-image: url(/media/img/2016/pnca.jpg);
+  background-size: cover;
+}
+
+header.tickets {
+  background-image: url(/media/img/2015/tickets.jpg);
+}
+
+header.scholarships {
+  background-image: url(/media/img/2016/scholarships.jpg);
+  background-size: cover;
+  background-position: top;
+}
+
+header.lifevests {
+  background-image: url(/media/img/2015/lifevests.jpg)
+}
+
+header.coffee {
+  background-image: url(/media/img/2016/sponsors.jpg);
+  background-size: cover;
+}
+
+header.guide {
+  background-image: url(/media/img/2015/mplsnight.jpg);
+}
+
+header.facilitators {
+  background-image: url(/media/img/2017/facilitators.jpg);
+  background-size: cover;
+}
+
+header.books {
+  background-image: url(/media/img/2015/books.jpg);
+  background-size: cover;
+}
+
+header.remote {
+  background-image: url(/media/img/2015/remote.jpg);
+}
+
+header.mcnamara h3, header.coffee h3, header.coffee h2, header.lifevests h2, header.lifevests h3, header.books h2, header.books h3, header.guide h3, header.guide h2, header.remote h3, header.remote h2, header.stickerdots h2, header.stickerdots h3, header.scholarships h3, header.scholarships h2, header.childcare h3, header.childcare h2 {
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+}
+
+header a#banner img {
+    position: absolute;
+    right: 2em;
+    bottom: 2em;
+    width: 300px;
+}
+
+#headertop {
+  width: 100%;
+  height: 70px;
+}
+
+header.stickerdots #headertop, header.books #headertop, header.scholarships #headertop {
+  background-color:rgba(0, 0, 0, 0.15);
+  height: 50px;
+}
+
+header.tickets #headertop {
+  height: 50px;
+}
+
+.container {
+  box-sizing: border-box;
+  display: block;
+  max-width: 1000px;
+  margin: 0px auto;
+  padding: 0px;
+  position: relative;
+}
+
+
+a#cornerlogo img {
+  display: block;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -80px;
+  margin-bottom: 50px;
+}
+
+header nav {
+  float: right;
+  overflow: hidden;
+  font-size: 1.1em;
+  line-height: 1.7em;
+}
+
+nav.navigation {
+  height: 50px;
+}
+
+header .byline {
+  clear: both;
+  color: white;
+  font-size: .8em;
+  position: absolute;
+  max-width: 900px;
+  left: 6px;
+  top: 470px;
+  margin-bottom: 0px;
+  opacity: .8;
+}
+
+body.interior .byline {
+  top: 290px;
+}
+
+body.interior #headbox h2, body.interior #headbox h3 {
+  text-align: center;
+}
+
+.byline a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 0;
+}
+
+.byline a:hover {
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+header nav ul {
+  padding-left: 0px;
+  text-align: center;
+  margin-bottom: 1em;
+  margin-top: .7em;
+}
+
+header nav ul li {
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0px 10px;
+  padding-bottom: 5px;
+}
+
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+header nav ul li a:hover {
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+div.pink {
+  background-color: #f9dcdc;
+  width: 1500px;
+  margin-left: -50%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+div.blue {
+  background-color: #c5ecec;
+  width: 1500px;
+  margin-left: -50%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+div.pink:after, div.blue:after {
+      content: '';
+      position: absolute;
+      width: 70px;
+      height: 35px;
+      z-index: 1;
+      border-radius: 0 0 35px 35px;
+      left: 45%;
+      margin-left: -25px;
+      background: #f9dcdc;
+}
+
+div.pink:before, div.blue:before {
+      content: '';
+      position: absolute;
+      width: 70px;
+      height: 35px;
+      z-index: 1;
+      border-radius: 0 0 35px 35px;
+      left: 45%;
+      margin-left: -25px;
+      background:white;
+}
+
+div.blue:after {
+  background: #c5ecec;
+}
+}
+
+
+body.sessions header nav ul li#sessions a,
+body.tickets header nav ul li#tickets a,
+body.location header nav ul li#location a,
+body.logistics header nav ul li#logistics a,
+body.docs header nav ul li#docs a,
+body.proposals header nav ul li#proposals a {
+  border-bottom: 1px solid white;
+}
+
+#headbox {
+  clear: both;
+  width: 100%;
+  max-width: 660px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  right: 1%;
+  padding-top: 70px;
+}
+
+.homepage #headbox {
+  max-width: 960px;
+  padding-top: 10%;
+}
+
+#headbox h2 {
+  color: white;
+  font-size: 3em;
+  margin-bottom: 10px;
+  margin-top: 0;
+  line-height: 1em;
+}
+
+#headbox h3 {
+  color: white;
+  font-size: 1.4em;
+  font-weight: 400;
+  margin-top: 0px;
+}
+
+#headbox h3.homepage, #headbox h4.homepage {
+  color: white;
+  font-size: 1.8em;
+  line-height: 1.3em;
+  position: relative;
+  margin-bottom: 15px;
+  text-shadow: 1;
+}
+
+#headbox h3.homepage {
+  font-weight: 800;
+}
+
+#headbox h4.homepage {
+  font-size: 1.5em;
+  margin-top: 0px;
+  font-weight: 400;
+  max-width: 500px;
+}
+
+img.makethelogobigger {
+  float: right;
+  position: absolute;
+  width: 40%;
+  left: 300px;
+  top: -50px;
+  margin-right: 20px;
+}
+
+ul.homepage {
+  margin-bottom: 50px;
+}
+
+ul.homepage li {
+  clear: both;
+  padding-top: 25px;
+}
+
+ul.homepage li h3 a, .homepage #buttonbox h3, #contentbox h1 {
+  color: #404040;
+  text-decoration: none;
+}
+
+ul.homepage li h3 a:hover {
+  color: black;
+  border-bottom: 1px solid black;
+}
+
+ul.homepage li h3, .homepage #buttonbox h3 {
+  font-size: 1.8em;
+  margin-bottom: 0px;
+}
+
+ul.homepage li.left img {
+  width: 200px;
+  float: left;
+  margin-left: -130px;
+  margin-right: 25px;
+}
+
+ul.homepage li.right img {
+  width: 200px;
+  float: right;
+  margin-right: -130px;
+  margin-left: 25px;
+}
+
+ul.homepage li p {
+  font-size: 1.3em;
+  margin-top: 5px;
+}
+
+ul.homepage li h3 {
+  margin-bottom: 0px;
+}
+
+ul.homepage li {
+  list-style-type:none;
+}
+
+ul.homepage li:last-child {
+  padding-bottom: 0px;
+}
+
+#contentbox, footer .container {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  right: 1%;
+}
+
+.innercontainer {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 0px;
+  padding-top: 10px;
+  padding-left: 12px;
+}
+
+
+p, #contentbox li {
+  font-size: 1.5em;
+  line-height: 1.7em;
+}
+
+p.caption {
+  font-size: 1em;
+}
+
+#contentbox ul {
+padding-left: 0;
+}
+
+#contentbox li {
+  margin-bottom: 15px;
+  list-style: circle outside;
+}
+
+
+#contentbox h1 {
+  font-family: "ff-tisa-sans-web-pro",sans-serif;
+  font-size: 1.8em;
+  margin-bottom: 10px;
+  line-height: 1.4em;
+}
+
+#contentbox h2 {
+  margin-bottom: 0px;
+  margin-top: 45px;
+  line-height: 1.2em;
+}
+
+#contentbox p {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+p a, p.small a, li a {
+  color: #404040;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+}
+
+p.small a {
+  border-bottom: 1px solid #aaa;
+}
+
+p a:hover, p.small a:hover, li a:hover {
+  color: black;
+  border-bottom: 1px solid black;
+}
+
+p.small {
+  font-size: 1.1em;
+}
+
+p.safety {
+  font-size: 1.7em;
+  padding-bottom: 50px;
+}
+
+div.ruleabove{
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+  margin-top: 10px;
+}
+
+/* guide styles */
+
+p#guideauthors {
+  font-size: 1.1em;
+}
+
+p#guideauthors a {
+  margin-left: 3px;
+}
+
+body.guide ul {
+  font-size: .8em;
+}
+
+body.guide #contentbox li {
+  list-style: none;
+}
+
+body.guide #contentbox p.description {
+  font-size: 1.2em;
+  line-height: 1.8em;
+}
+
+body.guide #contentbox h1 {
+  margin-top: 50px;
+}
+
+/*end guide styles */
+/*sponsor page styles */
+
+#sponsorpage {
+  text-align: center;
+}
+
+#contentbox #sponsorpage li {
+  list-style: none;
+}
+
+#contentbox #sponsorpage li p {
+  font-size: .9em;
+  text-align: left;
+}
+
+#contentbox #sponsorpage li a.imglink {
+  border-bottom: 0px;
+}
+
+li.accessiblitysponsor {
+  padding-top: 35px;
+}
+
+li.accessiblitysponsor img {
+  width: 325px;
+}
+
+li.accessiblitysponsor img.jsk {
+  width: 225px;
+}
+
+li.accessiblitysponsor img.nyt {
+  width: 400px;
+}
+
+li.wordpress img {
+  width: 280px;
+}
+
+ul.eventsponsor li {
+  display: inline-block;
+  padding: 0 50px;
+}
+
+ul.eventsponsor li img {
+  width: 185px;
+}
+
+ul.localsponsor li img {
+  width: 170px;
+}
+
+ul.eventsponsor li.fusion img {
+  width: 150px;
+}
+
+ul.eventsponsor li.djnf img {
+  width: 250px;
+}
+
+ul.supportingsponsor li {
+  display: inline-block;
+  padding: 0 20px;
+  vertical-align: middle;
+}
+
+ul.supportingsponsor li img {
+  width: 150px;
+}
+
+ul.supportingsponsor li.jsk img {
+  width: 125px;
+}
+
+ul.supportingsponsor li.um img {
+  width: 230px;
+}
+
+ul.supportingsponsor li.alley img {
+  width: 160px;
+}
+
+ul.supportingsponsor li.knightfoundation img {
+  width: 215px;
+}
+
+#contentbox #sponsorpage h2 {
+  padding-top: 40px;
+  margin-bottom: 20px;
+}
+
+/*end sponsor page styles */
+
+/*remote page styles */
+
+#sponsortag p {
+  font-size: 1em;
+}
+
+#sponsortag p span {
+  margin-top: -20px;
+}
+
+#sponsortag img.scholarship {
+  width: 40%;
+  position: relative;
+  left: -12px;
+  vertical-align: middle;
+}
+
+#sponsortag img.childcare {
+  width: 18%;
+  position: relative;
+  top: 35px;
+  left: 8px;
+}
+
+#sponsortag img.nyt {
+  width: 33%;
+  position: relative;
+  vertical-align: middle;
+  padding-left: .33em;
+}
+
+#sponsortag a {
+  border-bottom: none;
+}
+
+#sponsortag a.underline {
+    border-bottom: 1px solid #aaa;
+}
+
+#sponsortag a.underline:hover {
+    color: black;
+    border-bottom: 1px solid black;
+}
+
+.live table {
+    width: 100%;
+    margin-bottom: 2em;
+}
+.live .session-time {
+    max-width: 130px;
+}
+.live table a {
+    text-decoration: none;
+}
+.live table a.session-title {
+    color: #404040;
+    font-weight: bold;
+    text-decoration: none;
+}
+.live table a.session-transcript {
+    font-family: "ff-tisa-sans-web-pro",sans-serif;
+    display: inline-block;
+    line-height: 1;
+    font-size: .83em;
+    color: #fff;
+    background-color: #caa5ce;
+    padding: 3px 6px;
+    border-radius: 5px;
+    margin-top: .4em;
+}
+.live table a.session-title:hover {
+    text-decoration: underline;
+}
+.live table tr:nth-child(odd) {
+    background-color: #eee;
+}
+#contentbox .live h2 {
+    margin: 1em 0 .5em .4em;
+}
+.hidden {
+    display: none;
+}
+
+
+footer {
+  margin-top: 100px;
+}
+
+footer #sponsorbox {
+  clear: both;
+  height: auto;
+  background: #BFBABA;
+  background-size: cover;
+  max-width: 1500px;
+  margin: 20px auto 50px;
+  right: auto;
+}
+
+footer #sponsorbox .container {
+  max-width: 1000px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  height: auto;
+}
+
+footer #sponsorbox:after {
+      content: '';
+      position: absolute;
+      width: 70px;
+      height: 35px;
+      z-index: 1;
+      border-radius: 0 0 35px 35px;
+      left: 48%;
+      margin-left: -25px;
+      background: #BFBABA;
+}
+
+footer #sponsorbox:before {
+      content: '';
+      position: absolute;
+      width: 70px;
+      height: 35px;
+      z-index: 1;
+      border-radius: 0 0 35px 35px;
+      left: 48%;
+      margin-left: -25px;
+      background: white;
+}
+
+
+footer #sponsorbox ul {
+  padding-left: 0px;
+}
+
+footer #sponsorbox ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 20px;
+  margin-top: 20px;
+  text-align: center
+}
+
+footer p.sponsortag {
+  text-align: left;
+  font-size: 1em;
+}
+
+footer .three p.sponsortag, footer .four p.sponsortag {
+  padding-top: 0px;
+  padding-right: 1em;
+  text-align: right;
+  font-size: .9em;
+  margin-top: -40px;
+}
+
+footer span.sponsorcaption {
+  margin-left: -20px;
+}
+
+footer .four span.sponsorcaption {
+  margin-left: 0px;
+}
+
+span.sponsortype {
+  display: block;
+  text-align: center;
+}
+
+footer #sponsorbox p.sponsorblurb {
+  margin-top: 50px;
+}
+
+footer #sponsorbox .two div#sponsors ul li.lead img {
+  height: 160px;
+  margin-right: 25px;
+}
+
+footer #sponsorbox .two div#sponsors ul li.accessibility img {
+  height: 130px;
+  margin-right: 25px;
+}
+
+
+footer #sponsorbox .two div#partners ul li img, footer #sponsorbox div#partners ul li img {
+  height: 50px;
+  margin-top: -15px;
+}
+
+footer #sponsorbox .container.three, footer #sponsorbox .container.four {
+  max-width: 900px;
+}
+
+footer #sponsorbox .three div#partners ul li img, footer #sponsorbox .four div#partners ul li img {
+  height: 40px;
+  margin-top: 8px;
+}
+
+footer #sponsorbox .three div#partners {
+  width: 300px;
+}
+
+footer #sponsorbox .three div#sponsors ul li.lead img, footer #sponsorbox .four div#sponsors ul li.lead img {
+  width: 450px;
+  margin-right: 15px;
+}
+
+footer #sponsorbox .three div#sponsors ul li.accessibility img {
+  max-height: 130px;
+  margin-right: 15px;
+}
+
+footer #sponsorbox .three div#sponsors ul li.accessibility img.slack {
+}
+
+footer #sponsorbox .four div#sponsors ul li.lead img {
+  width: 450px;
+  display: block;
+}
+
+footer #sponsorbox .four div#sponsors ul li.accessibility img {
+  height: 85px;
+}
+
+footer #sponsorbox .four div#sponsors {
+  width: 500px;
+}
+
+footer #sponsorbox div#partners {
+  float: right;
+}
+
+footer #sponsorbox div#partners ul li {
+  display: block;
+  text-align: left;
+}
+
+footer #sponsorbox ul li a:hover, footer #sponsorbox ul li a {
+  border-bottom: none;
+}
+
+footer #sponsorbox div#sponsors li.lead {
+  margin-top: 0px;
+}
+footer #sponsorbox div#sponsors li.accessibility {
+  width: 45%;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+footer .col {
+  width: 30%;
+  float: left;
+  margin-right: 3%;
+  margin-bottom: 50px;
+}
+
+footer .last {
+  margin-right: 0;
+}
+
+footer .col h2 {
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 1.2em;
+}
+
+footer .col p {
+  font-size: .9em;
+  line-height: 1.7em;
+}
+
+footer .col ul {
+  padding-left: 0px;
+}
+
+footer .col ul li {
+  list-style-type: none;
+  padding: 10px 0px;
+  border-bottom: 1px solid #ccc;
+}
+
+footer .col ul li:last-child {
+  border-bottom: none;
+}
+
+footer .col ul li a {
+  color: #404040;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+footer .col ul li a:hover {
+  color: black;
+  border-bottom: 1px solid black;
+}
+
+footer .columns {
+  margin-bottom: 50px;
+}
+
+#buttonbox {
+  height: auto;
+  margin-top: 30px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 50px;
+}
+
+.homepage #buttonbox {
+  height: auto;
+  margin-top: 40px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 25px;
+}
+
+#buttonbox h3 {
+  margin-bottom: 0px;
+  font-size: 1.5em;
+  color: #ff8c00;
+  line-height: 1.4em;
+}
+
+.buttontext {
+  width: 60%;
+  float: left;
+  padding-right: 20px;
+}
+
+.buttontext p, p.bottomrun {
+  font-size: 1.1em;
+}
+
+.homepage .buttontext p, .homepage p.bottomrun {
+  font-size: 1.3em;
+}
+
+.btn, form.fr_form button {
+  float: right;
+  cursor: pointer;
+  width: 40%;
+  background: #78d3d3;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 20px 30px 20px 30px;
+  text-decoration: none;
+  text-align: center;
+  margin-left: 25px;
+  border: none;
+}
+
+.homepage .btn,
+.live .btn {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  display: block;
+}
+
+.live .btn {
+    font-family: "ff-tisa-sans-web-pro",sans-serif;
+    display: block;
+    margin: 0 auto 3em;
+}
+
+.btn#schedulebutton {
+  width: 100%;
+  float: none;
+  background: #6c4f77;
+}
+
+.btn#schedulebutton:hover {
+  background: #caa5ce;
+}
+
+div.fr_bottom_bar {
+  padding: 0px;
+  margin-top: 50px;
+  background-color: white;
+}
+
+form.fr_form button {
+  float: none;
+  margin-left: 0px;
+  border:none;
+  box-shadow: none;
+}
+
+div.fr_bottom {
+  background-color: white;
+}
+
+
+.homepage .btn:hover {
+}
+
+.btn:hover, form.fr_form button:hover {
+  background: #52c6c6;
+  color: white;
+  text-decoration: none;
+  border: none;
+  box-shadow: none;
+}
+
+.bottomrun {
+  clear: both;
+  width: 100%;
+  padding-bottom: 10px;
+}
+/* FORM FOR SUMBISSIONS */
+
+div.fr_page {
+  margin-top: 50px;
+}
+
+form.fr_form input, form.fr_form textarea {
+  font-family: "ff-tisa-web-pro",serif;
+  font-size: 1em;
+}
+
+form.fr_form {
+  font-family: "ff-tisa-web-pro",serif;
+}
+
+form.fr_form div.size_large, form.fr_form div.size_medium  {
+  font-family: "ff-tisa-sans-web-pro",sans-serif;
+  font-weight: 600;
+  color: #404040;
+}
+
+form.fr_form div.size_large {
+  margin-bottom: 25px;
+  margin-top: 40px;
+}
+
+form.fr_form div.size_medium {
+  margin-top: 40px;
+  color: #52c6c6;
+}
+
+form.fr_form label, form.fr_form div.size_small {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  line-height: 1.4em;
+}
+
+form.fr_form div.fr_description {
+  margin-top: 10px;
+  line-height: 1.4em;
+  color: grey;
+}
+
+form.fr_form label[for=c29] {
+  margin-top: 40px;
+}
+
+form.fr_form .fr_response_field_paragraph textarea.size_medium, form.fr_form .fr_response_field_text input.size_medium, form.fr_form .fr_response_field_text input, form.fr_form .fr_response_field_paragraph textarea, form.fr_form input#c35 {
+  width: 100%;
+}
+
+form.fr_form .fr_response_field_text input#c12, form.fr_form .fr_response_field_text input#c18 {
+  width: 160px;
+}
+
+form.fr_form div.fr_response_field_block_of_text {
+}
+
+
+/* SESSION PROPOSALS */
+.session-proposal-list {
+    clear: both;
+    margin-top: 4em;
+}
+.session-proposal {
+    margin-bottom: 4em;
+}
+.session-proposal h2,
+.session-proposal .facilitator,
+#list-filter-form {
+    font-family: "ff-tisa-sans-web-pro", sans-serif;
+}
+#contentbox .session-proposal p {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+#contentbox .session-proposal p.facilitator {
+    font-size: 1.1em;
+    margin: .5em 0 .33em;
+}
+.session-title a {
+    text-decoration: none;
+    color: #111;
+}
+
+.session-description {
+  font-size: 1.3em;
+}
+a .permalink {
+    display: none;
+    color: #777;
+    font-size: .75em;
+    line-height: 1em;
+    margin-left: .33em;
+    vertical-align: middle;
+}
+a:hover .permalink {
+    display: inherit;
+}
+
+#list-filter-form {
+    font-size: 1.2em;
+    margin-top: 2em;
+}
+#list-filter-form label {
+    margin-right: .5em;
+}
+#list-filter-form input {
+    font-size: 1.2em;
+    padding: .1em;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+    font-family: "ff-tisa-web-pro", serif;
+    margin-bottom: 3em;
+}
+td {
+    padding: .5em .67em;
+    vertical-align: top;
+}
+
+#mc_embed_signup form {
+  padding-left: -3%;
+}
+/* RESPONSIVE STUFF STARTS HERE */
+
+@media screen and (max-width: 1100px) {
+
+    #headbox h3.homepage, #headbox h4.homepage {
+      margin-top: -20px;
+      margin-left: 400px;
+    }
+
+    #headbox h4.homepage {
+      margin-top: 20px;
+    }
+
+    body.interior #headbox {
+      padding-top: 50px;
+    }
+
+    header {
+      height: 350px;
+    }
+
+    body.interior .byline {
+      top: 250px;
+    }
+
+    header, footer {
+        width: 100%;
+    }
+    .container  {
+        margin: 0 2em;
+    }
+
+    footer #sponsorbox .container {
+      max-width: 900px;
+      right: auto;
+    }
+
+    footer #sponsorbox .four div#sponsors {
+      width: 65%;
+      padding: 0 1em;
+    }
+    footer #sponsorbox .four div#partners {
+      width: 35%;
+      padding: 0 1em;
+    }
+
+    footer #sponsorbox .three div#sponsors ul li.lead img  {
+      margin-right: 10px;
+      max-width: 175px;
+    }
+
+    footer #sponsorbox .three div#sponsors ul li.accessibility img {
+      margin-right: 10px;
+      max-width: 165px;
+    }
+
+    footer #sponsorbox .three div#sponsors ul li.accessibility img.slack {
+      max-width: 165px;
+      margin-bottom:35px;
+    }
+
+
+    footer #sponsorbox .four div#sponsors ul li.lead img {
+    }
+
+    footer #sponsorbox .four div#sponsors ul li.accessibility img {
+      height: 80px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    footer #sponsorbox .three {
+        max-width: none;
+        margin: 0 30px;
+    }
+    footer #sponsorbox .three div#sponsors ul li.lead img {
+        width: 375px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    p, #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
+      font-size: 1.4em;
+      line-height: 1.6em;
+    }
+
+    body.interior div#headbox {
+      padding-top: 20px;
+    }
+
+    body.interior div#headbox h2 {
+      font-size: 2.3em;
+    }
+
+    body.interior div#headbox h3 {
+      font-size: 1.3em;
+      line-height: 1.5em;
+    }
+
+      .innercontainer {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+
+    footer .container  {
+        margin: 0 2em;
+        right: auto;
+    }
+
+    footer #sponsorbox:after, footer #sponsorbox:before {
+          left: 45.5%;
+    }
+
+    #contentbox, #headbox {
+        right: auto;
+    }
+    header.homepage {
+      background-position: 0 50px;
+    }
+    header.scholarships {
+      background-position: 0 0px;
+    }
+    .homepage #headbox {
+      padding-top: 0px;
+    }
+
+    body.interior #headbox {
+      padding-top: 40px;
+    }
+
+   #headbox h3 br {
+   }
+
+    #headbox h3.homepage, #headbox h4.homepage {
+        margin-left: 0px;
+        font-size: 1.4em;
+    }
+
+    #headbox h3.homepage {
+      padding-bottom: 10px;
+      padding-top: 20px;
+    }
+
+    #headbox h4.homepage {
+      margin-top: 10px;
+    }
+    header {
+      height: 300px;
+    }
+    header.homepage {
+        background-size: cover;
+        height: 400px;
+    }
+
+    body.interior .byline {
+      top: 200px;
+    }
+
+    header .byline {
+      top: 260px;
+    }
+
+    ul.homepage li.left img {
+      width: 180px;
+      float: left;
+      margin-left: -150px;
+      margin-right: 25px;
+    }
+
+    ul.homepage li.right img {
+      width: 180px;
+      float: right;
+      margin-right: -130px;
+      margin-left: 25px;
+    }
+
+    div.pink, div.blue {
+      width: auto;
+      background-size: cover;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      margin-left: -2em;
+      margin-right: -2em;
+    }
+
+    footer #sponsorbox .three div#sponsors ul li.lead img {
+      height: 50px;
+      width: auto;
+    }
+    footer #sponsorbox .four div#sponsors ul li.lead img {
+        width: 95%;
+    }
+    footer #sponsorbox .four div#partners ul li img {
+      height: auto;
+      width: 100%;
+      margin-top: 8px;
+    }
+
+    footer #sponsorbox .four div#sponsors ul li.accessibility img {
+      height: 100px;
+    }
+
+    footer #sponsorbox .three div#sponsors ul li.accessibility img {
+      height: 100px;
+      width: auto;
+      max-width: none;
+    }
+    footer .three p.sponsortag, footer .four p.sponsortag {
+        margin-top: 0;
+        width: 55%;
+        text-align: center;
+    }
+    footer #sponsorbox ul li {
+    }
+    footer #sponsorbox ul li span.sponsorcaption {
+        margin-left: 0;
+    }
+    header a#banner img {
+        width: 200px;
+        right: 1em;
+        bottom: 1em;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    footer #sponsorbox .three div#sponsors ul li.accessibility img {
+      height: 70px;
+    }
+    footer .three p.sponsortag, footer .four p.sponsortag {
+        width: auto;
+        text-align: left;
+        font-size: 1em;
+    }
+
+}
+
+@media screen and (max-width: 740px) {
+    footer #sponsorbox .three div#sponsors ul li.lead img {
+      height: 40px;
+    }
+    footer #sponsorbox .three div#sponsors ul li.accessibility img {
+      height: 50px;
+    }
+    footer #sponsorbox .three div#partners ul li img {
+        height: 30px;
+    }
+    #contentbox #sponsorpage li img {
+      width: 100%;
+    }
+    #contentbox #sponsorpage li img.jsk,
+    #contentbox #sponsorpage ul.localsponsor li img,
+    #contentbox #sponsorpage ul.supportingsponsor li img {
+      width: 50%;
+    }
+    #contentbox #sponsorpage ul.eventsponsor li {
+      margin: 0px 0px 2em 0px;
+      padding: 0px;
+      display: block;
+    }
+    #contentbox #sponsorpage ul.eventsponsor li img,
+    #contentbox #sponsorpage ul.supportingsponsor li.alley img,
+    #contentbox #sponsorpage ul.supportingsponsor li.um img,
+    #contentbox #sponsorpage ul.supportingsponsor li.knightfoundation img {
+        width: 67%;
+    }
+    footer #sponsorbox .four div#sponsors ul li {
+        width: auto;
+        display: block;
+        margin-bottom: 2.5em;
+        text-align: left;
+    }
+
+}
+
+@media screen and (max-width: 720px) {
+    footer .col {
+        width: 47%;
+    }
+    header {
+      background-position: 0 0px;
+    }
+    header .byline {
+        left: -10px;
+        font-size: .7em;
+    }
+    #headbox h3.homepage, #headbox h4.homepage {
+        margin-left: 220px;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    footer #sponsorbox .three div#partners {
+        float: none;
+        display: block;
+        width: auto;
+        margin-bottom: 30px;
+    }
+    footer #sponsorbox div#partners ul li {
+        margin-top: 0;
+        display: inline-block;
+    }
+    footer #sponsorbox .three div#sponsors ul li.lead {
+        display: block;
+        text-align: left;
+    }
+    footer #sponsorbox .three div#sponsors ul li.lead img {
+      height: 60px;
+    }
+    footer #sponsorbox .three div#sponsors ul li.accessibility {
+        text-align: left;
+    }
+    footer #sponsorbox .three div#sponsors ul li.accessibility img {
+      height: 90px;
+    }
+    footer #sponsorbox .three div#partners ul li img {
+        height: 40px;
+    }
+    footer #sponsorbox .three p.small {
+        margin-bottom: 0;
+    }
+    footer #sponsorbox ul {
+        margin-top: .33em;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    p, #contentbox li, .homepage .buttontext p, .homepage p.bottomrun {
+      font-size: 1.3em;
+      line-height: 1.5em;
+    }
+    footer #sponsorbox img {
+        max-width: 100%;
+    }
+
+    footer #sponsorbox div#partners {
+      float: none;
+      margin-bottom: 2.5em;
+    }
+
+    footer #sponsorbox div#partners ul li {
+      text-align: center;
+    }
+
+    footer .three p.sponsortag, footer .four p.sponsortag {
+      padding-top: 0px;
+      text-align: center;
+      font-size: .9em;
+      margin-top: 0px;
+    }
+
+    footer .col {
+        float: none;
+        width: auto;
+    }
+    header.homepage {
+        height: 340px;
+        margin-bottom: 30px;
+    }
+    header .byline {
+        top: 230px;
+    }
+    #headbox {
+        padding-top: 60px;
+    }
+    #headbox h2 {
+        font-size: 2.4em;
+        margin-top: 25px;
+    }
+
+    #headbox h3 {
+        font-size: 1.2em;
+        line-height: 1.4em;
+    }
+    #headbox h3.homepage, #headbox h4.homepage {
+        margin-left: 150px;
+    }
+    #headbox h3.homepage {
+        font-size: 1.6em;
+    }
+    #headbox h4.homepage, body.interior #headbox h3 {
+        font-size: 1.3em;
+        display: none;
+    }
+
+    .btn, form.fr_form button {
+      font-size: 1em;
+      width: 100%;
+    }
+    .buttontext {
+      width: 100%;
+    }
+    header a#banner img {
+        width: 180px;
+        right: .5em;
+        bottom: .5em;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    #headbox h3.homepage, #headbox h4.homepage {
+        margin-left: 100px;
+    }
+    #headbox h3.homepage {
+        font-size: 1.5em;
+    }
+    #headbox h4.homepage {
+        font-size: 1.2em;
+    }
+    #headertop, header.stickerdots #headertop, header.books #headertop, header.scholarships #headertop {
+      background-color: white;
+      height: 50px;
+    }
+    nav.navigation ul {
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+    nav.navigation li a {
+      color: black;
+    }
+    header nav {
+      float: none;
+    }
+    header.homepage {
+      background-position: 0 60px;
+    }
+    header.scholarships {
+      background-position: 0 30px;
+    }
+    #headbox h3.homepage {
+    font-size: 1.3em;
+    margin-top: 25px;
+    }
+    #sponsortag {
+        max-width: 67%;
+    }
+    #sponsortag img.childcare {
+        width: 180px;
+        top: 1em;
+        left: auto;
+    }
+    #sponsortag img.scholarship {
+        width: 300px;
+        top: 0;
+        left: auto;
+    }
+    header a#banner img {
+        width: 120px;
+        right: -.5em;
+        top: 1.5em;
+    }
+}
+@media screen and (max-width: 480px) {
+    p, #contentbox li, ul.homepage li p, .homepage .buttontext p, .homepage p.bottomrun  {
+      font-size: 1.2em;
+    }
+    footer #sponsorbox ul li,
+    footer #sponsorbox div#partners ul li {
+      display: block;
+      text-align: center;
+      padding-right: 0;
+      width: auto;
+    }
+
+    p.sponsorblurb {
+      display: none;
+    }
+    #headbox h2 {
+        font-size: 2.1em;
+        margin-bottom: 5px;
+    }
+
+    body.great_session div#headbox h2 {
+      font-size: 1.8em;
+      margin-top: 10px;
+    }
+    #headbox h3 {
+        font-size: 1.1em;
+    }
+    #headertop, header.stickerdots #headertop, header.books #headertop {
+        height: 40px;
+    }
+    header nav {
+        font-size: .9em;
+    }
+    header nav ul {
+        margin-top: .33em;
+    }
+    header a#cornerlogo img {
+        width: 100px;
+        top: 10px;
+        left: -25px;
+    }
+
+    header, header.homepage {
+        height: 250px;
+    }
+
+    header.homepage .byline, body.interior .byline{
+      top: 5px;
+    }
+
+    body.interior #headbox {
+      padding-top: 20px;
+    }
+
+    body.interior #headbox h2 {
+      font-size: 1.7em;
+    }
+
+    body.interior #headbox h3 {
+      font-size: 1em;
+    }
+
+    #headbox h3.homepage {
+      padding-top: 30px;
+    }
+
+    #headbox h3.homepage, #headbox h4.homepage {
+      margin-left: 0px;
+      text-align: center;
+    }
+
+    .homepage #headbox {
+      padding-left: 0px;
+    }
+    footer #sponsorbox .three div#sponsors ul li.lead img {
+        height: auto;
+    }
+    #sponsortag img.nyt {
+      width: 67%;
+    }
+    header a#banner img {
+        width: 100px;
+        right: -.5em;
+        top: 1.5em;
+    }
+}
+@media screen and (max-width: 360px) {
+    #headbox h2 {
+        font-size: 1.8em;
+        line-height: 1.1em;
+    }
+    #headbox h3 {
+        font-size: 1.2em;
+    }
+
+    #headbox h3.homepage {
+    margin-top: 5px;
+    }
+
+    #headbox h3.homepage, #headbox h4.homepage {
+      margin-left: 0px;
+    }
+
+    .homepage #headbox {
+      padding-left: 0px;
+    }
+
+    ul.homepage {
+      padding-left: 0px;
+    }
+
+    ul.homepage li h3 {
+      font-size: 1.5em;
+    }
+
+    ul.homepage li {
+      margin-top: 10px;
+      padding-top: 0;
+    }
+
+    ul.homepage li p {
+      font-size: 1.1em;
+    }
+
+    ul.homepage li.left img, ul.homepage li.right img {
+      display: none;
+    }
+
+    body.interior a#cornerlogo img {
+      width: 180px;
+      margin-top: -60px;
+    }
+
+    p, body.interior #contentbox li {
+        font-size: 1.1em;
+    }
+    #headbox h4.homepage {
+        font-size: 1.05em;
+    }
+    img.makethelogobigger {
+        top: -30px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+  header a#cornerlogo img {
+    width: 100px;
+    top: 30px;
+    left: -30px;
+  }
+
+  #headbox h3 {
+    font-size: 1.2em;
+    line-height: 1.2em;
+  }
+}

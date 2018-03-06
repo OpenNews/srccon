@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if lte IE 9]>  <html class="ie oldie" lang="en"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+
+    <title>SRCCON 2018: June 28 & 29 in Minneapolis</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="SRCCON is a participatory, interactive conference centered on the challenges that news technology and data teams encounter every day.">
+
+    <script src="//use.typekit.net/mvg8obr.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+
+    <link rel="stylesheet" href="/media/css/style.css">
+    <link rel="shortcut icon" href="/media/img/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" type="image/png" href="/media/img/touch-icon-144x144.png" sizes="144x144" />
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-51039715-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+</head>
+
+<body class="{{ page.section }}">
+    <header>
+        <nav id="header-nav">
+            <div class="page-container">
+                <a href="/" id="corner-logo"><img src="/media/img/srccon_logo_angle_512.png"></a>
+                {% include navigation.html %}
+            </div>
+        </nav>
+        
+        <div id="header-image"></div>
+        
+        <div id="header-callout">
+            <div class="page-container">
+                <span>SRCCON&nbsp;2018 &bull; June&nbsp;28&nbsp;&&nbsp;29 in&nbsp;Minneapolis</span> <a href="/sponsors" class="button">Become a sponsor!</a>
+            </div>
+        </div>
+    </header>
+    
+    <main>
+        <div class="page-container">
+            {{ content }}
+        </div>
+    </main>
+
+    
+    <footer>
+        {% include footer.html %}
+    </footer>
+</body>
+</html>
