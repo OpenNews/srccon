@@ -19,10 +19,10 @@ body {
 header, footer, h1, h2, h3, h4, .button {
     font-family: sofia-pro, sans-serif;
 }
-header, footer, main {
+header, footer {
     line-height: 1.4em;
 }
-header, .page-block {
+header, main, .page-block {
     margin-bottom: 2em;
 }
 .page-container {
@@ -42,7 +42,7 @@ h1, h2, h3, h4 {
     background-color: #fc6e1f;
     color: #fff;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 21px;
     padding: .67em 1em;
     line-height: 1;
     display: inline-block;
@@ -109,7 +109,6 @@ header nav a:hover {
     color: #fff;
     text-align: center;
     line-height: 1;
-    font-size: .8em;
 }
 #header-callout .button {
     margin: .5em 0 .5em 1em;
@@ -127,6 +126,7 @@ header nav a:hover {
 /* MAIN CONTENT AREA STYLES */
 main {
     padding: 0 1em 1em;
+    line-height: 1.6em;
 }
 main ul, main p {
     margin: 0 0 1em;
