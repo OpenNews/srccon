@@ -240,6 +240,9 @@ footer #footer-details .page-container {
     #header-callout span {
         display: block;
     }
+    #header-callout .button {
+        margin: .5em .5em .5em 1em;
+    }
     .big-lead {
         font-size: 1.4em;
     }
