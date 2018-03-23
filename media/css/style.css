@@ -84,6 +84,7 @@ header nav {
 header nav ul {
     font-size: .67em;
     margin: 0 0 0 120px;
+    padding: 0;
     line-height: 1;
     display: flex;
     align-items: center;
@@ -258,6 +259,9 @@ footer #footer-details .page-container {
     header #corner-logo img {
         width: 180px;
     }
+    header nav ul {
+        font-size: .6em;
+    }
     .homepage #header-image {
         background-position: 0 -40px;
     }
@@ -273,8 +277,19 @@ footer #footer-details .page-container {
     body {
         font-size: 1.4em;
     }
+    header #corner-logo {
+        margin: 1.3em .5em .5em .5em;
+    }
     header #corner-logo img {
         width: 150px;
+    }
+    header nav ul {
+        align-items: center;
+        padding: 0 1em;
+        margin: 0;
+    }
+    header nav ul li {
+        flex-grow: 1;
     }
     .homepage #header-image {
         background-position: 0 0;
@@ -295,5 +310,7 @@ footer #footer-details .page-container {
 }
 
 @media screen and (max-width: 320px) {
-    
+    header nav ul {
+        font-size: .5em;
+    }   
 }
