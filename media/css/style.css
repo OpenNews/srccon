@@ -111,6 +111,10 @@ header nav a:hover {
     text-align: center;
     line-height: 1;
 }
+#header-callout span {
+    padding: .5em 0;
+    display: inline-block;
+}
 #header-callout .button {
     margin: .5em 0 .5em 1em;
 }
@@ -240,6 +244,7 @@ footer #footer-details .page-container {
     }
     #header-callout span {
         display: block;
+        padding: 0;
     }
     #header-callout .button {
         margin: .5em;
