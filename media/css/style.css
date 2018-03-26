@@ -214,6 +214,19 @@ footer #footer-details .page-container {
 }
 
 
+
+@media screen and (min-width: 1400px) {
+    .sessions #header-image {
+        background-position: 0 -230px;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .sessions #header-image {
+        background-position: 0 -280px;
+    }
+}
+
 @media screen and (max-width: 960px) {
     .big-lead {
         margin: 0 0 1.2em;
