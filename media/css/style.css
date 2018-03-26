@@ -69,6 +69,10 @@ header #header-image { /* default to MPLS skyline homepage background */
     background-image: url(/media/img/backgrounds/volunteer.jpg);
     background-position: 0 -225px;
 }
+.sessions #header-image {
+    background-image: url(/media/img/backgrounds/sessions.jpg);
+    background-position: 0 -200px;
+}
 
 /* HEADER STYLES */
 header #corner-logo {
@@ -223,6 +227,9 @@ footer #footer-details .page-container {
     .volunteer #header-image {
         background-position: 0 -150px;
     }
+    .sessions #header-image {
+        background-position: 0 -150px;
+    }
 }
 
 @media screen and (max-width: 800px) {
@@ -258,6 +265,9 @@ footer #footer-details .page-container {
     .volunteer #header-image {
         background-position: 0 -100px;
     }
+    .sessions #header-image {
+        background-position: 0 -120px;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -275,6 +285,9 @@ footer #footer-details .page-container {
     }
     .volunteer #header-image {
         background-position: 0 -60px;
+    }
+    .sessions #header-image {
+        background-position: 0 -80px;
     }
 }
 
@@ -300,6 +313,9 @@ footer #footer-details .page-container {
         background-position: 0 0;
     }
     .volunteer #header-image {
+        background-position: 0 0;
+    }
+    .sessions #header-image {
         background-position: 0 0;
     }
     footer #footer-details .page-container {
