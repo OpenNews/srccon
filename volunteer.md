@@ -1,7 +1,5 @@
 ---
 layout: layout
-title: Volunteer
-subtitle: Come help us make SRCCON great!
 section: volunteer
 permalink: /volunteer/index.html
 ---

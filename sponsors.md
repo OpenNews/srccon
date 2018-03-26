@@ -1,7 +1,5 @@
 ---
 layout: layout
-title: Our Sponsors
-subtitle: Sponsors help make SRCCON happen. Thanks to ours!
 section: sponsors
 permalink: /sponsors/index.html
 ---
