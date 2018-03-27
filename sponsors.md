@@ -6,9 +6,12 @@ permalink: /sponsors/index.html
 
 # Become a SRCCON Sponsor
 
-"You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you've done."
+_"You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you've done."_ --SRCCON attendee feedback
 
-"This was the first conference I've been a part of where I felt I belonged on every level."
+_"This was the first conference I've been a part of where I felt I belonged on every level."_ --SRCCON attendee feedback
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; margin-bottom: 50px; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
 
 SRCCON is a journalism conference people love. This reaction comes from the approach SRCCON takes: highly participatory and extraordinarily inclusive; SRCCON is a conference where participants come first so they can focus on collaborating on the work at hand.
 
@@ -16,7 +19,7 @@ SRCCON is also the most inclusive conference in journalism. More than half of ou
 
 For journalism-technologists, newsroom leaders (both formal and informal), and others seeking to change journalism for the better, SRCCON is where they can sit down away from the deadlines and the day-to-day and learn from each other. We want you to help make that happen.
 
-Sponsorship for SRCCON is changing: Instead of selling off bits and pieces of SRCCON, for our fifth year we're simply looking for six Core Sponsors. Core Sponsors pay equal amounts, receive equal billing, and are the engine that drives all parts of SRCCON’s inclusive, human-centered conference. 
+Sponsorship for SRCCON is changing: Instead of selling off bits and pieces of SRCCON, for our fifth year we're simply looking for six Core Sponsors. Core Sponsors pay equal amounts, receive equal billing, and are the engine that drives all parts of SRCCON’s inclusive, human-centered conference.
 
 Core Sponsors make it possible for SRCCON to offer:
 

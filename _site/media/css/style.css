@@ -69,6 +69,14 @@ header #header-image { /* default to MPLS skyline homepage background */
     background-image: url(/media/img/backgrounds/volunteer.jpg);
     background-position: 0 -225px;
 }
+.sessions #header-image {
+    background-image: url(/media/img/backgrounds/sessions.jpg);
+    background-position: 0 -200px;
+}
+.participation #header-image {
+    background-image: url(/media/img/backgrounds/participation.jpg);
+    background-position: 0 -220px;
+}
 
 /* HEADER STYLES */
 header #corner-logo {
@@ -84,6 +92,7 @@ header nav {
 header nav ul {
     font-size: .67em;
     margin: 0 0 0 120px;
+    padding: 0;
     line-height: 1;
     display: flex;
     align-items: center;
@@ -109,6 +118,10 @@ header nav a:hover {
     color: #fff;
     text-align: center;
     line-height: 1;
+}
+#header-callout span {
+    padding: .5em 0;
+    display: inline-block;
 }
 #header-callout .button {
     margin: .5em 0 .5em 1em;
@@ -205,6 +218,39 @@ footer #footer-details .page-container {
 }
 
 
+@media screen and (min-width: 1200px) {
+    .participation #header-image {
+        background-position: 0 -290px;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .homepage #header-image {
+        background-position: 0 -250px;
+    }
+    .sessions #header-image {
+        background-position: 0 -230px;
+    }
+    .participation #header-image {
+        background-position: 0 -350px;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .sessions #header-image {
+        background-position: 0 -280px;
+    }
+    .participation #header-image {
+        background-position: 0 -450px;
+    }
+}
+
+@media screen and (min-width: 1800px) {
+    .participation #header-image {
+        background-position: 0 -500px;
+    }
+}
+
 @media screen and (max-width: 960px) {
     .big-lead {
         margin: 0 0 1.2em;
@@ -218,6 +264,12 @@ footer #footer-details .page-container {
     .volunteer #header-image {
         background-position: 0 -150px;
     }
+    .sessions #header-image {
+        background-position: 0 -150px;
+    }
+    .participation #header-image {
+        background-position: 0 -200px;
+    }
 }
 
 @media screen and (max-width: 800px) {
@@ -228,7 +280,7 @@ footer #footer-details .page-container {
         margin-bottom: 1.3em;
     }
     header #corner-logo {
-        margin: .5em .5em .5em 1em;
+        margin: .5em;
     }
     header #corner-logo img {
         width: 210px;
@@ -239,6 +291,10 @@ footer #footer-details .page-container {
     }
     #header-callout span {
         display: block;
+        padding: 0;
+    }
+    #header-callout .button {
+        margin: .5em;
     }
     .big-lead {
         font-size: 1.4em;
@@ -249,11 +305,20 @@ footer #footer-details .page-container {
     .volunteer #header-image {
         background-position: 0 -100px;
     }
+    .sessions #header-image {
+        background-position: 0 -120px;
+    }
+    .participation #header-image {
+        background-position: 0 -150px;
+    }
 }
 
 @media screen and (max-width: 640px) {
     header #corner-logo img {
         width: 180px;
+    }
+    header nav ul {
+        font-size: .6em;
     }
     .homepage #header-image {
         background-position: 0 -40px;
@@ -264,19 +329,42 @@ footer #footer-details .page-container {
     .volunteer #header-image {
         background-position: 0 -60px;
     }
+    .sessions #header-image {
+        background-position: 0 -80px;
+    }
+    .participation #header-image {
+        background-position: 0 -80px;
+    }
 }
 
 @media screen and (max-width: 480px) {
     body {
         font-size: 1.4em;
     }
+    header #corner-logo {
+        margin: 1.3em .5em .5em .5em;
+    }
     header #corner-logo img {
         width: 150px;
+    }
+    header nav ul {
+        align-items: center;
+        padding: 0 1em;
+        margin: 0;
+    }
+    header nav ul li {
+        flex-grow: 1;
     }
     .homepage #header-image {
         background-position: 0 0;
     }
     .volunteer #header-image {
+        background-position: 0 0;
+    }
+    .sessions #header-image {
+        background-position: 0 0;
+    }
+    .participation #header-image {
         background-position: 0 0;
     }
     footer #footer-details .page-container {
@@ -292,5 +380,7 @@ footer #footer-details .page-container {
 }
 
 @media screen and (max-width: 320px) {
-    
+    header nav ul {
+        font-size: .5em;
+    }   
 }
