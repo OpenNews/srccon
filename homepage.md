@@ -8,12 +8,16 @@ permalink: /index.html
 ---
 
 <p class="big-lead">SRCCON 2018 returns to Minneapolis, our home in <a href="https://2015.srccon.org/">2015</a> and <a href="https://2017.srccon.org/">2017</a>. Join us for two amazing days working together to build better newsroom code and culture.</p>
-<!--
-    <h2>Latest news</h2>
-    <ul id="latest-news">
-        <li><a href=""></a></li>
-    </ul>
--->
+
+## Key Dates for Your Calendar
+
+* **April 2**: call for participation opens
+* **April 13**: call for participation closes
+* **April 30**: last day by which participants will be notified
+
+Curious about how it all works? Learn more about [sessions at SRCCON](/sessions) and [our call for participation](/participation). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2018, our call for participation will be how to let us know! Much more information about both will be forthcoming.
+
+Once tickets are sold, we'll be opening up a discounted block of hotel rooms at the Graduate Hotel located directly next to our SRCCON venue.
 
 ## When & Where
 
@@ -21,17 +25,25 @@ June 28 & 29, 2018, at the [McNamara Alumni Center](https://www.google.com/maps/
 
 ## About SRCCON
 
+This year we are psyched to celebrate the [fifth SRCCON](https://opennews.org/blog/srccon-five/). 
+
 SRCCON is a hands-on conference, full of conversations and workshops focused on the practical challenges that news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included nearly 300 attendees and [more than 50 sessions](https://2017.srccon.org/schedule/) that covered a wide range of topics, from tech strategies to workplace culture struggles.
+
+At SRCCON 2018, we build the schedule together, reflecting the values of this community:
+
+* We experiment in the open - by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences. 
+* We support one another - by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+* We lead change - by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC. 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-## Who attends SRCCON
+## Who Attends SRCCON
 
-The majority of SRCCON participants are developers, designers, and data analysts who work in newsrooms. We also enthusiastically welcome attendees from closely allied fields like civic tech, mapping, open data, and others who are curious about journalism and excited to share their expertise at a journalism-centric conference.
+The majority of SRCCON participants are the developers, designers, journalists, and editors who collaborate on open technologies and processes within journalism. Participants come to SRCCON because they are working to change journalism for the better, whether that be pushing for more inclusive processes, bringing outside technical perspectives into the newsroom, or developing new ways to engage and inform readers.
 
-Our participants represent organizations ranging from massive to tiny, and come from all over the US and many other countries. Each year, we particularly welcome journalists and allies from the city hosting SRCCON, and we're working to build better remote-participation options for those who can't attend in person.
+Our participants represent organizations ranging from massive to tiny, and come from all over the US and many other countries. Each year, we particularly welcome journalists and allies from the city hosting SRCCON, and we offer a slate of [remote-participation options](https://2017.srccon.org/transcription/) for those who can't attend in person.
 
-## Contact us
+## Contact Us
 
 To get information about tickets, our call for proposals and other SRCCON-related info and news, sign up for the OpenNews notification list:
 
@@ -60,8 +72,7 @@ While all of our SRCCON news will be going out on our mailing list, if you want 
 * [Email us for sponsor information](mailto:dan@opennews.org)
 * [Follow us on Twitter](https://www.twitter.com/srccon)
 
-
-## About us
+## About Us
 
 SRCCON is produced by [OpenNews](https://opennews.org). We connect a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning and solving problems together can create a stronger, more responsive, and ascendant journalism ecosystem. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](http://www.communitypartners.org/).
 
