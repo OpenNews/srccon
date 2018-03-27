@@ -1,8 +1,8 @@
 ---
 layout: layout
-title: Volunteer
-subtitle: Come help us make SRCCON great!
 section: volunteer
+photocredit: Erik Westra
+photocredit_url: http://www.westraco.com/
 permalink: /volunteer/index.html
 ---
 ## Volunteer at SRCCON

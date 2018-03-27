@@ -1,10 +1,8 @@
 ---
 layout: layout
-title: Our Code of Conduct
-subtitle: Your safety matters to us. This is our public commitment to doing all we can to ensure it.
 section: conduct
-byline:  Dvortygirl
-bylineurl: https://www.flickr.com/photos/dvortygirl/3982230988
+photocredit:  Dvortygirl
+photocredit_url: https://www.flickr.com/photos/dvortygirl/3982230988
 permalink: /conduct/index.html
 ---
 ## Code of Conduct

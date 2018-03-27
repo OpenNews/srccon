@@ -37,11 +37,13 @@
             </div>
         </nav>
         
-        <div id="header-image"></div>
+        <div id="header-image">{% if page.photocredit != null %}
+            <span class="photo-credit">Photo: <a href="{{ page.photocredit_url }}">{{ page.photocredit }}</a></p>
+        {% endif %}</div>
         
         <div id="header-callout">
             <div class="page-container">
-                <span>SRCCON&nbsp;2018 &bull; June&nbsp;28&nbsp;&&nbsp;29 in&nbsp;Minneapolis</span> <a href="/sponsors" class="button">Become a sponsor!</a>
+                <span>SRCCON&nbsp;2018 &bull; June&nbsp;28&nbsp;&&nbsp;29 in&nbsp;Minneapolis</span><!-- <a href="/sponsors" class="button">Become a sponsor!</a>-->
             </div>
         </div>
     </header>
