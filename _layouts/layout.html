@@ -37,7 +37,9 @@
             </div>
         </nav>
         
-        <div id="header-image"></div>
+        <div id="header-image">{% if page.photocredit != null %}
+            <span class="photo-credit">Photo: <a href="{{ page.photocredit_url }}">{{ page.photocredit }}</a></p>
+        {% endif %}</div>
         
         <div id="header-callout">
             <div class="page-container">

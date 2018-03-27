@@ -1,7 +1,8 @@
 ---
 layout: layout
 section: sessions
-byline: Erik Westra
+photocredit: Erik Westra
+photocredit_url: http://www.westraco.com/
 permalink: /sessions/about/index.html
 ---
 

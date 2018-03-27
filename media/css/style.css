@@ -80,7 +80,8 @@ header #header-image { /* default to MPLS skyline homepage background */
 
 /* HEADER STYLES */
 header #corner-logo {
-    float: left;
+    position: absolute;
+    z-index: 100;
     margin: .33em 1em -150px 0;
 }
 header #corner-logo img {
@@ -134,6 +135,19 @@ header nav a:hover {
     border: 0px solid #fff;
     border-left: 0;
     border-right: 0;
+    position: relative;
+}
+
+#header-image .photo-credit {
+    font-size: .5em;
+    line-height: 1;
+    position: absolute;
+    right: 1em;
+    bottom: 0;
+    opacity: .75;
+}
+#header-image .photo-credit, #header-image .photo-credit a {
+    color: #fff;
 }
 
 /* MAIN CONTENT AREA STYLES */
@@ -258,6 +272,9 @@ footer #footer-details .page-container {
     header #header-image {
         height: 240px;
     }
+    #header-image .photo-credit {
+        font-size: .4em;
+    }
     .homepage #header-image {
         background-position: 0 -90px;
     }
@@ -284,6 +301,10 @@ footer #footer-details .page-container {
     }
     header #corner-logo img {
         width: 210px;
+    }
+    #header-image .photo-credit {
+        bottom: auto;
+        top: 1em;
     }
     #header-callout {
         line-height: 1.6;
