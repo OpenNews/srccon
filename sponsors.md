@@ -15,7 +15,7 @@ _"This was the first conference I've been a part of where I felt I belonged on e
 
 SRCCON is a journalism conference people love. This reaction comes from the approach SRCCON takes: highly participatory and extraordinarily inclusive; SRCCON is a conference where participants come first so they can focus on collaborating on the work at hand.
 
-SRCCON is also the most inclusive conference in journalism. More than half of our attendees in 2017 were women, and nearly a third were people of color. Because our program is built by the community, and represents voices from all parts of it, more than half of our participants in 2017 were session facilitators and even more led lunch conversations, workshops during our evening program, and field trips together into Minneapolis.
+People come first at SRCCON. More than half of our attendees in 2017 were women, and nearly a third were people of color. Because our program is built by the community, and represents voices from all parts of it, more than a third of our participants in 2017 were session facilitators and even more led lunch conversations, workshops during our evening program, and field trips together into Minneapolis.
 
 For journalism-technologists, newsroom leaders (both formal and informal), and others seeking to change journalism for the better, SRCCON is where they can sit down away from the deadlines and the day-to-day and learn from each other. We want you to help make that happen.
 
