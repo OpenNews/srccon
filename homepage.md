@@ -15,7 +15,7 @@ permalink: /index.html
 * **April 13**: call for participation closes
 * **April 30**: last day by which participants will be notified
 
-Curious about how it all works? Learn more about [sessions at SRCCON](/sessions) and [our call for participation](/participation). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2018, our call for participation will be how to let us know! Much more information about both will be forthcoming.
+Curious about how it all works? Learn more about [sessions at SRCCON](/sessions/about) and [our call for participation](/participation). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2018, our call for participation will be how to let us know! Much more information about both will be forthcoming.
 
 Once tickets are sold, we'll be opening up a discounted block of hotel rooms at the Graduate Hotel located directly next to our SRCCON venue.
 
