@@ -2,8 +2,8 @@
 layout: layout
 title: SRCCON 2018
 section: homepage
-byline: Joe D
-bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8-cYJ5BW-dvdBz6-bx3hGz-bjwfyN-eiyt2R-bzndNi-xpTv4c-c1uNoN-87b43u-dwF5Xi-877Usp-9KXu6o-7JWWQ3-eiRr3x-bkmRcj-dmCBA5-dmCbxp-bk8hN1-aPrDyF-c3oCfy-eds2cy-63QpuP-6RykQm-bwqeeP-82nsNg-bcMuqH-p4YhA-6ruw6u-bzQzwU-6N35wm-6yQoFn-diJKXS-dBFrpJ-aG3CYP-edHBYv-4f5wv-jwewB-6CZYnF-4oiFUn-bw5j8Z-4cE92J-bAYTin-bQsdTz-dLN559-5o98t6-bkQyU9-djE7or-duoc32-aJBXGg
+photocredit: Joe D
+photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8-cYJ5BW-dvdBz6-bx3hGz-bjwfyN-eiyt2R-bzndNi-xpTv4c-c1uNoN-87b43u-dwF5Xi-877Usp-9KXu6o-7JWWQ3-eiRr3x-bkmRcj-dmCBA5-dmCbxp-bk8hN1-aPrDyF-c3oCfy-eds2cy-63QpuP-6RykQm-bwqeeP-82nsNg-bcMuqH-p4YhA-6ruw6u-bzQzwU-6N35wm-6yQoFn-diJKXS-dBFrpJ-aG3CYP-edHBYv-4f5wv-jwewB-6CZYnF-4oiFUn-bw5j8Z-4cE92J-bAYTin-bQsdTz-dLN559-5o98t6-bkQyU9-djE7or-duoc32-aJBXGg
 permalink: /index.html
 ---
 

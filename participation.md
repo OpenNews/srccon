@@ -1,6 +1,8 @@
 ---
 layout: layout
 section: participation
+photocredit: Erik Westra
+photocredit_url: http://www.westraco.com/
 permalink: /participation/index.html
 ---
 

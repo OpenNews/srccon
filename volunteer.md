@@ -1,6 +1,8 @@
 ---
 layout: layout
 section: volunteer
+photocredit: Erik Westra
+photocredit_url: http://www.westraco.com/
 permalink: /volunteer/index.html
 ---
 ## Volunteer at SRCCON

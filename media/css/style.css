@@ -148,6 +148,7 @@ header nav a:hover {
 }
 #header-image .photo-credit, #header-image .photo-credit a {
     color: #fff;
+    text-shadow: 0 0 1px rgba(0,0,0,.7);
 }
 
 /* MAIN CONTENT AREA STYLES */
