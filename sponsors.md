@@ -21,7 +21,7 @@ For journalism-technologists, newsroom leaders (both formal and informal), and o
 
 Sponsorship for SRCCON is changing: Instead of selling off bits and pieces of SRCCON, for our fifth year we're simply looking for six Core Sponsors. Core Sponsors pay equal amounts, receive equal billing, and are the engine that drives all parts of SRCCON’s inclusive, human-centered conference.
 
-Core Sponsors make it possible for SRCCON to offer:
+**Core Sponsors make it possible for SRCCON to offer:**
 
 - Scholarships for SRCCON participants
 - Free childcare for all participants’ children
@@ -32,7 +32,7 @@ Core Sponsors make it possible for SRCCON to offer:
 
 Core Sponsors also take part in SRCCON, but not by sitting behind a booth. Instead, Core Sponsors attend and participate right alongside everyone else. With four tickets available to each Core Sponsor, this is an opportunity to enmesh yourself in this community by being a partner in the work instead of a salesperson. Being a Core Sponsor is a unique opportunity to engage with the vibrant community of people changing journalism for the better. Not sure who to send? We are happy to work with you to find the best people to get the most out of SRCCON.
 
-In return for Core Sponsorship you will receive:
+**In return for Core Sponsorship you will receive:**
 
 - 4 tickets to SRCCON
 - Core Sponsorship signage at SRCCON in prominent locations.
@@ -42,3 +42,5 @@ In return for Core Sponsorship you will receive:
 - Logo and paragraph on the Core Sponsors page on the SRCCON site.
 
 SRCCON is a different kind of journalism conference, and it’s one that people have grown to deeply love over the last five years. By becoming a Core Sponsor you align your work with ours and become a part of building a better journalism, together.
+
+Interested in having your company or organization become a Core Sponsor of SRCCON? [Get in touch with OpenNews Director Dan Sinker today.](mailto:dan@opennews.org)
