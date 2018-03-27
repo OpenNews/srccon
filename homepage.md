@@ -31,9 +31,9 @@ SRCCON is a hands-on conference, full of conversations and workshops focused on 
 
 At SRCCON 2018, we build the schedule together, reflecting the values of this community:
 
-* We experiment in the open - by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences. 
-* We support one another - by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
-* We lead change - by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC. 
+* **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences. 
+* **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC. 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
