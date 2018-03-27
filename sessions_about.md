@@ -61,4 +61,3 @@ We archive each year's conference site and schedule, so if you'd like to take a 
 * [SRCCON 2016](https://2016.srccon.org/schedule/)
 * [SRCCON 2015](https://2015.srccon.org/schedule/)
 * [SRCCON 2014](https://2014.srccon.org/schedule/)
-

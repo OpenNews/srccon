@@ -17,23 +17,23 @@ permalink: /index.html
 
 Curious about how it all works? Learn more about [sessions at SRCCON](/sessions/about) and [our call for participation](/participation). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2018, our call for participation will be how to let us know! Much more information about both will be forthcoming.
 
-Once tickets are sold, we'll be opening up a discounted block of hotel rooms at the Graduate Hotel located directly next to our SRCCON venue.
-
 ## When & Where
 
 June 28 & 29, 2018, at the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
 
+Once tickets are sold, we'll be opening up a discounted block of rooms for participants at a nearby hotel.
+
 ## About SRCCON
 
-This year we are psyched to celebrate the [fifth SRCCON](https://opennews.org/blog/srccon-five/). 
+This year we are psyched to celebrate the [fifth SRCCON](https://opennews.org/blog/srccon-five/).
 
 SRCCON is a hands-on conference, full of conversations and workshops focused on the practical challenges that news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included nearly 300 attendees and [more than 50 sessions](https://2017.srccon.org/schedule/) that covered a wide range of topics, from tech strategies to workplace culture struggles.
 
 At SRCCON 2018, we build the schedule together, reflecting the values of this community:
 
-* **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences. 
+* **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
 * **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
-* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC. 
+* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
