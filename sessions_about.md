@@ -6,12 +6,14 @@ photocredit_url: http://www.westraco.com/
 permalink: /sessions/about/index.html
 ---
 
+<p class="big-lead">Our <a href="/participation/form">call for participation form</a> is open through April 13. We&rsquo;re excited to hear about your session ideas!</p>
+
 # About Sessions at SRCCON
 
-SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that helps every attendee head home with new ideas. If you'd like to facilitate a session at SRCCON, we're [ready to support you from idea to execution](#facilitators).
+SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that helps every attendee head home with new ideas. If you'd like to facilitate a session at SRCCON, we have [a Proposal Guide written just for you](/sessions/proposal-guide/)!
 
 Our program for SRCCON 2018 will be built around key community values:
-
+    
 * We experiment in the open—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
 * We support one another—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
 * We lead change—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC.
@@ -28,9 +30,9 @@ SRCCON sessions last about 75 minutes, and we encourage facilitators to think ab
 
 Sessions at SRCCON explore cultural questions that help journalists work together better, new tools and techniques that people are excited about, and sessions that meet in the middle, at the intersection of technology and teams. Successful topics often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too. (And session proposers who are taking on similar themes sometimes even end up joining forces to present together.)
 
-Our program explores SRCCON's values from all angles. Facilitators might teach new ways of [illustrating abstract stories](https://2016.srccon.org/schedule/#_session-illustrating-investigations) or share experiments in [software radio](https://2017.srccon.org/schedule/#_session-radio-spectrum). Attendees might support each other in [managing relationships across teams](https://2016.srccon.org/schedule/#_session-juggling-expectations) or developing [healthy practices in remote work](https://2016.srccon.org/schedule/#_session-remote-work). And session leaders can help our community push for change by [elevating data journalism at the local level](https://2017.srccon.org/schedule/#_session-local-data-journalism) and [sharing experiences as journalists of color](https://2017.srccon.org/schedule/#_session-people-of-color-newsrooms).
+Our program explores SRCCON's values from all angles. Facilitators might teach new ways of [illustrating abstract stories](https://2016.srccon.org/schedule/#_session-illustrating-investigations) or share experiments in [software radio](https://2017.srccon.org/schedule/#_session-radio-spectrum). Attendees might support each other in [managing relationships across teams](https://2016.srccon.org/schedule/#_session-juggling-expectations) or developing [healthy practices in remote work](https://2016.srccon.org/schedule/#_session-remote-work). And session leaders help our community push for change by [elevating data journalism at the local level](https://2017.srccon.org/schedule/#_session-local-data-journalism) and [sharing experiences as journalists of color](https://2017.srccon.org/schedule/#_session-people-of-color-newsrooms).
 
-We encourage attendees to bring their whole selves into SRCCON, and our schedule regularly extends beyond what you might expect at a journalism conference. Sessions can also extend into topics like [mental health](https://2017.srccon.org/schedule/#_session-threat-modeling-well-being) and [balancing work with family life](https://2017.srccon.org/schedule/#_session-caregiving-journalism), or hobbies from [science fiction](https://2016.srccon.org/schedule/#_session-media-science-fiction) to [balloon mapping](https://2015.srccon.org/schedule/#_session-39).
+We encourage attendees to bring their whole selves into SRCCON, and our schedule regularly extends beyond what you might expect at a journalism conference. Sessions can extend into topics like [mental health](https://2017.srccon.org/schedule/#_session-threat-modeling-well-being) and [balancing work demands with family life](https://2017.srccon.org/schedule/#_session-caregiving-journalism), and hobbies from [science fiction](https://2016.srccon.org/schedule/#_session-media-science-fiction) to [balloon mapping](https://2015.srccon.org/schedule/#_session-39).
 
 <span id="facilitators"></span>
 
@@ -48,10 +50,10 @@ Facilitators who have a harder time have usually tried to fit too much stuff int
 
 * [3 Ways To Facilitate A Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/), by ProPublica’s Sisi Wei
 * [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
-* [Teaching and Brainstorming Inclusive Technical Metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product's Nicole Zhu
-* [Stuck in a Rut? Tackle Newsroom Frustrations With Board Games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont's Seven Days
+* [Teaching and Brainstorming Inclusive Technical Metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product’s Nicole Zhu
+* [Stuck in a Rut? Tackle Newsroom Frustrations With Board Games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont’s Seven Days
 
-If running a session sounds like a lot of effort…it is! But it can also be really energizing, and it means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they're willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you're pitching solo and want someone to work with you on the ground.
+If running a session sounds like a lot of effort…it is! But it can also be really energizing, and it means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they're willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you're pitching solo and want someone to work with you on the ground. If you're thinking about pitching a session for SRCCON 2018, [check out our Proposal Guide](/sessions/proposal-guide). We'd love to hear from you!
 
 ## Sessions From Previous SRCCONs
 

@@ -7,7 +7,11 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-<p class="big-lead">SRCCON 2018 returns to Minneapolis, our home in <a href="https://2015.srccon.org/">2015</a> and <a href="https://2017.srccon.org/">2017</a>. Join us for two amazing days working together to build better newsroom code and culture.</p>
+<p class="big-lead">Our call for participation is open! We&rsquo;ll be accepting proposals through Friday, April 13, at 11:59pm ET.</p>
+
+Our [call for participation form](/participation/form) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone before the end of April. If invited to attend or facilitate a session, you will have the chance to purchase a ticket for $225, plus fees.
+
+Thinking about a session idea for SRCCON 2018? We've put together a [proposals guide](/sessions/proposal-guide/) to help you out.
 
 ## Key Dates for Your Calendar
 
