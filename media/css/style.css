@@ -269,6 +269,19 @@ footer #footer-details .page-container {
 .fr_response_field label {
     padding-bottom: .33em;
 }
+.fr_response_field_text input.size_large {
+    height: 4em;
+}
+.fr_response_field_paragraph textarea.size_medium {
+    width: 100%;
+}
+.fr_response_field_text input#c22,
+.fr_response_field_text input#c24,
+.fr_response_field_text input#c50,
+.fr_response_field_paragraph textarea#c25,
+.fr_response_field_paragraph textarea#c26 {/* not ideal, but only way to target session fields */
+    width: 100%;
+}
 
 
 @media screen and (min-width: 1200px) {
