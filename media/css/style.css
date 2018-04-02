@@ -77,6 +77,11 @@ header #header-image { /* default to MPLS skyline homepage background */
     background-image: url(/media/img/backgrounds/participation.jpg);
     background-position: 0 -220px;
 }
+.scholarships #header-image {
+    background-image: url(/media/img/backgrounds/scholarships.jpg);
+    background-position: 0 0;
+}
+
 
 /* HEADER STYLES */
 header #corner-logo {
