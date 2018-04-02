@@ -269,18 +269,21 @@ footer #footer-details .page-container {
 .fr_response_field label {
     padding-bottom: .33em;
 }
-.fr_response_field_text input.size_large {
-    height: 4em;
-}
 .fr_response_field_paragraph textarea.size_medium {
-    width: 100%;
+    width: 100% !important;/* override screendoor import later on */
+    padding: .25em .5em;
 }
 .fr_response_field_text input#c22,
 .fr_response_field_text input#c24,
-.fr_response_field_text input#c50,
-.fr_response_field_paragraph textarea#c25,
-.fr_response_field_paragraph textarea#c26 {/* not ideal, but only way to target session fields */
+.fr_response_field_text input#c26,
+.fr_response_field_text input#c28,
+.fr_response_field_text input#c50 {/* not ideal, but only way to target session fields */
     width: 100%;
+}
+.fr_response_field_paragraph textarea,
+.fr_response_field_text input {
+    font-family: sofia-pro, sans-serif;
+    font-size: .8em;
 }
 
 
