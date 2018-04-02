@@ -5,7 +5,8 @@ photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /volunteer/index.html
 ---
-## Volunteer at SRCCON
+
+# Volunteer at SRCCON
 
 We need YOU to help make SRCCON work. In addition to participants running sessions throughout the conference, we'll also need a small group of people to help us keep the two-day event running smoothly. Want to help? Consider volunteering at SRCCON.
 

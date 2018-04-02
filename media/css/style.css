@@ -77,6 +77,11 @@ header #header-image { /* default to MPLS skyline homepage background */
     background-image: url(/media/img/backgrounds/participation.jpg);
     background-position: 0 -220px;
 }
+.scholarships #header-image {
+    background-image: url(/media/img/backgrounds/scholarships.jpg);
+    background-position: 0 0;
+}
+
 
 /* HEADER STYLES */
 header #corner-logo {
@@ -230,6 +235,52 @@ footer #footer-details {
 footer #footer-details .page-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+
+/* FORM STYLES */
+.fr_description {
+    font-size: .8em;
+    font-style: italic;
+    line-height: 1.2;
+    padding: .25em 0 .5em;
+}
+.fr_form h3,
+.fr_form h4 {
+    margin-top: 2em;
+}
+.fr_form hr {
+    border: 0;
+    border-bottom: 1px solid #aaa;
+}
+.fr_text.size_large {
+    font-family: sofia-pro, sans-serif;
+    font-weight: bold;
+}
+.fr_min_max {
+    font-family: sofia-pro, sans-serif;
+    font-size: .7em;
+}
+.fr_text.size_medium,
+.fr_text.size_small,
+.fr_response_field label {
+    line-height: 1.2;
+}
+.fr_response_field label {
+    padding-bottom: .33em;
+}
+.fr_response_field_text input.size_large {
+    height: 4em;
+}
+.fr_response_field_paragraph textarea.size_medium {
+    width: 100%;
+}
+.fr_response_field_text input#c22,
+.fr_response_field_text input#c24,
+.fr_response_field_text input#c50,
+.fr_response_field_paragraph textarea#c25,
+.fr_response_field_paragraph textarea#c26 {/* not ideal, but only way to target session fields */
+    width: 100%;
 }
 
 
