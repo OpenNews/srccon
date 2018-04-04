@@ -1,0 +1,58 @@
+[
+    {
+        "cofacilitator": null, 
+        "description": "I swarm for a living. Recently, our team started working together, or swarming, for our entire sprints and only taking on a small number of stories at a time. Swarming is not a new concept; Many agile teams often swarm on a story to finish it before moving on to a new story. We took the definition of swarming and made it or own: We don’t just swarm to finish what has already been started, we swarm as soon as we start something new. And we’ve become more productive and collaborative as a result.", 
+        "facilitator": "Olivier De Meulder", 
+        "id": 1514345, 
+        "submitted_at": "2018-04-04T17:39:39.258Z", 
+        "title": "Beyond scrum and agile: swarming"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Comics are an engaging way to present reporting in a visual format. In addition to being more eye-catching than a traditional text story, they can also simplify complex ideas and be adapted to several other mediums, like print, advertisements, etc. This session is a workshop on making a comic based on a narrative. Participants can bring examples of text stories from their newsrooms and see how it can be adapted to a comic or how a comic could be supplementary content to that story. Together we will explore how to break down a narrative into different panels and optimal ways to convey information through the combination of illustration and text.", 
+        "facilitator": "Gabriel Hongsdusit", 
+        "id": 1513408, 
+        "submitted_at": "2018-04-03T17:42:44.370Z", 
+        "title": "Use Comics to Tell Your Story"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Are you a digital native working in news? Are you a reporter looking to get into coding? Are you already a successful synthesis of the two? In this session we discuss the challenges and barriers that might prevent someone from becoming one of the rare hybrids who mixes traditional reporting with coding and digital development, or the difficulties presented to someone already working in that space.\n\nWhether it's organizational culture, technological challenges, education, lack of time, resources or opportunity or whatever else is standing in your way, we openly share our experiences from both sides of the tracks.", 
+        "facilitator": "Jeff Hargarten", 
+        "id": 1513178, 
+        "submitted_at": "2018-04-03T15:20:37.697Z", 
+        "title": "The challenges of becoming a unicorn"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "NYT's Interactive News team has been working (damned) hard on its hiring practices, including acrobatics like double-blind initial screenings, panel-wide unbiased* assessments of manually anonymized resumes and rigorous, team-consensus evaluation rubric spreadsheets.  It's ridiculously time-intensive for a few people on the team, but 1,000% worth it.\n\nLike-minded news nerds like Brittany Mayes (NPR) and Sisi Wei (ProPublica) have spoken eloquently about their efforts for internships and fellowships.  SRCCON audiences have been appreciative and very attentive, which means there's more to pursue on the topic.  Few teams can spare the time, but we have a window available _now_ for getting well ahead of any given news org's \"rebooted\" corporate recruiting and hiring efforts.  News nerd teams can cut the trail by adopting hiring practices that truly put our shared ideals front and center, as a demonstration for newsroom and technology groups.\n\nNYT's Interactive News will soon have four full-time hires worth of investment in refining our revamped hiring practices, which have moved us from unambitious box-ticking to some ridiculously hard debates about terrifyingly talented finalists.  Simultaneously, we are actively building a strong recruiting operation for future open positions.  (And my in-house \"expertise\" — aka, firm opinions and elaborate spreadsheets — have resulted in me being part of initiatives to shift the NYT's Technology hiring, too.)  There's a lot to share in that...with co-presenters I think.", 
+        "facilitator": "Tiff Fehr", 
+        "id": 1511483, 
+        "submitted_at": "2018-04-03T04:45:00.606Z", 
+        "title": "Leading News Org to Water by Hacking Our Hiring"
+    }, 
+    {
+        "cofacilitator": "Martin Stabe (needs to confirm availability)", 
+        "description": "A “words” journalist can spend their entire career as a reporter, starting with daily general assignment reporting and moving to beat reporting, international reporting, or investigative reporting. Along the way, they increase their visibility, credibility, and earnings. What could that look like for the journalism-tech community? For example, a “news nerd” version of a traditional foreign correspondent could uncover datasets abroad, figure out ways to engage the local community, or deploy hardware sensors to track environmental conditions.\n\nWe’ll first talk about all the different kinds of skills we bring to newsrooms. Then we’ll spend some time interviewing each other before we create out-of-the-box job descriptions we can get excited about.", 
+        "facilitator": "Soo Oh", 
+        "id": 1510414, 
+        "submitted_at": "2018-04-04T18:47:50.334Z", 
+        "title": "Reimagining news nerd career paths via job listings"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "As digital journalists, we often push the platform forward, with cool new interactives and high-impact layouts. Unfortunately, accessibility is often ignored in the process. It's easy to make excuses: we're on deadline, or visual content wouldn't work in a screen reader anyway. But what if it's far easier than you think? In this session, we'll set up accessibility tools, share lessons we've learned about creating inclusive pages, and assemble a list of easy wins that you can take back to your newsrooms and digital teams.", 
+        "facilitator": "Thomas Wilburn", 
+        "id": 1510318, 
+        "submitted_at": "2018-04-02T19:13:47.919Z", 
+        "title": "Visualization as a Civil Right"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "With all of the technologies, platforms and third-party services associated with a newsroom's digital footprint, we expose our audiences to data collection, tracking and other side effects of their interaction with our news and how we distribute it. In this session we'll talk about what our obligations are to ensure audiences are adequately informed and what tools and resources we might be able to build to help newsrooms quickly create a digital disclosure for audiences.", 
+        "facilitator": "Heather Bryant", 
+        "id": 1510136, 
+        "submitted_at": "2018-04-02T20:04:41.610Z", 
+        "title": "Transparency in Tech"
+    }
+]
