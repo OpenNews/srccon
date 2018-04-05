@@ -10,7 +10,7 @@ permalink: /participation/index.html
 
 # Participation at SRCCON
 
-SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form) is now open and we are excited to hear about what you'd like to share, whether that be as a facilitator or attendee, and what you hope to take back home with you. 
+SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form) is now open and we are excited to hear about what you'd like to share, whether that be as a facilitator or attendee, and what you hope to take back home with you. We also wrote a question-by-question [walkthrough of the call for participation form itself](https://opennews.org/blog/srccon-participation-howto) to help you tell us all about how you'd like to join us at SRCCON.
 
 We keep the size of SRCCON intentionally rather small, 300 people this year, and we've experimented with different ways to allocate tickets over the last five years. This year, we're trying a new approach with one form to tell us everything about how you'd like to participate, from pitching a session, to bringing your experiences and expertise to hands-on sessions, to applying for a scholarship.
 
