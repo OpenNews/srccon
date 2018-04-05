@@ -238,6 +238,20 @@ footer #footer-details .page-container {
 }
 
 
+/* SESSION LIST STYLES */
+.session-proposal-list {
+    margin-top: 3em;
+}
+.session-proposal-list .session-proposal {
+    margin-bottom: 2em;
+}
+.session-proposal-list .facilitator {
+    font-size: .8em;
+    font-style: italic;
+    margin-bottom: .33em;
+}
+
+
 /* FORM STYLES */
 .fr_description {
     font-size: .8em;
