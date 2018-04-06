@@ -10,7 +10,7 @@ permalink: /sessions/proposals/
 
 We'll update this list through the end of our call for participation on April 13, then review them all and notify everyone about their session status by the end of April. We hope these proposals—along with our [proposal guide](/sessions/proposal-guide/) and [walkthrough of the call for participation form](https://opennews.org/blog/srccon-participation-howto)—help spark ideas about how _you'd_ like to participate.
 
-If you'd like to take part in this year's SRCCON—as a facilitator, an attendee, or in any other way—you should [fill out our CFP](/sessions/proposals/pitch)!
+If you'd like to take part in this year's SRCCON—as a facilitator, an attendee, or in any other way—you should [fill out our CFP](/participation/form/)!
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.proposals %}
