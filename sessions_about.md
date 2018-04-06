@@ -10,7 +10,9 @@ permalink: /sessions/about/index.html
 
 # About Sessions at SRCCON
 
-SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that helps every attendee head home with new ideas. If you'd like to facilitate a session at SRCCON, we have [a Proposal Guide written just for you](/sessions/proposal-guide/)!
+SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that helps every attendee head home with new ideas. Check out the [proposals we've already received](/sessions/proposals/) for our 2018 program!
+
+If you'd like to facilitate a session at SRCCON, we have [a proposal guide written just for you](/sessions/proposal-guide/). We also wrote a question-by-question [walkthrough of the call for participation form itself](https://opennews.org/blog/srccon-participation-howto) to help you tell us all about your idea.
 
 Our program for SRCCON 2018 will be built around key community values:
     

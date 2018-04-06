@@ -35,9 +35,11 @@ Our sessions inhabit these values in different ways, through structured discussi
 
 ## Key Dates in the Proposal Process
 
-* **April 13:** call for proposals closes at 11:59pm ET
+* **April 13:** call for participation closes at 11:59pm ET
 * **April 30:** all proposers notified about status of their sessions
 
+As you're finalizing your session proposal, in addition to this guide we have a [handy walkthrough of the call for participation form itself](https://opennews.org/blog/srccon-participation-howto)!
+    
 ## Our Session Review Process
 
 Our goal is to build a conference schedule with a mix of technical workshops, culturally focused discussions, and sessions that exist somewhere in between. As the SRCCON team reviews proposals, we look for:
