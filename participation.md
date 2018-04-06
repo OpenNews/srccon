@@ -20,7 +20,9 @@ The form is open until 11:59pm ET on April 13. After that, we will review entrie
 
 ## Not Just Attendees, But Participants
 
-At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/sessions/about) who are ready to share their experiences and perspectives. [Facilitators create space](/sessions/about#facilitators) for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON an inclusive, welcoming place by leading fun group activities like knitting or book clubs, volunteering, and saying hi to new potential friends and collaborators over meals and coffee/tea/hot beverages.
+At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/sessions/about) who are ready to share their experiences and perspectives. [Check out the session proposals we've received so far](/sessions/proposals/).
+
+[Facilitators create space](/sessions/about#facilitators) for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON an inclusive, welcoming place by leading fun group activities like knitting or book clubs, volunteering, and saying hi to new potential friends and collaborators over meals and coffee/tea/hot beverages.
 
 We'll have a few questions for you about what you'd like to bring to SRCCON and what you're hoping to take home with you. We look forward to seeing what ideas folks have and how we can make them possible during our two days together.
 
