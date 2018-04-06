@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Jaimi Dowdell", 
+        "cofacilitator_twitter": null, 
+        "description": "Teaching data journalism in newsrooms and at universities has forced us to come up with creative techniques. We wrote The SQL Song to help one group of boot camp attendees understand the order of commands. In an attempt to help students fine-tune their programs, we did a game show called Query Cash. To make string functions make more sense, we’ve created silly, but useful performances. To make this session interactive, we propose inviting attendees to bring their ideas. We also will pose some problems and have teams work out creative solutions.", 
+        "facilitator": "Jennifer LaFleur", 
+        "facilitator_twitter": "j_la28", 
+        "id": 1518607, 
+        "submitted_at": "2018-04-06T16:25:41.678Z", 
+        "title": "Make learning fun!"
+    }, 
+    {
         "cofacilitator": null, 
         "description": "Technologies have different meanings as they cross borders, the same sites are appropriated by their users in different ways to address local context or local problems. This session will attempt to examine the different ways in which technology is experienced in non-western countries who do not have the ability to shape platforms but only to consume.", 
         "facilitator": "Wael Eskandar", 
@@ -10,6 +20,7 @@
     }, 
     {
         "cofacilitator": "Andrea Hart", 
+        "cofacilitator_twitter": null, 
         "description": "Public meetings are important spaces for democracy where any resident can participate in civic life and hold public figures accountable. But how does the public know when meetings are happening? It isn’t easy! These events are spread across dozens of websites, rarely in useful data formats.\n\nThat’s why we're working with a team of civic coders to develop and coordinate the #CityScrapers, a community open source project designed to standardize, scrape and share these meetings in a central database, in collaboration with City Bureau's Documenters program. \n\nAre you working on issues related to governmental transparency, civic tech and journalism? Join us for a hands on session, stay for lessons on creating a more perfect democracy.", 
         "facilitator": "Darryl Holliday", 
         "facilitator_twitter": "city_bureau", 
@@ -54,7 +65,8 @@
         "title": "Leading News Org to Water by Hacking Our Hiring"
     }, 
     {
-        "cofacilitator": "Martin Stabe (needs to confirm availability)", 
+        "cofacilitator": "Martin Stabe", 
+        "cofacilitator_twitter": null, 
         "description": "A “words” journalist can spend their entire career as a reporter, starting with daily general assignment reporting and moving to beat reporting, international reporting, or investigative reporting. Along the way, they increase their visibility, credibility, and earnings. What could that look like for the journalism-tech community? For example, a “news nerd” version of a traditional foreign correspondent could uncover datasets abroad, figure out ways to engage the local community, or deploy hardware sensors to track environmental conditions.\n\nWe’ll first talk about all the different kinds of skills we bring to newsrooms. Then we’ll spend some time interviewing each other before we create out-of-the-box job descriptions we can get excited about.", 
         "facilitator": "Soo Oh", 
         "facilitator_twitter": "soooh", 
