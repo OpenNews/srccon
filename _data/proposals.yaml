@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Sarah Cohen", 
+        "cofacilitator_twitter": null, 
+        "description": "Data journalism education has problems -- too few places teach it, too few faculty have the skills, and there's precious little consensus about what students need. Tools? Thinking? Case studies? Story assignments? Simultaneously, academic publishing is beyond broken: too slow to keep up, too expensive for students to afford. So we're on a mission: Make the mother of all modern data journalism textbooks. And, at the same time, publish it so it can get to the most students, with the most up-to-date materials, without academic publishing price barriers. But how? We need your help. What do we include? How do we get it to people? We have ideas, we want to hear yours. Let's make a table of contents together!", 
+        "facilitator": "Matt Waite", 
+        "facilitator_twitter": "@mattwaite", 
+        "id": 1520496, 
+        "submitted_at": "2018-04-08T22:26:15.946Z", 
+        "title": "Let's build the data journalism textbook we need, and break academic publishing while we're at it."
+    }, 
+    {
         "cofacilitator": "Jaimi Dowdell", 
         "cofacilitator_twitter": null, 
         "description": "Teaching data journalism in newsrooms and at universities has forced us to come up with creative techniques. We wrote The SQL Song to help one group of boot camp attendees understand the order of commands. In an attempt to help students fine-tune their programs, we did a game show called Query Cash. To make string functions make more sense, we’ve created silly, but useful performances. To make this session interactive, we propose inviting attendees to bring their ideas. We also will pose some problems and have teams work out creative solutions.", 
