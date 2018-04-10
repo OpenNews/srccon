@@ -1,5 +1,14 @@
 [
     {
+        "cofacilitator": null, 
+        "description": "Ok, the title is a bit cheesy, but it's true: I have never met a more engaged, concerned, hard working bunch of people than the ones I encounter on the news floor. Journalists know exactly what stories to tell and the way they have to tell it.\n\nBut for some reason that all falls away when they are asked to create a web article. Or a mini website, together with a developer. Or an online movie clip. Which is, at first sight understandable. But then again, isn't it just storytelling?\n\nBy bringing journalists, developers and digital creatives together, we can empower journalists to think about how they want their story to be told. And by creating tools that simplify tasks like creating After Effects assets, short form video or webpages, journalists can get more and more sucked in in the wonderful world of online opportunities.", 
+        "facilitator": "Maarten Lauwaert", 
+        "facilitator_twitter": "pmcp_fyit", 
+        "id": 1522377, 
+        "submitted_at": "2018-04-10T15:02:53.357Z", 
+        "title": "Journalists, you rock, now it's time to roll!"
+    }, 
+    {
         "cofacilitator": "Sarah Cohen", 
         "cofacilitator_twitter": null, 
         "description": "Data journalism education has problems -- too few places teach it, too few faculty have the skills, and there's precious little consensus about what students need. Tools? Thinking? Case studies? Story assignments? Simultaneously, academic publishing is beyond broken: too slow to keep up, too expensive for students to afford. So we're on a mission: Make the mother of all modern data journalism textbooks. And, at the same time, publish it so it can get to the most students, with the most up-to-date materials, without academic publishing price barriers. But how? We need your help. What do we include? How do we get it to people? We have ideas, we want to hear yours. Let's make a table of contents together!", 
@@ -28,6 +37,15 @@
         "id": 1518405, 
         "submitted_at": "2018-04-06T21:42:35.295Z", 
         "title": "Toward an ethical framework for engagement"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Every job opening for a newsroom developer job (of which there are few) gets dozens of resumes. Job postings for the CMS get fewer, but still some. But nobody wants to come to a media organization to work on the payment processing system or ad tech.\n\nAnd that's a problem! \n\nWe need more of the passionate, mission-driven people who attend SRCCON to contribute to the financial engine of journalism. Let's get together and talk about what life outside of the newsroom can look like and see if we can come up with ways to convince more people (maybe even ourselves!) to join the business side.", 
+        "facilitator": "Brian Hamman", 
+        "facilitator_twitter": "hamman", 
+        "id": 1517609, 
+        "submitted_at": "2018-04-10T13:11:27.550Z", 
+        "title": "Leave the newsroom!"
     }, 
     {
         "cofacilitator": null, 
@@ -83,6 +101,16 @@
         "id": 1511483, 
         "submitted_at": "2018-04-03T04:45:00.606Z", 
         "title": "Leading News Org to Water by Hacking Our Hiring"
+    }, 
+    {
+        "cofacilitator": "Becca Aaronson, Shannan Bowen", 
+        "cofacilitator_twitter": null, 
+        "description": "Are you trying to break down legacy thinking and processes in your organization? Pushing for more diverse and inclusive hiring practices? Rethinking how we engage with communities that need trustworthy news? Producing interactive stories in formats your editor couldn’t even envision a year ago? You’re a change agent, and so are we. So let's get together and chat. \n\nWith the journalism industry in a state of constant flux these days, there are many of us working to improve processes within our newsrooms, foster collaboration between departments, engage new audiences and find revenue solutions that will actually work. This session will provide an opportunity for those of us pushing for change inside and outside of the newsroom to come together to discuss what's worked, what hasn't, and what challenges we continue to face. \n\nWe want people to be excited about making change within their organizations, whether it's a small workflow change or a big cultural change.", 
+        "facilitator": "Emma Carew Grovum", 
+        "facilitator_twitter": "emmacarew", 
+        "id": 1510423, 
+        "submitted_at": "2018-04-09T21:53:06.219Z", 
+        "title": "Calling All Change Agents"
     }, 
     {
         "cofacilitator": "Martin Stabe", 
