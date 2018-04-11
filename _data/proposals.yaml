@@ -1,6 +1,52 @@
 [
     {
         "cofacilitator": null, 
+        "description": "It seems like news nerds are dividing into two camps: those who are quitting their jobs to join block chain media startups and those who have no earthly idea what block chain has to do with journalism. Surely both groups will be represented in some form at SRCCON so let's get together and educate each other.\n\nThis will not be a debate or an attempt to prove or disprove whether block chain is good or bad for journalism. It's an earnest call for the people who understand how the same technology underlying a [marketplace for digital cats](https://www.cryptokitties.co/) is going to power a [distributed](https://joincivil.com/) journalism to explain it to the rest of us.\n\nNote: this session is urgently in need of at least one co-presenter who understands block chain enough to be excited about it.", 
+        "facilitator": "Brian Hamman", 
+        "facilitator_twitter": "hamman", 
+        "id": 1523216, 
+        "submitted_at": "2018-04-10T23:58:45.371Z", 
+        "title": "Can someone please explain to me how Block Chain will save journalism?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Let's talk, and work together with users, about the future of news in a post Facebook world. As we are now using Facebook for everything except writing our articles, a whole new world of opportunities opens up for journalists and news departments. From incorporating more social elements in our platforms to creating new user experiences. Our platforms will (maybe) regain value, and if this happens, coding and journalism will hopefully finally intertwine at a much higher level than today.", 
+        "facilitator": "Maarten Lauwaert", 
+        "facilitator_twitter": "pmcp_fyit", 
+        "id": 1523196, 
+        "submitted_at": "2018-04-10T23:55:30.661Z", 
+        "title": "What does news look like in a post-Facebook world?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "OpenNews and the BuzzFeed Open Lab collaborated with a ton of really smart journalists, editors, and trainers to compile a resource guide for newsroom security trainers. (https://securitytraining.opennews.org/). It's a great round up of new lesson plans and links out to existing lessons that cover important topics in digital privacy and security. We'd love to show you what's in the guide and spend some time adding even more resources to it. If you have lesson plans to share or just a few favorite resources or news stories that really make sense of a particular topic, bring them!", 
+        "facilitator": "Amanda Hickman", 
+        "facilitator_twitter": "amandabee", 
+        "id": 1522838, 
+        "submitted_at": "2018-04-10T19:08:17.718Z", 
+        "title": "More security trainers, please!"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Journalists, news technologists, researchers, and designers are the architects of the digital news experience. But most news websites have much more going on than what we build ourselves, by way of programmatic advertising, social networks, paid content, and platform integrations. We'll discuss how advertisers think about web traffic, and in a hands-on workshop, we'll brainstorm a news product that monetizes engagement instead of attention.", 
+        "facilitator": "Austin Smith", 
+        "facilitator_twitter": "netaustin", 
+        "id": 1522586, 
+        "submitted_at": "2018-04-10T16:57:28.070Z", 
+        "title": "Architecting a Humane Business Model for Journalism"
+    }, 
+    {
+        "cofacilitator": "Helga Salinas", 
+        "cofacilitator_twitter": null, 
+        "description": "What can we do to empower diverse journalists, including younger journalists, people of color, and women and non-binary individuals, in newsrooms that often lack mentorship and support? To answer this question, first we must address your identity—which parts of your identity do you bring with you to work? Which parts do you leave at the door? How does that affect your newsroom experience and how the news is covered in America’s increasingly divisive political and social climate? We’ll begin the session with an exercise that explores our own identities. Different identities impact the work you do and how you interact with others. Then, after hearing from different people in the group, we’ll develop strategies for listening, mentorship, and self-care, using examples from our own experiences at The Seattle Times and The New York Times to explore strategies that we’ve seen work, and how to improve.", 
+        "facilitator": "Audrey Carlsen", 
+        "facilitator_twitter": "audcarls", 
+        "id": 1522578, 
+        "submitted_at": "2018-04-10T16:14:34.621Z", 
+        "title": "I’m a stranger here myself: Building a newsroom roadmap for young journalists of color and their allies"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "Ok, the title is a bit cheesy, but it's true: I have never met a more engaged, concerned, hard working bunch of people than the ones I encounter on the news floor. Journalists know exactly what stories to tell and the way they have to tell it.\n\nBut for some reason that all falls away when they are asked to create a web article. Or a mini website, together with a developer. Or an online movie clip. Which is, at first sight understandable. But then again, isn't it just storytelling?\n\nBy bringing journalists, developers and digital creatives together, we can empower journalists to think about how they want their story to be told. And by creating tools that simplify tasks like creating After Effects assets, short form video or webpages, journalists can get more and more sucked in in the wonderful world of online opportunities.", 
         "facilitator": "Maarten Lauwaert", 
         "facilitator_twitter": "pmcp_fyit", 
