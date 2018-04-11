@@ -1,5 +1,24 @@
 [
     {
+        "cofacilitator": "Karen Hao, Robert Hernandez", 
+        "cofacilitator_twitter": null, 
+        "description": "We've all done it: used technology to force a culture change within the newsroom. We want to tell you a little bit about how we've worked to hack our newsrooms with innovation, but then we want to help you brainstorm your best idea for changing your work culture. In addition to a massive brainstorm and review of best practices for leading change and innovation, we'll pair you with a secret pen pal who will help keep you accountable for your goal. \n\nSome examples: \n- Robert regularly works with students in the world academia to force innovation. \n- Emma changed the way her newsroom filed stories and mandated Slack for the whole company. \n- Karen’s newsroom instituted an initiative where each month, reporters and editors hold a lab week to experiment with new ideas\n\nWe want participants to go back to their newsrooms on Monday armed with a new confidence for making change, a list of best practices to try employing, and a specific goal in mind to start work on immediately. Further, we'll pair folks up with a secret pen pal from the session to help keep them accountable in six weeks, six months.", 
+        "facilitator": "Emma Carew Grovum", 
+        "facilitator_twitter": "emmacarew", 
+        "id": 1529032, 
+        "submitted_at": "2018-04-11T21:31:01.400Z", 
+        "title": "How to Hack Your Work Culture to Force Innovation"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "You worked on a cool project, you spoke with other folks who might be interested in the same, and notice a lot of re-inventing the wheel because of fragmented pockets of knowledge here and there. Now how would you go about creating a micro community that connect people with similar interests? To facilitate knowledge share, collaboration, problem solving and breeding ground for new ideas.  \nDrawing on participants experience will try to identify key challenges as well as strategies to overcome those. I will share my experience with connecting the textAV (textAV.tech) community to kickstart the conversation.\nBy the end of the session will have 10 takeaways of actionable things you can try out right away.", 
+        "facilitator": "Pietro Passarelli", 
+        "facilitator_twitter": "pietropassarell", 
+        "id": 1528836, 
+        "submitted_at": "2018-04-11T20:55:16.096Z", 
+        "title": "“I know other people care about this”, now what do I do?"
+    }, 
+    {
         "cofacilitator": null, 
         "description": "It seems like news nerds are dividing into two camps: those who are quitting their jobs to join block chain media startups and those who have no earthly idea what block chain has to do with journalism. Surely both groups will be represented in some form at SRCCON so let's get together and educate each other.\n\nThis will not be a debate or an attempt to prove or disprove whether block chain is good or bad for journalism. It's an earnest call for the people who understand how the same technology underlying a [marketplace for digital cats](https://www.cryptokitties.co/) is going to power a [distributed](https://joincivil.com/) journalism to explain it to the rest of us.\n\nNote: this session is urgently in need of at least one co-presenter who understands block chain enough to be excited about it.", 
         "facilitator": "Brian Hamman", 
@@ -28,6 +47,15 @@
     }, 
     {
         "cofacilitator": null, 
+        "description": "It's hard to take the time to take care of yourself, especially in a busy newsroom, and especially when nobody around you is taking care of themselves, either. Let's promote a better newsroom culture by setting healthy micro-goals, and getting our colleagues to help us keep them.\n\nIn this session, we'll chat about bad habits that we share and good habits that we would like to build, sort out how to get support from team members, and brainstorm some ideas for fun rewards when we make progress. I'll help you build out a goal chart (think Bingo) that each member of your team can use to track their own progress. When the team collects enough points, you all get rewarded, so make sure you help your desk mate reach their goals, too!", 
+        "facilitator": "Elizabeth Melito", 
+        "facilitator_twitter": null, 
+        "id": 1522689, 
+        "submitted_at": "2018-04-11T14:47:39.254Z", 
+        "title": "Gamifying healthy habits at work"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "Journalists, news technologists, researchers, and designers are the architects of the digital news experience. But most news websites have much more going on than what we build ourselves, by way of programmatic advertising, social networks, paid content, and platform integrations. We'll discuss how advertisers think about web traffic, and in a hands-on workshop, we'll brainstorm a news product that monetizes engagement instead of attention.", 
         "facilitator": "Austin Smith", 
         "facilitator_twitter": "netaustin", 
@@ -53,6 +81,16 @@
         "id": 1522377, 
         "submitted_at": "2018-04-10T15:02:53.357Z", 
         "title": "Journalists, you rock, now it's time to roll!"
+    }, 
+    {
+        "cofacilitator": "Eric Jorgensen", 
+        "cofacilitator_twitter": null, 
+        "description": "Being open about your expectations, your work style, and your strengths and weaknesses helps you and your direct reports trust each other and do better work. But this stuff is hard to talk about, and it can take a long time to build that trust organically. As a manager, the onboarding process is a chance to set the tone early and give your relationship a head start.\n\nThe idea of a “Welcome to Me” onboarding deck has been spreading through management culture in engineering. In this session, engineering manager Eric Jorgensen and design manager Orr Shtuhl, both of Wirecutter, will lead an interactive discussion on how to apply the concept of openness to an onboarding deck for your direct reports, whether you're in tech, design, or news.", 
+        "facilitator": "Orr Shtuhl", 
+        "facilitator_twitter": "orrshtuhl", 
+        "id": 1521045, 
+        "submitted_at": "2018-04-11T20:18:18.854Z", 
+        "title": "Welcome to Me: Managing with Openness"
     }, 
     {
         "cofacilitator": "Sarah Cohen", 
