@@ -1,5 +1,54 @@
 [
     {
+        "cofacilitator": "Jess Kuronen", 
+        "cofacilitator_twitter": null, 
+        "description": "Answer the following:\n\n1. \"Mueller's Investigation Gains Steam\"\n\t\ta. Robert Mueller as Thomas the Tank Engine\n\t\tb. a color is moving faster and its spread is getting dispersed\n\t\tc. steam punk Robert Mueller\n\t\td. something completely different\n    \n2. \"In a Post Crisis World, Where We Still Go To Work\"\n\t\ta. line chart plunges from the sky into the earth\n\t\tb. Tesla autonomous vehicle stars in Mad Max reprise\n\t\tc. an abstract ballet, where politicians are circles and the stock market is a square\n\t\td. something completely different\n\t\t\n3. \"Local car dealers rush to consolidate\"\n\t\ta. Circles gloop together to grow into larger circles with circle tires\n\t\tb. Speed Racer has to merge onto highway\n\t\tc. collage of used car dealership signs and merge roadsigns\n\t\td. something completely different\n\t\t\nIn this exercise, we make as many drawings as we can, using a headline as our origin point. It helps us loosen up! It helps us gain confidence in quick ideas! It makes us treat ideas less preciously! It strengthen our visual muscles! It makes us less sad! And it gets us bridging the gap between words and images!\n\nIf we think about headlines as the text's grounding concept, can we think of our drawings as the visual's grounding concept? \n\n- It could be an illustration, that explores the story's tone.\n- It could be a comic, that tells the story in a scenario\n- It could be multiple panels, that questions how you organize your narrative\n- It could be an abstraction, that pokes at how elements interact\n- It could be a silly doodle, that helps you bounce back after an intense project\n\nWhether they're ugly, clever, dumb, or practical, we've integrated illustration into our routine. And now we have a lot of drawings.", 
+        "facilitator": "Tyler Paige", 
+        "facilitator_twitter": "tylerpaige", 
+        "id": 1532000, 
+        "submitted_at": "2018-04-12T21:39:34.703Z", 
+        "title": "Loosen up and draw something"
+    }, 
+    {
+        "cofacilitator": "Steven Rich", 
+        "cofacilitator_twitter": null, 
+        "description": "Most journalism conferences these days have a session about mental health. A lot of us have stressful jobs, and coming up with strategies to decompress from that is great. But what if you have a chronic mental illness or condition that’s unrelated to (or exacerbated by) your work?\nOr you’re not sure, but yoga and kale aren’t cutting it?\n\nIn this session, we’ll go beyond self-care to talk about strategies for managing chronic jerkbrains in, and outside of, the newsroom. From cognitive behavioral therapy to grounding, let’s share practical ways to be your best at work and in life. This session will be completely off-the-record.", 
+        "facilitator": "Rachel Alexander", 
+        "facilitator_twitter": "rachelwalexande", 
+        "id": 1531874, 
+        "submitted_at": "2018-04-12T20:17:09.221Z", 
+        "title": "We Went to Therapy So You Don’t Have To"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Do you have innovation A.D.D.? Struggling to engage with your target audience despite the latest and greatest 4K camera being pointed at your subject? Did you know the BEST stories have shapes? Yup. Throw that gimbal away and pick up your Crayons! USA Today Producer Jarrad Henderson explores the “Shape of Stories” as conceived by Kurt Vonnegut and shows you why it’s time to get back to basics. Come learn how shapes, the art of the remix and practicing the A.I. Technique can help you become a master storyteller!", 
+        "facilitator": "Jarrad Henderson", 
+        "facilitator_twitter": "jarrad_tweets", 
+        "id": 1531797, 
+        "submitted_at": "2018-04-12T20:31:32.967Z", 
+        "title": "The Shape of Stories: Unleash Your :60 Storyteller"
+    }, 
+    {
+        "cofacilitator": "Jason Hunter", 
+        "cofacilitator_twitter": null, 
+        "description": "Poetry isn't only about self-expression and seeing the beauty in what surrounds us. In fact, poetry is more often about probing what lies beneath the news and our everyday lives. This workshop session explores what poetry has to do with the news, and how poetry can help journalists and technologists re-envision their work. We'll explore the strategies of reading poems and how to apply them to create compelling narratives and how to approach ambiguity. We'll also use collaborative writing techniques to help generate innovative ideas and approaches in journalism.", 
+        "facilitator": "Mark Yakich", 
+        "facilitator_twitter": "noreview", 
+        "id": 1531645, 
+        "submitted_at": "2018-04-12T18:39:24.731Z", 
+        "title": "Using poetry to your advantage"
+    }, 
+    {
+        "cofacilitator": "Jeff Sisson", 
+        "cofacilitator_twitter": null, 
+        "description": "Slow-moving, risk-averse, and an (occasional) pain-in-the-ass to work with — the platform can be the bane of ambitious design and experimentation. At The New York Times (and elsewhere) most innovative storytelling has traditionally taken place outside of it. The platform handles the boring nuts-and-bolts of newsmaking — and we get to do the cool stuff. \nWhat if designers and developers were more involved in platform-level tooling and software? What does it look like to get over the fear of the complexities of platform and native app architecture, and love it for what it can offer — reusable, scalable tools, and broad exposure to the rest of your newsroom?\nDrawing on our shared experiences building tools for newsrooms, in this workshop, we’ll look at using ProseMirror, the basis of The New York Time’s new editing interface, to see how meeting editors and reporters where they are already working can crack open the door to story innovation.", 
+        "facilitator": "Sam Jacoby", 
+        "facilitator_twitter": "samjacoby", 
+        "id": 1531523, 
+        "submitted_at": "2018-04-12T20:34:45.345Z", 
+        "title": "Learning to Love Your Publishing Platform"
+    }, 
+    {
         "cofacilitator": null, 
         "description": "Love it or hate it NY Times snow fall as exemplified the issue around creating new story formats for digital publishers. But surprisingly discussions around it are generally not very productive. The tension with product teams and journalists is often whether you spend six months or longer on a high profile feature piece or platform or make tweaks to your CMS to make it more innovative and forward-thinking.\n\nAt the BBC News Labs we experimented with 6 week project sprints and as part of one of these first project sprints we made an “interactive” graphic novel/comic book story with the BBC World service. We want to share our experience of how you go from defining an idea with editorial stakeholders, iterating and delivering on that while creating an experience that reaches a global audience under time pressure. Can a prototype ever be production ready code?\n\nWe are also keen to hear from others that might have tried doing experiments and promote innovation in their newsroom to knowledge share on what tweaks and tricks might have worked as well as biggest challenges. Let's see if we can come up with the main points for an outline for a virtual “rapid prototyping from idea to working product handbook.”", 
         "facilitator": "Pietro Passarelli", 
@@ -90,6 +139,16 @@
         "id": 1523196, 
         "submitted_at": "2018-04-10T23:55:30.661Z", 
         "title": "What does news look like in a post-Facebook world?"
+    }, 
+    {
+        "cofacilitator": "Joe Germuska", 
+        "cofacilitator_twitter": null, 
+        "description": "At Journalism + Design, we’ve been developing a deck of creativity cards, a la Brian Eno’s Oblique Strategies and the IDEO Method Cards, to help integrate the design process and systems thinking into the newsroom and train emerging journalists. I’d like to run a workshop, co-facilitated with Joe Germuska, with the J+D deck of cards for SRCCON attendees. We should have some sets of cards for people to take back to their newsrooms.", 
+        "facilitator": "Allison Lichter Joseph", 
+        "facilitator_twitter": "allisonlichter", 
+        "id": 1522899, 
+        "submitted_at": "2018-04-12T20:27:20.454Z", 
+        "title": "Creativity Cards to Spark New Ideas in Newsrooms"
     }, 
     {
         "cofacilitator": null, 
