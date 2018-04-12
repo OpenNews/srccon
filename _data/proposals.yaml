@@ -1,5 +1,50 @@
 [
     {
+        "cofacilitator": null, 
+        "description": "Love it or hate it NY Times snow fall as exemplified the issue around creating new story formats for digital publishers. But surprisingly discussions around it are generally not very productive. The tension with product teams and journalists is often whether you spend six months or longer on a high profile feature piece or platform or make tweaks to your CMS to make it more innovative and forward-thinking.\n\nAt the BBC News Labs we experimented with 6 week project sprints and as part of one of these first project sprints we made an “interactive” graphic novel/comic book story with the BBC World service. We want to share our experience of how you go from defining an idea with editorial stakeholders, iterating and delivering on that while creating an experience that reaches a global audience under time pressure. Can a prototype ever be production ready code?\n\nWe are also keen to hear from others that might have tried doing experiments and promote innovation in their newsroom to knowledge share on what tweaks and tricks might have worked as well as biggest challenges. Let's see if we can come up with the main points for an outline for a virtual “rapid prototyping from idea to working product handbook.”", 
+        "facilitator": "Pietro Passarelli", 
+        "facilitator_twitter": "pietropassarell", 
+        "id": 1531448, 
+        "submitted_at": "2018-04-12T17:05:04.940Z", 
+        "title": "Let’s talk about what it takes to create new story formats"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "The command line is a black box (a white box on a Mac) that holds so much power but is very inaccessible to newcomers.  Personally, it has taken me years to feel comfortable with it, and I still regularly learn things that wow me and improve my workflow.  Being comfortable with the command line can make you more efficient in your work, might even be fun, and people in coffee-shops will think you are some kind of \"hacker\".\n\nHow can we shed light on this amazing, scary black box?  What are the things you do to make the command line more fun?  What scares you about the command line?  How did you go from someone that just copies and pastes commands to one that writes commands from scratch?  How do we find answers to our questions about the command line?  And what's the difference between the command line, Terminal, shell, bash, Powershell, and many other weird words?\n\nBeginners and experts alike, let's share our real world experience with the command line and raise everyone's ANSI boats.", 
+        "facilitator": "Alan Palazzolo", 
+        "facilitator_twitter": "zzolo", 
+        "id": 1531154, 
+        "submitted_at": "2018-04-12T16:02:17.637Z", 
+        "title": "Shedding light on the command line"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Is that story really a \"must-run?\" Reporters and data journalists shouldn't feel bad for taking vacation days in a never ending news cycle. Or working through a cold. Rest and recover -- it's okay!", 
+        "facilitator": "Anthony Cave", 
+        "facilitator_twitter": "Anthony_Cave", 
+        "id": 1529708, 
+        "submitted_at": "2018-04-12T05:55:44.569Z", 
+        "title": "Self-care and avoiding burnout"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "It's easier for me to see what The New York Times published in print in 1851 than it is to see what it published digitally in 1996. Why is that? Is any other news website in a better state?\n\nDigital publishing moves fast, but as we evolve the form of news online, how can we preserve what we publish in a way that will let the historians of the future understand the evolution of the medium? Is a SoundSlides audio slideshow going to work in any way in 50 years? Or a Brightcove player video? If you do archive a page, has it lost something essential if it's lost the dynamic ad code or personalization features?\n\nThese are hard questions, but let's try and come together and create a plan for pitching the value of preserving and archiving digital news to others at our organizations, and start creating best practices for doing it.", 
+        "facilitator": "Albert Sun", 
+        "facilitator_twitter": "albertsun", 
+        "id": 1529616, 
+        "submitted_at": "2018-04-12T04:47:24.086Z", 
+        "title": "Archiving News Websites for the Long Long Term"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "The salary gap is real. Non-men make less money than men, and non-white people make less money than white people. One of the best tools people can have when negotiating for pay is an accurate sense of what the market rate for the position is. The only way you'll know what the market rate is for specialized jobs like the folks here at SRCCON have? If you talk to each other! This session will involve role play (first with fictional numbers and scenarios, and then moving into reality-based conversations).", 
+        "facilitator": "Julia Haslanger", 
+        "facilitator_twitter": "@JuliaJRH", 
+        "id": 1529449, 
+        "submitted_at": "2018-04-12T02:31:56.100Z", 
+        "title": "Best revenge is your paper"
+    }, 
+    {
         "cofacilitator": "Karen Hao, Robert Hernandez", 
         "cofacilitator_twitter": null, 
         "description": "We've all done it: used technology to force a culture change within the newsroom. We want to tell you a little bit about how we've worked to hack our newsrooms with innovation, but then we want to help you brainstorm your best idea for changing your work culture. In addition to a massive brainstorm and review of best practices for leading change and innovation, we'll pair you with a secret pen pal who will help keep you accountable for your goal. \n\nSome examples: \n- Robert regularly works with students in the world academia to force innovation. \n- Emma changed the way her newsroom filed stories and mandated Slack for the whole company. \n- Karen’s newsroom instituted an initiative where each month, reporters and editors hold a lab week to experiment with new ideas\n\nWe want participants to go back to their newsrooms on Monday armed with a new confidence for making change, a list of best practices to try employing, and a specific goal in mind to start work on immediately. Further, we'll pair folks up with a secret pen pal from the session to help keep them accountable in six weeks, six months.", 
@@ -17,6 +62,16 @@
         "id": 1528836, 
         "submitted_at": "2018-04-11T20:55:16.096Z", 
         "title": "“I know other people care about this”, now what do I do?"
+    }, 
+    {
+        "cofacilitator": "Julia Haslanger", 
+        "cofacilitator_twitter": null, 
+        "description": "Many journalists advance early in their careers by moving to other organizations, but what do you do when your next job is in the same newsroom you're already in? Let's talk about how to navigate changing roles within an organization, including handing off your old responsibilities and establishing new relationships.\n\nWhether you're planning to move to a new team or to a new role within the same team, come and learn from each other about potential challenges and some effective strategies for the transition.", 
+        "facilitator": "Justin Myers", 
+        "facilitator_twitter": "myersjustinc", 
+        "id": 1523585, 
+        "submitted_at": "2018-04-12T01:54:19.006Z", 
+        "title": "How Not to Burn Bridges As You Climb the Ladder"
     }, 
     {
         "cofacilitator": null, 
@@ -179,6 +234,15 @@
     }, 
     {
         "cofacilitator": null, 
+        "description": "Major media organizations are seeing newfound growth in online subscriptions: The Washington Post’s digital subscriber base more than tripled year-over-year in 2017, while The New York Times’ digital-only subscription revenue increased by 46 percent over the same time period to $340 million. Yet, there are much larger, arguably more scalable media subscription businesses looming overhead: Spotify made $4.6 billion from Premium subscriptions alone in 2017, while Netflix made $11.7 billion and Amazon's numerous subscription verticals raked in $3.2 billion in the same time period.\n\nOne can make a rigorous case that online news sites are now competing directly with these gargantuan media brands for share of users’ time, energy and money. But should music and video streaming services really be the new benchmark for all of media?\n\nThrough a series of interactive activities, we'll dive into what journalists could learn from the Spotify/Netflix/Amazon model about building experiences that foster both participation and loyalty with readers and subscribers—and where that model might fall short for news. We invite participants to bring their own examples of this strategic cross-pollination from their own organizations, which we'll workshop in small groups with visual, design-oriented exercises (read: many Post-it notes!).\n\nOn a higher level, our goal is take a serious, hands-on look at what the phrase \"media convergence\" really means and whether it's a truly viable future for the news business, with streaming as our lens.", 
+        "facilitator": "Cherie Hu", 
+        "facilitator_twitter": "cheriehu42", 
+        "id": 1513036, 
+        "submitted_at": "2018-04-12T02:47:17.186Z", 
+        "title": "Swimming against the stream: Are Spotify, Netflix and Amazon setting the standard for the future of news?"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "NYT's Interactive News team has been working (damned) hard on its hiring practices, including acrobatics like double-blind initial screenings, panel-wide unbiased* assessments of manually anonymized resumes and rigorous, team-consensus evaluation rubric spreadsheets.  It's ridiculously time-intensive for a few people on the team, but 1,000% worth it.\n\nLike-minded news nerds like Brittany Mayes (NPR) and Sisi Wei (ProPublica) have spoken eloquently about their efforts for internships and fellowships.  SRCCON audiences have been appreciative and very attentive, which means there's more to pursue on the topic.  Few teams can spare the time, but we have a window available _now_ for getting well ahead of any given news org's \"rebooted\" corporate recruiting and hiring efforts.  News nerd teams can cut the trail by adopting hiring practices that truly put our shared ideals front and center, as a demonstration for newsroom and technology groups.\n\nNYT's Interactive News will soon have four full-time hires worth of investment in refining our revamped hiring practices, which have moved us from unambitious box-ticking to some ridiculously hard debates about terrifyingly talented finalists.  Simultaneously, we are actively building a strong recruiting operation for future open positions.  (And my in-house \"expertise\" — aka, firm opinions and elaborate spreadsheets — have resulted in me being part of initiatives to shift the NYT's Technology hiring, too.)  There's a lot to share in that...with co-presenters I think.", 
         "facilitator": "Tiff Fehr", 
         "facilitator_twitter": "tiffehr", 
@@ -223,5 +287,15 @@
         "id": 1510136, 
         "submitted_at": "2018-04-02T20:04:41.610Z", 
         "title": "Transparency in Tech"
+    }, 
+    {
+        "cofacilitator": "Millie Tran", 
+        "cofacilitator_twitter": null, 
+        "description": "Where do people find time to nurture long-term goals? How do we get past treading water at work and move toward what we want next? And how do we even figure out what that is when we’re overwhelmed and overworked? In this session, building on what we explored at SRCCON:WORK, we’ll dig into how to create space for longer term goals, and brainstorm specific ways to balance the short and long term in our daily lives.", 
+        "facilitator": "Kaeti Hinck", 
+        "facilitator_twitter": "kaeti", 
+        "id": 1510135, 
+        "submitted_at": "2018-04-12T17:36:22.263Z", 
+        "title": "Time to grow: How to dig deep and stretch yourself in the midst of day-to-day survival"
     }
 ]
