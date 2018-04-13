@@ -1,7 +1,54 @@
 [
     {
-        "cofacilitator": "Eric Van Zanten", 
+        "cofacilitator": "Casey Miller", 
         "cofacilitator_twitter": null, 
+        "description": "Are you a freelancer or a lonely coder looking for feedback as you’re working on your latest project? Do you work on a team with access to an editor but they don’t have the right experience or skills to review your work? \n\nNo matter your level of expertise, having a skilled pair of eyes thoroughly scan your code, design, or writing is a crucial step in producing quality journalism. Enter the role of editor. Having a good editor is a truly amazing experience. Not only can a good editor help point out the errors in the text or the flaws in a design, but they can also offer guidance on story structure, layout, etc). Their feedback can make the difference between an average piece and an impactful piece.\n\nSo what can you do if that resource isn’t available to you? How can you shape stories without the keen eye of an editor?\n\nHere’s the thing, none of us have the perfect answer. In this session, we want to share some of our strategies and we want you to hear what solutions you’ve come up with.", 
+        "facilitator": "Lo Benichou", 
+        "facilitator_twitter": "lobenichou", 
+        "id": 1533770, 
+        "submitted_at": "2018-04-13T21:39:58.825Z", 
+        "title": "Don’t Panic: the guide to working without an editor, even if you have one sitting right next to you."
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Design thinking is a human-centered approach to building desirable products that meet a real need well, are viable and sustainable, and can feasibly be produced with the time, resources and skills you have.\n\nOpen source is an approach to building software where anyone can take the code and remix, iterate, and reshare it.\n\nNewsrooms are experiencing significant challenges and serious resource constraints. How could they use design thinking and open source to collaborate on building meaningful, innovative tools that improve everybody's workflow? How can those tools be maintained and iterated?\n\nIn this session, we'll talk through a framework for understanding your core user needs and assumptions, identifying innovative solutions, and then building those solutions in a collaborative, resource efficient, prototype-driven way.", 
+        "facilitator": "Ben Werdmuller", 
+        "facilitator_twitter": "benwerd", 
+        "id": 1533750, 
+        "submitted_at": "2018-04-13T21:31:33.570Z", 
+        "title": "Building human-centered open projects to support journalism"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Let’s talk about how user tests + reader interviews can help you get a sense of product direction, how your content fits into people’s lives, initial impressions people have on your organization, what people in your community think is important to be covered and more -- and how it can be simpler than you think. \n\nIn this session, we’ll discuss use cases for different kinds of user tests / interviews and easy ways to integrate them into your product development and reader engagement processes. \n\nCome with an idea or two about something you’d like to know about your readers or get reader feedback on and at the end of the session we can explore some scenarios and possible solutions.", 
+        "facilitator": "Carolyn Gearig", 
+        "facilitator_twitter": "carolyngearig", 
+        "id": 1533746, 
+        "submitted_at": "2018-04-13T21:13:21.929Z", 
+        "title": "Thinking about reader interviews + user testing in journalism"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Everyone craned their necks to watch the crash recent changes to Facebook’s News Feed have caused (and maybe avoided getting tangled in the wreckage). In the meantime, Google has been rolling out discovery options of its own. That still leaves content creators with one question: How can I develop my audience and become less dependent on the two big referrers?\n\nIn this session we will focus on tools that help you understand your audience better. Concrete examples will put you in the position to make better decisions tomorrow. A breakout session will give you the chance to share your knowledge and learn from peers. At the end of this session, you should be able to shout enthusiastically: \"We own our audience now!\"", 
+        "facilitator": "Kelsey Arendt", 
+        "facilitator_twitter": "KelseyLArendt", 
+        "id": 1533725, 
+        "submitted_at": "2018-04-13T21:25:42.008Z", 
+        "title": "Do you still own your audience?"
+    }, 
+    {
+        "cofacilitator": "Hannah Wise, Julia Chan, Helga Salinas, and Alyssa Zeisler", 
+        "cofacilitator_twitter": null, 
+        "description": "We’ll tackle everything you ever wanted to know about working with audience engagement but were too afraid – or didn’t even know – to ask. Participants will break into groups and be assigned a series of stories or editorial project for a given news organization, complete with story summaries, descriptions of relevant basic visual/multimedia elements and audience profiles. \n\nThe challenge? Coming up with a content and engagement plan that showcases the stories, distributes them to relevant platforms and is designed to meet your metrics for success (whatever those may be – coming up with them is part of the challenge!) At the end, we’ll ask the groups to present their plans and how the process through which they arrived at their conclusions.", 
+        "facilitator": "Jake Grovum", 
+        "facilitator_twitter": "jgrovum", 
+        "id": 1533724, 
+        "submitted_at": "2018-04-13T21:16:19.519Z", 
+        "title": "~Engaging~ with Your Engagement Team: Help the Audience Team Help You"
+    }, 
+    {
+        "cofacilitator": "Eric Van Zanten", 
+        "cofacilitator_twitter": "evanzanten", 
         "description": "We often write about how social media platforms take people’s data and misuse it. But can we promise that data we collect won't be equally misused? Is there a way that we can we collect information while making it harder for anyone – hacker, corporate owner, ad tech embedded in our pages, unthinking co-worker – to misuse or use it without clear consent?\n\nThis collaborative session will discuss some of the issues surrounding both intentional and automated data capture, and try to create an ethical framework for individual journalists and companies to follow. \n\nWhether we’re asking someone for their personal story, or tracking subscribers on site, we need to spend more time considering data protection and privacy at the start of any project.", 
         "facilitator": "Andrew Losowsky", 
         "facilitator_twitter": "losowsky", 
@@ -47,6 +94,15 @@
         "id": 1533609, 
         "submitted_at": "2018-04-13T20:11:19.944Z", 
         "title": "More than two sides to the coin"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Local news is in trouble. We get it. And it rightfully makes us sad. But that isn't stopping many of our best and brightest from decamping for the coasts, where better pay, comparative stability, and communities of like-minded news nerds beckon from enclaves like New York and D.C.\n\nNo judgment. I worked at coastal media organizations for almost 10 years. And not for no reason: From The Times and the Post to small, nimble startups, the benefits of working in coastal newsrooms are very real. Local newsrooms have advantages, too, but on many fronts they just can't compete.\n\nBut that doesn't mean we can't help them try.\n\nIn this session, we'll discuss what local newsrooms can do to successfully recruit people like you — some of the best, brightest and most forward-thinking folks in the business. We'll be mindful of constraints (big salaries, expensive benefits) and focus on things hiring managers can realistically implement: Cultural adjustments. Workplace policies. Lifestyle perks. Bulldozing bureaucratic barriers. And whatever else we think of.\n\nOur discussion will result in a how-to document that will be shared far and wide with local newsroom managers, explaining realistic, actionable things they can do to create an environment news nerds want to work for.", 
+        "facilitator": "Chase Davis", 
+        "facilitator_twitter": "chasedavis", 
+        "id": 1533591, 
+        "submitted_at": "2018-04-13T21:23:26.597Z", 
+        "title": "Leave the coasts."
     }, 
     {
         "cofacilitator": null, 
@@ -163,12 +219,30 @@
     }, 
     {
         "cofacilitator": null, 
+        "description": "Do I use \"display\" or \"position\" for that? Sometimes you just want to make sure your newsroom tool does it's job and not have to worry about what it looks like. Well, your days of worrying about front-end design could soon be over. Slack's suite of API's are vast and the documentation is one of the best of any API out there. In this session, I'll quickly demo most of the different methods of interaction available with Slack's APIs. We'll build a simple graphics request form together as a group. When that's finished, we'll brainstorm ideas for other newsroom tools and discuss how our front-end needs could be met by one or more of the methods we've seen so far. We'll be using Flask to do it, so basic Flask and Python knowledge will be required.\n\nSlack has a number of features you might need from a front-end design already included. Unprompted function calls? Slack has slash commands. Do they support arguments? You bet they do. Filling out forms? Slack's got that too. Giving personal user feedback when a script runs? Ephemeral messages make sure that only a single user can see the notification without ever having to leave the channel. Learn about all these and more in the session.", 
+        "facilitator": "Andrew Briz", 
+        "facilitator_twitter": "brizandrew", 
+        "id": 1533253, 
+        "submitted_at": "2018-04-13T21:10:33.489Z", 
+        "title": "Who Needs A Front End? – How To Leave The UX of Newsroom Tools to Slack"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "SOCRATES:\nA man recently threw me into confusion by rudely asking me “How, if you please, do you know, what sort of things are beautiful and ugly? For, come now, could you tell me what the beautiful is?”  I was at a loss and could not answer him properly.\nCome, then, Hippias, let me rehearse:  I shall say that if a beautiful person is beautiful, there is something by reason of which he or she would be beautiful.\n“How charming you are, Socrates!” he will say. “But is not a beautiful horse beautiful, which even the god praised in his oracle?”\nWhat shall we say, Hippias? How could we dare to deny that the beautiful thing is beautiful?\n\nHIPPIAS:\nQuite true, Socrates, for very beautiful horses are bred in our country.\n\nSOCRATES:\n“Very well,” he will say, “and how about a beautiful lyre? Is it not beautiful?”\nShall we agree, Hippias?\n\nHIPPIAS:\nYes.\n\nSOCRATES:\nAfter this, then, the man will ask, I am sure, “You most excellent man, how about a beautiful pot?”\n\nHIPPIAS:\nWhat an uncultivated fellow!\n\nSOCRATES:\nThat’s the kind of person he is, Hippias, not elegant, but vulgar, thinking of nothing but the truth.\n\n  -- Liberal paraphrasing of Plato's *Hippias Major*, 286d - 288e\n\n\nIt's hard enough for many of us to just explain what we do for a living; how could we expect people outside our field to understand that there's actually beauty in it?  Because there is, isn't there?\n\nLet's gather for a little symposium on the subject. We will start with a few presentations by fellow attendees on concrete examples of beauty they have discovered in their own work: a perfect one-liner, an exquisite pivot table, an interface that brings harmony to an unruly application.  Then we'll open the floor to more examples and discussion.  \n\nWe will enjoy the beauty of watching each other describe the beautiful, and find courage to share our own unsung experiences of beauty.  We'll draw connections between beauty in our fields and others.  We'll resolve to dig around in our old work for treasures.  We'll consider ways we can keep our most beautiful creations close by in our everyday work, as private inspiration and affirmation.\n\nIf you are interested in being one of our presenters, contact me at scott.blumenthal@nytimes.com.", 
         "facilitator": "Scott Blumenthal", 
         "facilitator_twitter": "blumysden", 
         "id": 1533201, 
         "submitted_at": "2018-04-13T16:25:56.332Z", 
         "title": "\"Is not a beautiful function beautiful?\""
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "\"Service journalism\" used to cover the latest tips on saving money on groceries or hacking your frequent flyer miles, but as news organizations become better at building and maintaining databases and news tools, they can actually empower their audiences in new ways, whether that's with premium databases, specialized software, or other new revenue streams tied to digital products. Come discuss what newsrooms of all sizes can learn from software-as-a-service business, including both the opportunities and challenges that business brings. Will include real numbers and a case study from an organization that went all-in on this approach, including details on some of the more unexpected challenges.", 
+        "facilitator": "Michael Morisy", 
+        "facilitator_twitter": "morisy", 
+        "id": 1533183, 
+        "submitted_at": "2018-04-13T21:19:03.942Z", 
+        "title": "Journalism-as-a-Service: Building and running paid software and data tools within a news organization"
     }, 
     {
         "cofacilitator": "Arjuna Soriano, Ha-Hoa Hamano", 
@@ -584,7 +658,7 @@
     }, 
     {
         "cofacilitator": "Marie Connelly", 
-        "cofacilitator_twitter": null, 
+        "cofacilitator_twitter": "eyemadequiet", 
         "description": "We’ve all heard the folk wisdom that “people hate change”, but, well… do we? We’re all successfully navigating change every day, yet the narrative that people are generally stubborn or unable to adapt persists.\n\nUsing a series of conversational exercises, we’ll explore cultural and personal attitudes around handling change. What are the stories we believe about our own resilience, and where did they come from? How do our views affect how we plan projects and trainings for our teams? What might change in our design and planning approaches as we shift our understanding of people’s capacity for integration of new information?  How can we help our colleagues and friends build resilience and trust in their own capabilities?", 
         "facilitator": "Eileen Webb", 
         "facilitator_twitter": "webmeadow", 
