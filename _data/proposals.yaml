@@ -1,5 +1,32 @@
 [
     {
+        "cofacilitator": null, 
+        "description": "'Membership' and 'reader revenue' have become media buzzwords. In this session, Anika Gupta, a researcher with the Membership Puzzle Project in New York, will review the project's research, including our work studying membership in analogous (nonmedia) spaces, the difference between 'thick' and 'thin' models of membership, and how to design a program in partnership with your community.  We'll review some of MPP's user research materials and findings, and then create opportunities for workshopping and small team exercises focused on designing the right membership program and offerings for your space and organization.", 
+        "facilitator": "Anika Gupta", 
+        "facilitator_twitter": "DigitalAnika", 
+        "id": 1533446, 
+        "submitted_at": "2018-04-13T18:12:37.506Z", 
+        "title": "Radical listening - How do you design a media membership program focused on participation"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "I don't know about you, but I have a journalism playlist. It's pretty dorky and fairly wide ranging: from Depeche Mode's \"Policy of Truth\" to Drake's \"Headlines.\" So, what would be on a SRCCON playlist? Yeah, probably a lot of Prince (bc Minneapolis)—but what else? Gang Starr's \"Code Of The Streets\"? The Who's \"Going Mobile\"? Let's come together, make a list, program it, and share it out with the rest of the conference after.", 
+        "facilitator": "Julia B.", 
+        "facilitator_twitter": "juliachanb", 
+        "id": 1533397, 
+        "submitted_at": "2018-04-13T18:06:18.428Z", 
+        "title": "If SRCCON had a soundtrack, what would it sound like? Let's make one!"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Civil will be an open publishing platform built on journalistic ethics and standards. It is powered by a blockchain-based, cryptoeconomic system using CVL, a dedicated token; this token enables newsmakers and citizens (readers) to co-own and self-govern the platform. We'll discuss reader roles vs. creator roles, i.e. community-approved journalists, as well as developers who build new tools and experiences based on broad ecosystem demand. \n\nAnd we'll discuss the critcal role of the CVL token, which is not only the mechanism by which our community will connect with the Ethereum blockchain. The token also allows us to economically incentivize actions that result in quality journalism in Civil’s marketplace, and to make it prohibitively difficult — and expensive — for bad actors and trolls to emerge.", 
+        "facilitator": "Christine Mohan", 
+        "facilitator_twitter": "christinemohan", 
+        "id": 1533297, 
+        "submitted_at": "2018-04-13T17:33:15.494Z", 
+        "title": "Blockchain Business Models: Creating Sustainable Journalism Platforms with Cryptoeconomics"
+    }, 
+    {
         "cofacilitator": "Amanda Hicks", 
         "cofacilitator_twitter": null, 
         "description": "Are you tired of wrestling with endless JavaScript 'pixels' and awful ad services? With the attention on Facebook and the advent of European GDPR regulations, the digital ads marketplace sits on a knife's edge. For the first time in nearly a decade the user-data-driven targeted-programmatic ad space is in real danger. But also open to real change. Now is the moment for intelligent publishers to put a hand back on the wheel and reassert their ethical imperative in the next generation of ad tech.\n\nWe will be bringing a proposed draft for API-driven advertising to this session. We'll run through what we have, the thinking behind it and the types of products we believe the API schema can drive. We'll end the session by sitting down with participants and working through criticism and ideas for alterations. Our goal is to build a schema that content management systems and advertising back ends can share, allowing different publishers and third parties to communicate server to server. Then at the end of the session we'll take the beta version of the JSON schema and open source it on GitHub.", 
@@ -20,12 +47,30 @@
     }, 
     {
         "cofacilitator": null, 
+        "description": "We'll discuss concepts and best practices around testing new ideas for the news through prototyping — making the minimum of your minimum viable product. What's the best workflow to move from crazy idea to barebones prototype to production product? And how can you involve your readers and audience in this process?", 
+        "facilitator": "Andrew McGill", 
+        "facilitator_twitter": "andrewmcgill", 
+        "id": 1533166, 
+        "submitted_at": "2018-04-13T18:04:04.929Z", 
+        "title": "Prototyping the News: Using Proof-of-Concepts to Prove Readers Actually Like Your Idea"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "When most journalists listen, all we are doing is waiting for the next opportunity to ask a question of a source or community member. Rarely do we employ active listening - a practice that could help us when trying to reach neglected audiences. Through a series of guided exercises in small groups, we will talk about how _really_ listening can change the way journalists do their jobs and about the culture change required in newsrooms to achieve this goal. Our jumping-off point will be the findings from a spring thought leader summit that the American Press Institute held in Nashville. We expect participants will have many of their own experiences - both highs and lows - to share with each other.", 
         "facilitator": "Amy L. Kovac-Ashley", 
         "facilitator_twitter": "terabithia4", 
         "id": 1533032, 
         "submitted_at": "2018-04-13T14:27:43.863Z", 
         "title": "Talk Less. Listen More. How Listening Can Help Journalists Begin to Repair Relationships with Marginalized or Ignored Communities"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "There are so many ways to tell your story or to visualise your data. But how do you know which one fits best for your story?\n\nIn this session we are going to find a way that can help journalists go from story idea to the best way to tell it. We'll end up with a tool that can be used within your organisation.", 
+        "facilitator": "Daan Louter", 
+        "facilitator_twitter": "daanlouter", 
+        "id": 1533022, 
+        "submitted_at": "2018-04-13T18:18:22.401Z", 
+        "title": "Finding the best way to tell your story"
     }, 
     {
         "cofacilitator": null, 
@@ -121,6 +166,16 @@
         "title": "Kickoff Kit"
     }, 
     {
+        "cofacilitator": "Anna Boone", 
+        "cofacilitator_twitter": null, 
+        "description": "After spending a year in the journalism industry after graduating from schools in flyover country, we’ve realized that students wanting to go into more technical fields in journalism have a lot more obstacles to face than our classmates who want to go into traditional media. Additionally, many journalism schools don’t have the resources to prepare students for the industry, so the burden often lies on the student to get the exposure needed to get into this field. This does not only discourage talented young people from entering into the field, but it also creates a homogenous culture in tech journalism.\n\nWe’ll chat a little bit about our challenges and successes we’ve faced, and then try to find ways for how we can mentor current students who don’t have those resources locally to break into tech journalism. We’ll also chat about how to help students learn on the job.", 
+        "facilitator": "Rahul Mukherjee", 
+        "facilitator_twitter": "@ruhlmuk", 
+        "id": 1531959, 
+        "submitted_at": "2018-04-13T17:45:02.174Z", 
+        "title": "A year in, we still feel light years away."
+    }, 
+    {
         "cofacilitator": "Steven Rich", 
         "cofacilitator_twitter": null, 
         "description": "Most journalism conferences these days have a session about mental health. A lot of us have stressful jobs, and coming up with strategies to decompress from that is great. But what if you have a chronic mental illness or condition that’s unrelated to (or exacerbated by) your work?\nOr you’re not sure, but yoga and kale aren’t cutting it?\n\nIn this session, we’ll go beyond self-care to talk about strategies for managing chronic jerkbrains in, and outside of, the newsroom. From cognitive behavioral therapy to grounding, let’s share practical ways to be your best at work and in life. This session will be completely off-the-record.", 
@@ -148,6 +203,15 @@
         "id": 1531645, 
         "submitted_at": "2018-04-12T18:39:24.731Z", 
         "title": "Using poetry to your advantage"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "One of the strengths of our team at CBC is that we are very aware of each other's abilities (technical and non-technical) and interests (technical and around story).\n\nBecause of this, we are able to give honest and constructive feedback on a regular basis — whether it be on story ideas we are pitching to the group, or the specifics of the code we are writing. This session will cover ways in which individual team members can help develop overall stronger teams. In additional, the group will work to develop a best practises guidebook.", 
+        "facilitator": "Jessica (Jessie) Willms", 
+        "facilitator_twitter": "jessiewillms", 
+        "id": 1531569, 
+        "submitted_at": "2018-04-13T16:58:56.252Z", 
+        "title": "How to build a strong, inclusive teams from the ground up!"
     }, 
     {
         "cofacilitator": "Jeff Sisson", 
@@ -439,6 +503,15 @@
         "id": 1511483, 
         "submitted_at": "2018-04-03T04:45:00.606Z", 
         "title": "Leading News Org to Water by Hacking Our Hiring"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "If you are a news nerd, you probably know how to make data graphics in just a few lines of code, whether in d3, R, or python. But computer tools can restrict your creativity by making you think inside the box, both figuratively and literally. \n\nIn this session, we'll bust out the markers, paper, stickers, string, balloons, and other fun stuff. We'll practice iterating on ideas, freed from the computer. Inspired by the work of Mona Chalabi (who uses hand-drawn visualizations to make her work more accessible), Stefanie Posavec and Giorgia Lupi (who embarked on a year-long personal data collection postcard project which became the book Dear Data), and Jose Duarte (of Handmade Visuals), we will play with color, shape, size, and texture. \n\nI'll provide some supplies, but you're welcome to bring your own! Do you have a pack of Prismacolor markers burning a hole in your pocket? A washi tape collection that never sees the light of day? We can visualize data with that!", 
+        "facilitator": "Amelia McNamara", 
+        "facilitator_twitter": "AmeliaMN", 
+        "id": 1510518, 
+        "submitted_at": "2018-04-13T18:06:09.237Z", 
+        "title": "Visualizing data by hand"
     }, 
     {
         "cofacilitator": "Becca Aaronson, Shannan Bowen", 
