@@ -1,5 +1,25 @@
 [
     {
+        "cofacilitator": "Eric Van Zanten", 
+        "cofacilitator_twitter": null, 
+        "description": "We often write about how social media platforms take people’s data and misuse it. But can we promise that data we collect won't be equally misused? Is there a way that we can we collect information while making it harder for anyone – hacker, corporate owner, ad tech embedded in our pages, unthinking co-worker – to misuse or use it without clear consent?\n\nThis collaborative session will discuss some of the issues surrounding both intentional and automated data capture, and try to create an ethical framework for individual journalists and companies to follow. \n\nWhether we’re asking someone for their personal story, or tracking subscribers on site, we need to spend more time considering data protection and privacy at the start of any project.", 
+        "facilitator": "Andrew Losowsky", 
+        "facilitator_twitter": "losowsky", 
+        "id": 1533687, 
+        "submitted_at": "2018-04-13T21:00:07.341Z", 
+        "title": "Can we really be trusted with people’s data?"
+    }, 
+    {
+        "cofacilitator": "Jake Grovum", 
+        "cofacilitator_twitter": null, 
+        "description": "Communication is one of the most basic things we do every day. But communicating at work can be surprisingly difficult – especially when working across teams, across time zones or if you are the team working in the larger organization. That’s where this session comes in. It’s time to actually talk about how we talk to each other. \n\nBy the end of the session, participants should leave with some practical tips and tools for facilitating communication back in their own workplaces.", 
+        "facilitator": "Joanna Kao", 
+        "facilitator_twitter": "joannaskao", 
+        "id": 1533675, 
+        "submitted_at": "2018-04-13T21:00:37.145Z", 
+        "title": "Sync, not sink: Encouraging open communication within your team and organisation"
+    }, 
+    {
         "cofacilitator": null, 
         "description": "A lot of newsrooms and tech organizations tend to depend on diversity committees to address the lack of diversity among staff. This session will be a discussion to explore questions around how to have a diversity committee can be more effective to bring about change. Questions including:\n1. Who should be part of a diversity committee? \n2. Who should be doing the work?\n3. How can we get more management participation in the committee?\n4. What type of diversity initiatives can be effective?\n5. What can be done beyond diversity committee?\n6. How did we even get here?", 
         "facilitator": "Moiz Syed", 
@@ -17,6 +37,16 @@
         "id": 1533631, 
         "submitted_at": "2018-04-13T19:56:30.534Z", 
         "title": "Unionize! Part two!"
+    }, 
+    {
+        "cofacilitator": "Candice Fortman", 
+        "cofacilitator_twitter": null, 
+        "description": "We are told there are two sides to every story. But really, there are several and many voices which should be heard are often overlooked by journalists in favor of those who are either louder or more obvious. Looking at the Parkland #MeToo stories, we will talk about how minority were included in the narrative, what we did to elevate those voices and lessons we taught our journalists.", 
+        "facilitator": "Kristyn Wellesley", 
+        "facilitator_twitter": "kriswellesley", 
+        "id": 1533609, 
+        "submitted_at": "2018-04-13T20:11:19.944Z", 
+        "title": "More than two sides to the coin"
     }, 
     {
         "cofacilitator": null, 
@@ -66,6 +96,16 @@
         "title": "Radical listening - How do you design a media membership program focused on participation"
     }, 
     {
+        "cofacilitator": "Tyler Chance", 
+        "cofacilitator_twitter": null, 
+        "description": "What have you built that’s now ignored? What took off and is now central to your newsroom’s daily grind? What was the difference? \n\nWe’re a product manager in New York and an editor in D.C., on the front lines of making and deciding to use a variety of tools, from those that help with daily coverage planning to chart-making to immersive storytelling. Let's talk about what's lived on and what's languished so that we can crack the code on building tools journalists actually use.", 
+        "facilitator": "Becky Bowers", 
+        "facilitator_twitter": "beckybowers", 
+        "id": 1533432, 
+        "submitted_at": "2018-04-13T20:34:19.884Z", 
+        "title": "Sure, You're Making Tools. But Do People Use Them?"
+    }, 
+    {
         "cofacilitator": null, 
         "description": "I don't know about you, but I have a journalism playlist. It's pretty dorky and fairly wide ranging: from Depeche Mode's \"Policy of Truth\" to Drake's \"Headlines.\" So, what would be on a SRCCON playlist? Yeah, probably a lot of Prince (bc Minneapolis)—but what else? Gang Starr's \"Code Of The Streets\"? The Who's \"Going Mobile\"? Let's come together, make a list, program it, and share it out with the rest of the conference after.", 
         "facilitator": "Julia B.", 
@@ -83,6 +123,15 @@
         "id": 1533389, 
         "submitted_at": "2018-04-13T19:41:00.616Z", 
         "title": "New phone, who dis: Building intimate audience relationships without the creep factor."
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "It happens all the time. We parachute into a community for a short time because something \"newsworthy\" happens rather than coming in to stay and maintain a steady relationship. Think Sutherland Springs and other locales of mass shootings. Think rural America and the 2016 presidential election. Think of the minority areas of our communities that remain underserved, underrepresented and without coverage aside from tragedies. \n\nHow do we put down the ripcord and instead pull up a chair in these communities? \n\nLet's spend some time learning how to do a baseline assessment of our news organization's coverage of diverse communities using analytics tools we already use everyday to identify blind spots. Let's arm ourselves with actionable strategies we can use when we return to our newsrooms and can use to have these difficult conversations about our coverage's shortcomings with top decision-makers. And finally, let's devise a set of best practices to engage diverse communities in the interim between news events and build lasting future relationships.", 
+        "facilitator": "Dana Amihere", 
+        "facilitator_twitter": "write_this_way", 
+        "id": 1533349, 
+        "submitted_at": "2018-04-13T20:53:36.348Z", 
+        "title": "Managing the blind spots in community news coverage"
     }, 
     {
         "cofacilitator": null, 
@@ -120,6 +169,16 @@
         "id": 1533201, 
         "submitted_at": "2018-04-13T16:25:56.332Z", 
         "title": "\"Is not a beautiful function beautiful?\""
+    }, 
+    {
+        "cofacilitator": "Arjuna Soriano, Ha-Hoa Hamano", 
+        "cofacilitator_twitter": null, 
+        "description": "Voice interfaces are not the future. They are here. Today. This will change how we write, communicate, develop, and design. This session will take a look at how voice is affecting journalism, how our different newsrooms are reacting to the new platform, and the implications for the future. We will discuss learnings, challenges, successes, failures, opportunities, and false starts. We will attempt to predict the future of the voice space with a brainstorming exercise followed by prototyping a voice interface for news.", 
+        "facilitator": "Yuri Victor", 
+        "facilitator_twitter": "yurivictor", 
+        "id": 1533168, 
+        "submitted_at": "2018-04-13T15:28:44.128Z", 
+        "title": "Voice interfaces and their impact on journalism"
     }, 
     {
         "cofacilitator": null, 
@@ -338,6 +397,15 @@
     }, 
     {
         "cofacilitator": null, 
+        "description": "As non-editorial design/tech employees at news orgs, we’re often expected to follow the same social media policies as reporters and editors, and limit our involvement in anything that would be considered biased. \n\nI work on the design/tech team of a news org. I don’t make decisions about our content, so part of me feels like I should be able to express myself freely. We also have many devs and designers who previously didn’t work in journalism and may not realize this is something they’re getting into by working at a news organization. On the other hand, I know that anything I say could be reflected on the company as a whole, and many news consumers don’t differentiate between editorial and non-editorial employees.  \n\nThe value of non-bias/objectivity, whether or not objectivity is possible, and the ways that these policies impacts those with marginalized identities is a hot topic of conversation. It has unique implications for news employees who don’t make editorial decisions. Let’s discuss what the policies are where we work, to what extent we think we should be obligated to follow them, and what we think they should be.", 
+        "facilitator": "Carolyn Gearig", 
+        "facilitator_twitter": "@carolyngearig", 
+        "id": 1531270, 
+        "submitted_at": "2018-04-13T21:03:16.119Z", 
+        "title": "What does objectivity mean when you’re not a reporter?"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "The command line is a black box (a white box on a Mac) that holds so much power but is very inaccessible to newcomers.  Personally, it has taken me years to feel comfortable with it, and I still regularly learn things that wow me and improve my workflow.  Being comfortable with the command line can make you more efficient in your work, might even be fun, and people in coffee-shops will think you are some kind of \"hacker\".\n\nHow can we shed light on this amazing, scary black box?  What are the things you do to make the command line more fun?  What scares you about the command line?  How did you go from someone that just copies and pastes commands to one that writes commands from scratch?  How do we find answers to our questions about the command line?  And what's the difference between the command line, Terminal, shell, bash, Powershell, and many other weird words?\n\nBeginners and experts alike, let's share our real world experience with the command line and raise everyone's ANSI boats.", 
         "facilitator": "Alan Palazzolo", 
         "facilitator_twitter": "zzolo", 
@@ -390,6 +458,15 @@
         "id": 1528836, 
         "submitted_at": "2018-04-11T20:55:16.096Z", 
         "title": "“I know other people care about this”, now what do I do?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Working in journalism is a lot like flying an airplane: \n- The stakes are high\n- The work matters a lot\n- Sometimes the steps are tedious\n\nSometimes journalists forget stuff. This can lead to things like:\n- Mistakes\n- Messy, stressful project launches\n- Inefficient workflows\n- Frustration, tears, questioning whether you should even be flying airplanes (or working in a hospital or doing journalism) in the first place\n\nJust like in aviation, making and using checklists can help avoid mistakes and help you work together better with other people. Checklists can also help standardize processes and make decisions more transparent. Think about things like:\n- Writing stories\n- Designing layouts\n- Launching projects\n- Hiring (particularly hiring well)\n- Onboarding/offboarding\n- Running and following up after meetings\n- Enjoying a work life with less frustration/tears\n\nLearn how (and where and when) to use checklists for:\n- Yourself and your day-to-day work\n- Your team\n- Your projects\n- Your co-workers\n- Your organization", 
+        "facilitator": "Hannah Birch", 
+        "facilitator_twitter": "hannahsbirch", 
+        "id": 1527414, 
+        "submitted_at": "2018-04-13T20:40:50.265Z", 
+        "title": "Use Checklists to Save You From Yourself"
     }, 
     {
         "cofacilitator": "Julia Haslanger", 
@@ -486,6 +563,16 @@
         "title": "Welcome to Me: Managing with Openness"
     }, 
     {
+        "cofacilitator": "Kai Teoh", 
+        "cofacilitator_twitter": null, 
+        "description": "For the immigrants: There are tons of us, but probably not enough under one roof to form a functional community. So let's get together and chat about how we can keep our heads above water while traversing a unique set of problems: from taking additional care to understand and report on issues that we probably haven’t grown up around, to working extra hard to find and land a job that sponsors a visa, and to dealing with entirely new identities.\nFor the allies: We know you care, we know you want to be supportive, but may not always know how. Join us so you can understand and support us in our struggles that we do not often feel like talking about. \nIn this two-part session, we will discuss how to navigate the (perhaps steep) learning curve of surviving and thriving in a culture that may be utterly unfamiliar, and then collectively devise and document strategies to better support immigrant journalists.", 
+        "facilitator": "Disha Raychaudhuri", 
+        "facilitator_twitter": "Disha_RC", 
+        "id": 1520944, 
+        "submitted_at": "2018-04-13T20:47:50.290Z", 
+        "title": "Building a community guide for immigrant journalists: How to survive and support"
+    }, 
+    {
         "cofacilitator": "Sarah Cohen", 
         "cofacilitator_twitter": null, 
         "description": "Data journalism education has problems -- too few places teach it, too few faculty have the skills, and there's precious little consensus about what students need. Tools? Thinking? Case studies? Story assignments? Simultaneously, academic publishing is beyond broken: too slow to keep up, too expensive for students to afford. So we're on a mission: Make the mother of all modern data journalism textbooks. And, at the same time, publish it so it can get to the most students, with the most up-to-date materials, without academic publishing price barriers. But how? We need your help. What do we include? How do we get it to people? We have ideas, we want to hear yours. Let's make a table of contents together!", 
@@ -524,6 +611,15 @@
         "id": 1518405, 
         "submitted_at": "2018-04-06T21:42:35.295Z", 
         "title": "Toward an ethical framework for engagement"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Can we create more educated news consumers one class room at a time? We will discuss an experiment directly out of our newsroom. We are creating lesson plans to accompany an upcoming podcast series on education. Each episode has a lesson plan aimed at middle and HS students.\n\nThe Theory: The lesson plans give journalist/news organizations an opportunity to explain our work and also help students and parents understand how journalism works. This could also help extend the life of our content and expand our audience. Let’s work together to expand this concept, consider the tech and think of how this could work on in newsroom and schools across the country.", 
+        "facilitator": "Candice D Fortman", 
+        "facilitator_twitter": "cande313", 
+        "id": 1518392, 
+        "submitted_at": "2018-04-06T18:55:28.631Z", 
+        "title": "Homeroom Journalism: Creating Lesson Plans for Schools with Content from Your Station"
     }, 
     {
         "cofacilitator": null, 
