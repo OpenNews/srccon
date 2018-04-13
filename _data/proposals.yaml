@@ -1,6 +1,63 @@
 [
     {
         "cofacilitator": null, 
+        "description": "A lot of newsrooms and tech organizations tend to depend on diversity committees to address the lack of diversity among staff. This session will be a discussion to explore questions around how to have a diversity committee can be more effective to bring about change. Questions including:\n1. Who should be part of a diversity committee? \n2. Who should be doing the work?\n3. How can we get more management participation in the committee?\n4. What type of diversity initiatives can be effective?\n5. What can be done beyond diversity committee?\n6. How did we even get here?", 
+        "facilitator": "Moiz Syed", 
+        "facilitator_twitter": "moizsyed", 
+        "id": 1533634, 
+        "submitted_at": "2018-04-13T19:58:01.320Z", 
+        "title": "How can a Diversity Committee change the deep seated problem of racism?!"
+    }, 
+    {
+        "cofacilitator": "Akil Harris", 
+        "cofacilitator_twitter": null, 
+        "description": "This session will continue and build on the incredible discussion we had last year at SRCCON about the pros and cons of unionizing a newsroom. We are now much further along in our union bargaining efforts at The Intercept and have been exposed to and tackling new problems including how to bargain with management effectively, and maintain the unit's solidarity when the going gets tough.", 
+        "facilitator": "Moiz Syed", 
+        "facilitator_twitter": "moizsyed", 
+        "id": 1533631, 
+        "submitted_at": "2018-04-13T19:56:30.534Z", 
+        "title": "Unionize! Part two!"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Newsrooms are increasingly collaborative with (1) other teams in the newsroom (i.e. audience teams that need to work with video teams to produce social content) and (2) teams across a media company (i.e working with technology teams on building out the CMS). The development of bridge roles -- where people move from a data team into the newsroom, or from the newsroom into a product management role -- is the most recent example of this trend. These roles may or may not have people reporting into them (requiring direct, downward management) but almost certainly have other people/teams they have dependencies on.  How can you make sure to get things done even when you don't have the authority to do so?\n\nLearn how to understand/read people's communication preferences (we'll do some group work), and how this knowledge can (read: should) be incorporated into your management style.", 
+        "facilitator": "Alyssa Zeisler", 
+        "facilitator_twitter": "a_zeisler", 
+        "id": 1533581, 
+        "submitted_at": "2018-04-13T19:31:31.004Z", 
+        "title": "Getting sh*t done without authority"
+    }, 
+    {
+        "cofacilitator": "Katie Park", 
+        "cofacilitator_twitter": null, 
+        "description": "We're humans who are constantly changing, and our work life should be, too. Whether you're taking a new job, switching to remote work or returning to the office after taking leave, how can you make that transition successful?\n\nWe'll discuss strategies for dealing with everything from a moving across the country to a move across the company. The first step: Planning a graceful exit that leaves your current employer and/or team with good feelings about your time there. Then, we'll move on to the new gig. What's the best goal to set in your first day, week and month at a new workplace? What's the ideal way to introduce yourself to your new manager and best enable them to help you meet your career goals? How do you get yourself up to speed, whether you're starting at a new workplace or returning from leave?\n\nWe'll also explore how organizations can best support new workers and make sure they have what they need to be a successful team member — and adapt to the changes that they will inevitably bring to the organization. Let's find new ways to support one another in times of transition.", 
+        "facilitator": "Darla Cameron", 
+        "facilitator_twitter": "darlacameron", 
+        "id": 1533570, 
+        "submitted_at": "2018-04-13T20:01:04.942Z", 
+        "title": "How to make a big transition and maintain your cool"
+    }, 
+    {
+        "cofacilitator": "Samuel Jacoby", 
+        "cofacilitator_twitter": null, 
+        "description": "Our readers are on their phones. The numbers show it and we all know it. So why are we so bad at developing and designing for the mobile news experience? It’s not that we’re bad at our jobs. It’s because being \"mobile first\" is surprisingly hard to do. \n\nDeveloping for news means meeting readers wherever they might be, on whatever device they may be using — new or old, small or large, fast or slow. As projects grow more ambitious, it’s more and more challenging to support the full diversity of reader experiences.\n\nThere are plenty of existing platforms that aim to help make the mobile development process more robust and efficient. However, these tools are geared towards the typical case of mobile development, where a developer has fine-grained control over a website or app at the platform level. These platforms don't work as well (or at all) in a newsroom, where interactive content is often constrained by a larger publishing platform.", 
+        "facilitator": "Paul Murray", 
+        "facilitator_twitter": "plmrry", 
+        "id": 1533527, 
+        "submitted_at": "2018-04-13T18:59:26.089Z", 
+        "title": "Tales from the Crypt: A Manual for \"Mobile First\" Development"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "There's more than one way to build a graphic — but which one is best (for you)? We'll discuss two paradigms for making charts, apps and other nerds nerd tasks: automate as much as you can, even if you have to sacrifice some design elegance, or take the time to make the thing perfect, even if you have to sacrifice reproducibility and time. What are the pros and cons of each approach, and to what degree can and should we find a compromise in the middle?\n\nAfter a discussion, we'll break into small groups and brainstorm the best workflows for some sample datasets, then come together and discuss the ideas. Participants will come away with not only a better understanding of the philosophical issue, but also ideas about particular tools they could incorporate into their workflow.\n\nIf you'd like to help present, contact me at dhmontgomery@gmail.com.", 
+        "facilitator": "David Montgomery", 
+        "facilitator_twitter": "dhmontgomery", 
+        "id": 1533508, 
+        "submitted_at": "2018-04-13T19:39:09.683Z", 
+        "title": "Automate, bespoke, compromise: The ABCs of news nerd workflows"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "'Membership' and 'reader revenue' have become media buzzwords. In this session, Anika Gupta, a researcher with the Membership Puzzle Project in New York, will review the project's research, including our work studying membership in analogous (nonmedia) spaces, the difference between 'thick' and 'thin' models of membership, and how to design a program in partnership with your community.  We'll review some of MPP's user research materials and findings, and then create opportunities for workshopping and small team exercises focused on designing the right membership program and offerings for your space and organization.", 
         "facilitator": "Anika Gupta", 
         "facilitator_twitter": "DigitalAnika", 
@@ -16,6 +73,25 @@
         "id": 1533397, 
         "submitted_at": "2018-04-13T18:06:18.428Z", 
         "title": "If SRCCON had a soundtrack, what would it sound like? Let's make one!"
+    }, 
+    {
+        "cofacilitator": "Hannah Young", 
+        "cofacilitator_twitter": null, 
+        "description": "Our phones are incredibly intimate devices. We lovingly cradle them and stare into their gently glowing screens at all hours of the day. In this session, we will explore methods for using that intimacy to build authentic personal relationships with audiences via SMS – without being spammy or creepy.\n\nParticipants should bring a recent or upcoming story, and together we will conceive, script, and prototype a SMS campaign to connect with your audience.\n\nWe’ll touch on topics including: message tone and frequency, what to send people and when, choosing the right technology platform, potential costs, legal considerations, as well as common pitfalls and tactics for overcoming them. We’ll also share some of our data on how building respectful SMS products has impacted membership.", 
+        "facilitator": "Sam Ward", 
+        "facilitator_twitter": "sward13", 
+        "id": 1533389, 
+        "submitted_at": "2018-04-13T19:41:00.616Z", 
+        "title": "New phone, who dis: Building intimate audience relationships without the creep factor."
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "I’m so much more of a cat person, but if I said Old Cat, you wouldn”t get it, right?\n\nConsumer debt, inflation, oil prices, Facebook’s share price, the next recession, bear markets, job growth in Idaho: these are just as much a part of the news as much elections and shootings.\n\nWhat are the steps in analyzing and visualizing economic or markets data? How do you make sure you understand the data? What is the role of a narrative in the formation of a graphic? How do you do the research and formulate an idea? One strategy is to “interview’ reporters who cover these subjects to deepen your understanding before you speak with other sources.\n\nWhich is the right chart type for your data (open discussion time). None of this is new, it’s constantly tossed around and yet, but rarely settled. Do the rules change when the presentation goes from static to interactive? What about scales? What are the benefits of small multiples?\n\nWe’ll set aside the fancy tools and new algorithms. This session will be about core principles that are easy to overlook if you’re working on deadline or just lack experience.\n\nThere will be some new tricks as well! There are a host of wonderful new visualizations by new and old talents to explore.", 
+        "facilitator": "Patricia Minczeski", 
+        "facilitator_twitter": "pat_minczeski", 
+        "id": 1533327, 
+        "submitted_at": "2018-04-13T19:23:40.297Z", 
+        "title": "Old Dog Shares Old Tricks: Resuscitating Core Skills and Practices"
     }, 
     {
         "cofacilitator": null, 
@@ -53,6 +129,15 @@
         "id": 1533166, 
         "submitted_at": "2018-04-13T18:04:04.929Z", 
         "title": "Prototyping the News: Using Proof-of-Concepts to Prove Readers Actually Like Your Idea"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "You're a developer in a mixed media team where everyone has the same goal: To create something visually striking and engaging. Working up against deadlines, you have to gather the pieces you need for a web presentation from photographers, videographers and illustrators who are eager to help, but who may not understand the challenges in responsive, browser compatible, quick loading web design. Many of the technical problems developers experience can be cleared up with clear communication among mixed media teams where everyones' expertise is validated, so we'll be sharing tips, common pitfalls and experiences on how to manage a media design project from vision to webpage. This session will be part open round table discussion between developers and multimedia journalists, and part small groups and games.", 
+        "facilitator": "Lauren Flannery", 
+        "facilitator_twitter": "LaurenFlannery3", 
+        "id": 1533122, 
+        "submitted_at": "2018-04-13T18:44:42.438Z", 
+        "title": "Speaking visuals: Navigating technical communication with multimedia journalists"
     }, 
     {
         "cofacilitator": null, 
@@ -158,6 +243,15 @@
     }, 
     {
         "cofacilitator": null, 
+        "description": "Many newsrooms have recently seen an increase in non-traditional journalists joining as staff. This includes people who help us tell immersive stories online, or do research and reporting using data analysis, mapping, programming or some other skill that might seem like magic to a vast majority of editors. Despite making critical contributions in the reporting and production of the story, they still are not appropriately credited on the story due to wide-ranging issues including newsroom culture/history that subtly manifests that only certain type of reporters can get a byline on a story. Or more mundane issues like the CMS might not allow certain people to get credited or only get credit in a particular way. Since bylines are the most prominent way to get recognized for your work, it also has an impact on what type of person gets further along as their career progresses. \n\nIn this session, we will have a broad discussion around the culture of crediting in newsrooms, how it impacts career trajectories, and what are some small and large things we can do to make bylines be more representative of who did the work. \n\nOur goal of the session includes documenting and expanding on a byline guidelines document that the wider digital journalism community can share with their editors and newsrooms. This document would outline why, when and how data/visual/social/non-traditional journalists should get credited on a story.", 
+        "facilitator": "Moiz Syed", 
+        "facilitator_twitter": "moizsyed", 
+        "id": 1531983, 
+        "submitted_at": "2018-04-13T19:08:16.436Z", 
+        "title": "WHAT DO I GOTTA DO TO GET A BYLINE WITH MY NAME ON IT, a.k.a. When, why and how can a non-traditional (data, visual, social) journalist get a byline?"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "An editor, a designer, an engineer, and a product person walk into a room…\n\nIt sounds like the start of a corny joke, but increasingly we find ourselves in these types of situations - small, interdisciplinary teams working together to solve a problem. The thinking says - throw a lot of really smart people in a room and -magic!- they will figure it out! \n\nThe reality is, it does work, but it’s extremely difficult. People misunderstand each other, and motivations and goals are not often articulated, leading to disarray. Working with new people is hard, and it’s especially hard when you have to move fast and you’re not all speaking the same language! But fear not - starting things off on the right foot can have huge payoffs - team buy-in, alignment, and trust. The goal is to get the team to move faster by getting some tough conversations out of the way. \n\nThis is an interactive session in which participants will simulate this exact situation - participants will be given a problem prompt, break out into small, cross-disciplinary teams, then participate in kickoff exercises designed to force hard conversations and perhaps give participants a moment of self-reflection - \"are you an order or chaos muppet?\", hopes/fears/sacred cows, the road to nirvana, the pre-mortem - and more! \n\nThese exercises work best for teams with 5-10 members with any combination of disciplines, but can be scaled up or down as needed.", 
         "facilitator": "Rosy Catanach", 
         "facilitator_twitter": null, 
@@ -193,6 +287,16 @@
         "id": 1531797, 
         "submitted_at": "2018-04-12T20:31:32.967Z", 
         "title": "The Shape of Stories: Unleash Your :60 Storyteller"
+    }, 
+    {
+        "cofacilitator": "Anis Robert Heydari", 
+        "cofacilitator_twitter": null, 
+        "description": "Anyone can make a YouTube video in their basement. But it’s surprisingly cheap and easy to have you looking, sounding and streaming as good as the professional TV stations -- all on your own and without spending a lot of money.\n\nA laptop, webcam, microphone and a dash of software can get you livestreaming on all the biggest platforms. Be the YouTuber in the basement… without looking or sounding like it. Learn the tricks that we use in TV to make you look and sound good without spending any money. Because if anyone knows how to be cheap, it’s public broadcasters from Canada!\n\nYour friends in broadcast will still talk about needing a control room, a studio and either a lot of people, or a few people wishing they had a lot of people to help them.", 
+        "facilitator": "Elaine Wong", 
+        "facilitator_twitter": "elthenerd", 
+        "id": 1531687, 
+        "submitted_at": "2018-04-13T19:02:34.493Z", 
+        "title": "I feel like Streaming Tonight, like Streaming Tonight… Streaming Tonight!"
     }, 
     {
         "cofacilitator": "Jason Hunter", 
