@@ -1,5 +1,89 @@
 [
     {
+        "cofacilitator": "Kaeti Hinck and Stacy-Marie Ishmael", 
+        "cofacilitator_twitter": null, 
+        "description": "Where do people find time to nurture long-term goals? How do we get past treading water at work and move toward what we want next? And how do we even figure out what that is when we’re overwhelmed and overworked? In this session, building on what we explored at SRCCON:WORK, we’ll dig into how to create space for longer term goals, and brainstorm specific ways to balance the short and long term in our daily lives. \n\nHow would you describe the purpose of your session? What would you love participants to leave with? We want people to leave with actionable techniques for identifying and pursuing goals — and feel empowered to to prioritize their own growth.", 
+        "facilitator": "Millie Tran", 
+        "facilitator_twitter": "millie", 
+        "id": 1534096, 
+        "submitted_at": "2018-04-14T03:43:11.893Z", 
+        "title": "Time to grow: How to dig deep and stretch yourself in the midst of day to day survival"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "If you've taken a long vacation, family leave or a new job, you've likely written some kind of passoff document to let others know where you left off with important projects and who to ask for key information. Let's talk about the qualities of a good passoff, documentation best practices that make passoffs easier, and onboarding/offboarding.", 
+        "facilitator": "Alyson Hurt", 
+        "facilitator_twitter": "alykat", 
+        "id": 1534092, 
+        "submitted_at": "2018-04-14T03:58:10.429Z", 
+        "title": "Passing The Baton: How To Make Better Handoffs"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Open States has been a major civic tech project for over eight years.  The rate at which it became Sunlight's most-used API demonstrated a clear thirst for accessible information on state legislative information in the civic tech & journalism communities.  Two years ago the project became independent, and is now run as a volunteer project.\n\nThe goal of this session is to discuss how Open States and other state legislative projects can improve to be as useful as possible to the wider community.  Open States grew as an Open Source project with over 100 collaborators, many from newsrooms- and we want to have a conversation to help determine the right direction for the now mature project in the years to come.", 
+        "facilitator": "James Turk", 
+        "facilitator_twitter": "jamesturk", 
+        "id": 1534085, 
+        "submitted_at": "2018-04-14T03:33:17.931Z", 
+        "title": "Let's Make State Legislative Information Useful"
+    }, 
+    {
+        "cofacilitator": "Matt Raw", 
+        "cofacilitator_twitter": "Mattbot", 
+        "description": "What drives people to pay for journalism? Is it access to exclusive content? Incentives in the UX? Affordability? Attitudes and beliefs? Or is it something else? Together we’ll work through some universal ways of thinking about compelling people to support journalism with money. The session will begin with brainstorming to identify the reasons people pay for journalism. We’ll sort those ideas to find common themes that - surprise! - exist in any news organization, whether its focus is global, local or something in between. We’ll end with an exercise to develop ideas for real-world implementation so that everyone leaves the room with at least one concrete plan that they think will get their readers to pay for news.", 
+        "facilitator": "Sara Konrad Baranowski", 
+        "facilitator_twitter": "@skonradb", 
+        "id": 1534076, 
+        "submitted_at": "2018-04-14T03:38:21.384Z", 
+        "title": "Without Free or Favor: Compelling readers to pay for news (tote bags not included)"
+    }, 
+    {
+        "cofacilitator": "Natasha Khan", 
+        "cofacilitator_twitter": null, 
+        "description": "Recently, Current wrote a call-to-action article on developing cross-newsroom collaboratives.\n\nUsing this article as a template, we propose to lead a session aimed at creating a Newsroom Collaborative Manifesto.\n\nWe hope to create not only a single session, but a group of people with a continuing dedication to answering questions like:\n- How does collaboration work at national, regional and local levels?\n- How does collaboration work between commercial and public media?\n- What platforms can collaboratives use to communicate?\n- What platforms can we use to share collaborative materials?\n- How do you pitch collaboration to an unwilling management team?\n- How do you collect analytics from collaborations and how do you measure success?", 
+        "facilitator": "Alexandra Kanik", 
+        "facilitator_twitter": "@act_rational", 
+        "id": 1534075, 
+        "submitted_at": "2018-04-14T03:39:38.397Z", 
+        "title": "The Newsroom Collaborative Manifesto"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "We've heard about the lack of diversity in mainstream media so let's do something about it. Calling data analysts, bot builders, machine learning experts and anyone who cares about making a more inclusive report. Share the tools and techniques for measuring diversity in your news report that have been successful. Bring some ideas for things that you'd love to have but don't have the time or resources to make. Let's get inspired, set some accountability goals and help each other create more diverse and inclusive news reports.", 
+        "facilitator": "Sharilyn Hufford", 
+        "facilitator_twitter": null, 
+        "id": 1534069, 
+        "submitted_at": "2018-04-14T03:36:30.582Z", 
+        "title": "Hacking diversity into your news report"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Journalism is hard. We try our best to get it right, but inevitably we'll get it wrong. How do we handle that with grace in the age of social media?", 
+        "facilitator": "Kazi", 
+        "facilitator_twitter": "@superkazi", 
+        "id": 1534061, 
+        "submitted_at": "2018-04-14T03:03:33.608Z", 
+        "title": "Handling Blowback"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Many newsrooms lack the funding required to build their own tools to aid with reporting, editing, and all other aspects of the biz. Whether you work for a nonprofit, small local paper, or start-up without capital, let’s come together and discuss free and low-cost services that can be used to streamline the publishing process. The focus will be on internal communication, editorial workflow, and project management, but creative solutions for analytics, social media, etc. are welcome too. At the end of the session, we will have a list of tools, services, and ideas that can be shared with the larger journo community.", 
+        "facilitator": "Jasmine Mithani", 
+        "facilitator_twitter": "jazzmyth", 
+        "id": 1534056, 
+        "submitted_at": "2018-04-14T03:45:08.604Z", 
+        "title": "Beyond Slack and Google Docs: Running a modern newsroom on a shoestring budget"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Are you a researcher (academic, policy or otherwise) who has collaborated with journalists to bring your work to a wider public forum? Are you a journalist who has helped interpret research findings and data sets in innovative public ways?  Are you both or neither but want to be?\n\nThrough discussion and activities we'll envision new relationships between research teams, data journalists, and the public.  We'll talk about our experiences with these types of collaborations, what has and hasn't worked, and how we might upend the the traditional one-way flows from research -> journalism -> public.", 
+        "facilitator": "Laura Laderman", 
+        "facilitator_twitter": "lilader", 
+        "id": 1534049, 
+        "submitted_at": "2018-04-14T03:56:33.414Z", 
+        "title": "Data Journalism as Data Access: Bringing Research Out of Journals and Policy Reports"
+    }, 
+    {
         "cofacilitator": null, 
         "description": "A number of Hollywood stars have gotten behind Frances McDormand's public commitment to include an \"inclusion rider\" in her contract to hold the organization she works for to guarantee a standard of diversity in their staffing, representation and the like. \n\nWhile most journalists don't have the luxury of that kind of bargaining power, unions do, and newsrooms can get together to demand the organizations they work for to not only meet a diversity-inclusion standard but also to ensure representative and non-biased coverage. \n\nFrom photo selection (like [questionable uses of mugshots of black people](https://rollingout.com/2018/02/16/chicago-sun-times-accused-racist-coverage-stonemason-douglas-shooting/)) to sexist headline wording, holding news organizations to a high standard of respect and treating all people with dignity is good for business as well as for society.", 
         "facilitator": "Greg Emerson", 
@@ -542,6 +626,15 @@
     }, 
     {
         "cofacilitator": null, 
+        "description": "Collaborative projects and partnerships can improve journalism efforts by uniting organizations where competition typically exists. We know the value that collaboration can add to projects by sharing the effort or including diverse perspectives. Yet it is challenging to build shared values of privacy and collaboration into a model that serves each individual organization and their needs. The Chicago Data Collaborative was a test to see if, together, news organizations, researchers, advocacy groups and civic technologists were greater than the sum of their parts. Today, the Chicago Data Collaborative is working to access data from public agencies, and then organize, document, and link that data together to help understand Chicago’s criminal justice system.\n\nIn this session, we will share some of the lessons we learned— from assessing the expertise and needs in our ecosystem to creating a data-sharing and governance agreement and a pilot database of criminal justice data. More importantly, as a group, we will discuss and navigate the steps to convene organizations and to create a sustainable model that reflects the goals of all parties involved.", 
+        "facilitator": "Sonja Marziano", 
+        "facilitator_twitter": "ssmarziano", 
+        "id": 1532972, 
+        "submitted_at": "2018-04-14T03:51:58.056Z", 
+        "title": "Approaching Collaboration: Lessons Learned from Building a Data Collaborative"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "​Whenever I hire someone, I tell them, “Every two years, you need to fire yourself.“. To work in the field of graphics today, you need to be constantly retraining yourself, pick up new skills as your old skills age out and use them at a high level very quickly. What are the strategies people use to keep their staffs trained? How do you bring people not who are not coders to a place where they can contribute to digital projects in a meaningful way? How do you keep highly skilled people interested and ready to help others advance to an equivalent level? I'd hope that we could explore and discuss what other people and organizations are doing to teach new skills and build on established ones.", 
         "facilitator": "Jovi Juan", 
         "facilitator_twitter": "@DaoOfJ", 
@@ -567,6 +660,15 @@
         "id": 1532265, 
         "submitted_at": "2018-04-13T11:26:53.676Z", 
         "title": "Whine & Shine: A support group for nerds, journalists and those who bridge the gap"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "It doesn't matter if you call it \"augmented,\" \"virtual\", \"mixed\" or \"cross.\" A whole range of new technologies are enabling journalists to capture realities (visually speaking, anyway) and share them with their audiences.\n\nWe'll start with a lightening quick explanation of what 6DoF experiences are. We'll quickly review some of the tools that Video Lab West and others are using to create those experiences and then we'll get hands on.  (10 mins)\n\nWe'll break out into small groups to use actual reality capture tools like a structured light scanner. Folks will get to try creating their own 3D models, see how to post process them, and then learn how to host them in a simple webAR gallery (using aframe.io and AR.js). (35 mins)\n\nWe'll reserve the last 20 minutes for a group discussion and brainstorm about the future of the medium. What tools are missing or lacking? What ethical standards might need to be put in place and communicated to our audiences? What narrative constructs might work for different types of journalism? How are we going to get this stuff to pay for itself? What non-fiction 6DoF sessions can we assemble next year?", 
+        "facilitator": "Ben Connors", 
+        "facilitator_twitter": "bcatdc", 
+        "id": 1532082, 
+        "submitted_at": "2018-04-14T03:10:33.832Z", 
+        "title": "Let's capture 'reality' & talk about it means."
     }, 
     {
         "cofacilitator": null, 
