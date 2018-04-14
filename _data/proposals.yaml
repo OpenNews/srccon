@@ -10,6 +10,24 @@
     }, 
     {
         "cofacilitator": null, 
+        "description": "Trust is a buzzword throughout journalism and society. Journalists and the communities we serve wonder how much trust we have available to give. This is important in a world where we see a never-ending battle for attention. It might need us as a profession to be more open to being vulnerable to society. It doesn't necessarily have to be an uncomfortable or robotic interaction.   \n\nThis session will explore how to be more vulnerable as an individual and with your news team. We'll also discuss how we can do so with the communities we attempt to serve with our journalism.", 
+        "facilitator": "Andre Natta", 
+        "facilitator_twitter": "acnatta", 
+        "id": 1534028, 
+        "submitted_at": "2018-04-14T02:54:21.989Z", 
+        "title": "Vulnerability as a News Strategy"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Datasette is a free tool for publishing structured data to the web in a way that makes it easy to search and explore. Datasette also provides a JSON+SQL API for quickly building apps and visualizations on top of the data.\n\nThis workshop will provide an in-depth exploration of Datasette - what it is, the philosophy behind it and how to use it to explore and publish interesting data.\n\nIt will  also be a hands-on tutorial. Example data will be provided, but if you can bring your own data (ideally as CSV but other formats will work fine as well) you'll be able to analyze, visualize and publish it during the course of the session.", 
+        "facilitator": "Simon Willison", 
+        "facilitator_twitter": "simonw", 
+        "id": 1534017, 
+        "submitted_at": "2018-04-14T02:57:47.550Z", 
+        "title": "Datasette: analyze and publish the data behind the stories"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "Every data project I’ve ever done has included at least one spreadsheet. I suspect it’s the same for a lot of analysts and news nerds. We love spreadsheets, and paradoxically, we dream of a world where there are no more spreadsheets. This session will explore two broad approaches to spreadsheets. \n\nFirst, you can treat spreadsheets as slightly nicer CSVs: no highlighting, no formulas, no auto-filtering, no subtotals. This approach is best for importing and exporting to R, Python, JSON, etc. The second approach tries to maximize the functionality of spreadsheets. Maybe even using PivotTables? I’ll try to summarize the two approaches and then lead a discussion on how our orgs approach spreadsheets. What are our spreadsheet horror stories? Do any of our organizations use versioning and code tests on their spreadsheets? Does it work? What do people find works well for getting data into and out of spreadsheets? What are alternatives for different spreadsheet functions (e.g. data entry into Survey Monkey, Google Sheets, or sqlite).", 
         "facilitator": "Matt Moehr", 
         "facilitator_twitter": "@mattmoehr", 
@@ -19,7 +37,7 @@
     }, 
     {
         "cofacilitator": "Ivana Wong", 
-        "cofacilitator_twitter": null, 
+        "cofacilitator_twitter": "alleyco", 
         "description": "Journalism asks us to be masters of all trades: writers, editors, designers, and developers alike. This hands-on workshop gives participants a chance to engage in and learn how to facilitate activities we use to build out projects from kickoff to product plan, such as on a website redesign or when developing a new editorial product. Bring ideas for projects you’re just considering, especially difficult ones—our exercises will give you a chance to air them to the group, while teaching you how to ask the right questions and really listen to the answers. We get everyone actively involved using Post-its, a “how might we” exercise in which participants frame project goals using a question format, live dot-voting with stickers, scrum-style collaborative group prioritization and planning poker, sketching, and more. \n\nThese sessions rapidly move teams from goal-setting and prioritizing to identifying requirements and even starting nascent deliverables such as a sitemap or sketches. You will learn well-tested strategies for putting your existing narrative skills to work, as we lead you through exercises that will help your team break down and conceptualize next steps. These activities provide ways to iterate quickly while ensuring everyone has a voice in the process. Not only will you turn Post-its and drawings into an immediately actionable backlog, you’ll also come out of our session ready to iterate on this process to improve idea generation for everyday work. In addition to creating a valuable product, these collaborative exercises build team relationships, improve your editorial collaboration and cross-functionality, and establish trust—while delivering results on deadline.", 
         "facilitator": "Margaret Schneider", 
         "facilitator_twitter": "alleyco", 
@@ -54,6 +72,15 @@
         "id": 1533978, 
         "submitted_at": "2018-04-14T01:39:19.567Z", 
         "title": "Teardown your old strategy docs to create living, breathing guides to best practices"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "The practice of interviews in your daily collaboration with coworkers—whether in mentorship conversations, working with or as managers, moderating panels, conducting user research, or building products—is an incredibly valuable craft to hone. Engaging in a dialogue built on questions (especially at the intersection of journalism and technology) can help you better understand the people on your teams and surface the stories that inform their lived experiences—using those experiences to help you make smarter decisions and build better and more thoughtful products. \n\nLet's discuss how to: build constructive listening skills, use different classes of questions to guide and evaluate conversation, build a line of reasoning from a conversation as it evolves, and frame really productive interviews in service of getting to know your subject. Participants will spend time both asking and responding to questions in unstructured interviews, and we’ll reflect as a group on the practice and outcomes. At the end, you should walk away from this session not just with the tools you need to start building interviews into your daily work, but with a keener understanding of the skill of intense, focused listening.", 
+        "facilitator": "David Yee", 
+        "facilitator_twitter": "tangentialism", 
+        "id": 1533976, 
+        "submitted_at": "2018-04-14T02:35:56.277Z", 
+        "title": "The Interview: Building a practice of listening and asking questions in our work"
     }, 
     {
         "cofacilitator": null, 
@@ -110,6 +137,15 @@
         "id": 1533884, 
         "submitted_at": "2018-04-13T23:08:44.032Z", 
         "title": "From what to why: getting to know your audience"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Taeyoon Choi cooks dumplings to demonstrate how a CPU works. To teach creative applications of technology, he takes a fun and tactile approach in explaining a complex subject. We also aim to explain complicated topics in news, but constraints of time, money and staffing can make that difficult. Instead we often use formats like graphic templates or explainer stories. But what we if we created new templates that didn't just simplify our subject matter, but made it engaging in a way that spurs exploration and understanding? \n\nWe'll share examples like the CPU dumplings and ideas from art history like defamiliarization. Then we'll break into groups to devise and compile new approaches to presenting information inspired by the discussion.", 
+        "facilitator": "Greg Linch", 
+        "facilitator_twitter": "greglinch", 
+        "id": 1533883, 
+        "submitted_at": "2018-04-14T02:33:23.622Z", 
+        "title": "Dumplings, defamiliarization and how to create new templates for presenting information"
     }, 
     {
         "cofacilitator": "Britt Binler", 
@@ -938,6 +974,15 @@
         "id": 1514345, 
         "submitted_at": "2018-04-04T17:39:39.258Z", 
         "title": "Beyond scrum and agile: swarming"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "I've been working with Gelman's Stan group at Columbia University, on ways to visualize Bayesian models. I'd like to talk about this and other projects I'm working on to think through the ways visualizations can be used to present conclusions or hypotheses made from a dataset.\n\nFrom the simplest poll chart to a movie sales graph to an original simulation that fills in gaps of missing data, when we display a visualization, we are creating for our audience a canvas from which to make inferences. Visualization as a journalistic practice then isn't just about making a finding pop but weighing all the considerations of our analysis or model, including the survey or research design, when choosing a visual form.\n\nI think we all know this, intuitively, but I think we need to be more specific about some of the considerations for presenting data trends, hypotheses, and regression models. Increasingly, we see \"data points heading in one direction\" in a two-axis scatter plot as a kind of journalism. But when is it valid?\n\nFor this talk, I want to talk about what basic assumptions and considerations journalists should make when using simple regressions and what kinds of red flags statisticians look for in bad model selection or diagnosis. Correlation is not, of course, causation, but a dataset that moves linearly in one direction will be interpreted as demonstrating causation to many readers simply because a trend is there.\n\nThere are many other considerations journalists should be making as well: Residuals analysis and heteroskedasticity, p-hacking and overfitting, margin of error and confidence, and overloaded multiple regression models. I'd like to explain how a journalist should be thinking about these questions as opposed to a social scientist or researcher.\n\nIn conclusion, I'd like to reframe questions statisticians usually ask in the context of hypothesis testing, prediction or inference as also another context a set of journalistic questions. When we miss collinearity, we're missing a part of the story that still needs reporting. When we overfit the data, we're sensationalizing a trend. When we p-hack or shove too many variables into a multiple regression, we're relying on an unreliable source. When we place our dataset in a scatter plot, if it is shaped in certain ways, it tell us about underlying issues with our data, and we should learn to spot some of those issues, so we can report it out further and decide how to best present it to our audiences.\n\nThose are some things I'm thinking about all the time. I'd like to put them together into a talk that tries to translate some of the best ideas in statistics (I'll work with statisticians to get it right) into journalistic practices anyone can follow.\n\nI'd also like to find other people in the media who are either building models or thinking a lot about representing findings in data and how audiences make inferences from them that may or may not represent an underlying truth.", 
+        "facilitator": "Sam Petulla", 
+        "facilitator_twitter": "spetulla", 
+        "id": 1513828, 
+        "submitted_at": "2018-04-14T02:36:18.666Z", 
+        "title": "Regression in the newsroom: When to use it and thinking about best practices"
     }, 
     {
         "cofacilitator": null, 
