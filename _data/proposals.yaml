@@ -1,6 +1,62 @@
 [
     {
         "cofacilitator": null, 
+        "description": "A number of Hollywood stars have gotten behind Frances McDormand's public commitment to include an \"inclusion rider\" in her contract to hold the organization she works for to guarantee a standard of diversity in their staffing, representation and the like. \n\nWhile most journalists don't have the luxury of that kind of bargaining power, unions do, and newsrooms can get together to demand the organizations they work for to not only meet a diversity-inclusion standard but also to ensure representative and non-biased coverage. \n\nFrom photo selection (like [questionable uses of mugshots of black people](https://rollingout.com/2018/02/16/chicago-sun-times-accused-racist-coverage-stonemason-douglas-shooting/)) to sexist headline wording, holding news organizations to a high standard of respect and treating all people with dignity is good for business as well as for society.", 
+        "facilitator": "Greg Emerson", 
+        "facilitator_twitter": "emersongreg", 
+        "id": 1534030, 
+        "submitted_at": "2018-04-14T01:59:03.238Z", 
+        "title": "Let's write a diversity and inclusion rider for news"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Every data project I’ve ever done has included at least one spreadsheet. I suspect it’s the same for a lot of analysts and news nerds. We love spreadsheets, and paradoxically, we dream of a world where there are no more spreadsheets. This session will explore two broad approaches to spreadsheets. \n\nFirst, you can treat spreadsheets as slightly nicer CSVs: no highlighting, no formulas, no auto-filtering, no subtotals. This approach is best for importing and exporting to R, Python, JSON, etc. The second approach tries to maximize the functionality of spreadsheets. Maybe even using PivotTables? I’ll try to summarize the two approaches and then lead a discussion on how our orgs approach spreadsheets. What are our spreadsheet horror stories? Do any of our organizations use versioning and code tests on their spreadsheets? Does it work? What do people find works well for getting data into and out of spreadsheets? What are alternatives for different spreadsheet functions (e.g. data entry into Survey Monkey, Google Sheets, or sqlite).", 
+        "facilitator": "Matt Moehr", 
+        "facilitator_twitter": "@mattmoehr", 
+        "id": 1534011, 
+        "submitted_at": "2018-04-14T01:26:35.751Z", 
+        "title": "Spreadsheets in the data pipeline. Necessary evil or first-class citizens?"
+    }, 
+    {
+        "cofacilitator": "Ivana Wong", 
+        "cofacilitator_twitter": null, 
+        "description": "Journalism asks us to be masters of all trades: writers, editors, designers, and developers alike. This hands-on workshop gives participants a chance to engage in and learn how to facilitate activities we use to build out projects from kickoff to product plan, such as on a website redesign or when developing a new editorial product. Bring ideas for projects you’re just considering, especially difficult ones—our exercises will give you a chance to air them to the group, while teaching you how to ask the right questions and really listen to the answers. We get everyone actively involved using Post-its, a “how might we” exercise in which participants frame project goals using a question format, live dot-voting with stickers, scrum-style collaborative group prioritization and planning poker, sketching, and more. \n\nThese sessions rapidly move teams from goal-setting and prioritizing to identifying requirements and even starting nascent deliverables such as a sitemap or sketches. You will learn well-tested strategies for putting your existing narrative skills to work, as we lead you through exercises that will help your team break down and conceptualize next steps. These activities provide ways to iterate quickly while ensuring everyone has a voice in the process. Not only will you turn Post-its and drawings into an immediately actionable backlog, you’ll also come out of our session ready to iterate on this process to improve idea generation for everyday work. In addition to creating a valuable product, these collaborative exercises build team relationships, improve your editorial collaboration and cross-functionality, and establish trust—while delivering results on deadline.", 
+        "facilitator": "Margaret Schneider", 
+        "facilitator_twitter": "alleyco", 
+        "id": 1534006, 
+        "submitted_at": "2018-04-14T01:30:54.688Z", 
+        "title": "Using Narrative Tools (and Post-its!) to Workshop Better Editorial Products and Build Newsroom Relationships"
+    }, 
+    {
+        "cofacilitator": "Ryan Murphy", 
+        "cofacilitator_twitter": "rdmurphy", 
+        "description": "Taking on managerial roles can be a chance to have a bigger say and influence in how your organization functions, but new managers are not always set up to succeed. How can organizations (and fellow managers) do a better job of ensuring individuals have all the tools they need to navigate the new dynamics that come with new responsibilities (and typically new titles)? Sometimes new managers still have production obligations, and how do you balance the need to still be a producer and a leader? How do you navigate the interpersonal dynamics of suddenly having newfound authority, potentially a significant dynamic change on your team?\n\nAs two folks who have recently moved more and more into decision making roles, we’ll talk about our respective experiences, and give others a chance share their stories and suggestions.", 
+        "facilitator": "Yue Qiu", 
+        "facilitator_twitter": "YueQiu_cuj", 
+        "id": 1534003, 
+        "submitted_at": "2018-04-14T01:20:58.614Z", 
+        "title": "The Balancing Act of Becoming a New Manager"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Help us brainstorm tactics, tricks and tools to make sure you thrive in your career and live up to your aspirations. We know that diversity makes for better journalism and better tech, but that inside and outside newsrooms it can be hard to deal with the difficulties that being a women or a minority can bring.\n\nHow can we ease the load, reduce the stress and increase the resilience so that we can thrive in our careers?", 
+        "facilitator": "Annabel Church", 
+        "facilitator_twitter": "annabelchurch", 
+        "id": 1533986, 
+        "submitted_at": "2018-04-14T00:53:56.008Z", 
+        "title": "To leadership and beyond (getting diversity to the top)"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "OK, that title needs work. But the concept is solid, I think: Retrospectives help engineering teams get better at their work, so can they help make our strategies and best practices more effective? Of course they can.\n\nIn this guided workshop, let's hold some retrospective teardowns on strategic plans from years past (think: the social media plan you put together for your boss in 2012). Let's challenge our old assumptions of what spaces were the ones to get into, which trends would ensure the future success of our business or products. \n\nA retrospective exercise like this will give you a framework to develop a truly living, breathing strategic vision. One with a past, and with the wisdom of age.", 
+        "facilitator": "Greg Emerson", 
+        "facilitator_twitter": "emersongreg", 
+        "id": 1533978, 
+        "submitted_at": "2018-04-14T01:39:19.567Z", 
+        "title": "Teardown your old strategy docs to create living, breathing guides to best practices"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "Have you ever requested Facebook, WhatsApp, or Signal messages from a public official? Have you requested a government agency’s server log? Have you talked past a PIO about how a database can be copied? Let’s share our war stories on the topic of local public records law and technologies that make governments freak out. Let’s see if we can, through a pastiche of experiences, survey the current state of public records in emerging technologies. Let’s also share what has worked and possible best practices that will push governments toward greater transparency.", 
         "facilitator": "Evan Wyloge", 
         "facilitator_twitter": "@EvanWyloge", 
@@ -157,6 +213,15 @@
         "id": 1533687, 
         "submitted_at": "2018-04-13T21:00:07.341Z", 
         "title": "Can we really be trusted with people’s data?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "For many of us, this work is more vocation than job. How do we reconcile the idealism of being a journalist with the realities of dealing with managers, HR departments, leave policies and collective bargaining? How do we help improve the culture of the organizations where we work? Are there ways to engage with people who we don't work with usually, either because they are in other departments or behind titles.\n\nWe will discuss what has been tried and successful, or attempted and should be avoided, at the various places we've worked. We'll think about ways to work for these systematic changes while still doing our day jobs. Hopefully we will leave with actionable things to try once we're back at work.", 
+        "facilitator": "Alice Goldfarb", 
+        "facilitator_twitter": "afgoldfarb", 
+        "id": 1533679, 
+        "submitted_at": "2018-04-14T01:36:10.534Z", 
+        "title": "making things better: when the organizational culture could use some help"
     }, 
     {
         "cofacilitator": "Jake Grovum", 
@@ -327,6 +392,15 @@
         "id": 1533296, 
         "submitted_at": "2018-04-13T16:32:21.225Z", 
         "title": "Rebuilding Ad Tech: Open Source, Server to Server, Publisher First"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "As a graphics editor, I see maps and charts all the time that, to their detriment, fail to follow conventional rules of visualization. Categorical data is thrown together on a line chart; bar charts aren’t grounded from a 0 baseline; three-dimensional pie charts have exploded. Data journalism and visualization has gained a lot of attention over the last decade, and many of us at this conference have scrambled to build and understand the ground rules of sound data reporting. Because of this, terrible vis has become a punchline, and Twitter amplifies the performance of calling out flaws, corrections and grievances. This isn’t limited to charting; it also happens with data analysis and journalism as a whole.\n\nOf course, calling out misinformation and negligent reporting is necessary, but quibbling over personal preferences or imperfections can be discouraging and downright shaming. Behind every editorial piece is a human, and this business is smaller than we think. It can be personally devastating to have your professional work mobbed on social media.\n\nCriticism that is presented thoughtlessly creates a culture for many that discourages exploration, which is vital for our respective fields. How can we be kinder and more effective in our public critiques? How can we do better for ourselves and each other? Come for the war stories, stay for the positive vibes.", 
+        "facilitator": "Kennedy Elliott", 
+        "facilitator_twitter": "kennelliott", 
+        "id": 1533258, 
+        "submitted_at": "2018-04-14T00:57:57.017Z", 
+        "title": "Someone is wrong on the internet!"
     }, 
     {
         "cofacilitator": null, 
