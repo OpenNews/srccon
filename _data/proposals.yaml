@@ -1,5 +1,23 @@
 [
     {
+        "cofacilitator": null, 
+        "description": "How do you disclose to your manager that you have a disability? Do you wait until after the job offer? How do you keep up with the demands of a 24-hour news cycle if you need special accommodations? What does this mean for your job growth? How do you manage an employee whose function can be unexpectedly limited? How can you live up to your reporting potential when your biology is thwarting you at seemingly every turn?\n\nThis session will start with anecdotes of how facilitators have tackled these tough conversations with bosses and coworkers, sharing what hasn’t worked and what has worked...better. The session will then move to a conversation where participants with disabilities can discuss life in the news industry. Topics could include how people have communicated their needs or accommodations to their employer, experiences working with HR, trying to fit in with the rest of their team or just attempting to get coworkers to understand. The goal of this session is to connect folks with disabilities, share coping techniques, and allow those without disabilities to listen and learn how best to support their colleagues.", 
+        "facilitator": "Jasmine Mithani", 
+        "facilitator_twitter": "jazzmyth", 
+        "id": 1534117, 
+        "submitted_at": "2018-04-14T04:10:37.796Z", 
+        "title": "Sick [journalist] theory: real talk about navigating disability in the newsroom"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Newsroom users love to hate their systems, but what's the one thing your CMS does that your newsroom absolutely loves and can't live without?\n\nIf your CMS doesn't have a killer feature, then bring your ideas!\n\nIn a lightning-round show-and-tell style format, show us what you've got or pitch your pie-in-the-sky idea. Everyone goes home with new ideas for how to make life better for people who love to hate their CMS.", 
+        "facilitator": "Sharilyn Hufford", 
+        "facilitator_twitter": null, 
+        "id": 1534115, 
+        "submitted_at": "2018-04-14T04:07:36.565Z", 
+        "title": "CMS Jam: Show off your publishing system's killer feature"
+    }, 
+    {
         "cofacilitator": "Kaeti Hinck and Stacy-Marie Ishmael", 
         "cofacilitator_twitter": null, 
         "description": "Where do people find time to nurture long-term goals? How do we get past treading water at work and move toward what we want next? And how do we even figure out what that is when we’re overwhelmed and overworked? In this session, building on what we explored at SRCCON:WORK, we’ll dig into how to create space for longer term goals, and brainstorm specific ways to balance the short and long term in our daily lives. \n\nHow would you describe the purpose of your session? What would you love participants to leave with? We want people to leave with actionable techniques for identifying and pursuing goals — and feel empowered to to prioritize their own growth.", 
@@ -174,6 +192,15 @@
         "id": 1533970, 
         "submitted_at": "2018-04-14T00:49:57.622Z", 
         "title": "How do emerging technologies intersect with you local public records law?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "As a designer and a technologist, one question I've long been pondering is how we might play a role in reducing polarization, rather than increasing it. We all recognize the effects of the filter bubble in our daily lives—the stories we see most often are the ones that reinforce what we already believe. This serves to drive us ever deeper into a narrative of \"us\" vs. \"them.\" But I wonder if there are ways to pop the bubble and close the divide. In the midst of outrage, I find myself nonetheless moved by stories such as this (https://medium.com/s/story/im-a-journalist-and-the-daughter-of-an-n-r-a-member-why-it-s-time-to-tell-my-story-9782ae97aad9) and (https://www.nytimes.com/2017/10/14/us/union-jobs-mexico-rexnord.html). I'm curious to hear perspectives from within the journalism and tech community on these efforts, as well as others, to bring to light the human stories and lost narratives underlying hashtag movements, societal shifts and cultural trends. Perhaps we will even do a participatory design exercise to imagine how we might create a more human, more empathetic world via the media we consume.", 
+        "facilitator": "Tina Ye", 
+        "facilitator_twitter": "tinabeans", 
+        "id": 1533962, 
+        "submitted_at": "2018-04-14T04:04:23.971Z", 
+        "title": "Is radical empathy possible in the age of polarization?"
     }, 
     {
         "cofacilitator": null, 
