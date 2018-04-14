@@ -147,4 +147,4 @@ Ok, so you're excited to pitch your SRCCON session! If you feel ready to go, [yo
 
 ## Submit a Session Proposal
 
-Our call for participation is open until April 13 at 11:59pm ET. We'd love to have you [pitch a session](/participation/form/) so we can consider your ideas for SRCCON 2018, June 28 & 29 in Minneapolis.
+The form for session proposals has now closed! By the end of April, we will let everyone who proposed a session know whether it has been accepted. Thank you to everyone who proposed a session.
