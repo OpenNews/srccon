@@ -1,5 +1,51 @@
 [
     {
+        "cofacilitator": null, 
+        "description": "Have you ever requested Facebook, WhatsApp, or Signal messages from a public official? Have you requested a government agency’s server log? Have you talked past a PIO about how a database can be copied? Let’s share our war stories on the topic of local public records law and technologies that make governments freak out. Let’s see if we can, through a pastiche of experiences, survey the current state of public records in emerging technologies. Let’s also share what has worked and possible best practices that will push governments toward greater transparency.", 
+        "facilitator": "Evan Wyloge", 
+        "facilitator_twitter": "@EvanWyloge", 
+        "id": 1533970, 
+        "submitted_at": "2018-04-14T00:49:57.622Z", 
+        "title": "How do emerging technologies intersect with you local public records law?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "While our information ecology has changed wildly in the last 30 years, the processes and objectives of many news organizations have barely shifted. The forms may be novel, but often the focus is still on generating more stories, despite the glut of content vying for our attention.\n\nIn this session, we'll use the \"Jobs to be Done Theory\" (Christensen, et al) to think bigger about what we could be doing in news organizations. The theory proposes that, rather than \"churn out mediocrity\" with stale innovation processes, we should begin by asking, when a customer chooses a new product or service, \"what job did you hire that product to do?\" \n\nAfter a very brief presentation to set things up, we'll go through a series of exercises, generating a catalog of jobs people need done and possible ways that news organizations could refocus their expertise to help people get those jobs done. When we're finished, we should have a boatload of ideas for new ways to serve our audiences. Maybe you'll even want to work with Knight Lab in the future to flesh out the ideas and develop prototypes!", 
+        "facilitator": "Joe Germuska", 
+        "facilitator_twitter": "joegermuska", 
+        "id": 1533957, 
+        "submitted_at": "2018-04-14T00:36:45.920Z", 
+        "title": "Get a Job! Reimagining Journalism in terms of the Jobs to be Done Theory"
+    }, 
+    {
+        "cofacilitator": "Mike Tigas, Julia Smith, Ted Han, Carolyn Rupar", 
+        "cofacilitator_twitter": null, 
+        "description": "You have ideas!  They are great ideas.  Uh oh now you have another one.\nYou want to work on them all, and they are all worth working on (but are they?).\nIf this feels unsustainable that's because it is.\n\nYou are not alone.\n\nCome to this session to talk about:\n\n- Finding funding / convincing someone it is worth giving you money\n- Recruiting friends to help\n- Channeling personal motivation\n- Coordinating volunteers and paid workers\n- Best practices around code\n- How to communication about what you're doing\n- Deciding how to prioritize\n- Staying energized / focused / productive\n- Forcing yourself to make progress\n- Useful tools and processes\n- We own 4 voting machines, what do we do with them\n- Oh god I'm out of time", 
+        "facilitator": "Dan Schultz", 
+        "facilitator_twitter": "@slifty", 
+        "id": 1533950, 
+        "submitted_at": "2018-04-14T00:08:18.255Z", 
+        "title": "How to work on 20 side projects at once (while having a full time job)"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Let's figure out how to surface hidden podcasts. \n\nIt can be hard to find podcasts in a specific geographically as they can be swamped by others in the same language market - what are the best British podcasts? Or linguistically, if you don't have access to a language - how do you know what the best podcasts are for Germany? What if you want to know about the best minority players? \n\nHow do we surface most intriguing of a genre, specialty topic or the most diverse voices?\n\nCould apps like Breaker help? What would we build if we could?", 
+        "facilitator": "Annabel Church", 
+        "facilitator_twitter": "annabelchurch", 
+        "id": 1533940, 
+        "submitted_at": "2018-04-14T00:05:53.302Z", 
+        "title": "Surfacing hidden podcasts"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "We've built (but as of writing not widely announced) an open source approach to managing our complex content in an elegant, extensible way. We'd like to share, compare, and contrast that approach with others (e.g., the New York Times have recently announced a similar effort, and a lot of concordant work is being done by folks like Pietro Passarelli and the BBC), and discuss the opportunities that this has opened for us, as well as host a conceptual discussion about some of the assumptions that we've collectively made about HTML, Markdown, and what questioning some of those might mean for what we can do as journalists and the technologists who support them.\n\nIn some ways, this is a boring topic and the assumption is that it's kind of a done deal, but what we've found is that simple assumptions about technology and a lack of agility around these issues has held back our collective ability to present rich, responsive media on the web (and other platforms) in a reproduceable and user-friendly way.", 
+        "facilitator": "Blaine Cook", 
+        "facilitator_twitter": "blaine", 
+        "id": 1533931, 
+        "submitted_at": "2018-04-14T00:10:12.301Z", 
+        "title": "Content Matters"
+    }, 
+    {
         "cofacilitator": "Joanna Kao", 
         "cofacilitator_twitter": null, 
         "description": "Over the past several years, data analytics has been incorporated into newsroom decision making. Yet, quantitative web data can only give us a snapshot into what is happening -- not why. Interviews, focus groups and surveys — commonly referred to as customer research -- is a necessary tool for those in newsrooms to deepen their understanding of their audience and consider the \"why\" behind the \"what.\" In this session, we will give you an overview of different user research techniques, the pros/cons of each and when they should be deployed to the best effect.\n\nWe will have an example product that requires additional audience insight and together we will devise a research methodology for user testing.  Following this, we will break out into smaller groups, where we will write a script and practice conducting user interviews (or focus groups, depending on attendance) and get feedback on how we could improve our approach to get better insights.", 
@@ -92,6 +138,15 @@
         "id": 1533724, 
         "submitted_at": "2018-04-13T21:16:19.519Z", 
         "title": "~Engaging~ with Your Engagement Team: Help the Audience Team Help You"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "As the newsroom has evolved, so has the product… and the formats and distribution and tools and expertise. We have learned that to keep pace, we have to collaborate in new ways among developers, designers, journalists, editors and more. But what does it mean to collaborate effectively? For any given collaboration, who takes the lead and who is responsible for what? How do we join forces without slowing our roll and stepping on each others’ toes? \n\nIn this session, we will do an experiment. We will ask: what if with reinvent our roles and relationships? We will break up into teams of diverse skill-sets. Each will be assigned a new media project (an emerging story format, an AI news app, etc.). But the deliverable will not be the product itself. It will be a draft of a high-level plan of action. That plan will define each team member’s role, their working relationship with others, and their responsibilities at different stages of the project. The idea will be to think differently about all of it. Members will share their visions of what the needs and possibilities of the product are, and what different resources they can bring to the table. What new titles and partnerships might emerge? User experience editor, executive developer, multi-media writing crew, visual researcher, project designer?", 
+        "facilitator": "Dylan Greif", 
+        "facilitator_twitter": "dylangreif", 
+        "id": 1533709, 
+        "submitted_at": "2018-04-13T23:41:15.752Z", 
+        "title": "Let’s Reinvent How We Work Together"
     }, 
     {
         "cofacilitator": "Eric Van Zanten", 
@@ -620,7 +675,8 @@
         "title": "When you accidentally become a manager"
     }, 
     {
-        "cofacilitator": null, 
+        "cofacilitator": "Stephen Stirling", 
+        "cofacilitator_twitter": "sstirling", 
         "description": "It seems like news nerds are dividing into two camps: those who are quitting their jobs to join block chain media startups and those who have no earthly idea what block chain has to do with journalism. Surely both groups will be represented in some form at SRCCON so let's get together and educate each other.\n\nThis will not be a debate or an attempt to prove or disprove whether block chain is good or bad for journalism. It's an earnest call for the people who understand how the same technology underlying a [marketplace for digital cats](https://www.cryptokitties.co/) is going to power a [distributed](https://joincivil.com/) journalism to explain it to the rest of us.\n\nNote: this session is urgently in need of at least one co-presenter who understands block chain enough to be excited about it.", 
         "facilitator": "Brian Hamman", 
         "facilitator_twitter": "hamman", 
@@ -844,6 +900,15 @@
         "id": 1511483, 
         "submitted_at": "2018-04-03T04:45:00.606Z", 
         "title": "Leading News Org to Water by Hacking Our Hiring"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "So, your code broke the internet, but nobody's noticed yet. Not long ago the NPRViz team got a report from one of their users about a pretty serious security flaw in Pym.js, and so suddenly found themselves with the challenge of figuring out how to notify Pym users they needed to upgrade immediately without just blasting out to the world that it was possible to steal their users session data & cookies.  I (and others) ended up helping them walk through the security disclosure process, helped draft messages intended to encourage users to upgrade, and poked people in the community.  There are individual things that folks who produce software for others can do to make this process easier for themselves & users, but also there are things that we should be doing as users to make sure we're prepared to upgrade when flaws are announced, and also, how to lend a hand when things are going wrong.  Lets talk about what _more_ we can and should be doing.", 
+        "facilitator": "Ted Han", 
+        "facilitator_twitter": "knowtheory", 
+        "id": 1510608, 
+        "submitted_at": "2018-04-09T20:01:18.039Z", 
+        "title": "Preparing for security vulnerabilities if you're an open source maintainer *or* user"
     }, 
     {
         "cofacilitator": null, 
