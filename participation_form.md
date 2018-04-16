@@ -8,11 +8,11 @@ permalink: /participation/form/
 
 # SRCCON 2018 Call for Participation
 
-We can't wait to hear how you'd like to participate at SRCCON 2018! If you want to attend, facilitate a session, or take part in some other way, this one form is where to let us know.
+We're excited that you're interested in participating at SRCCON 2018! We ask that you tell us a little about yourself and your work. This form is how we will allocate tickets for SRCCON.
 
-Take a look at [the session proposals](/sessions/proposals/) we've received so far. If you're working on a session idea, we highly recommend reading through [our guide to crafting a great session proposal](/sessions/proposal-guide). Also, we have a [question-by-question walkthrough](https://opennews.org/blog/srccon-participation-howto) if you want some guidance on this form (and a glimpse at all the questions it contains).
+For a sense of what we'll be getting into this year at SRCCON, [take a look at the session proposals](/sessions/proposals) we received. The call for participation for session proposals is now closed, but you still have till 5pm ET on Friday, April 20, to fill in this form and let us know you'd like to be at SRCCON.
 
-Please feel free to reach out to us at [srccon@opennews.org](mailto:srccon@opennews.org) with any questions. Or if you're all set, the participation form is below!
+Please feel free to reach out to us at [srccon@opennews.org](mailto:srccon@opennews.org) with any questions. Or if you’re all set, the participation form is below!
 
 <script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-2.2.3.min.js"><\/script>')</script>
 <link href="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.css" rel="stylesheet" />

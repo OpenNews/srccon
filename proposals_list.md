@@ -8,7 +8,7 @@ permalink: /sessions/proposals/
 
 # SRCCON 2018 Session Proposals
 
-Thank you to everyone who submitted a session idea for SRCCON this year—what an amazing list! After we review each proposal, we'll notify everyone about their session status by the end of April. And between now and then, we hope reading through the proposals here helps spark ideas about how _you'd_ like to participate at SRCCON.
+Thank you to everyone who submitted a session idea for SRCCON this year—what an amazing list! After we review each proposal, we'll notify everyone about their session status by the end of April. And between now and then, we hope reading through the proposals here helps spark ideas about how _you'd_ like to participate. You have till April 20 [to tell us if you'd like to participate](/participation/form/) in SRCCON this year.
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.proposals %}
