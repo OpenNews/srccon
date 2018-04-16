@@ -6,19 +6,17 @@ photocredit_url: http://www.westraco.com/
 permalink: /participation/index.html
 ---
 
-<p class="big-lead">Everyone at SRCCON contributes to making it happen.</p>
+<p class="big-lead">Everyone at SRCCON contributes to making it happen. Tell us by April 20 <a href="/participation/form/">if you would like to be there</a>.</p>
 
 # Participation at SRCCON
 
 SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. 
 
-<!--Our [call for participation form](/participation/form) is now open and we are excited to hear about what you'd like to share, whether that be as a facilitator or attendee, and what you hope to take back home with you. We also wrote a question-by-question [walkthrough of the call for participation form itself](https://opennews.org/blog/srccon-participation-howto) to help you tell us all about how you'd like to join us at SRCCON.-->
+If you're curious about attending, we ask that you tell us a little about yourself and your work in our [call for participation form](/participation/form/). This form is open through *Friday, April 20, at 5pm ET* and is how we will allocate tickets for SRCCON. It is _the_ way to acquire a ticket to SRCCON. We will review entries to our call for participation form and notify everyone before the end of April. If invited to attend, you will have the chance to purchase a ticket for $225, plus fees.
 
-We keep the size of SRCCON intentionally rather small, 300 people this year, and we've experimented with different ways to allocate tickets over the last five years. This year, we're trying a new approach with one form to tell us everything about how you'd like to participate, from pitching a session, to bringing your experiences and expertise to hands-on sessions, to applying for a scholarship.
+We keep the size of SRCCON intentionally rather small, 300 people this year, and we’ve experimented with different ways to allocate tickets over the last five years. This year, we’re trying a new approach with one form to tell us everything about how you’d like to participate, from bringing your experiences and expertise to hands-on sessions to applying for a scholarship.
 
-This small size means that we have to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at SRCCON. Our call for participation form will help us understand who would like to take part in SRCCON and what you want to get out of it. With those responses, we'll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
-
-We will review entries to our call for participation form and notify everyone before the end of April. If invited to attend, you will have the chance to purchase a ticket for $225, plus fees. 
+This small size means that we have to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at SRCCON. Our call for participation form will help us understand who would like to take part in SRCCON and what you want to get out of it. With those responses, we’ll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
 ## Not Just Attendees, But Participants
 
