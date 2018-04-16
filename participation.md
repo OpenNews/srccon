@@ -18,8 +18,6 @@ We keep the size of SRCCON intentionally rather small, 300 people this year, and
 
 This small size means that we have to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at SRCCON. Our call for participation form will help us understand who would like to take part in SRCCON and what you want to get out of it. With those responses, we’ll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-We will review entries to our call for participation form and notify everyone before the end of April. If invited to attend, you will have the chance to purchase a ticket for $225, plus fees. 
-
 ## Not Just Attendees, But Participants
 
 At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/sessions/about) who are ready to share their experiences and perspectives. [Check out the session proposals we received this year](/sessions/proposals/).
