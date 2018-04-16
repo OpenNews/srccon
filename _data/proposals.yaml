@@ -477,7 +477,7 @@
     {
         "cofacilitator": "Tyler Chance", 
         "cofacilitator_twitter": "tchance121", 
-        "description": "What have you built that’s now ignored? What took off and is now central to your newsroom’s daily grind? What was the difference? \n\nWe’re a product manager in New York and an editor in D.C., on the front lines of making and deciding to use a variety of tools, from those that help with daily coverage planning to chart-making to immersive storytelling. Let's talk about what's lived on and what's languished so that we can crack the code on building tools journalists actually use.", 
+        "description": "What have you built that’s now ignored? What took off and is now central to your newsroom’s daily grind? What was the difference?\n\nWe’re a product manager in New York and an editor in D.C., on the front lines of making and deciding to use a variety of tools, from those that help with daily coverage planning to chart-making to immersive storytelling. Let's talk about what's lived on and what's languished so that we can crack the code on building tools journalists actually use.\n\nOne strong hunch of ours: We can take concrete steps to deepen relationships between folks who see opportunities to solve problems (or stand to benefit) and those who are building the solutions.\n\nLet’s find themes in our boondoggles and wild successes and come away with an invaluable compilation of battle-tested advice to guide your next project.", 
         "facilitator": "Becky Bowers", 
         "facilitator_twitter": "beckybowers", 
         "id": 1533432, 
@@ -502,6 +502,15 @@
         "id": 1533389, 
         "submitted_at": "2018-04-13T19:41:00.616Z", 
         "title": "New phone, who dis: Building intimate audience relationships without the creep factor."
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Mission statements are more than lofty goals written in fancier-than-usual language. When thoughtfully crafted, a mission statement unites a team by determining what’s most important to its members. A simple and explicit mission statement can also serve as a guideline for task prioritization. Let’s craft a step-by-step guide to writing mission statements that encourages team participation, solicits their feedback and helps determine what your team truly prioritizes.", 
+        "facilitator": "Ryann Grochowski Jones", 
+        "facilitator_twitter": "ryanngro", 
+        "id": 1533366, 
+        "submitted_at": "2018-04-13T17:36:26.927Z", 
+        "title": "Crafting your team’s mission statement"
     }, 
     {
         "cofacilitator": null, 
@@ -822,7 +831,7 @@
     }, 
     {
         "cofacilitator": null, 
-        "description": "As non-editorial design/tech employees at news orgs, we’re often expected to follow the same social media policies as reporters and editors, and limit our involvement in anything that would be considered biased. \n\nI work on the design/tech team of a news org. I don’t make decisions about our content, so part of me feels like I should be able to express myself freely. We also have many devs and designers who previously didn’t work in journalism and may not realize this is something they’re getting into by working at a news organization. On the other hand, I know that anything I say could be reflected on the company as a whole, and many news consumers don’t differentiate between editorial and non-editorial employees.  \n\nThe value of non-bias/objectivity, whether or not objectivity is possible, and the ways that these policies impacts those with marginalized identities is a hot topic of conversation. It has unique implications for news employees who don’t make editorial decisions. Let’s discuss what the policies are where we work, to what extent we think we should be obligated to follow them, and what we think they should be.", 
+        "description": "As non-editorial design/tech employees at news orgs, we’re often subject to the same social media policies as reporters and editors, and need to limit our involvement in anything that would be considered biased.\n \nI work on the design/tech team of a news org. On the one hand, I don’t make decisions about our content, so any personal bias has no impact on our news coverage. On the other hand, I know that anything I say could be reflected on the company as a whole, and many news consumers don’t differentiate between editorial and non-editorial employees.\n \nThe value of non-bias/objectivity, whether or not objectivity is possible, and the ways that these policies impact those with marginalized identities is a hot topic of conversation. It also has unique implications for staff who don’t make editorial decisions. Let’s discuss what the policies are where we work and what the impact is on various kinds of employees.", 
         "facilitator": "Carolyn Gearig", 
         "facilitator_twitter": "@carolyngearig", 
         "id": 1531270, 
@@ -935,7 +944,7 @@
     {
         "cofacilitator": "Joe Germuska", 
         "cofacilitator_twitter": null, 
-        "description": "At Journalism + Design, we’ve been developing a deck of creativity cards, a la Brian Eno’s Oblique Strategies and the IDEO Method Cards, to help integrate the design process and systems thinking into the newsroom and train emerging journalists. I’d like to run a workshop, co-facilitated with Joe Germuska, with the J+D deck of cards for SRCCON attendees. We should have some sets of cards for people to take back to their newsrooms.", 
+        "description": "At Journalism + Design, we've been developing a deck of creativity cards, a la Brian Eno's Oblique Strategies and the IDEO Method Cards. The cards are designed to help integrate the design process and systems thinking into the newsroom and train emerging journalists. The idea is this: at various stages in the reporting and production process, if you're feeling stuck or just want to cover your bases, you'd review the cards for that stage, or just pick one at random. You might draw cards like:\n\n* Do a driveby. Put up your prototype and get feedback from a general audience\n* Murder your darlings. Be ruthless about cutting any fat\n* Connect loops. Use a systems lens to trace connections between forces within your story.\n\nEach card encapsulates a best practice or perspective that can remind you to start off on the right foot or help you get back in gear if you’re stuck. We'd love SRCCON to help us \"playtest\" the cards and refine the process and the content. We should have some sets of cards for people to take back to their newsrooms.", 
         "facilitator": "Allison Lichter Joseph", 
         "facilitator_twitter": "allisonlichter", 
         "id": 1522899, 
