@@ -7,9 +7,7 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-<p class="big-lead">Thanks to everyone who pitched a session. Check out our <a href="/sessions/proposals/">proposed sessions list</a>, and <a href="/participation/form/">consider joining us</a>.</p>
-
-We are no longer accepting session proposals, but if you would like to attend SRCCON, there's still time to [tell us that you'd like to be there](/participation/form/). We will review all responses to our call for participation and notify everyone before the end of April. If invited to attend or facilitate a session, you will have the chance to purchase a ticket for $225, plus fees.
+<p class="big-lead">Thanks to everyone who pitched a session. Check out our <a href="/sessions/proposals/">proposed sessions list</a>.</p>
 
 ## Key Dates for Your Calendar
 
@@ -17,7 +15,7 @@ We are no longer accepting session proposals, but if you would like to attend SR
 * **April 20**: call for participation closes (for all attendees)
 * **April 30**: last day by which participants will be notified
 
-Curious about how it all works? Learn more about [sessions at SRCCON](/sessions/about) and [what it's like to attend](/participation). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2018, our call for participation is how to let us know!
+We are busy reviewing all responses to our call for participation and will notify everyone before the end of April. If invited to attend or facilitate a session, you will have the chance to purchase a ticket for $225, plus fees. Curious about how it all works? Learn more about [sessions at SRCCON](/sessions/about) and [what it's like to attend](/participation).
 
 ## When & Where
 

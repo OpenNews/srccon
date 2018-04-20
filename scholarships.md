@@ -12,7 +12,7 @@ permalink: /scholarships/
 
 Whether you&rsquo;re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend SRCCON.
 
-You do not have to fill out a separate application to apply. Scholarship questions are part of our [call for participation form](/participation/form).
+You do not have to fill out a separate application to apply. Scholarship questions are part of our call for participation form, which closed on April 20.
 
 ## What We&rsquo;re Offering
 A ticket to SRCCON and $500 for you to use toward the cost of travel to the event. (For scholarship recipients who live in the Minneapolis area, we offer a SRCCON ticket without the additional travel funding.)
@@ -23,7 +23,7 @@ A ticket to SRCCON and $500 for you to use toward the cost of travel to the even
 * People of color, women, and other under-represented groups in technology are strongly encouraged to apply
 
 ## How to Apply
-Select the "Would you like to be considered for a SRCCON scholarship?" option on the application [call for participation form](/participation/form). A few scholarship-specific questions will pop onto the form.
+The application closed on April 20. When it was open, you could select the "Would you like to be considered for a SRCCON scholarship?" option on the application call for participation form. A few scholarship-specific questions will pop onto the form.
 
 ## When Notifications Go Out
 Notifications for scholarships will go out alongisde other notifications as part of the call for participation. Everyone will hear back by April 30.
