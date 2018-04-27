@@ -11,7 +11,7 @@ permalink: /logistics/
 ## Lodging
 We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://www.graduatehotels.com/minneapolis/) at a base rate of $152 per night. To get the conference rate, please call 612-379-8888 and ask for the SRCCON rate, or use our [dedicated booking link](https://gc.synxis.com/rez.aspx?Hotel=76179&Chain=21643&template=RBE&shell=RBE&start=availresults&arrive=6%2f28%2f2018&depart=7%2f2%2f2018&adult=1&child=0&group=062718SRCC).
 
-The Graduate Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather. The reserved block of rooms will be available until Jun3 6 or all rooms are booked, whichever happens first—booking early is always at good idea!
+The Graduate Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather. The reserved block of rooms will be available until June 6 or all rooms are booked, whichever happens first—booking early is always at good idea!
 
 ## Meals at SRCCON
 We want you to be happy and well-fed at SRCCON, so we're providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We'll also have tea, coffee, and snacks—healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
