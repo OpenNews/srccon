@@ -198,6 +198,17 @@
         "title": "Managing the blind spots in community news coverage"
     }, 
     {
+        "cofacilitator": "Kevin O'Gorman", 
+        "cofacilitator_twitter": "heretohinder", 
+        "cofacilitator_two": "", 
+        "cofacilitator_two_twitter": "", 
+        "description": "OpenNews and the BuzzFeed Open Lab collaborated with a ton of really smart journalists, editors, and trainers to compile a resource guide for newsroom security trainers. (https://securitytraining.opennews.org/). It's a great round up of new lesson plans and links out to existing lessons that cover important topics in digital privacy and security. We'd love to show you what's in the guide and spend some time adding even more resources to it. If you have lesson plans to share or just a few favorite resources or news stories that really make sense of a particular topic, bring them!", 
+        "facilitator": "Amanda Hickman", 
+        "facilitator_twitter": "amandabee", 
+        "id": "many-sides-coin", 
+        "title": "More security trainers, please!"
+    }, 
+    {
         "cofacilitator": "Candice D Fortman", 
         "cofacilitator_twitter": "cande313", 
         "cofacilitator_two": "", 
@@ -207,7 +218,7 @@
         "facilitator_twitter": "kriswellesley", 
         "id": "many-sides-coin", 
         "title": "More than two sides to the coin"
-    }, 
+    },
     {
         "cofacilitator": "Hannah Young", 
         "cofacilitator_twitter": "", 
@@ -264,8 +275,8 @@
         "title": "Regression in the newsroom: When to use it and thinking about best practices"
     }, 
     {
-        "cofacilitator": "", 
-        "cofacilitator_twitter": "", 
+        "cofacilitator": "Martin Stabe", 
+        "cofacilitator_twitter": "martinstabe", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
         "description": "A “words” journalist can spend their entire career as a reporter, starting with daily general assignment reporting and moving to beat reporting, international reporting, or investigative reporting. Along the way, they increase their visibility, credibility, and earnings. What could that look like for the journalism-tech community? For example, a “news nerd” version of a traditional foreign correspondent could uncover datasets abroad, figure out ways to engage the local community, or deploy hardware sensors to track environmental conditions.\n\nWe’ll first talk about all the different kinds of skills we bring to newsrooms. Then we’ll spend some time interviewing each other before we create out-of-the-box job descriptions we can get excited about.", 
@@ -418,8 +429,8 @@
         "title": "Unionize! Part two!"
     }, 
     {
-        "cofacilitator": "", 
-        "cofacilitator_twitter": "", 
+        "cofacilitator": "Joanna Kao", 
+        "cofacilitator_twitter": "joannaskao", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
         "description": "As digital journalists, we often push the platform forward, with cool new interactives and high-impact layouts. Unfortunately, accessibility is often ignored in the process. It's easy to make excuses: we're on deadline, or visual content wouldn't work in a screen reader anyway. But what if it's far easier than you think? In this session, we'll set up accessibility tools, share lessons we've learned about creating inclusive pages, and assemble a list of easy wins that you can take back to your newsrooms and digital teams.", 
@@ -442,8 +453,8 @@
     {
         "cofacilitator": "Arjuna Soriano", 
         "cofacilitator_twitter": "arjunasoriano", 
-        "cofacilitator_two": "", 
-        "cofacilitator_two_twitter": "", 
+        "cofacilitator_two": "Ha-Hoa Hamano", 
+        "cofacilitator_two_twitter": "hahoais_", 
         "description": "Voice interfaces are not the future. They are here. Today. This will change how we write, communicate, develop, and design. This session will take a look at how voice is affecting journalism, how our different newsrooms are reacting to the new platform, and the implications for the future. We will discuss learnings, challenges, successes, failures, opportunities, and false starts. We will attempt to predict the future of the voice space with a brainstorming exercise followed by prototyping a voice interface for news.", 
         "facilitator": "Yuri Victor", 
         "facilitator_twitter": "yurivictor", 
@@ -455,7 +466,7 @@
         "cofacilitator_twitter": "HBCompass", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "Trust is a buzzword throughout journalism and society. Journalists and the communities we serve wonder how much trust we have available to give. This is important in a world where we see a never-ending battle for attention. It might need us as a profession to be more open to being vulnerable to society. It doesn't necessarily have to be an uncomfortable or robotic interaction.   \n\nThis session will explore how to be more vulnerable as an individual and with your news team. We'll also discuss how we can do so with the communities we attempt to serve with our journalism. ", 
+        "description": "Trust is a buzzword throughout journalism and society. Journalists and the communities we serve wonder how much trust we have available to give. This is important in a world where we see a never-ending battle for attention. It might need us as a profession to be more open to being vulnerable to society. It doesn't necessarily have to be an uncomfortable or robotic interaction.\n\nThis session will explore how to be more vulnerable as an individual and with your news team. We'll also discuss how we can do so with the communities we attempt to serve with our journalism. ", 
         "facilitator": "Andre Natta", 
         "facilitator_twitter": "acnatta", 
         "id": "vulnerability-strategy", 

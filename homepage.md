@@ -9,14 +9,6 @@ permalink: /index.html
 
 <p class="big-lead">Thanks to everyone who pitched a session. Check out our <a href="/sessions/proposals/">proposed sessions list</a>.</p>
 
-## Key Dates for Your Calendar
-
-* **April 13**: call for participation closed (for session proposals)
-* **April 20**: call for participation closes (for all attendees)
-* **April 30**: last day by which participants will be notified
-
-We are busy reviewing all responses to our call for participation and will notify everyone before the end of April. If invited to attend or facilitate a session, you will have the chance to purchase a ticket for $225, plus fees. Curious about how it all works? Learn more about [sessions at SRCCON](/sessions/about) and [what it's like to attend](/participation).
-
 ## When & Where
 
 June 28 & 29, 2018, at the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
