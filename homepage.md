@@ -7,29 +7,21 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-<p class="big-lead">Thanks to everyone who pitched a session. Check out our <a href="/sessions/proposals/">proposed sessions list</a>.</p>
-
-## Key Dates for Your Calendar
-
-* **April 13**: call for participation closed (for session proposals)
-* **April 20**: call for participation closes (for all attendees)
-* **April 30**: last day by which participants will be notified
-
-We are busy reviewing all responses to our call for participation and will notify everyone before the end of April. If invited to attend or facilitate a session, you will have the chance to purchase a ticket for $225, plus fees. Curious about how it all works? Learn more about [sessions at SRCCON](/sessions/about) and [what it's like to attend](/participation).
+<p class="big-lead">We&rsquo;re excited to announce <a href="/sessions">the sessions coming to SRCCON 2018!</a> Plus, round two of tickets.</p>
 
 ## When & Where
 
 June 28 & 29, 2018, at the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
 
-Once tickets are sold, we'll be opening up a discounted block of rooms for participants at a nearby hotel.
+We've been able to find more space at our venue and we're going to open up another batch of tickets! **On May 14**, a rolling call for participation application will open for this final round of tickets. More details soon.
+
+Check [our logistics page](/logistics) for information about our conference hotel and other ways we hope to make it easier for you to attend SRCCON.
 
 ## About SRCCON
 
 This year we are psyched to celebrate the [fifth SRCCON](https://opennews.org/blog/srccon-five/).
 
-SRCCON is a hands-on conference, full of conversations and workshops focused on the practical challenges that news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included nearly 300 attendees and [more than 50 sessions](https://2017.srccon.org/schedule/) that covered a wide range of topics, from tech strategies to workplace culture struggles.
-
-At SRCCON 2018, we build the schedule together, reflecting the values of this community:
+SRCCON is a hands-on conference, full of conversations and workshops focused on the practical challenges that news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Over two-days, 300 attendees will gather for [nearly 50 sessions](https://srccon.org/sessions) that reflect the values of this community:
 
 * **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
 * **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.

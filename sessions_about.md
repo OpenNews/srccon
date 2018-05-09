@@ -6,13 +6,11 @@ photocredit_url: http://www.westraco.com/
 permalink: /sessions/about/index.html
 ---
 
-<p class="big-lead">Thank you to everyone who <a href="/sessions/proposals">proposed a session</a>!</p>
-
 # About Sessions at SRCCON
 
-SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that helps every attendee head home with new ideas. Check out the [proposals we received](/sessions/proposals/) for our 2018 program!
+SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that helps every attendee head home with new ideas. [See the sessions coming to SRCCON 2018!](/sessions)
 
-Our program for SRCCON 2018 will be built around key community values:
+Our program is built around key community values:
     
 * We experiment in the open—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
 * We support one another—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
