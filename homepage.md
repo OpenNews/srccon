@@ -7,13 +7,13 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-<p class="big-lead">Thanks to everyone who pitched a session. Check out our <a href="/sessions/proposals/">proposed sessions list</a>.</p>
+<p class="big-lead">Thanks to everyone who proposed session ideas this year. We&rsquo;re excited to announce <a href="/sessions">the sessions coming to SRCCON 2018!</a></p>
 
 ## When & Where
 
 June 28 & 29, 2018, at the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
 
-Once tickets are sold, we'll be opening up a discounted block of rooms for participants at a nearby hotel.
+Check [our logistics page](/logistics) for information about our conference hotel and other ways we hope to make it easier for you to attend SRCCON.
 
 ## About SRCCON
 

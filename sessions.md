@@ -6,9 +6,10 @@ photocredit_url: http://www.westraco.com/
 permalink: /sessions/index.html
 ---
 
-The following sessions have been confirmed for SRCCON 2018. Thank you to all who submitted proposals, and to the [community panel](#community-review) that helped us during the review process.
+## Sessions at SRCCON 2018
+The following sessions have been confirmed for this year's SRCCON program. Thank you to all who submitted proposals, and to the [community panel](#community-review) that helped us during the review process. [Read more about how sessions work at SRCCON](/sessions/about).
 
-We have a few sessions still to confirm, and some descriptions here may evolve between now and SRCCON. This year's final schedule will reflect any updates and include an evening program of fun, informal talks, discussions, and activities.
+We still have a few session topics to confirm, and some descriptions here may evolve. This year's final schedule will reflect any updates and include [an evening program](/logistics#thursday-evening-at-srccon) of fun, informal talks, discussions, and activities.
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.sessions %}
