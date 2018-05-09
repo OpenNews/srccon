@@ -20,7 +20,7 @@ This small size means that we have to be intentional about equitably distributin
 
 ## Not Just Attendees, But Participants
 
-At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/sessions/about) who are ready to share their experiences and perspectives. [Check out the session proposals we received this year](/sessions/proposals/).
+At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/sessions/about) who are ready to share their experiences and perspectives. [See the sessions coming to SRCCON 2018!](/sessions)
 
 [Facilitators create space](/sessions/about#facilitators) for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON an inclusive, welcoming place by leading fun group activities like knitting or book clubs, volunteering, and saying hi to new potential friends and collaborators over meals and coffee/tea/hot beverages.
 
