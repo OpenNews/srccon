@@ -74,7 +74,18 @@
         "facilitator": "Lo Benichou", 
         "facilitator_twitter": "lobenichou", 
         "id": "working-without-editors", 
-        "title": "Don’t Panic: the guide to working without an editor, even if you have one sitting right next to you. "
+        "title": "Don’t Panic: the guide to working without an editor, even if you have one sitting right next to you"
+    },
+    {
+        "cofacilitator": "Jonathan Stray", 
+        "cofacilitator_twitter": "jonathanstray", 
+        "cofacilitator_two": "", 
+        "cofacilitator_two_twitter": "", 
+        "description": "Anything is possible in Python, but that doesn’t mean you should be programming. Let’s share tools and tricks to scrape, clean, monitor, script, query, and visualize data in sophisticated ways that might even be better than writing custom code. We’ll be looking at two free, open-source tools in-depth:\n\nWorkbench (http://workbenchdata.com) is a platform that combines data tools and training for journalists. It is designed to help you stay focused on your story without needing resources from technical teams. Workbench makes it easy to scrape, clean and manipulate data in a repeatable and transparent way – without coding.\n\nDatasette (https://github.com/simonw/datasette) is a tool for publishing structured data to the web in a way that makes it easy for your audience to search and explore. Datasette also provides a JSON+SQL API that allows developers to quickly build apps and visualizations on top of that data.\n\nThis will be a hands-on tutorial. Example data will be provided, but if you can bring your own data (ideally as CSV but other formats will work fine as well) you’ll be able to analyze, visualize and publish it during the course of the session.", 
+        "facilitator": "Simon Willison", 
+        "facilitator_twitter": "simonw", 
+        "id": "more-data-less-programming", 
+        "title": "Doing more data with less programming"
     }, 
     {
         "cofacilitator": "", 
