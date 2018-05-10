@@ -37,7 +37,7 @@
         "cofacilitator_twitter": "jkteoh", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "For the immigrants: There are tons of us, but probably not enough under one roof to form a functional community. So let's get together and chat about how we can keep our heads above water while traversing a unique set of problems: from taking additional care to understand and report on issues that we probably haven’t grown up around, to working extra hard to find and land a job that sponsors a visa, and to dealing with entirely new identities.\nFor the allies: We know you care, we know you want to be supportive, but may not always know how. Join us so you can understand and support us in our struggles that we do not often feel like talking about. \nIn this two-part session, we will discuss how to navigate the (perhaps steep) learning curve of surviving and thriving in a culture that may be utterly unfamiliar, and then collectively devise and document strategies to better support immigrant journalists.", 
+        "description": "For the immigrants: There are tons of us, but probably not enough under one roof to form a functional community. So let's get together and chat about how we can keep our heads above water while traversing a unique set of problems: from taking additional care to understand and report on issues that we probably haven’t grown up around, to working extra hard to find and land a job that sponsors a visa, and to dealing with entirely new identities.\n\nFor the allies: We know you care, we know you want to be supportive, but may not always know how. Join us so you can understand and support us in our struggles that we do not often feel like talking about.\n\nIn this two-part session, we will discuss how to navigate the (perhaps steep) learning curve of surviving and thriving in a culture that may be utterly unfamiliar, and then collectively devise and document strategies to better support immigrant journalists.", 
         "facilitator": "Disha Raychaudhuri", 
         "facilitator_twitter": "Disha_RC", 
         "id": "community-immigrant-journalists", 
@@ -88,11 +88,22 @@
         "title": "Getting sh*t done without authority"
     }, 
     {
+        "cofacilitator": "Evan Wyloge", 
+        "cofacilitator_twitter": "EvanWyloge", 
+        "cofacilitator_two": "", 
+        "cofacilitator_two_twitter": "", 
+        "description": "Love transparency, but want to do more than than Instagram your most ridiculous redactions? Come talk about the ways emerging technologies intersect with local and federal practices around public records law, and brainstorm the tools we need to make public records work for today’s journalists, researchers, and the general public. How should public officials be handling requests for Facebook, WhatsApp, or Signal messages, and how can we work to make sure that happens? What strategies are effective for getting the databases we need to do our reporting?\n\nWe’ll share what has worked and possible best practices that will push governments toward greater transparency. We’ll also take a look at data from MuckRock and FOIA Machine, which have collectively helped file over 50,000 requests across over 10,000 agencies, and we’d like to hear your ideas on how this data can help all requesters file better requests. We also explore a database of every state’s public records laws, including sample exemptions, appeal letters, and more, and we’d love to find ways to integrate these tools into your newsroom’s processes.", 
+        "facilitator": "Michael Morisy", 
+        "facilitator_twitter": "morisy", 
+        "id": "foia-digital-era", 
+        "title": "Help drag FOIA (kicking and screaming) into the digital era"
+    },
+    {
         "cofacilitator": "Katie Park", 
         "cofacilitator_twitter": "katiepark", 
         "cofacilitator_two": "Alyson Hurt", 
         "cofacilitator_two_twitter": "alykat", 
-        "description": "We’re humans who are constantly changing, and our work life should be, too. Whether you’re taking a new job, switching to remote work or taking leave, how can you make that transition successful?\n\nWe’ll discuss strategies for dealing with change. The first step: Planning a graceful exit. That means writing an effective passoff document to let others know where you left off with important projects and who to ask for key information. Then, we’ll move on to the return to work or first days at a new gig. What’s the best goal to set in your first day, week and month? What’s the ideal way to introduce (or re-introduce) yourself to your manager and best enable them to help you meet your career goals? How do you get yourself up to speed?\n\nLet's find ways set ourselves up for transition success — and better support each other.", 
+        "description": "We’re humans who are constantly changing, and our work life should be, too. Whether you’re taking a new job, switching to remote work or taking leave, how can you make that transition successful?\n\nWe’ll discuss strategies for dealing with change. The first step: Planning a graceful exit. That means writing an effective passoff document to let others know where you left off with important projects and who to ask for key information.\n\nThen, we’ll move on to the return to work or first days at a new gig. What’s the best goal to set in your first day, week and month? What’s the ideal way to introduce (or re-introduce) yourself to your manager and best enable them to help you meet your career goals? How do you get yourself up to speed?\n\nWhether you're leaving a team or welcoming a new colleague, what can we all do to make these transitions go more smoothly? Let's find ways set ourselves up for transition success — and better support each other.", 
         "facilitator": "Darla Cameron", 
         "facilitator_twitter": "darlacameron", 
         "id": "cool-transitions", 
@@ -330,8 +341,8 @@
         "title": "Sick [journalist] theory: real talk about navigating disability in the newsroom"
     }, 
     {
-        "cofacilitator": "", 
-        "cofacilitator_twitter": "", 
+        "cofacilitator": "Karen Hao", 
+        "cofacilitator_twitter": "_KarenHao", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
         "description": "You're a developer in a mixed media team where everyone has the same goal: To create something visually striking and engaging. Working up against deadlines, you have to gather the pieces you need for a web presentation from photographers, videographers and illustrators who are eager to help, but who may not understand the challenges in responsive, browser compatible, quick loading web design. Many of the technical problems developers experience can be cleared up with clear communication among mixed media teams where everyones' expertise is validated, so we'll be sharing tips, common pitfalls and experiences on how to manage a media design project from vision to webpage. This session will be part open round table discussion between developers and multimedia journalists, and part small groups and games. ", 
