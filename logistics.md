@@ -13,6 +13,9 @@ We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://ww
 
 The Graduate Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather. The reserved block of rooms will be available until June 6 or all rooms are booked, whichever happens first—booking early is always at good idea!
 
+## Room share
+Have a room and looking for a roommate? Don't have a room and looking for someone who does? Add your info to [the room share list](https://etherpad.opennews.org/p/srcconRoomShare2018).
+
 ## Meals at SRCCON
 We want you to be happy and well-fed at SRCCON, so we're providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We'll also have tea, coffee, and snacks—healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
 
