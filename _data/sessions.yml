@@ -286,6 +286,17 @@
         "title": "Preparing for security vulnerabilities if you're an open source maintainer *or* user"
     }, 
     {
+        "cofacilitator": "", 
+        "cofacilitator_twitter": "", 
+        "cofacilitator_two": "", 
+        "cofacilitator_two_twitter": "", 
+        "description": "Membership' and 'reader revenue' have become media buzzwords. But how do you build and measure the success of your own membership program? What tools do you use to listen to readers, and what data do you track to make decisions about product offerings? Anika Gupta is a senior product manager at the _Atlantic_, where she works on the organization's Masthead membership program. She's also a former researcher with the Membership Puzzle Project in New York. She'll review the _Atlantic's_ approach to building their membership program, as well as MPP's research on best practices and 'thick' versus 'thin' models of participation. We'll start with some user research exercises, discuss MPP's theory and the _Atlantic's_ implementation, then break into small teams for workshops and brainstorming exercises focused on designing the right membership program and offerings for your organization.", 
+        "facilitator": "Anika Gupta", 
+        "facilitator_twitter": "DigitalAnika", 
+        "id": "radical-listening-membership", 
+        "title": "Radical listening - How do you design a media membership program focused on participation"
+    }, 
+    {
         "cofacilitator": "Amanda Hicks", 
         "cofacilitator_twitter": "amandahi", 
         "cofacilitator_two": "", 
@@ -295,7 +306,7 @@
         "facilitator_twitter": "Chronotope", 
         "id": "rebuilding-ad-tech", 
         "title": "Rebuilding Ad Tech: Open Source, Server to Server, Publisher First"
-    }, 
+    },
     {
         "cofacilitator": "Hannah Fresques", 
         "cofacilitator_twitter": "HannahFresques", 
