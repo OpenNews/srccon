@@ -12,7 +12,7 @@ Thanks for letting us know you'd like to be at SRCCON. We’ll follow up with yo
 
 Do you have a colleague who would be interested in or benefit from joining us in Minneapolis on June 28 & 29? Please ask them to apply! We hugely appreciate help reaching beyond our own networks, and personal recommendations have been a major part of what helps new folks find out about our events and bring more people into the community.
 
-You will hear on your application within a few days. We're going to review applications on a set rolling schedule:
+You will hear back from us about your application within a few days. We're going to review applications on a set rolling schedule:
 
 * Applications submitted Monday-Tuesday will be notified on Wednesday and have by noon ET Friday to purchase their ticket
 * Applications submitted Wednesday-Thursday will be notified on Friday and will have by noon ET Monday to purchase their ticket

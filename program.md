@@ -5,7 +5,7 @@ photocredit: Daniel X. O'Neil
 photocredit_url: https://www.flickr.com/photos/juggernautco/27262805686/
 permalink: /program/index.html
 ---
-
+# The SRCCON Program
 SRCCON is a hands-on conference full of peer-led workshops—but the schedule is just where our program begins. [Every attendee is also a participant](/participation) who brings their own interests and experiences into sessions, emergent conversations, our evening activities, and gatherings built around SRCCON.
 
 ## Our Sessions
@@ -13,9 +13,9 @@ SRCCON is a hands-on conference full of peer-led workshops—but the schedule is
 
 These sessions reflect the values of this community:
 
-* We experiment in the open—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
-* We support one another—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
-* We lead change—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC.
+* **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
+* **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC.
 
 This part of the program is a mix of work-culture conversations that challenge us to make newsrooms better, and technical workshops that help us build new expertise. You can attend up to 8 sessions over the two days of SRCCON, from about 50 on this year's schedule. [Check out this year's sessions](/sessions).
 
