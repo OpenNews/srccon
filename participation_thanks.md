@@ -12,7 +12,10 @@ Thanks for letting us know you'd like to be at SRCCON. We’ll follow up with yo
 
 Do you have a colleague who would be interested in or benefit from joining us in Minneapolis on June 28 & 29? Please ask them to apply! We hugely appreciate help reaching beyond our own networks, and personal recommendations have been a major part of what helps new folks find out about our events and bring more people into the community.
 
-Between now and then, here are a couple of key dates in the SRCCON process:
+You will hear on your application within a few days. We're going to review applications on a set rolling schedule:
 
-* The call for participation for attendees closes Friday, April 20, at 5pm ET.
-* We’ll notify everyone about attendance (and session proposals) by Monday, April 30.
+* Applications submitted Monday-Tuesday will be notified on Wednesday and have by noon ET Friday to purchase their ticket
+* Applications submitted Wednesday-Thursday will be notified on Friday and will have by noon ET Monday to purchase their ticket
+* Applications submitted Friday-Sunday will be notified on Monday and will have by noon ET on Wednesday to purchase their ticket
+
+If you need more time than that to purchase your ticket, you can just let us know, but we're setting this schedule out in advance to help folks plan around it.
