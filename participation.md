@@ -8,9 +8,12 @@ permalink: /participation/index.html
 
 # Not Just Attendees, But Participants
 
-SRCCON is a hands-on conference that works best when it's rather small. We'll have about 300 attendees this year, and everyone at SRCCON actively participates, whether they're facilitating a session, contributing to a conversation over lunch, or meeting new colleagues and supporting their work. This guide is here to help you figure out how _you'd_ like to take part in [the SRCCON program](/program), to share some things we do to help people participate fully, and (we hope!) to answer any questions on your mind. You can also check out our [logistics page](/logistics) for details like hotel and transit to help you get to SRCCON.
+SRCCON is a hands-on conference that works best when it's rather small. We'll have about 300 attendees this year, and everyone at SRCCON actively participates, whether they're facilitating a session, contributing to a conversation over lunch, or meeting new colleagues and supporting their work. This guide is here to help you figure out how _you'd_ like to take part in [the SRCCON program](/program), to share some things we do to help people participate fully, and (we hope!) to answer any questions on your mind.
+
+You can also check out our [logistics page](/logistics) for details on hotel and transit to help you get to SRCCON.
 
 ## How to Participate
+
 We have a call for participation [form open now to apply for an invitation to attend SRCCON](/participation/form). We were able to find more space in the SRCCON venue and open up a second batch of tickets, which we will allocate on a rolling basis. All applicants will receive an answer within a few days. If invited to attend, we'll email a link to purchase a ticket for $225, plus fees.
 
 We’ve experimented with different ways to allocate tickets over the last five years. This year, we used this call for participation form with one way to tell us everything about how you’d like to participate, from bringing your experiences and expertise to hands-on sessions to applying for a scholarship. In April, the session proposal and scholarship application sections of the form closed, but we're re-opening the section for general participation. The small size of SRCCON means that we have to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at the event. Our call for participation form helps us understand who would like to take part in SRCCON and what you want to get out of it.
