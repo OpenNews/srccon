@@ -89,6 +89,14 @@ header #header-image { /* default to MPLS skyline homepage background */
     background-image: url(/media/img/backgrounds/logistics.jpg);
     background-position: 0 0;
 }
+.program #header-image {
+    background-image: url(/media/img/backgrounds/program.jpg);
+    background-position: 0 0;
+}
+.localguide #header-image {
+    background-image: url(/media/img/backgrounds/localguide.jpg);
+    background-position: 0 0;
+}
 
 /* HEADER STYLES */
 header #corner-logo {
