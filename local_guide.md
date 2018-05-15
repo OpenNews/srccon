@@ -184,7 +184,7 @@ Select a picnic place (Gold Medal Park? The Walker Art Center Sculpture Garden?)
 [http://izzysicecream.com/locations/minneapolis/](http://izzysicecream.com/locations/minneapolis/)  
 2.1 miles  
 1100 South 2nd Street  
-Izzy's ice cream is so, so, so good. And it's right next to Gold Medal Park and the Gutrhie Theater.
+Izzy's ice cream is so, so, so good. And it's right next to Gold Medal Park and the Guthrie Theater.
 
 ### Urban Growler Brewing Co.
 
@@ -349,6 +349,11 @@ The Guthrie was built for plays, but anybody can walk in anytime and step out on
 2.2 miles  
 Gold Medal Park is a lovely picnic spot. Its right next to the Guthrie, which means you can also get in on the magic of the Endless Bridge. It's also right by Izzy's Ice Cream (see above). Seriously--it is your destiny.
 
+### Paddle the Mississippi River
+
+[http://paddleshare.org/](http://paddleshare.org/)  
+Kayak sharing (and all the other gear, like lifejackets paddles & more)! You don't need any of your own equipment, just make an online reservation and off you go. Along the Mississippi River, kayakers will pass natural sights like the heron rookery and other islands amid industrial yards and city infrastructure on a transitioning Minneapolis waterfront. They can also stop for dockside dining at places like Sample Room and Psycho Suzi's.
+
 ### Minnehaha Falls
 
 [https://en.wikipedia.org/wiki/Minnehaha_Park](https://en.wikipedia.org/wiki/Minnehaha_Park)_  
@@ -361,14 +366,14 @@ A waterfall, hiking trails, and a great seafood restauraunt. Oh, and you can ren
 [https://www.walkerart.org/garden/#map-overview/](https://www.walkerart.org/garden/#map-overview/)  
 4.5 miles  
 1750 Hennepin Avenue  
-You know that giant spoon with a giant cherry in it that appears on postcards and special broadcasts from Minneapolis? This is where it lives. And that is fine--it's kind of cool. But there is so much more at the Walker Art Center's sculpture garden. And they've got artist-designed mini-golf!  It also got a [serious upgrade](http://www.startribune.com/explore-the-dramatic-makeover-of-the-minneapolis-sculpture-garden/423649194/) this past year and just re-opened in June. 
+You know that giant spoon with a giant cherry in it that appears on postcards and special broadcasts from Minneapolis? This is where it lives. And that is fine—it's kind of cool. But there is so much more at the Walker Art Center's sculpture garden.
 
 ### University of Minnesota Landscape Arboretum
 
 [https://en.wikipedia.org/wiki/Minnesota_Landscape_Arboretum](https://en.wikipedia.org/wiki/Minnesota_Landscape_Arboretum)  
 26.4 miles  
 3675 Arboretum Drive, Chaska, MN  
-If you need a quiet place for a stroll, or just want to sit and think while surrounded by pretty growy things, you might think about the arboretum. It's a rental car thing for sure. There is a pretty insane LEGO exhibit there now. And then there is a Prince perk: To get there you have to drive by the compound he calls Paisely Park (which is also where he holds his occasional 2am concerts). If we're being honest, it is not aging well. But Prince!
+If you need a quiet place for a stroll, or just want to sit and think while surrounded by pretty growy things, you might think about the arboretum. It's a rental-car thing for sure, but there's also a Prince perk: To get there you drive by Paisley Park.
 
 ### Mississippi River via Padelford Riverboats
 
@@ -388,7 +393,7 @@ Fittingly enough, the biggest city in the Land of 10,000 Lakes features quite a 
 
 ## Books!
 
-These bookstores are vetted. There are plenty more that could (and maybe should) be on the list, but you can't go wrong with any of these (unless, of course, if you hate science fiction and decide to truck it out to Uncle Hugo's). Two things worth noting: Common Good Books is Garrison Keilor's bookstore (Wait! Come back!) and Wild Rumpus is a bookstore for kids that has LIVE ANIMALS running around. And we're not just talking about bookstore cats. There are chickens!
+These bookstores are vetted. There are plenty more that could (and maybe should) be on the list, but you can't go wrong with any of these (unless, of course, if you hate science fiction and decide to truck it out to Uncle Hugo's). Worth noting: Wild Rumpus is a bookstore for kids that has LIVE ANIMALS running around. And we're not just talking about bookstore cats. There are chickens!
 
 ### The Book House
 
@@ -534,6 +539,13 @@ You can find the multiplexes easy enough. These are the special theaters. Oh, an
 704 S 2nd St.  
 Does a really great job of telling some of the key history of Minnesota—the flour industry. Plus you can get a great view of the city, St. Anthony Falls ,and the Mississippi River from the top of the museum. Also great for children!
 
+### Northern Clay Center
+
+[https://www.northernclaycenter.org/](https://www.northernclaycenter.org/)  
+1.6 miles  
+2424 Franklin Ave. E.
+
+
 ### Intermedia Arts
 
 [http://intermediaarts.org/](http://intermediaarts.org/)  
@@ -568,12 +580,6 @@ Does a really great job of telling some of the key history of Minnesota—the fl
 2.8 miles  
 3010 Minnehaha Avenue
 
-### The Triple Rock Social Club
-
-[http://www.triplerocksocialclub.com](http://www.triplerocksocialclub.com)  
-2.3 miles  
-629 Cedar Avenue
-
 ### Turf Club
 
 [http://turfclub.net](http://turfclub.net)  
@@ -604,18 +610,6 @@ Does a really great job of telling some of the key history of Minnesota—the fl
 5.9 miles  
 4001 Bryant Ave S  
 The Twin Cities’ only "listening room," the Warming House is a forty-seat venue below a bike shop. There’s no booze on sale, which has the advantage of people coming to actually listen to the mostly acoustic and Americana focused acts.
-
-<span id="festivals"></span>
-
-## Festivals and Events
-
-### Twin Cities Jazz Festival
-
-[http://www.hotsummerjazz.com/](http://www.hotsummerjazz.com/)  
-
-### Twin Cities Pride Festival and Parade
-
-[https://www.tcpride.org/](https://www.tcpride.org/)  
 
 <span id="kids"></span>
 
@@ -676,13 +670,6 @@ The most freakishly delightful surplus store this side of the Mississippi. Not m
 1504 South 7th Street  
 Just trust...
 
-#### Walker Art Center's Artist-Designed Mini-Golf
-
-[http://www.walkerart.org/calendar/2014/walker-green-artist-designed-mini-golf](http://www.walkerart.org/calendar/2014/walker-green-artist-designed-mini-golf)  
-4.5 miles  
-1750 Hennepin Avenue  
-Exactly what it says. And no windmills allowed. (For weather-related and course closure information, call 612.375.7697.)
-
 ### Prince sites
 
 [http://www.exploreminnesota.com/travel-ideas/prince-tour-of-minneapolis/](http://www.exploreminnesota.com/travel-ideas/prince-tour-of-minneapolis/)  
@@ -713,8 +700,8 @@ It's a 2.5-hour drive, but it's a great little city on a really big lake. If you
 
 ## More Lists
 
-### City Pages, "Best of…" lists for 2017
+### City Pages, "Best of…" lists for 2018
 
-[http://www.citypages.com/best-of](http://www.citypages.com/best-of)  
+[http://www.citypages.com/best-of/2018](http://www.citypages.com/best-of/2018)  
 This covers a lot of other ground, especially in food and entertainment.
 
