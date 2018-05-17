@@ -177,6 +177,6 @@ In your sessions and outside them, the SRCCON staff will fully support you in ma
 * [Teaching and brainstorming inclusive technical metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product’s Nicole Zhu
 * [Stuck in a rut? Tackle newsroom frustrations with board games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont’s Seven Days
 * [Behind the decisions that help make SRCCON, and your sessions, more humane](http://opennews.org/blog/srccon-human-stuff/)
-* [Our favorite facilitation guide from AORTA Coop](http://aorta.coop/sites/default/files/ao_facilitation_resource_sheet_july_2014.pdf)
+* [Our favorite facilitation guide from AORTA Coop](http://aorta.coop/portfolio_page/facilitation-in-motion/)
 * [Tips from our friends at Aspiration Tech about running a breakout session](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Break-Outs)
 * [General facilitation tips from Aspiration Tech](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Facilitator_Guidelines)
