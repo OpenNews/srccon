@@ -484,8 +484,8 @@
         "title": "Visualization as a Civil Right"
     }, 
     {
-        "cofacilitator": "", 
-        "cofacilitator_twitter": "", 
+        "cofacilitator": "Hilary Fung", 
+        "cofacilitator_twitter": "hil_fung", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
         "description": "If you are a news nerd, you probably know how to make data graphics in just a few lines of code, whether in d3, R, or python. But computer tools can restrict your creativity by making you think inside the box, both figuratively and literally. \n\nIn this session, we'll bust out the markers, paper, stickers, string, balloons, and other fun stuff. We'll practice iterating on ideas, freed from the computer. Inspired by the work of Mona Chalabi (who uses hand-drawn visualizations to make her work more accessible), Stefanie Posavec and Giorgia Lupi (who embarked on a year-long personal data collection postcard project which became the book Dear Data), and Jose Duarte (of Handmade Visuals), we will play with color, shape, size, and texture. \n\nI'll provide some supplies, but you're welcome to bring your own! Do you have a pack of Prismacolor markers burning a hole in your pocket? A washi tape collection that never sees the light of day? We can visualize data with that!", 
