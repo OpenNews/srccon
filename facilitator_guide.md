@@ -24,6 +24,7 @@ Session facilitators make SRCCON what it is: a collaborative, hands-on conferenc
 * [Tips on Effective Facilitation](#tips-facilitation)
 * [Tips on Running an Inclusive Session](#tips-inclusivity)
 * [Additional Resources](#resources)
+* [Sessions From Previous SRCCONs](#previous)
 
 <span id="about-srccon"></span>
  
@@ -180,3 +181,14 @@ In your sessions and outside them, the SRCCON staff will fully support you in ma
 * [Our favorite facilitation guide from AORTA Coop](http://aorta.coop/portfolio_page/facilitation-in-motion/)
 * [Tips from our friends at Aspiration Tech about running a breakout session](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Break-Outs)
 * [General facilitation tips from Aspiration Tech](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Facilitator_Guidelines)
+
+<span id="previous"></span>
+
+## Sessions From Previous SRCCONs
+
+We archive each year's conference site and schedule, so if you'd like to take a look back at the topics we've tackled before, dig in!
+
+* [SRCCON 2017](https://2017.srccon.org/schedule/)
+* [SRCCON 2016](https://2016.srccon.org/schedule/)
+* [SRCCON 2015](https://2015.srccon.org/schedule/)
+* [SRCCON 2014](https://2014.srccon.org/schedule/)
