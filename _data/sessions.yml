@@ -286,11 +286,11 @@
         "title": "Preparing for security vulnerabilities if you're an open source maintainer *or* user"
     }, 
     {
-        "cofacilitator": "", 
-        "cofacilitator_twitter": "", 
+        "cofacilitator": "Andrew McGill", 
+        "cofacilitator_twitter": "andrewmcgill", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "Membership' and 'reader revenue' have become media buzzwords. But how do you build and measure the success of your own membership program? What tools do you use to listen to readers, and what data do you track to make decisions about product offerings? Anika Gupta is a senior product manager at the _Atlantic_, where she works on the organization's Masthead membership program. She's also a former researcher with the Membership Puzzle Project in New York. She'll review the _Atlantic's_ approach to building their membership program, as well as MPP's research on best practices and 'thick' versus 'thin' models of participation. We'll start with some user research exercises, discuss MPP's theory and the _Atlantic's_ implementation, then break into small teams for workshops and brainstorming exercises focused on designing the right membership program and offerings for your organization.", 
+        "description": "‘Membership’ and ‘reader revenue’ have become media buzzwords. But how do you build and measure the success of your own membership program? What tools do you use to listen to readers, and what data do you track to make decisions about product offerings? Anika Gupta and Andrew McGill are senior product managers at the Atlantic, where they work on the organization’s Masthead membership program. Anika’s also a former researcher with the Membership Puzzle Project in New York. They’ll review the Atlantic’s approach to building their membership program, as well as MPP’s research on best practices and ‘thick’ versus ‘thin’ models of participation. The session will start with some user research exercises, discuss MPP’s theory and the Atlantic’s implementation, then break into small teams for workshops and brainstorming exercises focused on designing the right membership program and offerings for your organization.", 
         "facilitator": "Anika Gupta", 
         "facilitator_twitter": "DigitalAnika", 
         "id": "radical-listening-membership", 
@@ -532,11 +532,11 @@
         "cofacilitator_twitter": "hannahsung", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "Do you appreciate how the nerds you work with can make digital magic, but grow impatient when they wax on about methodology? Do you admire the journalists you collaborate with and their innate storytelling abilities, but resent when they assume that “fix” is going to be “easy”?\n\nIn this intersection of tech and journalism, journalists have to work with developers, data journalists have to work with designers; while product managers, producers and editors try to translate between them all. It can be frustrating to figure out how to do this well and not silently stew. We’ll work through the struggles with understanding and identify how to foster better collaboration and bridge communication gaps.\n\nThough newsrooms are working on innovative new projects with these teams more than ever, it can be difficult to know how to work with people whose skills you might not understand; and even more tricky to lead those teams.", 
+        "description": "Ever wish you had a roadmap for how to bridge all the different ways we work in a modern newsroom? There are data journalists, developers, traditional beat reporters…and what does a producer do, anyway? This session is for all of you. Everyone will leave with their own personal roadmap, a one-sheet list that will come out of collaborative brainstorming. The point is to better understand ourselves, where we are situated and how to communicate in order to collaborate once we are back in our own newsrooms. Come and build your own map by joining us.\n\nAs we are all experiencing with the intersection of tech and journalism, journalists have to work with developers, data journalists have to work with designers; while product managers, producers and editors try to translate between them all. It can be frustrating to figure out how to do this well and not silently stew. We’ll work through the struggles with understanding and identify how to foster better collaboration and bridge communication gaps.\n\nThough newsrooms are working on innovative new projects with these teams more than ever, it can be difficult to know how to work with people whose skills you might not understand; and even more tricky to lead those teams.\n\nThe aim is to leave this workshop with a better handle on how you can work better and more collaboratively upon your return to work.", 
         "facilitator": "Hannah Wise", 
         "facilitator_twitter": "hannahjwise", 
         "id": "bridging-gaps", 
-        "title": "Whine & Shine: A support group for nerds, journalists and those who bridge the gap"
+        "title": "Whine & Shine: A support group for nerds, journalists, and those who bridge the gap"
     }, 
     {
         "cofacilitator": "", 
