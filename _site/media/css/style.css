@@ -77,10 +77,31 @@ header #header-image { /* default to MPLS skyline homepage background */
     background-image: url(/media/img/backgrounds/participation.jpg);
     background-position: 0 -220px;
 }
+.scholarships #header-image {
+    background-image: url(/media/img/backgrounds/scholarships.jpg);
+    background-position: 0 0;
+}
+.childcare #header-image {
+    background-image: url(/media/img/backgrounds/childcare.jpg);
+    background-position: 0 0;
+}
+.logistics #header-image {
+    background-image: url(/media/img/backgrounds/logistics.jpg);
+    background-position: 0 0;
+}
+.program #header-image {
+    background-image: url(/media/img/backgrounds/program.jpg);
+    background-position: 0 0;
+}
+.localguide #header-image {
+    background-image: url(/media/img/backgrounds/localguide.jpg);
+    background-position: 0 0;
+}
 
 /* HEADER STYLES */
 header #corner-logo {
-    float: left;
+    position: absolute;
+    z-index: 100;
     margin: .33em 1em -150px 0;
 }
 header #corner-logo img {
@@ -134,6 +155,20 @@ header nav a:hover {
     border: 0px solid #fff;
     border-left: 0;
     border-right: 0;
+    position: relative;
+}
+
+#header-image .photo-credit {
+    font-size: .5em;
+    line-height: 1;
+    position: absolute;
+    right: 1em;
+    bottom: 0;
+    opacity: .75;
+}
+#header-image .photo-credit, #header-image .photo-credit a {
+    color: #fff;
+    text-shadow: 0 0 1px rgba(0,0,0,.7);
 }
 
 /* MAIN CONTENT AREA STYLES */
@@ -218,6 +253,69 @@ footer #footer-details .page-container {
 }
 
 
+/* SESSION LIST STYLES */
+.session-proposal-list {
+    margin-top: 3em;
+}
+.session-proposal-list .session-proposal {
+    margin-bottom: 2em;
+}
+.session-proposal-list .facilitator {
+    font-size: .8em;
+    font-style: italic;
+    margin-bottom: .33em;
+}
+
+
+/* FORM STYLES */
+.fr_description {
+    font-size: .8em;
+    font-style: italic;
+    line-height: 1.2;
+    padding: .25em 0 .5em;
+}
+.fr_form h3,
+.fr_form h4 {
+    margin-top: 2em;
+}
+.fr_form hr {
+    border: 0;
+    border-bottom: 1px solid #aaa;
+}
+.fr_text.size_large {
+    font-family: sofia-pro, sans-serif;
+    font-weight: bold;
+}
+.fr_min_max {
+    font-family: sofia-pro, sans-serif;
+    font-size: .7em;
+}
+.fr_text.size_medium,
+.fr_text.size_small,
+.fr_response_field label {
+    line-height: 1.2;
+}
+.fr_response_field label {
+    padding-bottom: .33em;
+}
+.fr_response_field_paragraph textarea.size_medium {
+    width: 100% !important;/* override screendoor import later on */
+    padding: .25em .5em;
+}
+.fr_response_field_text input#c22,
+.fr_response_field_text input#c24,
+.fr_response_field_text input#c26,
+.fr_response_field_text input#c28,
+.fr_response_field_text input#c50 {/* not ideal, but only way to target session fields */
+    width: 100%;
+}
+.fr_response_field_paragraph textarea,
+.fr_response_field_text input {
+    font-family: sofia-pro, sans-serif;
+    font-size: .8em;
+}
+
+
 @media screen and (min-width: 1200px) {
     .participation #header-image {
         background-position: 0 -290px;
@@ -258,6 +356,9 @@ footer #footer-details .page-container {
     header #header-image {
         height: 240px;
     }
+    #header-image .photo-credit {
+        font-size: .4em;
+    }
     .homepage #header-image {
         background-position: 0 -90px;
     }
@@ -284,6 +385,10 @@ footer #footer-details .page-container {
     }
     header #corner-logo img {
         width: 210px;
+    }
+    #header-image .photo-credit {
+        bottom: auto;
+        top: 1em;
     }
     #header-callout {
         line-height: 1.6;
