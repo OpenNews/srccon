@@ -247,14 +247,28 @@ footer #footer-nav li a {
 footer #footer-nav a:hover {
     text-decoration: underline;
 }
-footer #footer-details {
-    padding: 1em;
-    font-size: .67em;
-}
 footer #footer-details .page-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
+
+footer #footer-sponsor-list a {
+    display: block;
+}
+footer #footer-sponsor-list img {
+    width: 100%;
+}
+footer #footer-sponsor-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+footer #footer-details,
+footer #footer-sponsors {
+    padding: 1em;
+    font-size: .67em;
+}
+
 
 
 /* SESSION LIST STYLES */
@@ -420,6 +434,10 @@ footer #footer-details .page-container {
     .participation #header-image {
         background-position: 0 -150px;
     }
+    footer #footer-sponsor-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -443,6 +461,10 @@ footer #footer-details .page-container {
     }
     .participation #header-image {
         background-position: 0 -80px;
+    }
+    footer #footer-sponsor-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     }
 }
 
@@ -476,7 +498,8 @@ footer #footer-details .page-container {
     .participation #header-image {
         background-position: 0 0;
     }
-    footer #footer-details .page-container {
+    footer #footer-details .page-container,
+    footer #footer-sponsors .page-container {
         display: inherit;
     }
     footer #footer-nav ul {
@@ -485,6 +508,15 @@ footer #footer-details .page-container {
     }
     footer #footer-nav li a {
         text-align: left;
+    }
+    footer #footer-sponsors h3,
+    footer #footer-sponsor-list {
+        display: inherit;
+        text-align: center;
+    }
+    footer #footer-sponsor-list img {
+        width: 67%;
+        margin: .5em 0;
     }
 }
 
