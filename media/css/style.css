@@ -509,11 +509,14 @@ footer #footer-sponsors {
     footer #footer-nav li a {
         text-align: left;
     }
+    footer #footer-sponsors h3,
     footer #footer-sponsor-list {
         display: inherit;
+        text-align: center;
     }
     footer #footer-sponsor-list img {
         width: 67%;
+        margin: .5em 0;
     }
 }
 
