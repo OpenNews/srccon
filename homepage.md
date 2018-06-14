@@ -7,15 +7,13 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-<p class="big-lead">We&rsquo;re excited to announce <a href="/sessions">the sessions coming to SRCCON 2018!</a>  Plus, <a href="/participation/form">round two of tickets</a>.</p>
-
 ## When & Where
 
-June 28 & 29, 2018, at the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
+This year SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis, Minnesota, on June 28 & 29. We'll have more than 50 sessions on how we experiment in the open, support one another, and lead change.
 
-We've been able to find more space at our venue and we have a second set of tickets on sale! **On May 14**, we opened a rolling [call for participation application](/participation/form) for this final round of tickets. Want to join us at SRCCON? [Tell us now](/participation/form).
+[The 2018 schedule is now live!](https://schedule.srccon.org)
 
-Check [our logistics page](/logistics) for information about our conference hotel and other ways we hope to make it easier for you to attend SRCCON.
+If you're preparing to attend, we have a lot more details on the SRCCON [participation](/participation) and [logistics](/logistics) pages.
 
 ## About SRCCON
 

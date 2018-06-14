@@ -8,6 +8,8 @@ permalink: /program/index.html
 # The SRCCON Program
 SRCCON is a hands-on conference full of peer-led workshops—but the schedule is just where our program begins. [Every attendee is also a participant](/participation) who brings their own interests and experiences into sessions, emergent conversations, our evening activities, and gatherings built around SRCCON.
 
+See what we have in store on [the official schedule for SRCCON 2018](https://schedule.srccon.org).
+
 ## Our Sessions
 [Sessions at SRCCON](/sessions) are highly collaborative, not a panel on a stage or a speaker running through slides. Facilitators give peers a chance to compare notes, share skills, and learn from each other. We encourage session leaders to think about activities and outcomes—what can attendees take home with them, and how will it change our work? SRCCON is a [genuinely participatory event](/participation), so we look for sessions that include real interactivity and creative formats that support learning.
 
@@ -20,7 +22,7 @@ These sessions reflect the values of this community:
 This part of the program is a mix of work-culture conversations that challenge us to make newsrooms better, and technical workshops that help us build new expertise. You can attend up to 8 sessions over the two days of SRCCON, from about 50 on this year's schedule. [Check out this year's sessions](/sessions).
 
 ## Our Schedule
-SRCCON is also organized around building connections between participants. We want you to be able to fully focus on taking part—not just in the sessions on the official schedule, but in all the great conversations in hallways and after hours that make an event memorable. So we build in generous breaks to let you chat or grab coffee or tea without feeling rushed getting to the next thing. We provide a full breakfast and lunch both days, with space to chill out or make plans with new friends. Dinner and our Thursday evening program are a chance to spend time with people in more relaxed space.
+SRCCON is also organized around building connections between participants. We want you to be able to fully focus on taking part—not just in the [sessions on the official schedule](https://schedule.srccon.org), but in all the great conversations in hallways and after hours that make an event memorable. So we build in generous breaks to let you chat or grab coffee or tea without feeling rushed getting to the next thing. We provide a full breakfast and lunch both days, with space to chill out or make plans with new friends. Dinner and our Thursday evening program are a chance to spend time with people in more relaxed space.
 
 A schedule that's too full doesn't just wear you out, it leaves no room to connect with new people and ideas. We intentionally create space for you to explore the things you're learning and find collaborators along the way. Here's what our days look like:
 
@@ -36,7 +38,7 @@ A schedule that's too full doesn't just wear you out, it leaves no room to conne
 
 **Friday**
 
-* **9AM:** Breakfast
+* **9AM:** Coffee & Tea
 * **10AM-1PM:** Two 75-minute sessions with a 30-minute break between
 * **1PM:** Lunch
 * **2:30-5:30PM:** Two 75-minute sessions with a 30-minute break between
