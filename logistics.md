@@ -10,9 +10,7 @@ permalink: /logistics/
 SRCCON 2018 takes place June 28 & 29, 2018, at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis. You can also check out [how our schedule works](/program/#our-schedule).
 
 ## Lodging
-We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://www.graduatehotels.com/minneapolis/) at a base rate of $152 per night. To get the conference rate, please call 612-379-8888 and ask for the SRCCON rate, or use our [dedicated booking link](https://gc.synxis.com/rez.aspx?Hotel=76179&Chain=21643&template=RBE&shell=RBE&start=availresults&arrive=6%2f28%2f2018&depart=7%2f2%2f2018&adult=1&child=0&group=062718SRCC).
-
-The Graduate Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather. The reserved block of rooms will be available until June 6 or all rooms are booked, whichever happens first—booking early is always at good idea!
+Our conference rate at the [The Graduate Hotel](https://www.graduatehotels.com/minneapolis/) has expired, but you can call (612) 379-8888 to inquire about any rooms that might still be available.
 
 Other hotels not far from the conference venue include:
 
