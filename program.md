@@ -38,7 +38,7 @@ A schedule that's too full doesn't just wear you out, it leaves no room to conne
 
 **Friday**
 
-* **9AM:** Breakfast
+* **9AM:** Coffee & Tea
 * **10AM-1PM:** Two 75-minute sessions with a 30-minute break between
 * **1PM:** Lunch
 * **2:30-5:30PM:** Two 75-minute sessions with a 30-minute break between
