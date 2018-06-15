@@ -254,13 +254,23 @@ footer #footer-details .page-container {
 
 footer #footer-sponsor-list a {
     display: block;
+    margin: .5em 0;
+    text-align: center;
 }
 footer #footer-sponsor-list img {
     width: 100%;
 }
+footer #footer-sponsor-list .narrow-logo {
+    padding-left: 25px;
+}
+footer #footer-sponsor-list .narrow-logo img {
+    width: auto;
+    height: 50px;
+}
 footer #footer-sponsor-list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: 200px 200px 150px 200px;
 }
 
 footer #footer-details,
@@ -438,6 +448,14 @@ footer #footer-sponsors {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     }
+    footer #footer-sponsor-list .narrow-logo {
+        padding-left: 0;
+    }
+    footer #footer-sponsor-list .narrow-logo img {
+        width: 50%;
+        height: auto;
+        vertical-align: text-top;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -516,7 +534,12 @@ footer #footer-sponsors {
     }
     footer #footer-sponsor-list img {
         width: 67%;
+        height: auto;
         margin: .5em 0;
+    }
+    footer #footer-sponsor-list .narrow-logo img {
+        width: 40%;
+        vertical-align: inherit;
     }
 }
 
