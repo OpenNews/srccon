@@ -254,6 +254,7 @@ footer #footer-details .page-container {
 
 footer #footer-sponsor-list a {
     display: block;
+    margin: .5em 0;
 }
 footer #footer-sponsor-list img {
     width: 100%;
