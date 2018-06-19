@@ -206,6 +206,17 @@ main input {
     margin: 0 -1em 1.2em;
 }
 
+.sponsor-block {
+    margin: 0 0 2.5em;
+}
+.sponsor-block img {
+    width: 67%;
+    display: block;
+    margin: 0 auto .5em;
+}
+.sponsor-block .narrow-logo img {
+    width: 50%;
+}
 
 /* FOOTER STYLES */
 footer p {
@@ -252,25 +263,27 @@ footer #footer-details .page-container {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
-footer #footer-sponsor-list a {
+.sponsor-list a {
     display: block;
     margin: .5em 0;
     text-align: center;
 }
-footer #footer-sponsor-list img {
+.sponsor-list img {
     width: 100%;
 }
-footer #footer-sponsor-list .narrow-logo {
+.sponsor-list .narrow-logo {
     padding-left: 25px;
 }
-footer #footer-sponsor-list .narrow-logo img {
+.sponsor-list .narrow-logo img {
     width: auto;
     height: 50px;
 }
-footer #footer-sponsor-list {
+.sponsor-list {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-template-columns: 200px 200px 150px 200px;
+}
+.sponsors .sponsor-list {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
 footer #footer-details,
@@ -444,17 +457,20 @@ footer #footer-sponsors {
     .participation #header-image {
         background-position: 0 -150px;
     }
-    footer #footer-sponsor-list {
+    .sponsor-list {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     }
-    footer #footer-sponsor-list .narrow-logo {
+    .sponsor-list .narrow-logo {
         padding-left: 0;
     }
-    footer #footer-sponsor-list .narrow-logo img {
+    .sponsor-list .narrow-logo img {
         width: 50%;
         height: auto;
         vertical-align: text-top;
+    }
+    .sponsors .sponsor-list {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     }
 }
 
@@ -480,9 +496,16 @@ footer #footer-sponsors {
     .participation #header-image {
         background-position: 0 -80px;
     }
-    footer #footer-sponsor-list {
+    .sponsor-list {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+    .sponsors .sponsor-list {
+        display: inherit;
+        text-align: center;
+    }
+    .sponsors .sponsor-list img {
+        width: 67%;
     }
 }
 
@@ -528,18 +551,21 @@ footer #footer-sponsors {
         text-align: left;
     }
     footer #footer-sponsors h3,
-    footer #footer-sponsor-list {
+    .sponsor-list {
         display: inherit;
         text-align: center;
     }
-    footer #footer-sponsor-list img {
+    .sponsor-list img {
         width: 67%;
         height: auto;
         margin: .5em 0;
     }
-    footer #footer-sponsor-list .narrow-logo img {
+    .sponsor-list .narrow-logo img {
         width: 40%;
         vertical-align: inherit;
+    }
+    .sponsor-block img {
+        width: 100%;
     }
 }
 
