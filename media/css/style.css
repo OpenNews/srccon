@@ -279,7 +279,17 @@ footer #footer-sponsors {
     font-size: .67em;
 }
 
-
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+    font-size: .83em;
+    margin-bottom: 3em;
+}
+td {
+    padding: 0 1em 1em 0;
+    vertical-align: top;
+    line-height: 1.3;
+}
 
 /* SESSION LIST STYLES */
 .session-proposal-list {
