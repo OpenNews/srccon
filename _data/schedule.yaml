@@ -511,7 +511,7 @@
     }, 
     {
         "day": "Friday", 
-        "description": "A “words” journalist can spend their entire career as a reporter, starting with daily general assignment reporting and moving to beat reporting, international reporting, or investigative reporting. Along the way, they increase their visibility, credibility, and earnings. What could that look like for the journalism-tech community? For example, a “news nerd” version of a traditional foreign correspondent could uncover datasets abroad, figure out ways to engage the local community, or deploy hardware sensors to track environmental conditions.\n\nWe’ll first talk about all the different kinds of skills we bring to newsrooms. Then we’ll spend some time interviewing each other before we create out-of-the-box job descriptions we can get excited about.", 
+        "description": "A “words” journalist can spend their entire career as a reporter, starting with daily general assignment reporting and moving to beat reporting, international reporting, or investigative reporting. Along the way, they increase their visibility, credibility, and earnings. What could that look like for the journalism-tech community? For example, a “news nerd” version of a traditional foreign correspondent could uncover datasets abroad, figure out ways to engage the local community, or deploy hardware sensors to track environmental conditions.\n\nFirst, we’ll interview each other to identify the range of skills we bring to newsrooms and the skills we want to acquire to get our next opportunity. We’ll look at the skills and brainstorm both new jobs and ways to rethink currently existing jobs. What sort of organization or team would need or want this role to exist, and why? Then, we’ll share our ideas with the larger group.", 
         "everyone": "", 
         "facilitators": "Soo Oh, Martin Stabe", 
         "facilitators_twitter": "soooh, martinstabe", 
@@ -521,7 +521,7 @@
         "room": "Ski-U-Mah", 
         "time": "10-11:15am", 
         "timeblock": "friday-am-1", 
-        "title": "Reimagining news nerd career paths via job listings", 
+        "title": "Reimagining news nerd career paths", 
         "transcription": "y"
     }, 
     {
@@ -911,7 +911,7 @@
         "room": "Memorial", 
         "time": "5:30pm", 
         "timeblock": "friday-evening", 
-        "title": "Closing", 
+        "title": "SRCCON Closing", 
         "transcription": "y"
     }
 ]
