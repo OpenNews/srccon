@@ -4,7 +4,9 @@ section: sponsors
 permalink: /sponsors/index.html
 ---
 
-<h2>Core sponsors</h2>
+<div class="sponsor-block">
+    <h2>Core sponsors</h2>
+</div>
 
 <div class="sponsor-block">
     <a href="https://vip.wordpress.com/" class="narrow-logo"><img src="/media/img/partners/wordpress_vip2.png"></a>
@@ -32,11 +34,9 @@ permalink: /sponsors/index.html
     <p>Find out more at <a href="https://newsinitiative.withgoogle.com">newsinitiative.withgoogle.com</a></p>
 </div>
 
-<div class="page-container">
+<div class="sponsor-block secondary">
     <h3>Event sponsors</h3>
-    <div class="sponsor-list">
-        <a href="https://www.voxmedia.com/"><img src="/media/img/partners/vox_media_horiz.png"></a>
-        <a href="http://jsk.stanford.edu/"><img src="/media/img/partners/jsk.png"></a>
-        <a href="https://alley.co/"><img src="/media/img/partners/alley.png"></a>
-    </div>
+    <a href="https://www.voxmedia.com/"><img src="/media/img/partners/vox_media_horiz.png"></a>
+    <a href="http://jsk.stanford.edu/"><img src="/media/img/partners/jsk.png"></a>
+    <a href="https://alley.co/"><img src="/media/img/partners/alley.png"></a>
 </div>
