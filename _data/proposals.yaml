@@ -1,5 +1,23 @@
 [
     {
+        "cofacilitator": null, 
+        "description": "How do you disclose to your manager that you have a disability? Do you wait until after the job offer? How do you keep up with the demands of a 24-hour news cycle if you need special accommodations? What does this mean for your job growth? How do you manage an employee whose function can be unexpectedly limited? How can you live up to your reporting potential when your biology is thwarting you at seemingly every turn?\n\nThis session will start with anecdotes of how facilitators have tackled these tough conversations with bosses and coworkers, sharing what hasn’t worked and what has worked...better. The session will then move to a conversation where participants with disabilities can discuss life in the news industry. Topics could include how people have communicated their needs or accommodations to their employer, experiences working with HR, trying to fit in with the rest of their team or just attempting to get coworkers to understand. The goal of this session is to connect folks with disabilities, share coping techniques, and allow those without disabilities to listen and learn how best to support their colleagues.", 
+        "facilitator": "Jasmine Mithani", 
+        "facilitator_twitter": "jazzmyth", 
+        "id": 1534117, 
+        "submitted_at": "2018-04-14T04:10:37.796Z", 
+        "title": "Sick [journalist] theory: real talk about navigating disability in the newsroom"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Newsroom users love to hate their systems, but what's the one thing your CMS does that your newsroom absolutely loves and can't live without?\n\nIf your CMS doesn't have a killer feature, then bring your ideas!\n\nIn a lightning-round show-and-tell style format, show us what you've got or pitch your pie-in-the-sky idea. Everyone goes home with new ideas for how to make life better for people who love to hate their CMS.", 
+        "facilitator": "Sharilyn Hufford", 
+        "facilitator_twitter": null, 
+        "id": 1534115, 
+        "submitted_at": "2018-04-14T04:07:36.565Z", 
+        "title": "CMS Jam: Show off your publishing system's killer feature"
+    }, 
+    {
         "cofacilitator": "Kaeti Hinck and Stacy-Marie Ishmael", 
         "cofacilitator_twitter": null, 
         "description": "Where do people find time to nurture long-term goals? How do we get past treading water at work and move toward what we want next? And how do we even figure out what that is when we’re overwhelmed and overworked? In this session, building on what we explored at SRCCON:WORK, we’ll dig into how to create space for longer term goals, and brainstorm specific ways to balance the short and long term in our daily lives. \n\nHow would you describe the purpose of your session? What would you love participants to leave with? We want people to leave with actionable techniques for identifying and pursuing goals — and feel empowered to to prioritize their own growth.", 
@@ -78,7 +96,7 @@
         "cofacilitator": null, 
         "description": "Are you a researcher (academic, policy or otherwise) who has collaborated with journalists to bring your work to a wider public forum? Are you a journalist who has helped interpret research findings and data sets in innovative public ways?  Are you both or neither but want to be?\n\nThrough discussion and activities we'll envision new relationships between research teams, data journalists, and the public.  We'll talk about our experiences with these types of collaborations, what has and hasn't worked, and how we might upend the the traditional one-way flows from research -> journalism -> public.", 
         "facilitator": "Laura Laderman", 
-        "facilitator_twitter": "lilader", 
+        "facilitator_twitter": "liladerm", 
         "id": 1534049, 
         "submitted_at": "2018-04-14T03:56:33.414Z", 
         "title": "Data Journalism as Data Access: Bringing Research Out of Journals and Policy Reports"
@@ -174,6 +192,15 @@
         "id": 1533970, 
         "submitted_at": "2018-04-14T00:49:57.622Z", 
         "title": "How do emerging technologies intersect with you local public records law?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "As a designer and a technologist, one question I've long been pondering is how we might play a role in reducing polarization, rather than increasing it. We all recognize the effects of the filter bubble in our daily lives—the stories we see most often are the ones that reinforce what we already believe. This serves to drive us ever deeper into a narrative of \"us\" vs. \"them.\" But I wonder if there are ways to pop the bubble and close the divide. In the midst of outrage, I find myself nonetheless moved by stories such as this (https://medium.com/s/story/im-a-journalist-and-the-daughter-of-an-n-r-a-member-why-it-s-time-to-tell-my-story-9782ae97aad9) and (https://www.nytimes.com/2017/10/14/us/union-jobs-mexico-rexnord.html). I'm curious to hear perspectives from within the journalism and tech community on these efforts, as well as others, to bring to light the human stories and lost narratives underlying hashtag movements, societal shifts and cultural trends. Perhaps we will even do a participatory design exercise to imagine how we might create a more human, more empathetic world via the media we consume.", 
+        "facilitator": "Tina Ye", 
+        "facilitator_twitter": "tinabeans", 
+        "id": 1533962, 
+        "submitted_at": "2018-04-14T04:04:23.971Z", 
+        "title": "Is radical empathy possible in the age of polarization?"
     }, 
     {
         "cofacilitator": null, 
@@ -450,7 +477,7 @@
     {
         "cofacilitator": "Tyler Chance", 
         "cofacilitator_twitter": "tchance121", 
-        "description": "What have you built that’s now ignored? What took off and is now central to your newsroom’s daily grind? What was the difference? \n\nWe’re a product manager in New York and an editor in D.C., on the front lines of making and deciding to use a variety of tools, from those that help with daily coverage planning to chart-making to immersive storytelling. Let's talk about what's lived on and what's languished so that we can crack the code on building tools journalists actually use.", 
+        "description": "What have you built that’s now ignored? What took off and is now central to your newsroom’s daily grind? What was the difference?\n\nWe’re a product manager in New York and an editor in D.C., on the front lines of making and deciding to use a variety of tools, from those that help with daily coverage planning to chart-making to immersive storytelling. Let's talk about what's lived on and what's languished so that we can crack the code on building tools journalists actually use.\n\nOne strong hunch of ours: We can take concrete steps to deepen relationships between folks who see opportunities to solve problems (or stand to benefit) and those who are building the solutions.\n\nLet’s find themes in our boondoggles and wild successes and come away with an invaluable compilation of battle-tested advice to guide your next project.", 
         "facilitator": "Becky Bowers", 
         "facilitator_twitter": "beckybowers", 
         "id": 1533432, 
@@ -475,6 +502,15 @@
         "id": 1533389, 
         "submitted_at": "2018-04-13T19:41:00.616Z", 
         "title": "New phone, who dis: Building intimate audience relationships without the creep factor."
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Mission statements are more than lofty goals written in fancier-than-usual language. When thoughtfully crafted, a mission statement unites a team by determining what’s most important to its members. A simple and explicit mission statement can also serve as a guideline for task prioritization. Let’s craft a step-by-step guide to writing mission statements that encourages team participation, solicits their feedback and helps determine what your team truly prioritizes.", 
+        "facilitator": "Ryann Grochowski Jones", 
+        "facilitator_twitter": "ryanngro", 
+        "id": 1533366, 
+        "submitted_at": "2018-04-13T17:36:26.927Z", 
+        "title": "Crafting your team’s mission statement"
     }, 
     {
         "cofacilitator": null, 
@@ -795,7 +831,7 @@
     }, 
     {
         "cofacilitator": null, 
-        "description": "As non-editorial design/tech employees at news orgs, we’re often expected to follow the same social media policies as reporters and editors, and limit our involvement in anything that would be considered biased. \n\nI work on the design/tech team of a news org. I don’t make decisions about our content, so part of me feels like I should be able to express myself freely. We also have many devs and designers who previously didn’t work in journalism and may not realize this is something they’re getting into by working at a news organization. On the other hand, I know that anything I say could be reflected on the company as a whole, and many news consumers don’t differentiate between editorial and non-editorial employees.  \n\nThe value of non-bias/objectivity, whether or not objectivity is possible, and the ways that these policies impacts those with marginalized identities is a hot topic of conversation. It has unique implications for news employees who don’t make editorial decisions. Let’s discuss what the policies are where we work, to what extent we think we should be obligated to follow them, and what we think they should be.", 
+        "description": "As non-editorial design/tech employees at news orgs, we’re often subject to the same social media policies as reporters and editors, and need to limit our involvement in anything that would be considered biased.\n \nI work on the design/tech team of a news org. On the one hand, I don’t make decisions about our content, so any personal bias has no impact on our news coverage. On the other hand, I know that anything I say could be reflected on the company as a whole, and many news consumers don’t differentiate between editorial and non-editorial employees.\n \nThe value of non-bias/objectivity, whether or not objectivity is possible, and the ways that these policies impact those with marginalized identities is a hot topic of conversation. It also has unique implications for staff who don’t make editorial decisions. Let’s discuss what the policies are where we work and what the impact is on various kinds of employees.", 
         "facilitator": "Carolyn Gearig", 
         "facilitator_twitter": "@carolyngearig", 
         "id": 1531270, 
@@ -908,7 +944,7 @@
     {
         "cofacilitator": "Joe Germuska", 
         "cofacilitator_twitter": null, 
-        "description": "At Journalism + Design, we’ve been developing a deck of creativity cards, a la Brian Eno’s Oblique Strategies and the IDEO Method Cards, to help integrate the design process and systems thinking into the newsroom and train emerging journalists. I’d like to run a workshop, co-facilitated with Joe Germuska, with the J+D deck of cards for SRCCON attendees. We should have some sets of cards for people to take back to their newsrooms.", 
+        "description": "At Journalism + Design, we've been developing a deck of creativity cards, a la Brian Eno's Oblique Strategies and the IDEO Method Cards. The cards are designed to help integrate the design process and systems thinking into the newsroom and train emerging journalists. The idea is this: at various stages in the reporting and production process, if you're feeling stuck or just want to cover your bases, you'd review the cards for that stage, or just pick one at random. You might draw cards like:\n\n* Do a driveby. Put up your prototype and get feedback from a general audience\n* Murder your darlings. Be ruthless about cutting any fat\n* Connect loops. Use a systems lens to trace connections between forces within your story.\n\nEach card encapsulates a best practice or perspective that can remind you to start off on the right foot or help you get back in gear if you’re stuck. We'd love SRCCON to help us \"playtest\" the cards and refine the process and the content. We should have some sets of cards for people to take back to their newsrooms.", 
         "facilitator": "Allison Lichter Joseph", 
         "facilitator_twitter": "allisonlichter", 
         "id": 1522899, 
