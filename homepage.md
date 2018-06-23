@@ -11,9 +11,12 @@ permalink: /index.html
 
 This year SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis, Minnesota, on June 28 & 29. We'll have more than 50 sessions on how we experiment in the open, support one another, and lead change.
 
-[The 2018 schedule is now live!](https://schedule.srccon.org)
+If you're preparing to attend, we have some resources for you:
 
-If you're preparing to attend, we have a lot more details on the SRCCON [participation](/participation) and [logistics](/logistics) pages.
+* [The 2018 schedule is now live!](https://schedule.srccon.org)
+* [All about participating at SRCCON](/participation)
+* [Venue, lodging, childcare, and other logistics](/logistics)
+* [This year's transcription plan](/transcription)
 
 ## About SRCCON
 

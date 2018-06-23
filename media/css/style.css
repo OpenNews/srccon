@@ -101,6 +101,14 @@ header #header-image { /* default to MPLS skyline homepage background */
     background-image: url(/media/img/backgrounds/facilitators.jpg);
     background-position: 0 -225px;
 }
+.documentation #header-image {
+    background-image: url(/media/img/backgrounds/documentation.jpg);
+    background-position: 0 0;
+}
+.remote #header-image {
+    background-image: url(/media/img/backgrounds/remote.jpg);
+    background-position: 0 0;
+}
 
 /* HEADER STYLES */
 header #corner-logo {
@@ -231,7 +239,7 @@ footer p {
 footer #footer-nav {
     background-color: #232D44;
     margin-bottom: 1em;
-    font-size: .67em;
+    font-size: .6em;
 }
 footer ul {
     margin: 0 0 2em;
@@ -512,6 +520,13 @@ td {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     }
+    footer #footer-nav ul {
+        display: inherit;
+        padding: .5em 0;
+    }
+    footer #footer-nav li a {
+        text-align: left;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -547,13 +562,6 @@ td {
     footer #footer-details .page-container,
     footer #footer-sponsors .page-container {
         display: inherit;
-    }
-    footer #footer-nav ul {
-        display: inherit;
-        padding: .5em 0;
-    }
-    footer #footer-nav li a {
-        text-align: left;
     }
     footer #footer-sponsors h3,
     .sponsor-list {
