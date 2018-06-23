@@ -21,6 +21,8 @@ These sessions reflect the values of this community:
 
 This part of the program is a mix of work-culture conversations that challenge us to make newsrooms better, and technical workshops that help us build new expertise. You can attend up to 8 sessions over the two days of SRCCON, from about 50 on this year's schedule. [Check out this year's sessions](/sessions).
 
+We also provide live transcription for about half our sessions to help people who attend, participate remotely, or come back later to catch up. You can find transcipt links on [our schedule](https://schedule.srccon.org) or our [transcription page](/transcription).
+
 ## Our Schedule
 SRCCON is also organized around building connections between participants. We want you to be able to fully focus on taking part—not just in the [sessions on the official schedule](https://schedule.srccon.org), but in all the great conversations in hallways and after hours that make an event memorable. So we build in generous breaks to let you chat or grab coffee or tea without feeling rushed getting to the next thing. We provide a full breakfast and lunch both days, with space to chill out or make plans with new friends. Dinner and our Thursday evening program are a chance to spend time with people in more relaxed space.
 

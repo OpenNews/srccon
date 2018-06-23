@@ -4,7 +4,7 @@ section: remote
 permalink: /transcription/index.html
 ---
 
-## Transcription
+# Transcription
 
 It's important to us to keep SRCCON small enough to feel friendly and conversational, but we also care about getting the ideas and conversations that take place at SRCCON into the wider world. The most important way this happens is when attendees return to their home newsrooms and put their new skills and approaches to work, but we also document SRCCON as extensively as possible.
 
@@ -14,7 +14,7 @@ Our live-captioning team transcribes about half the sessions at SRCCON. Live str
     <h3>Thursday sessions</h3>
     <table>{% assign thursday = site.data.schedule | where:"day","Thursday" %}
 {% for session in thursday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://aloft.nu/srccon/2018-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://aloft.nu/conf?name=srccon&session=2018-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
@@ -23,7 +23,7 @@ Our live-captioning team transcribes about half the sessions at SRCCON. Live str
     <h3>Friday sessions</h3>
     <table>{% assign friday = site.data.schedule | where:"day","Friday" %}
 {% for session in friday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://aloft.nu/srccon/2018-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://aloft.nu/conf?name=srccon&session=2018-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
