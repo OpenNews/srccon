@@ -8,7 +8,7 @@ permalink: /transcription/index.html
 
 It's important to us to keep SRCCON small enough to feel friendly and conversational, but we also care about getting the ideas and conversations that take place at SRCCON into the wider world. The most important way this happens is when attendees return to their home newsrooms and put their new skills and approaches to work, but we also document SRCCON as extensively as possible.
 
-Our live-captioning team transcribes about half the sessions at SRCCON. Live streams will available from this list, and then we'll replace links with cleaned-up archives.
+Our live-captioning team transcribes about half the sessions at SRCCON. Live streams will available from this list, and then we'll replace links with cleaned-up archives. If your team uses Slack, you can also [add our Slackbot](/slackbot) to get reminders when transcribed sessions are about to start.
 
 <div>
     <h3>Thursday sessions</h3>
