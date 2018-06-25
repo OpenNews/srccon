@@ -314,6 +314,36 @@ td {
     line-height: 1.3;
 }
 
+.live table {
+    width: 100%;
+    margin-bottom: 0;
+}
+table .session-time {
+    max-width: 130px;
+}
+table a.session-title {
+    font-weight: bold;
+}
+table a.session-transcript {
+    font-family: sofia-pro,sans-serif;
+    display: inline-block;
+    line-height: 1;
+    font-size: .67em;
+    color: #fff;
+    background-color: #a6b3d1;
+    padding: 3px 6px 4px;
+    border-radius: 3px;
+    margin-top: .4em;
+    text-decoration: none;
+}
+
+.hidden {
+    display: none;
+}
+.context-link {
+    font-size: .83em;
+}
+
 /* SESSION LIST STYLES */
 .session-proposal-list {
     margin-top: 3em;
