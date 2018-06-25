@@ -14,7 +14,7 @@ Our live-captioning team transcribes about half the sessions at SRCCON. Live str
     <h3>Thursday sessions</h3>
     <table>{% assign thursday = site.data.schedule | where:"day","Thursday" %}
 {% for session in thursday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://aloft.nu/conf?name=srccon&session=2018-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a class="session-title" href="https://aloft.nu/conf?name=srccon&session=2018-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
@@ -23,7 +23,7 @@ Our live-captioning team transcribes about half the sessions at SRCCON. Live str
     <h3>Friday sessions</h3>
     <table>{% assign friday = site.data.schedule | where:"day","Friday" %}
 {% for session in friday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="https://aloft.nu/conf?name=srccon&session=2018-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a class="session-title" href="https://aloft.nu/conf?name=srccon&session=2018-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>

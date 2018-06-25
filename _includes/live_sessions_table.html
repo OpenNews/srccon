@@ -3,10 +3,10 @@
     <table>{% for session in site.data.schedule %}
         <tr class="hidden live-{{ session.timeblock }}">
             <td class="session-time">{{ session.time }}</td>
-            <td><a class="session-title" href="http://schedule.srccon.org/#_session-{{ session.id }}">{{ session.title }}</a>{% if session.transcription != "" %}<br><a class="session-transcript" href="http://aloft.nu/srccon/2017-{{ session.id }}">Live transcript</a>{% endif %}</td>
+            <td><a class="session-title" href="https://schedule.srccon.org/#_session-{{ session.id }}">{{ session.title }}</a>{% if session.transcription != "" %}<br><a class="session-transcript" href="https://aloft.nu/conf?name=srccon&session=2018-{{ session.id }}">Live transcript</a>{% endif %}</td>
         </tr>
 {% endfor %}
     </table>
     
-    <a class="btn" href="http://schedule.srccon.org">See the full schedule</a>
+    <a class="context-link" href="https://schedule.srccon.org">See the full SRCCON schedule</a>
 </div>
