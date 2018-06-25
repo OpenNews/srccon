@@ -226,6 +226,21 @@
     }, 
     {
         "day": "Thursday", 
+        "description": "Session rooms are available for informal get-togethers over lunch, so pick up some food and join fellow attendees to talk hobbies, work, or even just hang out and watch the World Cup. If you have an idea for a lunch session, we'll have a signup board available in our common space throughout SRCCON.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-lunch-conversations", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "time": "1pm", 
+        "timeblock": "thursday-lunch", 
+        "title": "Lunch conversations - sign up at SRCCON", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
         "description": "An editor, a designer, an engineer, and a product person walk into a room…\n\nIt sounds like the start of a corny joke, but increasingly we find ourselves in these types of situations - small, interdisciplinary teams working together to solve a problem. The thinking says - throw a lot of really smart people in a room and -magic!- they will figure it out! \n\nThe reality is, it does work, but it’s extremely difficult. People misunderstand each other, and motivations and goals are not often articulated, leading to disarray. Working with new people is hard, and it’s especially hard when you have to move fast and you’re not all speaking the same language! But fear not - starting things off on the right foot can have huge payoffs - team buy-in, alignment, and trust. The goal is to get the team to move faster by getting some tough conversations out of the way. \n\nThis is an interactive session in which participants will simulate this exact situation - participants will be given a problem prompt, break out into small, cross-disciplinary teams, then participate in kickoff exercises designed to force hard conversations and perhaps give participants a moment of self-reflection - \"are you an order or chaos muppet?\", hopes/fears/sacred cows, the road to nirvana, the pre-mortem - and more! \n\nThese exercises work best for teams with 5-10 members with any combination of disciplines, but can be scaled up or down as needed.  ", 
         "everyone": "", 
         "facilitators": "Rosy Catanach, Sara Bremen Rabstenek", 
@@ -706,6 +721,21 @@
     }, 
     {
         "day": "Friday", 
+        "description": "Session rooms are available for informal get-togethers over lunch, so pick up some food and join fellow attendees to talk hobbies, work, or even just hang out and watch the World Cup. If you have an idea for a lunch session, we'll have a signup board available in our common space throughout SRCCON.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "friday-lunch-conversations", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "time": "1pm", 
+        "timeblock": "friday-lunch", 
+        "title": "Lunch conversations - sign up at SRCCON", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
         "description": "As digital journalists, we often push the platform forward, with cool new interactives and high-impact layouts. Unfortunately, accessibility is often ignored in the process. It's easy to make excuses: we're on deadline, or visual content wouldn't work in a screen reader anyway. But what if it's far easier than you think? In this session, we'll set up accessibility tools, share lessons we've learned about creating inclusive pages, and assemble a list of easy wins that you can take back to your newsrooms and digital teams.", 
         "everyone": "", 
         "facilitators": "Thomas Wilburn, Joanna Kao", 
@@ -766,7 +796,7 @@
     }, 
     {
         "day": "Friday", 
-        "description": "Do I use \"display\" or \"position\" for that? Sometimes you just want to make sure your newsroom tool does it's job and not have to worry about what it looks like. Well, your days of worrying about front-end design could soon be over. Slack's suite of API's are vast and the documentation is one of the best of any API out there. In this session, I'll quickly demo most of the different methods of interaction available with Slack's APIs. We'll build a simple graphics request form together as a group. When that's finished, we'll brainstorm ideas for other newsroom tools and discuss how our front-end needs could be met by one or more of the methods we've seen so far. We'll be using Flask to do it, so basic Flask and Python knowledge will be required.\n\nSlack has a number of features you might need from a front-end design already included. Unprompted function calls? Slack has slash commands. Do they support arguments? You bet they do. Filling out forms? Slack's got that too. Giving personal user feedback when a script runs? Ephemeral messages make sure that only a single user can see the notification without ever having to leave the channel. Learn about all these and more in the session.", 
+        "description": "Do I use \"display\" or \"position\" for that? Sometimes you just want to make sure your newsroom tool does it's job and not have to worry about what it looks like. Well, your days of worrying about front-end design could soon be over. Slack's suite of API's are vast and the documentation is one of the best of any API out there. In this session, I'll quickly demo most of the different methods of interaction available with Slack's APIs. We'll build a simple graphics request form together as a group. When that's finished, we'll brainstorm ideas for other newsroom tools and discuss how our front-end needs could be met by one or more of the methods we've seen so far. We'll be using Flask to do it, so basic Flask and Python knowledge will be required.\n\nSlack has a number of features you might need from a front-end design already included. Unprompted function calls? Slack has slash commands. Do they support arguments? You bet they do. Filling out forms? Slack's got that too. Giving personal user feedback when a script runs? Ephemeral messages make sure that only a single user can see the notification without ever having to leave the channel. Learn about all these and more in the session.\n\nWe'll use [this sandbox Slack workspace](https://join.slack.com/t/srccon2018frontend/shared_invite/enQtMzg3ODM3NjIyMTAxLWVkZWI4NGFkYzRlNmZiMGU0N2U4NjBmMmY0Zjg1NjRmNGFiNDdkY2E2NDczMjA3ODA4YTk4ZTNiYzI1MDk4YmU) during the session, so feel free to go ahead and join!", 
         "everyone": "", 
         "facilitators": "Andrew Briz", 
         "facilitators_twitter": "brizandrew", 
