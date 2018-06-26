@@ -39,20 +39,6 @@ There is also a bike sharing system called [Nice Ride](https://www.niceridemn.or
 
 ## Delicious places in the neighborhood
 
-### Bun Mi Sandwiches (Vietnamese)
-
-[http://www.bunmisandwiches.com](http://www.bunmisandwiches.com)  
-0.2 miles  
-604 Washington Ave SE  
-I know, I know--it's Bánh Mì. See what they did there? You know what else they do? Delicious.
-
-### Caspian Bistro
-
-[http://www.viewmenu.com/caspian-bistro-and-marketplace/menu](http://www.viewmenu.com/caspian-bistro-and-marketplace/menu)   
-0.3 miles  
-2418 University Ave SE  
-Persian market and Middle Eastern cafe. Has great service, is delicious.
-
 ### Punch Neapolitan Pizza
 
 [http://www.punchpizza.com](http://www.punchpizza.com)  
@@ -63,12 +49,25 @@ or
 210 East Hennepin Avenue  
 Fabulous pizzas cooked in a wood-burning oven at 800 degrees for about 90 seconds.
 
-### The Village Wok
+### Bar Luchador
 
-[http://www.villagewok.com](http://www.villagewok.com)  
+[http://www.barluchador.com/](http://www.barluchador.com/)  
+0.1 miles  
+825 Washington Ave SE  
+A small restaurant and bar with great tacos. And wrestling on TV.
+
+### Haiku Japanese Bistro
+
+[http://www.haikujapanese.com](http://www.haikujapanese.com)  
 0.2 miles  
-610 Washington Ave SE  
-A U of M institution serving Chinese food in "Cantonese, Shanghainese, Sichuan, Hunan, and Peking styles."
+620 Washington Avenue Southeast
+
+### Afro Deli
+
+[http://www.afrodeli.com/](http://www.afrodeli.com/)  
+0.2 miles  
+720 SE Washington Ave  
+African and Middle Eastern Cuisine
 
 ### Day Block Brewing Company
 
@@ -77,11 +76,12 @@ A U of M institution serving Chinese food in "Cantonese, Shanghainese, Sichuan, 
 1105 Washington Ave SE  
 Reasonable beer and food—also, on occasion, live music.
 
-### Haiku Japanese Bistro
+### Caspian Bistro
 
-[http://www.haikujapanese.com](http://www.haikujapanese.com)  
-0.2 miles  
-620 Washington Avenue Southeast
+[http://www.viewmenu.com/caspian-bistro-and-marketplace/menu](http://www.viewmenu.com/caspian-bistro-and-marketplace/menu)   
+0.3 miles  
+2418 University Ave SE  
+Persian market and Middle Eastern cafe. Has great service, is delicious.
 
 ### Surdyk's Northrop Cafe
 
@@ -89,13 +89,6 @@ Reasonable beer and food—also, on occasion, live music.
 0.5 miles  
 84 Church Street Southeast  
 If you can't get to the full-stack Surdyk's (vast liquor and cheese selections with fantastic sandwiches), their Northrup cafe will do just fine. Good coffee, too!
-
-### Afro Deli
-
-[http://www.afrodeli.com/](http://www.afrodeli.com/)  
-0.2 miles  
-720 SE Washington Ave  
-African and Middle Eastern Cuisine
 
 ### Himalayan Dinkytown
 
@@ -111,6 +104,13 @@ Nepalese, Tibetan and Indian food on campus in a fast-casual setting.
 0.6 miles  
 313 14th Ave SE  
 Malts! Malts! Malts! Also... Burgers! Burgers! Burgers!
+
+### Al's Breakfast
+
+[https://www.alsbreakfastmpls.com/](https://www.alsbreakfastmpls.com/)  
+0.7 miles  
+413 14th Ave SE
+A teeny tiny institution! And actually great food.
 
 ### Purple Onion (coffee shop/cafe)
 
@@ -171,6 +171,12 @@ Distillery with a seasonal cocktail list whose cocktail room doubles as an art g
 1.9 miles  
 600 East Hennepin Avenue  
 Lip smacking, finger dripping Southern cooking.
+
+### Black Sheep Pizza
+
+[http://blacksheeppizza.com/](http://blacksheeppizza.com/)  
+Multiple locations  
+Coal-fired pizza. (It's super good.)
 
 ### Surdyk's Liquor & Cheese Shop
 
@@ -299,25 +305,12 @@ The chutney sampler--oh my. And anything with lamb in it.
 4208 South 28th Avenue  
 If you like your coffee snobs humble, this is your place. This is fussy coffee at its fussiest, and it is a beautiful thing.
 
-### Heyday
-
-[http://heydayeats.com/](http://heydayeats.com/)   
-5 miles   
-2700 Lyndale Avenue S  
-Dinner or Saturday/Sunday brunch, try to make a reservation just in case.
-
 ### Bryant Lake Bowl & Theater
 
 [http://www.bryantlakebowl.com/](http://www.bryantlakebowl.com/)  
 5.25 miles  
 810 West Lake St.  
 At the heart of the walkable LynLake area—food, drink, bowling, and shows.
-
-### Lucia’s
-
-[http://www.lucias.com/](http://www.lucias.com/)  
-5.5 miles  
-1432 W 31st St.
 
 ### Sea Salt (Seafood)
 
@@ -341,7 +334,7 @@ Just off the Western Ave station on the Green line. This has the best banh mi, t
 [http://www.guthrietheater.org](http://www.guthrietheater.org)  
 2.2 miles  
 818 South 2nd Street  
-The Guthrie was built for plays, but anybody can walk in anytime and step out onto their "Endless Bridge" which overlooks Mississippi River and the ruins of the city's flour milling industry.
+The Guthrie was built for plays, but anybody can walk in anytime. Their "Endless Bridge" overlooks the Mississippi River and the ruins of the city's flour milling industry, but it may still be closed for repairs during SRCCON.
 
 ### Gold Medal Park
 
@@ -354,9 +347,16 @@ Gold Medal Park is a lovely picnic spot. Its right next to the Guthrie, which me
 [http://paddleshare.org/](http://paddleshare.org/)  
 Kayak sharing (and all the other gear, like lifejackets paddles & more)! You don't need any of your own equipment, just make an online reservation and off you go. Along the Mississippi River, kayakers will pass natural sights like the heron rookery and other islands amid industrial yards and city infrastructure on a transitioning Minneapolis waterfront. They can also stop for dockside dining at places like Sample Room and Psycho Suzi's.
 
+### Marjorie McNeely Conservatory
+
+[http://www.comozooconservatory.org/](http://www.comozooconservatory.org/)  
+(Minneapolis) 5.8 miles  
+200 SE Oak  
+A beautiful spot in Como Park with some amazing plant displays—while there, stop around to the lakeside—specifically Spring Café or Sweet Science ice cream at the Como Park Pavilion.
+
 ### Minnehaha Falls
 
-[https://en.wikipedia.org/wiki/Minnehaha_Park](https://en.wikipedia.org/wiki/Minnehaha_Park)_  
+[https://en.wikipedia.org/wiki/Minnehaha_Park](https://en.wikipedia.org/wiki/Minnehaha_Park)  
 (Minneapolis) 5.2 miles  
 4825 Minnehaha Avenue  
 A waterfall, hiking trails, and a great seafood restauraunt. Oh, and you can rent those crazy four-person bikes and pretend you are in the things-are'splendid montage of a romantic comedy!
