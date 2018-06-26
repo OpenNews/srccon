@@ -175,7 +175,7 @@ Lip smacking, finger dripping Southern cooking.
 ### Black Sheep Pizza
 
 [http://blacksheeppizza.com/](http://blacksheeppizza.com/)  
-Multiple locations
+Multiple locations  
 Coal-fired pizza. (It's super good.)
 
 ### Surdyk's Liquor & Cheese Shop
@@ -349,14 +349,14 @@ Kayak sharing (and all the other gear, like lifejackets paddles & more)! You don
 
 ### Marjorie McNeely Conservatory
 
-[http://www.comozooconservatory.org/](http://www.comozooconservatory.org/)
+[http://www.comozooconservatory.org/](http://www.comozooconservatory.org/)  
 (Minneapolis) 5.8 miles  
 200 SE Oak  
 A beautiful spot in Como Park with some amazing plant displays—while there, stop around to the lakeside—specifically Spring Café or Sweet Science ice cream at the Como Park Pavilion.
 
 ### Minnehaha Falls
 
-[https://en.wikipedia.org/wiki/Minnehaha_Park](https://en.wikipedia.org/wiki/Minnehaha_Park)
+[https://en.wikipedia.org/wiki/Minnehaha_Park](https://en.wikipedia.org/wiki/Minnehaha_Park)  
 (Minneapolis) 5.2 miles  
 4825 Minnehaha Avenue  
 A waterfall, hiking trails, and a great seafood restauraunt. Oh, and you can rent those crazy four-person bikes and pretend you are in the things-are'splendid montage of a romantic comedy!
