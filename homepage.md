@@ -9,6 +9,14 @@ permalink: /index.html
 
 {% include live_sessions_table.html %}
 
+## Welcome!
+
+Attendees, we're so excited to have these two days to [learn, plan, and take care of each other](/participation). As you're getting around Minneapolis, here are [all the conference logistics](/logistics) you might need, as well as [a guide to the city](/local-guide) from local community members.
+
+During SRCCON, [our mobile-friendly 2018 schedule](https://schedule.srccon.org/) can help you navigate the [program](/program), and the registration desk in Memorial Hall will be staffed throughout the event. Our safety helpline is SRC CON 2909 (772 266-2909).
+
+If you're not here with us in Minneapolis, we invite you to check out our sessions that offer [live transcription](/transcription) (there's even a Slackbot that can remind you when they start), and [visit Source for writeups](https://source.opennews.org/) during and after SRCCON.
+
 ## When & Where
 
 This year SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis, Minnesota, on June 28 & 29. We'll have more than 50 sessions on how we experiment in the open, support one another, and lead change.
