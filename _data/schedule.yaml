@@ -616,6 +616,21 @@
     }, 
     {
         "day": "Thursday", 
+        "description": "An unfacilitated space to have small-group discussions about the news of the day or anything else on your mind.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-evening-2-conversations", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Heritage", 
+        "time": "7:45-8:30pm", 
+        "timeblock": "thursday-evening-2", 
+        "title": "Open Conversation Area", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
         "description": "Board games, card games, story games—we’ll have plenty to choose from. Bring your own to share and play.", 
         "everyone": "y", 
         "facilitators": "Pattie Reaves, Neil Wargo", 
@@ -687,6 +702,21 @@
         "time": "8:45-9:30pm", 
         "timeblock": "thursday-evening-3", 
         "title": "Hobby Workshop: A Gentle Introduction to Cricket", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "An unfacilitated space to have small-group discussions about the news of the day or anything else on your mind.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-evening-3-conversations", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Heritage", 
+        "time": "8:45-9:30pm", 
+        "timeblock": "thursday-evening-3", 
+        "title": "Open Conversation Area", 
         "transcription": ""
     }, 
     {
