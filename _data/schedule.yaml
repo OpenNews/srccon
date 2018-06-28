@@ -706,6 +706,21 @@
     }, 
     {
         "day": "Friday", 
+        "description": "", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "friday-welcome", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Memorial", 
+        "time": "9:30am", 
+        "timeblock": "friday-morning", 
+        "title": "SRCCON morning welcome", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
         "description": "When most journalists listen, all we are doing is waiting for the next opportunity to ask a question of a source or community member. Rarely do we employ active listening - a practice that could help us when trying to reach neglected audiences. Through a series of guided exercises in small groups, we will talk about how _really_ listening can change the way journalists do their jobs and about the culture change required in newsrooms to achieve this goal. Our jumping-off point will be the findings from a spring thought leader summit that the American Press Institute held in Nashville. We expect participants will have many of their own experiences - both highs and lows - to share with each other.", 
         "everyone": "", 
         "facilitators": "Amy L. Kovac-Ashley, David Plazas", 
