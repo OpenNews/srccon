@@ -941,7 +941,7 @@
         "room": "Johnson", 
         "time": "2:30-3:45pm", 
         "timeblock": "friday-pm-1", 
-        "title": "Visualization as a Civil Right", 
+        "title": "Visualization as a Civil Right (bring your headphones!)", 
         "transcription": "y"
     }, 
     {
@@ -1098,8 +1098,8 @@
         "day": "Friday", 
         "description": "Open States has been a major civic tech project for over eight years.  The rate at which it became Sunlight's most-used API demonstrated a clear thirst for accessible information on state legislative information in the civic tech & journalism communities.  Two years ago the project became independent, and is now run as a volunteer project.\n\nThe goal of this session is to discuss how Open States and other state legislative projects can improve to be as useful as possible to the wider community.  Open States grew as an Open Source project with over 100 collaborators, many from newsrooms- and we want to have a conversation to help determine the right direction for the now mature project in the years to come.", 
         "everyone": "", 
-        "facilitators": "James Turk, Miles Watkins", 
-        "facilitators_twitter": "jamesturk", 
+        "facilitators": "Miles Watkins", 
+        "facilitators_twitter": "", 
         "id": "state-legislative-information", 
         "length": "75 minutes", 
         "notepad": "y", 
