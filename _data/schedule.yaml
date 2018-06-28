@@ -646,9 +646,9 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "Have an idea for an evening session? Let us know!", 
+        "description": "", 
         "everyone": "y", 
-        "facilitators": "", 
+        "facilitators": "Stanley Sakai", 
         "facilitators_twitter": "", 
         "id": "thursday-evening-3-ski-u-mah", 
         "length": "", 
@@ -656,7 +656,7 @@
         "room": "Ski-U-Mah", 
         "time": "8:30-9:30pm", 
         "timeblock": "thursday-evening-3", 
-        "title": "OPEN SLOT", 
+        "title": "Learn GREGG shorthand via stereotypically millennial phrases", 
         "transcription": ""
     }, 
     {
