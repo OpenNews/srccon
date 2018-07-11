@@ -71,5 +71,3 @@ While all of our SRCCON news will be going out on our mailing list, if you want 
 SRCCON is produced by [OpenNews](https://opennews.org). We connect a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning and solving problems together can create a stronger, more responsive, and ascendant journalism ecosystem. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](http://www.communitypartners.org/).
 
 The “src” in SRCCON stands for “Source,” as in "view source." We pronounce it “Source-con,” but you can say it however you want.
-
-{% include live_sessions_js.html %}

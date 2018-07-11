@@ -9,3 +9,11 @@ collections:
   transcripts:
     output: true
     permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "transcripts"
+    values:
+      layout: layout
+      section: remote

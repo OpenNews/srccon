@@ -1,0 +1,273 @@
+The Interview: Building a practice of listening and asking questions in our work
+Session facilitator(s): David Yee
+Day & Time: Thursday, 10-11:15am
+Room: Thomas Swain
+
+DAVID: At the beginning of every session, I'm always a little terrified that there's going to be only four people. And every ten minutes before a session there's only four people. But you are more than four. But now on the other side, there's so many of you that I'm not even sure what to do — they're all going to have so many thoughts! You're so bright-eyed and bushy tailed. Welcome. I'm so glad to be the first session of the day because you get you all at your best but I get to make you better. First, can everyone hear me? Because lavaliers in the back... so before I start, you have a lot of options on the plate. I just want to point out that with the bulk of session is going to be each of you interviewing somebody else, and each of you being interviewed by somebody else, so we'll go into a lot of detail of what's fraught about that, and what's exciting about that. But if that's not your cup of tea, it's totally fine to skedaddle and go to another session. But I promise it will help, and I promise that the person who's going to be interviewing you will be a total expert in interviewing you in 20 minutes. So no harm in leaving.
+
+We're going to talk a little bit about ground rules in a second. That goes back to code of conduct. Ground rules are the whole point of this exercise: Learning about the rules of exchangement when you're doing the sort of vulnerable act of interviewing. So that's kind of where I want to be today so I wanted to talk about that first. I thought about changing this session to how to ask questions, but it's a little bit more than that. The reason that I wanted to change it because I think this talk title can be a little misleading so I want to make some clarifications.
+
+So first of all, who am I. I am not a journalist. Who in this room, please raise your hand if you consider yourself a journalist. So this is very different. The last time that I gave this talk it was a room full of product people. So the difference is that you're all probably going to be better than I am with this. But we'll talk about tactics, and the psychology behind this. I am not a journalist or a psychologist. I'm David Yee, and I'm the director of engineering for a product for parents. Until about two weeks ago, I was a content systems engineer at Vox Media. And they were building a very talented system called Chorus at Vox Media. I do, however, think a lot about interviews. I think about them at Vox, and as a parent practice. As probably obvious to any parent but this is not in the context of reportage, we're not going to be talking about that whole can of worms.
+
+This is really about how do you engage somebody else in a way that are a framework of questions and a discussions, and what you context you put those questions in. So why should you care? Well, you wouldn't be here, I hope, unless you cared a little bit. In the benefits are maybe non-obvious. Maybe do like declarative statements a lot. Don't they...?
+
+[ Laughter ]
+
+And so any questions are a viable alternative. However, I think that argumentation is overrated. This is for those — okay. Who's an engineer in the room. Okay. My people. So my people do this thing called code review. And code review, when you for people who don't do it. So if you submit code to be integrated into your content management system, or your application, then it is often reviewed by some other engineer and that process can be very hard and messy. I personally think that's a horrible way to do code review. I think saying, "You should do it this way instead" is the wrong way of doing things. I tend to do my code reviews in terms of questions. But in terms of interacting with human beings in general, trading your ideas back and forth, and arguing your ideas is overrated, and I think optimizing for understanding is a better thing. So my perspective. This is my opinion. I think almost everything is made better by understanding. I think the only real way in a face-to-face context is to ask questions. So understanding makes everything better.
+
+And then, I added this last night. There is more value that you might think in having the tools that help draw out hidden stories at work, in your social group, and in communities trying to survive in oppressive cultures — communities whose members might otherwise not kneel license to tell those stories at crucial turning points for survival. So I was really thinking about this — I'm really, really glad that Dan mentioned at the top of the day that this is a different SRCCON, this is a different conference and one of the things that I love about SRCCON and I'm going to do hand-raising exercise, first time at SRCCON, second time at SRCCON, any time more than that, please raise your hand. Great, so one of the things that's really great about SRCCON is that there's a lot of sessions like this. We do a lot of talking. I think one of the principally important ground rules of SRCCON is strive to listen far more than you talk. And that coincidentally is the topic of our session today. So if you succeed at this, you'll be fine for the next two days.
+
+Be respectful, be empathic. Think of the experience of the person you're or talking to, whether the person you're talking to is asking you questions or answering your questions. Think about that code of conduct. Try to understand that people are coming to this room, which is a room which we're going to be talking a little bit about vulnerability with a little bit of different backgrounds and with different perspectives on the last year, the last 20 years, the last 24 hours. So please do think about that.
+
+If you are a subject in an interview and somebody says, I would love to talk to you about your first dog that you adopted and I kind of have not-great feelings about my dog. You can change the topic. This is not a required interview. I'm going to put a lot of questions on the screen. You can be, I'd kind of rather talk about this instead. Feel free to change direction at any point. You can always stop, you can always pivot. The other thing that I would ask with the exception with my best friend, Stan, right here in the room who's now transcribing the words "my best friend, Stan", no screens. I'll focus on why in a second. No screens in the room. Secondly, on me. Having said that... what do we mean when we talk about interviews and there's no interview. So the reason that I asked all the journalists the to raise your hands in the room many of if not all of you think of a specific kind of interview. But there are many different ways in which interviews can vary. So when — if you think all the different ways that you can interview somebody. So think about hiring interviews, interviews in the process of reporting. On-stage interviews, panels, all that stuff. Management 101s, what are the ways in which they're different? Raise your hand if you can think about different pivots in which interviews can turn. I'll throw the first one of them out there is context. Are you conducting this interview in public? Am I talking to somebody who's right here with me? Or am I doing it over the phone?
+
+So what are other examples in which interviews differ?
+
+AUDIENCE: You're in a position of power.
+
+DAVID: Yes, you're in a position of power and the way that that power reflects.
+
+AUDIENCE: Familiarity with one another.
+
+DAVID: Again, the relationship of the interviewer and the subject.
+
+AUDIENCE: Expectation of privacy
+
+DAVID: Will this interview be published in a major national publication possibly edited? I just gave one away — will it be edited?
+
+AUDIENCE: If the time is five hours versus minutes?
+
+DAVID: Right, so the duration of the interview, and maybe one level deeper is the scale and scope of the interview.
+
+AUDIENCE: The medium in which it occurs, like, voice versus writing.
+
+DAVID: So voice versus writing. Are we actually talking which is what I'm kind of thinking about, or am I sending you an email, five questions that I want you to answer, and one of which you refuse to answer.
+
+AUDIENCE: The location where you're talking in person?
+
+DAVID: Yes, where you are. For example, are you in my office building or are we at a Starbucks in a place that's kind of neutral and how does that affect the power dynamic? Yes?
+
+AUDIENCE: Do I know if I'm being interviewed?
+
+DAVID: Am I aware of the power dynamic? Am I aware of what's happening? That's really, really important. And one of the reasons why I wanted to go first today because I wanted you to be thinking the rest of the time you talk to your cohort. But that's really important. Somebody else had their hand up up.
+
+AUDIENCE: The topic of conversation.
+
+DAVID: Are we talking about dogs, are we talking about parenting?
+
+AUDIENCE: If it's an equal trade. What am I getting out of it and what are they getting out of me by taking that information?
+
+DAVID: Again, what is the nature — what is the balance here? What are you exchanging in this process? So I think power dynamic comes back a lot here and I'm going to come back to that in the course of these slides but I think it's important, again, reflecting on the ground rules, there's a power dynamic here. It is not obvious what the power dynamic here at play here is but that's something that's very, very important to keep in mind. So good because I had like — nobody mentioned this one. I'm going to mention this one now because nobody's going to be talking about this one. Interviews have different structure so I want to talk a little bit structure. So in doing that — IM actually not going to talk about it. Two words, qualitative research. Is anybody here, by trade a qualitative expert?
+
+AUDIENCE: Expert?
+
+DAVID: Is it, to some extent your job?
+
+AUDIENCE: Yes.
+
+DAVID: So there's a qualitative expert. You're going to write a copy and come back and and I'm going to say, so smart! Different from quantitative research for those of you — if aren't familiar with the distinction between those two things. Quantitative says, I'm going to get a bunch of numbers and those will determine how I act on. Qualitative research involves getting narratives from people. Understanding the context in which they live, understanding what their wants and needs are, and trying to infer some information from that. There are three forms, structured interviews, semistructured interviews, and unstructured interviews.
+
+A structured interview is, as I said, very, very structured. Same questions, you have ten, or a 100 or a thousand people. But we have open and closed-ended questions. Close ended question would be like at what age did you buy your first car? 22, I don't know. Have you at any time, adopted a dog? Yes. So it's very clear answers. We use — I don't want to say we — they are used in statistical surveys. Questions that are designed to have succinct answers. Extract data, analyze communities, and compare how cohort subjects react and it's very, very closed ended. Semistructured interviews are more like tell me what you remember about your mother. Something about a turtle. Is there no Bladerunner fans in here or anything? This didn't get a of la a first time. Same more open-ended questions. You're still working from a structured script. The script is still important. And you're still comparing subjects but you're getting a little more detail, a little more color in your answers and it allows you to sort of understand a little bit more but always following the same line of reasoning. Are you doing well so far? So great. Here's where things are going to go so right.
+
+Unstructured interviews. So Terry Gross. I think of Terry Gross as the god of interviews but we'll talk about some others. And I'm going to miss so many others. And in here I'm going to be talking a little bit since this is familiar to us, sort of radio interviews and podcast interviews — there's a lot of ways we can use unstructured interviews. I use unstructured interview practice on my one-on-ones extensively. Mentorship is an unstructured interview process.
+
+Open-ended questions. See, I was going to say a whole bunch of things — what's an open-ended question. What was it like to you when you walked into high school for the first day. That's an open ended question. There's no yes or no to get. You're opening the door to a big, wide, open field. You may have a script. You can say, I want to talk about this, this, and this. That script is generally more disposable. It often can go super awry, but we're not going to be concerned about the awry stuff. You're not always going to get what you expect. Facilitated storytelling, deep investigation, oral history, and complex qualitative research. But we're going to be focused on unstructured interviews, and in order to do that, I'm going to ask you all to work with me here. So, again, what we're mostly doing here is talking about listening. So asking is the provocation, and listening is the craft. So I'm going to ask you to reset your ears. And in doing that, only if you feel safe and comfortable doing it, you can close your eyes. You can keep your eyes open if you want. But we're going to be a little bit meditative for a second. It's not going to be a big, deep out-of-body experience. It's just going to take a couple of minutes.
+
+First, I would like to just feel the weight of your body in the chair you're sitting in. Feel the weight of your feet on the floor. Feel the weight you are your body in your chair, the feel of your hands on your lap or on the table. Now I would like you to take a deep breath in, and a long deep breath out through your mouth. Breathing in, and breathing out. Breathing in, and feeling the breath fill your chest, and then breathe out. Now continue to breathe naturally; you don't have to watch your breath. Just breathe, and I want you to just notice the sounds around you. They can be pleasant or they can be unpleasant. They can be jarring, or they can be soft. They can be constant, or they can be sharp. But just notice them all together.
+
+[ Meditation Exercise ]
+
+Now keeping your eyes closed, return back to the space that you're in. The feeling in your chair, and the people around you. Continue it allow the sound around you to flow through you but you're present with the people here, and you're attentive to the space you're in. Now open your eyes. I'm about to play you an audio clip from an interview that Terry Gross did with Maurice Sendak ten months before he died. He he was talking about the release of his book but the first thing you're going to hear is totally unprompted by her and I want you to listen. And you can actually do whatever you want. Close your eyes, open your eyes but just listen to the exclusion of everything else to what happens between these two people in this conversation and hopefully this audio will play.
+
+[ Audio ]
+
+Is there a part of you that wishes that there was a son or daughter to prefer you help shop with things?
+
+>> I would infinitely prefer a daughter. You know, as a —
+
+>> Isn't that stereotyping?
+
+>> I suppose it is but I'm an ordinary human being. A daughter would be drawn to me. A daughter would want to help me. Girls are infinitely more complicated than boys. And women more than men, and there's no doubt about it. We all know it, we just don't know like to think about it, certainly men don't like to think about it. But a daughter — oh, God,ive fantasies about a daughter. I have my whole life with a dream daughter.
+
+>> Let me ask you this: you came out a few years ago.
+
+>> Correct.
+
+>> If you were able to be out in a period like we live in today where it's socially acceptable in lots of circles to be gay and have children. It's so much easier to be gay and have children now, would you haved a child?
+
+>> No. Too much work involved. And I am devoted to be an artist and a person who reads books for the rest of the life that I have.
+
+>> And that takes a certain amount of self-absorption to be able to do that.
+
+>> Well, I think so. I think it has to do with time spent trying to understand what it means to be an artist... to get under the skin of what is happening as best you can.
+
+>> Do you have someone to help you?
+
+>> Yes. Yes, I have — and she is a youngish lady but she puts up my old stuff, my bad behavior, and she loves me and I love her.
+
+>> Is she a friend, a is she a nurse?
+
+>> She's a friend.
+
+>> Oh, that's great.
+
+>> And I've known her since she was a girl.
+
+>> Oh, so it's almost like she's a daughter.
+
+>> She was down the road and her mother had a faith in the best sense of the word, I believe that's what Christianity was all about. And it was her daughter, her, and Lyn, and there was Peter. They've both grown up and are attached to me and I might as well have them as my kids. They put up with everything.
+
+>> Well, that's beautiful, since you especially didn't have to do the work.
+
+DAVID: So you want you to notice something happened there. He says I'm so glad that I didn't have a kid. So what are Sindac's phases? I am so glad I never had kids, two, I would like to have a daughter. Three, I am an artist, four, effectively, I have a kid, and five, I love my daughter whose name is Lyn. Now, Terry didn't — at one point she says, do you have someone to help you, and everything turns on that. She's listening to him and understanding, and to be fair, she's interviewing him several points in his career at this point. She says: Do you have someone to help you because I think she sees something in his line of reasoning that she wants to explore. And then she comes at it sideways when he talks about this woman Lyn, who takes care of him. And says, well, she's almost like a daughter and that changes everything. And it's important to note that not all questions have question marks. Isn't like having a daughter? Doesn't it feel like almost having a daughter? And I think it's interesting about how interviews are not Q&A. Conducting interviews is essentially a listening exercise punctuated by questions. You're listening to the story that they're telling you versus the story that you're hearing. Your questions add fuel to the fire, directing energy and prompting narrative in a way. Interviewing is a story that you tell collaboratively. If I just put you in front of a room, and say tell me a story, that's not an interview. You're actually facilitating — unfolding a story with them. So I think of interview little bit as listening along a path, not trying to direct it while at the same time trying to facilitate it. The questions themselves are a means to an end. The ends that you're willing to achieve. The end is a story that you arrive telling together.
+
+So in this process of conducting interviews, you're asking someone to give you a well-thought-through answer, but it's just as important, arguably to give you your subject a well-thought-through question.
+
+So I want to blaze quickly through a few key principles here when you're interviewing somebody. Be empathic. You have to be literally of two minds, yours and theirs. Try to imagine what it's like to be that person and help bring that out. This empathy comes with a not-small amount of respect. This is call theed care. This sense of empathy will flow a little bit with knowing who the subject is. It may be difficult to feel empathic with your subject. Curiosity in the absence of empathy, curiosity goes a long way. You need to find an angle that's curious to you. It will obviously go much better if you are curious and you see angles on things.
+
+There is a researcher named Bryan Limerick who wrote really interested in qualitative is research communities something called the gift. When you're interviewing a subject, they're giving you something incredibly power, that's a gift and you should respect that. That's something for you should to think about. And the interviewing process, again, depends on the process that you started the interview in. Your subject can and take control in a lot of situations and you need to honor and understand that in your own work.
+
+Behaviors that you'll use here. You're not gonna use it in this room and you don't know what you're talking about but generally speaking, when you're going to interview somebody, it's good to research. And I'm talking again interviews, again, in your management practice, as well as your generallistic practice, research goes a long way. Building trust. You cannot jump into an interview asking the big question as the first question. You have to sort of build that relationship over time.
+
+Don't start with probing questions. Start with easy questions and turn a corner later. So you want to sort of gauge how each other communicate. You want to open the channel, I think, between two people practice being even more important than the individual at play. So use framing questions first. Understand where they're coming from. Don't rush. Talk them into talking.
+
+Respect pauses. There are going to be situations in which the course of interviewing, you probably have encountered this during normal conversations in which someone stops and rather than jumping in, you sort of wait for a second, and much, much bigger comes after, like, two seconds after.
+
+Don't piggyback on responses if you think there's something hiding in there that you can tease out. Watch for pauses and let them sit for a few seconds or more even if it feels awkward, those pauses have meaning. They may have cultural meaning to your subject. There may be something sort of unspeakable past that, because it's like, I don't even know if I can say this right now, but I need to contemplate it for a few seconds. And you, as an interviewer are going to silence that. And you're going to leave that out of the possibilities of your conversation. So respect pauses. And then listen — I call this listening ferociously. You can also call this listening actively and intently. Live inside the story you're telling, how it's being told to the exclusion of everything else.
+
+You will see, frequently, if you get a good camera angle on an interviewer, and, again, I've just used two very famous interviewers, you will see the extent to which they have sacrificed everything else in their field of attention and they're just completely absorbed. I'm going to go back to David Letterman. This is on Netflix. This is something like The Next Guest or something. This was David Letterman interviewing former president, Barack Obama. And it's just fascinating the way that you see Letterman working in this situation. It's very different than the way that he works on his late-night show. These perspectives are common and that's why it's common — sort of getting absorbed in it. Question toolkit. Open questions. What was it like when you walked into school the first day, versus what was the first day or school. Or was it awkward going into your first day of school. That's a closed-ended question. That's useful. And, in fact, Terry Gross, if you go back and listen to it uses a lot of them. This is a framework that I really like. Clarifying versus adjoining. So both of these are about affirming what you heard from somebody. Clarifying questions. You sort of paint in the gaps. If somebody says, well, my first day of school was pretty hard for me. Like, I just don't think I was ready. Well, tell me more about that. That's a clarifying question. Tell me more about that. What was difficult about the first day. That's a clarifying question. And an adjoining question says: did you have the same experience when you went to your first day of college? Right, you're expanding but you're still affirming, in a sense, and you're trying to clarify it. Elevating versus funneling. This is when you're discovering something new. Someone just said, my first day of school was really hard. And you would say, do you often find change difficult? What about change is difficult about you? Funneling a question. Going into more detail. My first day of school, I didn't feel like I was ready. You can say, did you feel like that when you walked out of the door out of your house, or when you walked into the classroom for the first time? That dives a little deeper. This is another question, neutral probes and I put this here because I recognize I'm trying to get into your heads a little bit, but if you approach the project along the first two bullet points. A neutral probe is like, huh, okay, yeah. Like, they feel like not necessary but they are super necessary but I just want to point that out.
+
+Like, you can contribute something other than actual pointed questions. Okay. This is the big one. How are we gonna do this? Around every table, I would like you to go around and cycle to one, two. So everybody in the table, go around, and pick one, two. So starting anywhere and going clockwise in the interest of time.
+
+[ Group Work ]
+
+I think that's going to be faster than me going around the whole room. So are there any unpaired ones or twos? Ones are going to pair with the twos. So I'll tell you how the story ends. One, this round is going to be interviewers, and twos are going to be the subjects. If you're unpaired, I'll find spaces for you all to sit together.
+
+Before you get started asking questions as professionals, before you get started, I'm going to put a bunch of prompts up here. Again, I'm putting these up here because they feel relatively safe. And the interviewers are going to interview the subjects trying to think about the things that we've talked about, obviously. If it doesn't come easy to you, that's all right. But just make sure that you talk to your subject about it. And then I'm going to have you do this exercise for 15 minutes, and just see how it goes. Okay? All right. Everybody at their — do this. And then I'm going to find people for these folks.
+
+[ Group Work ] 
+
+Two minute warning. Okay. Everybody, express some gratitude to your subjects. Express some appreciation to your interviewer. Now let's reflect a little bit on how that went. Hang on. Hang on. All right. Let's reflect on how that went. Okay. So, here, as an interviewer — no wait — who, here as a subject was surprised about where the conversation went? Who here, as an interviewer was surprised about where the conversation went? Oh, okay. Some fairly predictable enterprises here. What was — as an interviewer, what was challenging about that? What did you find challenging about that process? Anybody?
+
+AUDIENCE: Like, I wanted to relate to Jasmine because sometimes the little things that I would share would end up being a little bit longer than I wanted to, so it was harder to pivot into a question.
+
+DAVID: So you went into question mode and you went into relating mode?
+
+AUDIENCE: And I had to quickly catch myself and bring it back.
+
+DAVID: Relating and empathy can be tricky in that way.
+
+AUDIENCE: So it kind of shows how much work that I have to do on there myself, but I put a bunch of questions there, you have to think of an answer. There's a pause where you have to think, and there's that part of that doesn't like pausing, and shoves you into a box.
+
+DAVID: The waiting as an interviewer can be really challenging if you're not used to it. Some people are used to it but if you're not used to it, you have to resist, and you're afraid you're going to lose something, maybe. Yes?
+
+AUDIENCE: Sometimes she would say something and I would hear — she would say, like, two or three really interesting things and decide that there are two or three different interesting ways that this conversation can go.
+
+DAVID: So like I said, there may be two or three different ways to approach a response, and trying in realtime where you decide to go, and you thought you were going to go. So that's tricky. What's the path that you want to take and what's the cost?
+
+AUDIENCE: It was difficult for me to know when to focus and when to elevate because I think I'm most interested in elevating questions but it's easiest for me to ask the focusing questions in the moment.
+
+DAVID: What was difficult about getting into elevating mode for you?
+
+AUDIENCE: I think what would come to mind personally would be, tell me more about the specific thing rather than abstract it out into what is the bigger picture, what's the bigger scenario that's interesting here?
+
+DAVID: How many people found it very difficult to balance in your mind, contextualizing the interview versus experiencing the interview? Does that make sense?
+
+AUDIENCE: Can you say more about what that means?
+
+[ Laughter ]
+
+DAVID: Everyone can go home now! So what I find is that when I'm interviewing somebody or when I'm talking to somebody and I'm trying to do it in this way, what I've asked you to do in terms of ferocious listening, and active listening, can actively be at odds this with trying to carve a path with the interviewer. That goes back to the two or three paths thing. And juggling between those two spaces can be nerve-wracking. So elevating questions, I find, require more introspective thought. Because a focused question, you have a path. An elevated question, you have to step back and say, how is this indicative on some level? Anything else?
+
+AUDIENCE: I think we started talking about the weekend question and then we went pretty immediately into our common ground which was work, and just, like, talking about our experience in the workplace. So I think one of the challenges is, like, I think keeping your objective in mind, and, like, oh, we really could have ended up talking about Saturdays for the whole time but, instead, we went straight to our common grounds. So I think having an awareness to, like, refocus on the initial reason why you're talking.
+
+DAVID: I would like to throw out an alternative to that, which is to say that all those questions that I put up on the board — which I'll put back up — don't freak out, are not objectives but provocations. I would aver that the point of this process is to specifically not know where you're going — for example, the last time that I did this, somebody asked me the question: where did you grow up? The answer, for me, was complicated. My dad was in the Air Force and we moved every three years and the topic moved to friendship. What are the ways that affected the emotional relationships that I form even with people today. So it ended in a dramatic place. So I think it can be okay to let go of these things which I know is unfair to all the people who interviewed and asked really specific questions like: what was everyone's weekend like?! So objective versus provocation, right? Anything else?
+Okay. So having thought about that, all the twos get to be the interviewers now. And, actually, I would like it if the twos would pick a different one. Is everyone okay with that? I know y'all — everyone likes each other now. So there are enough of you at each table to trade twos and ones. Twos are going to be the interviewers, and ones are going to be the subjects.
+
+[ Group Work ]
+
+One-minute warning before we get back. Interviewers, express some gratitude to your subjects. Subjects, express some gratitude. It's a challenging role. Okay. I know we've done a good job here because it was harder to get you out of the second one than the first one. So quick five-minute reflection, and I want to ask specifically: for those of you who were subjects this time, what was different — what was your — how was your experience as an interviewer affecting your experience as a subject? Anybody? You can think about it. Awkward pause. Yes?
+
+AUDIENCE: I wanted to help lead the conversation more.
+
+DAVID: Leading as a subject. That's cool, actually.
+
+AUDIENCE: Thanks... kind of the
+
+DAVID: Kind of your job. Well done. Anybody else who was a subject/interviewer this time before. How about the inverse... if you were an interviewer this time, what was different about your experience than when you were a subject for the first 15 minutes besides the fact that you got to ask all the questions and was super fun.
+
+AUDIENCE: I started thinking about what's the arc here. And I also was getting ahead of myself saying, "I want this to lead somewhere." But, I don't know, it was always kind of hard to create the path that I wanted to —
+
+DAVID: Prescribe the arc. What's the destiny of this conversation to your point earlier? Anything else that people found surprising or challenging? Actually, you in the back, please?
+
+AUDIENCE: I personally thought it was easier as an interviewer because you can be more straightforward whereas when someone's asking you that question, you might want to explain something, and you can't really be direct. You might have to resort to analogies, and it might not really convey what you want to say.
+
+DAVID: It's almost like the stakes feel lower? Is that how it feels as an interviewer?
+
+AUDIENCE: It's funny you say that? I actually was thinking that the stakes felt higher as a subject and maybe this was as a previous experience that you want to give a good answer and you're afraid that you're not. I feel that's the tougher challenge than asking the questions... I mean. Can I give an analogy?
+
+DAVID: Sure, of course.
+
+AUDIENCE: So we had a beautiful conversation and it really stemmed out of motherhood and whatnot, and I felt that was extremely deep and I would think that that's more challenging and it flowed so easy. Our conversation with my interviewer, type of a moment, it turned my hat. And though they're family to me, that felt more impossible to have a good answer than to have this really deep conversation about the challenges of motherhood.
+
+DAVID: Yeah, it's that a little bit because we talk about the respect for the gift. Like, you're asking a lot of your subjects, right? Like, that is something that is incredibly important to hold close. And that's — and I think that's a really good illustration of that and I think those of you — everybody's felt both sides of that and I think you kind of understand that now. You had a question.
+
+AUDIENCE: Oh, let me formulate a question.
+
+DAVID: You don't have to formulate a question. We're in open/declarative statement time. The yoke is off.
+
+AUDIENCE: I felt like the stakes were very high as an interviewer because I didn't want to close any doors if we only have five minutes. I wanted to make sure that what the subject felt was most important and...
+
+DAVID: The sphere of opportunity cost, is that what you're saying?
+
+AUDIENCE: Yeah.
+
+DAVID: You're making a choice and darken parts of the room.
+
+AUDIENCE: I felt like we started off really strong and got to a really deep, emotional — like, such a necessary like, just Jen was saying, was wonderful, and, like, maybe when we had a few minutes left, it was kind of like it just seemed to, like, tie up a little bow and we're like we have extra time left! I was put in the spotlight. But I'm not sure if it was a clarifying or a funneling — no, it was kind of like a joy-maker. I was both sort of able to end it, but I did feel the moment of panic and on-the-spot of [gasp] what's next?
+
+DAVID: That's super common. And I want to tell everyone who's being subjected to a 15-minute warning. Most things in the universe are not time bound to 15 minutes. You can just say, that's great, we don't have to move forward. But I think an adjoining question is great.
+
+AUDIENCE: I think my challenge when I was talking to Sam was he's a product manager, I'm a investigative reporter, and he talked about how he wanted to be in the industry of being a product manager, and the challenges, and like the fulfillingness of that. And I really wanted to share my experiences from this side, and say, I think you have it better, actually. But I wasn't doing that. I know that everyone can bring themselves and share their experiences as the part of the interviewing process, and I've had this challenge from the outside as an interviewer: should I bring myself, or should I take myself out?
+
+DAVID: It depends on the context. It depends on why you're doing it. Obviously, if you and I have a conversation over lunch, like, I have no problems with you whatsoever offering — and I don't think you should all go out of this conference and say, I'm not going to offer up anything, I'm just going to ask questions. If you look at that Letterman and Obama interview, he uses a lot of question. We're not using them as data-gathering point. People, rightly do, in anthropology think that they're going to bias their questions in some way. It depends on the question in some way. But this session that I'm leading with the lavalier mic on I think that's okay. You can even contextualize by saying: is it okay if I offer something from my perspective and ask them to reflect on that? Do you find that instructive? In what ways might that contradict what your own assumptions were about the role kind of thing.
+
+AUDIENCE: I specifically wanted to touch upon this in the context of journalism because when we were reporting about diversity and you're also in the newsroom and you're also — do we relate to the stories that come to you, or do you keep yourself out because I don't know if journalism is anthropology or not but what should be said? Should you leave yourself out?
+
+DAVID: Can another journalist in the room answer her question succinctly?
+
+AUDIENCE: I think this has to do with keeping the power and the purpose of the interview clear. And I think, you know, particularly when you're interviewing — like, it's not — if you're doing a character study or depending on what you're doing, you're not there as a gotcha, but there is a place where it needs to be understood that this is, at some level, a business transaction and I am here to interview you, and we're not going to be best friends. You know, that there's an expectation put on, like, what the journalist is going to write about that person. Other people will have differing opinions on that. So we've been talking to different — been bringing up this to different journalists, this subject just recently. And we've had one person the way that he says that he gets people to open up is to find that open ground. You know, I'm from New York, too. Do you ever see the Yankees? You know, you have that common ground. And another person said really quickly, this is an interview about that other person and your details don't matter in that story. You have to hear that person's story, not yours. I don't know if that's helpful at all.
+
+DAVID: That was helpful. And, actually, this was one of the things I was super neurotic about coming in to this conversation because, again, I think it's really important to understand the journalistic interviews being distinct from my interview practice, which is not a journalistic practice. So I would encourage you all to find some time to talk about that. There actually may be some really interesting conversation to have around the intersection of interviews as a journalistic practice, or interviews as a work practice or a general practice, and how to contextualize and focus in those ways. That would be super interesting to me. Yes?
+
+AUDIENCE: I just had a question. From a journalistic perspective, is finding common ground generally not encouraged?
+
+AUDIENCE: And to be clear, the reason that we had brought these people in for different topics, I work for a science magazine and we very much focus on the facts and the details of the experiment, except for this one time of the year where we profile ten scientists. So people who don't really know how to talk to people need to figure out how to elicit details that are interesting — it's what works with that approach and if you're an investigative reporter and your whole line of questioning is to funnel the one of, you know, and so were you aware that what you were doing was illegal? You know, you need to treat that interview very differently than, hey, tell me how you got into this. What was your inspiration? And you will get the canned answer until you keep pushing. You want to get the right emotion out of that. There needs to be different sort of connection between the interviewer and the interviewee.
+
+DAVID: This has been really good. I hope that you continue talking about this. I selfishly hope that you continue talking about this as you engage with your fellow attendees and participants over the next few days to better understand what's happening here. I hope this was helpful. I'm going to close with the end of that Sendak interview. It was very, very brief and it speaks to the importance of establishing trust. I'd like you to remember that Sendak has been interviewed several times at this point in their mutual careers so I want you to think about that as you hear this.
+
+>> Go ahead.
+
+>> You are the only person I have ever felt, in terms of interviewing, or talking to, bringing this out in me, there is something very unique and special in you, which I so trust. But I heard that you were going to — when I heard that you were going to interview me, and I wanted to, I was really, really pleased.
+
+>> Well, I'm really, really glad that we got a chance to speak because when I heard you got a book coming out, I said, what a good excuse to call and chat with Maurice Sendak.
+
+>> Thank God we're still around to do it.
+
+>> Yes.
+
+>> And I certainly would be open for you — I certainly will miss you.
+
+>> Oh, God.
+
+>> And I don't know whether I'll do it or not. I want to — but it doesn't matter. I'm a happy old man but I will cry my way all the way to the grave.
+
+>> Well, I'm so glad that you have a new book. I'm really glad that we had a chance to talk.
+
+>> I am, too.
+
+>> And I wish you all good things.
+
+>> I wish you all good things. Live your life, live your life, live your life.
+
+DAVID: Thank you. I would love to continue talking about this for the next two days. There's, obviously, plenty that y'all have to do, but that is my Twitter address, that is my newfound email address. And thank you all so much for being involved in this and being vulnerable and being so engaged. It means a lot. And I hope it was as good for you. Thanks.
