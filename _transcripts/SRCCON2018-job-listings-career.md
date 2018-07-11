@@ -1,0 +1,187 @@
+---
+---
+
+# Session Transcript:<br>Reimagining news nerd career paths via job listings
+
+### Session facilitator(s): Soo Oh, Martin Stabe
+
+### Day & Time: Friday, 10-11:15am
+
+### Room: Ski-U-Mah
+
+Martin: If you are struggling to apply yourself, pick all that apply. All that we care about is not everyone with the same colored Post-its are sitting together. 
+
+Is this a current job or every job you ever had? 
+
+Martin: Every job you have ever had.  
+
+Soo: So the first thing is if you are not a discreet table with four people you should definitely get in one. If there are two people sitting at another table, move over. You should try to have a diversity of Post-it colors at your table.
+
+It should be four people. If there are leftovers, we can figure that out. Is anyone not in a group of four right now? Is Arman the only person? 
+
+We have a group of three. 
+
+Soo: Perfect. Oh, this worked out. I was totally not sure we would get exact multiples of four. Try to make sure whatever Post-it color you picked up, you are in a group with lots of different Post-it colors and not just all the same color. You can be a group of four now. Is there a person now who is not in a group of four or is there a group of five? There is a group of five now, right? Over there? 
+
+We are a group of four. 
+
+Soo: Perfect! Now no one else can come in. 
+
+Soo: Hello. I kind of don't know if I need this but I guess it is good to letting people no we are ready to talk. Welcome to reimaging news 93rd career paths. We are going to do a lot of interviewing and note taking and I hope we can come up with interesting new roles and experiments to try out in your newsroom. 
+
+Some of my favorite sessions at SRCCON have been the ones where people up front are not talking so much and you all are talking in groups so we want to do that today. Before we do that, we are going to mention one chart. This is the chart from the OpenNews survey showing why nerds leave their jobs and the biggest is is the lack of career pathway opportunities or lack of promotion. If anyone has been in a newsroom and you haven't been able to do what you want and have difficulty persuading people to make those Changes you are in the right room. 
+
+Martin: On the Etherpad there is a big list of links and other material of recent thoughts people have put out there about this issue. If you are interested in this subject matter, I don't think we should belabor that now but it is all there and you can follow the links. 
+
+Soo: Let's get to the first activity. The first thing we will do is have interviews. So, this is kind of a great opportunity for a person to get like five minutes of talk time without interruptions. There are going to be two people taking notes, one person is interviewing the other person not taking notes, and asking them about their relevant skills they have in their newsroom. You are just going to take down notes on those skills. That is all we are going to do for like 20 minutes. The interviewer should be more like Oprah and not interrogating but exploring and figure out the skills you have. Consider both hard and soft skills although we know that is not always a dichotomy. 
+
+You should think about skills like managing up, communication skills, you should think about also technical skills you bring as well. We will start that and be ruthless about time taking because we have a short amount of time. So feel free to decide who is going to be an interviewer and interviewee and then after five minutes we will switch turns. Every person will get interviewed for at least five minutes. Time to start. 
+
+Are we taking notes on this paper? 
+
+Soo: Oh, if you don't have Post-its let me know. Which table doesn't have Post-its? It doesn't matter what color they are now.  
+
+ I have the white paper there for you to just -- you can do anything with it. Sometimes people don't have paper. Yeah, sorry, go ahead. One person will interview another person. Each person will be interviewed so you can pick randomly who is going to be the first up. We will be interviewing for skills we both have and want to acquire.  
+
+Does anyone now not have any Post-its? We are good?  
+
+[Table activity]
+
+Soo: Someone asked a great question. Can three people ask a question or can all three people be like the interviewer and really in this section what we want is one person interviewing and one person being the interviewee and the other two people taking notes and not asking questions. That is our preference mainly because when three people are asking questions it feels kind of like an interrogation so we will ask everyone to channel their inner Oprah and be this great facilitator for bringing out your skill set. If you have questions, you can write them down on your Post-it if you are a note taker and everyone switches next round. You got five minutes now.  
+
+[Table exercise]
+
+Soo: I highly recommend writing one skill per Post-it. 
+
+Martin: One minute till we switch it up.  
+
+One minute or time is up? 
+
+Soo: One minute until time is up.  
+
+Martin: Okay. Do we switch up and get the next person interviewed? We have five minutes for the second person in your group. 
+
+Soo: We are starting the five-minute timer for the next round of interviews so designate your interviewer and interviewee for the next one and we will set the timer for five minutes.  
+
+Martin: One minute warning. 
+
+Finish up your interviews. 
+
+Martin: Okay. That is five minutes. Five minutes are up. 
+
+Let's switch up the interviewee.
+
+Third person should now be being interviewed.  
+
+Soo: All right. Everyone, wrap up your interviews. We will start the next round right now.  
+
+Martin: Okay. One-minute warning. We are about to switch off again so please finish this round of interviews. 
+
+Martin: Okay. That is five minutes. We are going to keep on time n here so please switch it up and get the last person in your group being the interview subject.  
+
+Last five minutes start now!  
+
+Martin: Please start wrapping up. We have one minute left. One minute left.. 
+
+Martin: Okay. Time is up. 
+
+Wrap it up please. We will move on to the next part of this. 
+
+Okay. Now that we all know a bit more about each other, and about the range of skills that exist in teams like the ones we all work in, I want to sort of re-mix some of these skills and things into new roles that we might imagine for ourselves. Now that could be reinventing an existing journalist job by bringing to bare some of the skills we are talking about or it could be new and pioneering a new concept that you think your newsroom needs. Don't just make up your dream job. Think a little bit about the context of the organization that might need that role. Why would an organization need this new kind of combination of skills in the context of that organization? 
+
+Notice we haven't called this news organizations or newsrooms because it might not be on the editorial side. It might not be in a traditional news organization because work of this sort exists in non-profits, governments, and all sorts of arenas. There might be journalism adjacent spaces as well in which this could work. 
+
+And finally, think about a limited experiment, a low-risk way of proving to that organization that you are imagining that this job needs to exist and it proves its worth and makes the business case for creating that job. 
+
+Soo: We came up with just like one job and like came up with a few experiments. We purposely did not -- ask you to focus on one person. Maybe you can come up with different roles you may not have thought of before. You don't have to come up with a number of roles. Just whatever excites you as a group.
+
+Come up with experiments. Four roles and three experiments, for example. There is no hard requirement or anything. But we will ask you in the end to come up and share at least one thing.
+
+And you have until 11:00, I think. We end at 11:15 so 15 minutes for share out. We will end at 11:00. You have 25 minutes. And also because you have these amazing notes and Post-its you can arrange them however you like. You can write new Post-its and everything like that. If you want some space, I like to sometimes brainstorm on a wall instead so you can take that sticky white pad and move it to a wall. Feel free to move around.  
+
+[20-minute table exercise]
+
+Soo: Okay. We have about five minutes left. So if you could wrap it up in the next five minutes that would be good. 
+
+All right. We have one minute left so wrap up. 
+
+Soo: Okay. This is the end of the brainstorming session. 
+
+First, I want to acknowledge 25 minutes was not a lot of time. 
+
+ Brainstorming is super hard. If you had a lot of difficult coming up with an idea and experiment that is totally normal. We would not give you weeks and weeks to think about it. It is just 25 minutes for people you just met. For the first part of the share outs, I want to talk to some teams that had a lot of difficulty, actually. Like, let's, you know, for some reason it was a really difficult brainstorm and maybe you came up with an idea and don't know if it is good. Does anyone want to share any hardships you had during the brainstorming process? Did everyone come up with an idea? 
+
+Yeah? Okay. Great! Dillion, if you can pass around the mic for every person. It is a small room but it will be easier for our transcriber to transcribe what you have saying if you have a mic. 
+
+We will go with this group first. Sorry, we usually go for volunteers but we want to hear from everyone. 
+
+Thank you so much. Can you introduce yourself? 
+
+Hi, I am Candice. We created what is looking like a content director position. It is going to be for a digital-only platform. They are going to build a team and that is sort of their project; to build a team that can work together over two months to figure out how to develop features across multi-platform storytelling. So, audio, visual, video, written word we guess, and also use analytics to help inform that storytelling and also the decisions around where the content lands and how the stories are told. Did I say that right? 
+
+Soo: That is awesome. Next table. 
+
+Go for it. 
+
+Awesome. Hi, I am Brent. We came up with what we think was kind of an awesome thing called the data layer developer. This would be for any organization who uses data often or even rarely or wire services that communicatecommunicate data. The idea is someone to take the data from all the different formats we get it in and from various organizations and standardize it so it it all comes into the same format for your organization. 
+
+Some proof of concept ideas that we had would be you could start with one source or one organization that provides data in many different ways. Like, for example, weather data. You get a lot of different ways and turn that into a standard thing.
+
+Many sources. The other thing we felt we might be able to do was build a way for the newsroom to use that data, filter it, sort it, whatever, without necessarily the front-end component. 
+
+Soo: That sounds awesome. 
+
+We came up with the idea sort of a traveling-coding teaching consultant especially for newsrooms that are smaller and there is only one person trying to teach themselves these skills. We imagine different organizations in the city could pitch in and pay this person's salary, like each organization. 
+
+And that person would come to each organization, like, once a week and either help people get started and figure out the questions you need to ask to build the thing you want to do and help people get started on the journey or act as like an editor in cases where you don't have someone who can edit you. 
+
+That was kind of our idea. Yeah.
+
+Soo: Sweet. Next group. 
+
+We developed a somewhat similar program called The Data Service that aims to serve small newsrooms that would like to have data interact and heavy hitters. Aims to be a collaborative way for us, dream job for me, to work with really small newsrooms that want to work on data projects but don't have those resources. Our experiment is the Alaska Public Radio network and centralize around a hub that provides that support. We found a little bit we were reinventing Code For American and OpenNews at the same time but we thing they are compelling. 
+
+Soo: Those are all totally necessary organizations so that sounds like a great idea. 
+
+Okay. Our role is kind of looking at the context of working in a large news organization, large TV news organization like CNN or MSNBC, and trying to find a way of those teams that have to produce data, visualizations and graphics very quickly and it doesn't allow for medium-term projects. So how could you create a role in one of these big TV news stations that allowed someone doing data to work on a more medium term process. The thinking was -- the term has a 100 names for this role. We are going with medium term graphic developer, specialist, producer. The experiment we wanted to kind of try out was right now there is a lot of different organizations. 
+
+You have several different kinds of folks working on graphics whether it is people in design or people on the graphics team itself but the thinking was the create a new team within the organization that kind of sat and really owned the graphics that happen across television news. I think we have all seen television news graphics. It would be fascinating to actually have a single team that owned that space for a news station. 
+
+And then giving more reporters more agency on their graphics and allowing the team to float in a way to do more medium term and long term projects. That is not something super revolutionary. It is really just taking other models and applying it to the TV news space. 
+
+Soo: That is awesome. One thing I have heard is this is stuff the Republic or "The New York Times" has and I don't think it is a bad idea to take those and bring them to the smaller newsrooms. They need that work and it very hard to convince smaller newsrooms to invest in that. I think it is a great idea. 
+
+So our concept has threads across that whole side of the room. We came up with something called a field engineer also driven by folks at the table who have skills in technology but wanted to work more closely with journalists including international and small news rooms. The idea is this would probably be a fellowship perhaps funded by a large news organization who will ultimately want to hire technologists connected with the community and experience in covering people they will run into at the coffee shop the next day. The idea is it is coming from technology rules or academic pipeline would get training for two years go into small newsrooms and figure out a  lot of these organizations are print-focused because they have an older population. Putting an engineer in the newsrooms part of the role would be to discover what these needs are. We all have family members on the iPad so we know print is not the only answers. 
+
+Soo: Many years ago I felt iPads were whatever, but now I have one and it is amazing. 
+
+So we created a role that is basically like an editorial project manager. This person would be basically going into the newsrooms and help news organizations create better tools and workflow. Thinking about the ultimate end product, the journalism, rather than starting with what does it look like for the users it starts with what does it look like for the people producing the journalism, what the goal of making it easier to produce, and therefore make better journalism. It was like a communication medium between people in the newsroom and people outside. 
+
+So we came up with -- this is largely based on Jessica's career. 
+
+Soo: And what is your name? 
+
+I am Kristin. The idea is that we can work through a set of experiments to create what we termed archive process and build archival initiatives into the workflow. A couple ways you can go about that is the role of the context editor would be to create universal schema for saving these things, to either be a developer or work with a developer to create an API so everything is accessible and usable. We thought about the idea of institutional corrasion and they decide what to be archived and saved and bring that back into the newsroom by building out stories based on archival works and create things based on the universal schema where you can use tags or something to pull the work back out. Beyond that we could have partisipatory archiving. Users can see the history of the organization, or they can have it it to do research and things like that. It becomes a process that helps the journalist research their own work, helps users understand the publication better, and we thought about the context in which you would need this and a clear answer is like "The New York Times" but then there is also, like, anyone that is a digital publication has probably not thought about archiving very much but as good as the way machine is it is a backup not an archive. Just trying to build that out to preserve our future or whatever.
+
+So, yeah. 
+
+Soo: That is great. 
+
+So our idea kind of has threads connecting to others in the room but it is a local news reach fellowship. It would be structured in the way we would have an editor in charge of the whole product and having different fellows connected to different, smaller local news rooms around the country. It would potentially be funded by some publication with the resources to kind of take this on. I guess the main problems that we were seeing were that maybe there is some issues with trust between communities and their news organizations or their community groups that don't have too much coverage so this fellowship would try to address those. The whole point would be to try to find a community where it is, attend its events, engage with it on social media, and we kind of came up with metrics and ways that we can prove trust was increasing and we were finding the stories that were going undercover in these communities.
+
+It could look like making a Facebook advisory group of different audience members who may not be talked to as often and kind of use them to direct coverage or ask questions. We would attend events and by understanding the discussions going on there create our own events to further conversations and have the stories that end up in the paper. And yeah, we would try to measure greater reach for local stories and increase in, you know, subscriptions or page views, or social media followers. Oh, yeah, we also wanted to try to measure organic tips to reporters and try to see if, you know, reporters are getting more story ideas or different sources and that would be kind of another metric that this outreach would be helpful. 
+
+Soo: Awesome. Thank you. 
+
+I am not the best person for this but -- 
+
+Soo: I am sure you are. 
+
+We came up with a role that -- it is an assisting editing manager. We do a lot of development and data analysis in your group and we feel like as important as it is for text to have very skilled copy editors and editorial editors, data analysis always needs that kind of vigorous editing and sign off. We envision this role being a former coder or doer so that they can, you know, understand and, you know, speak a language well. Is there anything else I am missing here? Persuasive. We really see this role as being an evangelist for the cause of data analysis and data explanation and someone that just has a very solid background in these quanatative analysis skills but also with the power and the leverage to affect editorial decisions at a higher level. 
+
+Soo: What I amhering from that is we all need to get into upper management. Thank you all so much for sharing. It is actually 11:15 so it is the end.
+
+I want to thank you for the brainstorming. If you could leave your Post-its or notes that would be cool, we want to collect them. We want to make a blog post for this so we can let them out in the open. I just thought of an accessibility editor. Thank you so, so much. I will be in this room and so will Martin for 15-20 minutes until the next session. Thank you. 
+
+[APPLAUSE]
+ 
