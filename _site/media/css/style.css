@@ -101,6 +101,14 @@ header #header-image { /* default to MPLS skyline homepage background */
     background-image: url(/media/img/backgrounds/facilitators.jpg);
     background-position: 0 -225px;
 }
+.documentation #header-image {
+    background-image: url(/media/img/backgrounds/documentation.jpg);
+    background-position: 0 0;
+}
+.remote #header-image {
+    background-image: url(/media/img/backgrounds/remote.jpg);
+    background-position: 0 0;
+}
 
 /* HEADER STYLES */
 header #corner-logo {
@@ -206,6 +214,22 @@ main input {
     margin: 0 -1em 1.2em;
 }
 
+.sponsor-block {
+    margin: 0 0 2.5em;
+}
+.sponsor-block img {
+    width: 67%;
+    display: block;
+    margin: 0 auto .5em;
+}
+.sponsor-block .narrow-logo img,
+.sponsor-block.secondary img {
+    width: 50%;
+}
+.sponsor-block h2, 
+.sponsor-block h3 {
+    text-align: center;
+}
 
 /* FOOTER STYLES */
 footer p {
@@ -215,7 +239,7 @@ footer p {
 footer #footer-nav {
     background-color: #232D44;
     margin-bottom: 1em;
-    font-size: .67em;
+    font-size: .6em;
 }
 footer ul {
     margin: 0 0 2em;
@@ -252,15 +276,24 @@ footer #footer-details .page-container {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
-footer #footer-sponsor-list a {
+.sponsor-list a {
     display: block;
+    margin: .5em 0;
+    text-align: center;
 }
-footer #footer-sponsor-list img {
+.sponsor-list img {
     width: 100%;
 }
-footer #footer-sponsor-list {
+.sponsor-list .narrow-logo {
+    padding-left: 25px;
+}
+.sponsor-list .narrow-logo img {
+    width: auto;
+    height: 50px;
+}
+.sponsor-list {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: 200px 200px 150px 200px;
 }
 
 footer #footer-details,
@@ -269,7 +302,47 @@ footer #footer-sponsors {
     font-size: .67em;
 }
 
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+    font-size: .83em;
+    margin-bottom: 3em;
+}
+td {
+    padding: 0 1em 1em 0;
+    vertical-align: top;
+    line-height: 1.3;
+}
 
+.live table {
+    width: 100%;
+    margin-bottom: 0;
+}
+table .session-time {
+    max-width: 130px;
+}
+table a.session-title {
+    font-weight: bold;
+}
+table a.session-transcript {
+    font-family: sofia-pro,sans-serif;
+    display: inline-block;
+    line-height: 1;
+    font-size: .67em;
+    color: #fff;
+    background-color: #a6b3d1;
+    padding: 3px 6px 4px;
+    border-radius: 3px;
+    margin-top: .4em;
+    text-decoration: none;
+}
+
+.hidden {
+    display: none;
+}
+.context-link {
+    font-size: .83em;
+}
 
 /* SESSION LIST STYLES */
 .session-proposal-list {
@@ -434,9 +507,20 @@ footer #footer-sponsors {
     .participation #header-image {
         background-position: 0 -150px;
     }
-    footer #footer-sponsor-list {
+    .sponsor-list {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+    .sponsor-list .narrow-logo {
+        padding-left: 0;
+    }
+    .sponsor-list .narrow-logo img {
+        width: 50%;
+        height: auto;
+        vertical-align: text-top;
+    }
+    .sponsor-block.secondary img {
+        width: 67%;
     }
 }
 
@@ -462,9 +546,16 @@ footer #footer-sponsors {
     .participation #header-image {
         background-position: 0 -80px;
     }
-    footer #footer-sponsor-list {
+    .sponsor-list {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+    footer #footer-nav ul {
+        display: inherit;
+        padding: .5em 0;
+    }
+    footer #footer-nav li a {
+        text-align: left;
     }
 }
 
@@ -502,21 +593,22 @@ footer #footer-sponsors {
     footer #footer-sponsors .page-container {
         display: inherit;
     }
-    footer #footer-nav ul {
-        display: inherit;
-        padding: .5em 0;
-    }
-    footer #footer-nav li a {
-        text-align: left;
-    }
     footer #footer-sponsors h3,
-    footer #footer-sponsor-list {
+    .sponsor-list {
         display: inherit;
         text-align: center;
     }
-    footer #footer-sponsor-list img {
+    .sponsor-list img {
         width: 67%;
+        height: auto;
         margin: .5em 0;
+    }
+    .sponsor-list .narrow-logo img {
+        width: 40%;
+        vertical-align: inherit;
+    }
+    .sponsor-block img {
+        width: 100%;
     }
 }
 
