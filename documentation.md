@@ -1,46 +1,49 @@
 ---
 layout: layout
-section: documentation
+section: remote
 permalink: /documentation/index.html
 ---
 
 # Documentation
 
-We put a great deal of emphasis in capturing the work involved in putting SRCCON together. Here's our ongoing series of documentation on the logistics and thinking that go into SRCCON.
+It's important to us to keep SRCCON small enough to feel friendly and conversational, but we also care about getting the ideas and conversations that take place at SRCCON into the wider world. The most important way this happens is when attendees return to their newsrooms and put new skills and approaches to work, but we also document SRCCON as extensively as possible. This page collects resources you can refer back to as you bring SRCCON home with you:
 
-## Sessions & Proposals
-* [SRCCON Facilitator Guide: How to Run a Great Session](/facilitators)
-* [SRCCON Proposal Guide: How to Craft a Great Session Pitch](/sessions/proposal-guide)
-* [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/)
-* [3 Ways to Facilitate a Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/)
-* [Five Things We've Learned About Sessions](http://opennews.org/blog/srccon-top5)
-* [How to Plan a Great SRCCON Session](http://opennews.org/blog/srccon-session-planning)
+* [Session transcripts](#transcription)
+* [Session notes & resources](#session-notes--resources)
+* [Session write-ups on Source](#session-write-ups)
 
-## Participant Experience
-* [SRCCON Participant Guide: How to Have a Great Time at SRCCON](/participation)
-* [Why You Want a Code of Conduct & How We Made One](http://incisive.nu/2014/codes-of-conduct)
-* [Making SRCCON Good for Humans](http://opennews.org/blog/srccon-human-stuff)
-* [Thursday Nights at SRCCON](https://opennews.org/blog/srccon-thursday/)
+## Session Transcripts
+Our live-captioning team transcribes about half the sessions at SRCCON. Sessions that had stenographers are marked on [our full schedule](https://schedule.srccon.org), or you can use the lists below. If you were in a session and you notice something that needs to be fixed, we'd love your [pull requests](https://github.com/opennews/srccon) or [emails](mailto:srccon@opennews.org).
 
-## Logistics
-* [Why We Wrote Our SRCCON Proposals Guide](https://opennews.org/blog/srccon-proposal-guide/)
-* [Why We Expanded Our Scholarship Program](https://opennews.org/blog/srccon-scholarships-update/)
-* [How We Planned & Ran the SRCCON Travel Scholarships](https://opennews.org/blog/srccon-scholarship-process-admin/)
-* [SRCCON Ticketing: What We Did and Why](http://opennews.org/blog/srccon-tickets)
-* [Why You Want a Code of Conduct & How We Made One](http://incisive.nu/2014/codes-of-conduct)
-* [The SRCCON Ticket Lottery: What we Learned](https://opennews.org/blog/srccon-lottery/)
-* [Captioning a Multi-Track Conference - How SRCCON Did It](http://opennews.org/blog/srccon-transcription)
+<div>
+    <h3>Thursday transcribed sessions</h3>
+    <table>{% assign thursday = site.data.schedule | where:"day","Thursday" %}
+{% for session in thursday %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a class="session-title" href="https://aloft.nu/conf?name=srccon&session=2018-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+{% endfor %}
+    </table>
+</div>
 
-## Other Resources & Inspiration
-* [2015 Will Be the Year You Pitch a NICAR Lightning Talk](https://medium.com/@sisiwei/2015-will-be-the-year-you-pitch-a-nicar-lightning-talk-dd293e5d78ca) by Sisi Wei
-* [Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options) by Kara Sowles
-* [Anti-Harassment Policies](https://adainitiative.org/what-we-do/conference-policies/) from the Ada Initiative
-* [Convention Tension](https://friendshipping.simplecast.fm/episodes/8885-convention-tension) by Jenn Bane & Trin Garritano
-* [Help People Afford to Attend Your Conference](http://www.ashedryden.com/blog/help-more-people-attend-your-conference) by Ashe Dryden
-* [Hire More Women in Tech](http://www.hiremorewomenintech.com/) by Karen Schoellkopf
-* [How Much It Cost Us to Make More Attendees Feel Safe and Welcome at .concat() 2015](https://medium.com/@boennemann/how-much-it-cost-us-to-make-more-attendees-feel-safe-and-welcome-at-concat-2015-2bc51d4df656) by Stephan Bönnemann
-* [HOWTO Design a Code of Conduct for Your Community](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/) from the Ada Initiative
-* [Increasing Diversity at Your Conference](http://www.ashedryden.com/blog/increasing-diversity-at-your-conference) by Ashe Dryden
-* [We Are All Awesome](http://weareallaweso.me/) by Tiffany Conroy
-* [You Can Choose Who Submits Talks to Your Conference](http://jvns.ca/blog/2015/03/06/you-can-choose-who-submits-talks-to-your-conference/) by Julia Evans
-* [Your Next Conference Should Have Real-Time Captioning](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/) by Lindsey Kuper
+<div>
+    <h3>Friday transcribed sessions</h3>
+    <table>{% assign friday = site.data.schedule | where:"day","Friday" %}
+{% for session in friday %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a class="session-title" href="https://aloft.nu/conf?name=srccon&session=2018-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+{% endfor %}
+    </table>
+</div>
+
+## Session Notes & Resources
+
+All sessions at SRCCON have a collaborative etherpad that facilitators and attendees can use to share links and capture notes on discussions as they take place. Each entry on [our schedule](https://schedule.srccon.org) has a link to that session's etherpad. We also collect slide decks, worksheets, and other documentation right here—if you're a facilitator and you have session resources to share, [let us know](mailto:srccon@opennews.org)!
+
+* ["Archiving News Websites for the Long Long Term" session notes](https://docs.google.com/document/d/1gsjtKEkM7Cx2aA9fknnzN8I1b4WmqWuOKRjyD4iKcvo/edit)
+* ["Toward an ethical framework for engagement" draft framework](https://medium.com/@jenniferbrandel/ethicsofengagement-db3ff5279603)
+
+## Session Write-Ups
+
+In the leadup to SRCCON 2018, we featured a selection of Q&As with session facilitators about the topics they brought to this year's event. You can [find the series on Source](https://source.opennews.org/articles/tags/srccon-2018/).
+
+And each year after SRCCON, we also publish a series of [session summaries on Source](https://source.opennews.org/articles/tags/srccon-2018/) that dig into the things people learned during conversations and workshops. If you publish your own writeups or blog posts, we'd love to [hear about them](mailto:source@opennews.org) so we can help you share them with everyone!
+
+<!-- NOTE: We should add an attendee writeups section here too -->
