@@ -217,7 +217,7 @@ MVP and prototypes lead to effective learning. There is a reed Hoffman quote if 
 
 In the newsroom we just want to get our mitts on it and start using it. Absolutely. 
 
-Perfect is the enemy of shit.
+Perfect is the enemy of shipped.
 
 I am not sure we have anything to add that hasn't been said except when you are selfishly developing a tool, because it is your idea, you should probably design for at least one other person. 
 
@@ -291,4 +291,4 @@ Final thoughts, Becky?
 
 Becky: I just want to say thank you to you and everybody in the room. Have a great evening. 
 
-Tyler: You guys were fantastic. Thank you so much. A quick show of hands. How many people think we don't  talk about this stuff enough? Thank you. We will figure out how to do it more. Thank you, guys. If anyone has notes that did not take it into the an electronic format please bring them to me. 
+Tyler: You guys were fantastic. Thank you so much. A quick show of hands. How many people think we don't talk about this stuff enough? Thank you. We will figure out how to do it more. Thank you, guys. If anyone has notes that did not take it into the an electronic format please bring them to me.

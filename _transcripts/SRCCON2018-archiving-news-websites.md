@@ -23,7 +23,9 @@ Most recently archives.newarchives.newYorktimes.
 
 Kathleen: I am a faculty member here at the University of Minnesota. I have been on the faculty for 37 years. I remember when there was no Internet. My colleague and I have been thinking about archiveing for a long time and wrote a book called "future proofing the news" that outlined all the ways going back to colonial newspapers and all the ways things haven't been archived. SJ 
 
-Albert: Kathy has the idea of how we should be doing things and I have the UP close up look in the newsroom and what it looks like and the nitty-gritty of why news websites aren't archiving their stuff. I see a bunch of familiar faces in the room. I think if everyone could take a little bit of time -- did everyone already introduce themselves to the people at the table and generally get to know everyone? The way this will run is we have a couple slides, then we will break up into small group discussions and come back at the end, and the goal at the end is everyone will have -- what was it? Three good ideas and like a stack of handouts or talking points. 
+Albert: Kathy has the idea of how we should be doing things and I have the UP close up look in the newsroom and what it looks like and the nitty-gritty of why news websites aren't archiving their stuff. I see a bunch of familiar faces in the room. I think if everyone could take a little bit of time -- did everyone already introduce themselves to the people at the table and generally get to know everyone? The way this will run is we have a couple slides, then we will break up into small group discussions and come back at the end, and the goal at the end is everyone will have -- 
+
+what was it? Three good ideas and like a stack of handouts or talking points. 
 
 Kathleen: The handouts are on the ethernet site. 
 
@@ -31,7 +33,7 @@ Kathleen: This session is being transcribed so if anyone needs to go off the rec
 
 Albert: And one more. Maybe by a show of hands, how many people work for a news organization in like a sort of technical or developer role? And then how many are more, like, a reporter or editor or more news gathering? And then anyone who works for like a cultural institution or someone interested in news content. 
 
-Kathleen: Just to orient everybody. There are three kinds of born technology and each live in their own universe in terms of being archived and their ability. The first that have a print element to their publication that consent has been digital -- content -- for more than 30 years. That content has been archived in a way through some of the vendor services that have contracts with your organization, the people that used to be in charge of that digital content, the news, researchers or news librarians were the first to get fired so most of them are gone, and the kind of things that used to happen to make sure those databases were being managed properly is mostly not happening anymore. That has historically been a source of some revenue for the news organization that would share that content. The thing to remember with those databases is they were never the entire content of the newspaper.
+Kathleen: Just to orient everybody. There are three kinds of born digital technology and each live in their own universe in terms of being archived. The first that have a print element to their publication that content has been digital for more than 30 years. That content has been archived in a way through some of the vendor services that have contracts with your organization, the people that used to be in charge of that digital content, the news, researchers or news librarians were the first to get fired so most of them are gone, and the kind of things that used to happen to make sure those databases were being managed properly is mostly not happening anymore. That has historically been a source of some revenue for the news organization that would share that content. The thing to remember with those databases is they were never the entire content of the newspaper.
 
 The visuals, graphics, illustrations and agate, any of the freelance stuff is not in there. That has never been a complete archive of the print publication. 
 
@@ -39,7 +41,7 @@ The second kind is what I think most of you are here thinking about and that is 
 
 That includes everything from the sort of repurposed stuff in the print publication but always all of the original content created specifically for that electronic delivery system. It includes thinking about not just capturing the content but the look, the feel, the functionafunctionality. We know the news APPS are created outside the content management system so there is no archive process for a lot of that content and that is the stuff that is at most risk, and in fact if you go back and see what somebody's website looked like 15 years ago you will not be able to find what you are looking for. 
 
-There is the content thou being delivered on the other platforms like the social platform or user content and that stuff lives on somebody else's server. It is a vendor's server or content you don't have control over internal to your news organization necessarily and that in many cases is yet a different kind of archiving problem. There are many different types of digital content that we are talking about and I think the first thing is to be clear about those three different kinds of content when we are talking about archiving born digital. 
+There is the content being delivered on the other platforms like the social media platform or user content and that stuff lives on somebody else's server. It is a vendor's server or content you don't have control over internal to your news organization necessarily and that in many cases is yet a different kind of archiving problem. There are many different types of digital content that we are talking about and I think the first thing is to be clear about those three different kinds of content when we are talking about archiving born digital. 
 
 Albert: For each of those three different types do you know what your organization is doing? Or do you know who knows?
 
@@ -75,7 +77,7 @@ Kathleen: I was just going to get to that and that is an interesting project, to
 
 Universities are trying to step in and do something. 
 
-Stanford web archive includes some news sites. This is from the Mercury News which you would think they want to pay attention to but they have one capture for 2016. They are trying to do something, but it is not significant. University of Missouri has their journals and digital news archive project. 
+Stanford web archive includes some news sites. This is from the Mercury News which you would think they want to pay attention to but they have one capture for 2016. They are trying to do something, but it is not significant. University of Missouri has their journalism digital news archive project. 
 
 They are trying to develop prototypes of systems that would capture content but, again, very early days. Historical societies in your area might be trying to do something. Public libraries might be trying to do something and I want to run through these quickly but the slides are all up on the ethernet and you have handouts there, too. 
 
@@ -97,7 +99,7 @@ Kathleen: Public radio has a wonderful project going on where they are capturing
 
 Anyone remember the Rogers photo archive? They gave photos to this guy in Arizona -- Arkansas and he promised to upload them. 
 
-If you remember what happened with gawker. Gawker went out of business and the database of the entire run of gawker was up for grabs. One of the tools in the record is the only record of Gawker. Here is the Twitter issue. In 2017 they announced they are going to continue to preserve SKWd hold their existing cases but it is in remaining in embargo and no one can have access to it. Great to have the archive but nobody can get to it because there is though way to access it. -- no. 
+If you remember what happened with gawker. Gawker went out of business and the database of the entire run of gawker was up for grabs. Archive-It is the only record of Gawker. Here is the Twitter issue. In 2017 they announced they are going to continue to preserve their existing content but it is in remaining in embargo and no one can have access to it. Great to have the archive but nobody can get to it because there is no way to access it.
 
 These are always going to be playing catch up. There is always going to be a problem unless the news organizations themselves are taking this seriously and working on it as an internal issue because the externexternal organizations don't have the ability to create a full database. 
 
@@ -251,11 +253,11 @@ Even if you have gone pull back meeting notes from four years ago where the deci
 
 And another thing was don't build dynamic sites. Build things that are static that don't require the continued existence of a server or third party. It should be as simple as possible if you want the archives to continue working. 
 
-Kathleen: Vince surf has talked about the concept of digital vellum. Anybody heard that phrase? He is saying you create a box that has the content of the interactive but it always -- also -- includes all of the stuff that made that interactive work and that becomes a static thing within which you have got an interactive whatever. That is something that I think is not necessarily technically possible at this moment. 
+Kathleen: Vint Cerf has talked about the concept of digital vellum. Anybody heard that phrase? He is saying you create a box that has the content of the interactive but it always -- also -- includes all of the stuff that made that interactive work and that becomes a static thing within which you have got an interactive whatever. That is something that I think is not necessarily technically possible at this moment. 
 
 It is. The internet archive has a whole bunch of old computer games for DOS and I think Windows '95. When you want to play this archive video game, they boot up a virtual machine running in your browser and gives the entire system to run the game. People are saying that is how you will have to interact with Flash content. Spin up a virtual machine containing a browser and old version of Adobe Flash. 
 
-Kathleen: You have to have the immolator for the thing you are archiving. 
+Kathleen: You have to have the emulator for the thing you are archiving. 
 
 Just one caveat on that. That works if you can scope the amount of data you need access to. For example, you will not reproduce an entire search engine. You depend on that for external services. 
 
@@ -290,5 +292,3 @@ Kathleen: Please add to the Etherpad. We will go in and try to organize it a lit
 You can find the link on the schedule. It just says here are the notes from this session. Add what you can. We are thrilled that you came up with so much good work in such a short amount of time. Thank you, everybody. 
 
 [APPLAUSE]
-
-test test test test  test test test test 
