@@ -217,7 +217,7 @@ MVP and prototypes lead to effective learning. There is a reed Hoffman quote if 
 
 In the newsroom we just want to get our mitts on it and start using it. Absolutely. 
 
-Perfect is the enemy of shit.
+Perfect is the enemy of shipped.
 
 I am not sure we have anything to add that hasn't been said except when you are selfishly developing a tool, because it is your idea, you should probably design for at least one other person. 
 
