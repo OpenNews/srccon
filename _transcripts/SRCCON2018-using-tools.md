@@ -291,4 +291,4 @@ Final thoughts, Becky?
 
 Becky: I just want to say thank you to you and everybody in the room. Have a great evening. 
 
-Tyler: You guys were fantastic. Thank you so much. A quick show of hands. How many people think we don't  talk about this stuff enough? Thank you. We will figure out how to do it more. Thank you, guys. If anyone has notes that did not take it into the an electronic format please bring them to me. 
+Tyler: You guys were fantastic. Thank you so much. A quick show of hands. How many people think we don't talk about this stuff enough? Thank you. We will figure out how to do it more. Thank you, guys. If anyone has notes that did not take it into the an electronic format please bring them to me.

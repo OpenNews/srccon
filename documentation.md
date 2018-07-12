@@ -38,6 +38,7 @@ Our live-captioning team transcribes about half the sessions at SRCCON. Sessions
 All sessions at SRCCON have a collaborative etherpad that facilitators and attendees can use to share links and capture notes on discussions as they take place. Each entry on [our schedule](https://schedule.srccon.org) has a link to that session's etherpad. We also collect slide decks, worksheets, and other documentation right here—if you're a facilitator and you have session resources to share, [let us know](mailto:srccon@opennews.org)!
 
 * ["Archiving News Websites for the Long Long Term" session notes](https://docs.google.com/document/d/1gsjtKEkM7Cx2aA9fknnzN8I1b4WmqWuOKRjyD4iKcvo/edit)
+* ["More Security Trainers Please!" session agenda](https://docs.google.com/document/d/1WudApPGHnzFSUqkZl5mWbl7G3GUlpWF5eqoybq1wvFs/edit#)
 * ["Toward an ethical framework for engagement" draft framework](https://medium.com/@jenniferbrandel/ethicsofengagement-db3ff5279603)
 
 ## Session Write-Ups
