@@ -265,7 +265,7 @@ If it is less than a gigabyte you canned stick it in a single file -- you could.
 
 Right. But you need to prepare to do that and there are datasets that are larger and if you are relying on internal basis. 
 
->>re you going to duplicate all of Twitter? 
+Are you going to duplicate all of Twitter? 
 
 That is a scale it goes beyond but it is pretty big. 
 
