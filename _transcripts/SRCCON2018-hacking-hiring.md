@@ -92,7 +92,7 @@ No matter what, you will be doing emails, scheduling, meetings, and more. You wi
 
 There is additional software that can help with this. I think we have both tended to go around it.
 
-Ryann: At ProPublica we use Screen Door which is expensive version of Google Sheets but has more functions. We want to talk about collaborative options that are free. But if your news organization has the budget, Screen Door is a pretty great program to use for hiring purposes.
+Ryann: At ProPublica we use Screendoor which is expensive version of Google Sheets but has more functions. We want to talk about collaborative options that are free. But if your news organization has the budget, Screendoor is a pretty great program to use for hiring purposes.
 
 Tiff: If your organization has a budget and aptitude for masochistic behavior you might have a program like Workday.
 
@@ -126,7 +126,7 @@ Ryann: I want to gave her a shout out because this is a pet project of hers and 
 
 So we get our applicants. We have a lot, sometimes in the hundreds, so as you can imagine going through those applications is pretty time consuming.
 
-• We try to do and agreed to do is have at least two reviewers review each application. Sometimes it is actually three but at the very least we do two. They are blind assessments. So if I am reviewing something, I don't know if Tiff was the other reviewer. When you use Screen Door, you can view simultaneously and I don't know what score Tiff gave to this person.
+• We try to do and agreed to do is have at least two reviewers review each application. Sometimes it is actually three but at the very least we do two. They are blind assessments. So if I am reviewing something, I don't know if Tiff was the other reviewer. When you use Screendoor, you can view simultaneously and I don't know what score Tiff gave to this person.
 
 • Before we close the application process, our team gets together and puts together a rubric (we will talk about this more so I won't go into it too specifically) and we set out certain goals we want in our eventual hire and make a rubric about how we are going to assess each candidate.
 
@@ -280,7 +280,7 @@ Not a title just software engineer in general.
 
 Greg:  I would take out freelance because some people might be biased against that. (Greg.)
 
-Tiff: That was Greg. What about Bitcoin?
+Tiff: That was Greg. What about bitcoin?
 
 Greg:  I am biased against it.
 
@@ -647,7 +647,7 @@ Tiff: And write back. Say "cool, thanks".
 
 Ryann: Just keep a list.
 
-Google sheets and Screen Door makes this easy. The next time you have a job opening send out a distribution list.
+Google Sheets and Screendoor makes this easy. The next time you have a job opening send out a distribution list.
 
 Tiff: We have two more slides so bear with us.
 
