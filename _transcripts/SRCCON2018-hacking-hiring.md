@@ -23,19 +23,19 @@ Ryann: You did.
 
 Tiff: We are here to summarize some interesting overlaps in what we have been doing around hiring in our news organizations. There are many colleagues, some here at SRCCON and even in the room, who have been essential to our teams and groups adopting these practices.  So we want to give a shout out to our teams and colleagues who have helped spearhead these practices.  We're summarizing on their behalf because they cannot attend or didn't want to talk in front of a group, which is understandable.
 
-First we would like to know about who you are.
-Who is here from small newsrooms? [show of hands]
+First we would like to know about who you are.  
+Who is here from small newsrooms? [show of hands]  
 Who is from big newsrooms? (I am myself.) [show of hands]
 
 And we also would like to know what do you do, because it will inform how we adapt our material.
 
-Who are editor types? [show of hands]
-Who are reporter types? [show of hands]
-Who are both? [show of hands]
+Who are editor types? [show of hands]  
+Who are reporter types? [show of hands]  
+Who are both? [show of hands]  
 Who are all the roles? [all the hands]
 
-Excellent. And how many are involved in hiring? [show of hands]
-How many of you are actually involved in your hiring process within your team? By which I mean you are part of the planning and executing? [show of hands]
+Excellent. And how many are involved in hiring? [show of hands]  
+How many of you are actually involved in your hiring process within your team? By which I mean you are part of the planning and executing? [show of hands]  
 How many are just chucked into an interview? Meaning: you are parcipating in a one hour slot and that is about it? [show of hands]
 
 Interesting.  All right. Okay, thank you.
@@ -104,7 +104,7 @@ Tiff: Ah right, that is indeed helpful. Job descriptions can be competitive, in 
 
 Ryann: Do you have a question?
 
-Tiff: (This is Araine.)
+Tiff: (This is Ariane.)
 
 Ariane:  In my previous job we used Greenhouse, which I really enjoyed. I don't know how much it costs but I did like it. It was an improvement.
 
@@ -116,7 +116,7 @@ Let's talk about the evolving processes. This is where it will get deeper.
 
 ProPublica's processes — want to explain, Ryann?
 
-Ryann:  Yes, I want to give credit where credit is due. I have had my hands in the hiring process lately and we are really trying to -- there was no process at ProPublica so we are trying to make it a more open process. But my colleagues, Sisi, is the editor for the apps team. A lot of her ideas came from her but she is not here.
+Ryann:  Yes, I want to give credit where credit is due. I have had my hands in the hiring process lately and we are really trying to -- there was no process at ProPublica so we are trying to make it a more open process. But my colleague, Sisi, is the editor for the apps team. A lot of her ideas came from her but she is not here.
 
 Tiff: Sisi gave a talk at SRCCON:Work that was live transcribed and shared the slides as well. A lot of our process formed in conversations and we attended those sessions.
 
@@ -224,7 +224,6 @@ This one I haven't done my suggested redactions so this needs to be a discussion
 
 Would you redact the name of the blog or the URL? What about the languages this person says is their current/past expertise.
 
-
 [Audience nods]
 
 I am seeing nods -- is this mixed bag enough or describing a stack where you have an idea of where the person works because of the stack?
@@ -263,9 +262,7 @@ Tiff: Onward! Another example. This is like an experience fragment. We were look
 
 What do we redact? The companies? Yup.
 
-What about the dates of this person's -- we have not talked about this in terms of the examples. Are the dates a bit of a tell? T
-
-here is nods around the room.
+What about the dates of this person's -- we have not talked about this in terms of the examples. Are the dates a bit of a tell? [There are nods around the room.]
 
 What about the technology in this case? There is no right -- it is a consideration.
 
@@ -281,13 +278,13 @@ What do we redact? Papers and magazines and try to describe them as a city-orien
 
 Not a title just software engineer in general.
 
-Greg:  I would take out freelance because some people might be bias against that. (Greg.)
+Greg:  I would take out freelance because some people might be biased against that. (Greg.)
 
 Tiff: That was Greg. What about Bitcoin?
 
 Greg:  I am biased against it.
 
-Tiff: I am bias against bitcoin and would sit there and think about it. Yes?
+Tiff: I am biased against bitcoin and would sit there and think about it. Yes?
 
 Audience member:  The location.
 
@@ -337,15 +334,15 @@ ASSESSMENTS
 
 This is great. You can put this in front of people but they may still look at the anonymous material and make judgments. They read through redacted materials, then they are given materials that help them make decisions, and help you get consistent information about candidates out of them. Now we will go through the assessment part.
 
-• Anonimizing doesn't help with what we are screening for.
-• Problem solving ability.
-• Self-awareness.
-• Empathy.
-• Curiosity.
-• Collaboration skills.
-• Coding skills.
-• The ability to instigate change.
-• How do you build trust?
+• Anonimizing doesn't help with what we are screening for.  
+• Problem solving ability.  
+• Self-awareness.  
+• Empathy.  
+• Curiosity.  
+• Collaboration skills.  
+• Coding skills.  
+• The ability to instigate change.  
+• How do you build trust?  
 Is that person good at building trust with the people they work with?
 
 This is a huge laundry list of the characteristics we want to be understanding about those applying but if you are going through "went to this school and such" that doesn't guarantee any of those things.
@@ -360,10 +357,10 @@ They are usually not helpful for the panel assessment goals because the people w
 
 People read it once on the interviewing side and never go back to it. Candidates spend lots of time writing it and it doesn't play a role. We recommend questionnaires and we'll get to what that looks like in a bit.
 
-• Why do you want to use assessment rubrics?
-They will evaluate
-• what a candidate knows
-• what a candidate can do
+• Why do you want to use assessment rubrics?  
+They will evaluate  
+• what a candidate knows  
+• what a candidate can do  
 • and how does a candidate work.
 
 Assessment rubric in a nutshell ought to match up with themes.
@@ -428,7 +425,7 @@ How many people are not proceeding? How many people are in the good pocket that 
 
 If you are doing Google Forms it has automated charts and does terrible things which in this case it is the color-coding. It doesn't let you specify the color to match up. What I ended up doing is something like this.
 
-[chart where the pie-chart slice for 'green' candidates are colored orange.]
+[chart where the pie-chart slice for 'green' candidates are colored orange]
 
 Pivot table off a spreadsheet and using the conditional coloring things to bubble up cohorts of how people are doing.
 
@@ -613,7 +610,7 @@ Ryann: I put examples from ProPublica's most recent job posting.
 
 Instead of a cover letter we ask,
 
-• Why do you want to work here?
+• Why do you want to work here?  
 • What are your big thoughts and visions?
 
 Because in the end that is what we wanted from the cover letter and I hate cover letter so if that means nobody has to write a cover letter for one of your jobs that makes me happy.
