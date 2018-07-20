@@ -334,7 +334,7 @@ ASSESSMENTS
 
 This is great. You can put this in front of people but they may still look at the anonymous material and make judgments. They read through redacted materials, then they are given materials that help them make decisions, and help you get consistent information about candidates out of them. Now we will go through the assessment part.
 
-* Anonimizing doesn't help with what we are screening for.  
+* Anonymizing doesn't help with what we are screening for.  
 * Problem solving ability.  
 * Self-awareness.  
 * Empathy.  
@@ -343,6 +343,7 @@ This is great. You can put this in front of people but they may still look at th
 * Coding skills.  
 * The ability to instigate change.  
 * How do you build trust?  
+
 Is that person good at building trust with the people they work with?
 
 This is a huge laundry list of the characteristics we want to be understanding about those applying but if you are going through "went to this school and such" that doesn't guarantee any of those things.
