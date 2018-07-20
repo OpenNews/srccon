@@ -11,19 +11,19 @@
  
 Sarah: I guess we will get started too. So, thanks for coming. Some familiar faces, some not. My name is Sarah Cohen from Arizona state university. 
 
-Matt: I am Matt Waite from the Harvard of the plains. 
+Matt: I am Matt Waite from the Harvard of the Plains. 
 
-Sarah: I guess we have the Harvard of the desert. We started talking last spring -- I just started teaching this past year. I ended the semester thinking I am putting way too much work into this. This is way too hard. Other people have done this. Even borrowing from them became difficult. I talked with Derrick and Matt and we all disagreed on what ought to be in a class but I think we all agreed all I want is the ability to go to chapter 3. We don't know what chapter 3 is but we know there ought to be a third chapter in there somewhere. 
+Sarah: I guess we have the Harvard of the desert. We started talking last spring -- I just started teaching this past year. I ended the semester thinking I am putting way too much work into this. This is way too hard. Other people have done this. Even borrowing from them became difficult. I talked with Derek (Willis) and Matt and we all disagreed on what ought to be in a class but I think we all agreed all I want is the ability to go to chapter 3. We don't know what chapter 3 is but we know there ought to be a third chapter in there somewhere. 
 
 Matt: One and two even. 
 
-Sarah: Then Aaron joined us and we started talking about how do we build a set of materials that any journalism professor, instructor, adjunct can take and build their own course out of it. We can get into all kinds of philosophical arguments about whether we should teach Excel or not but that is not useful when some have to teach it and others don't or some choose they want to teach it. We wanted a technology agnostic but conceptually consistent set of materials where there are certain values. Journalism above all, replicability secondly and activity making sure that everything is related back to journalism in some way and it is not a programming class to make that clear. 
+Sarah: Then Aron (Pilhofer) joined us and we started talking about how do we build a set of materials that any journalism professor, instructor, adjunct can take and build their own course out of it. We can get into all kinds of philosophical arguments about whether we should teach Excel or not but that is not useful when some have to teach it and others don't or some choose they want to teach it. We wanted a technology agnostic but conceptually consistent set of materials where there are certain values. Journalism above all, replicability secondly and activity making sure that everything is related back to journalism in some way and it is not a programming class, to make that clear. 
 
 How do we put that kind of thing together and start thinking about -- and let people make their own textbook and their own course out of it. 
 
 Matt: So we started that discussion and we started to even sketch it out a little bit.
 
-We realized pretty quickly that we had some commonality and differences. This issue of agnosticism was tricky but surmountable. We have created a beginning and it is on GitHub. 
+We realized pretty quickly that we had some commonality and differences. This issue of agnosticism was tricky but surmountable. We have created a beginning and [it is on GitHub](https://github.com/datajtext/DataJournalismTextbook). 
 
 If you are in the Etherpad I think I put the link in there too. 
 
@@ -31,7 +31,7 @@ We have taken general ideas and started down a road.
 
 The idea was to create modules. 
 
-The more modules we can create I think the better off we are going to be. The modules would be things like grouped by. Group by is something you will do in data analysis and probably every data analysis you do. It is so common and data analysis 101. We need to start there. We need to have those things for people. 
+The more modules we can create I think the better off we are going to be. The modules would be things like Group By. Group By is something you will do in data analysis and probably every data analysis you do. It is so common and data analysis 101. We need to start there. We need to have those things for people. 
 
 What I have done over the last week and a half or so is created a couple of modules. One is group by replications but it isn't done so don't know there. 
 
@@ -45,39 +45,35 @@ Matt: But it is ranting with reporting.
 
 Sarah: Yes, it does have some good reporting. It is reporting with a point of view. 
 
-Matt: This is the group-by stuff. We have created a series of documents and done it in specifically technologies. If you are a faculty member that is going to teach or an adJUN -- 
-
-adjunct or whatever teaching Excel or even SQL. We have done it in pandas, not willingly, and agate which is far easier to use. Not to be religious or anything but... 
+Matt: This is the Group By stuff. We have created a series of documents and done it in specifically technologies. If you are a faculty member that is going to teach or an adjunct or whatever teaching Excel or even SQL. We have done it in pandas, not willingly, and agate which is far easier to use. Not to be religious or anything but... 
 
 I wanted a rant, Matt. 
 
-Sarah: I made him do the ExExcel one. 
+Sarah: I made him do the Excel one. 
 
-Matt: I was explaining this earlier to somebody. We can have our own religion and we can show what excell does and then not use it and I can believe I am right and Sarah can say we can teach Excel and be wrong but it doesn't mean I don't need to include it. 
+Matt: I was explaining this earlier to somebody. We can have our own religion and we can show what Excel does and then not use it and I can believe I am right and Sarah can say we can teach Excel and be wrong but it doesn't mean I need to include it. 
 
 Sarah: My guess is he will we including many things that are wrong. 
 
 Matt: That is why this is on GitHub and why you are here. 
 
-What we are starting to puzzle through now is what is a module and what should those modules be? Group by is pretty obvious. 
+What we are starting to puzzle through now is what is a module and what should those modules be? Group By is pretty obvious. 
 
-It is in pretty much every data analysis library. The sort of basic pattern and template we have created is we want each module to have a lead. Brent Jones was gracious and reached out over Slack when I said anybody tell me a story you used group by and he responded and I said I will make him the lead of this. St. Louis Public Radio did a story about how crime in St. 
-
-Louis ticks up as temperatures tick up. There is a leap up in the number of crimes reported and violent crimes reported the hotter it gets. It is a common antidote you hear all over the place. They grab the data, did some group by on date, and poof, done! 
+It is in pretty much every data analysis library. The sort of basic pattern and template we have created is we want each module to have a lead. Brent Jones was gracious and reached out over Slack when I said anybody tell me a story you used group by and he responded and I said I will make him the lead of this. St. Louis Public Radio did a story about how crime in St. Louis ticks up as temperatures tick up. There is a leap up in the number of crimes reported and violent crimes reported the hotter it gets. It is a common antidote you hear all over the place. They grab the data, did some group by on date, and poof, done! 
 
 Their analysis is online. They did it in Agate then there is a story on there and the links are there. We create a lead that is about a story that uses this technique and results in something you can go read and students can go look at to get an idea. 
 
-Then we have a net graph which is what it is. It is explaining why we are doing this. Why is group by important?
+Then we have a nut graph which is what it is. It is explaining why we are doing this. Why is group by important?
 
 Well, for this group that is not tough. It is pretty self-evident. Let's go ahead and explain it to maybe someone who has never heard of group by and where it it comes from and why it is important and how it is foundational. 
 
-Then we begin the walkthrough. This one particular uses R and Dipler. We go through it step-by-step, word-by-word, line-by-line, and command-by-command and explain it in a narrative fashion. 
+Then we begin the walkthrough. This one particular uses R and dplyr. We go through it step-by-step, word-by-word, line-by-line, and command-by-command and explain it in a narrative fashion. 
 
-If you are intending to join us on this project you should get used to me using really weird obscure datasets from the great state of Nebraska. For group by, I used a dataset of confirmed mountain lion settings in Nebraska. Not an unheard of thing to have happen but it is more possible in some places than others. 
+If you are intending to join us on this project you should get used to me using really weird obscure datasets from the great state of Nebraska. For group by, I used a dataset of confirmed mountain lion sightings in Nebraska. Not an unheard of thing to have happen but it is more possible in some places than others. 
 
 It is a fairly simple dataset. 
 
-Group by county, count them up, this is what you get. We point out that it is not an order. We sort it. Now you get Dawes, Sioux, Sheridan, cherry and Lincoln county. You know where those are. I don't know need to explain why it is important. 
+Group by county, count them up, this is what you get. We point out that it is not in order. We sort it. Now you get Dawes, Sioux, Sheridan, Cherry and Lincoln county. You know where those are. I don't know need to explain why it is important. 
 
 Almost literally nowhere. They are in the northwest part of the state where nobody lives. It is just pine trees and mountain Lions. That is all it is. 
 
@@ -87,7 +83,7 @@ The next step after the walkthrough is resources for instructors, things that we
 
 Sarah: Offline activities, analog activities like making people go stand in groups. 
 
-Thinks -- things like that that you can do in class that will bring this alive. And a set of readings and other stories you might want. And inspirational datasets that might be easy for you to get or are freely available if you don't like Matt's mountain lions. 
+Things -- things like that that you can do in class that will bring this alive. And a set of readings and other stories you might want. And inspirational datasets that might be easy for you to get or are freely available if you don't like Matt's mountain lions. 
 
 Matt: One potential is get your salary data for your city. 
 
@@ -95,7 +91,7 @@ Show students -- I have this data for the University of Nebraska. I can show stu
 
 Put together. 
 
-Matt: But that is the idea; how can we create these resources for other faculty and suggested reading and stories that use these things. A lot of students I find have a hard time conceptualizing stories from data because they don't read data. 
+Matt: But that is the idea; how can we create these resources for other faculty and suggested reading and stories that use these things. A lot of students I find have a hard time conceptualizing stories from data because they don't read data stories. 
 
 Sarah: We want to put real stories in here. Stories that are not huge, multi-day series but reasonably in depth, 1500-2000 word story. Something more than we got data and sorted it but not something that takes the attention away from what we are trying to do. Those stories are not easy to find because the data element of them are not obvious. But, you know, between all of the people who are doing this and have looked into these kinds of things we should be able to find plenty. 
 
@@ -105,9 +101,9 @@ The two things we want to do here today is first, we want to divide you up into 
 
 Like what are the building blocks of data journalism however you define that that you think a student needs to know in order to get to that place that they want to get it. 
 
-Sarah: It should be what would you want to teach if you were doing it? We are trying not to have religion on what ought to be included. We have trying to have a fairly comprehensive set of tools that we can put together. Just one other thing is we are not ignoring all of the incredible resources out there. We would like to include them with permission. We have a whole list of them we have been tracking and we will be certainly contacting the folks who have that to see if we can include or edit their work to fit in with this structure a little bit. 
+Sarah: It should be what would you want to teach if you were doing it? We are trying not to have religion on what ought to be included. We have tried to have a fairly comprehensive set of tools that we can put together. Just one other thing is we are not ignoring all of the incredible resources out there. We would like to include them with permission. We have a whole list of them we have been tracking and we will be certainly contacting the folks who have that to see if we can include or edit their work to fit in with this structure a little bit. 
 
-Matt: For example Quartz's guide to bad data. This is phenomenal and voluminous. It goes on forever. 
+Matt: For example [Quartz's Guide to Bad Data](https://github.com/Quartz/bad-data-guide). This is phenomenal and voluminous. It goes on forever. 
 
 So does bad data. 
 
@@ -119,11 +115,11 @@ The other thing we would like to also talk with people is about inviting you to 
 
 Matt: We have one other thing. After we figure out modules and go around and talk about that the next thing we want to talk about is if you are going to teach that module how would you do it without computers? One thing that I have found really helpful is to try to take these sort of concepts and make them real and tangible.
 
-Several years ago now I had heard of someone else doing this and I ruthlessly stole the idea of using Legos to teach data visualization. Build charts using Legos and make turning data into physical evidence tangible and real. I clear shelf space off in my office for professor of the year every time I bring a giant box of Legos into class and I am like here is what we are playing with today. 
+Several years ago now I had heard of someone else doing this and I ruthlessly stole the idea of using Legos to teach data visualization. Build charts using Legos and make turning data into physical evidence, tangible and real. I clear shelf space off in my office for professor of the year every time I bring a giant box of Legos into class and I am like here is what we are playing with today. 
 
 But those kinds of things I found to be really, really helpful. 
 
-A colleague who is joining me in the fall, Olga Pierce, she uses "Avengers" movies and tokens with them on there to keep the data concepts. Grouping them together by which movies they appear in and connecting different avengers in different ways and grouping them in different types which I found absolutely brilliant. 
+A colleague who is joining me in the fall, Olga Pierce, she uses Avengers movies and tokens with them on there to keep the data concepts. Grouping them together by which movies they appear in and connecting different avengers in different ways and grouping them in different types which I found absolutely brilliant. 
 
 Sarah: And another activity that I started including is this idea of breaking up people in pairs. I forget what it is call.
 
@@ -161,7 +157,7 @@ Sarah: We could have an awful lot to do.
 
 Matt: We might have created a monster here. Some of the modules you came up wit... 
 
-anybody want to volunteer? Or just pick on a table? I will pick on that table mostly because Derrick is wearing a West Indy cricket jersey. You have to have reasons. 
+anybody want to volunteer? Or just pick on a table? I will pick on that table mostly because Derek (Willis) is wearing a West Indian cricket jersey. You have to have reasons. 
 
 We have a lot of suggestions.
 
@@ -193,13 +189,13 @@ Sarah: It is not that everything has to be in only one place.
 
 And then like basic text analysis like frequency indices and stuff like that. Counting words and things. Pattern matching might fall into that or I think it is probably its own module. You have a lot of different ways you can express that. Tons and tons of different tools that run from the easy to the extremely complicated. 
 
-Matt: I am going to stand before you my right hand of God and say I will not be the one that writes the reject. 
+Matt: I am going to stand before you my right hand of God and say I will not be the one that writes the regex. 
 
 Sarah: I have done that. I will do it. 
 
-Matt: You have have a problem that needs a rej-X you know you have two problems. 
+Matt: You have have a problem that needs a regex now you have two problems. 
 
-I will use the pattern matching using word because word has pattern matching. 
+I will use the pattern matching using (MS) Word because Word has pattern matching. 
 
 Matt: And it is actually not bad. 
 
@@ -249,7 +245,7 @@ Matt: When is a map a map and when is it not?
 
 You said that. The other big one I don't think we have heard is joins. Sorry to steal your thunder but joins. 
 
-Matt: Front group, talk to me about joints. 
+Matt: Front group, talk to me about joins. 
 
 We just added it just before he came to you guys. We have a few and a couple I added. I kind of took the liberty of sorting them out into two groups which are the theoretical stuff and the really practical, you know, scraping, visualization 101, joining datasets, machine learning, cleaning data -- 
 
@@ -257,7 +253,7 @@ Sarah: Machine learning by itself?
 
 Matt: One-day module. 
 
-Sarah: That has to be Jonathan. 
+Sarah: That has to be Jonathan (Stray). 
 
 Matt: Would you like to come teach this? 
 
@@ -265,7 +261,7 @@ A couple that haven't been mentioned. Documentation and future-proofing for your
 
 Matt: I call this the you get an F if you name a single-letter variable. I don't screw around with that. Your variable is A you are out. 
 
-AA you are okay. 
+AA you are okay? 
 
 Sarah: If it is a 1 then no problem. 
 
@@ -295,7 +291,7 @@ We played around with should we include how the internet works.
 
 Yes. 
 
-Sarah: Definitely how the D OM works because you can't do much without it. 
+Sarah: Definitely how the DOM works because you can't do much without it. 
 
 Matt: I have thought about an entire 100 level freshman general ed class that is just how the internet work. 
 
@@ -303,9 +299,7 @@ We have a one credit required class that is basically how the internet works.
 
 Matt: So that was fantastic. 
 
-Next thing we want to do, if I can find my cursor, is now we want to talk about how do we teach these things. I know a lot of you in here have taught, I am going to assume all of you have been a student, so you will have some idea of how this might work in your head. Specifically what we want to talk about is how do we teach these sort of technical concepts to non-seck -- 
-
-non-technical people? If you get a student who is just not a computer person -- I have students that come say I am not good ad computers and I am like you are not good at life. Like stop saying that out loud to people. 
+Next thing we want to do, if I can find my cursor, is now we want to talk about how do we teach these things. I know a lot of you in here have taught, I am going to assume all of you have been a student, so you will have some idea of how this might work in your head. Specifically what we want to talk about is how do we teach these sort of technical concepts to non-technical people? If you get a student who is just not a computer person -- I have students that come say I am not good at computers and I am like you are not good at life. Like stop saying that out loud to people. 
 
 Sarah: In my class it is required so I get a lot. 
 
@@ -325,7 +319,7 @@ Picked on that table and I will pick up on the front. What did you tackle? How d
 
 We came up with a data cleaning exercise on paper. 
 
-Start with two pages, both of which are lists of names, one say from a voter registration database, another is campaign financefinance, you give them to students and match them up and you do this thing. Then you get everybody into the room to take a piece of paper, another blank piece of paper, and write down the address of their favorite establishment in town, bookstore, restaurant, pub, whatever, and then take all those pieces of paper and hold them up and read them to the class and look at how many address formats were written down. Look how many did road versus RD and different ZIP code formats and capitalization or not and whatever. Then using those rules that, you know, seeing there are different formats, going back to the two sheets of paper and saying cross out all the matches where the addresses or names are in different formats and I bet more than half of them disappear. 
+Start with two pages, both of which are lists of names, one say from a voter registration database, another is campaign finance, you give them to students and match them up and you do this thing. Then you get everybody into the room to take a piece of paper, another blank piece of paper, and write down the address of their favorite establishment in town, bookstore, restaurant, pub, whatever, and then take all those pieces of paper and hold them up and read them to the class and look at how many address formats were written down. Look how many did road versus RD and different ZIP code formats and capitalization or not and whatever. Then using those rules that, you know, seeing there are different formats, going back to the two sheets of paper and saying cross out all the matches where the addresses or names are in different formats and I bet more than half of them disappear. 
 
 Wow. 
 
@@ -367,9 +361,7 @@ Okay. In the back.
 
 Okay. I think we have to go with our guess who example? I think it is modification on your method. Go ahead. 
 
-We never got to how we get to -- basically we had two -- 
-
-using human fore loops. Let's tally up people who wear glasses and people who wear collared shirts and using that. 
+We never got to how we get to -- basically we had two -- using human fore loops. Let's tally up people who wear glasses and people who wear collared shirts and using that. 
 
 Sarah: And they would actually walk? 
 
@@ -389,11 +381,9 @@ They have different things on the website like marshes or soccer players and you
 
 It is a bunch of identities you can ask questions about like does your person have a hat and you knock down the people and figure out the person. 
 
-Matt: I taught loops and conditional logic in a FRAM  -- 
+Matt: I taught loops and conditional logic in a freshman level class. I had one person as the iterater andand they had the leave the class. I asked who was an Ohio state fan and one person raised their hand. I brought the person back in and said find out who the Ohio state fan is and I said how would you do it? And he said are you an Ohio State fan? And I told him to go around and ask everybody individually and I said when you come to that person we will all boo. Yes. Boo. There you go. I love that idea of making people guess and teaching loops that way. I think that is great. 
 
-freshman level class. I had one person as the iterater andand they had the leave the class. I asked who was an Ohio state fan and one person raised their hand. I brought the person back in and said find out who the Ohio state fan is and I said how would you do it? And he said are you an Ohio State fan? And I told him to go around and ask everybody individually and I said when you come to that person we will all boo. Yes. Boo. There you go. I love that idea of making people guess and teaching loops that way. I think that is great. 
-
-I don't know if you know about this but this site called CSunplug.com which is doing exactly what you have talking about. There is a bonus. 
+I don't know if you know about this but this site called [CS Unplugged](https://csunplugged.org/en/) which is doing exactly what you have talking about. There is a bonus. 
 
 The other couple things, getting back to talking about creating structured data without a computer. There were a couple other things like students describing a common object like a car, with its make and model, which works reasonably well to explain orient objects in programming where the car has attributes like color and different methods like drive and such. Is this your exercise? 
 
@@ -415,7 +405,7 @@ Sarah: Always means people are not sitting around all the time which is deadly.
 
 And they have to close the computer and stop checking Facebook. 
 
-Matt: Exactly. One of the better days when we booed the Ohio State kid is I have them play shoots and ladders which is like three and up. I have a copy of it because my kids played it and I brought four more and bring them to class and have everybody play the game and then I have them create a simulation in Python using if-else object. 
+Matt: Exactly. One of the better days when we booed the Ohio State kid is I have them play Chutes and Ladders which is like ages three and up. I have a copy of it because my kids played it and I brought four more and bring them to class and have everybody play the game and then I have them create a simulation in Python using if-else object. 
 
 If you land on this square go to this square. If not stay here. 
 
@@ -435,9 +425,9 @@ Other thoughts on that?
 
 pie in the sky version is it is a web page that generates it based on modules you select. 
 
-Sarah: That is what Aaron said. It generates a read the doc kind of thing. 
+Sarah: That is what Aron (Pilhofer) said. It generates a read the doc kind of thing. 
 
-Matt: I have $8 American dollars I will give to Who want to try to build that website. Go ahead. 
+Matt: I have $8 American dollars I will give to who want to try to build that website. Go ahead. 
 
 I think Sarah mentioned this toward the end of the last set but some way of rendering that out to a printable format that doesn't look like a GitHub markdown render. 
 
@@ -483,7 +473,7 @@ Sarah: I think with Jupiter notebooks you are limiting what you are using. It is
 
 I just mean for formatting. 
 
-Matt: I love Jupiter Notebooks but their support is horrid. Beyond the stuff they have to install, if you want to install something that is not in their core, it will break everything. It is a crap shoot of whether or not it will work. 
+Matt: I love Jupiter Notebooks but their support for R is horrid. Beyond the stuff they have to install, if you want to install something that is not in their core, it will break everything. It is a crap shoot of whether or not it will work. 
 
 I went through that nightmare this last semester so the scars are fresh. 
 
@@ -501,7 +491,7 @@ That is what this looks like.
 
 This doesn't look college level.
 
-Matt: You been to college lately? No, actually, I think there is a sort of a limited place that we can go with that of sort of pneumeracy. I asked students if they have used a spreadsheet and it is a business class. They never thought of it as a tool for journalism so there is stuff we can do there. 
+Matt: You been to college lately? No, actually, I think there is a sort of a limited place that we can go with that of sort of numeracy. I asked students if they have used a spreadsheet and it is a business class. They never thought of it as a tool for journalism so there is stuff we can do there. 
 
 I think one option is just like start talking to folks who do, like, it is related to JSON and folks that teach programming classes and six week courses or whatever because they have at least worked with this idea of how you can do ad hoc classes outside of the college environment. I forget all the names of them. We talked to them and talk to maybe whoever does, like, you know, I am sure Nebraska has a satellite or continuing ed thing and how they set them up. 
 
@@ -509,9 +499,9 @@ Matt: Indeed one of the things I am doing this summer is building an online 8-we
 
 I think it is probably good to do both classes in the same trek. Sort of the folks who do, you know, whatever, Flat Iron or these training things to see how they structure a course, to see what makes criteria for yes, we would do this or wouldn't do this. 
 
-Sarah: And also probably the knight center of Texas. 
+Sarah: And also probably the Knight Center of Texas. 
 
-O'Rielly spends a lot of time thinking about publishing and what publishing can look like. 
+O'Reilly spends a lot of time thinking about publishing and what publishing can look like. 
 
 As a resource for thinking about what if we did publish this and do they have any creative ideas or tools about publishing something that includes some mechanisms for that kind of, like, customization. 
 

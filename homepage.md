@@ -23,7 +23,7 @@ SRCCON 2018 returned to the [McNamara Alumni Center](https://www.google.com/maps
 
 This year we are psyched to celebrate the [fifth SRCCON](https://opennews.org/blog/srccon-five/).
 
-SRCCON is a hands-on conference, full of conversations and workshops focused on the practical challenges that news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Over two-days, 300 attendees will gather for [nearly 50 sessions](https://srccon.org/sessions) that reflect the values of this community:
+SRCCON is a hands-on conference, full of conversations and workshops focused on the practical challenges that news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Over two-days, 300 attendees will gather for [nearly 50 sessions](/sessions) that reflect the values of this community:
 
 * **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
 * **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.

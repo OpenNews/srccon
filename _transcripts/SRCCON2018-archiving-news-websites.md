@@ -13,15 +13,15 @@ Albert: Okay. Hello, everybody. I am wondering -- can everyone hear if we just t
 
 Louder or microstone -- microphone. 
 
-You can use to lapel one, too. 
+You can use the lapel one, too. 
 
 Kathleen: I don't need a microphone. I am used to talking to 19 year olds. 
 
-Albert: Hello? Powerful. So, is that good? My name is Albert Sun. This is co-facilitate Kathy Hansen. I am working at the New York Times and I have worked on web archiveing projects there. 
+Albert: Hello? Powerful. So, is that good? My name is Albert Sun. This is co-facilitator Kathy Hansen. I am working at the New York Times and I have worked on web archiving projects there. 
 
 Most recently archives.newarchives.newYorktimes. 
 
-Kathleen: I am a faculty member here at the University of Minnesota. I have been on the faculty for 37 years. I remember when there was no Internet. My colleague and I have been thinking about archiveing for a long time and wrote a book called "future proofing the news" that outlined all the ways going back to colonial newspapers and all the ways things haven't been archived. SJ 
+Kathleen: I am a faculty member here at the University of Minnesota. I have been on the faculty for 37 years. I remember when there was no Internet. My colleague and I have been thinking about archiving for a long time and wrote a book called "Future-Proofing the News" that outlined all the ways going back to colonial newspapers and all the ways things haven't been archived. SJ 
 
 Albert: Kathy has the idea of how we should be doing things and I have the UP close up look in the newsroom and what it looks like and the nitty-gritty of why news websites aren't archiving their stuff. I see a bunch of familiar faces in the room. I think if everyone could take a little bit of time -- did everyone already introduce themselves to the people at the table and generally get to know everyone? The way this will run is we have a couple slides, then we will break up into small group discussions and come back at the end, and the goal at the end is everyone will have -- 
 
@@ -39,31 +39,31 @@ The visuals, graphics, illustrations and agate, any of the freelance stuff is no
 
 The second kind is what I think most of you are here thinking about and that is the content that appears on the web.
 
-That includes everything from the sort of repurposed stuff in the print publication but always all of the original content created specifically for that electronic delivery system. It includes thinking about not just capturing the content but the look, the feel, the functionafunctionality. We know the news APPS are created outside the content management system so there is no archive process for a lot of that content and that is the stuff that is at most risk, and in fact if you go back and see what somebody's website looked like 15 years ago you will not be able to find what you are looking for. 
+That includes everything from the sort of repurposed stuff in the print publication but always all of the original content created specifically for that electronic delivery system. It includes thinking about not just capturing the content but the look, the feel, the functionality. We know the news APPS are created outside the content management system so there is no archive process for a lot of that content and that is the stuff that is at most risk, and in fact if you go back and see what somebody's website looked like 15 years ago you will not be able to find what you are looking for. 
 
 There is the content being delivered on the other platforms like the social media platform or user content and that stuff lives on somebody else's server. It is a vendor's server or content you don't have control over internal to your news organization necessarily and that in many cases is yet a different kind of archiving problem. There are many different types of digital content that we are talking about and I think the first thing is to be clear about those three different kinds of content when we are talking about archiving born digital. 
 
 Albert: For each of those three different types do you know what your organization is doing? Or do you know who knows?
 
-Kathleen: When we were working on our book we were talking to a large news organization in Minnesota, which will go unnamed, we were in a room with seven people at a table, most of whom had never talked to each other before we asked them to come together to talk to us. That is not atypical. If you are in that kind of situation, the first thing you have to ask is what do we have and whose got it and who am Iam I not talking to right now. 
+Kathleen: When we were working on our book we were talking to a large news organization in Minnesota, which will go unnamed, we were in a room with seven people at a table, most of whom had never talked to each other before we asked them to come together to talk to us. That is not atypical. If you are in that kind of situation, the first thing you have to ask is what do we have and whose got it and who am I not talking to right now. 
 
-Albert: There is no one person who manage whose job it is to manage the archives. There have been proposals for people to do that but we have a photo morg and the Snapchat team archives their stories their way. We have an internal search tool for reporters and these are independent silos where there is effort and someone managing that. We don't have a cohesive whole view of it generally. 
+Albert: There is no one person whose job it is to manage the archives. There have been proposals for people to do that but we have a photo morg and the Snapchat team archives their stories their way. We have an internal search tool for reporters and these are independent silos where there is effort and someone managing that. We don't have a cohesive whole view of it generally. 
 
 The most recent new archive project was the web content archive and that was created out of the technology department because some previous servers were slated to be shutdown so it is a mad dash into the burning building to rescue things before it all disappeared. 
 
 Kathleen: That is one of the things you need to start with; what is here and who is responsible for it? There are pockets of things I guarantee you you don't know about. That is the beginning point. 
 
-Albert: So, I think, for everyone on a site, are there things that you remember being created before and are they still up there? I know from my past work and before this something I periodically check on and the results are not always pretty. That is one of our biggest motivations for doing archiving. What are these things? What are the -- think back in your organizational history, what are the important turning points in the digital evolution? Or in the creation of whatever you were publishing, is it still there? Can you refer back to it? What have you learned from it? How would you reference it in the future? 
+Albert: So, I think, for everyone on a site, are there things that you remember being created before and are they still up there? I know from my past work and before, this is something I periodically check on and the results are not always pretty. That is one of our biggest motivations for doing archiving. What are these things? What are the -- think back in your organizational history, what are the important turning points in the digital evolution? Or in the creation of whatever you were publishing, is it still there? Can you refer back to it? What have you learned from it? How would you reference it in the future? 
 
 Kathleen: In some cases it may be there but the functionality is gone or it may be there but it relied on three previous CMS to run. There are things that you can salvage but they will require work. We want to run through a couple organizations that are trying to do something, briefly. 
 
 Albert: Many are familiar with the internet archive which is the premier organization. 
 
-They one snapshot service that takes snapshots of services over time and have tons of captures and they have gone back for 20-plus years now. So that is a great resource if it works for your pages which for many the most interactive thing it doesn't work that well. 
+They are one snapshot service that takes snapshots of services over time and have tons of captures and they have gone back for 20-plus years now. So that is a great resource if it works for your pages which for many the most interactive thing it doesn't work that well. 
 
 Kathleen: Yeah, the Internet Archive recognizes what they are doing in calling the way back machine is not an archive. It is a site with some captures. So they are trying to manually capture full sites, but there are lots and lots of intellectual property issues with that and they pretty much bury it on the internet archive.
 
-It is very hard to fine. They are archiving television news and that is searchable because they are capturing the closed captioning. That is a valuable tool and I think they have been doing that for about seven years. 
+It is very hard to find. They are archiving television news and that is searchable because they are capturing the closed captioning. That is a valuable tool and I think they have been doing that for about seven years. 
 
 Unfortunately they are starting to shut that down a little bit. They are changing the way it is going to be working. 
 
@@ -265,7 +265,7 @@ If it is less than a gigabyte you canned stick it in a single file -- you could.
 
 Right. But you need to prepare to do that and there are datasets that are larger and if you are relying on internal basis. 
 
->>re you going to duplicate all of Twitter? 
+Are you going to duplicate all of Twitter? 
 
 That is a scale it goes beyond but it is pretty big. 
 
