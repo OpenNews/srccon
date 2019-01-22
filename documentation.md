@@ -70,6 +70,7 @@ All sessions at SRCCON have a collaborative etherpad that facilitators and atten
 * ["More Security Trainers Please!" session notes](https://etherpad.opennews.org/p/SRCCON2018-security-trainers)
 * ["Off the shelf and into the open: forging academia-journalism partnerships to bring findings out of journals and original research into reporting" session notes](https://etherpad.opennews.org/p/SRCCON2018-academia-journalism-partnerships)
 * ["Preparing for security vulnerabilities if you’re an open source maintainer *or* user" session notes](https://etherpad.opennews.org/p/SRCCON2018-security-prep)
+* ["Radical listening - How do you design a media membership program focused on participation" session writeup: "Designing a membership program in 75 minutes — with help from a few D20’s"](https://building.theatlantic.com/designing-a-membership-program-in-75-minutes-with-help-from-a-few-d20s-8b78bfc890f7)
 * ["Radical listening - How do you design a media membership program focused on participation" session notes](https://etherpad.opennews.org/p/SRCCON2018-radical-listening-membership)
 * ["Rebuilding Ad Tech: Open Source, Server to Server, Publisher First" slides](https://docs.google.com/presentation/d/1_6Kp6eMFEvB9nPHtzyJxOdiJPMxYn1KEFdyCWYBpK6o/edit#slide=id.gc6fa3c898_0_0)
 * ["Rebuilding Ad Tech: Open Source, Server to Server, Publisher First" repo](https://github.com/washingtonpost/ad-schema)
