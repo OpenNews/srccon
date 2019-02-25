@@ -27,7 +27,7 @@ SRCCON is a hands-on conference, full of conversations and workshops focused on 
 
 The majority of SRCCON participants are the developers, designers, journalists, and editors who collaborate on open technologies and processes within journalism. Participants come to SRCCON because they are working to change journalism for the better, whether that be pushing for more inclusive processes, bringing outside technical perspectives into the newsroom, or developing new ways to engage and inform readers.
 
-Our participants represent organizations ranging from massive to tiny, and come from all over the US and many other countries. Each year, we particularly welcome journalists and allies from the city hosting SRCCON, and we offer a slate of [remote-participation options](https://2018.srccon.org/documentation/) for those who can't attend in person.
+Our participants represent organizations ranging from massive to tiny, and come from all over the US and many other countries. Each year, we particularly welcome journalists and allies from the city hosting SRCCON, and we offer [live session transcripts and tons of documentation](https://2018.srccon.org/documentation/) for those who can't attend in person.
 
 ## Contact Us
 

@@ -11,6 +11,7 @@ SRCCON conferences are two days of community connection, collaborative sessions,
 Here, we've gathered some writing about how we create these inclusive, participatory spaces. We've also gathered up several years of session documentation, and resources that inspired us from the start. If you'd like to learn more about how we organize these events, and maybe have us help out with an event of your own, [reach out](mailto:info@opennews.org)!
 
 ## Participant Experience
+
 * [Why You Want a Code of Conduct & How We Made One](http://incisive.nu/2014/codes-of-conduct)
 * [Why We Think Childcare is So Important at SRCCON Events](https://opennews.org/blog/srccon-childcare/)
 * [How We Planned & Ran the SRCCON Travel Scholarships](https://opennews.org/blog/srccon-scholarship-process-admin/)
@@ -20,11 +21,13 @@ Here, we've gathered some writing about how we create these inclusive, participa
 * [Thursday Nights at SRCCON](https://opennews.org/blog/srccon-thursday/)
 
 ## Logistics & Tickets
-* [How to answer the SRCCON call for participation](https://opennews.org/blog/srccon-participation-howto/)
+
+* [How to Answer the SRCCON Call for Participation](https://opennews.org/blog/srccon-participation-howto/)
 * [SRCCON Ticketing: What We Did and Why](http://opennews.org/blog/srccon-tickets)
-* [The SRCCON Ticket Lottery: What we Learned](https://opennews.org/blog/srccon-lottery/)
+* [The SRCCON Ticket Lottery: What We Learned](https://opennews.org/blog/srccon-lottery/)
 
 ## Sessions & Proposals
+
 * [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/)
 * [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/)
 * [3 Ways to Facilitate a Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/)
@@ -32,13 +35,13 @@ Here, we've gathered some writing about how we create these inclusive, participa
 * [How to Plan a Great SRCCON Session](http://opennews.org/blog/srccon-session-planning)
 * [Why We Wrote Our SRCCON Proposals Guide](https://opennews.org/blog/srccon-proposal-guide/)
 
-
 ## Session Transcripts & Documentation
+
 * SRCCON [2018](https://2018.srccon.org/documentation/), [2017](https://2017.srccon.org/transcription/), [2016](https://2016.srccon.org/transcription/), [2015](https://2015.srccon.org/transcription/), [2014](https://github.com/OpenNews/srccon/tree/master/_archive/transcripts/2014)
 * Topical SRCCONs [SRCCON:POWER](https://power.srccon.org/transcription/), [SRCCON:WORK](https://work.srccon.org/transcription/)
 
-
 ## Other Resources & Inspiration
+
 * [2015 Will Be the Year You Pitch a NICAR Lightning Talk](https://medium.com/@sisiwei/2015-will-be-the-year-you-pitch-a-nicar-lightning-talk-dd293e5d78ca) by Sisi Wei
 * [Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options) by Kara Sowles
 * [Anti-Harassment Policies](https://adainitiative.org/what-we-do/conference-policies/) from the Ada Initiative
