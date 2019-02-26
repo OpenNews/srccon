@@ -7,11 +7,9 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-## Back in Minneapolis for SRCCON
+## Back in Minneapolis for SRCCON 2019!
 
-SRCCON 2019 returns to the McNamara Alumni Center in Minneapolis on July 11 & 12.
-
-[Join our mailing list](http://eepurl.com/czSVTL) or follow [@SRCCON](https://twitter.com/srccon) for updates and deadlines for this year's SRCCON.
+SRCCON returns to the McNamara Alumni Center in Minneapolis on July 11 & 12. [Join our mailing list](http://eepurl.com/czSVTL) or follow [@SRCCON](https://twitter.com/srccon) for updates and deadlines for this year's SRCCON.
 
 ## About SRCCON
 
