@@ -5,6 +5,7 @@ photocredit: Daniel X. O'Neil
 photocredit_url: https://www.flickr.com/photos/juggernautco/27262805686/
 permalink: /program/
 ---
+
 # The SRCCON Program
 
 SRCCON is a hands-on conference with two days full of sessions—but the schedule is just where our program begins. [Every attendee is also a participant](/participation) who brings their own interests and experiences into sessions, emergent conversations, our evening activities, and gatherings built around SRCCON.
