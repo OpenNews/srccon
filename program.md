@@ -6,6 +6,8 @@ photocredit_url: https://www.flickr.com/photos/juggernautco/27262805686/
 permalink: /program/
 ---
 
+<p class="big-lead">Everyone at SRCCON contributes to making it happen. Get ready for our call for participation form, which will be open April 10-24.</p>
+
 # The SRCCON Program
 
 SRCCON is a hands-on conference with two days full of sessions—but the schedule is just where our program begins. [Every attendee is also a participant](/participation) who brings their own interests and experiences into sessions, emergent conversations, our evening activities, and gatherings built around SRCCON.
