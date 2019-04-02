@@ -38,6 +38,8 @@ Our program explores SRCCON's values from all angles. Facilitators might teach n
 
 We encourage attendees to bring their whole selves into SRCCON, and our schedule regularly extends beyond what you might expect at a journalism conference. Sessions can also extend into topics like [navigating disability](https://2018.srccon.org/schedule/#_session-disability-in-newsroom) and [balancing work with family life](https://2017.srccon.org/schedule/#_session-caregiving-journalism), or hobbies from [science fiction](https://2016.srccon.org/schedule/#_session-media-science-fiction) to [balloon mapping](https://2015.srccon.org/schedule/#_session-39).
 
+<span id="facilitators"></span>
+
 ## What Does a Session Facilitator Do?
 
 Effective SRCCON facilitation is about effort and preparation more than expertise. Our faciliators plan and guide sessions, ask great questions, share what they know, and learn from their peers. We find that the best sessions are often led by facilitators who:
