@@ -18,7 +18,7 @@ We welcome about 300 attendees, and everyone at SRCCON actively participates, wh
 
 * **Who you are, in your work as a journalist and outside of it too.** This conference works because our audience is inclusive. Whatever your experiences—on a large team or a small one; as a developer, a reporter, an editor or manager, or in a hybrid role that feels kind of hard to explain; as a journalist of color or a member of another underrepresented community; as a person who lives on a coast or far, far away from one—you'll contribute perspectives that this event needs.
 * **The toughest problems you and your organization are working on.** The sessions on our program are interactive and conversational, and the rest of the schedule leaves plenty of room to talk with the people you meet. Sharing whatever it is you're struggling with is a great way to rally together with folks facing the same thing, and to leave with ideas about new solutions to try.
-* **Energy that helps us build community.** SRCCON is hands-on and engaging, with peers creating a conference together. There are lots of ways to participate, and we'll help you [find the ones that work best for you](/participation)!
+* **Energy that helps us connect as a network, reenvisioning how journalism can operate.** SRCCON is hands-on and engaging, with peers creating a conference together. There are lots of ways to participate, and we'll help you [find the ones that work best for you](/participation)!
 
 ## What You Take Away from SRCCON
 

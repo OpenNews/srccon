@@ -6,7 +6,7 @@ photocredit_url: http://www.westraco.com/
 permalink: /participation/
 ---
 
-<p class="big-lead">Everyone at SRCCON contributes to making it happen. Get ready for our call for participation form, which will be open April 10-24.</p>
+<p class="big-lead">There are many ways to take part in SRCCON, and we'll help you find the ones that work best for you. Look for our call for participation form April 10-24.</p>
 
 # Participation at SRCCON
 
@@ -20,7 +20,7 @@ The form will be open from April 10 until April 24. After that, we will review e
 
 ## Not Just Attendees, But Participants
 
-At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/program) who are ready to share their experiences and perspectives. [Facilitators create space](/program#facilitators) for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON an inclusive, welcoming place by leading fun group activities like knitting or book clubs, volunteering, and saying hi to new potential friends and collaborators over meals and coffee/tea/hot beverages.
+At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/program) who are ready to share their experiences and perspectives. Facilitators create space for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON an inclusive, welcoming place by leading fun group activities like knitting or book clubs, volunteering, and saying hi to new potential friends and collaborators over meals and coffee/tea/hot beverages.
 
 We'll have a few questions for you about what you'd like to bring to SRCCON and what you're hoping to take home with you. We look forward to seeing what ideas folks have and how we can make them possible during our two days together.
 
