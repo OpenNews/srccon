@@ -6,7 +6,7 @@ photocredit_url: https://www.flickr.com/photos/juggernautco/27262805686/
 permalink: /program/
 ---
 
-<p class="big-lead">Participants create the SRCCON program. Our call for participation from April 10-24 is how you can help shape this year's schedule.</p>
+<p class="big-lead">Participants create the SRCCON program. Our call for participation from April 10-24 is how you can help shape this year&rsquo;s schedule.</p>
 
 # The SRCCON Program
 

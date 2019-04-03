@@ -6,7 +6,7 @@ photocredit_url: http://www.westraco.com/
 permalink: /participation/
 ---
 
-<p class="big-lead">There are many ways to take part in SRCCON, and we'll help you find the ones that work best for you. Look for our call for participation form April 10-24.</p>
+<p class="big-lead">There are many ways to take part in SRCCON, and we&rsquo;ll help you find what works best for you. Look for our call for participation form April 10-24.</p>
 
 # Participation at SRCCON
 

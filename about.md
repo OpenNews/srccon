@@ -6,7 +6,7 @@ photocredit_url: http://www.westraco.com/
 permalink: /about/
 ---
 
-<p class="big-lead">Everyone at SRCCON contributes to making it happen. Get ready for our call for participation form, which will be open April 10-24.</p>
+<p class="big-lead">Everyone at SRCCON contributes to making it happen. Get ready for our call for participation form, open April 10-24.</p>
 
 # About SRCCON
 
