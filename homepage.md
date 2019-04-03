@@ -9,7 +9,15 @@ permalink: /index.html
 
 ## Back in Minneapolis for SRCCON 2019!
 
-SRCCON returns to the McNamara Alumni Center in Minneapolis on July 11 & 12. [Join our mailing list](http://eepurl.com/czSVTL) or follow [@SRCCON](https://twitter.com/srccon) for updates and deadlines for this year's SRCCON.
+SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis on July 11 & 12.
+
+## Key Dates for Your Calendar
+
+* **April 10**: call for participation opens
+* **April 24**: call for participation for sessions and scholarships closes
+* **May 10**: last day by which participants will be notified
+
+Curious about how it all works? Learn more about [the SRCCON program](/program) and [our call for participation](/participation). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2019, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only after the April 24 deadline, but applying by that date is your best chance to attend.
 
 ## About SRCCON
 
