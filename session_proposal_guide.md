@@ -35,10 +35,9 @@ Our sessions inhabit these values in different ways, through structured discussi
 
 ## Key Dates in the Proposal Process
 
-* **April 13:** call for participation closes at 11:59pm ET
-* **April 30:** all proposers notified about status of their sessions
+* **April 24:** call for participation closes at 11:59pm ET
+* **May 10:** all proposers notified about status of their sessions
 
-As you're finalizing your session proposal, in addition to this guide we have a [handy walkthrough of the call for participation form itself](https://opennews.org/blog/srccon-participation-howto)!
     
 ## Our Session Review Process
 
@@ -48,7 +47,7 @@ Our goal is to build a conference schedule with a mix of technical workshops, cu
 * a session description that shows you've thought through your time with attendees
 * thoughts about what you'd like participants to take away from your session
 
-Our program for SRCCON 2018 will be built around key community values:
+Our program for SRCCON will be built around key community values:
     
 * We experiment in the open—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
 * We support one another—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
@@ -115,14 +114,16 @@ To give you a taste of how SRCCON facilitators turn plans into action, here are 
 * [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
 * [Teaching and Brainstorming Inclusive Technical Metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product’s Nicole Zhu
 * [Stuck in a Rut? Tackle Newsroom Frustrations With Board Games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont’s Seven Days
+* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
 
 And here are a few more examples of sessions that have worked well in the past:
 
-* [True Life: I Work Remotely](https://2016.srccon.org/schedule/#_session-remote-work). This was an excellent peer-to-peer experience sharing session that allowed both remotees and the remote-curious to learn from each other.
-* [Let's All Be Terrible at Things Together](https://2016.srccon.org/schedule/#_session-lets-be-terrible). This session forced people out of their comfort zones and into collaborating around weaknesses and fears.
 * [Every day I’m juggling: Managing managers, peer expectations, and your own project ideas](https://2016.srccon.org/schedule/#_session-juggling-expectations). Talking to management, helping them to see things from your perspective, coaxing change out of newsrooms—it's tough to go it alone. This session used the "experts in the room" to help level each other up.
+* [Let's All Be Terrible at Things Together](https://2016.srccon.org/schedule/#_session-lets-be-terrible). This session forced people out of their comfort zones and into collaborating around weaknesses and fears.
 * [Mentorship at Scale: How The NYT Women in Tech group build a mentorship program for 250+ people in our free time](https://2017.srccon.org/schedule/#_session-mentorship-at-scale). This session shared practical tips from leaders who helped create a program in their own newsroom, and ran condensed versions of goal-planning and peer-coaching workshops. 
 * [Threat Modeling, But For Your Own Well-Being](https://2017.srccon.org/schedule/#_session-threat-modeling-well-being). This session used a guided series of questions to help participants identify their sources of anxiety, and then shared strategies for taking care of yourself emotionally.
+* [Lights, Camera, Algorithms: Acting out (and then discussing) Machine Learning](https://2018.srccon.org/schedule/#_session-lights-camera-algorithms). This session got participants up and moving around, with active learning exercises (and dice-rolling!) that helped make sense of abstract concepts.
+* [Managing the blind spots in community news coverage](https://2018.srccon.org/schedule/#_session-blind-spots-coverage). Participants worked together on strategies to identify the blind spots in their own newsroom's coverage, talk about them with decision-makers, and build relationships with underserved communities.
 
 
 ## Tickets for Facilitators
@@ -147,4 +148,4 @@ Ok, so you're excited to pitch your SRCCON session! If you feel ready to go, [yo
 
 ## Submit a Session Proposal
 
-The form for session proposals has now closed! By the end of April, we will let everyone who proposed a session know whether it has been accepted. Thank you to everyone who proposed a session.
+Our call for participation is open until April 24 at 11:59pm ET. We'd love to have you [pitch a session](/participation/form/) so we can consider your ideas for SRCCON 2019, July 11 & 12 in Minneapolis.

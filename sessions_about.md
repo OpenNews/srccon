@@ -50,7 +50,7 @@ Facilitators who have a harder time have usually tried to fit too much stuff int
 * [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
 * [Teaching and Brainstorming Inclusive Technical Metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product's Nicole Zhu
 * [Stuck in a Rut? Tackle Newsroom Frustrations With Board Games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont's Seven Days
-* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/)
+* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
 
 If running a session sounds like a lot of effort…it is! But it can also be really energizing, and it means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they're willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you're pitching solo and want someone to work with you on the ground.
 
