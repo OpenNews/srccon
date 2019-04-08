@@ -7,9 +7,11 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-## Back in Minneapolis for SRCCON 2019!
+Our call for participation is open! We’ll be accepting proposals through Friday, April 13, at 11:59pm ET.
 
-SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis on July 11 & 12.
+Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone before the end of April. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $225 plus fees](https://opennews.org/blog/srccon-2019-launch).
+
+Thinking about a session idea for SRCCON 2019? We've put together a [proposals guide](/sessions/proposal-guide/) to help you out.
 
 ## Key Dates for Your Calendar
 
@@ -18,6 +20,12 @@ SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place
 * **May 10**: last day by which participants will be notified
 
 Curious about how it all works? Learn more about [the SRCCON program](/program) and [our call for participation](/participation). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2019, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only after the April 24 deadline, but applying by that date is your best chance to attend.
+
+## When & Where
+
+On July 11 & 12 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
+
+Once tickets are sold, we'll be opening up a discounted block of rooms for participants at a nearby hotel.
 
 ## About SRCCON
 

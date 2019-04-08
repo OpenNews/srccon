@@ -20,7 +20,7 @@ permalink: /sessions/proposal-guide/
 
 ## What Are SRCCON Sessions Like?
 
-SRCCON is different than many other conferences you may have attended. It's a highly participatory event: no panels on a stage or speakers running through slides. You might notice that we always refer to "facilitators" or "session leaders," because when you run a breakout session at SRCCON, you're in a room with dozens of other smart people with an opportunity to compare notes, share skills, and help everyone learn from each other.
+SRCCON is different than many other conferences you may have attended. It's a highly participatory event: no panels on a stage or speakers running through slides. You might notice that we always refer to "facilitators" or "session leaders," because when you run a breakout session at SRCCON, you're in a room with dozens of other smart people with an opportunity to [compare notes, share skills, and help everyone learn from each other](https://source.opennews.org/articles/srccon-great-conference-sessions/).
 
 We created SRCCON with a few principles in mind that lay the groundwork for our program as a whole:
 
