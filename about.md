@@ -6,7 +6,7 @@ photocredit_url: http://www.westraco.com/
 permalink: /about/
 ---
 
-<p class="big-lead">Everyone at SRCCON contributes to making it happen. Get ready for our call for participation form, open April 10-24.</p>
+<p class="big-lead">Everyone at SRCCON contributes to making it happen. <a href="/participation/form/">Our call for participation form</a> is open through April 24, with questions about participating, pitching a session, and applying for a scholarship.</p>
 
 # About SRCCON
 
@@ -40,4 +40,4 @@ We welcome about 300 attendees, and everyone at SRCCON actively participates, wh
 
 ## How to Participate
 
-Our call for participation form will be open April 10-24—it's how you can pitch a session, apply for a ticket, or tell us you'd like to participate in some other way. Session pitches create a program that feels new for every SRCCON, and applications allow us to allocate tickets in an intentional way that equitably distributes attendance and ensures that there are a mix of perspectives and skills at the event. Our call for participation form helps us understand who would like to take part in SRCCON and what you want to get out of it. [Everyone at SRCCON contributes to making it happen](/participation).
+Our [call for participation form](/participation/form/) is open until April 24—it's how you can pitch a session, apply for a ticket, or tell us you'd like to participate in some other way. Session pitches create a program that feels new for every SRCCON, and applications allow us to allocate tickets in an intentional way that equitably distributes attendance and ensures that there are a mix of perspectives and skills at the event. Our call for participation form helps us understand who would like to take part in SRCCON and what you want to get out of it. [Everyone at SRCCON contributes to making it happen](/participation).
