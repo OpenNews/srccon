@@ -6,7 +6,7 @@ photocredit_url: https://www.flickr.com/photos/juggernautco/27262805686/
 permalink: /program/
 ---
 
-<p class="big-lead">Participants create the SRCCON program. Our call for participation from April 10-24 is how you can help shape this year&rsquo;s schedule.</p>
+<p class="big-lead">Participants create the SRCCON program. Our <a href="/participation/form/">call for participation</a> from April 10-24 is how you can help shape this year&rsquo;s schedule.</p>
 
 # The SRCCON Program
 
@@ -18,9 +18,9 @@ SRCCON is built around peer-led conversations and hands-on workshops. The commun
 
 Our program for SRCCON is built around key community values:
 
-* We experiment in the open—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
-* We support one another—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
-* We lead change—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
+* **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
+* **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
 
 ## How Do Collaborative Sessions Work?
 

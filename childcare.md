@@ -6,6 +6,8 @@ permalink: /childcare/
 
 <p class="big-lead">We offer free childcare for the duration of the SRCCON program and welcome families of all sizes.</p>
 
+# Childcare at SRCCON
+
 We are offering free childcare throughout the full SRCCON schedule (including Thursday evening). Our providers are the wonderful [KiddieCorp](https://www.kiddiecorp.com/)  team, whom we welcome back for their fifth year at SRCCON.
 
 ## Our care providers

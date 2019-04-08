@@ -6,9 +6,10 @@ photocredit_url: http://www.westraco.com/
 permalink: /sessions/proposal-guide/
 ---
 
-<p class="big-lead">There are a lot of ways to think about sessions at SRCCON. We&rsquo;ve put this guide together to help you turn your great idea into an equally great session proposal.</p>
+<p class="big-lead">There are a lot of ways to think about sessions at SRCCON. We&rsquo;ve put this guide together to help you turn your great idea into an equally great proposal.</p>
 
-## In This Guide
+# SRCCON Session Proposal Guide
+
 * [What Are SRCCON Sessions Like?](#about-sessions)
 * [About Our Proposal & Review Process](#our-process)
 * [Making Your Session Proposal Stand Out](#great-proposals)
@@ -22,7 +23,7 @@ permalink: /sessions/proposal-guide/
 
 SRCCON is different than many other conferences you may have attended. It's a highly participatory event: no panels on a stage or speakers running through slides. You might notice that we always refer to "facilitators" or "session leaders," because when you run a breakout session at SRCCON, you're in a room with dozens of other smart people with an opportunity to [compare notes, share skills, and help everyone learn from each other](https://source.opennews.org/articles/srccon-great-conference-sessions/).
 
-We created SRCCON with a few principles in mind that lay the groundwork for our program as a whole:
+A few principles lay the groundwork for our program as a whole:
 
 * SRCCON is built around participation, discussion, and collaborative problem-solving.
 * SRCCON exists to respond to the needs and interests of our community, and we're intentional in including perspectives from throughout the field.
@@ -108,7 +109,7 @@ And if we see a number of pitches on the same subject, you can bet we'll make su
 
 ## Example Sessions from Previous SRCCONs
 
-To give you a taste of how SRCCON facilitators turn plans into action, here are a few writeups from previous participants on their experience hosting sessions:
+To give you a taste of how SRCCON facilitators turn plans into action, here are a few writeups from previous participants:
 
 * [3 Ways To Facilitate A Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/), by ProPublica’s Sisi Wei
 * [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt

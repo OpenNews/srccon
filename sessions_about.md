@@ -6,15 +6,17 @@ photocredit_url: http://www.westraco.com/
 permalink: /sessions/about/
 ---
 
+<p class="big-lead">Our <a href="/participation/form/">call for participation form</a> is open through April 24. We&rsquo;re excited to hear about your session ideas!</p>
+
 # About Sessions at SRCCON
 
-SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that help every attendee head home with new ideas. If you'd like to facilitate a session at SRCCON, we're [ready to support you from idea to execution](#facilitators).
+SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that help every attendee head home with new ideas. If you'd like to facilitate a session at SRCCON, we have [a Proposal Guide written just for you](/sessions/proposal-guide/)!
 
 Our program for SRCCON is built around key community values:
 
-* We experiment in the open—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
-* We support one another—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
-* We lead change—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
+* **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
+* **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
 
 ## How Do Collaborative Sessions Work?
 
@@ -53,6 +55,8 @@ Facilitators who have a harder time have usually tried to fit too much stuff int
 * [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
 
 If running a session sounds like a lot of effort…it is! But it can also be really energizing, and it means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they're willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you're pitching solo and want someone to work with you on the ground.
+
+If you're thinking about pitching a session for SRCCON 2019, [check out our Proposal Guide](/sessions/proposal-guide). We'd love to hear from you!
 
 ## Sessions From Previous SRCCONs
 
