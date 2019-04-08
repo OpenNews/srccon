@@ -7,7 +7,7 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-Our call for participation is open! We’ll be accepting proposals through Friday, April 13, at 11:59pm ET.
+Our call for participation is open! We’ll be accepting proposals through Wednesday, April 24 at 11:59pm ET.
 
 Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone before the end of April. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $225 plus fees](https://opennews.org/blog/srccon-2019-launch).
 
