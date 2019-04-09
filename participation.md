@@ -18,9 +18,17 @@ The small conference size means that we have to be intentional about equitably d
 
 The form is open from April 10 until April 24. After that, we will review entries and notify everyone by May 10. If invited to attend, you will have the chance to purchase a ticket, with [prices starting at $225 plus fees](https://opennews.org/blog/srccon-2019-launch).
 
-## A New Approach to Tickets
+## A New Approach to Ticket Prices
 
-[fill this in with blog post language and full ticket detail]
+This year [we're experimenting with a tiered ticket pricing system](https://opennews.org/blog/srccon-2019-launch). Accessibility remains a core value for us, and this is our attempt to balance the actual costs of the conference with keeping prices as manageable for attendees as possible. We'll of course also continue to offer [scholarships to attend](/scholarships).
+
+Here are the tiers (plus Eventbrite ticketing fees):
+
+* $225: this was our ticket price last year and remains the base price for people who are paying their own way, from small newsrooms with fewer than 50 people or nonprofits with budgets $750,000 or less
+* $375: a new ticket price for people from medium-sized organizations of 51-250 employees, nonprofits with budgets $750,000-$2 million, and other similar sized organizations
+* $695: this ticket tier reflects very nearly the actual cost for each attendee of SRCCON and is for people from large organizations with more than 250 employees, nonprofits with budgets over $2 million, and other organizations that provide full professional development budgets for employees
+
+These tiers will be shared on an honor system. We’ll ask attendees to register for their ticket by picking the tier that best reflects their situation, with the descriptions as guidelines not requirements. These tickets are part of what enables us to organize an event with 40 event scholarships, free childcare, live transcription, two lunches, dinner, and ample snacks and drinks, and the support of a skilled event team in preparing sessions and constructing a schedule that lets attendees focus on learning and talking together. 
 
 ## Not Just Attendees, But Participants
 
