@@ -20,7 +20,7 @@ Our program for SRCCON is built around key community values:
 
 ## How Do Collaborative Sessions Work?
 
-There are a lot of ways to think about the SRCCON program, but here's the most imporant thing to know: our sessions are highly collaborative, not a panel on a stage or a speaker running through slides. This is an opportunity for peers to [compare notes, share skills, and learn from each other](https://source.opennews.org/articles/srccon-great-conference-sessions/).
+There are a lot of ways to think about the SRCCON program, but here's the most important thing to know: our sessions are highly collaborative, not a panel on a stage or a speaker running through slides. This is an opportunity for peers to [compare notes, share skills, and learn from each other](https://source.opennews.org/articles/srccon-great-conference-sessions/).
 
 We want to make SRCCON a [genuinely participatory event](/participation), and it's hard to be part of a conversation or work together in a session that's mostly lecture. So we look for sessions that include real interactivity, and we love creative formats that support learning. Outstanding sessions might include design exercises, art and games, small-group work, role playing, even field trips—and we're always interested in new ideas.
 
@@ -57,6 +57,8 @@ Facilitators who have a harder time have usually tried to fit too much stuff int
 If running a session sounds like a lot of effort…it is! But it can also be really energizing, and it means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they're willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you're pitching solo and want someone to work with you on the ground.
 
 If you're thinking about pitching a session for SRCCON 2019, [check out our Proposal Guide](/sessions/proposal-guide). We'd love to hear from you!
+
+<span id="previous-years"></span>
 
 ## Sessions From Previous SRCCONs
 
