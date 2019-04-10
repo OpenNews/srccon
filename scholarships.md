@@ -18,6 +18,8 @@ There's no separate application—you can apply for a scholarship right on [our 
 
 A ticket to SRCCON and $500 for you to use toward the cost of travel to the event. (For scholarship recipients who live in the Minneapolis area, we offer a SRCCON ticket without the additional travel funding.)
 
+In addition to the travel scholarships, for the first time this year, we're offering one scholarship of $500 for caretaking-related costs. (Either to bring your loved ones to Minneapolis, or help care for them back home while you're at the conference.) There is a separate question on the call for participation form to apply for this scholarship.
+
 ## Who Should Apply
 
 * Anyone who is part of the journalism code community

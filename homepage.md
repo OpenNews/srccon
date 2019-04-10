@@ -11,7 +11,7 @@ permalink: /index.html
 
 We’ll be accepting proposals through Wednesday, April 24 at 11:59pm ET.
 
-Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone by May 10. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $225 plus fees](https://opennews.org/blog/srccon-2019-launch).
+Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone by May 10. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $225 plus fees](/participation/#a-new-approach-to-ticket-prices).
 
 Thinking about a session idea for SRCCON 2019? We've put together a [proposals guide](/sessions/proposal-guide/) to help you out.
 
