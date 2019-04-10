@@ -6,9 +6,10 @@ photocredit_url: http://www.westraco.com/
 permalink: /sessions/proposal-guide/
 ---
 
-<p class="big-lead">There are a lot of ways to think about sessions at SRCCON. We&rsquo;ve put this guide together to help you turn your great idea into an equally great session proposal.</p>
+<p class="big-lead">There are a lot of ways to think about sessions at SRCCON. We&rsquo;ve put this guide together to help you turn your great idea into an equally great proposal.</p>
 
-## In This Guide
+# SRCCON Session Proposal Guide
+
 * [What Are SRCCON Sessions Like?](#about-sessions)
 * [About Our Proposal & Review Process](#our-process)
 * [Making Your Session Proposal Stand Out](#great-proposals)
@@ -20,9 +21,9 @@ permalink: /sessions/proposal-guide/
 
 ## What Are SRCCON Sessions Like?
 
-SRCCON is different than many other conferences you may have attended. It's a highly participatory event: no panels on a stage or speakers running through slides. You might notice that we always refer to "facilitators" or "session leaders," because when you run a breakout session at SRCCON, you're in a room with dozens of other smart people with an opportunity to compare notes, share skills, and help everyone learn from each other.
+SRCCON is different than many other conferences you may have attended. It's a highly participatory event: no panels on a stage or speakers running through slides. You might notice that we always refer to "facilitators" or "session leaders," because when you run a breakout session at SRCCON, you're in a room with dozens of other smart people with an opportunity to [compare notes, share skills, and help everyone learn from each other](https://source.opennews.org/articles/srccon-great-conference-sessions/).
 
-We created SRCCON with a few principles in mind that lay the groundwork for our program as a whole:
+A few principles lay the groundwork for our program as a whole:
 
 * SRCCON is built around participation, discussion, and collaborative problem-solving.
 * SRCCON exists to respond to the needs and interests of our community, and we're intentional in including perspectives from throughout the field.
@@ -35,10 +36,9 @@ Our sessions inhabit these values in different ways, through structured discussi
 
 ## Key Dates in the Proposal Process
 
-* **April 13:** call for participation closes at 11:59pm ET
-* **April 30:** all proposers notified about status of their sessions
+* **April 24:** call for participation closes at 11:59pm ET
+* **May 10:** all proposers notified about status of their sessions
 
-As you're finalizing your session proposal, in addition to this guide we have a [handy walkthrough of the call for participation form itself](https://opennews.org/blog/srccon-participation-howto)!
     
 ## Our Session Review Process
 
@@ -48,13 +48,13 @@ Our goal is to build a conference schedule with a mix of technical workshops, cu
 * a session description that shows you've thought through your time with attendees
 * thoughts about what you'd like participants to take away from your session
 
-Our program for SRCCON 2018 will be built around key community values:
+Our program for SRCCON will be built around key community values:
     
-* We experiment in the open—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
-* We support one another—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
-* We lead change—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC.
+* **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
+* **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
 
-After the call for proposals closes, we set aside two weeks for consideration by OpenNews staff. We also invite a diverse group of community members to provide feedback during the session review process. Our priority is to build a balanced program that reflects the entire community, and we actively welcome session proposals from members of communities underrepresented in journalism and technology, and from non-coastal and small-market news organizations.
+After the call for participation closes, we set aside two weeks for consideration by OpenNews staff. We also invite a diverse group of community members to provide feedback during the session review process. Our priority is to build a balanced program that reflects the entire community, and we actively welcome session proposals from members of communities underrepresented in journalism and technology, and from non-coastal and small-market news organizations.
 
 
 <span id="great-proposals"></span>
@@ -84,7 +84,9 @@ Effective SRCCON sessions are about effort and preparation more than expertise. 
 
 ## How to Plan a Session That Works
 
-SRCCON is a genuinely participatory event, and it's hard to participate in a session that's mostly lecture with a few minutes for discussion. It's great to start thinking about the format for your session now, and include detail in your proposal. It's totally OK if you plan to set up a session with an intro and a few slides, or to use examples throughout to support learning, but we do look for pitches that include real interactivity. Our final program will include both conversational sessions, where people can dig into questions or problems in a way they can't at larger conferences, and technical sessions, where people share specific expertise and participants leave with a new skill. Outstanding session formats in previous years have included:
+SRCCON is a genuinely participatory event, and it's hard to participate in a session that's mostly lecture with a few minutes for discussion. It's great to start thinking about the format for your session now, and include detail in your proposal. It's totally OK if you plan to set up a session with an intro and a few slides, or to use examples throughout to support learning, but we do look for pitches that include real interactivity.
+
+Our final program will include conversational sessions, where people can dig into questions or problems in a way they can't at larger conferences, as well as technical sessions, where people share specific expertise and participants leave with a new skill. Outstanding session formats in previous years have included:
 
 * design exercises
 * roundtable conversations
@@ -95,13 +97,13 @@ SRCCON is a genuinely participatory event, and it's hard to participate in a ses
 
 We're always interested in new ideas, too, so feel free to propose something we've never imagined!
 
-It's also useful to think about information/activity density and, again, your desired takeaways. Over-programming a session with too many activities can make it impossible to get to your goals—but a session that's underdesigned can easily turn into a conversation between a handful of the loudest people. We're happy to help proposers figure out the right balance, and we don't expect you to have all the answers at the pitch stage, but it's good to start thinking about content density early on. (When in doubt, narrow your scope.)
+It's also useful to think about information/activity density and, again, your desired takeaways. Over-programming a session with too many activities can make it impossible to get to your goals, but a session that's underdesigned can easily turn into a conversation between a handful of the loudest people. We're happy to help proposers figure out the right balance, and we don't expect you to have all the answers at the pitch stage, but it's good to start thinking about content density early on. (When in doubt, narrow your scope.)
 
 ## Pitching With a Co-Facilitator
 
 A co-facilitator for your SRCCON session can share the load of preparation and facilitation, as well as the fun of participating in the conference itself. If you're comfortable leading a session by yourself, that's great too!
 
-Only one person needs to submit the full session idea in our [call for participation form](/participation/form)—co-facilitators can let us know "somebody else has already listed me as a cofacilitator" in the form, and we'll link you all up. Feel free to work on the proposal together, but don't limit yourself to pitching with someone who can fill out the form sitting alongside you.
+Only one person needs to submit the full session idea in our [call for participation form](/participation/form)—co-facilitators can let us know "somebody else has already listed me as a co-facilitator" in the form, and we'll link you all up. Feel free to work on the proposal together, but don't limit yourself to pitching with someone who can fill out the form sitting alongside you.
 
 We consider solo and team proposals alike. But if you feel like your session could benefit from a co-facilitator, we encourage you to consider pitching with someone from another organization, and/or with a different background from your own. If you've attended SRCCON before, you might even consider proposing with someone who hasn't been yet. (We won't reject proposals featuring two members of the same team, two SRCCON alums, etc., but we may favor proposals that mix it up.)
 
@@ -109,20 +111,22 @@ And if we see a number of pitches on the same subject, you can bet we'll make su
 
 ## Example Sessions from Previous SRCCONs
 
-To give you a taste of how SRCCON facilitators turn plans into action, here are a few writeups from previous participants on their experience hosting sessions:
+To give you a taste of how SRCCON facilitators turn plans into action, here are a few writeups from previous participants:
 
 * [3 Ways To Facilitate A Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/), by ProPublica’s Sisi Wei
 * [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
 * [Teaching and Brainstorming Inclusive Technical Metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product’s Nicole Zhu
 * [Stuck in a Rut? Tackle Newsroom Frustrations With Board Games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont’s Seven Days
+* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
 
 And here are a few more examples of sessions that have worked well in the past:
 
-* [True Life: I Work Remotely](https://2016.srccon.org/schedule/#_session-remote-work). This was an excellent peer-to-peer experience sharing session that allowed both remotees and the remote-curious to learn from each other.
-* [Let's All Be Terrible at Things Together](https://2016.srccon.org/schedule/#_session-lets-be-terrible). This session forced people out of their comfort zones and into collaborating around weaknesses and fears.
 * [Every day I’m juggling: Managing managers, peer expectations, and your own project ideas](https://2016.srccon.org/schedule/#_session-juggling-expectations). Talking to management, helping them to see things from your perspective, coaxing change out of newsrooms—it's tough to go it alone. This session used the "experts in the room" to help level each other up.
+* [Let's All Be Terrible at Things Together](https://2016.srccon.org/schedule/#_session-lets-be-terrible). This session forced people out of their comfort zones and into collaborating around weaknesses and fears.
 * [Mentorship at Scale: How The NYT Women in Tech group build a mentorship program for 250+ people in our free time](https://2017.srccon.org/schedule/#_session-mentorship-at-scale). This session shared practical tips from leaders who helped create a program in their own newsroom, and ran condensed versions of goal-planning and peer-coaching workshops. 
 * [Threat Modeling, But For Your Own Well-Being](https://2017.srccon.org/schedule/#_session-threat-modeling-well-being). This session used a guided series of questions to help participants identify their sources of anxiety, and then shared strategies for taking care of yourself emotionally.
+* [Lights, Camera, Algorithms: Acting out (and then discussing) Machine Learning](https://2018.srccon.org/schedule/#_session-lights-camera-algorithms). This session got participants up and moving around, with active learning exercises (and dice-rolling!) that helped make sense of abstract concepts.
+* [Managing the blind spots in community news coverage](https://2018.srccon.org/schedule/#_session-blind-spots-coverage). Participants worked together on strategies to identify the blind spots in their own newsroom's coverage, talk about them with decision-makers, and build relationships with underserved communities.
 
 
 ## Tickets for Facilitators
@@ -139,7 +143,7 @@ Why do we do it this way? SRCCON is a collaborative, peer-to-peer event, and we 
 Ok, so you're excited to pitch your SRCCON session! If you feel ready to go, [you can submit your proposal now](/participation/form/). If you have still have some questions, we are here for you:
 
 * Always feel free to email [srccon@opennews.org](mailto:srccon@opennews.org). We're happy to give feedback on session proposals, answer questions not covered here, or help in other ways.
-* Check out the #srccon channel on the [News Nerdery Slack](http://newsnerdery.org/). OpenNews staff members are in the channel, so if there's a question that may be of broad interest, feel free to add it there.
+* Check out the #srccon channesl on the [News Nerdery](http://newsnerdery.org/) or [Lonely Coders Club](https://lcc-slack.herokuapp.com/) Slacks. OpenNews staff members are in those channels, so if there's a question that may be of broad interest, feel free to raise it there.
 * As we get closer to SRCCON, we'll also publish a guide like this one with details and advice about facilitation, and we'll provide further resources for facilitators. If you're passionate about your proposal but unsure about the facilitation part, don't worry—you will be well supported in the weeks leading up to SRCCON.
 
 
@@ -147,4 +151,4 @@ Ok, so you're excited to pitch your SRCCON session! If you feel ready to go, [yo
 
 ## Submit a Session Proposal
 
-The form for session proposals has now closed! By the end of April, we will let everyone who proposed a session know whether it has been accepted. Thank you to everyone who proposed a session.
+Our call for participation is open until April 24 at 11:59pm ET. We'd love to have you [pitch a session](/participation/form/) so we can consider your ideas for SRCCON 2019, July 11 & 12 in Minneapolis.

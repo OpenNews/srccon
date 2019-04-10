@@ -6,30 +6,34 @@ photocredit_url: http://www.westraco.com/
 permalink: /scholarships/
 ---
 
-<p class="big-lead">We don&rsquo;t want cost to prevent you from coming to SRCCON, which is why we work to keep ticket prices low. To help defray the cost of attending SRCCON, OpenNews offers a limited number of travel scholarships.</p>
+<p class="big-lead">We don&rsquo;t want cost to prevent you from coming to SRCCON, which is why we work to keep ticket prices low. To help defray the cost of attending, OpenNews offers a limited number of travel scholarships.</p>
 
 # Scholarships for SRCCON 2019
 
 Whether you&rsquo;re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend SRCCON.
 
-You do not have to fill out a separate application to apply. Scholarship questions will be part of our call for participation form, which will be open April 10-24.
+There's no separate application—you can apply for a scholarship right on [our call for participation form](/participation/form/), which closes for scholarship applications on April 24.
 
 ## What We&rsquo;re Offering
+
 A ticket to SRCCON and $500 for you to use toward the cost of travel to the event. (For scholarship recipients who live in the Minneapolis area, we offer a SRCCON ticket without the additional travel funding.)
 
+In addition to the travel scholarships, for the first time this year, we're offering one scholarship of $500 for caretaking-related costs. (Either to bring your loved ones to Minneapolis, or help care for them back home while you're at the conference.) There is a separate question on the call for participation form to apply for this scholarship.
+
 ## Who Should Apply
+
 * Anyone who is part of the journalism code community
 * Anyone interested in learning more about the journalism code community
 * People of color, women, and other underrepresented groups in technology are strongly encouraged to apply
 
 ## How to Apply
-The application will be part of our call for participation form.
+The application is part of our [call for participation form](/participation/form/). Apply by April 24.
 
 ## When Notifications Go Out
-Notifications for scholarships will go out alongside other notifications as part of the call for participation.
+Notifications for scholarships will go out alongside other notifications as part of the call for participation. You'll hear from us by May 10.
 
 ## What Happens After SRCCON
-You tell us how it went! We&rsquo;ll send you a short followup survey and will be excited to check out any blog posts or code repos that come out of your participation at SRCCON.
+You tell us how it went! We&rsquo;ll send you a short followup survey and will be excited to check out anything you write or build coming out of your participation at SRCCON.
 
 ## Why Are You Offering This Scholarship?
 We want to make sure that SRCCON is an event that includes the diversity of the communities we serve&mdash;geographically, demographically, experientially, and more. We know that travel costs can be a hardship, and offer this scholarship as a way to help mitigate that.

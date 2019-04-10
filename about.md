@@ -6,7 +6,7 @@ photocredit_url: http://www.westraco.com/
 permalink: /about/
 ---
 
-<p class="big-lead">Everyone at SRCCON contributes to making it happen. Get ready for our call for participation form, open April 10-24.</p>
+<p class="big-lead">Everyone at SRCCON contributes to making it happen. <a href="/participation/form/">Our call for participation form</a> is open through April 24, with questions about participating, pitching a session, and applying for a scholarship.</p>
 
 # About SRCCON
 
@@ -28,16 +28,16 @@ We welcome about 300 attendees, and everyone at SRCCON actively participates, wh
 
 ## What It's Like at SRCCON
 
-* **Meals (and snacks) are provided.** It's easier to get the most out of an event when you don't have to wonder when you'll get a chance to eat. We provide some meals on both conference days, including a delicious dinner Thursday night. We’ll also have tea, coffee, and plenty of snacks—healthy and sugary, both—throughout the day.
-* **Every attendee is a peer.** Our conference badges don’t flag organizations or speaker status—we’re all here to learn from each other.
+* **Meals (and snacks) are provided.** It's easier to get the most out of an event when you don't have to wonder when you'll get a chance to eat. We provide lunches on both conference days, and a delicious dinner Thursday night. We’ll also have tea, coffee, and plenty of snacks—healthy and sugary, both—throughout the day.
+* **Every attendee is a peer.** Our conference badges don’t flag organizations or speaker status. We’re all here to learn from each other.
 * **There's space set aside for work.** We hope you'll be able to fully engage with the community at SRCCON, but we know that deadlines and projects back home don't magically disappear when you get to Minneapolis. If you need to get a few things done, we have some open work space in the venue.
 * **We offer financial assistance.** We offer a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. 
 * **Many sessions have live transcription.** We work with [White Coat Captioning](http://www.whitecoatcaptioning.com/) to provide live transcription of a portion of SRCCON sessions and all group talks.
 * **The venue is accessible, with space for quiet and nursing.** Our venue is [transit accessible](https://mac-events.org/directions/index.html) and the entire building is ADA compliant with accessible and single-use restrooms. We also have a quiet room and space for nursing parents.
-* **We offer childcare.** We offer childcare support throughout SRCCON, and have worked with the provider [KiddieCorp](https://www.kiddiecorp.com/) for the last several years.
+* **We offer childcare.** We offer [childcare support](/childcare) throughout SRCCON, and have worked with the provider [KiddieCorp](https://www.kiddiecorp.com/) for the last several years.
 * **We'll connect you with local support groups.** We want to make sure people are aware of nearby meetings that can be helpful. If there's a group you'd like to see listed here, [please let us know](mailto:srccon@opennews.org).
     * **Alcoholics Anonymous.** On Thursday night, the closest meeting to SRCCON is at Drinkytown AA, [University Lutheran Church of Hope 601 13th Av SE](https://www.google.com/maps/place/University+Lutheran+Church+of+Hope/@44.983557,-93.235761,15z/data=!4m2!3m1!1s0x0:0x7e2b9cb466a3fbda?sa=X&ei=4jiEVZyHMcbgoASy45voCQ&ved=0CG8Q_BIwCg), which meets Thursday at 6:30pm. It is an “open” meeting, meaning that you don’t have to be alcoholic to go. AA Minneapolis also hosts [a full list of area meetings](https://aaminneapolis.org/meetings/?tsml-day=4&tsml-region=1388).
 
 ## How to Participate
 
-Our call for participation form will be open April 10-24—it's how you can pitch a session, apply for a ticket, or tell us you'd like to participate in some other way. Session pitches create a program that feels new for every SRCCON, and applications allow us to allocate tickets in an intentional way that equitably distributes attendance and ensures that there are a mix of perspectives and skills at the event. Our call for participation form helps us understand who would like to take part in SRCCON and what you want to get out of it. [Everyone at SRCCON contributes to making it happen](/participation).
+Our [call for participation form](/participation/form/) is open until April 24—it's how you can pitch a session, apply for a ticket, or tell us you'd like to participate in some other way. Session pitches create a program that feels new for every SRCCON, and applications allow us to allocate tickets in an intentional way that equitably distributes attendance and ensures that there are a mix of perspectives and skills at the event. Our call for participation form helps us understand who would like to take part in SRCCON and what you want to get out of it. [Everyone at SRCCON contributes to making it happen](/participation).

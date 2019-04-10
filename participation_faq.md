@@ -23,7 +23,7 @@ We want to hear from everyone! Returning SRCCON attendees, folks who have never 
 ## Who Should Apply?
 Anyone who would like to attend SRCCON! The majority of SRCCON participants are the developers, designers, journalists, and editors who collaborate on open technologies and processes within journalism. Participants come to SRCCON because they are working to change journalism for the better, whether that be pushing for more inclusive processes, bringing outside technical perspectives into the newsroom, or developing new ways to engage and inform readers.
 
-Our participants represent organizations ranging from massive to tiny, and come from all over the US and many other countries. Some SRCCON participants also come from outside of the newsroom, including education, journalism nonprofits, technology, government, libraries, the arts, and more.
+Our participants represent organizations ranging from massive to tiny, and come from all over the U.S. and many other countries. Some SRCCON participants also come from outside of the newsroom, including education, journalism nonprofits, technology, government, libraries, the arts, and more.
 
 ## When Will I Find Out Whether I Am Invited to Attend?
 You will find out about your application within a few days. We're going to review applications on a set rolling schedule:

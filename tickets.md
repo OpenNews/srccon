@@ -1,6 +1,6 @@
 ---
 layout: layout
-permalink: /tickets/index.html
+permalink: /tickets/
 redirect_to:
  - /participation
 ---

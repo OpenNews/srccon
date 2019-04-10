@@ -4,7 +4,7 @@ section: remote
 permalink: /documentation/index.html
 ---
 
-# Documentation
+# SRCCON 2018 Documentation
 
 It's important to us to keep SRCCON small enough to feel friendly and conversational, but we also care about getting the ideas and conversations that take place at SRCCON into the wider world. The most important way this happens is when attendees return to their newsrooms and put new skills and approaches to work, but we also document SRCCON as extensively as possible. This page collects resources you can refer back to as you bring SRCCON home with you:
 
@@ -13,6 +13,7 @@ It's important to us to keep SRCCON small enough to feel friendly and conversati
 * [Session write-ups on Source](#session-write-ups)
 
 ## Session Transcripts
+
 Our live-captioning team transcribes about half the sessions at SRCCON. Sessions that had stenographers are marked on [our full schedule](https://schedule.srccon.org), or you can use the lists below. If you were in a session and you notice something that needs to be fixed, we'd love your [pull requests](https://github.com/opennews/srccon) or [emails](mailto:srccon@opennews.org).
 
 <div>

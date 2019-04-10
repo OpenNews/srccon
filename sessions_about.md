@@ -6,27 +6,29 @@ photocredit_url: http://www.westraco.com/
 permalink: /sessions/about/
 ---
 
+<p class="big-lead">Our <a href="/participation/form/">call for participation form</a> is open through April 24. We&rsquo;re excited to hear about your session ideas!</p>
+
 # About Sessions at SRCCON
 
-SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that help every attendee head home with new ideas. If you'd like to facilitate a session at SRCCON, we're [ready to support you from idea to execution](#facilitators).
+SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that help every attendee head home with new ideas. If you'd like to facilitate a session at SRCCON, we have [a guide to session proposals written just for you](/sessions/proposal-guide/)!
 
 Our program for SRCCON is built around key community values:
 
-* We experiment in the open—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
-* We support one another—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
-* We lead change—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
+* **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
+* **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
 
 ## How Do Collaborative Sessions Work?
 
-There are a lot of ways to think about the SRCCON program, but here's the most imporant thing to know: our sessions are highly collaborative, not a panel on a stage or a speaker running through slides. This is an opportunity for peers to [compare notes, share skills, and learn from each other](https://source.opennews.org/articles/srccon-great-conference-sessions/).
+There are a lot of ways to think about the SRCCON program, but here's the most important thing to know: our sessions are highly collaborative, not a panel on a stage or a speaker running through slides. This is an opportunity for peers to [compare notes, share skills, and learn from each other](https://source.opennews.org/articles/srccon-great-conference-sessions/).
 
 We want to make SRCCON a [genuinely participatory event](/participation), and it's hard to be part of a conversation or work together in a session that's mostly lecture. So we look for sessions that include real interactivity, and we love creative formats that support learning. Outstanding sessions might include design exercises, art and games, small-group work, role playing, even field trips—and we're always interested in new ideas.
 
-SRCCON sessions last about 75 minutes, and we encourage facilitators to think about outlines and information density. Overprogramming a session with too many activities can make it hard to reach a satisfying goal—but a session that's underdesigned can easily turn into a conversation between a handful of the loudest people. We're happy to help facilitators figure out the right balance.
+SRCCON sessions last about 75 minutes, and we encourage facilitators to think about outlines and information density. Overprogramming a session with too many activities can make it hard to reach a satisfying goal, but a session that's underdesigned can easily turn into a conversation between a handful of the loudest people. We're happy to help facilitators figure out the right balance.
 
 ## What Kinds of Sessions Can You Attend? (Or Propose!)
 
-Sessions at SRCCON explore cultural questions that help journalists work together better, new tools and techniques that people are excited about, and sessions that meet in the middle, at the intersection of technology and teams. Successful topics often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too. (And session proposers with similar themes sometimes even end up joining forces to present together.)
+Sessions at SRCCON explore cultural questions that help journalists work together better, new tools and techniques that people are excited about, and sessions that meet in the middle. Successful topics often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too. (And session proposers with similar themes sometimes even end up joining forces to present together.)
 
 Our program explores SRCCON's values from all angles. Facilitators might teach new ways of [illustrating abstract stories](https://2016.srccon.org/schedule/#_session-illustrating-investigations) or share experiments with [voice interfaces for news](https://2018.srccon.org/schedule/#_session-voice-interfaces). Attendees might support each other in [managing relationships across teams](https://2018.srccon.org/schedule/#_session-navigating-technical-communication) or developing [healthy practices in remote work](https://2016.srccon.org/schedule/#_session-remote-work). And session leaders can help our community push for change by [elevating data journalism at the local level](https://2017.srccon.org/schedule/#_session-local-data-journalism) and [sharing experiences as journalists of color](https://2018.srccon.org/schedule/#_session-young-journalists-of-color).
 
@@ -50,9 +52,13 @@ Facilitators who have a harder time have usually tried to fit too much stuff int
 * [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
 * [Teaching and Brainstorming Inclusive Technical Metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product's Nicole Zhu
 * [Stuck in a Rut? Tackle Newsroom Frustrations With Board Games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont's Seven Days
-* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/)
+* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
 
-If running a session sounds like a lot of effort…it is! But it can also be really energizing, and it means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they're willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you're pitching solo and want someone to work with you on the ground.
+If running a session sounds like a lot of effort…it is! But it can also be really energizing, and it means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they're willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you're pitching solo and would like someone to work with.
+
+If you're thinking about pitching a session for SRCCON 2019, [we'd love to hear from you](/participation/form/).
+
+<span id="previous-years"></span>
 
 ## Sessions From Previous SRCCONs
 

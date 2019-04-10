@@ -17,13 +17,13 @@ Other hotels not far from the conference venue include:
 **[Days Hotel](http://www.daysinn.com/hotels/minnesota/minneapolis/days-inn-hotel-university-ave-se/hotel-overview)**  
 .3 miles away  
 2407 University Ave SE  
-Minneapolis, MN 55414 US  
+Minneapolis, MN 55414 
 (612) 623-3999
 
 **[University Inn](http://www.universityinnmn.com/)**  
 1 mile away  
 925 4th Street SE  
-Minneapolis, MN, 55414, United States  
+Minneapolis, MN 55414
 (612) 746-1300
 
 **[Courtyard Marriott Downtown](http://courtyard.marriott.com/mspdc)**  
@@ -35,7 +35,7 @@ Minneapolis, MN 55454
 **[Aloft Minneapolis Hotel](http://www.aloftminneapolis.com/)**  
 3 miles away  
 900 Washington Avenue South  
-Minneapolis, Minnesota, 55415  
+Minneapolis, MN 55415  
 (612) 455-8400
 
 ## Room share
@@ -54,7 +54,7 @@ Transit in Minneapolis is great, but if you'll be driving, there's [a lot right 
 For folks who are coming in from outside the U.S., we recommend [the EFF’s guide to protecting your data at the U.S. border](https://www.eff.org/wp/digital-privacy-us-border-2017) for details on what to consider at the border crossing. If you need any further help or have any questions, please [email us](mailto:srccon@opennews.org).
 
 ## Food, Evenings, and More
-We want you to be happy and well-fed at SRCCON, so we’re providing breakfast and lunch on both days, as well as a delicious dinner Thursday night. We’ll also have tea, coffee, and snacks—healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
+We want you to be happy and well-fed at SRCCON, so we provide lots of snacks and lunch on both days, as well as a delicious dinner Thursday night. We’ll also have tea, coffee, and snacks—healthy and sugary—throughout the day, so stick around and enjoy the company of your fellow attendees.
 
 We'll have [a slate of activities on Thursday evening](/program/#our-evening-program), and you can learn more about [the many ways to participate](/participation) in SRCCON, before, during, and after the event!
 
