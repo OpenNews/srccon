@@ -6,9 +6,11 @@ permalink: /childcare/
 
 <p class="big-lead">We offer free childcare for the duration of the SRCCON program and welcome families of all sizes.</p>
 
-# Childcare at SRCCON
+# Childcare and Caretaking
 
 We are offering free childcare throughout the full SRCCON schedule (including Thursday evening). Our providers are the wonderful [KiddieCorp](https://www.kiddiecorp.com/)  team, whom we welcome back for their fifth year at SRCCON.
+
+For the first time this year, we're also offering one scholarship of $500 for caretaking-related costs. (Either to bring your loved ones to Minneapolis, or help care for them back home while you're at the conference.) There is a question on the call for participation form to apply for this scholarship.
 
 ## Our Care Providers
 
