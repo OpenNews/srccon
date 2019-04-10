@@ -6,7 +6,7 @@ photocredit_url: http://www.westraco.com/
 permalink: /scholarships/
 ---
 
-<p class="big-lead">We don&rsquo;t want cost to prevent you from coming to SRCCON, which is why we work to keep ticket prices low. To help defray the cost of attending SRCCON, OpenNews offers a limited number of travel scholarships.</p>
+<p class="big-lead">We don&rsquo;t want cost to prevent you from coming to SRCCON, which is why we work to keep ticket prices low. To help defray the cost of attending, OpenNews offers a limited number of travel scholarships.</p>
 
 # Scholarships for SRCCON 2019
 
@@ -33,7 +33,7 @@ The application is part of our [call for participation form](/participation/form
 Notifications for scholarships will go out alongside other notifications as part of the call for participation. You'll hear from us by May 10.
 
 ## What Happens After SRCCON
-You tell us how it went! We&rsquo;ll send you a short followup survey and will be excited to check out any blog posts or code repos that come out of your participation at SRCCON.
+You tell us how it went! We&rsquo;ll send you a short followup survey and will be excited to check out anything you write or build coming out of your participation at SRCCON.
 
 ## Why Are You Offering This Scholarship?
 We want to make sure that SRCCON is an event that includes the diversity of the communities we serve&mdash;geographically, demographically, experientially, and more. We know that travel costs can be a hardship, and offer this scholarship as a way to help mitigate that.

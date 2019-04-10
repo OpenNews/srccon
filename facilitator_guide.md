@@ -59,7 +59,7 @@ Facilitators don't need to come in with all the answers. You're there to guide d
 * **End of May:** We'll ask you for any supply and scheduling needs you might have.
 * **Early June:** We'll offer an optional checkin with a volunteer facilitator coach who has led sessions at SRCCON before.
 * **Throughout June:** We'll check in regularly, on a timeline you can use for outlining your session and updating your title and description.
-* **Mid-June:** We'll build this year's schedule and let you know about time slots and room assignments.
+* **Late June:** We'll build this year's schedule and let you know about time slots and room assignments.
 * **SRCCON week:** On the Wednesday night before SRCCON begins, we'll hold a facilitator welcome session at the venue for anyone who'd like to attend.
 
 <span id="planning"></span>
@@ -126,7 +126,7 @@ How you use your time is completely up to you. While you won't need a script lik
  
 ### Will My Session Be Recorded?
  
-SRCCON works with [White Coat Captioning](http://www.whitecoatcaptioning.com/) to provide live transcriptions in about half our sessions each year. This [helps some people at the conference](https://opennews.org/blog/srccon-transcription/) track conversations more easily, and allows additional people to participate remotely. It also provides a great record of sessions that have taken place [in previous years](https://2017.srccon.org/transcription/).
+SRCCON works with [White Coat Captioning](http://www.whitecoatcaptioning.com/) to provide live transcriptions in many of our sessions each year. This [helps some people at the conference](https://opennews.org/blog/srccon-transcription/) track conversations more easily, and allows additional people to participate remotely. It also provides a great record of sessions that have taken place [in previous years](https://2017.srccon.org/transcription/).
  
 As we build the conference schedule, we'll decide which session formats will translate well into transcription, and we'll let you know in advance if there will be a transcriptionist in your room. If there is, you can always ask participants to note "off the record" before speaking if they'd like the transcriptionist to pause their work. Or if you'd prefer your session to be off the record entirely, that's not a problem—we'll make sure your session isn't transcribed at all.
 
@@ -177,6 +177,7 @@ In your sessions and outside them, the SRCCON staff will fully support you in ma
 * [How we facilitated a huge, participatory, highly charged SRCCON session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
 * [Teaching and brainstorming inclusive technical metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product’s Nicole Zhu
 * [Stuck in a rut? Tackle newsroom frustrations with board games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont’s Seven Days
+* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
 * [Behind the decisions that help make SRCCON, and your sessions, more humane](http://opennews.org/blog/srccon-human-stuff/)
 * [Our favorite facilitation guide from AORTA Coop](http://aorta.coop/portfolio_page/facilitation-in-motion/)
 * [Tips from our friends at Aspiration Tech about running a breakout session](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Break-Outs)
@@ -188,6 +189,7 @@ In your sessions and outside them, the SRCCON staff will fully support you in ma
 
 We archive each year's conference site and schedule, so if you'd like to take a look back at the topics we've tackled before, dig in!
 
+* [SRCCON 2018](https://2018.srccon.org/schedule/)
 * [SRCCON 2017](https://2017.srccon.org/schedule/)
 * [SRCCON 2016](https://2016.srccon.org/schedule/)
 * [SRCCON 2015](https://2015.srccon.org/schedule/)

@@ -31,6 +31,7 @@ Here, we've gathered some writing about how we create these inclusive, participa
 * [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/)
 * [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/)
 * [3 Ways to Facilitate a Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/)
+* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/)
 * [Five Things We've Learned About Sessions](http://opennews.org/blog/srccon-top5)
 * [How to Plan a Great SRCCON Session](http://opennews.org/blog/srccon-session-planning)
 * [Why We Wrote Our SRCCON Proposals Guide](https://opennews.org/blog/srccon-proposal-guide/)

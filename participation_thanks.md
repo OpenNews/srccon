@@ -10,7 +10,7 @@ permalink: /participation/thanks/
 
 We're excited to hear you'd like to be at SRCCON, and we’ll follow up with you soon!
 
-Do you have a colleague who would be interested in or benefit from joining us in Minneapolis on July 11 & 12? Please ask them to apply! We hugely appreciate help reaching beyond our own networks, and personal recommendations have been a major part of what helps new folks find out about our events and brings more people into the community.
+Do you have a colleague who would be interested in or benefit from joining us in Minneapolis on July 11 & 12? Please ask them to apply! We hugely appreciate help reaching beyond our own networks, and personal recommendations are one of the best ways to help new folks find out about our events and bring more people into the community.
 
 Between now and then, here are a couple of key dates in the SRCCON process:
 

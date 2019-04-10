@@ -10,13 +10,13 @@ permalink: /program/
 
 # The SRCCON Program
 
-SRCCON is a hands-on conference with two days full of sessions—but the schedule is just where our program begins. [Every attendee is also a participant](/participation) who brings their own interests and experiences into sessions, emergent conversations, our evening activities, and gatherings built around SRCCON.
+SRCCON is a hands-on conference with two days full of sessions—but the schedule is only where our program begins. [Every attendee is also a participant](/participation) who brings their own interests and experiences into sessions, emergent conversations, our evening activities, and gatherings during SRCCON.
 
 ## Our Sessions
 
 SRCCON is built around peer-led conversations and hands-on workshops. Our sessions are highly collaborative, not a panel on a stage or a speaker running through slides. We look for sessions that include real [interactivity and participation](/participation): design exercises, art and games, small-group work, role playing, even field trips—and we're always interested in new ideas.
 
-SRCCON sessions last about 75 minutes, exploring cultural questions that help journalists work together better, new tools and techniques that people are excited about, and sessions that meet in the middle, at the intersection of technology and teams. Our schedule regularly extends beyond what you might expect at a journalism conference—take a look at [previous years](/sessions/about/#previous-years), learn more about [how sessions work](/sessions/about/), or [propose your own for this year's program](/participation/form/)!
+SRCCON sessions last about 75 minutes, exploring cultural questions that help journalists work together better, new tools and techniques that people are excited about, and sessions that meet in the middle. Our schedule regularly extends beyond what you might expect at a journalism conference—take a look at [previous years](/sessions/about/#previous-years), learn more about [how sessions work](/sessions/about/), or [propose your own for this year's program](/participation/form/)!
 
 Our program for SRCCON is built around key community values:
 
@@ -24,11 +24,11 @@ Our program for SRCCON is built around key community values:
 * **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
 * **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
 
-If you'd like to facilitate a session at SRCCON, we have [a Proposal Guide written just for you](/sessions/proposal-guide/)!
+If you'd like to facilitate a session at SRCCON, we have [a guide to session proposals written just for you](/sessions/proposal-guide/)!
 
 ## Our Schedule
 
-SRCCON is also organized around building connections between participants. We want you to be able to fully focus on taking part—not just in the sessions on the official schedule, but in all the great conversations in hallways and after hours that make an event memorable. So we build in generous breaks to let you chat or grab coffee or tea without feeling rushed getting to the next thing. We provide a full breakfast and lunch both days, with space to chill out or make plans with new friends. Dinner and our Thursday evening program are a chance to spend time with people in more relaxed space.
+SRCCON is also organized around building connections between participants. We want you to be able to fully focus on taking part—not just in the sessions on the official schedule, but in all the great conversations in hallways and after hours that make an event memorable. So we build in generous breaks to let you chat or grab coffee or tea without feeling rushed getting to the next thing. We provide lots of snacks and full lunches both days, with space to chill out or make plans with new friends. Dinner and our Thursday evening program are a chance to spend time with people in more relaxed space.
 
 ## Emergent Conversations
 

@@ -9,7 +9,7 @@ permalink: /index.html
 
 <h1 style="font-size: 1.9em;">Our Call for Participation is Open!</h1>
 
-We’ll be accepting proposals through Wednesday, April 24 at 11:59pm ET.
+We’ll be accepting proposals through Wednesday, April 24, at 11:59pm ET.
 
 Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone by May 10. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $225 plus fees](/participation/#a-new-approach-to-ticket-prices).
 
@@ -31,11 +31,11 @@ Once tickets are sold, we'll be opening up a discounted block of rooms for parti
 
 ## About SRCCON
 
-SRCCON is a hands-on conference, full of conversations and workshops focused on the practical challenges that news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Over two-days, 300 attendees will gather for dozens of sessions that reflect the values of this community:
+SRCCON is a hands-on conference, full of conversations and workshops focused on the practical challenges that news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Over two days, 300 attendees will gather for dozens of sessions that reflect the values of this community:
 
 * **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
 * **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
-* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC.
+* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
@@ -43,11 +43,11 @@ SRCCON is a hands-on conference, full of conversations and workshops focused on 
 
 The majority of SRCCON participants are the developers, designers, journalists, and editors who collaborate on open technologies and processes within journalism. Participants come to SRCCON because they are working to change journalism for the better, whether that be pushing for more inclusive processes, bringing outside technical perspectives into the newsroom, or developing new ways to engage and inform readers.
 
-Our participants represent organizations ranging from massive to tiny, and come from all over the US and many other countries. Each year, we particularly welcome journalists and allies from the city hosting SRCCON, and we offer [live session transcripts and tons of documentation](https://2018.srccon.org/documentation/) for those who can't attend in person.
+Our participants represent organizations ranging from massive to tiny, and come from all over the U.S. and many other countries. Each year, we particularly welcome journalists and allies from the city hosting SRCCON, and we offer [live session transcripts and tons of documentation](https://2018.srccon.org/documentation/) for those who can't attend in person.
 
 ## Contact Us
 
-To get information about tickets, our call for proposals and other SRCCON-related info and news, sign up for the OpenNews notification list:
+To get information about tickets, our call for participation and other SRCCON-related info and news, sign up for the OpenNews notification list:
 
 <!-- Begin MailChimp Signup Form -->
 <style type="text/css">

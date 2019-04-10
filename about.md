@@ -28,8 +28,8 @@ We welcome about 300 attendees, and everyone at SRCCON actively participates, wh
 
 ## What It's Like at SRCCON
 
-* **Meals (and snacks) are provided.** It's easier to get the most out of an event when you don't have to wonder when you'll get a chance to eat. We provide some meals on both conference days, including a delicious dinner Thursday night. We’ll also have tea, coffee, and plenty of snacks—healthy and sugary, both—throughout the day.
-* **Every attendee is a peer.** Our conference badges don’t flag organizations or speaker status—we’re all here to learn from each other.
+* **Meals (and snacks) are provided.** It's easier to get the most out of an event when you don't have to wonder when you'll get a chance to eat. We provide lunches on both conference days, and a delicious dinner Thursday night. We’ll also have tea, coffee, and plenty of snacks—healthy and sugary, both—throughout the day.
+* **Every attendee is a peer.** Our conference badges don’t flag organizations or speaker status. We’re all here to learn from each other.
 * **There's space set aside for work.** We hope you'll be able to fully engage with the community at SRCCON, but we know that deadlines and projects back home don't magically disappear when you get to Minneapolis. If you need to get a few things done, we have some open work space in the venue.
 * **We offer financial assistance.** We offer a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. 
 * **Many sessions have live transcription.** We work with [White Coat Captioning](http://www.whitecoatcaptioning.com/) to provide live transcription of a portion of SRCCON sessions and all group talks.
