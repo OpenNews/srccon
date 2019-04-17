@@ -39,6 +39,7 @@ Our sessions inhabit these values in different ways, through structured discussi
 * **April 24:** call for participation closes at 11:59pm ET
 * **May 10:** all proposers notified about status of their sessions
 
+As you're finalizing your session proposal, in addition to this guide we have a [handy walkthrough of the call for participation form itself](https://opennews.org/blog/srccon2019-participation-howto/)!
     
 ## Our Session Review Process
 

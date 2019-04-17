@@ -14,9 +14,9 @@ SRCCON is a hands-on conference with two days full of sessions—but the schedul
 
 ## Our Sessions
 
-SRCCON is built around peer-led conversations and hands-on workshops. Our sessions are highly collaborative, not a panel on a stage or a speaker running through slides. We look for sessions that include real [interactivity and participation](/participation): design exercises, art and games, small-group work, role playing, even field trips—and we're always interested in new ideas.
+SRCCON is built around peer-led conversations and hands-on workshops. Our sessions are highly collaborative, not a panel on a stage or a speaker running through slides. We look for sessions that include real [interactivity and participation](/participation): design exercises, art and games, small-group work, role playing, even field trips—and we're always interested in new ideas. 
 
-SRCCON sessions last about 75 minutes, exploring cultural questions that help journalists work together better, new tools and techniques that people are excited about, and sessions that meet in the middle. Our schedule regularly extends beyond what you might expect at a journalism conference—take a look at [previous years](/sessions/about/#previous-years), learn more about [how sessions work](/sessions/about/), or [propose your own for this year's program](/participation/form/)!
+SRCCON sessions last about 75 minutes, exploring cultural questions that help journalists work together better, new tools and techniques that people are excited about, and sessions that meet in the middle. Our schedule regularly extends beyond what you might expect at a journalism conference—take a look at [previous years](/sessions/about/#previous-years), learn more about [how sessions work](/sessions/about/), or check out the [proposals we've already received](/sessions/proposals/) for 2019!
 
 Our program for SRCCON is built around key community values:
 
@@ -24,7 +24,7 @@ Our program for SRCCON is built around key community values:
 * **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
 * **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
 
-If you'd like to facilitate a session at SRCCON, we have [a guide to session proposals written just for you](/sessions/proposal-guide/)!
+If you'd like to facilitate a session at SRCCON, we have [a guide to session proposals written just for you](/sessions/proposal-guide/), and a question-by-question [walkthrough of the call for participation form itself](https://opennews.org/blog/srccon2019-participation-howto/) to help you tell us all about your idea.
 
 ## Our Schedule
 
