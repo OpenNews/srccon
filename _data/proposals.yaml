@@ -1,6 +1,52 @@
 [
     {
         "cofacilitator": null, 
+        "description": "Work/life balance is impossible - most of us \"work\" more than we \"life,\" and a lot of us are lucky enough to love that work. Trying to balance it all leads to burnout, resentment and ideals and expectations that never get met. There's a better metaphor, one that takes into account all the elements of your life, helps you figure out what drives you and come up with strategies to protect it. It's called work/life chemistry.", 
+        "facilitator": "Kristen Hare", 
+        "facilitator_twitter": "@kristenhare", 
+        "id": 2354629, 
+        "submitted_at": "2019-04-22T15:46:12.489Z", 
+        "title": "Work/Life Balance is a myth. Try this instead."
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "What happens when you post your code to GitHub and people actually start using it?\n\nWhat makes for success in open source? How can you get your code noticed? Encourage contributions? Develop process? Reap the rewards of thousands of users using, testing and PR-ing to your work?\n\nBut also: what happens when it goes too far? How do you manage the chaos? Set expectations? Ensure you \"code\" responsibly (oh, and leave enough time for your day job)?", 
+        "facilitator": "Jared Novack", 
+        "facilitator_twitter": "jarednova", 
+        "id": 2354624, 
+        "submitted_at": "2019-04-22T15:20:33.960Z", 
+        "title": "Great/Terrible News! Everyone's Using Your Open Source Library!"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Let's sketch out the boundaries of our collective newsroom practices in working with documents.  One document or many, many, _many_ documents – there is much to talk about in how we help with the work.  Our expectations may touch on vocabulary, degrees of technological sophistication, project scale, evergreen collections, learning curves, workflows, etc. I'd love to discuss supporting shared tools, custom approaches and the inherent challenge that unites any doc-rich project:  \"wow, that's a lot of documents, where do we start?\"  (Are we looking for ammo to help guide own newsroom?  Yes, we are.  And we could really use your help!)", 
+        "facilitator": "Tiff Fehr", 
+        "facilitator_twitter": "tiffeh", 
+        "id": 2353982, 
+        "submitted_at": "2019-04-20T03:22:23.997Z", 
+        "title": "Let's Find the Boundaries of our Documents Practices"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "We often come across percentages in journalism, simple numbers that convey a powerful amount of information. But a percentage can obscure crucial information. If one ZIP code has 30 homeless individuals out of 100, and another has 30,000 homeless out of 100,000, the percentages indicates similarity, but the two geographies will have vastly different times dealing with the homeless population. When looking at a list of percentages, we should endeavor to find those that are distinct. Tools from statistical theory can help us tease out what's unusual and what isn't. It doesn't require much complicated math, just a little algebra.", 
+        "facilitator": "Ryan Menezes", 
+        "facilitator_twitter": "ryanvmenezes", 
+        "id": 2353889, 
+        "submitted_at": "2019-04-19T21:42:57.842Z", 
+        "title": "We should rethink the way we think about percentages"
+    }, 
+    {
+        "cofacilitator": "Dave Stanton", 
+        "cofacilitator_twitter": null, 
+        "description": "Conferences may be educational and inspirational for you, but also expanding value to your team and organization should be at the top of your mind. Having a process to help in preparing, attending, and post-event knowledge sharing can help focus your attention to maximize the time you spend at conferences. In this session, we will define the common types of conference attendees and map to activities before, during, and after conferences to provide a solid framework for making conferences a must-fund part of your team’s budget. If you’ve ever come back from an event inspired and excited, but unsure how to take the next step, this session is for you.", 
+        "facilitator": "Emma Carew Grovum", 
+        "facilitator_twitter": "Emmacarew", 
+        "id": 2353845, 
+        "submitted_at": "2019-04-19T19:25:31.582Z", 
+        "title": "Bang for your buck: how to help your newsroom get the most out of SRCCON (or any journalism event)"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "Diversity initiatives are popping up in most companies these days. Newsrooms are talking about gender and race representation, re-examining how we cover stories and how we create space for employees of all genders and races. We laud ourselves for being aware and being inclusive. However, noticeably missing from the conversation, at least for those who identify as such, are people with disabilities. \n\nThe New York Times has employee lead initiatives to help correct that. From the tech task force that turned into a team designated with making our site more accessible, to the internal panel on employees with disabilities that turned into an employee resource group the disabled community and their allies at the times are standing up and taking space. \n\nDuring this session we will examine how the disability community is represented in newsrooms and institutions, discuss what has been done, and set a framework for how to take action now. We will work together to figure out what ally-ship looks like and what it means for diversity initiatives to include people with disabilities, and how they miss the mark when they don’t -- both for employees and our coverage.", 
         "facilitator": "Katherine McMahan", 
         "facilitator_twitter": "katieannmcmahan", 
