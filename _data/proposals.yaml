@@ -1,6 +1,25 @@
 [
     {
         "cofacilitator": null, 
+        "description": "The work of journalists, therapists and clergy can look very similar: \n- Listening intently \n- Suspending judgment or at least trying to remain objective\n- Searching for truth\n- Being fair-minded\n- Synthesizing complex information to find meaning\n- Encouraging people to right wrongs and move forward\n\nWe don't of course talk about our jobs as being in a continuum of healing alongside these other professions. But what might we learn if we did? Also: what might we learn from how we bring our spiritual practices to work, or transform our work into a spiritual practice. At this session, bring on the woo-woo and the heart.", 
+        "facilitator": "Jennifer Brandel", 
+        "facilitator_twitter": "@JenniferBrandel", 
+        "id": 2355195, 
+        "submitted_at": "2019-04-23T19:14:45.608Z", 
+        "title": "The Spiritual Dimensions of Journalism"
+    }, 
+    {
+        "cofacilitator": "Carolyn Gearig (and potentially another person from another newsletter)", 
+        "cofacilitator_twitter": null, 
+        "description": "We’ve made dozens of iterations on our daily e-mail newsletters because of user feedback and resource constraints, business considerations and technological and design efficiency. To get smarter about what our users want and how we can work more efficiently to give it to them, we’ve used the “Jobs To Be Done” framework to define what each newsletter section does for our users. We asked several other newsletter writers we admire how they would use the Jobs To Be Done framework for their newsletters, and here’s what we learned.", 
+        "facilitator": "Anika Anand", 
+        "facilitator_twitter": "anikaanand00", 
+        "id": 2355173, 
+        "submitted_at": "2019-04-23T19:43:51.519Z", 
+        "title": "How to iterate on a newsletter product with a \"Jobs To Be Done\" framework"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "At most organizations, different departments all work on different timelines. News may think 36 hours is a long time, video features may think of a month as a short turnaround, and fundraising or ad sales needs to know NOW what is happening.\n\nHow do you balance the interests of a news team that makes last-minute decisions and works with a quick turnaround? How do you keep everyone in the know without compromising programming deadlines and managing time and resources? \n\nLearn how public radio's Science Friday successfully implemented an organization-wide editorial calendar and discover new tools to implement your own.", 
         "facilitator": "Christian Skotte", 
         "facilitator_twitter": "el_skootro", 
@@ -172,6 +191,16 @@
         "id": 2351440, 
         "submitted_at": "2019-04-15T17:27:09.359Z", 
         "title": "Assembling the Scramble Suit"
+    }, 
+    {
+        "cofacilitator": "Brittany Mayes", 
+        "cofacilitator_twitter": null, 
+        "description": "Over the past few decades, newsroom technologists have pushed the field of journalism forward in countless ways. As we approach a new decade, and arguably a new era of digital journalism, how must newsroom technologists evolve to meet new needs? And how do we center technology in a newsroom while also fixing the problems news organizations have long had regarding diversity, representing their communities, speaking to their audiences, etc.?\n\nIn this session, we will start with a set of hypotheses to seed discussion.\n\nFor journalism to succeed in the next decade:\n- Newsroom technologists must have real power in their organizations.\n- Experimentation and product development must be central to how a newsroom operates.\n- News organizations must be radically inclusive of their communities.\n- Cultivating positive culture and interpersonal relationships is key to developing sustainable newsrooms.\n\nGiven these hypotheses, what skills do we need to grow in newsroom technologists? What must we think about more deeply in our daily work? What tools do we need to develop? How must this community evolve? Together, let’s brainstorm these questions and leave with ideas to explore and deepen newsroom technology and culture beyond SRCCON.", 
+        "facilitator": "Tyler Fisher", 
+        "facilitator_twitter": "tylrfishr", 
+        "id": 2349146, 
+        "submitted_at": "2019-04-23T19:24:16.957Z", 
+        "title": "Designing the next phase for newsroom technologists"
     }, 
     {
         "cofacilitator": null, 
