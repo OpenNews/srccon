@@ -1,6 +1,43 @@
 [
     {
         "cofacilitator": null, 
+        "description": "From photo inundation in stories about social media, to seemingly “visual-less” financial reporting, how do you spot a visual story? We’re interested in everything from photo/illustration, graphics, interactives, and online audio productions. We’ll share a few examples for inspiration to kick off discussion, but we’re mainly interested in hearing from everyone how they keep generate ideas and how they read drafts for potential. How do you think about the visual purpose? E.g. visuals as evidence, for empathy, or an emotional journey? We also want to hear everyone’s favorite tactics for visual research: how to get the visuals or the information to make them, from crowd-sourcing, open datasets, records requests, Google Earth, to interview tips. Finally, as we all know, visual stories tend to take more time than standard stories. What’s your process? How does your newsroom think about planning, setting expectations, and scoping (and the fact that it’s possible to rush edit a half-finished text into publishable form in a day if needed but not possible to hack a half-finished code project into functional form in a day)?", 
+        "facilitator": "agnes chang", 
+        "facilitator_twitter": null, 
+        "id": 2355071, 
+        "submitted_at": "2019-04-23T15:03:58.229Z", 
+        "title": "How to spot and ship visual stories"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Journalism can feel like a bit much in this social media age, but it doesn't have to be. How can you promote meaningful, ethical, public powered journalism in a sea of noise? What needs to change about focus and culture in journalism? This session will attempt to answer those questions and exchange ideas.", 
+        "facilitator": "Alex Veeneman", 
+        "facilitator_twitter": "alex_veeneman", 
+        "id": 2355068, 
+        "submitted_at": "2019-04-23T15:10:38.870Z", 
+        "title": "Ethical journalism in an information overload age"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "What if your audience could give you data on the issues you’re reporting on? Whether it’s investigating pollution levels in a community by using air quality monitors, or figuring out how stressed out we feel about politics by doing saliva tests, or tracking the urban heat island effect using temperature and humidity sensors. \n\nA research partner is indispensable, and the results are somewhere between journalism and science. But the experience can reveal the inner workings of scientific research.  It’s engagement where you — usually along with your audience — explore in a hands-on way the ideas you’re covering in your stories. \n\nI’ll dig into the challenges and joys of partnering with researchers, and the thrills and frustrations in reporting on data from an activity you organized. \n\nI'd also guide them through a brainstorming on a scientific or research collaboration they might do. Everyone will then share their projects and get some feedback.", 
+        "facilitator": "Elaine Chen", 
+        "facilitator_twitter": "elainejchen", 
+        "id": 2355024, 
+        "submitted_at": "2019-04-23T14:48:42.547Z", 
+        "title": "Citizen Science As Engagement"
+    }, 
+    {
+        "cofacilitator": "Kevin O'Gorman", 
+        "cofacilitator_twitter": null, 
+        "description": "SecureDrop is an open source whistleblowing platform under the stewardship of the Freedom of the Press Foundation. It’s designed for the most extreme Internet surveillance conditions imaginable, to protect the privacy and anonymity of whistleblowers who use it. Source protection, however, is dependent on several factors before and after a document is leaked to the press. In this session, we discuss what some of those factors are, and the challenge of creating a guide for potential sources to using SecureDrop with these external factors in mind.", 
+        "facilitator": "David Huerta", 
+        "facilitator_twitter": "huertanix", 
+        "id": 2354829, 
+        "submitted_at": "2019-04-22T22:49:46.448Z", 
+        "title": "The Impossible Task of Creating a SecureDrop Whistleblower Guide in 2019"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "Work/life balance is impossible - most of us \"work\" more than we \"life,\" and a lot of us are lucky enough to love that work. Trying to balance it all leads to burnout, resentment and ideals and expectations that never get met. There's a better metaphor, one that takes into account all the elements of your life, helps you figure out what drives you and come up with strategies to protect it. It's called work/life chemistry.", 
         "facilitator": "Kristen Hare", 
         "facilitator_twitter": "@kristenhare", 
@@ -99,6 +136,15 @@
         "id": 2353430, 
         "submitted_at": "2019-04-18T19:38:56.833Z", 
         "title": "The Geeks Won: Now What?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Innovation is freedom to experiment. Innovation is creative and fast. Innovation is not production. Innovation in the newsroom is all of those things for BBC News Labs. As News Labs grew from a small experimental team to a full multidisciplinary team, the flexibility of \"innovation\" reduced our ability to communicate with each other. Will innovation be restricted by structure, when it demands flexibility to try out ideas? Is cultural change possible when the ideology of the team is synonymous to what is problematic? This session will explore these questions and how re-introducing structure - Objective Key Results (OKRs) - helped us break silos in our team.", 
+        "facilitator": "Eimi Okuno", 
+        "facilitator_twitter": "emettely", 
+        "id": 2353162, 
+        "submitted_at": "2019-04-23T14:31:55.994Z", 
+        "title": "Breaking silos - how OKRs helped our team communicate and drive innovation"
     }, 
     {
         "cofacilitator": null, 
