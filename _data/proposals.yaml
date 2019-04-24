@@ -1,5 +1,63 @@
 [
     {
+        "cofacilitator": "Alex Tatusian", 
+        "cofacilitator_twitter": null, 
+        "description": "Sometimes the well of ideas runs dry and we find ourselves stuck in a creative rut. If we can't move past it, let's try thinking sideways. Drawing inspiration from Peter Schmidt and Brian Eno's Oblique Strategies, a card-based system that offers pithy prompts for creative thinking, we'll discuss ways to shift our perspective in the process of brainstorming, designing and problem-solving. Some of Schmidt and Eno's one-line strategies include:\n\n\"Not building a wall but making a brick.\"\n\"Go to an extreme, move back to a more comfortable place.\"\n\"You can only make one dot at a time.\"\n\nWe'll look at projects that emerged from unconventional sources of inspiration, share our favorite methods of breaking creative block and then develop our own list of \"oblique strategies\" that we'll publish online after the session.", 
+        "facilitator": "Katie Park", 
+        "facilitator_twitter": "katiepark", 
+        "id": 2355668, 
+        "submitted_at": "2019-04-24T19:17:08.293Z", 
+        "title": "\"Abandon normal instruments\": Sideways strategies for defeating creative block"
+    }, 
+    {
+        "cofacilitator": "Quyen Ngo", 
+        "cofacilitator_twitter": null, 
+        "description": "You've acquired the skills you came to learn, now what? Brown bag it? Demo? Lecture...? In this interactive session, you'll learn how to use techniques from the classroom to teach and engage your team or workshop participants. This session will give you the tools to teach anyone, anything, anywhere.", 
+        "facilitator": "Kathy Trieu", 
+        "facilitator_twitter": null, 
+        "id": 2355661, 
+        "submitted_at": "2019-04-24T19:02:59.261Z", 
+        "title": "From the Classroom to the Newsroom"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Let's all show each other our CMSes and workflows! A lineup of people involved in the development or operation of their CMS demos several key workflows and how different newsroom users accomplish the same tasks. Each demo will follow the same structure and show the same tasks for easy comparability.", 
+        "facilitator": "Albert Sun", 
+        "facilitator_twitter": "@albertsun", 
+        "id": 2355631, 
+        "submitted_at": "2019-04-24T17:41:35.936Z", 
+        "title": "Mutual CMS Demos"
+    }, 
+    {
+        "cofacilitator": "Jaimi Dowdell", 
+        "cofacilitator_twitter": null, 
+        "description": "Teaching data journalism in newsrooms and at universities has forced us to come up with creative techniques. We wrote The SQL Song to help one group of boot camp attendees understand the order of commands. In an attempt to help students fine-tune their programs, we did a game show called Query Cash. To make string functions make more sense, we’ve created silly, but useful performances. To make this session interactive, we propose inviting attendees to bring their ideas. We also will pose some problems and have teams work out creative solutions.", 
+        "facilitator": "Jennifer LaFleur", 
+        "facilitator_twitter": "@j_la28", 
+        "id": 2355574, 
+        "submitted_at": "2019-04-24T16:28:15.813Z", 
+        "title": "Creative ways to teach complex issues"
+    }, 
+    {
+        "cofacilitator": "Amanda Yarnell", 
+        "cofacilitator_twitter": null, 
+        "description": "At SRCCON:WORK, I talked about re-building our newsroom org charts to reflect the work we’re doing today and to prepare us for where we’re going. Joined now with C&EN’s editorial director, Amanda Yarnell, we’ll show you how we built a product team and re-structured our newsroom around it in one year. \n\nIf you’re interested in building a newsroom-wide roadmap, streamlining and prioritizing newsroom ideas, creating and managing a sprint-based product team, and growing stakeholder alignment across business units, join us. In this session, we’ll share our blueprint, our successes, and our challenges, so you can do it faster.", 
+        "facilitator": "Jessica Morrison", 
+        "facilitator_twitter": "ihearttheroad", 
+        "id": 2355555, 
+        "submitted_at": "2019-04-24T16:39:02.638Z", 
+        "title": "How to re-org your newsroom around product without breaking it"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Technology intersects with nearly every aspect of our lives, and based on the number of digital sabbath services and \"I'm leaving social media for good this time (probably!)\" posts that have been published, our relationship to technology feels out of control. \n\nBut our brains aren't what's broken, they're working exactly as they evolved to work. Technology has just evolved much, much faster. And that tech is affecting our emotional and physiological well being. Media companies and platforms have capitalized on our innate psychological and neurological vulnerabilities to make money and keep us hooked. But there have to be better ways to build community and share information on the web. Let's dig into the systemic issues (cough, capitalism) that have led to tech that makes us miserable and then design/brainstorm what humane platforms could look like.", 
+        "facilitator": "Kaeti Hinck", 
+        "facilitator_twitter": "kaeti", 
+        "id": 2355551, 
+        "submitted_at": "2019-04-24T16:28:29.461Z", 
+        "title": "Ghosts in the Machine: How technology is shaping our lives and how we can build a better way"
+    }, 
+    {
         "cofacilitator": null, 
         "description": "A conversation about incident management in a cloud centric world.  Why it's important, how to be prepared, all while having fun and learning new things (like knots).\n\nHow leveraging experience as a volunteer firefighter, along with years of service within technology led to the blending of both worlds.  Inspired by the National Incident Management System (NIMS), we created an Incident Management Process for The New York Times and fun ways to learn about it.", 
         "facilitator": "David Porsche", 
@@ -7,6 +65,25 @@
         "id": 2355548, 
         "submitted_at": "2019-04-24T15:50:27.901Z", 
         "title": "The Website is Knot Down:  An interactive, hands-on approach to Incident Management readiness @ NYT"
+    }, 
+    {
+        "cofacilitator": "Disha Raychaudhuri", 
+        "cofacilitator_twitter": "Disha_RC", 
+        "description": "In recent years, many news organizations have published their diversity reports to educate folks in the industry about their challenges with diversity and to indicate that they are taking newsroom diversity seriously. This has also led to a number of conversations in the Journalists of Color slack and at other in-person settings about diversity committees at news organizations trying to figure out what their diversity report should cover and how they can convince management to publish effective indicators of diversity.\n\nIn this session we would like to facilitate a conversation around the topic of diversity reports. We will start with a quick survey of recent diversity reports published by prominent journalism outlets and then move to a discussion/group activity to work out what measures should be included in diversity reports to further the actual goals of increasing diversity in newsrooms.", 
+        "facilitator": "Moiz Syed", 
+        "facilitator_twitter": "moizsyed", 
+        "id": 2355357, 
+        "submitted_at": "2019-04-24T18:24:32.225Z", 
+        "title": "State of Newsroom Diversity Reports"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Journalism is a tougher job mentally than most people realize. Deadlines and the high-pressure to achieve perfection are part of it. But we are often on the front lines in experiencing the worst of humanity. Lately, we're targets simply for doing our job. Now, more than ever, we need each other.\n\nWe can take a moment to lean on each other to discuss tips for taking care of our mental health, from simple ideas such as developing good habits in our self-care to deeper situations which may involve medical help. What are the signs to be aware of? What safety nets exist for us to turn to? How can we be a good colleague in making sure those struggling around us are not being ignored? \n\nIn this off-the-record session, let's share our shoulders for crying and our personal stories for inspiration.", 
+        "facilitator": "Erin Brown", 
+        "facilitator_twitter": "embrown", 
+        "id": 2355346, 
+        "submitted_at": "2019-04-24T18:32:04.044Z", 
+        "title": "Developing good habits in our self-care"
     }, 
     {
         "cofacilitator": null, 
@@ -86,6 +163,25 @@
         "title": "Engineering Beyond Blame"
     }, 
     {
+        "cofacilitator": "Karissa Cummings", 
+        "cofacilitator_twitter": null, 
+        "description": "Many members of underrepresented groups in engineering — women, people of color, LGBTQ individuals, and others — find themselves on agile teams where they are the only member of their or, indeed, any minority group. \n\nEfforts to recruit, retain, and advance more underrepresented people in engineering are critical, as are ongoing unconscious bias and psychological safety trainings. But in the meantime, there are some straightforward practices engineering teams can adopt immediately that, on the surface, have more to do with building a strong, healthy engineering culture than encouraging underrepresented engineers to thrive — but whose result is just that. One of us, an engineer, learned this through observing and reflecting on the practices of the all-male team where she made meaningful contributions and grew from a junior to a mid-level engineer. The other of us, a program manager and a leader of an interest group for Women in Tech, has experienced both teams that did and didn’t do this well. We’ll share our experience and engage in exercises and conversation to exchange ideas on what others have seen that works and doesn’t. You’ll leave this workshop with actionable ideas to bring back to your team.", 
+        "facilitator": "Jacquelyn Wax", 
+        "facilitator_twitter": null, 
+        "id": 2355129, 
+        "submitted_at": "2019-04-24T16:49:57.365Z", 
+        "title": "So you’re the minority on your team: Building an agile team where anyone can thrive"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "In many newsrooms, analytics are a reactive tool. We propose a more proactive method: treating analytics as real-time results of intentional editorial experiments. That takes a mindset shift, from waiting for answers to actively searching for them. \n\nIn this session, we’ll start with a short presentation on some of the innovative ways newsrooms have used data for experimentation. Then we’ll break into small groups to build out our newsroom experiments using Mad Libs-style brainstorming. The more unusual the ideas, the better; we want this discussion to throw out any constraints you’ve felt in the role analytics *should* play and think about other ways you *can* use analytics to improve your newsroom processes.", 
+        "facilitator": "Shirley Qiu", 
+        "facilitator_twitter": "callmeshirleyq", 
+        "id": 2355102, 
+        "submitted_at": "2019-04-24T18:40:22.790Z", 
+        "title": "Fill in the blanks: Designing newsroom experiments using analytics"
+    }, 
+    {
         "cofacilitator": "Akil Harris", 
         "cofacilitator_twitter": null, 
         "description": "There are a few examples of web development, design, non-profit and advocacy organizations that have non-traditional organizational structures but almost all digital newsrooms have adopted organizational structures that mimic the traditional top-down structures of old.  These structures mimic the problems of old media organizations, problems that come from when people in power thrive on telling as little as possible to their employees before making significant editorial or business choices.\n\nIn this session, we want to have a conversation with SRCCON participants about what other organizational structures should be explored that could encourage the decision-making power to be shared equally amongst the members of the organization. \n\nWe want to talk about the pros and cons of building a newsroom co-op where every member could have an equal-voting power to make editorial and financial decisions. Such an organization would also have its own limitations and we want this discussion to be a frank conversation about what those could be and how we could work around them.\n\nFor a part of the session, we want to break into small groups to think about how they would organize their ideal organization. How will they be structured, what their goals and missions be, how will they be funded and what topics would they cover. We want the participants of this session to leave with a sense of hope that another world is possible.", 
@@ -130,7 +226,7 @@
         "facilitator_twitter": "cande313", 
         "id": 2355063, 
         "submitted_at": "2019-04-23T15:29:43.726Z", 
-        "title": "Membership Has it Privileges (and  They Are Not Just for the Privileged)"
+        "title": "Membership Has its Privileges (and They Are Not Just for the Privileged)"
     }, 
     {
         "cofacilitator": null, 
@@ -160,6 +256,16 @@
         "id": 2354678, 
         "submitted_at": "2019-04-23T21:38:21.573Z", 
         "title": "Designing a Culture of Inclusivity and Diversity"
+    }, 
+    {
+        "cofacilitator": "Anna Smith, Amy Sweeney, Norel Hassan", 
+        "cofacilitator_twitter": null, 
+        "description": "We all have innovative ideas, but how do we effectively leverage them to bring creative solutions and unique perspectives to light in order to solve our business and user problems? Enter the mini design sprint. In this session, we’ll leverage an abridged (read: 2 hours or less) design sprint format to promote rapid idea generation through problem alignment and sketching.\n\nWe’ll go over the goals, ground rules and best practices for planning and facilitating mini design sprints, including the use of How Might We statements and personas. We’ll also introduce different methodologies and exercises you can use to support ideation, including effective ways to sketch individually and in groups. Finally, we’ll do a mini design sprint of our own so you can see it all in action, and touch on the best methods for synthesis and sharing post-sprint. Walk away with the confidence to plan and run your own design sprints.", 
+        "facilitator": "Ranu Rajkarnikar", 
+        "facilitator_twitter": "lanuchan", 
+        "id": 2354668, 
+        "submitted_at": "2019-04-24T18:09:15.891Z", 
+        "title": "Mini Design Sprints: Generating Lots of Ideas in a Little Time"
     }, 
     {
         "cofacilitator": null, 
@@ -288,6 +394,25 @@
         "id": 2353162, 
         "submitted_at": "2019-04-23T14:31:55.994Z", 
         "title": "Breaking silos - how OKRs helped our team communicate and drive innovation"
+    }, 
+    {
+        "cofacilitator": "Joe Germuska", 
+        "cofacilitator_twitter": null, 
+        "description": "More than a decade ago, much of the web world was infatuated by the promise of the “semantic web,” a vision of seamless connections between data on independent systems. But before long, that vision seemed caught up in overly-complex abstractions and doomed to obscurity.\nMeanwhile, a combination of technology growth and recalibrated expectations may have set the stage for a new approach to achieving these goals. Wikipedia, better known for its collaborative, volunteer-written articles, has also incorporated its sister project Wikidata for structuring data in its pages and disambiguating names with stable identifiers. And, the Schema.org standards group has come up with simpler ways for web publishers to make their intentions explicit, empowering application developers to work with that information without needing Google-scale resources.\nIn this session, we’ll look at these two developments. We’ll provide a practical introduction to working with Wikidata and its related APIs and datasets, and, we’ll discuss what might be possible if structured data was more completely baked into our research, articles, or web applications.", 
+        "facilitator": "Isaac Johnson", 
+        "facilitator_twitter": "_isaaclj", 
+        "id": 2353057, 
+        "submitted_at": "2019-04-24T17:09:41.711Z", 
+        "title": "Why do people look at me funny when I say “semantic web?”"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Engagement, public powered journalism can make an impact - not only in informing and engaging audiences, but also restoring trust. But where does an individual reporter start with a project like this and navigate the challenges of an ingrained media culture? This session is designed to help answer those questions and be a guide to help with any new projects, thanks to insight from reporters who have done these projects and the editors that support them.\n\nHave an idea? Share it! Wanting to integrate a project into a beat or subject? Ask about it! When this session is done, you'll not only have a better understanding of where to start in beginning engagement journalism projects, but have ideas in the works to help make journalism better.", 
+        "facilitator": "Alex Veeneman", 
+        "facilitator_twitter": "alex_veeneman", 
+        "id": 2351787, 
+        "submitted_at": "2019-04-24T18:40:24.728Z", 
+        "title": "Seek Truth, Report and Engage"
     }, 
     {
         "cofacilitator": null, 
