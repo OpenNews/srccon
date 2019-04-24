@@ -1,12 +1,40 @@
 [
     {
         "cofacilitator": null, 
+        "description": "A conversation about incident management in a cloud centric world.  Why it's important, how to be prepared, all while having fun and learning new things (like knots).\n\nHow leveraging experience as a volunteer firefighter, along with years of service within technology led to the blending of both worlds.  Inspired by the National Incident Management System (NIMS), we created an Incident Management Process for The New York Times and fun ways to learn about it.", 
+        "facilitator": "David Porsche", 
+        "facilitator_twitter": null, 
+        "id": 2355548, 
+        "submitted_at": "2019-04-24T15:50:27.901Z", 
+        "title": "The Website is Knot Down:  An interactive, hands-on approach to Incident Management readiness @ NYT"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Northwestern's Medill School of Journalism has been engaged in a multi-faceted Local News Initiative for the last year, looking for opportunities to help local news organizations find ways to thrive. We've conducted big data analysis of the web reading behavior of paying subscribers, and we're exploring ways to introduce students to media product development methods and seeing how we can boost their work with Knight Lab's development staff. We have some other projects starting to take shape, and we'll be seeking more funding to continue the work and extend it to new partners and different environments.\n\n In this session, we'll talk about what we've done so far, but, more importantly, we want to talk with people working in local news to get direct perspectives on the challenges and opportunities they are experiencing. After a brief presentation about the project, we'll use some structured conversation methods to learn about what's needed and identify interesting opportunities for us to help.", 
+        "facilitator": "Joe Germuska", 
+        "facilitator_twitter": "JoeGermuska", 
+        "id": 2355339, 
+        "submitted_at": "2019-04-24T02:23:24.565Z", 
+        "title": "Local News Initiative Road Show and Listening Tour"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "\"Parachute journalism\" is the practice of national outlets or freelancers flying into local communities they're not a part of to report a story, then leaving again. It's a part of our journalistic economy, as the money and power in journalism is focused in just a few geographic locations--but it can also be damaging to local communities, and it can lead to misrepresentation, distrust and resentment. Often, national journalists appear in a community in times of trauma and elections, and report stories with insufficient context, while local journalists struggle to access equivalent resources for necessary ongoing reporting. This session will explore our collective experiences with parachute journalism as both insiders and outsiders to a community, in order to produce good ideas about how to do harm reduction, increase accountability, and shift power dynamics. We'll ask: Are there situations where it's better if this story just doesn't get told? How do we evaluate that? What can national media outlets and freelancers do to connect and collaborate with local journalists and local communities? What are the ethics of accountable partnerships? In what ways do local and regional/national media needs differ, and how can journalists collaborate to produce stories that better address the needs of all involved? All of this will be driving at a larger question: What does justice and accountability look like in the practice of journalism?", 
         "facilitator": "Lewis Raven Wallace", 
         "facilitator_twitter": "lewispants", 
         "id": 2355308, 
         "submitted_at": "2019-04-24T00:22:42.837Z", 
         "title": "Parachute Journalism: Can outsiders report accountably on other people's communities?"
+    }, 
+    {
+        "cofacilitator": "Emma Carew Grovum", 
+        "cofacilitator_twitter": null, 
+        "description": "In this session, we’ll collaboratively create ways to help folks from historically privileged backgrounds be better allies to their colleagues from minority and marginalized backgrounds. The goal is to advocate for fair and comprehensive coverage and a more inclusive newsroom culture. The method by which we get that done is up to us, but will aim to result in a community that continues beyond SRCCON.\n\nIt’s time for the people with privilege to do the hard work of making things right. This might be a messy and awkward process, but our work, our workplaces and our lives will be better for it.", 
+        "facilitator": "Hannah Wise", 
+        "facilitator_twitter": "hannahjwise", 
+        "id": 2355291, 
+        "submitted_at": "2019-04-24T14:21:32.860Z", 
+        "title": "Calling All Media Diversity Avengers: Now’s the time to act."
     }, 
     {
         "cofacilitator": "Karissa Cummings", 
@@ -48,6 +76,16 @@
         "title": "How to iterate on a newsletter product with a \"Jobs To Be Done\" framework"
     }, 
     {
+        "cofacilitator": "Vinessa Wan", 
+        "cofacilitator_twitter": null, 
+        "description": "(Subtitle: How The New York Times is Moving Towards a Culture of Growth and Accountability Through Blamelessness.)\n\nCo-facilitator: Vinessa Wan (who will be submitting her own form today, too.)\n\nIncidents and outages are a normal part of any complex system. In recent years The New York Times adopted a collaborative method for discussing these events called Learning Reviews. We'd like to give a brief introduction to Learning Reviews—where they originated, why they're called Learning Reviews, what they are—followed by a few exercises with the attendees. Some of these group exercises would focus on communicating the idea of complexity and how that impacts our ability to predict the future. In doing so, we'd also communicate how complex systems have a degree of impermanence and how this contributes to outages. This segues into the theme of the discussion, how do we look back on an event in a way that prioritizes learning more about our systems and less about finding fault with a human? We'll go over the importance of language and facilitation in this process.", 
+        "facilitator": "Joe Hart", 
+        "facilitator_twitter": null, 
+        "id": 2355136, 
+        "submitted_at": "2019-04-24T15:20:40.448Z", 
+        "title": "Engineering Beyond Blame"
+    }, 
+    {
         "cofacilitator": "Akil Harris", 
         "cofacilitator_twitter": null, 
         "description": "There are a few examples of web development, design, non-profit and advocacy organizations that have non-traditional organizational structures but almost all digital newsrooms have adopted organizational structures that mimic the traditional top-down structures of old.  These structures mimic the problems of old media organizations, problems that come from when people in power thrive on telling as little as possible to their employees before making significant editorial or business choices.\n\nIn this session, we want to have a conversation with SRCCON participants about what other organizational structures should be explored that could encourage the decision-making power to be shared equally amongst the members of the organization. \n\nWe want to talk about the pros and cons of building a newsroom co-op where every member could have an equal-voting power to make editorial and financial decisions. Such an organization would also have its own limitations and we want this discussion to be a frank conversation about what those could be and how we could work around them.\n\nFor a part of the session, we want to break into small groups to think about how they would organize their ideal organization. How will they be structured, what their goals and missions be, how will they be funded and what topics would they cover. We want the participants of this session to leave with a sense of hope that another world is possible.", 
@@ -85,7 +123,8 @@
         "title": "Ethical journalism in an information overload age"
     }, 
     {
-        "cofacilitator": null, 
+        "cofacilitator": "Ariel Zirulnick and Simon Galperin", 
+        "cofacilitator_twitter": null, 
         "description": "Let's work together to build a membership model that is inclusive (meaning all the things you think that means and also accounts for things like skills as an entry point). Membership should be more than a monetary transaction and early access to Wait Wait tickets. It should be a gateway to the communities we serve. \n\nImportant: There will be LEGO’s in this session!", 
         "facilitator": "Candice Fortman", 
         "facilitator_twitter": "cande313", 
