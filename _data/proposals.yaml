@@ -1,5 +1,15 @@
 [
     {
+        "cofacilitator": "Kika Gilbert", 
+        "cofacilitator_twitter": null, 
+        "description": "Feed-based architectures have long been the primary drivers of engagement for social media companies and online-first publishers. On the other hand, the digital offerings of older more mature publishers still mirror their print counterpart: Content is ordered by section and readers have no control over what they see. In this session, we want to explore if and how customizable feeds can work within a more traditional news website or app. \n\nHere are some questions we want to discuss: How does one build a feed to begin with? How can users personalize it to their interests? By adopting the feed concept, are we just one step closer to trapping our readers inside their own filter bubbles? How may we responsibly use algorithms to improve the relevance of a news feed? How, if at all, can we involve editors in the process? What is good data to collect in order to power a valuable feed for readers\n\nIn this session, we’ll share how we’ve started to answer some of these questions at The New York Times and how organizations can begin to program the most relevant journalism for their readers.", 
+        "facilitator": "Anna Coenen", 
+        "facilitator_twitter": null, 
+        "id": 2355693, 
+        "submitted_at": "2019-04-24T19:35:56.196Z", 
+        "title": "Feed your readers’ curiosity: building a customizable (news) feed for publishers"
+    }, 
+    {
         "cofacilitator": "Alex Tatusian", 
         "cofacilitator_twitter": null, 
         "description": "Sometimes the well of ideas runs dry and we find ourselves stuck in a creative rut. If we can't move past it, let's try thinking sideways. Drawing inspiration from Peter Schmidt and Brian Eno's Oblique Strategies, a card-based system that offers pithy prompts for creative thinking, we'll discuss ways to shift our perspective in the process of brainstorming, designing and problem-solving. Some of Schmidt and Eno's one-line strategies include:\n\n\"Not building a wall but making a brick.\"\n\"Go to an extreme, move back to a more comfortable place.\"\n\"You can only make one dot at a time.\"\n\nWe'll look at projects that emerged from unconventional sources of inspiration, share our favorite methods of breaking creative block and then develop our own list of \"oblique strategies\" that we'll publish online after the session.", 
@@ -10,14 +20,31 @@
         "title": "\"Abandon normal instruments\": Sideways strategies for defeating creative block"
     }, 
     {
-        "cofacilitator": "Quyen Ngo", 
-        "cofacilitator_twitter": null, 
+        "cofacilitator": null, 
+        "description": "We don't talk about it a lot in the newsroom, the fact that we see and hear things all the time in our jobs that likely affect us in ways it's hard to describe to someone else. One of the first roles for most reporters and photographers is covering breaking news - chasing the police scanner from one traumatic event to the next. Our newsroom might have to cover a traumatic event on a larger scale - a mass shooting, a devastating brush fire, hurricane or tornado. We take care to tell the stories of those affected, to make sure their voices and their grief are heard. But we also need to take care of ourselves and our colleagues in these moments. What should you be looking for to make sure you're protected and feel empowered to speak up for yourself when you don't feel comfortable or need help? What are some things you could do if you are the editor to take care of your staff? What types of services could news organizations offer that would help in these situations?", 
+        "facilitator": "Kristyn Wellesley", 
+        "facilitator_twitter": "kriswellesley", 
+        "id": 2355666, 
+        "submitted_at": "2019-04-24T19:34:30.680Z", 
+        "title": "Take care: The Importance of Self-Care in the Newsroom"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "You've acquired the skills you came to learn, now what? Brown bag it? Demo? Lecture...? In this interactive session, you'll learn how to use techniques from the classroom to teach and engage your team or workshop participants. This session will give you the tools to teach anyone, anything, anywhere.", 
         "facilitator": "Kathy Trieu", 
         "facilitator_twitter": null, 
         "id": 2355661, 
         "submitted_at": "2019-04-24T19:02:59.261Z", 
         "title": "From the Classroom to the Newsroom"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Your newsroom has a rigorous process for editing words and traditional reporting. How can data journalists ensure that we’re editing data analysis with the same rigor? How can we take lessons from research and other fields and apply them to a fast-paced newsroom? \n\nIn this session, we’ll talk about how newsrooms are already doing this work—and how we can up our game. What are some of the challenges in adding new steps to existing workflows? How can you do this work if you don’t have a dedicated data editor? And how do you get the rest of the newsroom on board? We’ll share among participants the successes and challenges we’ve had, and try to find the ideal data editing process together.", 
+        "facilitator": "Hannah Recht", 
+        "facilitator_twitter": "hannah_recht", 
+        "id": 2355655, 
+        "submitted_at": "2019-04-24T19:39:25.514Z", 
+        "title": "How to edit data as seriously as we edit words"
     }, 
     {
         "cofacilitator": null, 
