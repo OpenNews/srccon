@@ -1,6 +1,35 @@
 [
     {
         "cofacilitator": null, 
+        "description": "\"Parachute journalism\" is the practice of national outlets or freelancers flying into local communities they're not a part of to report a story, then leaving again. It's a part of our journalistic economy, as the money and power in journalism is focused in just a few geographic locations--but it can also be damaging to local communities, and it can lead to misrepresentation, distrust and resentment. Often, national journalists appear in a community in times of trauma and elections, and report stories with insufficient context, while local journalists struggle to access equivalent resources for necessary ongoing reporting. This session will explore our collective experiences with parachute journalism as both insiders and outsiders to a community, in order to produce good ideas about how to do harm reduction, increase accountability, and shift power dynamics. We'll ask: Are there situations where it's better if this story just doesn't get told? How do we evaluate that? What can national media outlets and freelancers do to connect and collaborate with local journalists and local communities? What are the ethics of accountable partnerships? In what ways do local and regional/national media needs differ, and how can journalists collaborate to produce stories that better address the needs of all involved? All of this will be driving at a larger question: What does justice and accountability look like in the practice of journalism?", 
+        "facilitator": "Lewis Raven Wallace", 
+        "facilitator_twitter": "lewispants", 
+        "id": 2355308, 
+        "submitted_at": "2019-04-24T00:22:42.837Z", 
+        "title": "Parachute Journalism: Can outsiders report accountably on other people's communities?"
+    }, 
+    {
+        "cofacilitator": "Karissa Cummings", 
+        "cofacilitator_twitter": null, 
+        "description": "Ever worked on a horrible team? Same. Teams are the atomic unit of many organizations, and while we often consider how best to work, we don’t necessarily think about how to work together. We talk about team success as an outcome of psychological safety, team culture, or synergy, but what do those things actually mean and how do you cultivate them? \n\nJoin us to talk about building collaborative and cross-disciplinary teams that are actually fun to work on. We’ll use Tuckman’s Model for Group Development as a framework to understand how teams grow and share some of our best practices. We’d also love to hear how you help your teams build mutual respect, establish a shared mission, and continuously improve.", 
+        "facilitator": "Caroline Cox-Orrell", 
+        "facilitator_twitter": null, 
+        "id": 2355261, 
+        "submitted_at": "2019-04-23T21:39:25.604Z", 
+        "title": "Herding Cats: Strategies to build and nurture successful teams"
+    }, 
+    {
+        "cofacilitator": "Swetha Kannan", 
+        "cofacilitator_twitter": null, 
+        "description": "Technology is constantly changing the way we tell stories. But is it always for the best? Let’s take a look at how virtual reality and augmented reality tools have evolved, discuss when and how they can improve our stories, and learn some tricks to start using this technology.", 
+        "facilitator": "Andrea Roberson", 
+        "facilitator_twitter": "andyroberson22", 
+        "id": 2355228, 
+        "submitted_at": "2019-04-23T20:34:34.129Z", 
+        "title": "How to use VR / AR to tell a story"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "The work of journalists, therapists and clergy can look very similar: \n- Listening intently \n- Suspending judgment or at least trying to remain objective\n- Searching for truth\n- Being fair-minded\n- Synthesizing complex information to find meaning\n- Encouraging people to right wrongs and move forward\n\nWe don't of course talk about our jobs as being in a continuum of healing alongside these other professions. But what might we learn if we did? Also: what might we learn from how we bring our spiritual practices to work, or transform our work into a spiritual practice. At this session, bring on the woo-woo and the heart.", 
         "facilitator": "Jennifer Brandel", 
         "facilitator_twitter": "@JenniferBrandel", 
@@ -17,6 +46,16 @@
         "id": 2355173, 
         "submitted_at": "2019-04-23T19:43:51.519Z", 
         "title": "How to iterate on a newsletter product with a \"Jobs To Be Done\" framework"
+    }, 
+    {
+        "cofacilitator": "Akil Harris", 
+        "cofacilitator_twitter": null, 
+        "description": "There are a few examples of web development, design, non-profit and advocacy organizations that have non-traditional organizational structures but almost all digital newsrooms have adopted organizational structures that mimic the traditional top-down structures of old.  These structures mimic the problems of old media organizations, problems that come from when people in power thrive on telling as little as possible to their employees before making significant editorial or business choices.\n\nIn this session, we want to have a conversation with SRCCON participants about what other organizational structures should be explored that could encourage the decision-making power to be shared equally amongst the members of the organization. \n\nWe want to talk about the pros and cons of building a newsroom co-op where every member could have an equal-voting power to make editorial and financial decisions. Such an organization would also have its own limitations and we want this discussion to be a frank conversation about what those could be and how we could work around them.\n\nFor a part of the session, we want to break into small groups to think about how they would organize their ideal organization. How will they be structured, what their goals and missions be, how will they be funded and what topics would they cover. We want the participants of this session to leave with a sense of hope that another world is possible.", 
+        "facilitator": "Moiz Syed", 
+        "facilitator_twitter": "moizsyed", 
+        "id": 2355095, 
+        "submitted_at": "2019-04-23T21:23:06.415Z", 
+        "title": "You work in a newsroom; but what if you ran one? Let’s talk about Newsroom Co-ops."
     }, 
     {
         "cofacilitator": null, 
@@ -72,6 +111,25 @@
         "id": 2354829, 
         "submitted_at": "2019-04-22T22:49:46.448Z", 
         "title": "The Impossible Task of Creating a SecureDrop Whistleblower Guide in 2019"
+    }, 
+    {
+        "cofacilitator": "Leza Zaman", 
+        "cofacilitator_twitter": null, 
+        "description": "Two women working at The New York Times in digital innovation share their recommendations, and facilitate conversations, rooted in their lived experience in corporate culture. Through discussion and exercises we hope the session gives you a starting point and a few tips and ticks to start designing a culture of diversity and inclusion. We plan to facilitate conversations around three core pillars to help employees at their company, whether big or small, no matter what industry: Structure, Conversation, and Assessing Success when designing culture and cultural change.\n\n“Diversity is about all of us, and about us having to figure out how to walk through this world together.” - Jacqueline Woodson", 
+        "facilitator": "Angelica Hill", 
+        "facilitator_twitter": "Angelica_Hill", 
+        "id": 2354678, 
+        "submitted_at": "2019-04-23T21:38:21.573Z", 
+        "title": "Designing a Culture of Inclusivity and Diversity"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Nobody goes into journalism for the money, but sometimes we have to leave the industry because of it. :( Many of us have shifted from a certain beat, moved up the corporate ladder or left completely. And yet we still long for the experiences which made us love the business in the first place.\n\nThomas Wolfe was wrong. You *can* go home again!\n\nLet's discuss strategies for identifying and finding outlets for our skills and expertise; managing time to pursue our passion projects; and plan for the catches that often come with a side-gig.", 
+        "facilitator": "Erin Brown", 
+        "facilitator_twitter": "embrown", 
+        "id": 2354652, 
+        "submitted_at": "2019-04-22T16:17:18.922Z", 
+        "title": "Getting Back in the Game: Journalism as a Side Project"
     }, 
     {
         "cofacilitator": null, 
@@ -145,6 +203,15 @@
         "id": 2353714, 
         "submitted_at": "2019-04-19T14:04:14.075Z", 
         "title": "Things the future taught us"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Starting a new job is sort of like the first day of school, if everyone else had already been at school together for a long time without you. Whether you thrive on the social and logistical challenge of navigating a new workplace, or are driven to anxiety just thinking about it, we can all agree that a lot of workplaces throw new folks into the deep end of the pool without much structure or forethought.\n\nThis session is about bringing more intentionality to new team member onboarding, integration, and inclusion. Even if we're not in a position of official hiring authority at work, we almost all have some part in the experience of newcomers to our teams and organizations.\n\nFirst, we'll share as a large group some of our own experiences and ideas about how to best facilitate the integration of new members of our own teams.\n\nThen, we'll break up into a few fictional \"companies\" -- each with its own norms, culture, and inside jokes -- and a develop proactive program to onboard our new people. Finally, we'll see how our ideas work by switching tables and going through another \"company's\" process.", 
+        "facilitator": "Matt Johnson", 
+        "facilitator_twitter": "xmatt", 
+        "id": 2353519, 
+        "submitted_at": "2019-04-23T22:16:47.695Z", 
+        "title": "Welcome aboard! First impressions matter and we  can all make a better one"
     }, 
     {
         "cofacilitator": null, 
@@ -273,5 +340,14 @@
         "id": 2338064, 
         "submitted_at": "2019-04-10T19:22:59.663Z", 
         "title": "Supporting Journalism from the outside"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "It's been amazing to see how the news nerd community has grown and evolved over the decades, and as we've gotten to meet in person over the last 5 years of SRCCONs. We have data about who is part of the news nerd community, and through various Slacks and events like this one, we've seen how members of this community support and care for one another. Let's take a moment to reflect on this community (with the support of an outside facilitator): who is a part of this community? Who is not (or is not yet) included? What are our responsibilities to each other? What does our collective future hold? We'll explore what we need to create that future, together.", 
+        "facilitator": "erika owens", 
+        "facilitator_twitter": "erika_owens", 
+        "id": 2338033, 
+        "submitted_at": "2019-04-23T22:57:55.747Z", 
+        "title": "How are we in community together?"
     }
 ]
