@@ -1,5 +1,90 @@
 [
     {
+        "cofacilitator": null, 
+        "description": "\"Audience growth\" optimizes for engagement, but who is advocating for the wellbeing of news audiences? As more and more people in the U.S. are exposed to trauma, how can the journalism we produce meet audiences where they are and help them not only stay informed but process and heal? How can we establish a relationship with news audiences built on empathy and listening? How can we make room for complexity and nuance, even when there is no succinct nutgraf or sweepy headline?", 
+        "facilitator": "Kelly Chen", 
+        "facilitator_twitter": "chenkx", 
+        "id": 2356123, 
+        "submitted_at": "2019-04-25T05:33:59.902Z", 
+        "title": "Feel your feelings"
+    }, 
+    {
+        "cofacilitator": "Troy Thibodeaux", 
+        "cofacilitator_twitter": null, 
+        "description": "If you've used or ever wanted to use parts of the agile method for news gathering and dissemination (as opposed to product/platform development) we want to hear your ideas and share ours.\n\nIn this session, we'll use a discussion format called a fishbowl to compare notes, hear success stories and brainstorm ways we can adapt agile tools and methods to help ease the pain of newsroom chaos and deadlines.", 
+        "facilitator": "George LeVines", 
+        "facilitator_twitter": "rhymeswthgeorge", 
+        "id": 2356049, 
+        "submitted_at": "2019-04-25T03:44:13.403Z", 
+        "title": "Agile in the newsroom: successes, failures and shades of gray"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Technology is a primary focus of innovation in data visualization and visual storytelling. So, what happens if we step away from our screens and instead create interactive visualizations without computers? Examples of non-digital interactive visualizations exist in many disciplines, from scale models used to get feedback about architectural plans to activist bake sales where women pay a different price than men to draw attention to pay disparities, as well as data art and installations. In this session, we’ll think about how to use objects, conversations and the built environment to show a visual story in an unexpected way, and then make physical interfaces in small groups to test interactions and identify principles that can translate back to digital spaces.", 
+        "facilitator": "Lisa Waananen Jones", 
+        "facilitator_twitter": "lisawaananen", 
+        "id": 2356046, 
+        "submitted_at": "2019-04-25T03:58:38.717Z", 
+        "title": "Interactivity IRL: Creating interactive visualizations without computers"
+    }, 
+    {
+        "cofacilitator": "Jonathan Stray", 
+        "cofacilitator_twitter": null, 
+        "description": "Workbench is an open source tool that puts all stages of the data journalism process in one workspace, including scraping, cleaning, monitoring, and visualization -- all without coding, and all reproducible. \nIn this hands-on tutorial, you'll learn how to use Workbench for several different newsroom tasks. Clean and explore data, monitor sources, create live embeddable charts that update when new data is released, or automate useful queries and workflows that other journalists can use to report. Workbench is built to help make data tasks accessible to more people in the newsroom.\nThis session is good for journalists of all skill levels.", 
+        "facilitator": "Pierre Conti", 
+        "facilitator_twitter": "pierreconti", 
+        "id": 2356045, 
+        "submitted_at": "2019-04-25T03:36:09.983Z", 
+        "title": "Workbench: Reproducible data work without coding"
+    }, 
+    {
+        "cofacilitator": "Heather Chin", 
+        "cofacilitator_twitter": null, 
+        "description": "In this session, I’ll provide a comprehensive review of how you can bring a community together to build a podcast and why audio content can be valuable to local communities. \n\nWe’ll discuss how to focus on the news impacting your communities. You want to build trust with your listeners through respectful collaboration and give mis/underrepresented voices in the city a place where they can be heard. We’ll go over the methodologies that can build this mission into your organizational structure. Participants will learn how to create a mission statement and begin a series of task force meetings, along with how to:\n-Create a listener advisory board\n-Hold monthly meetings throughout neighborhoods in settings relevant to the discussion \n-Welcome locals to attend these meetings to come and share their ideas and insights for stories that the podcast should tell about their community\n-Invite locals to contribute their expertise and share their experience \n\nIt’s important to research how your community digests news. Really think about the neighborhoods you want to cover: Who is the audience you want to build? And who is reporting it? It helps if reporters are living in that area and/or reflect the identities of that area. \n\nThis session will also explore how you can incorporate your listeners into the storytelling.", 
+        "facilitator": "Jordan Gass-Poore'", 
+        "facilitator_twitter": "jgasspoore", 
+        "id": 2356005, 
+        "submitted_at": "2019-04-25T02:21:04.758Z", 
+        "title": "How to Bring a Community Together to Build a Podcast"
+    }, 
+    {
+        "cofacilitator": "Heather Bryant (Project Facet)", 
+        "cofacilitator_twitter": null, 
+        "description": "This will be an interactive and honest conversation about how management can be improved in local newsrooms. We’ll break the subject into a few key conversation starters -- the factors that lead to promotion of non-transferable skill sets, the dramatic industry disruptions that lead to a chaotic situation for management, and how we tackle those big issues through human resource development. \n\nOne of the keys early on in the session will be to have people identify themselves as managers and former managers, versus our typical worker-bee reporters. We’ll encourage dialogue between the managers who are willing to talk about their fears and shortcomings, and worker bees who are willing to talk about how they want to be managed. We want to embrace this vulnerability, allowing managers and worker bees to speak with each other and come to better understandings of their counterparts.", 
+        "facilitator": "Erin Mansfield", 
+        "facilitator_twitter": "_erinmansfield", 
+        "id": 2356004, 
+        "submitted_at": "2019-04-25T02:32:50.301Z", 
+        "title": "Meeting management challenges in local newsrooms"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "In the relentless news cycle for journalists and feelings of content overconsumption by people, what can news comedy formats like Wait Wait Don't Tell Me and The Late Show with Stephen Colbert teach us about engaging audiences and editorial discretion.", 
+        "facilitator": "Ha-Hoa Hamano", 
+        "facilitator_twitter": "hahoais_", 
+        "id": 2355979, 
+        "submitted_at": "2019-04-25T02:56:27.886Z", 
+        "title": "Are you not entertained? When to make fun of the news"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "With continuous evolution in newsrooms comes the periodic introduction of new roles that involve new technologies and ways of working. Many of us have probably been the first person to hold a position within our organizations - or will be that person at some point in our careers. For example: An editor who once focused on text may now be involved in audience development or audio. A product manager working on a traditional CMS now may start overseeing strategy for voice-activated devices or AI. \n\nSo when you’re breaking new ground in a newsroom or starting something that’s new to you, how do you best get your head around the new technologies, frameworks for decision-making or ways of working that become central to the new role you’re taking on? How do you do so quickly and thoroughly enough to have a good understanding without spending too much time going down rabbit holes or making yourself crazy in the pursuit of a ‘complete’ body of knowledge? \n\nLet's brainstorm about ways to self-educate for new work situations that might help with these beginnings -- and what kinds of support we might ask for from the people we work with and the organizations we work in. Come with any examples of what's helped you -- or what hasn't -- when taking on something new.", 
+        "facilitator": "Sasha Koren", 
+        "facilitator_twitter": "sashak", 
+        "id": 2355958, 
+        "submitted_at": "2019-04-25T03:03:22.910Z", 
+        "title": "What's better than cramming? Self-educating with intention for a new job or focus."
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Subscriptions and memberships are doom to save our industry, our jobs, democracy, and more. Ok, maybe that’s a bit much, but let’s be real. How much do we actually know about subscriptions? In this session, we will explore together the subscriptions and retentions business model. We will share and discuss different subscriptions options. We will look into the ones that our industry is offering. We will explore success and failure stories, and we will try to build the perfect subscription.\nThe idea of this session is to understand what is suppose to save our industry, explore its variances, recognize flaws and limitations, and discuss what could the industry be doing better.", 
+        "facilitator": "Marcos Vanetta", 
+        "facilitator_twitter": "malev", 
+        "id": 2355941, 
+        "submitted_at": "2019-04-25T01:44:29.684Z", 
+        "title": "Subscriptions, a new hope"
+    }, 
+    {
         "cofacilitator": "Joseph Lichterman", 
         "cofacilitator_twitter": null, 
         "description": "Too often, tips and suggestions for email newsletters at newsrooms can take a “one size fits all” approach. We’ve seen that the way a newsletter is made at a newsroom can enormously vary based on the size, resources and purpose of any given newsroom. \n\nIn this session, we’ll create a card-based strategy game that will guide small groups of participants through the process of creating a new newsletter product that meets an outlet’s editorial and business outcomes. Groups will have to develop a strategy that meets specific goals and will have to overcome hurdles and challenges that we throw in their way. \n\nThroughout the simulation, we’ll present then guide the room through a series of discussion topics and exercises based around the key worksteams of an email newsletter at a newsroom: user research, content creation, workflows, acquiring new email readers, and converting readers to members or donors.", 
@@ -8,6 +93,34 @@
         "id": 2355937, 
         "submitted_at": "2019-04-25T01:04:46.363Z", 
         "title": "Game of Newsletters: A song of inboxes and subject lines"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "As contributors, we walk a fine line with feedback. Often we want constructive criticism but don't know how to ask the right people to invest in our work. Alternatively, when asked for feedback, we only celebrate the strong parts and ignore critical issues. Occasionally even compliment sandwiches lose their border bread and become toxic. We're left just wanting to turn off the comments.\n\nIn this session, we'll identify how to frame feedback- both when soliciting and giving. We'll explore how to build healthy systems of feedback within organizations, communities, and as a freelancer. Optionally, come with something you are working on- design, code, text, concepts, or anything in between- and we will practice our feedback superpowers. Join us as we learn to more meaningfully communicate and build!", 
+        "facilitator": "Kevin Huber", 
+        "facilitator_twitter": "kevinahuber", 
+        "id": 2355935, 
+        "submitted_at": "2019-04-25T03:02:38.769Z", 
+        "title": "Feedback Loop: How to separate from the noise and build healthy communities of feedback"
+    }, 
+    {
+        "cofacilitator": "Kai Teoh... I think he's applied but if he hasn't maybe we can pull him in anyway because he's really responsible for a lot of this idea", 
+        "cofacilitator_twitter": null, 
+        "description": "Many of us are overworked, lonely coders. How do we accomplish every day editorial projects and also dedicated time to learning new technologies and documenting workflows that we spend so much time implementing and testing? With all this newfangled tech, what’s noise and what’s signal?\n\nLet's talk about devising coping and filtering mechanisms for the onslaught of newness so we can all actually benefit from it.", 
+        "facilitator": "Alexandra Kanik", 
+        "facilitator_twitter": "act_rational", 
+        "id": 2355911, 
+        "submitted_at": "2019-04-25T01:06:25.896Z", 
+        "title": "Noise & Signal: Knowing when to adopt new tech, and when to ignore it"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "During the 2018 election, micro-financing of campaigns up-and-down the ticket exploded. Small dollar donations have been a dominant force in politics since the Obama campaign in 2008, but in 2018, that finally reached the local level (from congressional races to district attorney races and everything in-between) in a real way. Powered by grassroots groups, candidates began to draw a high volume of donations of $50 and less from people that live nowhere near the areas they represent.\n\nJournalism has lessons to learn from the 2018 election. Principally, in the hunt for new revenue, identifying small dollar donors that care about your mission can be a potential outlet for financing journalism in markets around the country. Is there a way for locally-focused organizations to build up an audience of revenue-generating customers that live outside of the areas they serve? If so, what can we learn from how political organizations and campaigns have operated?", 
+        "facilitator": "Charlie Rybak", 
+        "facilitator_twitter": "charlierybak", 
+        "id": 2355909, 
+        "submitted_at": "2019-04-25T01:06:37.395Z", 
+        "title": "What the 2018 Election Can Teach Us About Funding Journalism"
     }, 
     {
         "cofacilitator": null, 
@@ -45,6 +158,25 @@
         "id": 2355891, 
         "submitted_at": "2019-04-25T00:09:52.486Z", 
         "title": "Manager vs Editor: Navigating your boss’s management style to get you both where you need to go"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "CALLING ALL ENGLISH MAJORS & ENGINEERS, YOU’RE COLLABORATIVE EFFORTS ARE NEEDED! Behind the hype of AR,VR & XR, a spatial c̶o̶m̶p̶u̶t̶i̶n̶g̶  communications revolution is coming. \n\nWith this revolution will come: new ways to document our world; a new visual language for expressing narrative and non-narrative data; questions about ownership of public space, privacy, data overlay; opportunities for disruption and most importantly AN OPPORTUNITY TO ASSERT JOURNALISTIC VALUES!\n\nIn an effort to create some common ground for the session, we'll quickly share what we've learned about XR so far, what we hope for and what we worry about. \n\nNext we'll break out into topic groups. We're specifically leaving room for groups to spontaneously coalesce, but some of the areas we’d love to mind-meld on are: a glossary of XR Journalism terms; a set of ethical guidelines for 6DoF journalism; a list of open-source (or otherwise accessible) tools & resources; a reference list of influential XR journalism pieces, hot-topics for spatial computing as a beat.\n\nWe’ll finish up with lightning-style report backs to the bigger group, and we’ll leave enriched with a public document that should help guide XR journalism newcomers, inform future conversations and  maybe even inspire our newsrooms!", 
+        "facilitator": "Ben Connors", 
+        "facilitator_twitter": "BCatDC", 
+        "id": 2355833, 
+        "submitted_at": "2019-04-25T03:08:32.737Z", 
+        "title": "The ‘cyber’ is leaking into the ‘space,’ Journalists assemble! Let’s crowdsource a guide to XR for journalists."
+    }, 
+    {
+        "cofacilitator": "Shady Grove Oliver", 
+        "cofacilitator_twitter": null, 
+        "description": "In a 2013 survey of doctors, researchers found that 88.3% of doctors wish to “forego high-intensity treatments” and decline resuscitation, choosing different end-of-life care for themselves than their patients. The study states “it is likely that doctors recurrently witness the tremendous suffering their terminally ill patients experience as they undergo ineffective, high intensity treatments at the end of life and they (the doctors) consequentially wish to forego such treatments for themselves.” What does journalism look like under such a lens? How would we cover the next shooting? The next devastating natural disaster? A personal tragedy? A public embarrassment? When it is us, our families, our lives, how do we want our colleagues to conduct themselves? How do we want our stories told?\n\nWe’ve combined our backgrounds in narrative medicine, local journalism, ethics and access research into a project examining the parallels in how health care and journalism have evolved in the U.S. Across both fields, practitioners often cite the appeal of service to others as why they do the work, but are communities truly being served? The very practices of health care and journalism are shaped, challenged, and even threatened by the compromises created by the conflict between delivering a service and seeking revenue. They both have become industries that suffer from lack of access for local or rural communities, are distorted by the drive for profit or financial influence (like insurance companies and hedge-fund owners), deeply ingrained problems with diversity and representation and questions of agency, ethics, autonomy and participation from the people on the other side of the pen and stethoscope.\n\nJoin us for a frank group discussion and brainstorming session around the parallels between medicine and journalism and to push toward solutions that make our communities healthier—physically, emotionally and intellectually.", 
+        "facilitator": "Heather Bryant", 
+        "facilitator_twitter": "HBCompass", 
+        "id": 2355782, 
+        "submitted_at": "2019-04-25T03:31:12.885Z", 
+        "title": "Extraordinary Measures: Learning from the parallels of journalism and health care to improve both"
     }, 
     {
         "cofacilitator": null, 
@@ -131,6 +263,15 @@
         "title": "Document Dumpster Diving: Using Crowdsourcing and ML to Turn PDFs into ~Data~"
     }, 
     {
+        "cofacilitator": null, 
+        "description": "Political intimidation threatens media practitioners worldwide and disinformation campaigns destabilize public trust. Journalists are under surveillance, are increasingly hacked, doxxed and harassed. Over the last several years, numerous journalists and news organizations have reported incidents in which their communications have been hacked, intercepted, or retrieved (Der Spiegel staff, 2015; Wagstaff, 2014). When journalists’ digital accounts are vulnerable to hacks or surveillance, news organizations, journalists, and their sources are at risk. These risks vary and can include financial loss, physical threats, or sources’ unwillingness to share information for fear of related consequences (FDR Group & PEN America, 2013, 2015). \n\nDespite these myriad concerns, many newsrooms lack the resources necessary to build robust and resilient security cultures. This session will address these concerns by documenting the needs of participants and their newsrooms. Drawing on guides like OpenNews’s “Field Guide to Security Training in the Newsroom,” participants will articulate what has worked and what hasn’t – from information security technologies to data policies – in order to identify core themes and challenges. Participants will walk away with a co-created best practices document that they can use as a starting point in their newsrooms to foster robust security cultures in a time of increasing doxing attempts, labor precarity, financial constraints, and decreasing trust in the media.", 
+        "facilitator": "Jennifer Henrichsen", 
+        "facilitator_twitter": "JennHenrichsen", 
+        "id": 2355710, 
+        "submitted_at": "2019-04-25T02:22:24.849Z", 
+        "title": "Breaking Through the Ambivalence: The Future of Security Cultures in the Newsroom"
+    }, 
+    {
         "cofacilitator": "Kika Gilbert", 
         "cofacilitator_twitter": null, 
         "description": "Feed-based architectures have long been the primary drivers of engagement for social media companies and online-first publishers. On the other hand, the digital offerings of older more mature publishers still mirror their print counterpart: Content is ordered by section and readers have no control over what they see. In this session, we want to explore if and how customizable feeds can work within a more traditional news website or app. \n\nHere are some questions we want to discuss: How does one build a feed to begin with? How can users personalize it to their interests? By adopting the feed concept, are we just one step closer to trapping our readers inside their own filter bubbles? How may we responsibly use algorithms to improve the relevance of a news feed? How, if at all, can we involve editors in the process? What is good data to collect in order to power a valuable feed for readers\n\nIn this session, we’ll share how we’ve started to answer some of these questions at The New York Times and how organizations can begin to program the most relevant journalism for their readers.", 
@@ -157,6 +298,15 @@
         "id": 2355680, 
         "submitted_at": "2019-04-24T21:11:51.964Z", 
         "title": "Lessons from outside of journalism"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "In the thick of relentless news cycles, it’s easy to forget to take the time to celebrate and acknowledge the truly great work that we are doing to serve our communities on a daily, weekly and monthly basis. In this session, we’ll focus on the need to celebrate wins – both large and small – as individuals and members of a team. We’ll examine different styles of celebrating and recognizing each other, and we’ll look at examples of how workplaces emphasize joy and gratitude as well as collective celebration. Participants will work with each other to craft a plan for how they want to mark important milestones in their own work. In the immortal words of Kool and the Gang, “Bring your good times, and your laughter too.”", 
+        "facilitator": "Amy L. Kovac-Ashley", 
+        "facilitator_twitter": "terabithia4", 
+        "id": 2355677, 
+        "submitted_at": "2019-04-25T03:19:24.890Z", 
+        "title": "Celebrate good times, come on!"
     }, 
     {
         "cofacilitator": null, 
@@ -224,6 +374,15 @@
         "title": "Key Performance Indi-what? How to watch—and react to—metrics that move the needle for membership"
     }, 
     {
+        "cofacilitator": null, 
+        "description": "Since ancient times, humans have used fasting as a powerful tool to enhance mental acuity. We see this from people like Hippocrates, Plato, and Benjamin Franklin, all strong supporters of fasting, to the great mathematician Pythagoras, who required that his students fast to maximize their focus. Fasting has been shown to reduce brain-fog, increase memory, improve mood, and even resist aging.  This completely free technique takes no time nor effort to do, and yields great benefits. \n\nThe ritual of eating 3 meals per day was introduced relatively recently, as the product of a colonial attempt to appear more “civilized.”  Break free from wasted time day-dreaming about lunch. Break free from 3pm slumps where all you can think about is a nap. Learn to harvest the focus and zen that comes from fasting, and channel it into your passions. \n\nThis session will be focused on learning how incorporating fasting into your lifestyle can help you get the most out of your day.", 
+        "facilitator": "Jennie M Shapira", 
+        "facilitator_twitter": "jennieshapira", 
+        "id": 2355610, 
+        "submitted_at": "2019-04-25T03:54:35.964Z", 
+        "title": "Better than Coffee: Fasting as a Fuel for Focus"
+    }, 
+    {
         "cofacilitator": "Jun-Kai Teoh", 
         "cofacilitator_twitter": null, 
         "description": "How would we do journalism differently if we were to think about impact — real-world change — at the brainstorming stage, before we started to write or shoot? If we knew something needed to happen to make things better, could we identify a few levers to pull that’d make that something more likely? Would we frame the story differently? Share the data openly? Talk to different sources? And how do we do all of this without going too far, without crossing into advocacy journalism? Now more than ever, with more nonprofit newsrooms forming, more for-profit newsrooms turning to consumer revenue (on the sales pitch that journalism matters) and trust at a crisis point, we need to measure and show why our work matters. This session will cover published examples and studies but is meant to be a discussion about what we can do — and what’s going too far — to make a difference. We might also, using design thinking strategies, prototype a project designed for impact.", 
@@ -252,6 +411,16 @@
         "id": 2355574, 
         "submitted_at": "2019-04-24T16:28:15.813Z", 
         "title": "Creative ways to teach complex issues"
+    }, 
+    {
+        "cofacilitator": "Alex Tilsley", 
+        "cofacilitator_twitter": null, 
+        "description": "Finding the right data can be a big hurdle for journalists who are on deadline. Meanwhile, think tanks and academics have the time and money to agonize over research and data collection. At the Urban Institute, we've spent the last few months building (what we hope is) a simple tool for extracting custom snippets from massive (and often inscrutable) education databases. We think its extremely powerful, but does it meet your needs?\n \nIn this session, we will explore ways to democratize data together. We'll brainstorm tools and partnerships, and pull apart existing examples. You'll design your ideal data tool. By the end, we hope to move toward an understanding of how journalists and researchers can work together to ensure that the best research and data is informing fast, high-quality reporting that holds institutions accountable and drives change.", 
+        "facilitator": "Daniel Wood", 
+        "facilitator_twitter": "danielpwwood", 
+        "id": 2355561, 
+        "submitted_at": "2019-04-25T01:12:44.376Z", 
+        "title": "We've got a crapload of high quality data...is anyone going to use it?"
     }, 
     {
         "cofacilitator": "Amanda Yarnell", 
@@ -377,6 +546,15 @@
         "title": "The Spiritual Dimensions of Journalism"
     }, 
     {
+        "cofacilitator": null, 
+        "description": "The world of online advertising has been under a lot of fire. Online advertising has been used to target disenfranchised groups, those deemed manipulatable, and to push political disinformation. The economies of scale, having the many different types and origins of advertising, has made it even more difficult to prevent bad actors on different platforms. The question then arises, what makes an ethical ad? What can we do on our publications and platforms to help promote more ethical advertising?", 
+        "facilitator": "Ian Carrico", 
+        "facilitator_twitter": "iamcarrico", 
+        "id": 2355189, 
+        "submitted_at": "2019-04-25T13:30:25.313Z", 
+        "title": "Let's build some ethical advertising"
+    }, 
+    {
         "cofacilitator": "Carolyn Gearig (and potentially another person from another newsletter)", 
         "cofacilitator_twitter": null, 
         "description": "We’ve made dozens of iterations on our daily e-mail newsletters because of user feedback and resource constraints, business considerations and technological and design efficiency. To get smarter about what our users want and how we can work more efficiently to give it to them, we’ve used the “Jobs To Be Done” framework to define what each newsletter section does for our users. We asked several other newsletter writers we admire how they would use the Jobs To Be Done framework for their newsletters, and here’s what we learned.", 
@@ -454,6 +632,15 @@
     }, 
     {
         "cofacilitator": null, 
+        "description": "It seems everyone is talking about ethics in technology these days. Examples abound of poor decisions leading to unintended harm, of planned exploitation and avoidance of consent, of prioritization of financial gain over literally everything else. What’s the ethically-minded technologist to do? This session will be an open, off the record conversation among designers, developers, and journalists about the things that keep us up at night: the ways our work can cause harm, the systems driving us to do the wrong thing, the incentives that make it hard to even know what’s right. We’ll work from a vantage point that assumes good intentions, recognizes that impacts matter more than plans, and acknowledges the impossibility of perfect solutions: no matter what we do, we are all complicit. But we are not alone, and we are not without the ability to effect change.", 
+        "facilitator": "Mandy Brown", 
+        "facilitator_twitter": "aworkinglibrary", 
+        "id": 2355070, 
+        "submitted_at": "2019-04-25T01:39:31.876Z", 
+        "title": "Staying with the trouble: Doing good work in terrible times"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "Journalism can feel like a bit much in this social media age, but it doesn't have to be. How can you promote meaningful, ethical, public powered journalism in a sea of noise? What needs to change about focus and culture in journalism? This session will attempt to answer those questions and exchange ideas.", 
         "facilitator": "Alex Veeneman", 
         "facilitator_twitter": "alex_veeneman", 
@@ -479,6 +666,15 @@
         "id": 2355024, 
         "submitted_at": "2019-04-23T14:48:42.547Z", 
         "title": "Citizen Science As Engagement"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "News organizations produce massive amounts of content every single day. The current political climate means relentless breaking news about the government. Newsrooms are also producing short novels' worth of non political news, cultural criticism and other feature pieces that are not only great journalism but also important counter programming to the political coverage. At The Times, all this journalism exists online and in the paper but promoting a story on the web home page or on social really boosts a story's reach. For many readers, the articles chosen to appear on those platforms become their main understanding of our report.\n\nHow do news organizations best surface content to readers? How can we use technology to aid what is ultimately an editorial decision about what stories go on the limited real estate that exists in those platforms (the home page, Twitter and FB)? As we retool our home page programming tools at The Times (and other platform programming tools soon too!), personalization and machine learning/AI to suggest content for promotion are things that have been talked about and experimented with. We want to make sure new readers get new news every time they visit our site but we also don't want new people to miss big news. We want a good balance of politics and feature writing. And we want all of this to look and feel consistent across mobile, tablet and desktop despite the vast differences in those device displays. Mindful use of technology can help reduce the amount of friction required to keep platforms up to date and curated. But what does that look like in practice? And what are some things to be cautious about in this space?\n\nIn this session, we'll walk through some simple examples of using technologies like machine learning to classify news tonally and surface content intelligently as both a technical exercise and a thought experiment. Then we'll have a conversation. What excited you about the potentials of these technologies? What concerns do you have about applying these technologies to programming the news?", 
+        "facilitator": "Angela Guo", 
+        "facilitator_twitter": null, 
+        "id": 2354906, 
+        "submitted_at": "2019-04-25T03:58:32.935Z", 
+        "title": "Programming The News: What Content Do We Surface Where, and Why?"
     }, 
     {
         "cofacilitator": "Kevin O'Gorman", 
@@ -604,6 +800,15 @@
     }, 
     {
         "cofacilitator": null, 
+        "description": "Companies often lament that they are trying to hire a more diverse community of engineers, but that they struggle to find strong candidates. But if companies want to hire more diverse candidates, they need to be open to the idea of hiring people with diverse educational backgrounds: people without college degrees, people who are self-taught, and people who went to a boot camp.\n \nNewsrooms and product organizations that are reluctant to hire candidates from non-traditional educational backgrounds eliminate a host of candidates right off the bat. How can teams and managers become more confident in non-traditionally educated engineers? If employers were better aware of what knowledge these engineers may not have, they could prepare both these new engineers and their current team, fostering an environment more easily able to absorb this kind of talent.\n \nI want to talk with engineers from non-traditional educational backgrounds about the things they encountered that “everyone seemed to know”. What did they get stuck on starting their first job but were too embarrassed to ask? I want to talk with hirers about their experiences hiring first time professional engineers, and some of the things that have held them back from doing so. What support did they think they needed to have in place to take them on? I hope for people to leave with a greater understanding of each other’s fears and new ideas for how to onboard more diverse groups of engineers.", 
+        "facilitator": "Sierra Saitta", 
+        "facilitator_twitter": null, 
+        "id": 2353716, 
+        "submitted_at": "2019-04-25T02:18:30.290Z", 
+        "title": "What to expect when you're expecting a new engineer."
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "How has science fiction helped you understand the world? Yourself? Justice? Let's talk about the role of SF, and how it's taught us to be better makers, teammates and people. ***Bring a book to swap!***", 
         "facilitator": "Brian Boyer", 
         "facilitator_twitter": "brianboyer", 
@@ -668,6 +873,15 @@
         "title": "Why do people look at me funny when I say “semantic web?”"
     }, 
     {
+        "cofacilitator": null, 
+        "description": "Screenwriters use many techniques to distribute information throughout a film: building context to create goals and desires, withholding knowledge to create intrigue, planting clues to create suspense, and revealing discoveries to create surprise. By establishing rhythms of expectation, anticipation, disappointment, and fulfillment, a well-written screenplay keeps us captivated as it directs us through all the plot points and to the heart of the story.\n\nData journalism shares a similar goal. Are there lessons from screenwriting we can use to write engaging, data-driven stories, so we don’t end up with an info dump? Let’s find out together.\n\nIn this session, we’ll participate in a writers’ room to discuss how screenwriters use different strategies to jam-pack information into scenes while building a narrative and keeping pace. Then we’ll try out different screenwriting approaches to see how we can best break down complex data sets in our reporting, guide readers to the story, and keep their attention. Wipe down the whiteboards, grab some Post-its, and let’s “break” a story!", 
+        "facilitator": "Phi Do", 
+        "facilitator_twitter": "phihado", 
+        "id": 2353008, 
+        "submitted_at": "2019-04-25T01:23:12.759Z", 
+        "title": "Fade In: What Data Journalism Can Learn from Screenwriting"
+    }, 
+    {
         "cofacilitator": "Bach Bui", 
         "cofacilitator_twitter": null, 
         "description": "Marking up is the process of adding editorial context to content. Anyone who works with content does this, in ways both intuitive (like making notes in a margin) and unintuitive (like writing html). Because we do this constantly it’s easy to overlook how unintuitive our digital markup systems can be. How can we markup content in a way that both we and our digital systems can understand, while preserving our editorial intent for the future?\n\nIn this session, you’ll work in groups using arts and crafts to add an editorial voice to stories. You can bring your own story (please print it out!) or we’ll provide one for you. After, we'll discuss how the choices made by technology might limit what you can express and how long your markup will last in an archival state. We have some ideas of how to balance these needs, but would like to hear your ideas as well!", 
@@ -694,6 +908,15 @@
         "id": 2351787, 
         "submitted_at": "2019-04-24T18:40:24.728Z", 
         "title": "Seek Truth, Report and Engage"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "In the last two years, I have organized conferences and have been invited at several others to speak and lead sessions.  I have often been invited last minute to give a \"female\" perspective on issues and panels. I have been told how it has been very hard to find women data journalists. I have also reported about diversity in technology companies and have heard about how there is deficiency in the pipeline for hiring women of color. I'd like to share my approach to planning and organizing a diverse conference. This workshop will talk about strategies to find and recruit diverse speakers, creating a safe and inviting space for bringing perspectives from different backgrounds and walking through the process and challenges of building a diverse community.", 
+        "facilitator": "Sinduja Rangarajan", 
+        "facilitator_twitter": "cynduja", 
+        "id": 2351500, 
+        "submitted_at": "2019-04-25T02:26:20.305Z", 
+        "title": "How to plan a kickass, diverse conference"
     }, 
     {
         "cofacilitator": null, 
@@ -797,6 +1020,16 @@
         "title": "Hi! I'm new(s) here."
     }, 
     {
+        "cofacilitator": "Bo Morin", 
+        "cofacilitator_twitter": null, 
+        "description": "Attempts to increase representation in news organizations often come from the bottom-up. Sometimes it can be an individual, sometimes it can be several people. That’s how things happened where we work. Scattered efforts led to mixed degrees of success. But coalescing these efforts into a more formal grassroots team has been a game-changer. Our group — the Diversity, Inclusion and Belonging (DIB) team — started with just a few employees. Since last summer, it has grown to include volunteers from most departments, representatives from HR and recruiting, and support from the company founders. With this session we’ll share lessons from our experience, but primarily hear from others what has worked well and what hasn’t.\n\nOur goal is for participants to leave this session energized with actionable ideas and plans to increase diversity, inclusion, belonging and equity within their own organizations. If they want to, we hope this will give them the foundation to launch their own DIB initiative or take their current DIB efforts to the next level. We will also compile everyone’s lessons into a short guide that can be shared widely.", 
+        "facilitator": "Greg Linch", 
+        "facilitator_twitter": "greglinch", 
+        "id": 2343016, 
+        "submitted_at": "2019-04-25T01:50:45.717Z", 
+        "title": "Transforming grassroots diversity/inclusion/belonging efforts into a sustainable, organized team"
+    }, 
+    {
         "cofacilitator": "Kayla Christopherson", 
         "cofacilitator_twitter": null, 
         "description": "While journalists talk a lot about having an impact, we're not as forthcoming on how we can be more deliberate and active in informing structural change in our communities. Our work is often geared to spark surface-level outcomes (a law was passed, an official was held accountable, etc.), but even when media organizations are equipped to do deeper investigative work, they often don’t invest in longer-term strategies that can illuminate pathways for citizens to create more equitable, healthy systems.\n\nUsing a practice called systems thinking – a holistic approach to grappling with complex issues – journalists can develop more collaborative frameworks that help people build power and resiliency to address some of our most deeply rooted problems. Through the lens of systems thinking, we'll open a discussion about some of the big ideas and questions that a change-oriented approach holds for journalists: What new roles can journalists play to help evaluate and facilitate opportunities for social change? How do we negotiate traditional journalistic principles and standards while working to actively dismantle oppressive systems? How can we better communicate and act on our values?\n\nWe'll offer ideas from the systems thinking playbook, discuss examples of journalists who are actively rooting their practice in systems change and lead a visioning exercise to imagine new possibilities.", 
@@ -805,6 +1038,16 @@
         "id": 2342800, 
         "submitted_at": "2019-04-24T22:11:21.723Z", 
         "title": "How can newsrooms be more active catalysts for change?"
+    }, 
+    {
+        "cofacilitator": "Tina Ye", 
+        "cofacilitator_twitter": null, 
+        "description": "We use a bazillion code words to describe how decisions are made—data-driven, data-informed, consensus-based, human-centered, testing-driven, “design by committee”, KPIs, micromanagement, the list goes on—but they all tend to gloss over the messy parts of what is actually happening between humans and the thought process behind them. How do we make sure we make the correct decision? How do we do it in a way that is collaborative and where everyone on the team is heard and bought in?\n\nHow do we make sure product managers and designers and developers are all on the same page? How do we make sure they’re thinking the same thing as the editors, product owners and everyone else? What do we do when there are cultural differences? How do we deal with disagreements and power dynamics within the org? Different communication styles? How do we change our minds as we learn new things? How do we center voices from historically marginalized communities? How do we go one step further and include  the communities we serve in decision-making?\n\nJoin Tina and Cordelia as we take a stroll through some of the theory behind facilitation methods and figure out how to make it fit into our processes.", 
+        "facilitator": "Cordelia", 
+        "facilitator_twitter": "thebestsophist", 
+        "id": 2338195, 
+        "submitted_at": "2019-04-25T01:18:08.876Z", 
+        "title": "“Because the Boss Said So”: How the h*ck do we make decisions anyway?"
     }, 
     {
         "cofacilitator": null, 
