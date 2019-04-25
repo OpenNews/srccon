@@ -8,9 +8,9 @@ permalink: /sessions/proposals/
 
 # SRCCON 2019 Session Proposals
 
-We'll update this list through the end of our call for participation on April 24, then review them all and notify everyone about their session status by May 10. We hope these proposals—along with our [proposal guide](/sessions/proposal-guide/)—help spark ideas about how _you'd_ like to participate.
+Thank you to everyone who submitted a session idea for SRCCON this year! After we review each proposal, we'll notify everyone about their session status by May 10. And between now and then, we hope reading through the proposals here helps spark ideas about how _you'd_ like to participate. 
 
-If you'd like to take part in this year's SRCCON—as a facilitator, an attendee, or in any other way—you should [fill out our CFP](/participation/form/)!
+Our call for participation form for tickets remains open as space is available, so [tell us if you'd like to be there](/particpiation/form).
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.proposals %}
