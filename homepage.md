@@ -7,21 +7,17 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-<h1 style="font-size: 1.9em;">Our Call for Participation is Open!</h1>
+<p class="big-lead">Thanks to everyone who pitched a session. Check out our <a href="/sessions/proposals">proposed sessions list</a>, and <a href="/participation/form/">consider joining us</a>.</p>
 
-We’ll be accepting proposals through Wednesday, April 24, at 11:59pm ET.
-
-Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone by May 10. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $225 plus fees](/participation/#a-new-approach-to-ticket-prices).
-
-Thinking about a session idea for SRCCON 2019? We've put together a [proposals guide](/sessions/proposal-guide/) to help you out.
+We are no longer accepting session proposals or scholarships applications, but if you would like to attend SRCCON, there's still time to [tell us that you'd like to be there](/participation/form/). We will keep the call for participation form open for tickets only, as space remains available. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $225 plus fees](/participation/#a-new-approach-to-ticket-prices).
 
 ## Key Dates for Your Calendar
 
-* **April 10**: call for participation opens
-* **April 24**: call for participation for sessions and scholarships closes
-* **May 10**: last day by which participants will be notified
+* **April 24**: call for participation for sessions and scholarships closed
+* **May 10**: day by which sessions and scholarships will be notified
+* **Rolling**: call for participation for tickets open as space remains
 
-Curious about how it all works? Learn more about [the SRCCON program](/program) and [our call for participation](/participation). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2019, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only after the April 24 deadline, but applying by that date is your best chance to attend.
+Curious about how it all works? Learn more about [the SRCCON program](/program) and [what it's like to attend](/participation). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2019, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only.
 
 ## When & Where
 

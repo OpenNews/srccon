@@ -146,10 +146,3 @@ Ok, so you're excited to pitch your SRCCON session! If you feel ready to go, [yo
 * Always feel free to email [srccon@opennews.org](mailto:srccon@opennews.org). We're happy to give feedback on session proposals, answer questions not covered here, or help in other ways.
 * Check out the #srccon channesl on the [News Nerdery](http://newsnerdery.org/) or [Lonely Coders Club](https://lcc-slack.herokuapp.com/) Slacks. OpenNews staff members are in those channels, so if there's a question that may be of broad interest, feel free to raise it there.
 * As we get closer to SRCCON, we'll also publish a guide like this one with details and advice about facilitation, and we'll provide further resources for facilitators. If you're passionate about your proposal but unsure about the facilitation part, don't worry—you will be well supported in the weeks leading up to SRCCON.
-
-
-<span id="submit-proposal"></span>
-
-## Submit a Session Proposal
-
-Our call for participation is open until April 24 at 11:59pm ET. We'd love to have you [pitch a session](/participation/form/) so we can consider your ideas for SRCCON 2019, July 11 & 12 in Minneapolis.

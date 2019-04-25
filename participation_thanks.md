@@ -14,9 +14,6 @@ Do you have a colleague who would be interested in or benefit from joining us in
 
 Between now and then, here are a couple of key dates in the SRCCON process:
 
-* The call for participation closes Wednesday, April 24, at 11:59pm ET.
-* We'll notify everyone about attendance (and session proposals and scholarship applications, if you submitted one) by Friday, May 10.
+* If you apply before May 8, you will hear back from us by May 10. 
+* If you apply after May 8, you will hear from us within a few business days of submitting your form.
 
-**Reminder to session proposers:** Because SRCCON is a collaborative, peer-to-peer event rather than a series of prepared conference talks, we ask that all participants [buy a ticket](/participation/#a-new-approach-to-ticket-prices). We'll reserve a ticket for purchase by facilitators of accepted sessions.
-
-And you can also send any additional session proposals to us at [srccon@opennews.org](mailto:srccon@opnnews.org)—no need to fill out the form a second time.
