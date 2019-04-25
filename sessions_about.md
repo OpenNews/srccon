@@ -6,7 +6,7 @@ photocredit_url: http://www.westraco.com/
 permalink: /sessions/about/
 ---
 
-<p class="big-lead">Our <a href="/participation/form/">call for participation form</a> is open through April 24. We&rsquo;re excited to hear about your session ideas!</p>
+<p class="big-lead">Thank you to everyone who <a href="/sessions/proposals">proposed a session</a>!</p>
 
 # About Sessions at SRCCON
 
@@ -57,8 +57,6 @@ Facilitators who have a harder time have usually tried to fit too much stuff int
 * [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
 
 If running a session sounds like a lot of effort…it is! But it can also be really energizing, and it means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they're willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you're pitching solo and would like someone to work with.
-
-If you're thinking about pitching a session for SRCCON 2019, [we'd love to hear from you](/participation/form/).
 
 <span id="previous-years"></span>
 

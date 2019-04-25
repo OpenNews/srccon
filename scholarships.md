@@ -12,7 +12,7 @@ permalink: /scholarships/
 
 Whether you&rsquo;re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend SRCCON.
 
-There's no separate application—you can apply for a scholarship right on [our call for participation form](/participation/form/), which closes for scholarship applications on April 24.
+There's no separate application—there were questions about scholarships on [our call for participation form](/participation/form/), which closed for scholarship applications on April 24.
 
 ## What We&rsquo;re Offering
 
@@ -27,7 +27,7 @@ In addition to the travel scholarships, for the first time this year, we're offe
 * People of color, women, and other underrepresented groups in technology are strongly encouraged to apply
 
 ## How to Apply
-The application is part of our [call for participation form](/participation/form/). Apply by April 24.
+The application was part of our [call for participation form](/participation/form/). The deadline to apply for a scholarship was April 24.
 
 ## When Notifications Go Out
 Notifications for scholarships will go out alongside other notifications as part of the call for participation. You'll hear from us by May 10.
