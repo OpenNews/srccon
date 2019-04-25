@@ -1,5 +1,52 @@
 [
     {
+        "cofacilitator": "Joseph Lichterman", 
+        "cofacilitator_twitter": null, 
+        "description": "Too often, tips and suggestions for email newsletters at newsrooms can take a “one size fits all” approach. We’ve seen that the way a newsletter is made at a newsroom can enormously vary based on the size, resources and purpose of any given newsroom. \n\nIn this session, we’ll create a card-based strategy game that will guide small groups of participants through the process of creating a new newsletter product that meets an outlet’s editorial and business outcomes. Groups will have to develop a strategy that meets specific goals and will have to overcome hurdles and challenges that we throw in their way. \n\nThroughout the simulation, we’ll present then guide the room through a series of discussion topics and exercises based around the key worksteams of an email newsletter at a newsroom: user research, content creation, workflows, acquiring new email readers, and converting readers to members or donors.", 
+        "facilitator": "Emily Roseman", 
+        "facilitator_twitter": "emilyroseman1", 
+        "id": 2355937, 
+        "submitted_at": "2019-04-25T01:04:46.363Z", 
+        "title": "Game of Newsletters: A song of inboxes and subject lines"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "We have an obligation to our teams and our companies to bring great new people into our work who can help push our teams forward, and yet interviewing candidates can feel extracurricular and rote. We need to discuss what we might be doing wrong, what the consequences are, and how to better focus our efforts when we are interviewing the people who want to work alongside us. \n\nLet’s talk about how to create safe and respectful spaces in a job interview. Let’s think deeply and critically about how we spend the thirty to sixty minutes we have in the company of potential colleagues to ensure we’re learning the right things, in the right ways, for the right reasons. Let’s discuss different approaches to  advocating for a candidate you believe in, finding the person behind the candidate, questioning unconscious bias as you observe it, and teaching others how to do likewise.\n\nThis session is designed for both for seasoned interviewers and folks who have never done it before. Using actual interviews as a practice space and group discussion about foibles and tactics, we hope to walk away from this session with renewed focus and better, more respectful tools for getting to know a potential colleague and doing the hard work of bringing them into our newsrooms.", 
+        "facilitator": "David Yee", 
+        "facilitator_twitter": "tangentialism", 
+        "id": 2355903, 
+        "submitted_at": "2019-04-25T00:25:02.103Z", 
+        "title": "Being in the room: the hard work of interview-based hiring"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Last year, The New York Times tech org launched a Sponsorship program with the specific goal of promoting underrepresented groups into leadership positions. Those are both management and individual contributors positions. \n\nEach Sponsee is matched with an executive sponsor (Executive Director to CTO) specifically tasked to help them get larger positions. \n\nIn the first year we've already had 80% of the participants promoted, while retaining our rigorous promotions process. No free rides! Each promotion is well earned. \n\nThere was a ton of discussion, planning, and hard decisions that went into building this program. The goal of this session is to provide you with everything that we learned in making is successful, and give you all the tool you need to bring a nearly fully-baked proposal back to you your company. \n\nThis session will take you through:\n\n- How we determined the scope of the program\n- Who was ultimately brought in, and promoted\n- The structures that we invested in to make it work (trainings, facilitators, executive outreach, and internal Sponsor recruitment)\n- Q&A on the challenges faced and what we needed to make it work", 
+        "facilitator": "James Rooney", 
+        "facilitator_twitter": "jamesrooney", 
+        "id": 2355897, 
+        "submitted_at": "2019-04-25T00:25:02.302Z", 
+        "title": "Sponsorship: Promoting Underrepresented Groups into Leadership."
+    }, 
+    {
+        "cofacilitator": "Nozlee Samadzadeh", 
+        "cofacilitator_twitter": null, 
+        "description": "So much career advice revolves around mentorship, but many of us struggle to build mentorship relationships. How do you even find a mentor? And what do you do once you get one? It can feel intimidating and overwhelming to even get started, especially if you’re the only person with your title in the newsroom. Enter peer mentorship. As coworkers from different disciplines, we’ve found that peer mentorship has helped us grow in our careers, navigate the day-to-day challenges of life at work, and get shit done. We’ll talk about how you can identify potential peer mentors in your midst, what the peer mentorship relationship is and isn’t, and share some tips for structuring that relationship successfully. As a bonus, you might even leave the session with a potential peer mentor from the SRCCON community!", 
+        "facilitator": "Marie Connelly", 
+        "facilitator_twitter": "eyemadequiet", 
+        "id": 2355895, 
+        "submitted_at": "2019-04-25T01:00:04.172Z", 
+        "title": "Conversations with friends: developing strong peer mentorship relationships"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Art vs Science. Creativity vs Deadlines. Leading a team at a news organization requires a lot of switching  between left and right brain to get meetings scheduled but to coax the best ideas out of the team. But what happens if you get a boss who trends more to one side than the other? \n\nIt's more common than you think. Especially as newsrooms create more roles that straddle technical and editorial lines. So sometimes you may need a boss to get in there and wrestle with the material with you, but they’re busy overseeing a team of 20 people. Or you want someone who will go up the chain to argue that workflow changes are needed, but they would rather code review and tweak wording. \n\nIf any of this sounds familiar, let’s uncover the patterns in the way we interact with our higher-ups in order to have a strategy going forward. Without judgement, let’s take stock of ourselves and the people we report to in order to find ways that lead to better work relationships.", 
+        "facilitator": "Lauren Flannery", 
+        "facilitator_twitter": "LaurenFlannery3", 
+        "id": 2355891, 
+        "submitted_at": "2019-04-25T00:09:52.486Z", 
+        "title": "Manager vs Editor: Navigating your boss’s management style to get you both where you need to go"
+    }, 
+    {
         "cofacilitator": null, 
         "description": "This year we launched the project Desconfio in which we have developed a  methodology to analyze distrust electoral information. This allowed us to create indicators and establish a ranking of confidence in the news that we would like to share in the event.", 
         "facilitator": "Adrian Pino", 
@@ -110,6 +157,15 @@
         "id": 2355680, 
         "submitted_at": "2019-04-24T21:11:51.964Z", 
         "title": "Lessons from outside of journalism"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "In newsrooms, as in other workplaces, most are given power leadership through title and job description. But many of us operate in spaces where there is no one above you who can edit you. Let's explore how to lead your newsroom without the title and exert power over the things you care deeply about. And let's explore the ways you can acquire power by playing within the system.", 
+        "facilitator": "Steven Rich", 
+        "facilitator_twitter": "dataeditor", 
+        "id": 2355671, 
+        "submitted_at": "2019-04-25T00:32:02.064Z", 
+        "title": "How to lead without power"
     }, 
     {
         "cofacilitator": "Alex Tatusian", 
@@ -255,6 +311,15 @@
     }, 
     {
         "cofacilitator": null, 
+        "description": "Chances are you may be one of a handful of people in your newsroom tasked with creating and moderating an online community—maybe it’s a Facebook group, a subReddit, a chatroom (are those still a thing?), or creating conversation in the comments section of a specific beat/story. Maybe you’ve run a Facebook page or a social account before, but how do you foster a meaningful community, set appropriate guidelines, and moderate sensitive conversations?\n\nLet’s have a conversation about how to build a community from scratch, create support systems for yourself and your team (moderating is emotionally exhausting!), and run through some moderation scenarios and workshop ways to respond. Moderating discussion online isn’t just about making sure there’s no profanity in a posts—it’s become a tricky landscape that involves recognizing misinformation and disinformation tactics and checking your own biases. We hope you’ll come away from the session armed with tips on how to create strong community guidelines and ways to tackle tough conversations.", 
+        "facilitator": "Kanyakrit Vongkiatkajorn", 
+        "facilitator_twitter": "yukvon", 
+        "id": 2355310, 
+        "submitted_at": "2019-04-25T00:03:35.606Z", 
+        "title": "Moderating An Online Community For the First Time? Here’s How to Dive In (And Stay Sane)"
+    }, 
+    {
+        "cofacilitator": null, 
         "description": "\"Parachute journalism\" is the practice of national outlets or freelancers flying into local communities they're not a part of to report a story, then leaving again. It's a part of our journalistic economy, as the money and power in journalism is focused in just a few geographic locations--but it can also be damaging to local communities, and it can lead to misrepresentation, distrust and resentment. Often, national journalists appear in a community in times of trauma and elections, and report stories with insufficient context, while local journalists struggle to access equivalent resources for necessary ongoing reporting. This session will explore our collective experiences with parachute journalism as both insiders and outsiders to a community, in order to produce good ideas about how to do harm reduction, increase accountability, and shift power dynamics. We'll ask: Are there situations where it's better if this story just doesn't get told? How do we evaluate that? What can national media outlets and freelancers do to connect and collaborate with local journalists and local communities? What are the ethics of accountable partnerships? In what ways do local and regional/national media needs differ, and how can journalists collaborate to produce stories that better address the needs of all involved? All of this will be driving at a larger question: What does justice and accountability look like in the practice of journalism?", 
         "facilitator": "Lewis Raven Wallace", 
         "facilitator_twitter": "lewispants", 
@@ -271,6 +336,16 @@
         "id": 2355291, 
         "submitted_at": "2019-04-24T14:21:32.860Z", 
         "title": "Calling All Media Diversity Avengers: Now’s the time to act."
+    }, 
+    {
+        "cofacilitator": "Maxine Whitely (Rebecca Halleck and Umi Syam would be great additions, if possible)", 
+        "cofacilitator_twitter": null, 
+        "description": "Writing good documentation is hard, so let’s write some together in a low-pressure environment! This session isn’t just about writing documentation to go with SRCCON; it’s an opportunity to learn how to improve documentation at your organization and perhaps take-away a prototype install of Library, too.\n\nWe’ll start by collaborating on successful approaches to writing and sharing documentation in a newsroom, then use Library to collect useful documentation for all SRCCON attendees.\n\nLibrary is an open-source documentation tool released by the New York Times in collaboration with Northwestern University’s Knight Lab earlier this year. Because every page in Library is a Google Doc, you already know how to use it!", 
+        "facilitator": "Isaac White", 
+        "facilitator_twitter": "TweetAtIsaac", 
+        "id": 2355283, 
+        "submitted_at": "2019-04-24T23:09:53.353Z", 
+        "title": "Document this conference! An introduction to Library."
     }, 
     {
         "cofacilitator": "Karissa Cummings", 
@@ -414,6 +489,16 @@
         "id": 2354829, 
         "submitted_at": "2019-04-22T22:49:46.448Z", 
         "title": "The Impossible Task of Creating a SecureDrop Whistleblower Guide in 2019"
+    }, 
+    {
+        "cofacilitator": "jesikah maria ross", 
+        "cofacilitator_twitter": null, 
+        "description": "A lot of data journalism takes place in front of a computer, but there is a lot to be gained by creating data together with your community.  As part of a documentary project about a culturally diverse, low-income community, we recently invited residents to map their neighborhood — not online, but with paper and pens at in-person gatherings. We not only generated unique data, but also stories and context we never would have heard if we hadn’t met people where they lived. \n\nMore and more, journalists are experimenting with community engagement practices to accurately reflect and represent people’s lived experiences. We can do the same by taking an analog approach to creating data, including our community in the stories we tell about them. This helps verify the data by collecting it ourselves and having subject matter experts (your community!) vet it along the way. It also makes our reporting process more transparent and creates a group of people invested in our work. \n\nWe’ll share what we did and what we learned in our neighborhood mapping experiments, and invite a discussion on other ways to weave community engagement into data reporting. Our goal: draft a starter kit of ideas for doing data journalism IRL that you can take back to your newsroom.", 
+        "facilitator": "Christopher Hagan", 
+        "facilitator_twitter": "chrishagan", 
+        "id": 2354731, 
+        "submitted_at": "2019-04-24T23:03:19.743Z", 
+        "title": "Spreadsheets IRL: The How and Why of Making Data With Your Community"
     }, 
     {
         "cofacilitator": "Leza Zaman", 
@@ -618,6 +703,15 @@
         "id": 2351499, 
         "submitted_at": "2019-04-24T21:31:23.131Z", 
         "title": "Beat as a product: Lessons from product innovation for the newsroom"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "There are many resources out there for managers leading remote teams. Similarly, there are plenty of resources for the people on those teams to work, communicate and collaborate effectively. There are also plenty of arguments that have been made for how remote work improves employee effectiveness and satisfaction, why it has economic benefits for employers, and on and on. \n\nAnd yet, national news organizations concentrate their staff in the most expensive cities in the country. Let's try to figure out why that is and help make the case for supporting a more remote-friendly workforce.\n\nIn this session we'll try to come up with as many of the common objections raised by hiring managers when they insist that a given position be based in a particular location and then come up with a playbook of effective arguments to overcome those objections.\n\nAdditionally, we'll come up with some high level talking points regarding how supporting remote work can improve the fundamental economics of journalism while improving the lives of employees and the communities they serve.", 
+        "facilitator": "Adam Schweigert", 
+        "facilitator_twitter": "aschweig", 
+        "id": 2351494, 
+        "submitted_at": "2019-04-24T23:58:59.036Z", 
+        "title": "Making The Case For Remote Work"
     }, 
     {
         "cofacilitator": null, 
