@@ -189,7 +189,7 @@
     }, 
     {
         "cofacilitator": "Ajay Chainani", 
-        "cofacilitator_twitter": null, 
+        "cofacilitator_twitter": "ajayjapan", 
         "description": "Many news organizations are investigating how to apply artificial intelligence to the practice of journalism. Meanwhile many individuals and organizations are funding advancements in the field of news and AI. Do we take into consideration unconscious bias when developing algorithms and methods to build these new digital tools? How can they be best applied? What does the application of AI mean for newsrooms and the public they serve?", 
         "facilitator": "Sarah Schmalbach", 
         "facilitator_twitter": "schmalie", 
@@ -449,6 +449,15 @@
         "id": 2355548, 
         "submitted_at": "2019-04-24T15:50:27.901Z", 
         "title": "The Website is Knot Down:  An interactive, hands-on approach to Incident Management readiness @ NYT"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Journalists can learn so much from other practices, industries and fields. Approaches to public health, art, community organizing, critical theory, science and more can all carry valuable lessons for our work. Let's talk about the ideas we've gathered from texts, experiences and sources outside media and how they've affected the way we do journalism.\n\nBring one example of a reading, artwork, speech, event, interaction or anything that has deeply inspired your journalism practice and had nothing to do with journalism. We'll share our examples with each other and generate a list of sources that we can continue to build for others to draw from.", 
+        "facilitator": "Cole Goins", 
+        "facilitator_twitter": "colegoins", 
+        "id": 2355367, 
+        "submitted_at": "2019-04-25T14:22:57.191Z", 
+        "title": "Outside Sources: Sharing inspiration from beyond journalism"
     }, 
     {
         "cofacilitator": "Disha Raychaudhuri", 
