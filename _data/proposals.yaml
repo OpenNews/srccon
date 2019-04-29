@@ -383,6 +383,16 @@
         "title": "Better than Coffee: Fasting as a Fuel for Focus"
     }, 
     {
+        "cofacilitator": "Mike Rispoli", 
+        "cofacilitator_twitter": "RispoliMike", 
+        "description": "Developing sources is standard practice, but what about developing collaborators? Community members have so much more to offer than choice quotes and timely expertise. What if we developed the capacity of our audience to pitch stories, design distribution strategies, report, analyze, and disseminate the news?\n\nLet’s flesh out the resources that exist among our audience & within our communities, and the possibilities to invest in those resources so that the community invests in our journalism.\n\nFree Press plans to partner with a newsroom or community partner to facilitate this session.", 
+        "facilitator": "Madeleine Bair", 
+        "facilitator_twitter": "@madbair", 
+        "id": 2355594, 
+        "submitted_at": "2019-04-29T17:43:37.160Z", 
+        "title": "Building newsroom capacity by tapping into expertise outside the newsroom"
+    }, 
+    {
         "cofacilitator": "Jun-Kai Teoh", 
         "cofacilitator_twitter": null, 
         "description": "How would we do journalism differently if we were to think about impact — real-world change — at the brainstorming stage, before we started to write or shoot? If we knew something needed to happen to make things better, could we identify a few levers to pull that’d make that something more likely? Would we frame the story differently? Share the data openly? Talk to different sources? And how do we do all of this without going too far, without crossing into advocacy journalism? Now more than ever, with more nonprofit newsrooms forming, more for-profit newsrooms turning to consumer revenue (on the sales pitch that journalism matters) and trust at a crisis point, we need to measure and show why our work matters. This session will cover published examples and studies but is meant to be a discussion about what we can do — and what’s going too far — to make a difference. We might also, using design thinking strategies, prototype a project designed for impact.", 
@@ -449,6 +459,34 @@
         "id": 2355548, 
         "submitted_at": "2019-04-24T15:50:27.901Z", 
         "title": "The Website is Knot Down:  An interactive, hands-on approach to Incident Management readiness @ NYT"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Gulp? Grunt? NPM? 😱😱😱You're not the only one in over your head. Tools are rapidly changing, and what works for one team might be too opinionated for a lonely coder working on their own. On top of this, when do we find time to learn (let alone build) these tools while on aggressive deadlines?\n\nBring your rigs, your successes, your failures, and your questions. We will show off tools we have built and compare notes about where to begin, what to prioritize, and what to avoid.", 
+        "facilitator": "Daniel Wood", 
+        "facilitator_twitter": "danielpwwood", 
+        "id": 2355521, 
+        "submitted_at": "2019-04-29T17:09:57.576Z", 
+        "title": "Build Tools: We're all making it up as we go along"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "As newsrooms and product teams, we face some important organizational challenges: Create time and space to report on an exponentially more chaotic 24-hour news cycle, make our organizations more representative of the communities around us, find new ways to sustain our craft and businesses. These problems require radical change, but change is scary, so we often make that change in incremental ways. But incremental change tends to yield negligible benefits.\n\nInstead of picking the low hanging fruit, what if we assumed there was no cost to taking immediate, decisive, and thorough action—what would we do? What if we dropped everything? In this session, we’ll air the most radical possible solutions to the problems we face and use a mental framework to pull slightly back from the impossible to the merely audacious (instead of slightly forward from the status quo). We’ll talk about how to find real opportunities to turn a corner in organizational work, create actionable plans for proposing it, and find allies and license to try it.\n\nWe will walk away with a conversational framework for evaluating audacious changes, a shared willingness to propose it, and—hopefully—a few radical and compelling solutions to tricky problems.", 
+        "facilitator": "David Yee", 
+        "facilitator_twitter": "tangentialism", 
+        "id": 2355502, 
+        "submitted_at": "2019-04-25T14:35:52.739Z", 
+        "title": "Proposing the impossible: Approaches for advancing real change"
+    }, 
+    {
+        "cofacilitator": "Maya Miller", 
+        "cofacilitator_twitter": null, 
+        "description": "People are dying and it’s up to you to figure out why. In Queens, New York the percentage of people who die after suffering a heart attack is on the rise. Join our collaborative investigative team to solve the mystery and enact change.\n\nA la a murder mystery party or the world’s shortest LARP, you’ll play a character—perhaps a journalist, data analyst, EMS first responder, public housing resident, graphic designer, professor, city council member, hospital administrator, or community activist. Like any good mystery, you won’t be able to solve it alone.\n\nAt the end we’ll return to our everyday selves and discuss what we learned about working collaboratively, in and outside of journalism.", 
+        "facilitator": "Laura Laderman", 
+        "facilitator_twitter": "Liladerm", 
+        "id": 2355398, 
+        "submitted_at": "2019-04-25T14:32:31.653Z", 
+        "title": "Murder Mystery: Collaborative Journalism Edition"
     }, 
     {
         "cofacilitator": null, 
@@ -901,6 +939,25 @@
         "title": "Mark(er)ing up stories"
     }, 
     {
+        "cofacilitator": "Natasha Khan", 
+        "cofacilitator_twitter": null, 
+        "description": "Our unique skillsets as data journalists and developers can sometimes earn us more money, but they also earn us more responsibility. Especially when it comes to communicating what we do to managers and other reporters. \n\nLet's brainstorm ways we can better communicate with our newsrooms in order to get the respect and support we need to write data-driven stories and build awesome tools.", 
+        "facilitator": "Alexandra Kanik", 
+        "facilitator_twitter": "act_rational", 
+        "id": 2352051, 
+        "submitted_at": "2019-04-29T17:05:00.894Z", 
+        "title": "Talking In Code: How to help non-technical coworkers understand you"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Many of us work for organizations focused on the production and distribution of news and information via printed and digital formats. One thing we don't often consider is the space this work is consumed within or the impact our work could have on the physical world. This session would focus on a deeper conversation about the role the physical world should play in how we approach the development of and distribution of news.", 
+        "facilitator": "André Natta", 
+        "facilitator_twitter": "acnatta", 
+        "id": 2351927, 
+        "submitted_at": "2019-04-25T14:30:54.737Z", 
+        "title": "Creating the Space for Journalism"
+    }, 
+    {
         "cofacilitator": null, 
         "description": "Launching a membership program is like eating an elephant. How do you do it? One bite at a time. From launch campaign planning to pressing send on your first email, learn how newsrooms are launching membership programs with fanfare. You’ll walk away from this session with an action item list, member level framework, launch campaign copywriting template and tips for assessing campaign performance.", 
         "facilitator": "Rebecca Quarls", 
@@ -953,6 +1010,42 @@
         "id": 2351440, 
         "submitted_at": "2019-04-15T17:27:09.359Z", 
         "title": "Assembling the Scramble Suit"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "There's a joke I often hear journalists make: Our job is to clearly communicate information to our audience, and yet we're terrible at communicating with each other in our newsrooms. That's partly because we don't use the right tools or frameworks to encourage clear and consistent communication. At WhereBy.Us we've used three tools– user manuals, weekly team health checks and personal OKRs– that help every person in our organization share with their colleagues how they work best with others, how they're feeling at the end of a week, and what personal goals they want to work toward. This session will help attendees learn more about these tools and potentially adapt them for their own workplaces. I would also love to learn from others who have used tools like these to help their colleagues feel more heard and satisfied in their newsrooms.", 
+        "facilitator": "Anika Anand", 
+        "facilitator_twitter": "anikaanand00", 
+        "id": 2351418, 
+        "submitted_at": "2019-04-29T17:17:06.363Z", 
+        "title": "Three tools we use to help our team feel heard"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "From the folks who brought you “how to do a double-opt in introduction” and “please stop asking busy people to pick their brain, what are you, a zombie?” This interactive session will equip you with some specific tips, recommendations, and strategies to help you stand out for all the right reasons.", 
+        "facilitator": "Stacy-Marie Ishmael", 
+        "facilitator_twitter": "@s_m_i", 
+        "id": 2351370, 
+        "submitted_at": "2019-04-29T17:30:11.565Z", 
+        "title": "We can’t fix your life, but we can fix your [CV, LinkedIn, cover letter, interview approach, negotiating tactic]"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Anyone who writes code has been here before: you know the code you want to write, you know you've written it before, but you've been searching your library for nearly 30 minutes now and you're ready to just give up and write the damn thing all over again.\n\nAnd you've probably been here before too: you processed the data by hand the first time around because it was just quicker to pivot table than it was to pandas. But it's a year later now and your editor wants you to update the story because new data were released but you cannot for the life of you remember what you did because you are always overworked and you can't even remember what you had for breakfast yesterday.\n\nLet's talk about writing and organizing reusable code so that we can avoid ever being in either one of those situations ever again.", 
+        "facilitator": "Alexandra Kanik", 
+        "facilitator_twitter": "act_rational", 
+        "id": 2351366, 
+        "submitted_at": "2019-04-29T16:58:42.916Z", 
+        "title": "Lather, Rinse, Repeat: How to write and sustain reusable code in the wild"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "Step 1: Learn a bunch of time[read: sanity] saving shortcuts in your text editor. Step 2: Profit. I've been using Sublime for 5+ years, and only have begun to really understand its power. Whether its batch editing like a boss, using regex's to find exactly what you're looking for in source code, or quickly tabbing to the line of code you want, modern text editors are chock-full of Easter eggs and hidden tricks to enhance your workflow. \n\nBring your favorite text editor and hacks, and share them with your fellow SRCCONster. We'll walk through some monstrous source-code puzzles and discuss clever ways to tackle them.", 
+        "facilitator": "Daniel Wood", 
+        "facilitator_twitter": "danielpwwood", 
+        "id": 2351349, 
+        "submitted_at": "2019-04-29T17:13:18.582Z", 
+        "title": "Supercharge your text editor with a few time saving commands"
     }, 
     {
         "cofacilitator": "Brittany Mayes", 
