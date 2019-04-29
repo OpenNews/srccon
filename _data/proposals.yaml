@@ -75,6 +75,16 @@
         "title": "Beat as a product: Lessons from product innovation for the newsroom"
     }, 
     {
+        "cofacilitator": "Tina Ye", 
+        "cofacilitator_twitter": null, 
+        "description": "We use a bazillion code words to describe how decisions are made—data-driven, data-informed, consensus-based, human-centered, testing-driven, “design by committee”, KPIs, micromanagement, the list goes on—but they all tend to gloss over the messy parts of what is actually happening between humans and the thought process behind them. How do we make sure we make the correct decision? How do we do it in a way that is collaborative and where everyone on the team is heard and bought in?\n\nHow do we make sure product managers and designers and developers are all on the same page? How do we make sure they’re thinking the same thing as the editors, product owners and everyone else? What do we do when there are cultural differences? How do we deal with disagreements and power dynamics within the org? Different communication styles? How do we change our minds as we learn new things? How do we center voices from historically marginalized communities? How do we go one step further and include  the communities we serve in decision-making?\n\nJoin Tina and Cordelia as we take a stroll through some of the theory behind facilitation methods and figure out how to make it fit into our processes.", 
+        "facilitator": "Cordelia", 
+        "facilitator_twitter": "thebestsophist", 
+        "id": 2338195, 
+        "submitted_at": "2019-04-25T01:18:08.876Z", 
+        "title": "“Because the Boss Said So”: How the h*ck do we make decisions anyway?"
+    }, 
+    {
         "cofacilitator": null, 
         "description": "We really love journalism. We really love tech, and what it can do. We’re not so sure it’s sustainable for us in the long term or maybe even the short. We want to brainstorm ways to stay help connected and useful, even if /when that means running for the hills.\n\nHow can we support this necessity of a good world and not sacrifice ourselves.", 
         "facilitator": "Sydette Harry", 
@@ -484,6 +494,15 @@
         "id": 2342800, 
         "submitted_at": "2019-04-24T22:11:21.723Z", 
         "title": "How can newsrooms be more active catalysts for change?"
+    }, 
+    {
+        "cofacilitator": null, 
+        "description": "In this session will open up the conversation to knowledge share successful open source strategies, drawing on participants questions and experience. \n\nAt BBC News Labs we recently open sourced a transcript editor component  (https://github.com/bbc/react-transcript-editor) using a “code in the open” / “open source from the start” approach we engaged a community around the project. This has helped us to improve the project beyond what we had initially anticipated. \n\nBiggest discovery was that a lot of the key to a successful open source strategy was around the so called “soft skills”. Curating the project and communication within the contributors, drafting\ndocumentation, guides, ADR (architecture decision record), as well as talking to contributors and learn more about their use cases, online and offline.\n\nWe also discovered that it was instrumental in transferring our project to a production team to scale it to the rest of the organization.\n\nWill discuss what has worked, and what hasn’t worked for participants, and divide into groups to knowledge share potential open sourcing strategies.\n\nThis session welcomes both people who have no open source experience and are curious about how to get started as well as seasoned open source contributors/maintainers and anything in between.", 
+        "facilitator": "Pietro Passarelli", 
+        "facilitator_twitter": "pietropassarell", 
+        "id": 2355743, 
+        "submitted_at": "2019-04-24T21:16:25.179Z", 
+        "title": "How open sourcing your project can help scale it to the the rest of the organisation"
     }, 
     {
         "cofacilitator": "Heather Chin", 
@@ -1168,24 +1187,5 @@
         "id": 2355095, 
         "submitted_at": "2019-04-23T21:23:06.415Z", 
         "title": "You work in a newsroom; but what if you ran one? Let’s talk about Newsroom Co-ops."
-    }, 
-    {
-        "cofacilitator": null, 
-        "description": "In this session will open up the conversation to knowledge share successful open source strategies, drawing on participants questions and experience. \n\nAt BBC News Labs we recently open sourced a transcript editor component  (https://github.com/bbc/react-transcript-editor) using a “code in the open” / “open source from the start” approach we engaged a community around the project. This has helped us to improve the project beyond what we had initially anticipated. \n\nBiggest discovery was that a lot of the key to a successful open source strategy was around the so called “soft skills”. Curating the project and communication within the contributors, drafting\ndocumentation, guides, ADR (architecture decision record), as well as talking to contributors and learn more about their use cases, online and offline.\n\nWe also discovered that it was instrumental in transferring our project to a production team to scale it to the rest of the organization.\n\nWill discuss what has worked, and what hasn’t worked for participants, and divide into groups to knowledge share potential open sourcing strategies.\n\nThis session welcomes both people who have no open source experience and are curious about how to get started as well as seasoned open source contributors/maintainers and anything in between.", 
-        "facilitator": "Pietro Passarelli", 
-        "facilitator_twitter": "pietropassarell", 
-        "id": 2355743, 
-        "submitted_at": "2019-04-24T21:16:25.179Z", 
-        "title": "how open sourcing your project can help scale it to the the rest of the organisation"
-    }, 
-    {
-        "cofacilitator": "Tina Ye", 
-        "cofacilitator_twitter": null, 
-        "description": "We use a bazillion code words to describe how decisions are made—data-driven, data-informed, consensus-based, human-centered, testing-driven, “design by committee”, KPIs, micromanagement, the list goes on—but they all tend to gloss over the messy parts of what is actually happening between humans and the thought process behind them. How do we make sure we make the correct decision? How do we do it in a way that is collaborative and where everyone on the team is heard and bought in?\n\nHow do we make sure product managers and designers and developers are all on the same page? How do we make sure they’re thinking the same thing as the editors, product owners and everyone else? What do we do when there are cultural differences? How do we deal with disagreements and power dynamics within the org? Different communication styles? How do we change our minds as we learn new things? How do we center voices from historically marginalized communities? How do we go one step further and include  the communities we serve in decision-making?\n\nJoin Tina and Cordelia as we take a stroll through some of the theory behind facilitation methods and figure out how to make it fit into our processes.", 
-        "facilitator": "Cordelia", 
-        "facilitator_twitter": "thebestsophist", 
-        "id": 2338195, 
-        "submitted_at": "2019-04-25T01:18:08.876Z", 
-        "title": "“Because the Boss Said So”: How the h*ck do we make decisions anyway?"
     }
 ]
