@@ -1130,6 +1130,15 @@
         "title": "What's better than cramming? Self-educating with intention for a new job or focus."
     }, 
     {
+        "cofacilitator": null, 
+        "description": "Have you ever heard the saying that you're the average of the five people that you spend the most time with? Well, that may or may not be true, but it does prompt some useful reflection. Who do you spend the most time with while at work (in person, or remotely), and do they support you? Also what if you thought really hard and couldn't even come up with a list of five people? Well, you pitch a SRCCON session of course, and ask people to help you and others discuss ways to find (and keep) your work crew.\n\nIn this session we'll discuss:\n\n* If you don't already have \"your people\", what can you do about it? Where are they and how can you find them?\n* What if you do have a network, but you don't reach out to them enough because you're worried about \"bothering\" them? Are they really your people then?\n* If you don't already have people, who do you vent to? Who do you learn from? Who do you take cues from?\n* And further, should you ever strong-arm your way into an existing group? How does that go? Is it even a good idea? \n* What if you've recently moved, switched jobs or taken on a new role inside your company? Do you find new people, keep your old crew, or maintain both?\n\nThese topics and more will be discussed, and people can share their experiences, best (and worst!) practices for finding their network and finally realizing that everyone belongs somewhere (phew!)", 
+        "facilitator": "Sarah Schmalbach", 
+        "facilitator_twitter": "schmalie", 
+        "id": 2355589, 
+        "submitted_at": "2019-05-01T16:06:32.411Z", 
+        "title": "Where the sidewalk starts: How to find your people in a sea of well-meaning, super busy news nerds."
+    }, 
+    {
         "cofacilitator": "Joe Germuska", 
         "cofacilitator_twitter": null, 
         "description": "More than a decade ago, much of the web world was infatuated by the promise of the “semantic web,” a vision of seamless connections between data on independent systems. But before long, that vision seemed caught up in overly-complex abstractions and doomed to obscurity.\nMeanwhile, a combination of technology growth and recalibrated expectations may have set the stage for a new approach to achieving these goals. Wikipedia, better known for its collaborative, volunteer-written articles, has also incorporated its sister project Wikidata for structuring data in its pages and disambiguating names with stable identifiers. And, the Schema.org standards group has come up with simpler ways for web publishers to make their intentions explicit, empowering application developers to work with that information without needing Google-scale resources.\nIn this session, we’ll look at these two developments. We’ll provide a practical introduction to working with Wikidata and its related APIs and datasets, and, we’ll discuss what might be possible if structured data was more completely baked into our research, articles, or web applications.", 
