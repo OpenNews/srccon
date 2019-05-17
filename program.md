@@ -30,14 +30,11 @@ SRCCON is also organized around building connections between participants. We wa
 
 SRCCON attendees tend to arrive on Wednesday and leave Friday evening or Saturday, depending on how the flight times work out. Our general conference schedule will look like this:
 
-**Wednesday**  
-Evening meetup for session facilitators, starting around 6pm.
+**Wednesday:** Evening meetup for session facilitators, starting around 6pm.
 
-**Thursday**  
-Registration in the morning, with conference programming from about 9am to 6pm, followed by an evening full of informal activities at the venue.
+**Thursday:** Registration in the morning, with conference programming from about 9am to 6pm, followed by an evening full of informal activities at the venue.
 
-**Friday**  
-Conference programming from about 9am to 6pm.
+**Friday:** Conference programming from about 9am to 6pm.
 
 Check [our logistics page](/logistics) for information about our conference hotel and other ways we hope to make it easier for you to take part in SRCCON.
 

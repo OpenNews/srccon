@@ -14,6 +14,10 @@ SRCCON (a contraction of “Source con”) is a highly participatory and extraor
 
 We welcome about 300 attendees, and everyone at SRCCON actively participates, whether they’re facilitating a session, contributing to a conversation over lunch, or meeting new colleagues and supporting their work. The entire structure of the event—from the venue to the program to the pace of our days—is set up to allow participants to get to know each other and learn from the wisdom in the room. We have smart sessions and hard conversations, but we also have long breaks, group meals, and social events that create space for the life side of our work.
 
+## When & Where
+
+SRCCON 2019 takes place July 11 & 12 at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis. Attendees tend to arrive on Wednesday and leave Friday evening or Saturday, depending on how the flight times work out. Learn more about [how our program works](/program), and check [our logistics page](/logistics) for hotel, schedule, and more information about taking part in SRCCON.
+
 ## What You Bring to SRCCON
 
 * **Who you are, in your work as a journalist and outside of it too.** This conference works because our audience is inclusive. Whatever your experiences—on a large team or a small one; as a developer, a reporter, an editor or manager, or in a hybrid role that feels kind of hard to explain; as a journalist of color or a member of another underrepresented community; as a person who lives on a coast or far, far away from one—you'll contribute perspectives that this event needs.
@@ -41,5 +45,3 @@ We welcome about 300 attendees, and everyone at SRCCON actively participates, wh
 ## How to Participate
 
 Our [call for participation form](/participation/form/) remains open on a rolling basis for tickets only, as space remains available. The CFP application process allow us to allocate tickets in an intentional way that equitably distributes attendance and ensures that there are a mix of perspectives and skills at the event. Our call for participation form helps us understand who would like to take part in SRCCON and what you want to get out of it. [Everyone at SRCCON contributes to making it happen](/participation).
-
-Check [our logistics page](/logistics) for information about our conference hotel and other ways we hope to make it easier for you to take part in SRCCON.
