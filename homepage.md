@@ -7,23 +7,15 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-<p class="big-lead">Thanks to everyone who pitched a session. Check out our <a href="/sessions/proposals">proposed sessions list</a>, and <a href="/participation/form/">consider joining us</a>.</p>
-
-We are no longer accepting session proposals or scholarships applications, but if you would like to attend SRCCON, there's still time to [tell us that you'd like to be there](/participation/form/). We will keep the call for participation form open for tickets only, as space remains available. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $225 plus fees](/participation/#a-new-approach-to-ticket-prices).
-
-## Key Dates for Your Calendar
-
-* **April 24**: call for participation for sessions and scholarships closed
-* **May 10**: day by which sessions and scholarships will be notified
-* **Rolling**: call for participation for tickets open as space remains
-
-Curious about how it all works? Learn more about [the SRCCON program](/program) and [what it's like to attend](/participation). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2019, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only.
+<p class="big-lead">Thanks to everyone who proposed session ideas this year. We&rsquo;re excited to announce <a href="/sessions">the sessions coming to SRCCON 2019!</a></p>
 
 ## When & Where
 
 On July 11 & 12 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
 
-Once tickets are sold, we'll be opening up a discounted block of rooms for participants at a nearby hotel.
+If you'd like to attend SRCCON, there’s still time to join us! Our [call for participation form](/participation/form/) will stay open as space remains available. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with prices starting at $225 plus fees.
+
+Curious about how it all works? Learn more about [the SRCCON program](/program) and [what it's like to attend](/participation). Check [our logistics page](/logistics) for information about our conference hotel and other ways we hope to make it easier for you to take part in SRCCON.
 
 ## About SRCCON
 

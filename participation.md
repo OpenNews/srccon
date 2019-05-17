@@ -6,17 +6,17 @@ photocredit_url: http://www.westraco.com/
 permalink: /participation/
 ---
 
-<p class="big-lead"><a href="/participation/form/">Our call for participation form</a> remains open for tickets. It's your chance to tell us if you&rsquo;d like to be there.</p>
+<p class="big-lead"><a href="/participation/form/">Our call for participation form</a> remains open for tickets. It&rsquo;s your chance to tell us if you&rsquo;d like to be there.</p>
 
 # Participation at SRCCON
 
-SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form/) is open till April 24, and it's where you tell us about what you'd like to share, whether that be as a facilitator or attendee, and what you hope to take back home with you. We also wrote a question-by-question [walkthrough of the call for participation form itself](https://opennews.org/blog/srccon2019-participation-howto/) to help you tell us all about how you'd like to join us at SRCCON.
+SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form/) is where you tell us about what you’d like to share and what you hope to take back home with you. We wrote a question-by-question [walkthrough of the participation form](https://opennews.org/blog/srccon2019-participation-howto/) to make it even easier to tell us about how you’d like to join us at SRCCON.
 
 We keep the size of SRCCON intentionally rather small at 300 people, and we've experimented with different ways to allocate tickets. We've landed on this approach—one single form to gather session ideas, applications to attend, and scholarship requests—as the easiest experience for potential attendees and a streamlined process for us in organizing the conference, too.
 
 The small conference size means that we have to be intentional about equitably distributing tickets and ensuring that there's a mix of perspectives and skills at SRCCON. Our [call for participation form](/participation/form/) will help us understand who would like to take part in SRCCON and what you want to get out of it. With those responses, we're able to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The form is open from April 10-24. After that, we will review entries and notify everyone by May 10. If invited to attend, you will have the chance to purchase a ticket, with [prices starting at $225 plus fees](https://opennews.org/blog/srccon-2019-launch).
+The [participation form](/participation/form/) remains open as we have space available, and we'll review entries and notify applicants on a rolling basis. If invited to attend, you will have the chance to purchase a ticket, with prices starting at $225 plus fees.
 
 ## A New Approach to Ticket Prices
 
@@ -34,7 +34,7 @@ These ticket sales are part of what enables us to organize an event with 40 even
 
 ## Not Just Attendees, But Participants
 
-At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/program) who are ready to share their experiences and perspectives. Check out [the proposals we've received for this year's program so far](/sessions/proposals/).
+At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/program) who are ready to share their experiences and perspectives. Check out the [sessions we've confirmed](/sessions) for SRCCON 2019 so far!
 
 Facilitators create space for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON an inclusive, welcoming place by leading fun group activities like knitting or book clubs, volunteering, and saying hi to new potential friends and collaborators over meals and coffee/tea/hot beverages.
 
@@ -46,7 +46,4 @@ We think SRCCON is best when there's a mix of folks new to SRCCON and veterans o
 
 ## Financial & Family Assistance
 
-We offered a limited number of [travel scholarships](/scholarships) to help people who wouldn't otherwise be able to attend. To apply for a scholarship to SRCCON, just let us know on the [call for participation form](/participation/form/).
-
-In addition to financial assistance, we know that making sure you have coverage for your children is important, so we also offer attendees [free childcare](/childcare) run by providers we trust with our own kids. There's a question on the form to let us know you'd like more information about childcare.
-
+We offered a limited number of [travel scholarships](/scholarships) to SRCCON 2019 to help people who wouldn’t otherwise be able to attend. In addition to financial assistance, we know that making sure you have coverage for your children is important, so we also offer attendees [free childcare](/childcare) run by providers we trust with our own kids. There’s a question on the form to let us know you’d like more information about childcare.

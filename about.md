@@ -6,13 +6,13 @@ photocredit_url: http://www.westraco.com/
 permalink: /about/
 ---
 
-<p class="big-lead">Everyone at SRCCON contributes to making it happen. <a href="/participation/form/">Our call for participation form</a> remains open on a rolling basis, so let us know if you'd lik to join in!</p>
+<p class="big-lead">Everyone at SRCCON contributes to making it happen. <a href="/participation/form/">Our call for participation form</a> remains open on a rolling basis, so let us know if you&rsquo;d like to join in!</p>
 
 # About SRCCON
 
-SRCCON (a contraction of "Source con") is a highly participatory and extraordinarily inclusive conference where participants come first so they can focus on collaborating on the work at hand: transforming the way journalism works for them, their colleagues, and their communities. About 1/3 of attendees are also session facilitators, leading conversations and collaborative workshops focused on the practical challenges that news technology and data teams encounter every day. 
+SRCCON (a contraction of “Source con”) is a highly participatory and extraordinarily inclusive conference where participants come first so they can focus on collaborating on the work at hand: transforming the way journalism works for them, their colleagues, and their communities. About 1/3 of attendees are also session facilitators, leading conversations and collaborative workshops focused on the practical challenges that news technology and data teams encounter every day. Learn more about how [our program](/program) comes together, or check out the [sessions we've confirmed](/sessions) for SRCCON 2019!
 
-We welcome about 300 attendees, and everyone at SRCCON actively participates, whether they're facilitating a session, contributing to a conversation over lunch, or meeting new colleagues and supporting their work. The entire structure of the event—from the venue to the program to the pace of our days—is set up to allow participants to get to know each other and learn from the wisdom in the room. We have smart sessions and hard conversations, but we also have long breaks, group meals, and social events that create space for the life side of our work.
+We welcome about 300 attendees, and everyone at SRCCON actively participates, whether they’re facilitating a session, contributing to a conversation over lunch, or meeting new colleagues and supporting their work. The entire structure of the event—from the venue to the program to the pace of our days—is set up to allow participants to get to know each other and learn from the wisdom in the room. We have smart sessions and hard conversations, but we also have long breaks, group meals, and social events that create space for the life side of our work.
 
 ## What You Bring to SRCCON
 
@@ -41,3 +41,5 @@ We welcome about 300 attendees, and everyone at SRCCON actively participates, wh
 ## How to Participate
 
 Our [call for participation form](/participation/form/) remains open on a rolling basis for tickets only, as space remains available. The CFP application process allow us to allocate tickets in an intentional way that equitably distributes attendance and ensures that there are a mix of perspectives and skills at the event. Our call for participation form helps us understand who would like to take part in SRCCON and what you want to get out of it. [Everyone at SRCCON contributes to making it happen](/participation).
+
+Check [our logistics page](/logistics) for information about our conference hotel and other ways we hope to make it easier for you to take part in SRCCON.

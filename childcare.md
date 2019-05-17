@@ -21,3 +21,7 @@ Two of our own staff members have had their young children happily in KiddieCorp
 ## Logistics
 
 Childcare will take place at a hotel very close to the conference venue. If you're interested in childcare, please tell us on the [call for participation form](/participation/form/). You can [learn more about KiddieCorp's staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
+
+## Register now
+
+If you’ve already purchased your SRCCON ticket and you know you are planning to use our childcare program, you can register today [by filling out this form](https://www.jotform.com/KiddieCorp/srcconkids). The registration deadline is June 13, 2019. Register early as availability is limited and handled on a first-come, first-served basis. KiddieCorp must receive the registration form to hold any advance reservations.
