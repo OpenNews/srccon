@@ -10,9 +10,13 @@ permalink: /about/
 
 # About SRCCON
 
-SRCCON (a contraction of "Source con") is a highly participatory and extraordinarily inclusive conference where participants come first so they can focus on collaborating on the work at hand: transforming the way journalism works for them, their colleagues, and their communities. About 1/3 of attendees are also session facilitators, leading conversations and collaborative workshops focused on the practical challenges that news technology and data teams encounter every day. 
+SRCCON (a contraction of “Source con”) is a highly participatory and extraordinarily inclusive conference where participants come first so they can focus on collaborating on the work at hand: transforming the way journalism works for them, their colleagues, and their communities. About 1/3 of attendees are also session facilitators, leading conversations and collaborative workshops focused on the practical challenges that news technology and data teams encounter every day. Learn more about how [our program](/program) comes together, or check out the [sessions we've confirmed](/sessions) for SRCCON 2019!
 
-We welcome about 300 attendees, and everyone at SRCCON actively participates, whether they're facilitating a session, contributing to a conversation over lunch, or meeting new colleagues and supporting their work. The entire structure of the event—from the venue to the program to the pace of our days—is set up to allow participants to get to know each other and learn from the wisdom in the room. We have smart sessions and hard conversations, but we also have long breaks, group meals, and social events that create space for the life side of our work.
+We welcome about 300 attendees, and everyone at SRCCON actively participates, whether they’re facilitating a session, contributing to a conversation over lunch, or meeting new colleagues and supporting their work. The entire structure of the event—from the venue to the program to the pace of our days—is set up to allow participants to get to know each other and learn from the wisdom in the room. We have smart sessions and hard conversations, but we also have long breaks, group meals, and social events that create space for the life side of our work.
+
+## When & Where
+
+SRCCON 2019 takes place July 11 & 12 at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis. Attendees tend to arrive on Wednesday and leave Friday evening or Saturday, depending on how the flight times work out. Learn more about [how our program works](/program), and check [our logistics page](/logistics) for hotel, schedule, and more information about taking part in SRCCON.
 
 ## What You Bring to SRCCON
 
