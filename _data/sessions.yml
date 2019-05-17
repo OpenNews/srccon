@@ -50,7 +50,7 @@
     }, 
     {
         "cofacilitator": null, 
-        "description": "We really love journalism. We really love tech, and what it can do. We’re not so sure it’s sustainable for us in the long term or maybe even the short. We want to brainstorm ways to stay help connected and useful, even if /when that means running for the hills.\n\nHow can we support this necessity of a good world and not sacrifice ourselves.", 
+        "description": "We really love journalism. We really love tech, and what it can do. We’re not so sure it’s sustainable for us in the long term or maybe even the short. We want to brainstorm ways to stay help connected and useful, even if/when that means running for the hills.\n\nHow can we support this necessity of a good world and not sacrifice ourselves.", 
         "facilitator": "Sydette Harry", 
         "facilitator_twitter": "Blackamazon", 
         "id": 2353723, 
@@ -139,7 +139,7 @@
     {
         "cofacilitator": "Vinessa Wan", 
         "cofacilitator_twitter": "vnessawithaneye", 
-        "description": "(Subtitle: How The New York Times is Moving Towards a Culture of Growth and Accountability Through Blamelessness.)\n\nCo-facilitator: Vinessa Wan (who will be submitting her own form today, too.)\n\nIncidents and outages are a normal part of any complex system. In recent years The New York Times adopted a collaborative method for discussing these events called Learning Reviews. We'd like to give a brief introduction to Learning Reviews—where they originated, why they're called Learning Reviews, what they are—followed by a few exercises with the attendees. Some of these group exercises would focus on communicating the idea of complexity and how that impacts our ability to predict the future. In doing so, we'd also communicate how complex systems have a degree of impermanence and how this contributes to outages. This segues into the theme of the discussion, how do we look back on an event in a way that prioritizes learning more about our systems and less about finding fault with a human? We'll go over the importance of language and facilitation in this process.", 
+        "description": "Incidents and outages are a normal part of any complex system. In recent years The New York Times adopted a collaborative method for discussing these events called Learning Reviews. We'd like to give a brief introduction to Learning Reviews—where they originated, why they're called Learning Reviews, what they are—followed by a few exercises with the attendees. Some of these group exercises would focus on communicating the idea of complexity and how that impacts our ability to predict the future. In doing so, we'd also communicate how complex systems have a degree of impermanence and how this contributes to outages. This segues into the theme of the discussion, how do we look back on an event in a way that prioritizes learning more about our systems and less about finding fault with a human? We'll go over the importance of language and facilitation in this process.", 
         "facilitator": "Joe Hart", 
         "facilitator_twitter": null, 
         "id": 2355136, 
@@ -187,7 +187,7 @@
     {
         "cofacilitator": null, 
         "description": "It's been amazing to see how the news nerd community has grown and evolved over the decades, and as we've gotten to meet in person over the last 5 years of SRCCONs. We have data about who is part of the news nerd community, and through various Slacks and events like this one, we've seen how members of this community support and care for one another. Let's take a moment to reflect on this community (with the support of an outside facilitator): who is a part of this community? Who is not (or is not yet) included? What are our responsibilities to each other? What does our collective future hold? We'll explore what we need to create that future, together.", 
-        "facilitator": "erika owens", 
+        "facilitator": "Erika Owens", 
         "facilitator_twitter": "erika_owens", 
         "id": 2338033, 
         "submitted_at": "2019-04-23T22:57:55.747Z", 
@@ -330,7 +330,7 @@
     {
         "cofacilitator": "Hannah Birch", 
         "cofacilitator_twitter": "hannahsbirch", 
-        "description": "One of the most frequently cited reasons (https://medium.com/jsk-class-of-2018/news-nerd-salaries-2017-2c83466b994e) journalists in digital roles leave their jobs is lack of promotion and career advancement opportunities. At the same time, journalists with a nontraditional mix of skills, who sit at the intersection of roles, departments or teams — we call them platypuses — are proving to be pivotal to the future of news. So how can newsrooms use the people they have to push their digital initiatives forward? \n\nThis session brings together digital journalists and managers to discuss career growth within the newsroom, especially for people with a nontraditional blend of skills. A lot of growth in digital careers is uncharted territory, but through our empathy interviews we will bring together tips and frameworks for how digital journalists can fit into forward-thinking newsrooms.\n\nWe’ll share success stories and lessons learned, and we’ll workshop tactics that could work in participants’ newsrooms. This session is meant to be a launchpad for conversations and plans to better empower and grow newsroom digital talent — and not lose them to other newsrooms and industries.", 
+        "description": "One of the [most frequently cited reasons](https://medium.com/jsk-class-of-2018/news-nerd-salaries-2017-2c83466b994e) journalists in digital roles leave their jobs is lack of promotion and career advancement opportunities. At the same time, journalists with a nontraditional mix of skills, who sit at the intersection of roles, departments or teams — we call them platypuses — are proving to be pivotal to the future of news. So how can newsrooms use the people they have to push their digital initiatives forward? \n\nThis session brings together digital journalists and managers to discuss career growth within the newsroom, especially for people with a nontraditional blend of skills. A lot of growth in digital careers is uncharted territory, but through our empathy interviews we will bring together tips and frameworks for how digital journalists can fit into forward-thinking newsrooms.\n\nWe’ll share success stories and lessons learned, and we’ll workshop tactics that could work in participants’ newsrooms. This session is meant to be a launchpad for conversations and plans to better empower and grow newsroom digital talent — and not lose them to other newsrooms and industries.", 
         "facilitator": "Vignesh Ramachandran", 
         "facilitator_twitter": "VigneshR", 
         "id": 2353502, 
