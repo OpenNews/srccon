@@ -6,7 +6,7 @@ photocredit_url: http://www.westraco.com/
 permalink: /about/
 ---
 
-<p class="big-lead">Everyone at SRCCON contributes to making it happen. <a href="/participation/form/">Our call for participation form</a> remains open on a rolling basis, so let us know if you'd lik to join in!</p>
+<p class="big-lead">Everyone at SRCCON contributes to making it happen. <a href="/participation/form/">Our call for participation form</a> remains open on a rolling basis, so let us know if you&rsquo;d like to join in!</p>
 
 # About SRCCON
 
