@@ -8,9 +8,9 @@ permalink: /sessions/
 
 # SRCCON 2019 Sessions
 
-The following sessions have been confirmed for SRCCON 2019. Thank you to all who submitted proposals, and to the [community panel](#community-review) that helped us during the review process.
+The program at SRCCON is built around hands-on, participatory sessions, [and also makes space](/program) for emergent conversations, evening activities, and time to talk with the people you meet. We'll build the conference schedule from the sessions listed here, which we're excited to announce for SRCCON 2019.
 
-We have a few sessions and facilitators still to confirm, and some descriptions here may evolve between now and SRCCON. This year's final schedule will reflect any updates and include an evening program of fun, informal talks, discussions, and activities.
+We have a few sessions and facilitators still to confirm, and some descriptions here may evolve between now and SRCCON. Thank you to everyone who submitted proposals, and to the [community panel](#community-review) that helped us during the review process!
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.sessions %}
