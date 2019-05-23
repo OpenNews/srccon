@@ -6,7 +6,7 @@ photocredit_url: https://www.flickr.com/photos/juggernautco/27262805686/
 permalink: /program/
 ---
 
-<p class="big-lead">Check out our <a href="/sessions">sessions for this year</a> and <a href="/participation/form">let us know</a> if you'd like to be part of SRCCON!</p>
+<p class="big-lead">Check out our <a href="/sessions">sessions for this year</a> and <a href="/participation/form">let us know</a> if you&rsquo;d like to be part of SRCCON!</p>
 
 # The SRCCON Program
 

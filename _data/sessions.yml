@@ -71,7 +71,7 @@
         "cofacilitator_twitter": "", 
         "description": "Developing sources is standard practice, but what about developing collaborators? Community members have so much more to offer than choice quotes and timely expertise. What if we developed the capacity of our audience to pitch stories, design distribution strategies, report, analyze, and disseminate the news?\n\nLet’s flesh out the resources that exist among our audience & within our communities, and the possibilities to invest in those resources so that the community invests in our journalism.\n\nFree Press plans to partner with a newsroom or community partner to facilitate this session.", 
         "facilitator": "Madeleine Bair", 
-        "facilitator_twitter": "@madbair", 
+        "facilitator_twitter": "madbair", 
         "id": 2355594, 
         "submitted_at": "2019-04-29T17:43:37.160Z", 
         "title": "Building newsroom capacity by tapping into expertise outside the newsroom"
@@ -100,7 +100,7 @@
         "cofacilitator_twitter": null, 
         "description": "Teaching data journalism in newsrooms and at universities has forced us to come up with creative techniques. We wrote The SQL Song to help one group of boot camp attendees understand the order of commands. In an attempt to help students fine-tune their programs, we did a game show called Query Cash. To make string functions make more sense, we’ve created silly, but useful performances. To make this session interactive, we propose inviting attendees to bring their ideas. We also will pose some problems and have teams work out creative solutions.", 
         "facilitator": "Jennifer LaFleur", 
-        "facilitator_twitter": "@j_la28", 
+        "facilitator_twitter": "j_la28", 
         "id": 2355574, 
         "submitted_at": "2019-04-24T16:28:15.813Z", 
         "title": "Creative ways to teach complex issues"
@@ -131,7 +131,7 @@
         "cofacilitator": null, 
         "description": "[cue Star Wars scroll ...]\n\nHeading into 2019, Chicago faced a historic election. For the first time in decades, the mayor's office was up for grabs with no incumbent and no heir apparent to the 5th floor of City Hall. Meanwhile, the clerk, treasurer and entire 50-seat City Council were up for election. Competition was fierce.\n\nSmall newsrooms faced the daunting task of covering all of these races. More than 200 candidates were running for local office -- including more than a dozen for mayor -- from complete unknowns to career pols. All of this was taking place in a news environment where media often struggles to engage voters and help them make informed decisions.\n\nWith these challenges in mind, a group of five local independent newsrooms decided to pool their resources and work together to create a one-stop resource to serve voters. In a matter of days, the Chi.vote Collaborative was founded, launching a website with candidate profiles, articles, voter resources and other information. The collaborative grew to 10 partners and traffic to the website surged heading into the February election and eventual April runoff. We literally built the car as we drove it, rolling out new features as fast as we could develop them. All while publishing new stories and information daily. \n\nWe quickly learned a lot about collaborating, building on each other's strengths and overcoming challenges. Here are our takeaways, what worked and what didn't, along with tips, insights and all the key technical details that could help you and your collaborators cover the next election.", 
         "facilitator": "Matt Kiefer", 
-        "facilitator_twitter": "@matt_kiefer", 
+        "facilitator_twitter": "matt_kiefer", 
         "id": 2355759, 
         "submitted_at": "2019-04-24T22:40:05.072Z", 
         "title": "Don't compete, collaborate: Lessons learned from covering the 2019 Chicago municipal elections"
@@ -157,7 +157,7 @@
     }, 
     {
         "cofacilitator": "Bridget Thoreson", 
-        "cofacilitator_twitter": null, 
+        "cofacilitator_twitter": "bridgetthoreson", 
         "description": "We are all too aware that the 2020 election is coming up. But do our community members feel empowered by the coverage we’re producing? Unlikely. Typically it starts with the candidates and what they have to do to win, rather than the voters and what they need to participate. We should flip that.  \n\nIf we let the needs of community members drive the design of our election coverage, it would look dramatically different – and be dramatically better for our democratic process and social cohesion, we think. Bonus: those community members will be pretty grateful to you for unsexy coverage like explaining what a circuit court judge does. At a time when we’re pivoting to reader revenue, this public service journalism model is not just good karma – it should be seen as mission critical. \n\nWe’ll explore the “jobs to be done” in election reporting, how to ask questions that will give you a deeper understanding of voters’ information needs, the tools at our disposal to do that, and the ways that newsrooms can ensure they have enough feedback from actual voters to resist the siren call of the latest campaign gaffe or poll results.", 
         "facilitator": "Ariel Zirulnick", 
         "facilitator_twitter": "azirulnick", 
@@ -198,7 +198,7 @@
         "cofacilitator_twitter": "KaylaChristoph", 
         "description": "While journalists talk a lot about having an impact, we're not as forthcoming on how we can be more deliberate and active in informing structural change in our communities. Our work is often geared to spark surface-level outcomes (a law was passed, an official was held accountable, etc.), but even when media organizations are equipped to do deeper investigative work, they often don’t invest in longer-term strategies that can illuminate pathways for citizens to create more equitable, healthy systems.\n\nUsing a practice called systems thinking – a holistic approach to grappling with complex issues – journalists can develop more collaborative frameworks that help people build power and resiliency to address some of our most deeply rooted problems. Through the lens of systems thinking, we'll open a discussion about some of the big ideas and questions that a change-oriented approach holds for journalists: What new roles can journalists play to help evaluate and facilitate opportunities for social change? How do we negotiate traditional journalistic principles and standards while working to actively dismantle oppressive systems? How can we better communicate and act on our values?\n\nWe'll offer ideas from the systems thinking playbook, discuss examples of journalists who are actively rooting their practice in systems change and lead a visioning exercise to imagine new possibilities.", 
         "facilitator": "Cole Goins", 
-        "facilitator_twitter": "@colegoins", 
+        "facilitator_twitter": "colegoins", 
         "id": 2342800, 
         "submitted_at": "2019-04-24T22:11:21.723Z", 
         "title": "How can newsrooms be more active catalysts for change?"
@@ -303,7 +303,7 @@
         "cofacilitator": null, 
         "description": "Let's all show each other our CMSes and workflows! A lineup of people involved in the development or operation of their CMS demos several key workflows and how different newsroom users accomplish the same tasks. Each demo will follow the same structure and show the same tasks for easy comparability.", 
         "facilitator": "Albert Sun", 
-        "facilitator_twitter": "@albertsun", 
+        "facilitator_twitter": "albertsun", 
         "id": 2355631, 
         "submitted_at": "2019-04-24T17:41:35.936Z", 
         "title": "Mutual CMS Demos"
@@ -395,7 +395,8 @@
         "title": "Taking Up Space: Making Room for People with Disabilities at The Times"
     }, 
     {
-        "cofacilitator": null, 
+        "cofacilitator": "Becca Aaronson", 
+        "cofacilitator_twitter": "becca_aa", 
         "description": "News nerds came of age in newsrooms that were hostile to their efforts. But now, the geeks are running the show. There are few holdouts left. Winning was easy. Governing is harder.\n\nWhat should the agenda of the nerds be in newsrooms where they are finally winning territory and mindshare? How will we use our positions to further our agenda?", 
         "facilitator": "Jeremy Bowers", 
         "facilitator_twitter": "jeremybowers", 
@@ -404,7 +405,8 @@
         "title": "The Geeks Won: Now What?"
     }, 
     {
-        "cofacilitator": null, 
+        "cofacilitator": "Amelia McNamara", 
+        "cofacilitator_twitter": "AmeliaMN", 
         "description": "We often come across percentages in journalism, simple numbers that convey a powerful amount of information. But a percentage can obscure crucial information. If one ZIP code has 30 homeless individuals out of 100, and another has 30,000 homeless out of 100,000, the percentages indicates similarity, but the two geographies will have vastly different times dealing with the homeless population. When looking at a list of percentages, we should endeavor to find those that are distinct. Tools from statistical theory can help us tease out what's unusual and what isn't. It doesn't require much complicated math, just a little algebra.", 
         "facilitator": "Ryan Menezes", 
         "facilitator_twitter": "ryanvmenezes", 
