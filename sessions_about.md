@@ -6,7 +6,7 @@ photocredit_url: http://www.westraco.com/
 permalink: /sessions/about/
 ---
 
-<p class="big-lead">Thank you to everyone who <a href="/sessions/proposals">proposed a session</a>!</p>
+<p class="big-lead">Check out our <a href="/sessions">sessions for this year</a> and <a href="/participation/form">let us know</a> if you&rsquo;d like to be part of SRCCON!</p>
 
 # About Sessions at SRCCON
 
