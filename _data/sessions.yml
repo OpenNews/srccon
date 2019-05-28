@@ -128,7 +128,8 @@
         "title": "Document this conference! An introduction to Library."
     }, 
     {
-        "cofacilitator": null, 
+        "cofacilitator": "Asraa Mustufa", 
+        "cofacilitator_twitter": "asraareports", 
         "description": "[cue Star Wars scroll ...]\n\nHeading into 2019, Chicago faced a historic election. For the first time in decades, the mayor's office was up for grabs with no incumbent and no heir apparent to the 5th floor of City Hall. Meanwhile, the clerk, treasurer and entire 50-seat City Council were up for election. Competition was fierce.\n\nSmall newsrooms faced the daunting task of covering all of these races. More than 200 candidates were running for local office -- including more than a dozen for mayor -- from complete unknowns to career pols. All of this was taking place in a news environment where media often struggles to engage voters and help them make informed decisions.\n\nWith these challenges in mind, a group of five local independent newsrooms decided to pool their resources and work together to create a one-stop resource to serve voters. In a matter of days, the Chi.vote Collaborative was founded, launching a website with candidate profiles, articles, voter resources and other information. The collaborative grew to 10 partners and traffic to the website surged heading into the February election and eventual April runoff. We literally built the car as we drove it, rolling out new features as fast as we could develop them. All while publishing new stories and information daily. \n\nWe quickly learned a lot about collaborating, building on each other's strengths and overcoming challenges. Here are our takeaways, what worked and what didn't, along with tips, insights and all the key technical details that could help you and your collaborators cover the next election.", 
         "facilitator": "Matt Kiefer", 
         "facilitator_twitter": "matt_kiefer", 
