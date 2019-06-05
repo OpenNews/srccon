@@ -14,12 +14,17 @@ permalink: /sponsors/index.html
 </div>
 
 <div class="sponsor-block">
+    <a href="https://vip.wordpress.com/" class="narrow-logo"><img src="/media/img/partners/wordpress_vip2.png" alt="WordPress VIP"></a>
+    <p>WordPress.com VIP offers a scalable and secure managed platform, expert support, and end-to-end guidance on running content applications at scale. We provide hosting and support throughout the digital media landscape, from focused outlets like Mother Jones, FiveThirtyEight, and Foreign Policy to some of the biggest publishing groups, like News Corp, Meredith, PMC, Digital First Media, and Abril. We’re proud to support the intersection of journalism and open source technology all over the world and participate in communities and events like ONA, Poynter, WAN-IFRA, and WordCamp for Publishers. We love SRCCON and have returned to sponsor and participate every year since the inaugural event in 2014.</p>
+</div>
+
+<div class="sponsor-block">
     <a href="https://www.facebookjournalismproject.com"><img src="/media/img/partners/facebook_journalism.png" alt="Facebook Journalism Project"></a>
     <p>Working together with publishers around the world through trainings, programs, and partnerships, the Facebook Journalism Project seeks to help strengthen communities by connecting people with meaningful journalism. We create strong ties with the news industry through 3 efforts. First, we build community through news, working and investing in institutes dedicated to funding high-quality journalism and building sustainable futures for community-based news. Second, we train newsrooms globally—visiting newsrooms and offering online courses to train journalists around the world on how to leverage social tools to tell stories that matter. Third, we support quality through journalism by partnering directly with news publishers and non-profit organizations to combat misinformation, promote news literacy, fund news initiatives, share best practices, and improve journalism on our platform. To stay up-to-date on our latest news, initiatives and training seminars, visit <a href="https://www.facebookjournalismproject.com">www.facebookjournalismproject.com</a> and like the Facebook Journalism Project on Facebook.</p>
 </div>
 
 <div class="sponsor-block">
-    <h2>Accessibility sponsors</h2>
+    <h2>Accessibility sponsor - Transcription</h2>
 </div>
 
 <div class="sponsor-block">
@@ -52,3 +57,5 @@ permalink: /sponsors/index.html
     <h3>Local sponsors</h3>
     <a href="https://cla.umn.edu/hsjmc"><img src="/media/img/partners/umn_journalism.png" alt="University of Minnesota Journalism"></a>
 </div>
+
+<p>Interested in having your company or organization get involved? <a href="/sponsors/about/">Find out more about becoming a sponsor of SRCCON</a>.</p>
