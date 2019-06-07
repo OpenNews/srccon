@@ -218,7 +218,7 @@ main input {
     margin: 0 0 2.5em;
 }
 .sponsor-block img {
-    width: 75%;
+    width: 67%;
     display: block;
     margin: 0 auto .5em;
 }
@@ -226,8 +226,7 @@ main input {
 .sponsor-block.secondary img {
     width: 50%;
 }
-.sponsor-block h1,
-.sponsor-block h2,
+.sponsor-block h2, 
 .sponsor-block h3 {
     text-align: center;
 }
@@ -294,8 +293,7 @@ footer #footer-details .page-container {
 }
 .sponsor-list {
     display: grid;
-    grid-template-columns: 250px 300px 250px;
-    column-gap: 20px;
+    grid-template-columns: 200px 200px 150px 200px;
 }
 
 footer #footer-details,
