@@ -218,7 +218,7 @@ main input {
     margin: 0 0 2.5em;
 }
 .sponsor-block img {
-    width: 67%;
+    width: 75%;
     display: block;
     margin: 0 auto .5em;
 }
@@ -226,7 +226,8 @@ main input {
 .sponsor-block.secondary img {
     width: 50%;
 }
-.sponsor-block h2, 
+.sponsor-block h1,
+.sponsor-block h2,
 .sponsor-block h3 {
     text-align: center;
 }
@@ -289,11 +290,13 @@ footer #footer-details .page-container {
 }
 .sponsor-list .narrow-logo img {
     width: auto;
-    height: 50px;
+    height: 55px;
 }
-.sponsor-list {
+.sponsor-list,
+.sponsor-list-secondary {
     display: grid;
-    grid-template-columns: 200px 200px 150px 200px;
+    grid-template-columns: 150px 250px 320px;
+    column-gap: 35px;
 }
 
 footer #footer-details,
@@ -508,16 +511,23 @@ table a.session-transcript {
         background-position: 0 -150px;
     }
     .sponsor-list {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        display: inherit;
+    }
+    .sponsor-list a {
+        text-align: left;
+    }
+    .sponsor-list img {
+        width: 50%;
+        height: auto;
+        margin: .5em 0;
     }
     .sponsor-list .narrow-logo {
         padding-left: 0;
     }
     .sponsor-list .narrow-logo img {
-        width: 50%;
+        width: 30%;
         height: auto;
-        vertical-align: text-top;
+        vertical-align: inherit;
     }
     .sponsor-block.secondary img {
         width: 67%;
@@ -546,16 +556,21 @@ table a.session-transcript {
     .participation #header-image {
         background-position: 0 -80px;
     }
-    .sponsor-list {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    }
     footer #footer-nav ul {
         display: inherit;
         padding: .5em 0;
     }
     footer #footer-nav li a {
         text-align: left;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .sponsor-list img {
+        width: 67%;
+    }
+    .sponsor-list .narrow-logo img {
+        width: 40%;
     }
 }
 
@@ -594,7 +609,8 @@ table a.session-transcript {
         display: inherit;
     }
     footer #footer-sponsors h3,
-    .sponsor-list {
+    .sponsor-list,
+    .sponsor-list a {
         display: inherit;
         text-align: center;
     }
