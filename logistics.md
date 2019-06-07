@@ -20,14 +20,16 @@ SRCCON attendees tend to arrive on Wednesday and leave Friday evening or Saturda
 
 ## Lodging
 
-The block of rooms at this year's conference hotel has sold out! The conference hotel this year is the [Courtyard Minneapolis Downtown](https://www.marriott.com/hotels/travel/mspdc-courtyard-minneapolis-downtown/), which has a complimentary shuttle to the McNamara Alumni Center venue.
+We have reserved a block of rooms at the [Courtyard Minneapolis Downtown](https://www.marriott.com/hotels/travel/mspdc-courtyard-minneapolis-downtown/) at a base rate of $169 per night. To get the conference rate, please call 877-699-3216 and ask for the SRCCON rate, or use [our dedicated booking link](https://www.marriott.com/events/start.mi?id=1551995492354&key=GRP). There is a complimentary shuttle from the conference hotel to the McNamara Alumni Center venue.
 
-If you're still looking for hotel options, other hotels not far from the conference venue include:
+The reserved block of rooms will be available until June 18 or all rooms are booked, whichever happens first—booking early is always at good idea!
 
-**[Graduate Minneapolis](https://www.graduatehotels.com/minneapolis/)**<br>
-.2 miles away<br>
-615 Washington Ave SE<br>
-Minneapolis, MN 55414<br>
+Other hotels not far from the conference venue include:
+
+**[Graduate Minneapolis](https://www.graduatehotels.com/minneapolis/)**
+.2 miles away
+615 Washington Ave SE
+Minneapolis, MN 55414
 612-379-8888
 
 **[Days Hotel](http://www.daysinn.com/hotels/minnesota/minneapolis/days-inn-hotel-university-ave-se/hotel-overview)**  
@@ -35,12 +37,6 @@ Minneapolis, MN 55414<br>
 2407 University Ave SE  
 Minneapolis, MN 55414 
 (612) 623-3999
-
-**[DoubleTree by Hilton Minneapolis - University Area](https://doubletree3.hilton.com/en/hotels/minnesota/doubletree-by-hilton-hotel-minneapolis-university-area-MSPUNDT/index.html)**<br>
-.5 miles away<br>
-511 Huron Boulevard SE<br>
-Minneapolis, MN, 55414<br>
-(612) 504-3000
 
 **[University Inn](http://www.universityinnmn.com/)**  
 1 mile away  
