@@ -298,6 +298,16 @@ footer #footer-details .page-container {
     grid-template-columns: 150px 250px 320px;
     column-gap: 35px;
 }
+.sponsor-tag {
+    font-size: 1em;
+    font-style: italic;
+    margin-top: 3em;
+}
+.sponsor-tag img {
+    width: 25%;
+    position: relative;
+    vertical-align: middle;
+}
 
 footer #footer-details,
 footer #footer-sponsors {
@@ -562,6 +572,11 @@ table a.session-transcript {
     }
     footer #footer-nav li a {
         text-align: left;
+    }
+    .sponsor-tag img {
+        width: 40%;
+        position: relative;
+        vertical-align: middle;
     }
 }
 
