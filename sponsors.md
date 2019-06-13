@@ -58,4 +58,9 @@ permalink: /sponsors/index.html
     <a href="https://cla.umn.edu/hsjmc"><img src="/media/img/partners/umn_journalism.png" alt="University of Minnesota Journalism"></a>
 </div>
 
+<div class="sponsor-block secondary">
+    <h3>Supporting sponsors</h3>
+    <a href="https://www.publicaccountability.org/"><img src="/media/img/partners/accountability_project.png" alt="The Accountability Project"></a>
+</div>
+
 <p>Interested in having your company or organization get involved? <a href="/sponsors/about/">Find out more about becoming a sponsor of SRCCON</a>.</p>
