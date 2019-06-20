@@ -44,4 +44,4 @@ SRCCON 2019 takes place July 11 & 12 at the <a href="https://www.google.com/maps
 
 ## How to Participate
 
-Our [call for participation form](/participation/form/) remains open on a rolling basis for tickets only, as space remains available. The CFP application process allow us to allocate tickets in an intentional way that equitably distributes attendance and ensures that there are a mix of perspectives and skills at the event. Our call for participation form helps us understand who would like to take part in SRCCON and what you want to get out of it. [Everyone at SRCCON contributes to making it happen](/participation).
+Our [call for participation form](/participation/form/) remains open as space remains available. The CFP application process allow us to allocate tickets in an intentional way that equitably distributes attendance and ensures that there are a mix of perspectives and skills at the event. Our call for participation form helps us understand who would like to take part in SRCCON and what you want to get out of it. [Everyone at SRCCON contributes to making it happen](/participation).
