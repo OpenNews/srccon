@@ -2,7 +2,7 @@
     {
         "cofacilitator": "Alex Tatusian", 
         "cofacilitator_twitter": null, 
-        "description": "Sometimes the well of ideas runs dry and we find ourselves stuck in a creative rut. If we can't move past it, let's try thinking sideways. Drawing inspiration from Peter Schmidt and Brian Eno's Oblique Strategies, a card-based system that offers pithy prompts for creative thinking, we'll discuss ways to shift our perspective in the process of brainstorming, designing and problem-solving. Some of Schmidt and Eno's one-line strategies include:\n\n\"Not building a wall but making a brick.\"\n\"Go to an extreme, move back to a more comfortable place.\"\n\"You can only make one dot at a time.\"\n\nWe'll look at projects that emerged from unconventional sources of inspiration, share our favorite methods of breaking creative block and then develop our own list of \"oblique strategies\" that we'll publish online after the session.", 
+        "description": "Sometimes the well of ideas runs dry and we find ourselves stuck in a creative rut. If we can't move past it, let's try thinking sideways. Drawing inspiration from Peter Schmidt and Brian Eno's Oblique Strategies, a card-based system that offers pithy prompts for creative thinking, we'll discuss ways to shift our perspective in the process of brainstorming, designing and problem-solving. Some of Schmidt and Eno's one-line strategies include:\n\n\"Not building a wall but making a brick.\"\n\"Go to an extreme, move back to a more comfortable place.\"\n\"You can only make one dot at a time.\"\n\nAs a group, we'll look at projects that emerged from unconventional sources of inspiration, share our favorite methods of breaking creative block and then develop our own list of \"oblique strategies\" that we'll publish online after the session.", 
         "facilitator": "Katie Park", 
         "facilitator_twitter": "katiepark", 
         "id": 2355668, 
@@ -305,12 +305,12 @@
     }, 
     {
         "cofacilitator": null, 
-        "description": "Let's all show each other our CMSes and workflows! A lineup of people involved in the development or operation of their CMS demos several key workflows and how different newsroom users accomplish the same tasks. Each demo will follow the same structure and show the same tasks for easy comparability.", 
+        "description": "Most newsrooms need their CMS to do the same basic things, but there are so many ways to do it. Let’s see what it looks like to publish a news story in a lineup of different CMSes. To show how different newsrooms accomplish the same tasks, a lineup of people involved in developing CMSes will follow the same demo script showing how to write, edit and publish a news story, rank it on a homepage and promote it to an audience. Each presenter will also talk about their favorite feature of their CMS and how to get journalists excited about their CMS.", 
         "facilitator": "Albert Sun", 
         "facilitator_twitter": "albertsun", 
         "id": 2355631, 
         "submitted_at": "2019-04-24T17:41:35.936Z", 
-        "title": "Mutual CMS Demos"
+        "title": "CMS Demos: Approaches to Helping Our Newsrooms Do Their Best Work"
     }, 
     {
         "cofacilitator": "Natasha Vicens", 
