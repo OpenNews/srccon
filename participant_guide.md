@@ -3,7 +3,7 @@ layout: layout
 section: sessions
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
-permalink: /welcome
+permalink: /welcome/
 ---
 
 # Participant Guide

@@ -1,7 +1,7 @@
 ---
 layout: layout
 section: remote
-permalink: /documentation/index.html
+permalink: /documentation/
 ---
 
 # SRCCON 2018 Documentation
