@@ -10,6 +10,8 @@ permalink: /local-guide/
 
 <p id="guideauthors">Thanks to MPLS locals <a href="https://twitter.com/jsguntzel">Jeff Guntzel</a>, <a href="https://twitter.com/maryjowebster">MaryJo Webster</a>, <a href="https://twitter.com/mattdelong">Matt DeLong</a>, <a href="https://twitter.com/justinph">Justin Heideman</a>, Andrew Stevenson, <a href="https://twitter.com/cjsinner">CJ Sinner</a>, <a href="https://twitter.com/iniwil">Will Lager</a>, <a href="https://twitter.com/cecinestpastom">Tom Nehil</a>, Richard Abdill, <a href="https://twitter.com/meg_e_martin">Meg Martin</a>, and <a href="https://twitter.com/FANgeopolitics">Eric Nelson</a>.</p>
 
+<p>Quick note - this guide has not yet been updated for 2019, so there might be some out of date notes, but it's still a great jumping off point!</p>
+
 ## What's In the Guide
 
 * [How to Get Around](#getaround)

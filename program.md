@@ -56,6 +56,6 @@ We know [evenings at conferences can be tough](https://opennews.org/blog/srccon-
 * music & conversations
 * a room full of card and board games
 
-Plus, of course, a huge spread of snacks and beverages. We do offer beer and wine Thursday night if you'd like one, but alcohol isn't the focus and there are plenty of delicious non-alcoholic drinks to choose from too. Our snacks are as local as we can get—we love feeling a sense of place wherever we visit.
+Plus, of course, a huge spread of snacks and beverages. Our snacks are as local as we can get—we love feeling a sense of place wherever we visit. If you have partners or friends who’ll be in Minneapolis, feel free to invite them to join you for Thursday evening—[we offer special partner tickets](https://www.eventbrite.com/e/srccon-2019-tickets-61642701981?discount=partner) and are happy to welcome them for dinner and the activities afterward.
 
 The Thursday evening program is built and run by attendees, so if you have an idea you'd like to pitch in, [we'd love to hear it](mailto:srccon@opennews.org)!

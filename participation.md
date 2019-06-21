@@ -6,11 +6,36 @@ photocredit_url: http://www.westraco.com/
 permalink: /participation/
 ---
 
-<p class="big-lead"><a href="/participation/form/">Our call for participation form</a> remains open for tickets. It&rsquo;s your chance to tell us if you&rsquo;d like to be there.</p>
+<p class="big-lead"><a href="/participation/form/">Our call for participation form</a> remains open for tickets. Join us!</p>
 
 # Participation at SRCCON
 
-SRCCON is a hands-on conference, which means that everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form/) is where you tell us about what you’d like to share and what you hope to take back home with you. We wrote a question-by-question [walkthrough of the participation form](https://opennews.org/blog/srccon2019-participation-howto/) to make it even easier to tell us about how you’d like to join us at SRCCON.
+SRCCON is a hands-on conference that works best when it’s rather small. We’ll have about 300 attendees this year, and everyone actively participates, whether they’re facilitating a session, contributing to a conversation over lunch, or meeting new colleagues and supporting their work. This guide is here to help you figure out how you’d like to take part in [the SRCCON program](/program), to share some things we do to help people participate fully, and (we hope!) to answer any questions on your mind.
+
+You can also check out [our logistics page](/logistics) for details on hotel and transit to help you get to SRCCON.
+
+## Things You Can Do at SRCCON
+
+At SRCCON, we all build the program together. There are lots of ways to get involved—starting right now!
+
+**Lightning talks:** This year's theme is "Celebrate good times," and we want you to tell us about a win you're proud of. Whether it's a big professional project launch or the tiniest personal victory, let's inspire each other to get better about celebrating moments like these. Lightning talks are informal and only 5 minutes long—they can be a great way to try out speaking at a conference (in a super supportive room). [Share your story](https://docs.google.com/forms/d/e/1FAIpQLScUarPMJ2Ckz14sJfJ7JE5nJJBD6zPKCmRA_YkM2YU713hOxg/viewform)!
+
+**Game night:** We'll also open up a bunch of tables Thursday night for attendees to play card, board, and even roleplaying games together. If you can bring any of your favorite board games, [you can list them right here](https://etherpad.opennews.org/p/2019-game-night). And if you see someone bringing a game you want to play, let them know you're interested!
+
+**Hobby workshops and open chats:** We set aside tables and rooms throughout Thursday evening so people can gather informally and connect over things they're passionate about. (Evenings at SRCCONs past have been full of breakdancing, career advice, origami, camping tips, knitting, open sharing about fears and frustrations, DIY electronics, meditation, skateboarding, and more.) Do you have a hobby to teach? An interesting skill to share? An open conversation you want to have with a bunch of energized, smart folks? [Help us make this year's evening program awesome](https://docs.google.com/forms/d/e/1FAIpQLSdDTruyDOizKy-0j9ZDuwM0Bv1uMJI-lY0LWpxk_TmHfUZRAA/viewform)!
+
+**Bring your partner to Thursday night:** If you have partners or friends who’ll be in Minneapolis, feel free to invite them to join you for Thursday evening at SRCCON. We offer a [special partner ticket](https://www.eventbrite.com/e/srccon-2019-tickets-61642701981?discount=partner), and we’re happy to welcome them for dinner and the activities afterward.
+
+**Gather a lunch conversation:** We want our program to respond to new topics as well, so we leave room for emergent conversations. If there’s something on your mind that’s not on our schedule, you can use our signup board at SRCCON to choose a space, grab a meal, and explore those ideas with other attendees.
+
+**Check out Minneapolis:** If you’re looking for things to before, after, or during SRCCON, a group of local news nerds have compiled [this guide](/local-guide) to wonderful things in the Minneapolis-Saint Paul area.
+
+**Organize a field trip or a group outing:** We have a signup board at SRCCON to make it easy to gather a group, get out, and have a great time. Attendees have used our activity boards to set up outings to concerts and baseball games, brewery tours, and restaurant visits for karaoke.
+
+
+## Joining Us As an Attendee
+
+Our [call for participation form](/participation/form/) is where you tell us about what you’d like to share and what you hope to take back home with you. We wrote a question-by-question [walkthrough of the participation form](https://opennews.org/blog/srccon2019-participation-howto/) to make it even easier to tell us about how you’d like to join us at SRCCON.
 
 We keep the size of SRCCON intentionally rather small at 300 people, and we've experimented with different ways to allocate tickets. We've landed on this approach—one single form to gather session ideas, applications to attend, and scholarship requests—as the easiest experience for potential attendees and a streamlined process for us in organizing the conference, too.
 
@@ -34,11 +59,9 @@ These ticket sales are part of what enables us to organize an event with 40 even
 
 ## Not Just Attendees, But Participants
 
-At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/program) who are ready to share their experiences and perspectives. Check out the [sessions we've confirmed](/sessions) for SRCCON 2019 so far!
+At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/program) who are ready to share their experiences and perspectives. Check out the [sessions we've confirmed for SRCCON 2019](/sessions)!
 
 Facilitators create space for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON an inclusive, welcoming place by leading fun group activities like knitting or book clubs, volunteering, and saying hi to new potential friends and collaborators over meals and coffee/tea/hot beverages.
-
-We'll have a few questions for you about what you'd like to bring to SRCCON and what you're hoping to take home with you. We look forward to seeing what ideas folks have and how we can make them possible during our two days together.
 
 ## Welcome, First-timers
 
