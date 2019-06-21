@@ -3,8 +3,10 @@ layout: layout
 section: sessions
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
-permalink: /guide/participant/index.html
+permalink: /welcome
 ---
+
+# Participant Guide
 
 SRCCON is unlike a lot of other conferences. It's highly participatory, and is designed to help you share your skills and wisdom with a bunch of folks who are likely dealing with similar challenges and questions. 
 
