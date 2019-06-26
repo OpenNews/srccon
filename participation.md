@@ -59,7 +59,7 @@ These ticket sales are part of what enables us to organize an event with 40 even
 
 ## Not Just Attendees, But Participants
 
-At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/program) who are ready to share their experiences and perspectives. Check out the [sessions we've confirmed for SRCCON 2019](/sessions)!
+At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/program) who are ready to share their experiences and perspectives. Check out the [schedule for SRCCON 2019](https://schedule.srccon.org)!
 
 Facilitators create space for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON an inclusive, welcoming place by leading fun group activities like knitting or book clubs, volunteering, and saying hi to new potential friends and collaborators over meals and coffee/tea/hot beverages.
 

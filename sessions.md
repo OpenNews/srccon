@@ -8,7 +8,7 @@ permalink: /sessions/
 
 # SRCCON 2019 Sessions
 
-The program at SRCCON is built around hands-on, participatory sessions, [and also makes space](/program) for emergent conversations, evening activities, and time to talk with the people you meet. We'll build the conference schedule from the sessions listed here, which we're excited to announce for SRCCON 2019.
+The program at SRCCON is built around hands-on, participatory sessions, [and also makes space](/program) for emergent conversations, evening activities, and time to talk with the people you meet. Our [conference schedule for 2019](https://schedule.srccon.org) is built from the sessions listed here.
 
 We have a few sessions and facilitators still to confirm, and some descriptions here may evolve between now and SRCCON. Thank you to everyone who submitted proposals, and to the [community panel](#community-review) that helped us during the review process!
 
