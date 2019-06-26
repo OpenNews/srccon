@@ -8,15 +8,15 @@ permalink: /logistics/
 
 ## When & Where
 
-SRCCON 2019 takes place July 11 & 12 at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis. You can also check out [how our schedule works](/program/#our-schedule).
-
-SRCCON attendees tend to arrive on Wednesday and leave Friday evening or Saturday, depending on how the flight times work out. Our general conference schedule will look like this:
+SRCCON 2019 takes place July 11 & 12 at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis. SRCCON attendees tend to arrive on Wednesday and leave Friday evening or Saturday, depending on how the flight times work out. Our general conference schedule will look like this:
 
 **Wednesday:** Evening meetup for session facilitators, starting around 6pm.
 
 **Thursday:** Registration in the morning, with conference programming from about 9am to 6pm, followed by an evening full of informal activities at the venue.
 
 **Friday:** Conference programming from about 9am to 6pm.
+
+Learn more about how [our program](/program) comes together, and see what we have in store on [the official schedule for SRCCON 2019](https://schedule.srccon.org)!
 
 ## Lodging
 

@@ -10,7 +10,9 @@ permalink: /about/
 
 # About SRCCON
 
-SRCCON (a contraction of “Source con”) is a highly participatory and extraordinarily inclusive conference where participants come first so they can focus on collaborating on the work at hand: transforming the way journalism works for them, their colleagues, and their communities. About 1/3 of attendees are also session facilitators, leading conversations and collaborative workshops focused on the practical challenges that news technology and data teams encounter every day. Learn more about how [our program](/program) comes together, or check out the [sessions we've confirmed](/sessions) for SRCCON 2019!
+SRCCON (a contraction of “Source con”) is a highly participatory and extraordinarily inclusive conference where participants come first so they can focus on collaborating on the work at hand: transforming the way journalism works for them, their colleagues, and their communities. About 1/3 of attendees are also session facilitators, leading conversations and collaborative workshops focused on the practical challenges that news technology and data teams encounter every day.
+
+Learn more about how [our program](/program) comes together, and see what we have in store on [the official schedule for SRCCON 2019](https://schedule.srccon.org)!
 
 We welcome about 300 attendees, and everyone at SRCCON actively participates, whether they’re facilitating a session, contributing to a conversation over lunch, or meeting new colleagues and supporting their work. The entire structure of the event—from the venue to the program to the pace of our days—is set up to allow participants to get to know each other and learn from the wisdom in the room. We have smart sessions and hard conversations, but we also have long breaks, group meals, and social events that create space for the life side of our work.
 

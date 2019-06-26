@@ -7,15 +7,15 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-<p class="big-lead">Thanks to everyone who proposed session ideas this year. We&rsquo;re excited to announce <a href="/sessions">the sessions coming to SRCCON 2019!</a></p>
+<p class="big-lead">We&rsquo;re so excited: <a href="https://schedule.srccon.org">the schedule for SRCCON 2019</a>!</p>
 
 ## When & Where
 
-On July 11 & 12 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
+On July 11 & 12, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis.
 
 If you'd like to attend SRCCON, there’s still time to join us! Our [call for participation form](/participation/form/) will stay open as space remains available. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with prices starting at $225 plus fees.
 
-Curious about how it all works? Learn more about [the SRCCON program](/program) and [what it's like to attend](/participation). Check [our logistics page](/logistics) for information about our conference hotel and other ways we hope to make it easier for you to take part in SRCCON.
+Curious about how it all works? Learn more about [the SRCCON program](/program) and [what it's like to attend](/participation). Check out [this year's schedule](https://schedule.srccon.org), and see [our logistics page](/logistics) for information about our conference hotel and other ways we hope to make it easier for you to take part in SRCCON.
 
 ## About SRCCON
 

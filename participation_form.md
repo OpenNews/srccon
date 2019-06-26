@@ -10,7 +10,7 @@ permalink: /participation/form/
 
 We can't wait to hear how you'd like to participate at SRCCON 2019! We ask that you tell us a little about yourself and your work. This form is how we will allocate tickets for SRCCON.
 
-For a sense of what we’ll be getting into this year, take a look at the [sessions we've confirmed](/sessions) for SRCCON 2019. The call for participation for session proposals is now closed, but if you’re seeing this form, that means there’s still space for tickets. So, let us know that you’d like to be there!
+For a sense of what we’ll be getting into this year, take a look at the [schedule for SRCCON 2019](https://schedule.srccon.org). The call for participation for session proposals is now closed, but if you’re seeing this form, that means there’s still space for tickets. So, let us know that you’d like to be there!
 
 Please feel free to reach out to us at [srccon@opennews.org](mailto:srccon@opennews.org) with any questions. Or if you're all set, the participation form is below!
 
