@@ -6,8 +6,6 @@ photocredit_url: https://www.flickr.com/photos/juggernautco/27262805686/
 permalink: /program/
 ---
 
-<p class="big-lead">Check out our <a href="https://schedule.srccon.org">schedule for this year</a> and <a href="/participation/form">let us know</a> if you&rsquo;d like to be part of SRCCON!</p>
-
 # The SRCCON Program
 
 SRCCON is a hands-on conference with two days full of sessions—but the schedule is only where our program begins. [Every attendee is also a participant](/participation) who brings their own interests and experiences into sessions, emergent conversations, our evening activities, and gatherings during SRCCON.
@@ -28,15 +26,7 @@ Our program for SRCCON is built around key community values:
 
 SRCCON is also organized around building connections between participants. We want you to be able to fully focus on taking part—not just in the sessions on the official schedule, but in all the great conversations in hallways and after hours that make an event memorable. So we build in generous breaks to let you chat or grab coffee or tea without feeling rushed getting to the next thing. We provide lots of snacks and full lunches both days, with space to chill out or make plans with new friends. Dinner and our Thursday evening program are a chance to spend time with people in more relaxed space. We also [provide free childcare](/childcare) throughout the event to make it more accessible to everyone.
 
-SRCCON attendees tend to arrive on Wednesday and leave Friday evening or Saturday, depending on how the flight times work out. Our general conference schedule will look like this:
-
-**Wednesday:** Evening meetup for session facilitators, starting around 6pm.
-
-**Thursday:** Registration in the morning, with conference programming from about 9am to 6pm, followed by an evening full of informal activities at the venue.
-
-**Friday:** Conference programming from about 9am to 6pm.
-
-Check [our logistics page](/logistics) for information about our conference hotel and other ways we hope to make it easier for you to take part in SRCCON.
+SRCCON attendees tend to arrive on Wednesday and leave Friday evening or Saturday, depending on how the flight times work out. You can [check out the full schedule](/schedule) now. Plus, [our logistics page](/logistics) has information about our conference hotel and other ways we hope to make it easier for you to take part in SRCCON.
 
 ## Emergent Conversations
 
