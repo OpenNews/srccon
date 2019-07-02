@@ -226,7 +226,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "The SRCCON Science Fair is an informal way for you to connect with journalism tools and resources you can use in your work back home. Explore demos, ask lots of questions, and share feedback with these seven awesome projects:\n\n**The Accountability Project**  \n[Project info](https://www.publicaccountability.org/)  \nThis project brings together national and state data from a variety of sources – including campaign finance, nonprofits and voter registration – to help journalists search across multiple datasets from one search.\n\n**The Coral Project**  \n[Project info](https://coral.voxmedia.com)  \nThe Coral Project brings journalists and the communities they serve closer together through open-source tools and strategies. Our goals are: to increase public trust in journalism, to improve the diversity of voices and experiences in reporting, to make journalism stronger by making it more relevant to people’s lives, and to create safer, more productive online dialog. Because journalism needs everyone.\n\n**Big Local News**  \nAt Big Local News we specialize in collecting and analyzing local data that lends itself to accountability journalism. Our team partners with local, regional and national news outlets on a variety of projects. We take data and story recipes from those projects and archive them in Stanford’s Digital Repository so other journalists can conduct similar investigations in their communities. We work to update and expand those data sets to include more than just a single coverage area. \n\n**Immersive storytelling with AR/VR**  \nImmersive storytelling is a way to get readers to spend more time and investment on a single story. Content we plan to show include VR / AR / news games all of which the Los Angeles Times has used to enhance storytelling. \n\n**Medill Local News Initiative**  \n[Project info](https://localnewsinitiative.northwestern.edu)  \nWith local journalism in crisis, Northwestern University has assembled a team of experts in digital innovation, audience understanding and business strategy. The goal: reinvent the relationship between news organizations and audiences to elevate enterprises that empower citizens.\n\n**MuckRock Assignments**  \n[Project info](https://www.muckrock.com/assignment/)  \nWant to turn endless PDFs into beautiful spreadsheets? Looking for a new way to get your audience to help scale your reporting capacity? MuckRock's Assignments tool lets you crowdsource analysis of PDFs, social media posts, and other data types, while offering new ways to engage and follow up with your readers.\n\n**Workbench**  \n[Project info](https://workbenchdata.com/)  \nWorkbench brings all your data tools into one simple place, in your browser. It makes it easy to collect, scrape, transform and analyze data without code, automate and monitor tasks, and share reproducible step-by-step workflows along with dashboards and APIs.\n", 
+        "description": "The SRCCON Science Fair is an informal way for you to connect with journalism tools and resources you can use in your work back home. Explore demos, ask lots of questions, and share feedback with these seven awesome projects:\n\n**The Accountability Project**  \n[Project info](https://www.publicaccountability.org/)  \nThis project brings together national and state data from a variety of sources – including campaign finance, nonprofits and voter registration – to help journalists search across multiple datasets from one search.\n\n**The Coral Project**  \n[Project info](https://coral.voxmedia.com)  \nThe Coral Project brings journalists and the communities they serve closer together through open-source tools and strategies. Our goals are: to increase public trust in journalism, to improve the diversity of voices and experiences in reporting, to make journalism stronger by making it more relevant to people’s lives, and to create safer, more productive online dialog. Because journalism needs everyone.\n\n**Big Local News**  \nBig Local News collects local data to uncover regional or national patterns for accountability stories with big impact. We pursue hard-to-obtain data kept in disparate formats by multiple jurisdictions. Big Local News also works with newsrooms to archive their data. We are building a platform to help journalists collaborate and share data. It will be integrated with specialized tools and connect with the Stanford Digital Repository so data and methodologies can be archived for others to use and expand upon. \n\n**Immersive storytelling with AR/VR**  \nImmersive storytelling is a way to get readers to spend more time and investment on a single story. Content we plan to show include VR / AR / news games all of which the Los Angeles Times has used to enhance storytelling. \n\n**Medill Local News Initiative**  \n[Project info](https://localnewsinitiative.northwestern.edu)  \nWith local journalism in crisis, Northwestern University has assembled a team of experts in digital innovation, audience understanding and business strategy. The goal: reinvent the relationship between news organizations and audiences to elevate enterprises that empower citizens.\n\n**MuckRock Assignments**  \n[Project info](https://www.muckrock.com/assignment/)  \nWant to turn endless PDFs into beautiful spreadsheets? Looking for a new way to get your audience to help scale your reporting capacity? MuckRock's Assignments tool lets you crowdsource analysis of PDFs, social media posts, and other data types, while offering new ways to engage and follow up with your readers.\n\n**Workbench**  \n[Project info](https://workbenchdata.com/)  \nWorkbench brings all your data tools into one simple place, in your browser. It makes it easy to collect, scrape, transform and analyze data without code, automate and monitor tasks, and share reproducible step-by-step workflows along with dashboards and APIs.\n", 
         "everyone": "", 
         "facilitators": "", 
         "facilitators_twitter": "", 
@@ -573,8 +573,8 @@
         "day": "Friday", 
         "description": "The 2020 census is a year away, but chances are you’ve already heard about it. The census is making headlines because several states are suing the Trump administration over its plans to include a citizenship question. But much of the news glosses over why the census is important and how it affects everyone’s lives. Congressional representation is at stake, along with $800 billion in federal funds that will get disbursed for state, county, and community programs over the next decade.\n\nWhen KPCC conducted human-centered design research into the census and the opportunities for public service journalism, one finding stood out: We can’t assume educated news consumers know the stakes or the mechanics of the census. There was a very low level of census knowledge among the people we interviewed, including current NPR listeners. How can we address this knowledge gap? We have some ideas. Let's talk. ", 
         "everyone": "", 
-        "facilitators": "Ashley Alvarado, Megan Garvey", 
-        "facilitators_twitter": "ashleyalvarado, garveymcvg", 
+        "facilitators": "Ashley Alvarado, Megan Garvey, Dana Amihere", 
+        "facilitators_twitter": "ashleyalvarado, garveymcvg, write_this_way", 
         "id": "census-coverage-playbook", 
         "length": "75 minutes", 
         "notepad": "y", 
@@ -603,7 +603,7 @@
         "day": "Friday", 
         "description": "Teaching data journalism in newsrooms and at universities has forced us to come up with creative techniques. We wrote The SQL Song to help one group of boot camp attendees understand the order of commands. In an attempt to help students fine-tune their programs, we did a game show called Query Cash. To make string functions make more sense, we’ve created silly, but useful performances. To make this session interactive, we propose inviting attendees to bring their ideas. We also will pose some problems and have teams work out creative solutions. ", 
         "everyone": "", 
-        "facilitators": "Jennifer LaFleur", 
+        "facilitators": "Jennifer LaFleur, Eric Sagara", 
         "facilitators_twitter": "j_la28", 
         "id": "creative-teaching", 
         "length": "75 minutes", 
@@ -641,7 +641,7 @@
         "room": "Thomas Swain", 
         "time": "11:45am-1pm", 
         "timeblock": "friday-am-2", 
-        "title": "Assembling the Scramble Suit", 
+        "title": "The Scramble Suit: Creating harm prevention guidelines for newsroom data", 
         "transcription": ""
     }, 
     {
@@ -691,6 +691,21 @@
     }, 
     {
         "day": "Friday", 
+        "description": "Many of us are overworked, lonely coders. How do we accomplish every day editorial projects and also dedicated time to learning new technologies and documenting workflows that we spend so much time implementing and testing? With all this newfangled tech, what’s noise and what’s signal?\n\nLet's talk about devising coping and filtering mechanisms for the onslaught of newness so we can all actually benefit from it.", 
+        "everyone": "", 
+        "facilitators": "Alexandra Kanik, Natasha Vicens", 
+        "facilitators_twitter": "act_rational, khantasha", 
+        "id": "adopting-new-tech", 
+        "length": "75 minutes", 
+        "notepad": "y", 
+        "room": "Johnson", 
+        "time": "2:30-3:45pm", 
+        "timeblock": "friday-pm-1", 
+        "title": "Noise & Signal: Knowing when to adopt new tech, and when to ignore it", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
         "description": "How would we do journalism differently if we were to think about impact — real-world change — at the brainstorming stage, before we started to write or shoot? If we knew something needed to happen to make things better, could we identify a few levers to pull that’d make that something more likely? Would we frame the story differently? Share the data openly? Talk to different sources? And how do we do all of this without going too far, without crossing into advocacy journalism? Now more than ever, with more nonprofit newsrooms forming, more for-profit newsrooms turning to consumer revenue (on the sales pitch that journalism matters) and trust at a crisis point, we need to measure and show why our work matters. This session will cover published examples and studies but is meant to be a discussion about what we can do — and what’s going too far — to make a difference. We might also, using design thinking strategies, prototype a project designed for impact.", 
         "everyone": "", 
         "facilitators": "Anjanette Delgado, Jun-Kai Teoh", 
@@ -703,21 +718,6 @@
         "timeblock": "friday-pm-1", 
         "title": "Why it matters — Designing stories for impact", 
         "transcription": "y"
-    }, 
-    {
-        "day": "Friday", 
-        "description": "Many of us are overworked, lonely coders. How do we accomplish every day editorial projects and also dedicated time to learning new technologies and documenting workflows that we spend so much time implementing and testing? With all this newfangled tech, what’s noise and what’s signal?\n\nLet's talk about devising coping and filtering mechanisms for the onslaught of newness so we can all actually benefit from it.", 
-        "everyone": "", 
-        "facilitators": "Alexandra Kanik, Natasha Vicens", 
-        "facilitators_twitter": "act_rational, khantasha", 
-        "id": "adopting-new-tech", 
-        "length": "75 minutes", 
-        "notepad": "y", 
-        "room": "Heritage", 
-        "time": "2:30-3:45pm", 
-        "timeblock": "friday-pm-1", 
-        "title": "Noise & Signal: Knowing when to adopt new tech, and when to ignore it", 
-        "transcription": ""
     }, 
     {
         "day": "Friday", 
