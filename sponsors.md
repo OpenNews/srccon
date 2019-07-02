@@ -48,18 +48,23 @@ permalink: /sponsors/index.html
 </div>
 
 <div class="sponsor-block secondary">
-    <h3>Event sponsors</h3>
+    <h3>Event sponsor</h3>
     <a href="http://www.democracyfund.org/"><img src="/media/img/partners/democracy_fund.png" alt="Democracy Fund"></a>
     <a href="https://www.newsintegrity.com/"><img src="/media/img/partners/nii.png" alt="News Integrity Initiative"></a>
 </div>
 
 <div class="sponsor-block secondary">
-    <h3>Local sponsors</h3>
+    <h3>Local sponsor</h3>
     <a href="https://cla.umn.edu/hsjmc"><img src="/media/img/partners/umn_journalism.png" alt="University of Minnesota Journalism"></a>
 </div>
 
 <div class="sponsor-block secondary">
-    <h3>Supporting sponsors</h3>
+    <h3>Host local media sponsor</h3>
+    <a href="http://www.startribune.com/"><img src="/media/img/partners/star_tribune.png" alt="The Star-Tribune"></a>
+</div>
+
+<div class="sponsor-block secondary">
+    <h3>Supporting sponsor</h3>
     <a href="https://www.publicaccountability.org/"><img src="/media/img/partners/accountability_project.png" alt="The Accountability Project"></a>
 </div>
 

@@ -6,8 +6,6 @@ photocredit_url: http://www.westraco.com/
 permalink: /participation/
 ---
 
-<p class="big-lead"><a href="/participation/form/">Our call for participation form</a> remains open for tickets. Join us!</p>
-
 # Participation at SRCCON
 
 SRCCON is a hands-on conference that works best when it’s rather small. We’ll have about 300 attendees this year, and everyone actively participates, whether they’re facilitating a session, contributing to a conversation over lunch, or meeting new colleagues and supporting their work. This guide is here to help you figure out how you’d like to take part in [the SRCCON program](/program), to share some things we do to help people participate fully, and (we hope!) to answer any questions on your mind.
@@ -32,17 +30,6 @@ At SRCCON, we all build the program together. There are lots of ways to get invo
 
 **Organize a field trip or a group outing:** We have a signup board at SRCCON to make it easy to gather a group, get out, and have a great time. Attendees have used our activity boards to set up outings to concerts and baseball games, brewery tours, and restaurant visits for karaoke.
 
-
-## Joining Us As an Attendee
-
-Our [call for participation form](/participation/form/) is where you tell us about what you’d like to share and what you hope to take back home with you. We wrote a question-by-question [walkthrough of the participation form](https://opennews.org/blog/srccon2019-participation-howto/) to make it even easier to tell us about how you’d like to join us at SRCCON.
-
-We keep the size of SRCCON intentionally rather small at 300 people, and we've experimented with different ways to allocate tickets. We've landed on this approach—one single form to gather session ideas, applications to attend, and scholarship requests—as the easiest experience for potential attendees and a streamlined process for us in organizing the conference, too.
-
-The small conference size means that we have to be intentional about equitably distributing tickets and ensuring that there's a mix of perspectives and skills at SRCCON. Our [call for participation form](/participation/form/) will help us understand who would like to take part in SRCCON and what you want to get out of it. With those responses, we're able to create a schedule and audience that reflects the dynamic interests and needs of this community.
-
-The [participation form](/participation/form/) remains open as we have space available, and we'll review entries and notify applicants on a rolling basis. If invited to attend, you will have the chance to purchase a ticket, with prices starting at $225 plus fees.
-
 ## A New Approach to Ticket Prices
 
 This year [we're experimenting with a tiered ticket pricing system](https://opennews.org/blog/srccon-2019-launch). Accessibility remains a core value for us, and this is our attempt to balance the actual costs of the conference with keeping prices as manageable for attendees as possible. We also continue to offer [scholarships to attend](/scholarships).
@@ -60,6 +47,8 @@ These ticket sales are part of what enables us to organize an event with 40 even
 ## Not Just Attendees, But Participants
 
 At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/program) who are ready to share their experiences and perspectives. Check out the [schedule for SRCCON 2019](https://schedule.srccon.org)!
+
+Tickets were allocated to participants via a [call for participation form](https://opennews.org/blog/srccon-2019-launch/), which is now closed.
 
 Facilitators create space for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON an inclusive, welcoming place by leading fun group activities like knitting or book clubs, volunteering, and saying hi to new potential friends and collaborators over meals and coffee/tea/hot beverages.
 
