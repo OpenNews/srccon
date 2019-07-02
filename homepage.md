@@ -13,9 +13,9 @@ permalink: /index.html
 
 On July 11 & 12, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis.
 
-If you'd like to attend SRCCON, there’s still time to join us! Our [call for participation form](/participation/form/) will stay open as space remains available. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with prices starting at $225 plus fees.
+[The 2019 schedule is now live](https://schedule.srccon.org).
 
-Curious about how it all works? Learn more about [the SRCCON program](/program) and [what it's like to attend](/participation). Check out [this year's schedule](https://schedule.srccon.org), and see [our logistics page](/logistics) for information about our conference hotel and other ways we hope to make it easier for you to take part in SRCCON.
+If you're preparing to attend, we have a lot more details on the SRCCON [participation](/participation) and [logistics](/logistics) pages.
 
 ## About SRCCON
 

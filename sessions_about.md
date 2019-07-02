@@ -6,8 +6,6 @@ photocredit_url: http://www.westraco.com/
 permalink: /sessions/about/
 ---
 
-<p class="big-lead">Check out our <a href="https://schedule.srccon.org">schedule for this year</a> and <a href="/participation/form">let us know</a> if you&rsquo;d like to be part of SRCCON!</p>
-
 # About Sessions at SRCCON
 
 SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that help every attendee head home with new ideas. Check out the [schedule for SRCCON 2019](https://schedule.srccon.org)!

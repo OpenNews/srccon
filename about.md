@@ -6,8 +6,6 @@ photocredit_url: http://www.westraco.com/
 permalink: /about/
 ---
 
-<p class="big-lead">Everyone at SRCCON contributes to making it happen. <a href="/participation/form/">Our call for participation form</a> remains open on a rolling basis, so let us know if you&rsquo;d like to join in!</p>
-
 # About SRCCON
 
 SRCCON (a contraction of “Source con”) is a highly participatory and extraordinarily inclusive conference where participants come first so they can focus on collaborating on the work at hand: transforming the way journalism works for them, their colleagues, and their communities. About 1/3 of attendees are also session facilitators, leading conversations and collaborative workshops focused on the practical challenges that news technology and data teams encounter every day.
@@ -43,7 +41,3 @@ SRCCON 2019 takes place July 11 & 12 at the <a href="https://www.google.com/maps
 * **We offer childcare.** We offer [childcare support](/childcare) throughout SRCCON, and have worked with the provider [KiddieCorp](https://www.kiddiecorp.com/) for the last several years.
 * **We'll connect you with local support groups.** We want to make sure people are aware of nearby meetings that can be helpful. If there's a group you'd like to see listed here, [please let us know](mailto:srccon@opennews.org).
     * **Alcoholics Anonymous.** On Thursday night, the closest meeting to SRCCON is at Drinkytown AA, [University Lutheran Church of Hope 601 13th Av SE](https://www.google.com/maps/place/University+Lutheran+Church+of+Hope/@44.983557,-93.235761,15z/data=!4m2!3m1!1s0x0:0x7e2b9cb466a3fbda?sa=X&ei=4jiEVZyHMcbgoASy45voCQ&ved=0CG8Q_BIwCg), which meets Thursday at 6:30pm. It is an “open” meeting, meaning that you don’t have to be alcoholic to go. AA Minneapolis also hosts [a full list of area meetings](https://aaminneapolis.org/meetings/?tsml-day=4&tsml-region=1388).
-
-## How to Participate
-
-Our [call for participation form](/participation/form/) remains open as space remains available. The CFP application process allow us to allocate tickets in an intentional way that equitably distributes attendance and ensures that there are a mix of perspectives and skills at the event. Our call for participation form helps us understand who would like to take part in SRCCON and what you want to get out of it. [Everyone at SRCCON contributes to making it happen](/participation).

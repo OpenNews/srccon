@@ -8,13 +8,7 @@ permalink: /logistics/
 
 ## When & Where
 
-SRCCON 2019 takes place July 11 & 12 at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis. SRCCON attendees tend to arrive on Wednesday and leave Friday evening or Saturday, depending on how the flight times work out. Our general conference schedule will look like this:
-
-**Wednesday:** Evening meetup for session facilitators, starting around 6pm.
-
-**Thursday:** Registration in the morning, with conference programming from about 9am to 6pm, followed by an evening full of informal activities at the venue.
-
-**Friday:** Conference programming from about 9am to 6pm.
+SRCCON 2019 takes place July 11 & 12 at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis. SRCCON attendees tend to arrive on Wednesday and leave Friday evening or Saturday, depending on how the flight times work out. 
 
 Learn more about how [our program](/program) comes together, and see what we have in store on [the official schedule for SRCCON 2019](https://schedule.srccon.org)!
 
@@ -73,7 +67,9 @@ You can also use transit to get to [the conference hotel](https://www.marriott.c
 
 ## Accessibility
 
-The McNamara Alumni Center is handicap-accessible, with accessible entrances and wide spaces for navigation throughout the venue. The main venue space is on the ground floor, with other session rooms accessible by an elevator. If there's additional information about the venue or schedule that would be helpful or accommodations that would aid you in getting the most out of SRCCON, just [let us know](mailto:srccon@opennews.org).
+The McNamara Alumni Center is handicap-accessible, with accessible entrances and wide spaces for navigation throughout the venue. All entrances to the building are on the ground floor, and don't require stairs. 90% of the SRCCON meeting rooms are on the ground level, and there are 2 elevators for access to the 2nd and 5th floor session rooms. There are ADA compliant bathrooms on each floor that SRCCON is using.
+
+If there's additional information about the venue or schedule that would be helpful or accommodations that would aid you in getting the most out of SRCCON, just [let us know](mailto:srccon@opennews.org).
 
 ## Parking
 Transit in Minneapolis is great, but if you'll be driving, there's [a lot right near the McNamara Alumni Center](http://mac-events.org/directions/). Parking is $12/day.
