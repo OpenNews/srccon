@@ -5,14 +5,22 @@
         <div class="sponsor-list">
             <a href="https://vip.wordpress.com/" class="narrow-logo"><img src="/media/img/partners/wordpress_vip2.png"></a>
             <a href="https://www.nytimes.com/"><img src="/media/img/partners/nyt.png"></a>
-            <a href="https://www.facebookjournalismproject.com"><img src="/media/img/partners/facebook_journalism_2.png"></a>
+            <a href="https://www.facebookjournalismproject.com" class="wide-logo"><img src="/media/img/partners/facebook_journalism_2.png"></a>
         </div>
     </div>
-    <div class="page-container">{% if page.section != 'remote' %}
-        <h3>Accessibility sponsors</h3>
+    <div class="page-container">
         <div class="sponsor-list sponsor-list-secondary">
-            <a href="https://www.lenfestinstitute.org/" class="narrow-logo"><img src="/media/img/partners/lenfest.png"></a>
-        </div>{% endif %}
+            {% if page.section != 'remote' %}
+            <div>
+                <h3>Accessibility sponsor</h3>
+                <a href="https://www.lenfestinstitute.org/" class="narrow-logo"><img src="/media/img/partners/lenfest.png"></a>
+            </div>{% endif %}
+            {% if page.section != 'scholarships' %}
+            <div>
+                <h3>Scholarship sponsor</h3>
+                <a href="https://knightfoundation.org/"><img src="/media/img/partners/knight_foundation.png"></a>
+            </div>{% endif %}
+        </div>
         <a href="/sponsors/">Meet the sponsors that help make SRCCON happen</a>
     </div>
 </div>{% endif %}

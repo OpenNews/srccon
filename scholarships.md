@@ -52,3 +52,6 @@ We're able to offer $500 scholarships at this time. Luckily, Minneapolis is a re
 
 ## Questions Not Covered Here?
 [Email us](mailto:srccon@opennews.org).
+
+
+<p class="sponsor-tag">Scholarships for SRCCON attendees were made possible by <a href="https://knightfoundation.org/"><img src="/media/img/partners/knight_foundation.png" class="" alt="The Knight Foundation"></a></p>
