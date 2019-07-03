@@ -32,6 +32,15 @@ permalink: /sponsors/index.html
     <p>The Lenfest Institute for Journalism is the first-of-its-kind non-profit organization whose sole mission is to develop and support sustainable business models for great local journalism. The Institute was founded in 2016 by cable television entrepreneur H.F. (Gerry) Lenfest. Lenfest gifted to the Institute an initial endowment of $20 million, which has since been supplemented by other donors, for investment in innovative news initiatives, new technology, and new models for sustainable journalism. Lenfest also gifted his ownership of the Philadelphia Media Network (The Philadelphia Inquirer, Philadelphia Daily News, and philly.com, the Philadelphia region’s largest local news website) and these news properties now serve as a live lab for the Institute’s innovation efforts.</p>
 </div>
 
+<div class="sponsor-block">
+    <h2>Attendee scholarship sponsor</h2>
+</div>
+
+<div class="sponsor-block">
+    <a href="https://knightfoundation.org/"><img src="/media/img/partners/knight_foundation.png" alt="The Knight Foundation"></a>
+    <p>Knight Foundation is a national foundation with strong local roots. We invest in journalism, in the arts, and in the success of cities where brothers John S. and James L. Knight once published newspapers. Our goal is to foster informed and engaged communities, which we believe are essential for a healthy democracy. For more, visit <a href="https://knightfoundation.org/">knightfoundation.org</a>.</p>
+</div>
+
 <div class="sponsor-block secondary">
     <h3>Lunch sponsor</h3>
     <a href="https://www.voxmedia.com/"><img src="/media/img/partners/vox_media_horiz.png" alt="Vox Media"></a>
