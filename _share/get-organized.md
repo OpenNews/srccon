@@ -41,8 +41,8 @@ There’s no right or wrong way to organize your ideas. Here’s a few methods t
 * Pitch new ideas and internal changes to management leadership. Maybe you all fell in love with a new tool, or you saw a cool project you’d like to try in house. Rally together and prioritize your asks and pitches so you can maximize support. 
 
 
-_This resource is part of the OpenNews After Party toolkit, developed by [Emma Carew Grovum](https://twitter.com/emmacarew). It's meant to help you get the most out of SRCCON—or any journalism event—and share what you learn with your own organization._
+_This resource is part of the OpenNews After Party toolkit, developed by [Emma Carew Grovum](https://twitter.com/emmacarew). It's meant to help you get the most out of SRCCON—or any journalism event—and share what you learn with your own organization. The toolkit is licensed CC BY-SA 4.0, and we'd love to see you use or adapt it for your own event—all we need is a link back here._
 
-_The toolkit is licensed CC BY-SA 4.0, and we'd love to see you use or adapt it for your own event—all we need is a link back here. We'd also be thrilled to hear how you put what you learn into practice, so please tweet us at #OpenNewsAfterParty!_
+_We'd also be thrilled to hear how you put what you learn into practice, so please tweet us at #OpenNewsAfterParty, or if you have any questions, [let us know](mailto:info@opennews.org)!_
 
 #### [&larr; Back to the After Party toolkit index](/share)
