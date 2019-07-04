@@ -24,6 +24,11 @@ permalink: /sponsors/index.html
 </div>
 
 <div class="sponsor-block">
+    <a href="https://newsinitiative.withgoogle.com/"><img src="/media/img/partners/google_news_initiative.png" alt="Google News Initiative"></a>
+    <p>The Google News Initiative is our effort to bring together everything we do as a company—across products, partnerships, and programs—to help journalism thrive in the digital age. We are focused on three key objectives: elevating quality information (which includes combating misinformation), evolving business models to support quality journalism (beyond ads to subscriptions), and empowering news organizations to use new technology (like AI) to meet their needs.</p>
+</div>
+
+<div class="sponsor-block">
     <h2>Accessibility sponsor - Transcription</h2>
 </div>
 
