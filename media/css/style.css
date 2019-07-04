@@ -279,14 +279,14 @@ footer #footer-details .page-container {
 
 .sponsor-list a {
     display: inline-block;
-    margin: 0 5% .67em 0;
-    width: 30%;
+    margin: 0 4% .67em 0;
+    width: 35%;
 }
 .sponsor-list a.narrow-logo {
     width: 15%;
 }
 .sponsor-list a.wide-logo {
-    width: 40%;
+    width: 50%;
 }
 .sponsor-list a img {
     width: 100%;
@@ -299,11 +299,11 @@ footer #footer-details .page-container {
     text-align: center;
 }
 .sponsor-list h3 + a {
-    width: 95%;
+    width: 90%;
     display: inline-block;
 }
 .sponsor-list h3 + a.narrow-logo {
-    width: 55%;
+    width: 50%;
 }
 .sponsor-list-secondary {
     display: grid;
