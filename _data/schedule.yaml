@@ -316,7 +316,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "Many news organizations are investigating how to apply artificial intelligence to the practice of journalism. Meanwhile many individuals and organizations are funding advancements in the field of news and AI. Do we take into consideration unconscious bias when developing algorithms and methods to build these new digital tools? How can they be best applied? What does the application of AI mean for newsrooms and the public they serve?", 
+        "description": "Many news organizations are actively thinking about how to integrate artificial intelligence into the practice of journalism, but it’s very early days. Meanwhile large multinational corporations are funding the major AI developments. However in response to a few very public failures of the technology, they’ve started publishing ethical frameworks that focus on social benefits and public safety. Given news organizations role in society, it’s an important time to understand this new technology and think critically about how to use it. Join us to evaluate the way large companies are starting to build ethical guardrails around the use of AI, and help us start drafting a set that’s unique to news.", 
         "everyone": "", 
         "facilitators": "Sarah Schmalbach, Ajay Chainani", 
         "facilitators_twitter": "schmalie, ajayjapan", 
@@ -603,7 +603,7 @@
         "day": "Thursday", 
         "description": "SRCCON can be a chance to connect with your community, or even find one for the first time. If you're part of a small team, or work as the only coder in your newsroom, you're not alone! The Lonely Coders Club is a network for folks in journalism and tech who don't have a ton of support (technical or otherwise) inside their own organizations. Come chat about what _you're_ working on, and how we can all have each other's backs.", 
         "everyone": "y", 
-        "facilitators": "Alexandra Kanik", 
+        "facilitators": "Alexandra Kanik, Natasha Khan, Erin Mansfield", 
         "facilitators_twitter": "", 
         "id": "thursday-evening-2-lonely-coders-meetup", 
         "length": "", 
