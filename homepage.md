@@ -7,15 +7,15 @@ photocredit_url: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-
 permalink: /index.html
 ---
 
-<p class="big-lead">We&rsquo;re so excited: <a href="https://schedule.srccon.org">the schedule for SRCCON 2019</a>!</p>
+{% include live_sessions_table.html %}
 
 ## When & Where
 
 On July 11 & 12, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis.
 
-[The 2019 schedule is now live](https://schedule.srccon.org).
+**Schedule:** [Check out the 2019 program](https://schedule.srccon.org)!
 
-If you're preparing to attend, we have a lot more details on the SRCCON [participation](/participation) and [logistics](/logistics) pages.
+**Attending:** If you're preparing to attend, we have a lot more details on the SRCCON [participation](/participation) and [logistics](/logistics) pages.
 
 ## About SRCCON
 
@@ -67,3 +67,5 @@ While all of our SRCCON news will be going out on our mailing list, if you want 
 SRCCON is produced by [OpenNews](https://opennews.org). We connect a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning and solving problems together can create a stronger, more responsive, and ascendant journalism ecosystem. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](http://www.communitypartners.org/).
 
 The “src” in SRCCON stands for “Source,” as in "view source." We pronounce it “Source-con,” but you can say it however you want.
+
+{% include live_sessions_js.html %}

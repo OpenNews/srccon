@@ -342,6 +342,9 @@ td {
     line-height: 1.3;
 }
 
+.live {
+    margin-bottom: 2em;
+}
 .live table {
     width: 100%;
     margin-bottom: 0;
