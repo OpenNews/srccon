@@ -1028,10 +1028,25 @@
         "id": "changing-awards-culture", 
         "length": "75 minutes", 
         "notepad": "y", 
-        "room": "Boardroom (5th floor)", 
+        "room": "Thomas Swain", 
         "time": "4:15-5:30pm", 
         "timeblock": "friday-pm-2", 
         "title": "Changing journalism's awards culture", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Friday", 
+        "description": "Launching a newsroom is like eating an elephant. How do you do it? One bite at a time. During this session, the News Revenue Hub and Center for Rural Strategies will share a playbook that's designed to give emerging journalism ventures the tools they need to get started, establish sustainable operations, and fortify access to quality journalism in communities everywhere.", 
+        "everyone": "", 
+        "facilitators": "Adam Giorgi, Rebecca Quarls", 
+        "facilitators_twitter": "adamgiorgi", 
+        "id": "local-news-startups", 
+        "length": "75 minutes", 
+        "notepad": "y", 
+        "room": "Boardroom (5th floor)", 
+        "time": "4:15-5:30pm", 
+        "timeblock": "friday-pm-2", 
+        "title": "Steps to getting a local news startup off the ground", 
         "transcription": ""
     }, 
     {
