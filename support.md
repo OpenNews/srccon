@@ -4,6 +4,7 @@ section: sessions
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /support/
+title: SRCCON 2019 — Care & Support at Our Event
 ---
 
 # Care &amp; Support at SRCCON

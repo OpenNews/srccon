@@ -4,6 +4,7 @@ section: participation
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /about/
+title: SRCCON 2019 — About Our Event
 ---
 
 # About SRCCON

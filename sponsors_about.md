@@ -2,6 +2,7 @@
 layout: layout
 section: sponsors
 permalink: /sponsors/about/index.html
+title: SRCCON 2019 — Become a SRCCON Sponsor
 ---
 
 # Become a SRCCON Sponsor

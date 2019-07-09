@@ -4,6 +4,7 @@ section: program
 photocredit: Daniel X. O'Neil
 photocredit_url: https://www.flickr.com/photos/juggernautco/27262805686/
 permalink: /program/
+title: SRCCON 2019 — About Our Program
 ---
 
 # The SRCCON Program

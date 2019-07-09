@@ -4,6 +4,7 @@ section: localguide
 byline: Sanjay
 bylineurl: https://www.flickr.com/photos/sanjay_kumar/6933748059/in/photolist-byHgJk-2Y7rxB-2uBpGB-2jRQcz-8XLaTm-hgsfoK-2vxrfq-hgt3FH-2uKdXW-7XM1G2-2vxtSG-hgs5gG-2uDjRp-fzcxHZ-g4GZVY-hgrA3C-dZiVMg-eVDPPN-4YH58i-d8DGtw-4m51ti-di3cC8-6RvXJp-dZqMfm-fCJCss-2uDsRM-g4HcjY-7WE7Po-dZqsAh-2uBgVZ-4tssXF-2uDnK8-2uBjUM-ebr8Nd-QqHsL-dAuix-2uHHcm-2uDwjk-4twe7S-2uHTBd-2jRhWc-dDiPs-4tstT2-4tsyF2-dZqRiy-PaLva-2uHJY1-2uBo1D-2uFD6S-dXCPNw
 permalink: /local-guide/
+title: SRCCON — Guide to the Twin Cities
 ---
 
 # The SRCCON Guide to the Twin Cities

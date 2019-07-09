@@ -4,6 +4,7 @@ section: sessions
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /welcome/
+title: SRCCON 2019 — Participant Guide
 ---
 
 # Participant Guide

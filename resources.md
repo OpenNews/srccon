@@ -2,6 +2,7 @@
 layout: layout
 section: documentation
 permalink: /our-resources/index.html
+title: SRCCON — How We Build Our Events
 ---
 
 # How We Build SRCCON Events

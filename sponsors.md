@@ -2,6 +2,7 @@
 layout: layout
 section: sponsors
 permalink: /sponsors/index.html
+title: SRCCON 2019 — Our Sponsors
 ---
 
 <div class="sponsor-block">
