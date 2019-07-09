@@ -4,6 +4,7 @@ section: scholarships
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /scholarships/
+title: SRCCON 2019 — Scholarships
 ---
 
 <p class="big-lead">We don&rsquo;t want cost to prevent you from coming to SRCCON, which is why we work to keep ticket prices low. To help defray the cost of attending, OpenNews offers a limited number of travel scholarships.</p>

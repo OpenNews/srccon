@@ -4,6 +4,7 @@ section: facilitators
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /facilitators/
+title: SRCCON 2019 — Facilitator Guide
 ---
 
 # SRCCON Facilitator Guide

@@ -3,6 +3,7 @@ layout: layout
 section: remote
 permalink: /slackbot/index.html
 ---
+
 # Slackbot Transcript Alerts
 
 We're excited to be offering live transcription at SRCCON again this year. About half of our 2018 sessions will be transcribed (they're all marked on [the schedule](http://schedule.srccon.org)), and we hope people feel able to take part even if they can't join us in Minneapolis.

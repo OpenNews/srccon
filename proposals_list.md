@@ -4,6 +4,7 @@ section: sessions
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /sessions/proposals/
+title: SRCCON 2019 — Session Proposals
 ---
 
 # SRCCON 2019 Session Proposals

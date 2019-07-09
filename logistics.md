@@ -4,6 +4,7 @@ section: logistics
 photocredit: lankforddl
 photocredit_url: https://www.flickr.com/photos/dannylankford/3616140995
 permalink: /logistics/
+title: SRCCON 2019 — Logistics
 ---
 
 ## When & Where

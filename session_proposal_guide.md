@@ -4,6 +4,7 @@ section: sessions
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /sessions/proposal-guide/
+title: SRCCON 2019 — Session Proposal Guide
 ---
 
 <p class="big-lead">There are a lot of ways to think about sessions at SRCCON. We&rsquo;ve put this guide together to help you turn your great idea into an equally great proposal.</p>

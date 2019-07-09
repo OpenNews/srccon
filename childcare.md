@@ -2,6 +2,7 @@
 layout: layout
 section: childcare
 permalink: /childcare/
+title: SRCCON 2019 — Childcare
 ---
 
 <p class="big-lead">We offer free childcare for the duration of the SRCCON program and welcome families of all sizes.</p>

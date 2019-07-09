@@ -2,6 +2,7 @@
 layout: layout
 section: remote
 permalink: /documentation/
+title: SRCCON 2019 — Documentation
 ---
 
 # SRCCON 2019 Documentation

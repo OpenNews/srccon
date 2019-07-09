@@ -2,6 +2,7 @@
 layout: layout
 section: remote
 permalink: /transcription/index.html
+title: SRCCON 2019 — Transcription
 ---
 
 # Transcription

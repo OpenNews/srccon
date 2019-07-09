@@ -2,9 +2,11 @@
 layout: layout
 section: share
 permalink: /share/
+title: The OpenNews After Party toolkit — Get the most out of journalism events
+description: A set of exercises and tipsheets to help you organize your thoughts before attending a journalism event, then share what you learned after you get back home.
 ---
 
-# Open News After Party toolkit
+# OpenNews After Party toolkit
 
 You go to a great event, maybe hosted by OpenNews in some way, and spend the week or weekend surrounded by excitement and passion and innovation and ideas and you’re ready to bring it back to your newsroom. So now what?
 

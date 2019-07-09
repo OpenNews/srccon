@@ -4,6 +4,7 @@ section: participation
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /participation/faq/
+title: SRCCON 2019 — Participation FAQ
 ---
 
 # All About Our Call for Participation Process

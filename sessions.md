@@ -4,6 +4,7 @@ section: sessions
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /sessions/
+title: SRCCON 2019 — Sessions
 ---
 
 # SRCCON 2019 Sessions
