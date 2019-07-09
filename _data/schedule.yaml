@@ -1,7 +1,7 @@
 [
     {
         "day": "Thursday", 
-        "description": "Get your badges and grab some food and caffeine as you gear up for the first day of SRCCON!", 
+        "description": "Get your badges and grab some caffeine as you gear up for the first day of SRCCON! (We'll put out some awesome morning snacks a little later into our conference day.)", 
         "everyone": "y", 
         "facilitators": "", 
         "facilitators_twitter": "", 
@@ -11,7 +11,7 @@
         "room": "Memorial", 
         "time": "8am", 
         "timeblock": "thursday-morning", 
-        "title": "Registration & Breakfast", 
+        "title": "Registration + Coffee & Tea at SRCCON", 
         "transcription": ""
     }, 
     {
@@ -301,7 +301,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "This will be an interactive and honest conversation about how management can be improved in local newsrooms. We’ll break the subject into a few key conversation starters -- the factors that lead to promotion of non-transferable skill sets, the dramatic industry disruptions that lead to a chaotic situation for management, and how we tackle those big issues through human resource development. \n\nOne of the keys early on in the session will be to have people identify themselves as managers and former managers, versus our typical worker-bee reporters. We’ll encourage dialogue between the managers who are willing to talk about their fears and shortcomings, and worker bees who are willing to talk about how they want to be managed. We want to embrace this vulnerability, allowing managers and worker bees to speak with each other and come to better understandings of their counterparts. ", 
+        "description": "This will be an interactive and honest conversation about how management can be improved in local newsrooms. We know that the industry has a tendency to promote non-transferable skill sets, and that there are dramatic industry disruptions that lead to chaotic situations for management. We’ll talk about how we can tackle those big issues through human resource development.\n\nThe program will involve large-group interaction, small-group discussion, one-on-one interactions, and brainstorming work with notecards, all designed to use our communication skills to solve problems. Most importantly, we’ll have interaction between traditional managers and worker-bee direct reports so we can better understand our counterparts and practice interacting with each other.", 
         "everyone": "", 
         "facilitators": "Erin Mansfield", 
         "facilitators_twitter": "_erinmansfield", 
@@ -421,7 +421,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "Let's eat together as a group. Meals are provided when you attend SRCCON, and our local caterer will have tasty options for all dietary needs.", 
+        "description": "Let's eat together as a group. Dinner on Thursday night is provided at SRCCON—mmmm, tacos—and our local caterer will have tasty options for all dietary needs.", 
         "everyone": "y", 
         "facilitators": "", 
         "facilitators_twitter": "", 
