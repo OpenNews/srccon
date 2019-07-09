@@ -12,13 +12,20 @@ SRCCON 2019 takes place July 11 & 12 at the <a href="https://www.google.com/maps
 
 Learn more about how [our program](/program) comes together, and see what we have in store on [the official schedule for SRCCON 2019](https://schedule.srccon.org)!
 
+## Venue and hotel directions
+The conference hotel this year is the [Courtyard Minneapolis Downtown](https://www.marriott.com/hotels/travel/mspdc-courtyard-minneapolis-downtown/), which is right near a stop on the light rail for easy travel from the airport and to the venue. 
+
+There's a bunch of ways you can get to the conference venue from the hotel, which is a little over a mile away:
+
+* **Complimentary Shuttle** the hotel itself provides a shuttle that's open to all guests from 7am-11pm daily, first-come, first-serve.
+* **Transit** the light rail Green Line, stops about 100 ft from the hotel front door at West Bank Station and drops off about a 5 minute walk from McNamara at Stadium Village Station on the other side. This is a 2-minute ride, with 5 minutes of walking, and the train comes every 10 minutes.
+* **University Circulator Shuttle** this bus is free and open to the public. It picks up about a block from the hotel at Mondale Hall and drops off at McNamara. It runs every 15 minutes from 7am-9:30pm.
+* **Walking** the walk is just about half an hour, as outlined in [Google Maps](https://goo.gl/maps/T5R7ecE4Vsvqq2Wj8). The descriptive version is: Exit the hotel and head east on S Washington Ave which will turn into S 2nd Street as you pass 19th Ave. In about 150ft, just before the parking lot, you'll turn right onto the sidewalk path, cutting through campus. Continue on the sidewalk east/southeast, around the University of MN Law School Building, until you see the Washington Ave Bridge. There is a walking/biking side of this bridge, and you'll use this to head across the river to the East Bank campus. After exiting the bridge, continue east on Washington Ave for 1/4 of a mile. McNamara Alumni Center will be on your left, between Walnut and Oak.
+
+
 ## Lodging
 
-The block of rooms at this year's conference hotel has sold out! The conference hotel this year is the [Courtyard Minneapolis Downtown](https://www.marriott.com/hotels/travel/mspdc-courtyard-minneapolis-downtown/), which has a complimentary shuttle to the McNamara Alumni Center venue.
-
-Another great option for getting between the conference hotel and the venue would be the light rail Green Line, which stops about 100 ft from the hotel front door at West Bank Station and drops off about a 5 minute walk from McNamara at Stadium Village Station on the other side.
-
-There is also the University Circulator, which is a bus that is free and open to the public. It picks up about a block from the hotel at Mondale Hall and drops off at McNamara.
+The block of rooms at this year's conference hotel has sold out! The conference hotel this year is the [Courtyard Minneapolis Downtown](https://www.marriott.com/hotels/travel/mspdc-courtyard-minneapolis-downtown/).
 
 If you're still looking for hotel options, other hotels not far from the conference venue include:
 
