@@ -1,4 +1,6 @@
 ---
+title: OpenNews After Party toolkit — Write a 1-pager for your boss
+description: Exercises and tipsheets to help you get the most out of a journalism event, then share what you learned when you get back home.
 ---
 
 #### [&larr; Open News After Party toolkit](/share)

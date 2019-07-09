@@ -1,4 +1,6 @@
 ---
+title: OpenNews After Party toolkit — Planning exercise (what to do _before_ you go)
+description: Exercises and tipsheets to help you get the most out of a journalism event, then share what you learned when you get back home.
 ---
 
 #### [&larr; Open News After Party toolkit](/share)
