@@ -71,7 +71,7 @@ We offer free, on-site childcare throughout the full SRCCON schedule (including 
 ## Transit
 The [Minneapolis METRO system](http://www.metrotransit.org/metro-system) is an easy way to get around the city. You can ride light rail from the airport to the conference venue for $2: Follow the light rail signs to the airport tram, which will take you right to the light rail station. Take the northbound ("Downtown Minneapolis") Blue Line to the U.S. Bank Stadium station, then cross to the other track to transfer to the eastbound Green Line. Take the Green Line two stops to East Bank. The [McNamara Alumni Center](http://www.mac-events.org/) conference venue is a block past The Graduate hotel, on SE Oak Street.
 
-You can also use transit to get to [the conference hotel](https://www.marriott.com/hotels/travel/mspdc-courtyard-minneapolis-downtown/), the light rail Green Line stops about 100 ft from the hotel front door at West Bank Station.
+You can also use transit to get to [the conference hotel](https://www.marriott.com/hotels/travel/mspdc-courtyard-minneapolis-downtown/), the light rail Green Line stops about 100 ft from the hotel front door at West Bank Station. To get to the hotel from the stop, go up the stairs or take the elevator. Then, walk to your right to the intersection of 19th Avenue and S. Washington Avenue. Take a left down Washington Avenue, and the Courtyard will be ahead of you on the right. It's a round building.
 
 ## Accessibility
 

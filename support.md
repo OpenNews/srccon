@@ -9,6 +9,8 @@ title: SRCCON 2019 — Care & Support at Our Event
 
 # Care &amp; Support at SRCCON
 
+<p class="safety"><b>SRCCON SAFETY HELPLINE:</b> Members of the conference team will be available via voice or text at <b>(612) 584-1131</b>, or by email at <b><a href="mailto:srccon@opennews.org">srccon@opennews.org</a></b>.</p>
+
 The spirit of generosity that animates this community is a big part of what leads to SRCCON. We heard again and again that folks wanted to have space to share with and support one another. We wanted to share some thoughts about how we're creating the space for those conversations and the support we can offer to one another.
 
 ## Inviting others into your conversation
