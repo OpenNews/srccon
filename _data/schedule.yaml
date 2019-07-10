@@ -436,21 +436,6 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "Our evening program has local tours, lightning talks, games, hobby workshops, and hosted conversations—stick around, have fun, and get to know the folks you meet at SRCCON!", 
-        "everyone": "y", 
-        "facilitators": "", 
-        "facilitators_twitter": "", 
-        "id": "thursday-evening-program", 
-        "length": "", 
-        "notepad": "", 
-        "room": "", 
-        "time": "7-9:30pm", 
-        "timeblock": "thursday-evening-1", 
-        "title": "Thursday Night at SRCCON", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Thursday", 
         "description": "Board games, card games, story games—we’ll have plenty to choose from. Bring your own to share and play. Community member David Montgomery is coordinating game night this year, and he set up [this Etherpad to help people plan](https://etherpad.opennews.org/p/2019-game-night). If you can bring a favorite game, share it there; if you see someone bringing a game you want to play, let them know you're interested!", 
         "everyone": "y", 
         "facilitators": "David Montgomery", 
@@ -549,7 +534,7 @@
         "length": "", 
         "notepad": "", 
         "room": "Memorial", 
-        "time": "8pm", 
+        "time": "All evening", 
         "timeblock": "thursday-evening-2", 
         "title": "Games Room", 
         "transcription": ""
@@ -627,6 +612,36 @@
         "time": "8pm", 
         "timeblock": "thursday-evening-2", 
         "title": "Journalists of color meetup", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "An unfacilitated space to have small-group discussions about the news of the day or anything else on your mind.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-evening-2-open-conversation", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Minnesota", 
+        "time": "8pm", 
+        "timeblock": "thursday-evening-2", 
+        "title": "Open Conversation Area", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "Our evening program has local tours, lightning talks, games, hobby workshops, and hosted conversations—stick around, have fun, and get to know the folks you meet at SRCCON! Activities are posted on the schedule, and we'll be here until 9:30 with plenty of space to hang out and keep talking.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-evening-program", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "time": "7-9:30pm", 
+        "timeblock": "thursday-evening-3", 
+        "title": "Thursday Night at SRCCON", 
         "transcription": ""
     }, 
     {
