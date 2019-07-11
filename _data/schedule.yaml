@@ -1006,7 +1006,7 @@
     }, 
     {
         "day": "Friday", 
-        "description": "Most newsrooms need their CMS to do the same basic things, but there are so many ways to do it. Let’s see what it looks like to publish a news story in a lineup of different CMSes. To show how different newsrooms accomplish the same tasks, a lineup of people involved in developing CMSes will follow the same demo script showing how to write, edit and publish a news story, rank it on a homepage and promote it to an audience. Each presenter will also talk about their favorite feature of their CMS and how to get journalists excited about their CMS.", 
+        "description": "Most newsrooms need their CMS to do the same basic things, but there are so many ways to do it. Let’s see what it looks like to publish a news story in a lineup of different CMSes. To show how different newsrooms accomplish the same tasks, a lineup of people involved in developing CMSes will demo their favorite CMS features, including how to write, edit and publish a news story, rank it on a homepage and promote it to an audience.\n\nThe CMSes to be demo-ed will be:\n\n* The New York Times's Scoop\n* Washington Post's Arc\n* Vox's Chorus\n* Condé Nast's Copilot\n* Industry Dive's Divesite", 
         "everyone": "", 
         "facilitators": "Albert Sun", 
         "facilitators_twitter": "albertsun", 
