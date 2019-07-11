@@ -526,6 +526,21 @@
     }, 
     {
         "day": "Thursday", 
+        "description": "An unfacilitated space to hang out and chat with the people you meet during SRCCON.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-evening-2-memorial", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Memorial", 
+        "time": "7pm", 
+        "timeblock": "thursday-evening-1", 
+        "title": "Open Conversation Area", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
         "description": "Board games, card games, story games—we’ll have plenty to choose from. Bring your own to share and play. Community member David Montgomery is coordinating game night this year, and he set up [this Etherpad to help people plan](https://etherpad.opennews.org/p/2019-game-night). If you can bring a favorite game, share it there; if you see someone bringing a game you want to play, let them know you're interested!", 
         "everyone": "y", 
         "facilitators": "David Montgomery", 
@@ -581,7 +596,7 @@
         "room": "Johnson", 
         "time": "8pm", 
         "timeblock": "thursday-evening-2", 
-        "title": "Conversation: Things the future taught us", 
+        "title": "Conversation: Things the future taught us + sci-fi book share", 
         "transcription": ""
     }, 
     {
@@ -624,6 +639,21 @@
         "length": "", 
         "notepad": "", 
         "room": "Minnesota", 
+        "time": "8pm", 
+        "timeblock": "thursday-evening-2", 
+        "title": "Open Conversation Area", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "An unfacilitated space to hang out and chat with the people you meet during SRCCON.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-evening-2-memorial", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Memorial", 
         "time": "8pm", 
         "timeblock": "thursday-evening-2", 
         "title": "Open Conversation Area", 
