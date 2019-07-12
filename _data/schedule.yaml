@@ -1,7 +1,7 @@
 [
     {
         "day": "Thursday", 
-        "description": "Get your badges and grab some food and caffeine as you gear up for the first day of SRCCON!", 
+        "description": "Get your badges and grab some caffeine as you gear up for the first day of SRCCON! (We'll put out some awesome morning snacks a little later into our conference day.)", 
         "everyone": "y", 
         "facilitators": "", 
         "facilitators_twitter": "", 
@@ -11,7 +11,7 @@
         "room": "Memorial", 
         "time": "8am", 
         "timeblock": "thursday-morning", 
-        "title": "Registration & Breakfast", 
+        "title": "Registration + Coffee & Tea at SRCCON", 
         "transcription": ""
     }, 
     {
@@ -76,7 +76,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "Writing good documentation is hard, so let’s write some together in a low-pressure environment! This session isn’t just about writing documentation to go with SRCCON; it’s an opportunity to learn how to improve documentation at your organization and perhaps take-away a prototype install of Library, too.\n\nWe’ll start by collaborating on successful approaches to writing and sharing documentation in a newsroom, then use Library to collect useful documentation for all SRCCON attendees.\n\nLibrary is an open-source documentation tool released by the New York Times in collaboration with Northwestern University’s Knight Lab earlier this year. Because every page in Library is a Google Doc, you already know how to use it!\n", 
+        "description": "Writing good documentation is hard, so let’s write some together in a low-pressure environment! This session isn’t just about writing documentation to go with SRCCON; it’s an opportunity to learn how to improve documentation at your organization and perhaps take-away a prototype install of Library, too.\n\nWe’ll start by collaborating on successful approaches to writing and sharing documentation in a newsroom, then use Library to collect useful documentation for all SRCCON attendees.\n\nLibrary is an open-source documentation tool released by the New York Times in collaboration with Northwestern University’s Knight Lab earlier this year. Because every page in Library is a Google Doc, you already know how to use it!\n\nYou won’t need an online device to participate, but it will be helpful for part of the session when we collaborate on Google Docs.", 
         "everyone": "", 
         "facilitators": "Isaac White, Maxine Whitely, Umi Syam", 
         "facilitators_twitter": "TweetAtIsaac, maxine_whitely, umay", 
@@ -151,7 +151,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "In recent years, many news organizations have published their diversity reports to educate folks in the industry about their challenges with diversity and to indicate that they are taking newsroom diversity seriously. This has also led to a number of conversations in the Journalists of Color slack and at other in-person settings about diversity committees at news organizations trying to figure out what their diversity report should cover and how they can convince management to publish effective indicators of diversity.\n\nIn this session we would like to facilitate a conversation around the topic of diversity reports. We will start with a quick survey of recent diversity reports published by prominent journalism outlets and then move to a discussion/group activity to work out what measures should be included in diversity reports to further the actual goals of increasing diversity in newsrooms.", 
+        "description": "In recent years, some organizations have published their diversity reports to educate folks in the industry about their challenges with diversity and to indicate that they are taking newsroom diversity seriously. This has also led to a number of conversations about diversity committees at news organizations trying to figure out what their diversity report should cover and how they can convince management to publish effective indicators of diversity.\n\nIn this session we would like to facilitate a conversation around the topic of diversity reports. We will start with a quick survey of recent diversity reports published by prominent journalism outlets and then move to a discussion/group activity discussing the following topics:\n\n* Why is it beneficial for organizations and our industry in general\n* How should you convince your management to collect and publish diversity data publicly\n* What should be covered in the reports", 
         "everyone": "", 
         "facilitators": "Moiz Syed, Disha Raychaudhuri", 
         "facilitators_twitter": "moizsyed, Disha_RC", 
@@ -226,7 +226,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "The SRCCON Science Fair is an informal way for you to connect with journalism tools and resources you can use in your work back home. Explore demos, ask lots of questions, and share feedback with these seven awesome projects:\n\n**The Accountability Project**  \n[Project info](https://www.publicaccountability.org/)  \nThis project brings together national and state data from a variety of sources – including campaign finance, nonprofits and voter registration – to help journalists search across multiple datasets from one search.\n\n**Associated Press Data Distributions & Datakit**\n[Project info](https://www.ap.org/en-us/formats/data-journalism)\nThe Data Distributions program provides clean, documented, and analyzed data to help tell local stories on topics ranging from census tract-level life expectancy to segregation in local schools to farm subsidies offsetting the impacts of Chinese tariffs. Distributions are available to all AP members for a small annual fee and are available to non-AP members—and even research groups at times—through commercial arrangements. The AP will also provide a sneak peek into a data project management tool we’ll be fully open-sourcing in September: Datakit creates a templated project structure in either R or Python, syncs data to S3, and pushes code to Github or Gitlab.\n\n**The Coral Project**  \n[Project info](https://coral.voxmedia.com)  \nThe Coral Project brings journalists and the communities they serve closer together through open-source tools and strategies. Our goals are: to increase public trust in journalism, to improve the diversity of voices and experiences in reporting, to make journalism stronger by making it more relevant to people’s lives, and to create safer, more productive online dialog. Because journalism needs everyone. For SRCCON, we'll be showing an exclusive preview of v5 – our complete rewrite of the Coral code and UX – out later this year.\n\n**Big Local News**  \nBig Local News collects local data to uncover regional or national patterns for accountability stories with big impact. We pursue hard-to-obtain data kept in disparate formats by multiple jurisdictions. Big Local News also works with newsrooms to archive their data. We are building a platform to help journalists collaborate and share data. It will be integrated with specialized tools and connect with the Stanford Digital Repository so data and methodologies can be archived for others to use and expand upon. \n\n**Immersive storytelling with AR/VR**  \nImmersive storytelling is a way to engage readers in a story. Using VR, AR, and gaming technologies we will show you how we’ve used it at the Los Angeles Times and how you can bring it to your newsroom - even if you don’t know how to code.\n\n**Medill Local News Initiative**  \n[Project info](https://localnewsinitiative.northwestern.edu)  \nWith local journalism in crisis, Northwestern University has assembled a team of experts in digital innovation, audience understanding and business strategy. The goal: reinvent the relationship between news organizations and audiences to elevate enterprises that empower citizens.\n\n**MuckRock Assignments**  \n[Project info](https://www.muckrock.com/assignment/)  \nWant to turn endless PDFs into beautiful spreadsheets? Looking for a new way to get your audience to help scale your reporting capacity? MuckRock's Assignments tool lets you crowdsource analysis of PDFs, social media posts, and other data types, while offering new ways to engage and follow up with your readers.\n\n**Workbench**  \n[Project info](https://workbenchdata.com/)  \nWorkbench brings all your data tools into one simple place, in your browser. It makes it easy to collect, scrape, transform and analyze data without code, automate and monitor tasks, and share reproducible step-by-step workflows along with dashboards and APIs.", 
+        "description": "The SRCCON Science Fair is an informal way for you to connect with journalism tools and resources you can use in your work back home. Explore demos, ask lots of questions, and share feedback with these seven awesome projects:\n\n**The Accountability Project**  \n[Project info](https://www.publicaccountability.org/)  \nThis project brings together national and state data from a variety of sources – including campaign finance, nonprofits and voter registration – to help journalists search across multiple datasets from one search. [Register for a free account here](https://www.publicaccountability.org/account/signup/?code=SRCCON).\n\n**Associated Press Data Distributions & Datakit**  \n[Project info](https://www.ap.org/en-us/formats/data-journalism)  \nThe Data Distributions program provides clean, documented, and analyzed data to help tell local stories on topics ranging from census tract-level life expectancy to segregation in local schools to farm subsidies offsetting the impacts of Chinese tariffs. Distributions are available to all AP members for a small annual fee and are available to non-AP members—and even research groups at times—through commercial arrangements. The AP will also provide a sneak peek into a data project management tool we’ll be fully open-sourcing in September: Datakit creates a templated project structure in either R or Python, syncs data to S3, and pushes code to Github or Gitlab.\n\n**The Coral Project**  \n[Project info](https://coral.voxmedia.com)  \nThe Coral Project brings journalists and the communities they serve closer together through open-source tools and strategies. Our goals are: to increase public trust in journalism, to improve the diversity of voices and experiences in reporting, to make journalism stronger by making it more relevant to people’s lives, and to create safer, more productive online dialog. Because journalism needs everyone. For SRCCON, we'll be showing an exclusive preview of v5 – our complete rewrite of the Coral code and UX – out later this year.\n\n**Big Local News**  \nBig Local News collects local data to uncover regional or national patterns for accountability stories with big impact. We pursue hard-to-obtain data kept in disparate formats by multiple jurisdictions. Big Local News also works with newsrooms to archive their data. We are building a platform to help journalists collaborate and share data. It will be integrated with specialized tools and connect with the Stanford Digital Repository so data and methodologies can be archived for others to use and expand upon. \n\n**Immersive storytelling with AR/VR**  \nImmersive storytelling is a way to engage readers in a story. Using VR, AR, and gaming technologies we will show you how we’ve used it at the Los Angeles Times and how you can bring it to your newsroom - even if you don’t know how to code.\n\n**Medill Local News Initiative**  \n[Project info](https://localnewsinitiative.northwestern.edu)  \nWith local journalism in crisis, Northwestern University has assembled a team of experts in digital innovation, audience understanding and business strategy. The goal: reinvent the relationship between news organizations and audiences to elevate enterprises that empower citizens.\n\n**MuckRock Assignments**  \n[Project info](https://www.muckrock.com/assignment/)  \nWant to turn endless PDFs into beautiful spreadsheets? Looking for a new way to get your audience to help scale your reporting capacity? MuckRock's Assignments tool lets you crowdsource analysis of PDFs, social media posts, and other data types, while offering new ways to engage and follow up with your readers.\n\n**Workbench**  \n[Project info](https://workbenchdata.com/)  \nWorkbench brings all your data tools into one simple place, in your browser. It makes it easy to collect, scrape, transform and analyze data without code, automate and monitor tasks, and share reproducible step-by-step workflows along with dashboards and APIs.", 
         "everyone": "", 
         "facilitators": "", 
         "facilitators_twitter": "", 
@@ -301,7 +301,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "This will be an interactive and honest conversation about how management can be improved in local newsrooms. We’ll break the subject into a few key conversation starters -- the factors that lead to promotion of non-transferable skill sets, the dramatic industry disruptions that lead to a chaotic situation for management, and how we tackle those big issues through human resource development. \n\nOne of the keys early on in the session will be to have people identify themselves as managers and former managers, versus our typical worker-bee reporters. We’ll encourage dialogue between the managers who are willing to talk about their fears and shortcomings, and worker bees who are willing to talk about how they want to be managed. We want to embrace this vulnerability, allowing managers and worker bees to speak with each other and come to better understandings of their counterparts. ", 
+        "description": "This will be an interactive and honest conversation about how management can be improved in local newsrooms. We know that the industry has a tendency to promote non-transferable skill sets, and that there are dramatic industry disruptions that lead to chaotic situations for management. We’ll talk about how we can tackle those big issues through human resource development.\n\nThe program will involve large-group interaction, small-group discussion, one-on-one interactions, and brainstorming work with notecards, all designed to use our communication skills to solve problems. Most importantly, we’ll have interaction between traditional managers and worker-bee direct reports so we can better understand our counterparts and practice interacting with each other.", 
         "everyone": "", 
         "facilitators": "Erin Mansfield", 
         "facilitators_twitter": "_erinmansfield", 
@@ -421,7 +421,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "Let's eat together as a group. Meals are provided when you attend SRCCON, and our local caterer will have tasty options for all dietary needs.", 
+        "description": "Let's eat together as a group. Dinner on Thursday night is provided at SRCCON—mmmm, tacos—and our local caterer will have tasty options for all dietary needs.", 
         "everyone": "y", 
         "facilitators": "", 
         "facilitators_twitter": "", 
@@ -432,21 +432,6 @@
         "time": "6pm", 
         "timeblock": "thursday-evening", 
         "title": "Dinner at SRCCON", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Thursday", 
-        "description": "Our evening program has local tours, lightning talks, games, hobby workshops, and hosted conversations—stick around, have fun, and get to know the folks you meet at SRCCON!", 
-        "everyone": "y", 
-        "facilitators": "", 
-        "facilitators_twitter": "", 
-        "id": "thursday-evening-program", 
-        "length": "", 
-        "notepad": "", 
-        "room": "", 
-        "time": "7-9:30pm", 
-        "timeblock": "thursday-evening-1", 
-        "title": "Thursday Night at SRCCON", 
         "transcription": ""
     }, 
     {
@@ -541,6 +526,21 @@
     }, 
     {
         "day": "Thursday", 
+        "description": "An unfacilitated space to hang out and chat with the people you meet during SRCCON.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-evening-2-memorial", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Memorial", 
+        "time": "7pm", 
+        "timeblock": "thursday-evening-1", 
+        "title": "Open Conversation Area", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
         "description": "Board games, card games, story games—we’ll have plenty to choose from. Bring your own to share and play. Community member David Montgomery is coordinating game night this year, and he set up [this Etherpad to help people plan](https://etherpad.opennews.org/p/2019-game-night). If you can bring a favorite game, share it there; if you see someone bringing a game you want to play, let them know you're interested!", 
         "everyone": "y", 
         "facilitators": "David Montgomery", 
@@ -549,7 +549,7 @@
         "length": "", 
         "notepad": "", 
         "room": "Memorial", 
-        "time": "8pm", 
+        "time": "All evening", 
         "timeblock": "thursday-evening-2", 
         "title": "Games Room", 
         "transcription": ""
@@ -596,7 +596,7 @@
         "room": "Johnson", 
         "time": "8pm", 
         "timeblock": "thursday-evening-2", 
-        "title": "Conversation: Things the future taught us", 
+        "title": "Conversation: Things the future taught us + sci-fi book share", 
         "transcription": ""
     }, 
     {
@@ -627,6 +627,36 @@
         "time": "8pm", 
         "timeblock": "thursday-evening-2", 
         "title": "Journalists of color meetup", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "An unfacilitated space to hang out and chat with the people you meet during SRCCON.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-evening-2-memorial-2", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Memorial", 
+        "time": "8pm", 
+        "timeblock": "thursday-evening-2", 
+        "title": "Open Conversation Area", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "Our evening program has local tours, lightning talks, games, hobby workshops, and hosted conversations—stick around, have fun, and get to know the folks you meet at SRCCON! Activities are posted on the schedule, and we'll be here until 9:30 with plenty of space to hang out and keep talking.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-evening-program", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "time": "7-9:30pm", 
+        "timeblock": "thursday-evening-3", 
+        "title": "Thursday Night at SRCCON", 
         "transcription": ""
     }, 
     {
@@ -706,7 +736,7 @@
     }, 
     {
         "day": "Friday", 
-        "description": "[cue Star Wars scroll ...]\n\nHeading into 2019, Chicago faced a historic election. For the first time in decades, the mayor's office was up for grabs with no incumbent and no heir apparent to the 5th floor of City Hall. Meanwhile, the clerk, treasurer and entire 50-seat City Council were up for election. Competition was fierce.\n\nSmall newsrooms faced the daunting task of covering all of these races. More than 200 candidates were running for local office -- including more than a dozen for mayor -- from complete unknowns to career pols. All of this was taking place in a news environment where media often struggles to engage voters and help them make informed decisions.\n\nWith these challenges in mind, a group of five local independent newsrooms decided to pool their resources and work together to create a one-stop resource to serve voters. In a matter of days, the Chi.vote Collaborative was founded, launching a website with candidate profiles, articles, voter resources and other information. The collaborative grew to 10 partners and traffic to the website surged heading into the February election and eventual April runoff. We literally built the car as we drove it, rolling out new features as fast as we could develop them. All while publishing new stories and information daily. \n\nWe quickly learned a lot about collaborating, building on each other's strengths and overcoming challenges. Here are our takeaways, what worked and what didn't, along with tips, insights and all the key technical details that could help you and your collaborators cover the next election.", 
+        "description": "With more than 200 candidates on the ballot for dozens of local offices, small newsrooms faced the daunting challenge of effectively covering an historic municipal election in Chicago earlier this year. Instead of competing for eyeballs or scoops, 10 organizations came together to build Chi.Vote, a one-stop shop election guide. We learned a lot about what it takes to make collaborations work, how to build on each other’s strengths, overcome challenges and address common pain points.\n\nIn this session, we’ll brainstorm how to break the mold of election coverage and give voters what they actually need to get to the polls. You'll talk through fostering effective collaboration in your newsroom and in your market. Bring your ideas and be prepared to develop collaborative election coverage strategies.", 
         "everyone": "", 
         "facilitators": "Matt Kiefer, Asraa Mustufa", 
         "facilitators_twitter": "matt_kiefer, asraareports", 
@@ -766,17 +796,17 @@
     }, 
     {
         "day": "Friday", 
-        "description": "While journalists talk a lot about having an impact, we're not as forthcoming on how we can be more deliberate and active in informing structural change in our communities. Our work is often geared to spark surface-level outcomes (a law was passed, an official was held accountable, etc.), but even when media organizations are equipped to do deeper investigative work, they often don’t invest in longer-term strategies that can illuminate pathways for citizens to create more equitable, healthy systems.\n\nUsing a practice called systems thinking – a holistic approach to grappling with complex issues – journalists can develop more collaborative frameworks that help people build power and resiliency to address some of our most deeply rooted problems. Through the lens of systems thinking, we'll open a discussion about some of the big ideas and questions that a change-oriented approach holds for journalists: What new roles can journalists play to help evaluate and facilitate opportunities for social change? How do we negotiate traditional journalistic principles and standards while working to actively dismantle oppressive systems? How can we better communicate and act on our values?\n\nWe'll offer ideas from the systems thinking playbook, discuss examples of journalists who are actively rooting their practice in systems change and lead a visioning exercise to imagine new possibilities.", 
+        "description": "In a post-Gamergate world, how should we think about personal data in our reporting and our research? What responsibilities do we have to the privacy of the communities we report on? While many journalists have [struggled with this question](https://docs.google.com/document/d/1T71OE4fm4ns0ugEOmKOY4xF4H9ikbebmikv96sgi16A/edit), few newsrooms have an explicit ethics policy on how they retain, release, and redact personally-identifiable information. Let's change that, by drafting a sample PII ethics policy that can be adopted by organizations both large and small.", 
         "everyone": "", 
-        "facilitators": "Cole Goins, Kayla Christopherson", 
-        "facilitators_twitter": "colegoins, KaylaChristoph", 
-        "id": "catalysts-for-change", 
+        "facilitators": "Thomas Wilburn, Kelly Chen", 
+        "facilitators_twitter": "thomaswilburn, chenkx", 
+        "id": "ethics-data-stories", 
         "length": "75 minutes", 
         "notepad": "y", 
         "room": "Ski-U-Mah", 
         "time": "11:45am-1pm", 
         "timeblock": "friday-am-2", 
-        "title": "How can newsrooms be more active catalysts for change?", 
+        "title": "The Scramble Suit: Creating harm prevention guidelines for newsroom data", 
         "transcription": "y"
     }, 
     {
@@ -811,17 +841,17 @@
     }, 
     {
         "day": "Friday", 
-        "description": "In a post-Gamergate world, how should we think about personal data in our reporting and our research? What responsibilities do we have to the privacy of the communities we report on? While many journalists have [struggled with this question](https://docs.google.com/document/d/1T71OE4fm4ns0ugEOmKOY4xF4H9ikbebmikv96sgi16A/edit), few newsrooms have an explicit ethics policy on how they retain, release, and redact personally-identifiable information. Let's change that, by drafting a sample PII ethics policy that can be adopted by organizations both large and small.", 
+        "description": "While journalists talk a lot about having an impact, we're not as forthcoming on how we can be more deliberate and active in informing structural change in our communities. Our work is often geared to spark surface-level outcomes (a law was passed, an official was held accountable, etc.), but even when media organizations are equipped to do deeper investigative work, they often don’t invest in longer-term strategies that can illuminate pathways for citizens to create more equitable, healthy systems.\n\nUsing a practice called systems thinking – a holistic approach to grappling with complex issues – journalists can develop more collaborative frameworks that help people build power and resiliency to address some of our most deeply rooted problems. Through the lens of systems thinking, we'll open a discussion about some of the big ideas and questions that a change-oriented approach holds for journalists: What new roles can journalists play to help evaluate and facilitate opportunities for social change? How do we negotiate traditional journalistic principles and standards while working to actively dismantle oppressive systems? How can we better communicate and act on our values?\n\nWe'll offer ideas from the systems thinking playbook, discuss examples of journalists who are actively rooting their practice in systems change and lead a visioning exercise to imagine new possibilities.", 
         "everyone": "", 
-        "facilitators": "Thomas Wilburn, Kelly Chen", 
-        "facilitators_twitter": "thomaswilburn, chenkx", 
-        "id": "ethics-data-stories", 
+        "facilitators": "Cole Goins, Kayla Christopherson", 
+        "facilitators_twitter": "colegoins, KaylaChristoph", 
+        "id": "catalysts-for-change", 
         "length": "75 minutes", 
         "notepad": "y", 
         "room": "Thomas Swain", 
         "time": "11:45am-1pm", 
         "timeblock": "friday-am-2", 
-        "title": "The Scramble Suit: Creating harm prevention guidelines for newsroom data", 
+        "title": "How can newsrooms be more active catalysts for change?", 
         "transcription": ""
     }, 
     {
@@ -961,7 +991,7 @@
     }, 
     {
         "day": "Friday", 
-        "description": "Most newsrooms need their CMS to do the same basic things, but there are so many ways to do it. Let’s see what it looks like to publish a news story in a lineup of different CMSes. To show how different newsrooms accomplish the same tasks, a lineup of people involved in developing CMSes will follow the same demo script showing how to write, edit and publish a news story, rank it on a homepage and promote it to an audience. Each presenter will also talk about their favorite feature of their CMS and how to get journalists excited about their CMS.", 
+        "description": "Most newsrooms need their CMS to do the same basic things, but there are so many ways to do it. Let’s see what it looks like to publish a news story in a lineup of different CMSes. To show how different newsrooms accomplish the same tasks, a lineup of people involved in developing CMSes will demo their favorite CMS features, including how to write, edit and publish a news story, rank it on a homepage and promote it to an audience.\n\nThe CMSes to be demo-ed will be:\n\n* The New York Times's Scoop\n* Washington Post's Arc\n* Vox's Chorus\n* Condé Nast's Copilot\n* Industry Dive's Divesite", 
         "everyone": "", 
         "facilitators": "Albert Sun", 
         "facilitators_twitter": "albertsun", 
@@ -1036,7 +1066,7 @@
     }, 
     {
         "day": "Friday", 
-        "description": "Launching a newsroom is like eating an elephant. How do you do it? One bite at a time. During this session, the News Revenue Hub and Center for Rural Strategies will share a playbook that's designed to give emerging journalism ventures the tools they need to get started, establish sustainable operations, and fortify access to quality journalism in communities everywhere.", 
+        "description": "Have you ever thought about starting your own news venture? Are you chomping at the bit to bring quality journalism to a community, region, or cause close to your heart? If so, come join us. We’re going to help you get a head start on your bootstrapping, entrepreneurial dreams!\n\nIn this session, you'll play the role of a startup team for an emerging news venture. We’ve got a playbook with the steps that will help you establish sustainable operations, and we’ll work through it together.", 
         "everyone": "", 
         "facilitators": "Adam Giorgi, Rebecca Quarls", 
         "facilitators_twitter": "adamgiorgi", 
