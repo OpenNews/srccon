@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — How to edit data as seriously as we edit words"
 ---
 
-# Session Transcript:<br>How to edit data as seriously as we edit words
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# How to edit data as seriously as we edit words
 
 ### Session facilitator(s): Hannah Recht, Kate Rabinowitz
 

@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — How to re-org your newsroom around product without breaking it"
 ---
 
-# Session Transcript:<br>How to re-org your newsroom around product without breaking it
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# How to re-org your newsroom around product without breaking it
 
 ### Session facilitator(s): Jessica Morrison, Amanda Yarnell
 

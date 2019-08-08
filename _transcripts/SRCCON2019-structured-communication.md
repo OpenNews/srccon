@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — Structured communication: Tools you can use to change culture and help your team feel heard"
 ---
 
-# Session Transcript:<br>Structured communication: Tools you can use to change culture and help your team feel heard
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# Structured communication: Tools you can use to change culture and help your team feel heard
 
 ### Session facilitator(s): Anika Anand, Eimi Okuno
 

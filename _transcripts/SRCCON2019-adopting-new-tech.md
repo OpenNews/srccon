@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — Noise & Signal: Knowing when to adopt new tech, and when to ignore it"
 ---
 
-# Session Transcript:<br>Noise & Signal: Knowing when to adopt new tech, and when to ignore it
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# Noise & Signal: Knowing when to adopt new tech, and when to ignore it
 
 ### Session facilitator(s): Alexandra Kanik, Natasha Vicens
 

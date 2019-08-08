@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — Designing the next phase for newsroom technologists"
 ---
 
-# Session Transcript:<br>Designing the next phase for newsroom technologists
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# Designing the next phase for newsroom technologists
 
 ### Session facilitator(s): Tyler Fisher, Brittany Mayes
 

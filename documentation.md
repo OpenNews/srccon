@@ -9,7 +9,7 @@ title: SRCCON 2019 — Documentation
 
 It's important to us to keep SRCCON small enough to feel friendly and conversational, but we also care about getting the ideas and conversations that take place at SRCCON into the wider world. The most important way this happens is when attendees return to their newsrooms and put new skills and approaches to work, but we also document SRCCON as extensively as possible. This page collects resources you can refer back to as you bring SRCCON home with you:
 
-* [Session transcripts](#transcription)
+* [Session transcripts](#session-transcripts)
 * [Session notes & resources](#session-notes--resources)
 * [Session write-ups on Source](#session-write-ups)
 

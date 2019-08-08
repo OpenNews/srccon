@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — Why it matters — Designing stories for impact"
 ---
 
-# Session Transcript:<br>Why it matters — Designing stories for impact
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# Why it matters — Designing stories for impact
 
 ### Session facilitator(s): Anjanette Delgado, Jun-Kai Teoh
 

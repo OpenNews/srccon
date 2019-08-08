@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — The Scramble Suit: Creating harm prevention guidelines for newsroom data"
 ---
 
-# Session Transcript:<br>The Scramble Suit: Creating harm prevention guidelines for newsroom data
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# The Scramble Suit: Creating harm prevention guidelines for newsroom data
 
 ### Session facilitator(s): Thomas Wilburn, Kelly Chen
 

@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — Taking Up Space: Making Room for People with Disabilities at The Times"
 ---
 
-# Session Transcript:<br>Taking Up Space: Making Room for People with Disabilities at The Times
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# Taking Up Space: Making Room for People with Disabilities at The Times
 
 ### Session facilitator(s): Katherine McMahan
 

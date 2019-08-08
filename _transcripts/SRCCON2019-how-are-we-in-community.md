@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — How are we in community together?"
 ---
 
-# Session Transcript:<br>How are we in community together?
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# How are we in community together?
 
 ### Session facilitator(s): Erika Owens, Brittany Campese
 

@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — “Abandon normal instruments”: Sideways strategies for defeating creative block"
 ---
 
-# Session Transcript:<br>“Abandon normal instruments”: Sideways strategies for defeating creative block
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# “Abandon normal instruments”: Sideways strategies for defeating creative block
 
 ### Session facilitator(s): Katie Park, Alex Tatusian
 

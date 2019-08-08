@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — Game of Newsletters: A song of inboxes and subject lines"
 ---
 
-# Session Transcript:<br>Game of Newsletters: A song of inboxes and subject lines
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# Game of Newsletters: A song of inboxes and subject lines
 
 ### Session facilitator(s): Emily Roseman, Joseph Lichterman
 

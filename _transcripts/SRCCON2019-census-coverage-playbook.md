@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — A playbook for reporters interested in reaching people at risk of being undercounted"
 ---
 
-# Session Transcript:<br>A playbook for reporters interested in reaching people at risk of being undercounted
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# A playbook for reporters interested in reaching people at risk of being undercounted
 
 ### Session facilitator(s): Ashley Alvarado, Megan Garvey, Dana Amihere
 

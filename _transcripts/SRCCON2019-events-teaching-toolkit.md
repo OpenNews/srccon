@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — Bang for your buck: how to help your newsroom get the most out of SRCCON (or any journalism event)"
 ---
 
-# Session Transcript:<br>Bang for your buck: how to help your newsroom get the most out of SRCCON (or any journalism event)
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# Bang for your buck: how to help your newsroom get the most out of SRCCON (or any journalism event)
 
 ### Session facilitator(s): Emma Carew Grovum, Dave Stanton
 

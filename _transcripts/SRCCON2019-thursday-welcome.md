@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — Welcome to SRCCON 2019!"
 ---
 
-# Session Transcript:<br>Welcome to SRCCON 2019!
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# Welcome to SRCCON 2019!
 
 ### Session facilitator(s): OpenNews staff
 

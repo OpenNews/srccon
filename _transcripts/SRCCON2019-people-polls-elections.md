@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — Fix your feedback loop: Letting people, not polls, drive your election coverage"
 ---
 
-# Session Transcript:<br>Fix your feedback loop: Letting people, not polls, drive your election coverage
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# Fix your feedback loop: Letting people, not polls, drive your election coverage
 
 ### Session facilitator(s): Ariel Zirulnick, Bridget Thoreson
 

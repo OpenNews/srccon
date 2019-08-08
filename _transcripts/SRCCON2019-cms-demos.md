@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — CMS Demos: Approaches to Helping Our Newsrooms Do Their Best Work"
 ---
 
-# Session Transcript:<br>CMS Demos: Approaches to Helping Our Newsrooms Do Their Best Work
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# CMS Demos: Approaches to Helping Our Newsrooms Do Their Best Work
 
 ### Session facilitator(s): Albert Sun
 

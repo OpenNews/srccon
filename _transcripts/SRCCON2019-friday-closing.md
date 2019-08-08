@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — SRCCON Closing"
 ---
 
-# Session Transcript:<br>SRCCON Closing
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# SRCCON Closing
 
 ### Session facilitator(s): Erika Owens
 

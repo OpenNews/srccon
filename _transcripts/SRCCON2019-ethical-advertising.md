@@ -1,7 +1,10 @@
 ---
+title: "SRCCON 2019 Session Transcript — Let’s build some ethical advertising"
 ---
 
-# Session Transcript:<br>Let’s build some ethical advertising
+#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+
+# Let’s build some ethical advertising
 
 ### Session facilitator(s): Ian Carrico, Amanda Hicks
 
