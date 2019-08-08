@@ -21,7 +21,7 @@ Our live-captioning team will transcribe about 16 sessions at SRCCON. Sessions t
     <h3>Thursday transcribed sessions</h3>
     <table>{% assign thursday = site.data.schedule | where:"day","Thursday" %}
 {% for session in thursday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a class="session-title" href="https://upword.ly/view?user=srccon2019&job=srccon2019-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a class="session-title" href="/transcripts/SRCCON2019-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
@@ -30,7 +30,7 @@ Our live-captioning team will transcribe about 16 sessions at SRCCON. Sessions t
     <h3>Friday transcribed sessions</h3>
     <table>{% assign friday = site.data.schedule | where:"day","Friday" %}
 {% for session in friday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a class="session-title" href="https://upword.ly/view?user=srccon2019&job=srccon2019-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a class="session-title" href="/transcripts/SRCCON2019-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
