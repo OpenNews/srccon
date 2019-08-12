@@ -98,6 +98,7 @@ All sessions at SRCCON have a collaborative etherpad that facilitators and atten
 * ["We should rethink the way we think about percentages" slides](https://docs.google.com/presentation/d/1AIn7DeNzUSB96HK9iy6Kw2fl2w5uS28Qs1Uow7WNVOc/edit)
 * ["What happens to journalism, when AI eats the world?" session notes](https://etherpad.opennews.org/p/SRCCON2019-ai-eats-the-world)
 * ["What happens to journalism, when AI eats the world?" slides](https://docs.google.com/presentation/d/1EM21pf0A3DzP72NNU9zK6ejqhxafww4Px4jNCpItVJ4/edit)
+* ["Why it matters — Designing for impact" slides](https://docs.google.com/presentation/d/1iUrxAMbf6FmBmkd2C03G8-LBy82MCyxg2mTi6k3h-YA/edit#slide=id.p)
 
 ## Session Write-Ups
 
