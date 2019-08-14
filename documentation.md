@@ -15,7 +15,7 @@ It's important to us to keep SRCCON small enough to feel friendly and conversati
 
 ## Session Transcripts
 
-Our live-captioning team will transcribe about 16 sessions at SRCCON. Sessions that have stenographers are marked on [our full schedule](https://schedule.srccon.org), or you can use the lists below. If you were in a session and you notice something that needs to be fixed, we'd love your [pull requests](https://github.com/opennews/srccon) or [emails](mailto:srccon@opennews.org).
+Our live-captioning team transcribed 16 sessions at SRCCON. Sessions that have stenographers are marked on [our full schedule](https://schedule.srccon.org), or you can use the lists below. If you were in a session and you notice something that needs to be fixed, we'd love your [pull requests](https://github.com/opennews/srccon) or [emails](mailto:srccon@opennews.org).
 
 <div>
     <h3>Thursday transcribed sessions</h3>
@@ -102,7 +102,7 @@ All sessions at SRCCON have a collaborative etherpad that facilitators and atten
 
 ## Session Write-Ups
 
-In the leadup to SRCCON 2019, we’ll feature a selection of previews with session facilitators about the topics they're bringing to this year's event. You can [keep up with the series on Source](https://source.opennews.org). After this year's SRCCON, we'll also publish a series of session summaries that dig into the things people learned during conversations and workshops.
+On Source, we're gathering up [session summaries and takeaways](https://source.opennews.org/articles/tags/srccon-2019/) as well. If there's a session topic you'd like to learn more about, [let us know](mailto:srccon.org) and we'll see if we can find additional documentation or publish a followup piece. And of course as you're taking ideas back to your newsroom, the [After Party Toolkit](/share) is here to help you make a great plan.
 
 <p class="sponsor-tag">Transcription at SRCCON is made possible by <a href="https://www.lenfestinstitute.org/"><img src="/media/img/partners/lenfest.png" class="" alt="The Lenfest Institute"></a></p>
 
