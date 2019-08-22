@@ -277,6 +277,10 @@ footer #footer-details .page-container {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
+#footer-sponsors .page-container:first-child {
+    margin-bottom: 1em;
+}
+
 .sponsor-list a {
     display: inline-block;
     margin: 0 4% .67em 0;
@@ -286,7 +290,8 @@ footer #footer-details .page-container {
     width: 15%;
 }
 .sponsor-list a.wide-logo {
-    width: 50%;
+    width: 45%;
+    vertical-align: top;
 }
 .sponsor-list a img {
     width: 100%;
@@ -666,6 +671,7 @@ table a.session-transcript {
         font-size: 1.3em;
     }
     .sponsor-list a,
+    .sponsor-list a.narrow-logo,
     .sponsor-list h3 + a {
         display: block;
         width: 67%;
@@ -686,8 +692,9 @@ table a.session-transcript {
     .sponsor-list h3 + a.wide-logo {
         width: 65%;
     }
-    .sponsor-list h3 + a {
-        margin-bottom: 2em;
+    .sponsor-list h3 + a,
+    .sponsor-list h3 + a.narrow-logo {
+        margin: 1em auto 2em;
     }
     
     
