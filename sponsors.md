@@ -30,6 +30,11 @@ title: SRCCON 2019 — Our Sponsors
 </div>
 
 <div class="sponsor-block">
+    <a href="https://craignewmarkphilanthropies.org/"><img src="/media/img/partners/newmark.png" alt="Craig Newmark Philanthropies"></a>
+    <p>I'm an old-school nerd, doing what I can to respect and support the people who fight to protect the values that America aspires to: fairness, opportunity and respect. I amplify the voices of the grassroots and advance their efforts to make sure everyone is included, and treated fairly and respectfully. I see my role as connecting people who are doing good, enabling them to do what they do best and then getting out of their way. I encourage others who have benefited from the many opportunities afforded by our country to give back. Because it's the right thing to do.</p>
+</div>
+
+<div class="sponsor-block">
     <h2>Accessibility sponsor - Transcription</h2>
 </div>
 
