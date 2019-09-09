@@ -49,6 +49,98 @@ h1, h2, h3, h4 {
 }
 
 
+.hub #hub-nav {
+    text-align: center;
+}
+.hub #hub-nav img {
+    margin-left: -2em;
+}
+.hub .page-intro {
+    text-align: center;
+    margin: 0 -4em 1em;
+    line-height: 1.3;
+}
+.hub .page-intro .big-type {
+    font-weight: bold;
+    font-size: 1.8em;
+}
+.hub .page-intro .contact-options {
+    margin-left: .67em;
+}
+.page-divider {
+    font-family: sofia-pro, sans-serif;
+    position: relative;
+    font-weight: 400;
+    text-transform: uppercase;
+    border-bottom: 1px solid;
+    margin: 4rem 0 2rem 0;
+    z-index: 1;
+    clear: both;
+    color: silver;
+    color: #fc6e1f;
+}
+.page-divider span {
+    background-color: #fff;
+    font-size: 1.2rem;
+    margin-top: -1.4rem;
+    padding-right: 1rem;
+    float: left;
+}
+.hub ul.upcoming-events {
+    list-style: none;
+    padding: 0;
+}
+.hub .upcoming-event {
+    margin-bottom: 2em;
+}
+
+.hub .upcoming-event h3 {}
+.hub .upcoming-event div {
+    font-family: sofia-pro, sans-serif;
+    font-size: .9em;
+}
+.hub .upcoming-event div,
+.hub .upcoming-event p {
+    margin: 0 0 .4em;
+    line-height: 1.5;
+}
+.hub .upcoming-event .when-where {
+
+}
+.hub .upcoming-event .next-thing {
+    font-size: .7em;
+}
+
+.hub ul.previous-events {
+    list-style: none;
+    padding: 0;
+}
+.hub .previous-event {
+    font-size: .8em;
+    margin-bottom: .8em;
+}
+.hub .previous-event h3,
+.hub .previous-event div {
+    font-family: sofia-pro, sans-serif;
+    line-height: 1.5;
+}
+.hub .previous-event h3,
+.hub .previous-event .when-where {
+    display: inline-block;
+}
+.hub .previous-event .when-where {
+    margin-left: .5em;
+}
+.hub footer {
+    font-size: .8em;
+    text-align: center;
+    padding-bottom: 2em;
+}
+.hub footer .trailer {
+    font-family: freight-text-pro, serif;
+}
+
+
 /* HEADER IMAGES */
 header #header-image { /* default to MPLS skyline homepage background */
     background-size: cover;
