@@ -35,10 +35,11 @@
     </script>
 </head>
 
-<body class="{{ page.section }}">
+<body class="hub{% if page.section %} {{ page.section }}{% endif %}">
     <header>
         <nav id="hub-nav">
-            <div class="page-container">
+            <div class="page-container">{% if page.section != 'homepage' %}
+                <div class="top-bar"><a href="/">&larr; SRCCON Events Home</a></div>{% endif %}
                 <a id="main-logo" href="/"><img src="/media/img/srccon_logo_angle_512.png"></a>
             </div>
         </nav>

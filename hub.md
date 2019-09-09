@@ -5,7 +5,7 @@ permalink: /hub/
 ---
 
 <div class="page-intro">
-    <p class="big-type">SRCCON events are highly participatory spaces for people who want to transform the ways journalism and tech work in their organizations and communities.</p>
+    <p class="big-type">SRCCON events are for people who want to transform the ways journalism and tech work in their organizations and communities. <a href="#about-srccon-events">Read more</a></p>
     <p>If you&rsquo;d like to get involved, get in touch!<span class="contact-options"> <a href="https://twitter.com/srccon">Twitter</a> / <a href="mailto:srccon@opennews.org">Email</a> / <a href="http://eepurl.com/czSVTL">Newsletter</a></span></p>
 </div>
 
@@ -15,20 +15,20 @@ permalink: /hub/
     <li class="upcoming-event">
         <h3>SRCCON:LEAD</h3>
         <div class="when-where">November 19 & 20, 2019, in Philadelphia</div>
-        <p class="description">A 125-person hands-on conference to figure out how we can better support one another in reshaping how leadership in journalism operates.</p>
-        <div class="next-thing">Call for participation opens September 26</div>
+        <p class="description">A 125-person hands-on conference to figure out ways we can reshape how journalism leadership operates.</p>
+        <div class="next-thing">&rarrhk; Call for participation opens September 26</div>
     </li>
     <li class="upcoming-event">
         <h3>SRCCON:PRODUCT</h3>
         <div class="when-where">February 8, 2020, in Philadelphia</div>
         <p class="description">A participant-led, interactive event for 150 product thinkers: the first conference by, for, and about product and news.</p>
-        <div class="next-thing"><a href="https://opennews.org/blog/announcing-srccon-product/">Read the event announcement &rarr;</a></div>
+        <div class="next-thing">&rarrhk; <a href="https://opennews.org/blog/announcing-srccon-product/">Read the event announcement</a></div>
     </li>
     <li class="upcoming-event">
         <h3>SRCCON 2020</h3>
         <div class="when-where">July 16 & 17, 2020, in Minneapolis</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
-        <div class="next-thing">Mark your calendars now. More detail about call for participation in early 2020!</div>
+        <div class="next-thing">&rarrhk; Mark your calendars now. More detail about call for participation in early 2020!</div>
     </li>
 </ul>
 
@@ -71,7 +71,9 @@ permalink: /hub/
 
 <div id="about-srccon-events" class="page-divider"><span>About SRCCON events</span></div>
 
-SRCCON events are highly participatory and inclusive, where participants come first so they can can feel comfortable digging into complex problems. We organize the schedule around hands-on sessions, conversations, and workshops focused on the practical challenges that news technology and data teams encounter every day. Session topics come from the community, with OpenNews providing the intentional space that takes care of participants and allows them to develop open, interdependent relationships with each other.
+SRCCON events are highly participatory and inclusive, where participants come first so they can can feel comfortable digging into complex problems. We organize the schedule around hands-on sessions, conversations, and workshops focused on the practical challenges that news technology and data teams encounter every day.
+
+Session topics come from the community, with OpenNews providing the intentional space that takes care of participants and allows them to develop open, interdependent relationships with each other.
 
 [More about how we build SRCCON events &rarr;](/our-resources)
 

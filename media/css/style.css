@@ -49,6 +49,14 @@ h1, h2, h3, h4 {
 }
 
 
+.hub header {
+    margin-bottom: 1em;
+}
+.hub #hub-nav .top-bar {
+    text-align: left;
+    font-size: .8em;
+    margin-bottom: 1em;
+}
 .hub #hub-nav {
     text-align: center;
 }
@@ -73,7 +81,8 @@ h1, h2, h3, h4 {
     font-weight: 400;
     text-transform: uppercase;
     border-bottom: 1px solid;
-    margin: 4rem 0 2rem 0;
+    margin: 2rem 0 2rem 0;
+    padding-top: 2rem;
     z-index: 1;
     clear: both;
     color: silver;
@@ -105,7 +114,6 @@ h1, h2, h3, h4 {
     line-height: 1.5;
 }
 .hub .upcoming-event .when-where {
-
 }
 .hub .upcoming-event .next-thing {
     font-size: .7em;
@@ -590,6 +598,10 @@ table a.session-transcript {
     .participation #header-image {
         background-position: 0 -200px;
     }
+
+    .hub .page-intro {
+        margin: 0 -1em 1em;
+    }
 }
 
 @media screen and (max-width: 800px) {
@@ -673,6 +685,14 @@ table a.session-transcript {
     .sponsor-block.secondary img {
         width: 67%;
     }
+
+    .hub .page-intro {
+        margin: 0 0 1em;
+    }
+    .hub .page-intro .contact-options {
+        margin-left: 0;
+        display: block;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -709,12 +729,23 @@ table a.session-transcript {
         position: relative;
         vertical-align: middle;
     }
+
+    .hub .page-intro .big-type {
+        font-size: 1.6em;
+    }
 }
 
 @media screen and (max-width: 540px) {
     .sponsor-tag img {
         width: 50%;
         display: block;
+    }
+    .hub .page-intro .big-type {
+        font-size: 1.5em;
+    }
+    .hub #hub-nav img {
+        margin-left: 0;
+        width: 95%;
     }
 }
 
@@ -789,8 +820,6 @@ table a.session-transcript {
         margin: 1em auto 2em;
     }
     
-    
-    
     .sponsor-block img {
         width: 100%;
     }
@@ -800,6 +829,10 @@ table a.session-transcript {
     .sponsor-tag img {
         width: 67%;
         margin: .5em auto;
+    }
+
+    .hub .page-intro .big-type {
+        font-size: 1.4em;
     }
 }
 

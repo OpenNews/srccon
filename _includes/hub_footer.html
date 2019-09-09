@@ -1,6 +1,7 @@
 
 <div class="page-container">
-    <p><a href="/conduct">Read our code of conduct</a></p>
+    {% if page.section != 'conduct' %}
+    <p><a href="/conduct">Read our code of conduct</a></p>{% endif %}
     
     <p>Keep in touch: <span class="contact-options"> <a href="https://twitter.com/srccon">Twitter</a> / <a href="mailto:srccon@opennews.org">Email</a> / <a href="http://eepurl.com/czSVTL">Newsletter</a></span></p>
     
