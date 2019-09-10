@@ -1,11 +1,10 @@
 ---
-layout: layout
+layout: layout_hub
 section: conduct
-photocredit:  Dvortygirl
-photocredit_url: https://www.flickr.com/photos/dvortygirl/3982230988
-permalink: /conduct/index.html
+permalink: /conduct/
 title: SRCCON — Our Code of Conduct
 ---
+
 ## Code of Conduct
 
 **SRCCON SAFETY HELPLINE:** If you would like to make any reports after the event, please email us at [srccon@opennews.org](mailto:srccon@opennews.org).
