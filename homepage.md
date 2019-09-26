@@ -16,7 +16,7 @@ permalink: /
         <h3>SRCCON:LEAD</h3>
         <div class="when-where">November 19 & 20, 2019, in Philadelphia</div>
         <p class="description">A 125-person hands-on conference to figure out ways we can reshape how journalism leadership operates.</p>
-        <div class="next-thing">&rarrhk; Call for participation opens September 26</div>
+        <div class="next-thing">&rarrhk; <a href="https://lead.srccon.org">Call for participation open til October 7</a></div>
     </li>
     <li class="upcoming-event">
         <h3>SRCCON:PRODUCT</h3>
