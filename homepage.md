@@ -13,12 +13,6 @@ permalink: /
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3>SRCCON:LEAD</h3>
-        <div class="when-where">November 19 & 20, 2019, in Philadelphia</div>
-        <p class="description">A 125-person hands-on conference to figure out ways we can reshape how journalism leadership operates.</p>
-        <div class="next-thing">&rarrhk; Call for participation opens September 26</div>
-    </li>
-    <li class="upcoming-event">
         <h3>SRCCON:PRODUCT</h3>
         <div class="when-where">February 8, 2020, in Philadelphia</div>
         <p class="description">A participant-led, interactive event for 150 product thinkers: the first conference by, for, and about product and news.</p>
@@ -35,6 +29,10 @@ permalink: /
 <div id="previous-events" class="page-divider"><span>Previous events</span></div>
 
 <ul class="previous-events">
+    <li class="previous-event">
+        <h3><a href="https://lead.srccon.org/">SRCCON:LEAD</a></h3>
+        <div class="when-where">November 19 & 20, 2019, in Philadelphia</div>
+    </li>
     <li class="previous-event">
         <h3><a href="https://2019.srccon.org/">SRCCON 2019</a></h3>
         <div class="when-where">July 11 & 12, 2019, in Minneapolis</div>
