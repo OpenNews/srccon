@@ -1,9 +1,9 @@
 ---
 title: OpenNews After Party toolkit — How to make handouts and tipsheets
-description: Exercises and tipsheets to help you get the most out of a journalism event, then share what you learned when you get back home.
+back_link_url: /share
+back_link_text: Open News After Party toolkit
 ---
 
-#### [&larr; Open News After Party toolkit](/share)
 # How to make handouts and tipsheets
 
 Is this a little too meta? Maybe. But not everyone has put together training materials for their colleagues before, and we’re trying to be as helpful as possible here. So here are a few tips for making effective handouts and tipsheets: 
@@ -20,4 +20,4 @@ _This resource is part of the OpenNews After Party toolkit, developed by [Emma C
 
 _We'd also be thrilled to hear how you put what you learn into practice, so please tweet us at #OpenNewsAfterParty, or if you have any questions, [let us know](mailto:info@opennews.org)!_
 
-#### [&larr; Back to the After Party toolkit index](/share)
+#### [&larr; Back to the After Party toolkit](/share)

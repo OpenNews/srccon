@@ -73,7 +73,8 @@ SRCCON events are highly participatory and inclusive, where participants come fi
 
 Session topics come from the community, with OpenNews providing the intentional space that takes care of participants and allows them to develop open, interdependent relationships with each other.
 
-[More about how we build SRCCON events &rarr;](/our-resources)
+[More about how we build SRCCON events &rarr;](/our-resources)  
+[How to share what you learn after you get back home &rarr;](/share)  
 
 
 <div id="about-us" class="page-divider"><span>About us & our work</span></div>

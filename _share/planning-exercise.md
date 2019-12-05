@@ -1,9 +1,9 @@
 ---
 title: OpenNews After Party toolkit — Planning exercise (what to do _before_ you go)
-description: Exercises and tipsheets to help you get the most out of a journalism event, then share what you learned when you get back home.
+back_link_url: /share
+back_link_text: Open News After Party toolkit
 ---
 
-#### [&larr; Open News After Party toolkit](/share)
 # Planning exercise (what to do _before_ you go)
 
 _**Summary:** before you head to your next big journalism or community event, spend 15-30 minutes preparing. This will set you up to make best use of the resources that follow for after your event._
@@ -60,4 +60,4 @@ _This resource is part of the OpenNews After Party toolkit, developed by [Emma C
 
 _We'd also be thrilled to hear how you put what you learn into practice, so please tweet us at #OpenNewsAfterParty, or if you have any questions, [let us know](mailto:info@opennews.org)!_
 
-#### [&larr; Back to the After Party toolkit index](/share)
+#### [&larr; Back to the After Party toolkit](/share)

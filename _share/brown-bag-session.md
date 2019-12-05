@@ -1,9 +1,9 @@
 ---
 title: OpenNews After Party toolkit — How to host a brown-bag session
-description: Exercises and tipsheets to help you get the most out of a journalism event, then share what you learned when you get back home.
+back_link_url: /share
+back_link_text: Open News After Party toolkit
 ---
 
-#### [&larr; Open News After Party toolkit](/share)
 # How to host a brown-bag session
 
 Brown bag sessions are traditionally held over a shared lunch hour and participants are encouraged to bring their own lunch. You may want to incentivize participation by asking your bosses to let you order pizza or dessert or even just try bringing candy. Remember journalists will eat that week-old corner slice of birthday cake leftover in the breakroom: the bar here is pretty low. 
@@ -33,4 +33,4 @@ _This resource is part of the OpenNews After Party toolkit, developed by [Emma C
 
 _We'd also be thrilled to hear how you put what you learn into practice, so please tweet us at #OpenNewsAfterParty, or if you have any questions, [let us know](mailto:info@opennews.org)!_
 
-#### [&larr; Back to the After Party toolkit index](/share)
+#### [&larr; Back to the After Party toolkit](/share)
