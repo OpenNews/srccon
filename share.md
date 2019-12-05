@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: layout_hub
 section: share
 permalink: /share/
 title: The OpenNews After Party toolkit
@@ -10,7 +10,9 @@ description: A set of exercises and tipsheets to help you get the most out of a 
 
 You go to a great event, maybe hosted by OpenNews in some way, and spend the week or weekend surrounded by excitement and passion and innovation and ideas and you’re ready to bring it back to your newsroom. So now what?
 
-These resources are here to help:
+These resources are here to help.
+
+<div id="toolkit" class="page-divider"><span>The toolkit</span></div>
 
 ### [How to get the most out of this toolkit](/share/introduction)
 Personal practice, skillsharing, tough conversations ... how can we help?
@@ -36,13 +38,7 @@ A framework for figuring out your vision, then making a plan to act on it.
 ### [How to build your case for change](/share/case-for-change)
 Four key steps to putting together the case for your new idea.
 
-&nbsp;
-
-_____
-
-&nbsp;
-
-## How to use this guide
+<div id="using-this-toolkit" class="page-divider"><span>How to use these resources</span></div>
 
 There are many ways you can make use of the After Party toolkit. You can read through the entire package and decide to use all of the resources we've developed. You might also skim over the entire package and decide to use just one of the resources included here—that's totally fine!
 
