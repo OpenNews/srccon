@@ -16,13 +16,14 @@ permalink: /
         <h3>SRCCON:PRODUCT</h3>
         <div class="when-where">February 8, 2020, in Philadelphia</div>
         <p class="description">A participant-led, interactive event for 150 product thinkers: the first conference by, for, and about product and news.</p>
-        <div class="next-thing">&rarrhk; <a href="https://opennews.org/blog/announcing-srccon-product/">Read the event announcement</a></div>
+        <div class="next-thing">&rarrhk; <a href="https://product.srccon.org">Learn more and find out how to participate</a></div>
     </li>
     <li class="upcoming-event">
         <h3>SRCCON 2020</h3>
         <div class="when-where">July 16 & 17, 2020, in Minneapolis</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
-        <div class="next-thing">&rarrhk; Mark your calendars now. More detail about call for participation in early 2020!</div>
+        <div class="next-thing">&rarrhk; Mark your calendars now. More detail about call for participation in early 2020!<br></div>
+        <div class="next-thing">&rarrhk; Ticket prices will be tiered at $225, $375, $695 depending on organization size. <a href="https://2019.srccon.org/participation/#a-new-approach-to-ticket-prices">More info about the tiers</a></div>
     </li>
 </ul>
 
