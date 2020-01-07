@@ -19,7 +19,7 @@ There are a lot of ways to think about sessions at SRCCON events. We've put this
 
 ## What are sessions at SRCCON events like?
 
-SRCCON events are different than many other conferences you may have attended. They're highly participatory: no panels on a stage or speakers running through 40 minutes of slides. You might notice that we refer to "facilitators" or "session leaders," because when you run a session at a SRCCON event, you're in a room with dozens of other smart people with an opportunity to [compare notes, share skills, and help everyone learn from each other](https://source.opennews.org/articles/srccon-great-conference-sessions/).
+SRCCON events are different than many other conferences you may have attended. They're highly participatory: no panels on a stage or speakers running through a bunch of slides. You might notice that we refer to "facilitators" or "session leaders," because when you run a session at a SRCCON event, you're in a room with dozens of other smart people with an opportunity to [compare notes, share skills, and help everyone learn from each other](https://source.opennews.org/articles/srccon-great-conference-sessions/).
 
 A few principles lay the groundwork for our programs:
 
