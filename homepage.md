@@ -13,12 +13,6 @@ permalink: /
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3>SRCCON:PRODUCT</h3>
-        <div class="when-where">February 8, 2020, in Philadelphia</div>
-        <p class="description">A participant-led, interactive event for 150 product thinkers: the first conference by, for, and about product and news.</p>
-        <div class="next-thing">&rarrhk; <a href="https://product.srccon.org">Learn more and find out how to participate</a></div>
-    </li>
-    <li class="upcoming-event">
         <h3>SRCCON 2020</h3>
         <div class="when-where">July 16 & 17, 2020, in Minneapolis</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
@@ -30,6 +24,10 @@ permalink: /
 <div id="previous-events" class="page-divider"><span>Previous events</span></div>
 
 <ul class="previous-events">
+    <li class="previous-event">
+        <h3><a href="https://product.srccon.org/">SRCCON:PRODUCT</a></h3>
+        <div class="when-where">February 8, 2020, in Philadelphia</div>
+    </li>
     <li class="previous-event">
         <h3><a href="https://lead.srccon.org/">SRCCON:LEAD</a></h3>
         <div class="when-where">November 19 & 20, 2019, in Philadelphia</div>
