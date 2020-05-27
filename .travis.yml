@@ -2,8 +2,8 @@ language: ruby
 os: linux
 dist: trusty
 rvm:
-- 2.6.3
-install: gem update --system && gem install jekyll -v 3.8.0 && gem install jekyll-redirect-from && gem install s3_website
+- 2.4.1
+install: gem install jekyll -v 3.8.0 && gem install jekyll-redirect-from && gem install s3_website
 script: jekyll build
 after_success:
 - test $TRAVIS_BRANCH = "master" && s3_website push --config-dir=_config/production/
