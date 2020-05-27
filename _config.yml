@@ -2,7 +2,7 @@ name: SRCCON
 markdown: kramdown
 kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-gems:
+plugins:
   - jekyll-redirect-from
 exclude: ['*.yml']
 collections:
