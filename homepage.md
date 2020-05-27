@@ -14,7 +14,7 @@ permalink: /
 <ul class="upcoming-events">
     <li class="upcoming-event">
         <h3>SRCCON 2020</h3>
-        <div class="when-where">July 16 & 17, 2020, <strike>in Minneapolis</strike> We're going online only!</div>
+        <div class="when-where">July 15-17, 2020, <strike>in Minneapolis</strike> We're going online only!</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
         <div class="next-thing">&rarrhk; We're <a href="https://opennews.org/blog/srccon-2020-online/">reimagining what SRCCON can look like in a remote form</a>, and we'll share more details soon.<br></div>
         <div class="next-thing">&rarrhk; If you have ideas about adapting SRCCON this year, <a href="https://us5.list-manage.com/survey?u=71c95e9a43708843d2fdc1f09&id=396e9673e1">please let us know</a>.</div>
