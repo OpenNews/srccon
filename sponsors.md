@@ -1,91 +1,76 @@
 ---
-layout: layout
+layout: layout_hub
 section: sponsors
-permalink: /sponsors/index.html
-title: SRCCON 2019 — Our Sponsors
+permalink: /sponsors/
+title: Become a SRCCON Sponsor
 ---
 
-<div class="sponsor-block">
-    <h1>Partnership sponsors</h1>
-</div>
+# Become a SRCCON Sponsor
 
-<div class="sponsor-block">
-    <a href="https://www.nytimes.com/"><img src="/media/img/partners/nyt.png" alt="The New York Times"></a>
-    <p>The Truth is Hard but we&rsquo;re excited to be able to support the community of people who seek it at SRCCON. The New York Times is a continually evolving team of journalists, coders, designers, product managers, women and men all contributing to the 160+ year history of the Grey Lady.</p>
-</div>
+_"You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you've done."_ 
 
-<div class="sponsor-block">
-    <a href="https://vip.wordpress.com/" class="narrow-logo"><img src="/media/img/partners/wordpress_vip2.png" alt="WordPress VIP"></a>
-    <p>WordPress.com VIP offers a scalable and secure managed platform, expert support, and end-to-end guidance on running content applications at scale. We provide hosting and support throughout the digital media landscape, from focused outlets like Mother Jones, FiveThirtyEight, and Foreign Policy to some of the biggest publishing groups, like News Corp, Meredith, PMC, Digital First Media, and Abril. We’re proud to support the intersection of journalism and open source technology all over the world and participate in communities and events like ONA, Poynter, WAN-IFRA, and WordCamp for Publishers. We love SRCCON and have returned to sponsor and participate every year since the inaugural event in 2014.</p>
-</div>
+_"This was the first conference I've been a part of where I felt I belonged on every level."_ 
 
-<div class="sponsor-block">
-    <a href="https://www.facebookjournalismproject.com"><img src="/media/img/partners/facebook_journalism.png" alt="Facebook Journalism Project"></a>
-    <p>Working together with publishers around the world through trainings, programs, and partnerships, the Facebook Journalism Project seeks to help strengthen communities by connecting people with meaningful journalism. We create strong ties with the news industry through 3 efforts. First, we build community through news, working and investing in institutes dedicated to funding high-quality journalism and building sustainable futures for community-based news. Second, we train newsrooms globally—visiting newsrooms and offering online courses to train journalists around the world on how to leverage social tools to tell stories that matter. Third, we support quality through journalism by partnering directly with news publishers and non-profit organizations to combat misinformation, promote news literacy, fund news initiatives, share best practices, and improve journalism on our platform. To stay up-to-date on our latest news, initiatives and training seminars, visit <a href="https://www.facebookjournalismproject.com">www.facebookjournalismproject.com</a> and like the Facebook Journalism Project on Facebook.</p>
-</div>
+SRCCON is a journalism conference people love. This reaction comes from the approach SRCCON takes: highly participatory and extraordinarily inclusive. We're grateful for the support of sponsors in helping make this event possible.
 
-<div class="sponsor-block">
-    <a href="https://newsinitiative.withgoogle.com/"><img src="/media/img/partners/google_news_initiative.png" alt="Google News Initiative"></a>
-    <p>The Google News Initiative is our effort to bring together everything we do as a company—across products, partnerships, and programs—to help journalism thrive in the digital age. We are focused on three key objectives: elevating quality information (which includes combating misinformation), evolving business models to support quality journalism (beyond ads to subscriptions), and empowering news organizations to use new technology (like AI) to meet their needs.</p>
-</div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; margin-bottom: 50px; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-<div class="sponsor-block">
-    <a href="https://craignewmarkphilanthropies.org/"><img src="/media/img/partners/newmark.png" alt="Craig Newmark Philanthropies"></a>
-    <p>I'm an old-school nerd, doing what I can to respect and support the people who fight to protect the values that America aspires to: fairness, opportunity and respect. I amplify the voices of the grassroots and advance their efforts to make sure everyone is included, and treated fairly and respectfully. I see my role as connecting people who are doing good, enabling them to do what they do best and then getting out of their way. I encourage others who have benefited from the many opportunities afforded by our country to give back. Because it's the right thing to do.</p>
-</div>
 
-<div class="sponsor-block">
-    <h2>Accessibility sponsor - Transcription</h2>
-</div>
+## Help Make SRCCON Happen
 
-<div class="sponsor-block">
-    <a href="https://www.lenfestinstitute.org/" class="narrow-logo"><img src="/media/img/partners/lenfest.png" alt="The Lenfest Institute"></a>
-    <p>The Lenfest Institute for Journalism is the first-of-its-kind non-profit organization whose sole mission is to develop and support sustainable business models for great local journalism. The Institute was founded in 2016 by cable television entrepreneur H.F. (Gerry) Lenfest. Lenfest gifted to the Institute an initial endowment of $20 million, which has since been supplemented by other donors, for investment in innovative news initiatives, new technology, and new models for sustainable journalism. Lenfest also gifted his ownership of the Philadelphia Media Network (The Philadelphia Inquirer, Philadelphia Daily News, and philly.com, the Philadelphia region’s largest local news website) and these news properties now serve as a live lab for the Institute’s innovation efforts.</p>
-</div>
+We're seeking sponsors for SRCCON events, which will host 300 participants in Minneapolis on July 11-12. 
 
-<div class="sponsor-block">
-    <h2>Attendee scholarship sponsor</h2>
-</div>
+Available sponsorships include:
 
-<div class="sponsor-block">
-    <a href="https://knightfoundation.org/"><img src="/media/img/partners/knight_foundation.png" alt="The Knight Foundation"></a>
-    <p>Knight Foundation is a national foundation with strong local roots. We invest in journalism, in the arts, and in the success of cities where brothers John S. and James L. Knight once published newspapers. Our goal is to foster informed and engaged communities, which we believe are essential for a healthy democracy. For more, visit <a href="https://knightfoundation.org/">knightfoundation.org</a>.</p>
-</div>
+* **Lead sponsorship and partnership sponsors** - core supporters who make it possible to keep ticket prices low, offer facilitation training to session leaders, and support all attendees in having a great experience
+* **Accessibility sponsors** - support for scholarships, transcription, and childcare
+* **Meal and snacks sponsors** - helping keep attendees nourished throughout the event
+* **Event sponsors** - help make the entire event possible
+* **Special event sponsors for local organizations** - a chance for local media and technology companies and foundations to connect with a national audience
 
-<div class="sponsor-block secondary">
-    <h3>Lunch sponsor</h3>
-    <a href="https://www.voxmedia.com/"><img src="/media/img/partners/vox_media_horiz.png" alt="Vox Media"></a>
-</div>
+Each sponsorship includes at least 1 free ticket and different types of visibility and recognition throughout the event. [Contact Erika Owens](mailto:erika@opennews.org) for a full kit with pricing and further details. We love chatting with folks to find the best way we can collaborate to welcome your team to the event and make it inclusive for all attendees!
 
-<div class="sponsor-block secondary">
-    <h3>Dinner sponsor</h3>
-    <a href="https://alley.co/"><img src="/media/img/partners/alley.png" alt="Alley Interactive"></a>
-</div>
+## What Is SRCCON
 
-<div class="sponsor-block secondary">
-    <h3>Snack sponsor</h3>
-    <a href="https://jsk.stanford.edu/"><img src="/media/img/partners/jsk.png" alt="JSK Fellowships"></a>
-</div>
+OpenNews has been hosting SRCCON annually since 2014, and added a series of smaller, topical conferences starting in 2017 with SRCCON:WORK and continuing in 2018 with SRCCON:POWER. At SRCCON conferences, participants come first so they can focus on collaborating on the work at hand. Over this time SRCCON has:
 
-<div class="sponsor-block secondary">
-    <h3>Event sponsor</h3>
-    <a href="http://www.democracyfund.org/"><img src="/media/img/partners/democracy_fund.png" alt="Democracy Fund"></a>
-    <a href="https://www.newsintegrity.com/"><img src="/media/img/partners/nii.png" alt="News Integrity Initiative"></a>
-</div>
+- welcomed 1,400 participants, with a healthy mix of new and returning attendees each time.
+- hosted 293 interactive, collaborative sessions on topics ranging from archiving and algorithms to management and self-care.
+- provided scholarship support to help 193 participants and facilitators attend the event.
+- operated with inclusion and accessibility as core design features, providing live transcription, childcare, tasty food and drink for all dietary needs, and a schedule with space to refresh and connect.
+- created a code of conduct and incident response plan that supports attendees and has influenced the journalism community, including ONA and IRE conferences.
+- led to countless job connections, innovative project ideas and collaborations, and new organizational policies on hiring, inclusion, mentorship, workflow, development processes, and more.
 
-<div class="sponsor-block secondary">
-    <h3>Local sponsor</h3>
-    <a href="https://cla.umn.edu/hsjmc"><img src="/media/img/partners/umn_journalism.png" alt="University of Minnesota Journalism"></a>
-</div>
+## Who Attends and Why
 
-<div class="sponsor-block secondary">
-    <h3>Host local media sponsor</h3>
-    <a href="http://www.startribune.com/"><img src="/media/img/partners/star_tribune.png" alt="The Star-Tribune"></a>
-</div>
+People come first at SRCCON. The entire event is set up to allow participants to focus on getting to know each other and learn from the wisdom in the room. A third of participants also facilitate sessions, leading conversations and skillshares that help folks bring new ideas and experience back to their newsrooms. 
 
-<div class="sponsor-block secondary">
-    <h3>Supporting sponsor</h3>
-    <a href="https://www.publicaccountability.org/"><img src="/media/img/partners/accountability_project.png" alt="The Accountability Project"></a>
-</div>
+### The SRCCON 2018 audience included:
 
-<p>Interested in having your company or organization get involved? <a href="/sponsors/about/">Find out more about becoming a sponsor of SRCCON</a>.</p>
+- 304 attendees from New York and DC, Minneapolis, Chicago, San Francisco, Los Angeles, Louisville, Boston, Philadelphia, Austin, Knoxville, Spokane, Durham, Iowa Falls, and numerous other cities throughout the U.S. and beyond.
+- participants from a range of editorial and/or technical roles. About 25% of participants are in a senior, editor, or other leadership role. About 20% are in a developer or engineer role. Other roles represent about 10% of attendees each, including data, design, product, and reporting.
+- about half of attendees identify as women and about a quarter identify as people of color.
+- companies represented include news organizations, journalism-serving organizations, tech companies in and near journalism, academia, and more. These organizations reflect the range of companies involved in journalism, from giant coastal papers and digital operations to nonprofit outlets, local papers that are part of national chains, privately held orgs, and related tech companies and startups.
+
+### SRCCON 2018 participants attended because:
+
+- they wanted to discuss challenges facing their teams every day. The [entire SRCCON schedule](https://2018.srccon.org/schedule) was built from session pitches from attendees, including topics like: technical communication, collaboration, engagement, algorithms, news nerd career paths, security, accessibility, supporting journalists of color, data viz, management, and more.
+- they wanted to (and reported being able to!) build stronger network connections, to find new strategies to take back to their newsroom, and to learn more about new tools and tactics to improve their journalism.
+
+_“My job very much straddles the line between technology and the newsroom and in 20 years of being in the newspaper (media) business, this is the first conference I've been to that I felt like was specifically for me. I could contribute meaningfully to every session I went to.”_
+
+## Why Sponsor SRCCON
+
+For journalism-technologists, newsroom leaders (both formal and informal), and others seeking to change journalism for the better, SRCCON is where they can sit down away from the deadlines and the day-to-day and learn from each other. We want you to help make that happen.
+
+### About the 2018 program:
+
+- sessions included a [kickoff kit for new teams starting off](https://www.dropbox.com/s/i8nvfri3zh5jk8b/Kickoff%20Kit%20Packet.pdf?dl=0), [a discussion of rebuilding ad tech](https://docs.google.com/presentation/d/1_6Kp6eMFEvB9nPHtzyJxOdiJPMxYn1KEFdyCWYBpK6o/edit#slide=id.gc6fa3c898_0_0), [a product design exercise for membership programs](https://building.theatlantic.com/designing-a-membership-program-in-75-minutes-with-help-from-a-few-d20s-8b78bfc890f7), and a [wide range of additional sessions](https://2018.srccon.org/schedule) with [tons of transcripts, notes, and resources documented](https://2018.srccon.org/documentation/).
+- designed around our facilitated session format that enables attendees to [engage deeply in a purposeful way](https://source.opennews.org/articles/srccon-great-conference-sessions/).
+- with a Thursday evening program of hobby talks, games, dinner, and a [walking tour](https://2018.srccon.org/schedule/#_session-thursday-evening-1-walking-tour) that a third of participants went on (including one kiddo in a stroller), after an emotionally intense day.
+
+Sponsors help us make this event unique and accessible by keeping our ticket price well below cost, getting people to the event, and bringing in the special touches that make SRCCON… SRCCON. As one attendee put it, “The structure of the program and the attention to detail and people's needs is what makes this an exceptional and special event.” Sponsors are what make the detail, intentional design, and accessibility all possible.
+
+_“SRCCON is the best conference I go to all year. It's so thoughtful and well planned. I feel happy, safe, and informed.”_ (all quotations from SRCCON attendees in post-event surveys)
+
+**Interested in having your company or organization become a sponsor of SRCCON?** [Get in touch with OpenNews Executive Director Erika Owens today.](mailto:erika@opennews.org)
