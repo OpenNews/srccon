@@ -13,7 +13,7 @@ permalink: /
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3>SRCCON 2020</h3>
+        <h3><a href="https://2020.srccon.org">SRCCON 2020</a></h3>
         <div class="when-where">July 15-17, online!</div>
         <p class="description">The biggest SRCCON of the year, where hundreds of people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to support each other.</p>
         <div class="next-thing">&rarrhk; <a href="https://2020.srccon.org">Our call for participation opens June 17!</a></div>
