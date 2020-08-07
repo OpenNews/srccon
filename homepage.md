@@ -6,15 +6,33 @@ permalink: /
 
 <div class="page-intro">
     <p class="big-type">SRCCON events are for people who want to transform the ways journalism and tech work in their organizations and communities. <a href="#about-srccon-events">Read more</a></p>
-    <p>If you&rsquo;d like to get involved, get in touch!<span class="contact-options"> <a href="https://twitter.com/srccon">Twitter</a> / <a href="mailto:srccon@opennews.org">Email</a> / <a href="http://eepurl.com/czSVTL">Newsletter</a></span></p>
+    
+    <div class="sub-nav">
+        Stay in touch: 
+        <span class="line-splitter"></span>
+        <a href="https://twitter.com/srccon">Twitter</a>
+        <span class="line-splitter">&bull;</span>
+        <a href="mailto:srccon@opennews.org">Email</a>
+        <span class="line-splitter">&bull;</span>
+        <a href="http://eepurl.com/czSVTL">Newsletter</a>
+
+        <a href="https://opennews.org/donate" class="button">Support our work!</a>
+    </div>
+    
 </div>
 
-<div id="coming-up" class="page-divider"><span>Coming up!</span></div>
+<div id="coming-up" class="page-divider"><span>This year</span></div>
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
+        <h3>SRCCON:???</h3>
+        <div class="when-where">Late 2020</div>
+        <p class="description">Our smaller, topical SRCCONs create a space to challenge how journalism operates and make plans together to change it. We&rsquo;re figuring out when this year&rsquo;s event will be and what themes we can take on as a community. Stay tuned!</p>
+        <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Stay up to date with our newsletter</a></div>
+    </li>
+    <li class="upcoming-event">
         <h3><a href="https://2020.srccon.org">SRCCON 2020</a></h3>
-        <div class="when-where">July 15-17, online!</div>
+        <div class="when-where">July 15-17, online</div>
         <p class="description">The biggest SRCCON of the year, where hundreds of people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to support each other.</p>
     </li>
 </ul>

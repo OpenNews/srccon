@@ -75,6 +75,20 @@ h1, h2, h3, h4 {
 .hub .page-intro .contact-options {
     margin-left: .67em;
 }
+.hub .page-intro .line-splitter {
+    font-size: .67em;
+    margin: 0 .5em;
+    vertical-align: 10%;
+}
+.hub .page-intro .sub-nav {
+    font-family: sofia-pro, sans-serif;
+    margin-top: 1em;
+    font-size: .83em;
+}
+.hub .page-intro .button {
+    margin: 0 1em;
+}
+
 .page-divider {
     font-family: sofia-pro, sans-serif;
     position: relative;
