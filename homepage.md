@@ -26,8 +26,8 @@ permalink: /
 <ul class="upcoming-events">
     <li class="upcoming-event">
         <h3>SRCCON:???</h3>
-        <div class="when-where">Late 2020</div>
-        <p class="description">Our smaller, topical SRCCONs create a space to challenge how journalism operates and make plans together to change it. We&rsquo;re figuring out when this year&rsquo;s event will be and what themes we can take on as a community. Stay tuned!</p>
+        <div class="when-where">mid-December 2020</div>
+        <p class="description">Our final SRCCON of 2020 will likely be modeled as a community retreat, focused on restoration and how we support one another. We'll have further detatils in mid-November.</p>
         <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Stay up to date with our newsletter</a></div>
     </li>
     <li class="upcoming-event">
