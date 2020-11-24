@@ -7,7 +7,7 @@ title: SRCCON:❤️ — December 17, 2020 — Online
 ---
 
 <div class="page-intro">
-    <p class="big-type">OpenNews invites you to celebrate this community that sustains and supports one another.</p>
+    <p class="big-type">OpenNews invites you to celebrate this&nbsp;community that sustains one another.</p>
     
     <div class="sub-nav">
         Want to get involved? Get in touch! 
@@ -23,8 +23,12 @@ title: SRCCON:❤️ — December 17, 2020 — Online
 
 <div class="page-divider"><span>When & where</span></div>
 
-<strong>Save the date:</strong> Thursday, December 17, 2020, online
+<div class="upcoming-event">
 
+    <p>Thursday, December 17, 2020, online</p>
+    <div class="next-thing">📅 <strong>Save the date:</strong> <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=aXNhY2loaHJwaWZ2ZzVudWxsMTIzbDBzOW5fMjAyMDEyMTdUMTcwMDAwWiByMnU3bmtsczY4c2s1Y2JxcjV1MDdjMzZrY0Bn&tmsrc=r2u7nkls68sk5cbqr5u07c36kc%40group.calendar.google.com">Google Calendar</a> / <a href="/media/ics/2020-srccon-heart.ics">iCal</a> / <a href="/media/ics/2020-srccon-heart.ics">Outlook</a></div>
+    
+</div>
 
 <div class="page-divider"><span>About SRCCON:❤️</span></div>
 
@@ -35,4 +39,4 @@ Join us for a day of activities and celebration of YOU, the people who lead and 
 
 <div class="page-divider"><span>Tickets & attending</span></div>
 
-Tickets for SRCCON:❤️ are free for [OpenNews Sustainers](https://opennews.networkforgood.com/) and will also be available on a sliding scale. (Find out [more about becoming an OpenNews sustainer](https://opennews.org/blog/lead-launch-sustainer/), the incredible group of donors who have made a recurring commitment to this work.) If you would like to attend but are unable to sign up as a sustainer at this time, five community members have pledged to support new members in joining. [Reach out to us](mailto:srccon@opennews.org) and we'll take care of the rest.
+Tickets for SRCCON:❤️ are free for [OpenNews Sustainers](https://opennews.networkforgood.com/) and will also be available on a sliding scale. (Find out [more about becoming an OpenNews sustainer](https://opennews.org/blog/lead-launch-sustainer/), the incredible group of supporters who have made a recurring donation to this work.) If you would like to attend but are unable to sign up as a sustainer at this time, five community members have pledged to support new sustainers in joining. [Reach out to us](mailto:srccon@opennews.org) and we'll take care of the rest.

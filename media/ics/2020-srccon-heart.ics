@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://srccon.org/srccon-heart-2020/\n\nAt the end of 2020\, let's take some time to be with each other and share what's gotten us through this year\, immersed in joy\, sadness\, power\, possibility\, and love. Join the OpenNews community for a day of activities and celebration of YOU\, the people who lead and sustain this work.\n
+DTSTART:20201217T170000Z
+DTEND:20201217T210000Z
+SUMMARY;LANGUAGE=en-us:SRCCON:<3 — A Community Celebration
+END:VEVENT
+END:VCALENDAR
