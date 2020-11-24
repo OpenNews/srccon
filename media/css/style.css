@@ -61,7 +61,7 @@ h1, h2, h3, h4 {
     text-align: center;
 }
 .hub #hub-nav img {
-    margin-left: -2em;
+    max-width: 800px;
 }
 .hub .page-intro {
     text-align: center;
@@ -700,12 +700,18 @@ table a.session-transcript {
         width: 67%;
     }
 
+    .hub #hub-nav img {
+        max-width: 90%;
+    }
     .hub .page-intro {
         margin: 0 0 1em;
     }
     .hub .page-intro .contact-options {
-        margin-left: 0;
-        display: block;
+        white-space: nowrap;
+    }
+    .hub .page-intro .button {
+        margin-top: 1em;
+        display: inline-block;
     }
 }
 
@@ -758,8 +764,7 @@ table a.session-transcript {
         font-size: 1.5em;
     }
     .hub #hub-nav img {
-        margin-left: 0;
-        width: 95%;
+        width: 90%;
     }
 }
 
