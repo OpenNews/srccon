@@ -25,21 +25,20 @@ permalink: /
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3>SRCCON:???</h3>
-        <div class="when-where">mid-December 2020</div>
-        <p class="description">Our final SRCCON of 2020 will likely be modeled as a community retreat, focused on restoration and how we support one another. We'll have further detatils in mid-November.</p>
-        <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Stay up to date with our newsletter</a></div>
-    </li>
-    <li class="upcoming-event">
-        <h3><a href="https://2020.srccon.org">SRCCON 2020</a></h3>
-        <div class="when-where">July 15-17, online</div>
-        <p class="description">The biggest SRCCON of the year, where hundreds of people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to support each other.</p>
+        <h3>SRCCON:❤️</h3>
+        <div class="when-where">December 17, 2020, online</div>
+        <p class="description">Let&rsquo;s take some time to be with each other and share what&rsquo;s gotten us through this year. Join the OpenNews community for a day of activities and celebration of YOU, the people who lead and sustain this work.</p>
+        <div class="next-thing">&rarrhk; <a href="/srccon-heart-2020/">Read more about this event, and save the date!</a></div>
     </li>
 </ul>
 
 <div id="previous-events" class="page-divider"><span>Previous events</span></div>
 
 <ul class="previous-events">
+    <li class="previous-event">
+        <h3><a href="https://2020.srccon.org/">SRCCON 2020</a></h3>
+        <div class="when-where">July 15-17, 2020, online</div>
+    </li>
     <li class="previous-event">
         <h3><a href="https://product.srccon.org/">SRCCON:PRODUCT</a></h3>
         <div class="when-where">February 8, 2020, in Philadelphia</div>
