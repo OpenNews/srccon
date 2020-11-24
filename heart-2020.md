@@ -1,7 +1,7 @@
 ---
 layout: layout_hub
 section: heart
-permalink: /srccon-heart-2020
+permalink: /srccon-heart-2020/
 logo: /media/img/srccon_heart_logo.png
 title: SRCCON:❤️ — December 17, 2020 — Online
 ---
