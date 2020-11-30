@@ -40,7 +40,7 @@
         <nav id="hub-nav">
             <div class="page-container">{% if page.section != 'homepage' %}
                 <div class="top-bar"><a href="{% if page.back_link_url %}{{ page.back_link_url }}{% else %}/{% endif %}">&larr; {% if page.back_link_text %}{{ page.back_link_text }}{% else %}SRCCON Events Home{% endif %}</a></div>{% endif %}
-                <a id="main-logo" href="/"><img src="{% if page.logo %}{{ page.logo }}{% else %}media/img/srccon_logo_angle_512.png{% endif %}"></a>
+                <a id="main-logo" href="/"><img src="{% if page.logo %}{{ page.logo }}{% else %}/media/img/srccon_logo_angle_512.png{% endif %}"></a>
             </div>
         </nav>
     </header>
