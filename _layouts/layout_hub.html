@@ -9,14 +9,14 @@
     <meta name="description" content="{{ page.description }}" />
     
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:image" content="https://srccon.org{% if page.logo %}{{ page.logo }}{% else %}/media/img/srccon_logo_angle_512.png{% endif %}" />
+    <meta property="og:image" content="https://srccon.org{% if page.share_image %}{{ page.share_image }}{% else %}{{ page.logo }}{% endif %}" />
     <meta property="og:type" content="article" />
     <meta property="og:description" content="{{ page.description }}" />
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" value="{{ page.title }}" />
     <meta name="twitter:description" value="{{ page.description }}" />
-    <meta name="twitter:image" content="https://srccon.org{% if page.logo %}{{ page.logo }}{% else %}/media/img/srccon_logo_angle_512.png{% endif %}" />
+    <meta name="twitter:image" content="https://srccon.org{% if page.share_image %}{{ page.share_image }}{% else %}{{ page.logo }}{% endif %}" />
     <meta name="twitter:url" value="https://srccon.org{{ page.url }}" />
     <meta name="twitter:site" value="@srccon" />
     

@@ -2,6 +2,7 @@
 section: heart
 permalink: /srccon-heart-2020/
 logo: /media/img/srccon_heart_logo.png
+share_image: /media/img/srccon_heart_logo_share.png
 title: SRCCON:❤️ — December 17, 2020 — Online
 description: Join us for a day of activities and celebration of YOU, the people who lead and sustain this work.
 ---
@@ -41,8 +42,8 @@ Join us for a day of activities and celebration of YOU, the people who lead and 
 
 Tickets for SRCCON:❤️ are free for [OpenNews Sustainers](https://opennews.networkforgood.com/), or you can also [buy a ticket here](https://www.eventbrite.com/e/srccon-tickets-130622460295) and choose your own price. If you currently aren't a sustainer, we'd love for you to [become one here](opennews.org/donate) and grab a free ticket. Find out [more about becoming an OpenNews sustainer](https://opennews.org/blog/lead-launch-sustainer/), the incredible group of supporters who have made a recurring donation to this work. If you would like to attend but are unable to sign up as a sustainer at this time, five community members have pledged to support new sustainers in joining. [Reach out to us](mailto:srccon@opennews.org) and we'll take care of the rest.
 
-↪ [**Become a Founding Sustainer, and get a free ticket!**](https://opennews.org/donate) Already a sustainer? Check your email for a link to register or [email us](mailto:srccon@opennews.org) for the code.
-↪ [**Buy a ticket and choose your own price**](https://www.eventbrite.com/e/srccon-tickets-130622460295)
+↪ [**Become a Founding Sustainer, and get a free ticket!**](https://opennews.org/donate) Already a sustainer? Check your email for a link to register or [email us](mailto:srccon@opennews.org) for the code.  
+↪ [**Buy a ticket and choose your own price**](https://www.eventbrite.com/e/srccon-tickets-130622460295)  
 
 
 <div class="page-divider"><span>What you can expect</span></div>
