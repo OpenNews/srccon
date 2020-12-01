@@ -16,6 +16,13 @@ collections:
 defaults:
   - scope:
       path: ""
+    values:
+      layout: layout_hub
+      logo: /media/img/srccon_logo_angle_512.png
+      title: SRCCON Events — Change how your journalism works
+      description: SRCCON events are participatory, interactive conferences and workshops centered on the challenges that news technology and data teams encounter every day.
+  - scope:
+      path: ""
       type: "transcripts"
     values:
       layout: layout
