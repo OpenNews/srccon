@@ -1,5 +1,4 @@
 ---
-layout: layout_hub
 section: conduct
 permalink: /conduct/
 title: SRCCON — Our Code of Conduct
