@@ -25,10 +25,10 @@ permalink: /
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3>SRCCON:❤️</h3>
+        <h3><a href="/srccon-heart-2020/">SRCCON:❤️</a></h3>
         <div class="when-where">December 17, 2020, online</div>
         <p class="description">Let&rsquo;s take some time to be with each other and share what&rsquo;s gotten us through this year. Join the OpenNews community for a day of activities and celebration of YOU, the people who lead and sustain this work.</p>
-        <div class="next-thing">&rarrhk; <a href="/srccon-heart-2020/">Read more about this event, and save the date!</a></div>
+        <div class="next-thing">&rarrhk; <a href="/srccon-heart-2020/">Read more about this event, and get your ticket!</a></div>
     </li>
 </ul>
 
