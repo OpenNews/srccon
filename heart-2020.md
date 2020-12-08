@@ -59,6 +59,8 @@ We want this event to be a moment for rest, in recognition of the year we've bee
 
 Stay in touch by following [@SRCCON](https://twitter.com/srccon) and find out about upcoming deadlines by [joining our mailing list](http://eepurl.com/czSVTL). If you have a specific question, please [reach out](mailto:srccon@opennews.org).
 
+Also, we have a range of [sponsorship opportunities available](/sponsors/). [Let us know](mailto:erika@opennews.org) if you'd like more detail about sponsorship options.
+
 
 <div class="page-divider"><span>About us</span></div>
 
