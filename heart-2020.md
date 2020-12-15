@@ -2,9 +2,11 @@
 section: heart
 permalink: /srccon-heart-2020/
 logo: /media/img/srccon_heart_logo.png
+logo_link: /srccon-heart-2020/
 share_image: /media/img/srccon_heart_logo_share.png
 title: SRCCON:❤️ — December 17, 2020 — Online
 description: Join us for a day of activities and celebration of YOU, the people who lead and sustain this work.
+main_footer: true
 ---
 
 <div class="page-intro">
@@ -35,7 +37,27 @@ description: Join us for a day of activities and celebration of YOU, the people 
 
 At the end of 2020, we want to take time to _be_ with each other and share what has gotten us through this year, immersed in joy, sadness, power, possibility, and love. [At SRCCON in July](https://opennews.org//blog/less-alone-srccon), we heard how important it is to just be in each other's company, to create space to "feel like I can dream again." So we're going to close down the year with some time to party, reflect, relax, and catch up with each other. 
 
-Join us for a day of activities and celebration of YOU, the people who lead and sustain this work. As always, the program will be collaborative, created and led by community members. We expect the program will take place from 12-4pm ET that day (replacing our usual [community call](https://opennews.org/what/community/calls) with this special event!). We'll confirm further details and the registration process in early December.
+Join us for a day of activities and celebration of YOU, the people who lead and sustain this work. As always, the program will be collaborative, created and led by community members.
+
+
+<div class="page-divider"><span>Our program</span></div>
+
+* **9am PT / Noon ET / 5pm UTC:** Opening welcome and group activities
+* **9:45am PT / 12:45pm ET / 5:45pm UTC:** Hourlong sessions + full break
+* **11:15am PT / 2:15pm ET / 7:15pm UTC:** Hourlong sessions + short break
+* **12:20pm PT / 3:20pm ET/ 8:20pm UTC:** Closing and group activities
+* **1pm PT / 4pm ET/ 9pm UTC:** Event ends
+
+Sessions at SRCCON:❤️ will be super casual with lots of ways to participate, from jumping into conversations about things you love to sitting back and watching other folks show you how to do something cool. We hope they're a refreshing chance to connect. Community members will be hosting informal sessions on:
+
+* Cooking (with a pickling demo!)
+* Books and reading lists
+* Nature in your own back yard (gardening, bird feeders, and more)
+* Getting out into the great outdoors (on location!)
+* Making art together (with mini workshops on a few different things)
+* Making a practice of intentional connection with others
+* Parenting and family life during quarantine
+* What we're leaving behind in 2020 + what we're building on in 2021
 
 
 <div id="tickets" class="page-divider"><span>Tickets & attending</span></div>
@@ -65,3 +87,6 @@ Also, we have a range of [sponsorship opportunities available](/sponsors/). [Let
 <div class="page-divider"><span>About us</span></div>
 
 SRCCON events are produced by [OpenNews](https://opennews.org/). We connect a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning and solving problems together can create a stronger, more responsive, and inclusive journalism ecosystem. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](http://communitypartners.org/).
+
+
+{% include srccon_heart_2020_footer.html %}
