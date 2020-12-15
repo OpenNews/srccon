@@ -16,10 +16,10 @@ body {
 	min-height: 100vh;
     font-family: freight-text-pro, serif;
 }
-header, footer, h1, h2, h3, h4, .button {
+header, footer, h1, h2, h3, h4, .button, .main-footer {
     font-family: sofia-pro, sans-serif;
 }
-header, footer {
+header, footer, .main-footer {
     line-height: 1.4em;
 }
 header, main, .page-block {
@@ -160,6 +160,7 @@ h1, h2, h3, h4 {
 }
 .hub footer .trailer {
     font-family: freight-text-pro, serif;
+    font-size: .9em;
 }
 
 
@@ -347,7 +348,8 @@ main input {
 }
 
 /* FOOTER STYLES */
-footer p {
+footer p,
+.main-footer p {
     margin: 0 0 1em;
 }
 
@@ -356,11 +358,13 @@ footer #footer-nav {
     margin-bottom: 1em;
     font-size: .6em;
 }
-footer ul {
+footer ul,
+.main-footer ul {
     margin: 0 0 2em;
     padding: 0;
 }
-footer li {
+footer li,
+.main-footer li {
     list-style: none;
     padding-left: 0;
 }
@@ -386,13 +390,16 @@ footer #footer-nav li a {
 footer #footer-nav a:hover {
     text-decoration: underline;
 }
-footer #footer-details .page-container {
+#footer-details .page-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 #footer-sponsors .page-container:first-child {
     margin-bottom: 1em;
+}
+.main-footer #footer-sponsors {
+    margin-top: 3em;
 }
 
 .sponsor-list a {
@@ -443,10 +450,11 @@ footer #footer-details .page-container {
     vertical-align: middle;
 }
 
-footer #footer-details,
-footer #footer-sponsors {
-    padding: 1em;
+#footer-details,
+#footer-sponsors {
+    padding: 1em 0;
     font-size: .67em;
+    text-align: left;
 }
 
 table {
@@ -798,8 +806,8 @@ table a.session-transcript {
     .participation #header-image {
         background-position: 0 0;
     }
-    footer #footer-details .page-container,
-    footer #footer-sponsors .page-container {
+    #footer-details .page-container,
+    #footer-sponsors .page-container {
         display: inherit;
     }
     .sponsor-list {
