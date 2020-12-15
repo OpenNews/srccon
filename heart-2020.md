@@ -40,7 +40,7 @@ At the end of 2020, we want to take time to _be_ with each other and share what 
 Join us for a day of activities and celebration of YOU, the people who lead and sustain this work. As always, the program will be collaborative, created and led by community members.
 
 
-<div id="tickets" class="page-divider"><span>Our program</span></div>
+<div class="page-divider"><span>Our program</span></div>
 
 * **9am PT / Noon ET / 5pm UTC:** Opening welcome and group activities
 * **9:45am PT / 12:45pm ET / 5:45pm UTC:** Hourlong sessions + full break
