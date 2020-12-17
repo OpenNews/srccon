@@ -7,7 +7,7 @@ description: SRCCON and OpenNews are committed to providing a welcoming and hara
 
 ## Code of Conduct
 
-**SRCCON EVENT SAFETY CONTACT:** If you would like to make any reports, please email us at [srccon@opennews.org](mailto:srccon@opennews.org).
+**SRCCON EVENT SAFETY CONTACT:** If you would like to make any reports, please email us at [safety@opennews.org](mailto:safety@opennews.org).
 
 SRCCON and OpenNews are committed to providing a welcoming and harassment-free environment for participants of all races, gender and trans statuses, sexual orientations, physical abilities, physical appearances, and beliefs. We've written this code of conduct not because we expect bad behavior from our community—which, in our experience, is overwhelmingly kind and civil—but because we believe a clear code of conduct is one necessary part of building a respectful community space.
 
