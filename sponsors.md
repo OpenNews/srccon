@@ -9,7 +9,7 @@ title: Become a SRCCON Sponsor
 
 SRCCON events are journalism conferences people love. This reaction comes from the approach SRCCON takes: highly participatory, extraordinarily inclusive, and incredibly embracing of the toughest conversations. The support of sponsors helps make all of that possible. As one attendee put it, “The structure of the program and the attention to detail and people’s needs is what makes this an exceptional and special event.” Sponsors are what make the detail, intentional design, and accessibility all possible.
 
-SRCCON events have adpated to be fully online and in the midst of both a global crisis and a reckoning within journalism. They are unlike other journalism events, and as a sponsor, you'll be helping us create unique, accessible, and inclusive events to host the frank, challenging, and creative conversations that need to be had in journalism right now. 
+SRCCON events have adapted to be fully online and in the midst of both a global crisis and a reckoning within journalism. They are unlike other journalism events, and as a sponsor, you'll be helping us create unique, accessible, and inclusive events to host the frank, challenging, and creative conversations that need to be had in journalism right now. 
 
 ### Ways to sponsor SRCCON and help make it possible
 
