@@ -19,36 +19,27 @@ main_footer: true
         <span class="line-splitter">&bull;</span>
         <a href="mailto:srccon@opennews.org">Email</a></span>
 
-        <a href="#tickets" class="button">Get a ticket ⬇</a>
+        <a href="https://opennews.org/donate" class="button">Become a sustainer!</a>
     </div>
     
 </div>
 
-<div class="page-divider"><span>When & where</span></div>
-
-<div class="upcoming-event">
-
-    <p>Thursday, December 17, 2020, online</p>
-    <div class="next-thing">📅 <strong>Save the date:</strong> <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=aXNhY2loaHJwaWZ2ZzVudWxsMTIzbDBzOW5fMjAyMDEyMTdUMTcwMDAwWiByMnU3bmtsczY4c2s1Y2JxcjV1MDdjMzZrY0Bn&tmsrc=r2u7nkls68sk5cbqr5u07c36kc%40group.calendar.google.com">Google Calendar</a> / <a href="/media/ics/2020-srccon-heart.ics">iCal</a> / <a href="/media/ics/2020-srccon-heart.ics">Outlook</a></div>
-    
-</div>
 
 <div class="page-divider"><span>About SRCCON:❤️</span></div>
 
-At the end of 2020, we want to take time to _be_ with each other and share what has gotten us through this year, immersed in joy, sadness, power, possibility, and love. [At SRCCON in July](https://opennews.org//blog/less-alone-srccon), we heard how important it is to just be in each other's company, to create space to "feel like I can dream again." So we're going to close down the year with some time to party, reflect, relax, and catch up with each other. 
+Thank you, thank you, thank you to everyone who came together for a little bit of celebration and a little bit of restoration at the end of such a hard year. It's so good to just [_be_ in each other's company](https://opennews.org/blog/less-alone-srccon/), and from the very beginnings of this event, you showed up to share your joy, sadness, power, possibility, and love. You created a space to party, relax, and reflect. 
 
-Join us for a day of activities and celebration of YOU, the people who lead and sustain this work. As always, the program will be collaborative, created and led by community members.
+YOU are the community of people who lead and sustain this work. To those who could join us this time, and to those we'll hope to see next time, there's nowhere we'd rather be than hanging out together.
+
+
+<div class="page-divider"><span>When & where</span></div>
+
+Thursday, December 17, 2020, online
 
 
 <div class="page-divider"><span>Our program</span></div>
 
-* **9am PT / Noon ET / 5pm UTC:** Opening welcome and group activities
-* **9:45am PT / 12:45pm ET / 5:45pm UTC:** Hourlong sessions + full break
-* **11:15am PT / 2:15pm ET / 7:15pm UTC:** Hourlong sessions + short break
-* **12:20pm PT / 3:20pm ET/ 8:20pm UTC:** Closing and group activities
-* **1pm PT / 4pm ET/ 9pm UTC:** Event ends
-
-Sessions at SRCCON:❤️ will be super casual with lots of ways to participate, from jumping into conversations about things you love to sitting back and watching other folks show you how to do something cool. We hope they're a refreshing chance to connect. Community members will be hosting informal sessions on:
+Sessions at SRCCON:❤️ are super casual with lots of ways to participate, from jumping into conversations about things you love to sitting back and watching other folks show you how to do something cool. We want them to be a refreshing chance to connect. Community members are hosting informal sessions on:
 
 * Cooking (with a pickling demo!)
 * Books and reading lists
@@ -62,26 +53,18 @@ Sessions at SRCCON:❤️ will be super casual with lots of ways to participate,
 
 <div id="tickets" class="page-divider"><span>Tickets & attending</span></div>
 
-Tickets for SRCCON:❤️ are free for [OpenNews Sustainers](https://opennews.networkforgood.com/), or you can also [buy a ticket here](https://www.eventbrite.com/e/srccon-tickets-130622460295) and choose your own price. If you currently aren't a sustainer, we'd love for you to [become one here](opennews.org/donate) and grab a free ticket. Find out [more about becoming an OpenNews sustainer](https://opennews.org/blog/lead-launch-sustainer/), the incredible group of supporters who have made a recurring donation to this work. If you would like to attend but are unable to sign up as a sustainer at this time, five community members have pledged to support new sustainers in joining. [Reach out to us](mailto:srccon@opennews.org) and we'll take care of the rest.
+Tickets for SRCCON:❤️ are free for [OpenNews sustainers](https://opennews.networkforgood.com/), or name your own price. If you aren't a sustainer, we'd love for you to [become one](opennews.org/donate)—and if you aren't able to sign up at this time, five community members have pledged to support new sustainers in joining. [Reach out to us](mailto:srccon@opennews.org) and we'll take care of the rest.
 
-↪ [**Become a Founding Sustainer, and get a free ticket!**](https://opennews.org/donate) Already a sustainer? Check your email for a link to register or [email us](mailto:srccon@opennews.org) for the code.  
-↪ [**Buy a ticket and choose your own price**](https://www.eventbrite.com/e/srccon-tickets-130622460295)  
+↪ [Find out more about becoming an OpenNews sustainer](https://opennews.org/blog/lead-launch-sustainer/), the incredible group of supporters who have made a recurring donation to this work.
 
 
 <div class="page-divider"><span>What you can expect</span></div>
 
-We want this event to be a moment for rest, in recognition of the year we've been through, what we've learned about ourselves and about being there for each other. A little community retreat! With snacks and drinks (and maybe even crafts?) encouraged! At SRCCON:❤️ you'll:
+This event is a moment for rest, in recognition of the year we've been through, what we've learned about ourselves and about being there for each other. A little community retreat! With snacks and drinks (and maybe even crafts?) encouraged! At SRCCON:❤️ you'll:
 
 * find small groups to laugh and talk with about hobbies, arts, and other things that sustain you outside of work, plus join everyone in sharing some shine for the people who keep inspiring us
 * reconnect with old friends and run into new ones, strengthening the personal relationships that knit together a network that's reimagining journalism
 * bring who you are into an event designed to celebrate all of it, along with everyone ready to take on 2021 alongside you
-
-
-<div class="page-divider"><span>What's next?</span></div>
-
-Stay in touch by following [@SRCCON](https://twitter.com/srccon) and find out about upcoming deadlines by [joining our mailing list](http://eepurl.com/czSVTL). If you have a specific question, please [reach out](mailto:srccon@opennews.org).
-
-Also, we have a range of [sponsorship opportunities available](/sponsors/). [Let us know](mailto:erika@opennews.org) if you'd like more detail about sponsorship options.
 
 
 <div class="page-divider"><span>About us</span></div>
