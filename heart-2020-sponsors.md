@@ -34,5 +34,9 @@ Interested in having your company or organization get involved? [Find out more a
     <a href="https://journalism.missouri.edu/"><img src="/media/img/partners/mizzou.png" alt="University of Missouri School of Journalism"></a>
 </div>
 
+<div class="sponsor-block secondary">
+    <a href="https://independencemedia.org/"><img src="/media/img/partners/independence_media.png" alt="Independence Public Media Foundation"></a>
+</div>
+
 
 {% include srccon_heart_2020_footer.html %}
