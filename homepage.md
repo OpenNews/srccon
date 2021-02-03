@@ -27,8 +27,8 @@ permalink: /
     <li class="upcoming-event">
         <h3><a href="/">SRCCON 2021</a></h3>
         <div class="when-where">mid-year 2021, online</div>
-        <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other. Dates and details about this online event comming soon.</p>
-        <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to find out about event updates.</a></div>
+        <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other. Dates and details about this online event coming soon.</p>
+        <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to find out about updates.</a></div>
     </li>
 </ul>
 
