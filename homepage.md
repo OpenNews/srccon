@@ -28,7 +28,8 @@ permalink: /
         <h3><a href="/">SRCCON 2021</a></h3>
         <div class="when-where">August 11-13, online!</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
-         <div class="next-thing">&rarrhk; <a href="https://2020.srccon.org/attendees/#details-about-ticket-prices">Ticket prices will be similar to last year: tiers of $125-450, plus free scholarship tickets.</a></div>
+        <div class="next-thing">&rarrhk; <strong>Our call for proposals opens June 30!</strong></div>
+        <div class="next-thing">&rarrhk; <a href="https://2020.srccon.org/attendees/#details-about-ticket-prices">Ticket prices will be similar to last year: tiers of $125-450, plus free scholarship tickets.</a></div>
         <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div>
     </li>
 </ul>
