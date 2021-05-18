@@ -25,16 +25,21 @@ permalink: /
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3><a href="/srccon-heart-2020/">SRCCON:❤️</a></h3>
-        <div class="when-where">December 17, 2020, online</div>
-        <p class="description">Let&rsquo;s take some time to be with each other and share what&rsquo;s gotten us through this year. Join the OpenNews community for a day of activities and celebration of YOU, the people who lead and sustain this work.</p>
-        <div class="next-thing">&rarrhk; <a href="/srccon-heart-2020/">Read more about this event, and get your ticket!</a></div>
+        <h3><a href="/">SRCCON 2021</a></h3>
+        <div class="when-where">August 11-13, online!</div>
+        <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
+         <div class="next-thing">&rarrhk; <a href="https://2020.srccon.org/attendees/#details-about-ticket-prices">Ticket prices will be similar to last year: tiers of $125-450, plus free scholarship tickets.</a></div>
+        <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div>
     </li>
 </ul>
 
 <div id="previous-events" class="page-divider"><span>Previous events</span></div>
 
 <ul class="previous-events">
+    <li class="previous-event">
+        <h3><a href="/srccon-heart-2020/">SRCCON:❤️</a></h3>
+        <div class="when-where">December 17, 2020, online</div>
+    </li>
     <li class="previous-event">
         <h3><a href="https://2020.srccon.org/">SRCCON 2020</a></h3>
         <div class="when-where">July 15-17, 2020, online</div>
