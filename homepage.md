@@ -28,7 +28,7 @@ permalink: /
         <h3><a href="http://2021.srccon.org">SRCCON 2021</a></h3>
         <div class="when-where">August 11-13, online!</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
-        <div class="next-thing">&rarrhk; <a href="https://2021.srccon.org/participation/form"><strong>Our call for proposals is now open June 30!</strong></a></div>
+        <div class="next-thing">&rarrhk; <a href="https://2021.srccon.org/participation/form"><strong>Our call for proposals is now open!</strong></a></div>
     </li>
 </ul>
 
