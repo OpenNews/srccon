@@ -21,20 +21,24 @@ permalink: /
     
 </div>
 
-<div id="coming-up" class="page-divider"><span>This year</span></div>
+<div id="coming-up" class="page-divider"><span>Upcoming</span></div>
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3><a href="http://2021.srccon.org">SRCCON 2021</a></h3>
-        <div class="when-where">August 11-13, online!</div>
-        <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
-        <div class="next-thing">&rarrhk; <a href="https://2021.srccon.org/participation/form"><strong>Our call for participation is now open!</strong></a></div>
+        <h3>SRCCON 2022</h3>
+        <div class="when-where">June 22-23, 2022, in Minneapolis!</div>
+        <!-- <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
+        <div class="next-thing">&rarrhk; <a href="https://2021.srccon.org/participation/form"><strong>Our call for participation is now open!</strong></a></div> -->
     </li>
 </ul>
 
 <div id="previous-events" class="page-divider"><span>Previous events</span></div>
 
 <ul class="previous-events">
+    <li class="previous-event">
+        <h3><a href="/srccon-heart-2020/">SRCCON 2021</a></h3>
+        <div class="when-where">August 11-13, 2021, online</div>
+    </li>
     <li class="previous-event">
         <h3><a href="/srccon-heart-2020/">SRCCON:❤️</a></h3>
         <div class="when-where">December 17, 2020, online</div>
