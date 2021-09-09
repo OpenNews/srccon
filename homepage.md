@@ -36,7 +36,7 @@ permalink: /
 
 <ul class="previous-events">
     <li class="previous-event">
-        <h3><a href="/srccon-heart-2020/">SRCCON 2021</a></h3>
+        <h3><a href="https://2021.srccon.org/">SRCCON 2021</a></h3>
         <div class="when-where">August 11-13, 2021, online</div>
     </li>
     <li class="previous-event">
