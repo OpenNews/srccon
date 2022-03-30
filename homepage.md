@@ -23,14 +23,14 @@ permalink: /
 
 <div id="coming-up" class="page-divider"><span>Upcoming</span></div>
 
-<ul class="upcoming-events">
-    <li class="upcoming-event">
-        <h3>SRCCON 2022</h3>
-        <div class="when-where">June 22-23, 2022, in Minneapolis!</div>
-        <!-- <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
-        <div class="next-thing">&rarrhk; <a href="https://2021.srccon.org/participation/form"><strong>Our call for participation is now open!</strong></a></div> -->
+<li class="upcoming-event">
+        <h3><a href="/">SRCCON 2022</a></h3>
+        <div class="when-where">June 22-24, online!</div>
+        <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
+        <div class="next-thing">&rarrhk; <strong>Our call for proposals will be open April 11-25!</strong></div>
+        <div class="next-thing">&rarrhk; <a href="https://2021.srccon.org/attendees/#details-about-ticket-prices">Ticket prices will be similar to last year: tiers of $125-450, plus free scholarship tickets.</a></div>
+        <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div>
     </li>
-</ul>
 
 <div id="previous-events" class="page-divider"><span>Previous events</span></div>
 
