@@ -24,7 +24,7 @@ permalink: /
 <div id="coming-up" class="page-divider"><span>Upcoming</span></div>
 
 <li class="upcoming-event">
-        <h3><a href="/">SRCCON 2022</a></h3>
+        <h3>SRCCON 2022</h3>
         <div class="when-where">June 22-24, online!</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
         <div class="next-thing">&rarrhk; <strong>Our call for proposals will be open April 11-25!</strong></div>
