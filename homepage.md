@@ -20,14 +20,14 @@ permalink: /
     </div>
 </div>
 
-<div id="coming-up" class="page-divider"><span>Coming up!</span></div>
+<div id="coming-up" class="page-divider"><span>This Year!</span></div>
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
         <h3><a href="https://2022.srccon.org/">SRCCON 2022</a></h3>
         <div class="when-where">June 22-24, online!</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
-        <div class="next-thing">&rarrhk; <a href="https://2022.srccon.org/participation/form/"><strong>Our call for participation is open now!</strong></a></div>
+        <div class="next-thing">&rarrhk; <a href="https://2022.srccon.org/participation/form/"><strong>Want to join us? It's not too late, we still have tickets!</strong></a></div>
         <div class="next-thing">&rarrhk; <a href="https://2022.srccon.org/attendees/#details-about-ticket-prices">Ticket prices will be similar to last year: tiers of $125-450, plus free scholarship tickets.</a></div>
         <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div>
     </li>
