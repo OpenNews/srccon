@@ -24,11 +24,10 @@ permalink: /
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3><a href="https://2022.srccon.org/">SRCCON 2022</a></h3>
-        <div class="when-where">June 22-24, online!</div>
-        <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
-<!--         <div class="next-thing">&rarrhk; <a href="https://2022.srccon.org/participation/form/"><strong>Want to join us? It's not too late, we still have tickets!</strong></a></div>
-        <div class="next-thing">&rarrhk; <a href="https://2022.srccon.org/attendees/#details-about-ticket-prices">Ticket prices will be similar to last year: tiers of $125-450, plus free scholarship tickets.</a></div> -->
+        <h3>SRCCON:CARE</h3>
+        <div class="when-where">December 8-9, online!</div>
+        <p class="description">Let's take a moment to focus on care. It is through care and connection that we will find ways through the multitude of crises facing us. Join us for two days of talks, hands-on sessions, and emergent conversations.</p>
+        <p class="description">SRCCON:CARE will focus on this powerful, nuanced theme that's come up in so many conversations in the past few years. Professor and author Eric Gordon once provocatively asked "What would journalism operate like if it's goal was to distribute the responsibility for care?" Relationships of care can be conceived of in so many directions: connections with ourselves, our colleagues, our communities, our supporters and the people who provide the expertise/experience that helps build our stories. Join us for a deep dive into what care looks like, feels like, and can achieve in the context of journalism. </p>
         <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div>
     </li>
 </ul>
@@ -36,6 +35,10 @@ permalink: /
 <div id="previous-events" class="page-divider"><span>Previous events</span></div>
 
 <ul class="previous-events">
+    <li class="previous-event">
+        <h3><a href="https://2022.srccon.org/">SRCCON 2022</a></h3>
+        <div class="when-where">June 22-24, online</div>
+    </li>
     <li class="previous-event">
         <h3><a href="https://2021.srccon.org/">SRCCON 2021</a></h3>
         <div class="when-where">August 11-13, 2021, online</div>
