@@ -6,11 +6,11 @@ rvm:
 install: gem install jekyll -v 3.8.0 && gem install jekyll-redirect-from && gem install s3_website
 script: jekyll build
 after_success:
-- test $TRAVIS_BRANCH = "master" && s3_website push --config-dir=_config/production/
+- test $TRAVIS_BRANCH = "main" && s3_website push --config-dir=_config/production/
 - test $TRAVIS_BRANCH = "staging" && s3_website push --config-dir=_config/staging/
 branches:
   only:
-  - master
+  - main
   - staging
 notifications:
   slack:
