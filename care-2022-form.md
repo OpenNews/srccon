@@ -1,6 +1,6 @@
 ---
 layout: layout_hub
-permalink: /care/participation/form
+permalink: /care/participation/form/
 logo: /media/img/srccon_care_header.png
 logo_link: /srccon-care-2022/
 share_image: /media/img/srccon_care_logo_share.png
