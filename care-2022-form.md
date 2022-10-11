@@ -2,7 +2,7 @@
 layout: layout_hub
 permalink: /care/participation/form/
 logo: /media/img/srccon_care_header.png
-logo_link: /srccon-care-2022/
+logo_link: /care/participation/form/
 share_image: /media/img/srccon_care_logo_share.png
 title: SRCCON:CARE 2022 — Call for Participation Form
 description: Join us for two days of hands-on sessions and emergent conversations to reflect on caring as a practice in journalism.
