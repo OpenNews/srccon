@@ -26,7 +26,7 @@ SRCCON:CARE is community-driven and peer-led, with a mix of intimate conversatio
 
 ## Schedule
 
-We’ll be gathering over two days, with generous breaks. Reserve these blocks on your calendar now:
+We’ll be gathering over two days, with two session times per day when you'll be able to select which interactive session to attend. Reserve these times on your calendar now:
 
 <table class="time-blocks">
   <thead>
@@ -39,9 +39,8 @@ We’ll be gathering over two days, with generous breaks. Reserve these blocks o
       <td>
         <ul>
           <li>12-12:45pm: Welcome + group gathering</li>
-          <li>Break</li>
           <li>1-2pm: Sessions</li>
-          <li>Break</li>
+          <li>2-2:30pm: Social Break</li>
           <li>2:30-3:30pm: Sessions</li>          
         </ul>
       </td>
@@ -51,9 +50,8 @@ We’ll be gathering over two days, with generous breaks. Reserve these blocks o
       <td>
         <ul>
           <li>12-1pm: Sessions</li>
-          <li>Break</li>
+          <li>1-1:3pm0: Social Break</li>
           <li>1:30-2:30pm: Sessions</li>
-          <li>Break</li>
           <li>2:30-3:15pm: Closing + group gathering</li>          
         </ul>
       </td>
@@ -63,7 +61,7 @@ We’ll be gathering over two days, with generous breaks. Reserve these blocks o
 
 ## Sessions 
 
-Our schedule will include the sessions below. Details may evolve as we approach the event, and we have a couple final sessions still to confirm, so check back for updates. Thank you to all the community members who proposed ideas for SRCCON:CARE! 
+Our schedule will include the sessions below. Details may evolve as we approach the event, and we have a couple final sessions still to confirm, so check back for updates. Thank you to all the community members who proposed ideas for SRCCON:CARE, and to the community review panel who helped during our review process! 
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.sessions_care_2022 %}
