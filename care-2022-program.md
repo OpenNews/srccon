@@ -50,7 +50,7 @@ We’ll be gathering over two days, with two session times per day when you'll b
       <td>
         <ul>
           <li>12-1pm: Sessions</li>
-          <li>1-1:3pm0: Social Break</li>
+          <li>1-1:30pm: Social Break</li>
           <li>1:30-2:30pm: Sessions</li>
           <li>2:30-3:15pm: Closing + group gathering</li>          
         </ul>
