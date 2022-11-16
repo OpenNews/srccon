@@ -162,6 +162,13 @@ h1, h2, h3, h4 {
     font-family: freight-text-pro, serif;
     font-size: .9em;
 }
+.main-footer .trailer {
+    font-family: freight-text-pro, serif;
+    font-size: 1em;
+    text-align: center;
+    padding-top: 2em;
+    color: #00000082;
+}
 
 
 /* HEADER IMAGES */
@@ -493,6 +500,43 @@ table a.session-transcript {
     border-radius: 3px;
     margin-top: .4em;
     text-decoration: none;
+}
+
+.hub table.time-blocks {
+    font-family: sofia-pro, sans-serif;
+    text-align: left;
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 1em;
+}
+
+.hub table.time-blocks thead {
+}
+
+.hub table.time-blocks ul {
+    margin:  0 0 0 0;
+    padding:  0 0 10px 25px;
+}
+
+.hub table.time-blocks th, .hub table.time-blocks td {
+    padding: 10px 15px;
+    border-bottom: 4px solid white;
+    font-size: 0.9em;
+}
+
+.hub table.time-blocks td {
+    border-bottom: 2px solid white;
+    line-height:  1.5;
+}
+
+.hub table.time-blocks th:nth-child(1), .hub table.time-blocks tr td:nth-child(1){
+    background-color:  #ffa50061;
+    width: 170px;
+}
+
+.hub table.time-blocks th:nth-child(even), .hub table.time-blocks tr td:nth-child(even){
+    background-color:  #ffa5002e;
+    padding-right:  30px;
 }
 
 .hidden {
@@ -860,6 +904,9 @@ table a.session-transcript {
 
     .hub .page-intro .big-type {
         font-size: 1.4em;
+    }
+    .hub table.time-blocks th:nth-child(1), .hub table.time-blocks tr td:nth-child(1){
+        width: 100px;
     }
 }
 
