@@ -87,7 +87,7 @@ Some details may evolve as we approach the event, so check back for updates. Tha
 
     <div class="session" id="session-commitments-necessity">
         <h4 class="session-title"><a href="#session-commitments-necessity">Commitments instead of necessity: How to avoid dread on a consistent basis</a></h4>
-        <p class="facilitator">Facilitated by André Natta</p>
+        <p class="facilitator">Facilitated by André Natta, Diana López</p>
         <p class="session-description"><p>As we continue to move through a period of chaotic change in journalism, it may be time to remind ourselves we have to be good to ourselves. This session allows participants to explore the difference between doing things because we think we have to versus allowing ourselves to commit to those things we know we have the capacity to tackle.</p>
         <p>How do we establish what meets the criteria of a commitment? How do we decide what projects and career choices make the most sense? We’ll explore personal statements and how they can help us determine how to commit to ourselves and our goals on a daily basis.</p></p>
     </div>
