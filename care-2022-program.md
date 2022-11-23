@@ -162,7 +162,14 @@ Some details may evolve as we approach the event, so check back for updates. Tha
     <div class="session" id="session-personal-ecology">
         <h4 class="session-title"><a href="#session-personal-ecology">Exploring our Personal Ecology</a></h4>
         <p class="facilitator">Facilitated by Cristina Salgado, Nora Bryne</p>
-        <p class="session-description"><p>In this session we will explore our Personal Ecology, which is a systemic approach to managing work life and consists of four main elements. We will share the four main elements and have an interactive discussion on the impacts of burnout. Participants will have an opportunity to reflect individually and collectively on the connection between burnout and urgency. A sense of urgency is one of the White Supremacy Culture Characteristics that we will explore. We hope participants leave the session feeling curious, reflective and connected.</p></p>
+        <p class="session-description"><p>In this session we will explore our Personal Ecology, which is a systemic approach to managing work life and consists of four main elements:</p>
+        <p><ul>
+            <li>Managing our load</li>
+            <li>Managing our time, input and focus</li>
+            <li>Managing our energy</li>
+            <li>Managing our state of being</li>
+        </ul></p>
+        <p>We will share the four main elements and have an interactive discussion on the impacts of burnout. Participants will have an opportunity to reflect individually and collectively on the connection between burnout and urgency. A sense of urgency is one of the White Supremacy Culture Characteristics that we will explore. We hope participants leave the session feeling curious, reflective and connected.</p></p>
     </div>
 </div>
 
