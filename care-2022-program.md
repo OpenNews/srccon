@@ -22,7 +22,7 @@ main_footer: true
 
 # Our program
 
-SRCCON:CARE is community-driven and peer-led, with two days of intimate conversations, outcome-oriented workshops, and social sessions to help you step out of work mode. Reserve these times on your calendar:
+SRCCON:CARE is a community-driven, peer-led conference [about care as a practice in journalism](/srccon-care-2022/#about). We'll have two days of intimate conversations, outcome-oriented workshops, and social sessions to help you step out of work mode. Reserve these times on your calendar:
 
 <table class="time-blocks">
   <thead>
@@ -56,9 +56,17 @@ SRCCON:CARE is community-driven and peer-led, with two days of intimate conversa
 </table>
 &nbsp;
 
-## Session schedule
+## Our schedule
 
 Some details may evolve as we approach the event, so check back for updates. Thank you to all the community members who proposed ideas for SRCCON:CARE, and to the community review panel who helped during our review process!
+
+#### Additional events on the SRCCON:CARE program
+
+* Attendees can sign up for one-on-one coaching sessions about anything they're working through with community members and leadership coaches Mandy Brown or David Yee
+* We're helping community members organize small-group, in-person meetups for coffee or a meal with other attendees who live nearby
+* Have an idea for another activity to share or organize? [Let us know!](mailto:srccon@opennews.org)
+
+<p>&nbsp;</p>
 
 ### Thursday, December 8
 
