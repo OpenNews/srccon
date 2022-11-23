@@ -158,6 +158,12 @@ Some details may evolve as we approach the event, so check back for updates. Tha
         <p class="facilitator">Facilitated by Michelle Ferrier</p>
         <p class="session-description"><p>Learn how to use gardening to bring digital resilience and energy back into your work. #FairyGardenMama shows you the parallels between gardening and journalism work and how to strengthen your green thumb!</p></p>
     </div>
+
+    <div class="session" id="session-personal-ecology">
+        <h4 class="session-title"><a href="#session-personal-ecology">Exploring our Personal Ecology</a></h4>
+        <p class="facilitator">Facilitated by Cristina Salgado, Nora Bryne</p>
+        <p class="session-description"><p>In this session we will explore our Personal Ecology, which is a systemic approach to managing work life and consists of four main elements. We will share the four main elements and have an interactive discussion on the impacts of burnout. Participants will have an opportunity to reflect individually and collectively on the connection between burnout and urgency. A sense of urgency is one of the White Supremacy Culture Characteristics that we will explore. We hope participants leave the session feeling curious, reflective and connected.</p></p>
+    </div>
 </div>
 
 <div class="page-divider"><span>Friday 1-1:30pm ET</span></div>
@@ -179,13 +185,13 @@ Some details may evolve as we approach the event, so check back for updates. Tha
 
     <div class="session" id="session-herding-cats">
         <h4 class="session-title"><a href="#session-herding-cats">Herding cats: How and why animals can be critical for self-care</a></h4>
-        <p class="facilitator">Facilitated by Stefanie Murray</p>
+        <p class="facilitator">Facilitated by Stefanie Murray, Kat Duncan</p>
         <p class="session-description"><p>Humans have depended on animals for comfort and care for centuries. Of course, there’s lots of research about the benefits of having an animal companion. Animals help people with disabilities navigate society, they can help reduce blood pressure, help a person cope with depression and so much more. So during this session, we’re going to celebrate and share stories about our companion animals! Round up your cats, dogs, guinea pigs, fish and more and come ready to introduce them, tell their stories and share how they help you care for yourself.</p></p>
     </div>
 
     <div class="session" id="session-reducing-harm">
         <h4 class="session-title"><a href="#session-reducing-harm">How reducing harm in your journalism helps reduce the harm to yourself</a></h4>
-        <p class="facilitator">Facilitated by Maye Primera</p>
+        <p class="facilitator">Facilitated by Maye Primera, Kate Travis</p>
         <p class="session-description"><p>In this session we will discuss ideas to change the pace of the news cycles that are burning audiences and journalists out. We will analyze journalism as a system, and talk about the structures, power dynamics and beliefs that are fueling news fatigue and fear within the public, and hopelessness in newsrooms. We will share community engagement strategies that can help us to slow down our journalism, and make it sustainable -not just for business but for the mental health of all.</p>
         <p>As a conversation starter, I’d like to draw from my personal experience covering low-income Latino immigrant communities in the US: from producing news in the verge of burnout that often left Latino viewers afraid and disempowered, to the challenge of building new mediums and practices to deliver actionable information that helps them navigate the daily demands of a bicultural life.</p></p>
     </div>
