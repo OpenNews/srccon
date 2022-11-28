@@ -82,7 +82,7 @@ Some details may evolve as we approach the event, so check back for updates. Tha
 <div class="session-list">
     <div class="session" id="session-safety-diverse-team">
         <h4 class="session-title"><a href="#session-safety-diverse-team">Building and maintaining psychological safety on a diverse team</a></h4>
-        <p class="facilitator">Facilitated by Emma Carew Grovum, Hannah Wise</p>
+        <p class="facilitator">Facilitated by Emma Carew Grovum, Hannah J. Wise</p>
         <p class="session-description"><p>One of the most important gifts we can give one another is the ability to show up as our authentic selves. Let’s talk about psychological safety, how to build it on diverse teams, and more importantly: how to maintain it and work through if it breaks down.</p></p>
     </div>
     
