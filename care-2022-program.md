@@ -62,7 +62,7 @@ Some details may evolve as we approach the event, so check back for updates. Tha
 
 #### Additional events on the SRCCON:CARE program
 
-* Attendees can sign up for one-on-one coaching sessions about anything they're working through with community members and leadership coaches Mandy Brown or David Yee
+* Attendees can sign up for one-on-one coaching sessions with community members and leadership coaches Mandy Brown or David Yee. You bring the topic—anything that’s got you stuck or that you want to reflect on more deeply. [Register for SRCCON:CARE to sign up for a coaching session](/care/participation/form)!
 * We're helping community members organize small-group, in-person meetups for coffee or a meal with other attendees who live nearby
 * Have an idea for another activity to share or organize? [Let us know!](mailto:srccon@opennews.org)
 
