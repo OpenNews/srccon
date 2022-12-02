@@ -40,7 +40,7 @@ Interested in having your company or organization get involved? [Find out more a
 </div>
 
 <div class="sponsor-block secondary">
-    <a href=""><img src="/media/img/partners/civic_exchange.png" alt="Civic Exchange"></a>
+    <a href="https://www.civicexchangechicago.com/"><img src="/media/img/partners/civic_exchange.png" alt="Civic Exchange"></a>
 </div>
 
 
