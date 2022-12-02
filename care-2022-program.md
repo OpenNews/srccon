@@ -4,8 +4,7 @@ permalink: /srccon-care-2022/program/
 logo: /media/img/srccon_care_header.png
 logo_link: /srccon-care-2022/
 share_image: /media/img/srccon_care_logo_share.png
-title: SRCCON:CARE — December 8-9, 2022 — Online
-description: Join us for two days of hands-on sessions and emergent conversations to reflect on caring as a practice in journalism.
+title: SRCCON:CARE — Our Program
 main_footer: true
 ---
 
