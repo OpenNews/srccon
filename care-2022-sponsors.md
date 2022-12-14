@@ -15,7 +15,7 @@ main_footer: true
         <span class="contact-options"><a href="https://twitter.com/srccon">Twitter</a>
         <span class="line-splitter">&bull;</span>
         <a href="mailto:srccon@opennews.org">Email</a></span>
-        <a href="/care/participation/form" class="button">Join us at SRCCON!</a>
+        <a href="https://opennews.org/donate" class="button">Support our work!</a>
     </div>
 </div>
 

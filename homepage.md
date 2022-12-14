@@ -26,8 +26,8 @@ permalink: /
     <li class="upcoming-event">
         <h3><a href="/srccon-care-2022">SRCCON:CARE</a></h3>
         <div class="when-where">December 8-9, online!</div>
-      	<p class="description">Join us for two days of talks, hands-on sessions, and emergent conversations that reflect on caring as a practice.</p>
-        <div class="next-thing">&rarrhk; <a href="/care/participation/form">Our call for participation is now open. Let us know if you would like to be there.</a></div>
+      	<p class="description">Two days of talks, hands-on sessions, and emergent conversations that reflect on caring as a practice.</p>
+        <!--<div class="next-thing">&rarrhk; <a href="/care/participation/form">Our call for participation is now open. Let us know if you would like to be there.</a></div>-->
     </li>
 </ul>
 

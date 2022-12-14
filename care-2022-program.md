@@ -15,7 +15,7 @@ main_footer: true
         <span class="contact-options"><a href="https://twitter.com/srccon">Twitter</a>
         <span class="line-splitter">&bull;</span>
         <a href="mailto:srccon@opennews.org">Email</a></span>
-        <a href="/care/participation/form" class="button">Join us at SRCCON!</a>
+        <a href="https://opennews.org/donate" class="button">Support our work!</a>
     </div>
 </div>
 
@@ -61,7 +61,7 @@ Some details may evolve as we approach the event, so check back for updates. Tha
 
 #### Additional events on the SRCCON:CARE program
 
-* Attendees can sign up for one-on-one coaching sessions with community members and leadership coaches Mandy Brown or David Yee. You bring the topic—anything that’s got you stuck or that you want to reflect on more deeply. [Register for SRCCON:CARE to sign up for a coaching session](/care/participation/form)!
+* Attendees can sign up for one-on-one coaching sessions with community members and leadership coaches Mandy Brown or David Yee. You bring the topic—anything that’s got you stuck or that you want to reflect on more deeply.
 * We're helping community members organize small-group, in-person meetups for coffee or a meal with other attendees who live nearby
 * Have an idea for another activity to share or organize? [Let us know!](mailto:srccon@opennews.org)
 
