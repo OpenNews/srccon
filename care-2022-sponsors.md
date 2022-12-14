@@ -10,12 +10,15 @@ main_footer: true
 
 <div class="page-intro">    
     <div class="sub-nav">
-        Want to get involved? Get in touch! 
+        Stay in touch: 
         <span class="line-splitter"></span>
-        <span class="contact-options"><a href="https://twitter.com/srccon">Twitter</a>
+        <a href="https://twitter.com/srccon">Twitter</a>
         <span class="line-splitter">&bull;</span>
-        <a href="mailto:srccon@opennews.org">Email</a></span>
-        <a href="/care/participation/form" class="button">Join us at SRCCON!</a>
+        <a href="mailto:srccon@opennews.org">Email</a>
+        <span class="line-splitter">&bull;</span>
+        <a href="http://eepurl.com/czSVTL">Newsletter</a>
+
+        <a href="https://opennews.org/donate" class="button">Support our work!</a>
     </div>
 </div>
 
