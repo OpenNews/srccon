@@ -26,9 +26,10 @@ permalink: /
     <li class="upcoming-event">
         <h3><a href="/">SRCCON 2023</a></h3>
         <div class="when-where">October 17-18, in Minneapolis, MN</div>
-        <p class="description">We're planning for SRCCON to return in person this year, in some form! Our planning will evolve as the year progress, but mark these dates now to be a part of SRCCON and join with other people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
-        <div class="next-thing">&rarrhk; <strong>Our call for session proposals will be open May 31-June 14!</strong></div>
-        <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get additional updates.</a></div>
+        <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
+        <div class="next-thing">&rarrhk; <a href="https://2023.srccon.org/participation/form/"><strong>Our call for participation is open now!</strong></a></div>
+        <div class="next-thing">&rarrhk; <a href="https://2023.srccon.org/attendees/#tickets">Ticket prices will start at $250, with two additional tiers and a limited number of free scholarship tickets.</a></div>
+        <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div>
     </li>
 </ul>
 
