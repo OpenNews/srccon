@@ -24,7 +24,7 @@ permalink: /
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3><a href="/">SRCCON 2023</a></h3>
+        <h3><a href="https://2023.srccon.org/">SRCCON 2023</a></h3>
         <div class="when-where">October 17-18, in Minneapolis, MN</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
         <div class="next-thing">&rarrhk; <a href="https://2023.srccon.org/participation/form/"><strong>Our call for participation is open now!</strong></a></div>
