@@ -19,7 +19,7 @@ SRCCON participants agree to:
 
 If any attendee engages in harassing behavior, the event organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the event team with a concise description of your grievance; any grievances filed will be considered by the entire OpenNews team.)
 
-This code of conduct covers the entirety of any SRCCON event. Before, during, and after SRCCON events, the OpenNews staff is available at [safety@opennews.org](mailto:safety@opennews.org) if you see or experience an issue. In addition, during an event you can DM any staff member (Erika Owens, Ryan Pitts, or Sisi Wei) on Slack. During in-person SRCCON events, we will also publicize a contact email and phone number, and point out event staff in matching t-shirts so you know who to contact if you see or experience an issue.
+This code of conduct covers the entirety of any SRCCON event. Before, during, and after SRCCON events, the OpenNews staff is available at [safety@opennews.org](mailto:safety@opennews.org) if you see or experience an issue. In addition, during a virtual event, you can DM any staff member on Slack. During in-person SRCCON events, we will also publicize a contact email and phone number, and point out event staff in matching T-shirts so you know who to contact if you see or experience an issue.
 
 We welcome your feedback on this and every other aspect of our events, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
 
