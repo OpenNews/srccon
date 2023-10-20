@@ -20,6 +20,7 @@ permalink: /
     </div>
 </div>
 
+<!--
 <div id="coming-up" class="page-divider"><span>This Year!</span></div>
 
 <ul class="upcoming-events">
@@ -31,11 +32,15 @@ permalink: /
         <div class="next-thing">&rarrhk; <a href="https://2023.srccon.org/attendees/#tickets">Ticket prices will start at $250, with two additional tiers and a limited number of free scholarship tickets.</a></div>
         <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div>
     </li>
-</ul>
+</ul>-->
 
 <div id="previous-events" class="page-divider"><span>Previous events</span></div>
 
 <ul class="previous-events">
+     <li class="previous-event">
+        <h3><a href="https://2023.srccon.org/">SRCCON 2023</a></h3>
+        <div class="when-where">October 17-18, 2023, in Minneapolis</div>
+    </li>
      <li class="previous-event">
         <h3><a href="/srccon-care-2022">SRCCON:CARE</a></h3>
         <div class="when-where">December 8-9, online</div>
