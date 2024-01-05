@@ -20,19 +20,17 @@ permalink: /
     </div>
 </div>
 
-<!--
 <div id="coming-up" class="page-divider"><span>This Year!</span></div>
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3><a href="https://2023.srccon.org/">SRCCON 2023</a></h3>
-        <div class="when-where">October 17-18, in Minneapolis, MN</div>
+        <h3>SRCCON 2024</h3>
+        <div class="when-where">August 15-16, in Minneapolis, MN</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes we need to better support each other.</p>
-        <div class="next-thing">&rarrhk; <a href="https://2023.srccon.org/participation/form/"><strong>Our call for participation is open now!</strong></a></div>
-        <div class="next-thing">&rarrhk; <a href="https://2023.srccon.org/attendees/#tickets">Ticket prices will start at $250, with two additional tiers and a limited number of free scholarship tickets.</a></div>
+        <div class="next-thing">&rarrhk; <strong>Our call for participation is coming soon!</strong></div>
         <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div>
     </li>
-</ul>-->
+</ul>
 
 <div id="previous-events" class="page-divider"><span>Previous events</span></div>
 
@@ -43,11 +41,11 @@ permalink: /
     </li>
      <li class="previous-event">
         <h3><a href="/srccon-care-2022">SRCCON:CARE</a></h3>
-        <div class="when-where">December 8-9, online</div>
+        <div class="when-where">December 8-9, 2022, online</div>
     </li>
     <li class="previous-event">
         <h3><a href="https://2022.srccon.org/">SRCCON 2022</a></h3>
-        <div class="when-where">June 22-24, online</div>
+        <div class="when-where">June 22-24, 2022, online</div>
     </li>
     <li class="previous-event">
         <h3><a href="https://2021.srccon.org/">SRCCON 2021</a></h3>
