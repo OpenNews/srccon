@@ -3,9 +3,9 @@ os: linux
 dist: xenial
 jdk: openjdk8
 rvm:
-- 2.7.0
+- 3.1.2
 install: gem install jekyll -v 4.1.0 && gem install jekyll-redirect-from && gem install
-  s3_website
+  s3_website_revived
 script: jekyll build
 after_success:
 - test $TRAVIS_BRANCH = "main" && s3_website push --config-dir=_config/production/
