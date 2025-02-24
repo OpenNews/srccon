@@ -26,10 +26,11 @@ permalink: /
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3>SRCCON 2025</h3>
+        <h3><a href="https://2025.srccon.org/">SRCCON 2025</a></h3>
         <div class="when-where">July 10-11, in Minneapolis, MN</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes that can transform our work.</p>
         <!--<div class="next-thing">&rarrhk; <strong><a href="https://2024.srccon.org/">Our call for participation is open!</a></strong> We still have room for you to join us!</div>-->
+        <strong><a href="https://2025.srccon.org/">Our call for participation is open!</a></strong> Propose a session or apply for a stipend by March 7!</div>
         <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div>
     </li>
 </ul>
