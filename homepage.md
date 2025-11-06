@@ -26,10 +26,10 @@ permalink: /
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3><a href="https://2025.srccon.org/">SRCCON 2025</a></h3>
-        <div class="when-where">July 10-11, in Minneapolis, MN</div>
+        <h3>SRCCON 2026</h3>
+        <div class="when-where"> TBA in our <a href="http://eepurl.com/czSVTL">newsletter</a></div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes that can transform our work.</p>
-        <div class="next-thing">&rarrhk; <strong><a href="https://2025.srccon.org/">Our call for participation is open!</a></strong> We still have room for you to join us!</div>
+        <!-- <div class="next-thing">&rarrhk; <strong><a href="https://2025.srccon.org/">Our call for participation is open!</a></strong> We still have room for you to join us!</div> -->
         <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div>
     </li>
 </ul>
@@ -37,6 +37,10 @@ permalink: /
 <div id="previous-events" class="page-divider"><span>Previous events</span></div>
 
 <ul class="previous-events">
+    <li class="previous-event">
+        <h3><a href="https://2025.srccon.org/">SRCCON 2025</a></h3>
+        <div class="when-where">July 10-11, 2025, in Minneapolis</div>
+    </li>
     <li class="previous-event">
         <h3><a href="https://2024.srccon.org/">SRCCON 2024</a></h3>
         <div class="when-where">August 15-16, 2024, in Minneapolis</div>
