@@ -13,6 +13,12 @@ collections:
     output: true
     permalink: /:collection/:slug/
 
+# Deployment vars - used by `rake deploy:*` tasks and GitHub Actions
+deployment:
+  bucket: srccon.org
+  staging_bucket: staging.srccon.org
+  cloudfront_distribution_id: E1234ABCD5678 
+
 defaults:
   - scope:
       path: ""
