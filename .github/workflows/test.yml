@@ -1,0 +1,58 @@
+name: Test Build
+
+on:
+  pull_request:
+  push:
+    branches-ignore:
+      - main
+      - staging
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: bundle exec rake build
+
+      - name: Run html-proofer
+        run: bundle exec rake test:html_proofer
+
+      - name: Run template tests
+        run: bundle exec rake test:templates
+
+      - name: Configure AWS credentials (for dry-run)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
+          aws-region: us-east-1
+
+      - name: Test deployment commands (dry-run)
+        run: |
+          echo "Testing deployment commands..."
+          
+          # Extract bucket from _config.yml
+          STAGING_BUCKET=$(ruby -ryaml -e "config = YAML.load_file('_config.yml'); staging = config['deployment']['staging_bucket']; bucket = config['deployment']['bucket']; puts staging.nil? || staging.empty? ? \"staging.#{bucket}\" : staging")
+          
+          if [ -z "$STAGING_BUCKET" ]; then
+            echo "⚠️  No staging bucket configured, skipping dry-run test"
+            exit 0
+          fi
+          
+          echo "Testing deployment to staging bucket: $STAGING_BUCKET"
+          aws s3 sync _site/ s3://${STAGING_BUCKET}/ --dryrun --delete --cache-control 'public, max-age=3600'
+          
+          echo "✅ Deployment commands validated successfully"

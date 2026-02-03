@@ -1,0 +1,80 @@
+name: Deploy Site
+
+on:
+  push:
+    branches:
+      - main
+      - staging
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Extract deployment config from _config.yml
+        id: config
+        run: |
+          echo "Extracting deployment configuration..."
+          
+          # Parse bucket and cloudfront_distribution_id from _config.yml
+          BUCKET=$(ruby -ryaml -e "config = YAML.load_file('_config.yml'); puts config['deployment']['bucket']")
+          STAGING_BUCKET=$(ruby -ryaml -e "config = YAML.load_file('_config.yml'); staging = config['deployment']['staging_bucket']; puts staging.nil? || staging.empty? ? \"staging.#{config['deployment']['bucket']}\" : staging")
+          CLOUDFRONT_DIST=$(ruby -ryaml -e "config = YAML.load_file('_config.yml'); puts config['deployment']['cloudfront_distribution_id']")
+          
+          echo "bucket=$BUCKET" >> $GITHUB_OUTPUT
+          echo "staging_bucket=$STAGING_BUCKET" >> $GITHUB_OUTPUT
+          echo "cloudfront_distribution_id=$CLOUDFRONT_DIST" >> $GITHUB_OUTPUT
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
+          aws-region: us-east-1
+
+      - name: Build Jekyll site
+        run: bundle exec rake build
+
+      - name: Deploy to S3
+        run: |
+          if [ "${{ github.ref }}" == "refs/heads/main" ]; then
+            echo "Deploying to production bucket: ${{ steps.config.outputs.bucket }}"
+            aws s3 sync _site/ s3://${{ steps.config.outputs.bucket }}/ --delete --cache-control 'public, max-age=3600'
+          elif [ "${{ github.ref }}" == "refs/heads/staging" ]; then
+            echo "Deploying to staging bucket: ${{ steps.config.outputs.staging_bucket }}"
+            aws s3 sync _site/ s3://${{ steps.config.outputs.staging_bucket }}/ --delete --cache-control 'public, max-age=3600'
+          fi
+
+      - name: Invalidate CloudFront cache
+        if: github.ref == 'refs/heads/main' && steps.config.outputs.cloudfront_distribution_id != ''
+        run: |
+          echo "Invalidating CloudFront distribution: ${{ steps.config.outputs.cloudfront_distribution_id }}"
+          aws cloudfront create-invalidation \
+            --distribution-id ${{ steps.config.outputs.cloudfront_distribution_id }} \
+            --paths '/*'
+
+      - name: Deployment summary
+        run: |
+          echo "✅ Deployment complete!"
+          if [ "${{ github.ref }}" == "refs/heads/main" ]; then
+            echo "Environment: Production"
+            echo "Bucket: ${{ steps.config.outputs.bucket }}"
+            if [ -n "${{ steps.config.outputs.cloudfront_distribution_id }}" ]; then
+              echo "CloudFront: Invalidated"
+            fi
+          else
+            echo "Environment: Staging"
+            echo "Bucket: ${{ steps.config.outputs.staging_bucket }}"
+          fi
