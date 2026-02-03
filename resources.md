@@ -39,7 +39,7 @@ Here, we've gathered some writing about how we create these inclusive, participa
 
 ## Session Transcripts & Documentation
 
-* SRCCON [2019](https://2019.srccon.org/documentation/), [2018](https://2018.srccon.org/documentation/), [2017](https://2017.srccon.org/transcription/), [2016](https://2016.srccon.org/transcription/), [2015](https://2015.srccon.org/transcription/), [2014](https://github.com/OpenNews/srccon/tree/master/_archive/transcripts/2014)
+* SRCCON [2019](https://2019.srccon.org/documentation/), [2018](https://2018.srccon.org/documentation/), [2017](https://2017.srccon.org/transcription/), [2016](https://2016.srccon.org/transcription/), [2015](https://2015.srccon.org/transcription/), [2014](https://2014.srccon.org/live/)
 * Topical SRCCONs [SRCCON:POWER](https://power.srccon.org/transcription/), [SRCCON:WORK](https://work.srccon.org/transcription/)
 
 ## Other Resources & Inspiration
