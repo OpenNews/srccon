@@ -1,0 +1,18 @@
+# Build outputs
+_site/
+.jekyll-cache/
+
+# Dependencies
+vendor/
+node_modules/
+.bundle/
+
+# Compiled/minified files (don't format)
+*.min.js
+*.min.css
+
+# Git metadata
+.git/
+
+# Generated caches
+.sass-cache/

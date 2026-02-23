@@ -1,4 +1,4 @@
-require 'yaml'
+require "yaml"
 
 namespace :outdated do
   desc "Check for directly used outdated dependencies"
@@ -16,4 +16,4 @@ end
 
 # Default outdated only shows direct dependencies
 desc "Check for directly used outdated dependencies"
-task :outdated => ['outdated:direct']
+task outdated: ["outdated:direct"]
