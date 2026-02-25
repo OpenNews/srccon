@@ -74,8 +74,11 @@ bundle exec rake test:performance       # File-size and performance warnings
 # Optional: External link validation (not part of default test suite)
 bundle exec rake test:external_links    # Check public/external URLs (slower, requires network)
 
+# Optional: Deployment QA (compare staging vs production)
+bundle exec rake test:compare_deployed_sites  # Compare staging and production content for differences
+
 # Run 'em all
-bundle exec rake test                   # Comprehensive validation suite (excludes external_links)
+bundle exec rake test                   # Comprehensive validation suite (excludes external_links and compare_deployed_sites)
 ```
 
 ### Branch Strategy & Deployment
@@ -95,6 +98,7 @@ This project uses GitHub Actions for automated deployment to AWS S3 and CloudFro
 ### Pushing to production
 
 - Review your changes on the staging site, and if everything looks OK, come back to this repo and open a pull request from `staging` into `main`.
+- **Optional QA step:** Run `bundle exec rake test:compare_deployed_sites` to see a detailed comparison of staging vs production content before merging.
 - Merging a pull request into `main`, or pushing any commit to the `main` branch, will trigger an automatic build of the production site at [srccon.org](https://srccon.org) via GitHub Actions.
 - The production site is delivered through Amazon CloudFront so that we can serve a secure, https-enabled [srccon.org](https://srccon.org). CloudFront also caches everything for performance. The rebuild process triggers an invalidation of the entire cache, but it still may take up to 10 minutes for site changes to be reflected on production.
 

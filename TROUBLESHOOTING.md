@@ -157,6 +157,15 @@ Most common issues can be resolved using built-in Rake tasks. See [tasks/README.
 
 ## Deployment
 
+### Pre-deployment QA
+
+Before promoting staging to production, you can compare the deployed sites:
+
+- Run `bundle exec rake test:compare_deployed_sites` to crawl both staging and production
+- Reviews all pages for content differences
+- Highlights significant changes (>10% size difference)
+- Helps catch unintended content changes before they go live
+
 ### Site shows old content after deploy
 
 - CloudFront cache takes 5-10 minutes to propagate
