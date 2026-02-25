@@ -17,7 +17,7 @@ collections:
 deployment:
   bucket: srccon.org
   staging_bucket: staging.srccon.org
-  cloudfront_distribution_id: E1234ABCD5678
+  cloudfront_distribution_id: ECMNG6UKQITLL
 
 defaults:
   - scope:
@@ -28,8 +28,7 @@ defaults:
       # logo options
       logo: /media/img/srccon_logo_angle_512.png
       # sitewide title tag default
-      # title: SRCCON Events — Change how our journalism work
-      title: SRCCON 2019 — July 11 & 12 in Minneapolis
+      title: SRCCON 2026 — July 8 & 9 in Minneapolis
       description: SRCCON events are participatory, interactive conferences and workshops centered on the challenges that news technology and data teams encounter every day.
       # google_analytics_id: set this value to your GA4 measurement ID (format: G-XXXXXXXXXX)
       # Leave empty to disable Google Analytics tracking
