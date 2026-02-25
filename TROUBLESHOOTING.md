@@ -197,6 +197,7 @@ Most common issues can be resolved using built-in Rake tasks. See [tasks/README.
 - Check paths are from site root: `/media/img/logo.png`
 - Load page locally and check browser console (F12) for 404 errors
 - Visually inspect pages for broken images (broken icon or alt text)
+- **Optional:** Check external links with `bundle exec rake test:external_links` (requires network access, slower)
 
 ### CSS/JS not loading
 
@@ -215,6 +216,7 @@ Most common issues can be resolved using built-in Rake tasks. See [tasks/README.
 4. **Browser console:** Open DevTools (F12) - check for 404s or JavaScript errors
 5. **Mobile view:** Toggle device toolbar in DevTools to check responsive layout
 6. **Navigation:** Click through main navigation links to verify no broken pages
+7. **Optional:** Run `bundle exec rake test:external_links` to validate external URLs (not required, but helpful for catching broken partner/sponsor links)
 
 ### Code formatting
 

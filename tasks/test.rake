@@ -2,7 +2,7 @@ require "html-proofer"
 require "yaml"
 
 namespace :test do
-  desc "Check the built site with html-proofer"
+  desc "Check the built site with html-proofer (internal links only)"
   task :html_proofer do
     # if no _site/, remind user to run bundle exec rake build first
     unless Dir.exist?("./_site")
@@ -24,6 +24,53 @@ namespace :test do
           log_level: :error,
         },
       ).run
+    ensure
+      $VERBOSE = original_verbose
+    end
+  end
+
+  desc "Check external/public URLs in the built site (slower, requires network access)"
+  task :external_links do
+    # if no _site/, remind user to run bundle exec rake build first
+    unless Dir.exist?("./_site")
+      abort "❌ No _site/ directory found. Please run 'bundle exec rake build' first."
+    end
+
+    puts "🔗 Checking external links (this may take a while)..."
+
+    # Suppress Ruby warnings from html-proofer dependencies
+    original_verbose = $VERBOSE
+    $VERBOSE = nil
+
+    begin
+      HTMLProofer.check_directory(
+        "./_site",
+        {
+          disable_external: false,
+          enforce_https: true,
+          ignore_urls: [%r{^http://(localhost|127\.0\.0\.1)}],
+          allow_hash_href: true,
+          log_level: :info,
+          # Add some reasonable defaults for external checking
+          typhoeus: {
+            followlocation: true,
+            connecttimeout: 10,
+            timeout: 30,
+          },
+          hydra: {
+            max_concurrency: 5, # Be gentle with external sites
+          },
+          cache: {
+            timeframe: {
+              external: "1d", # Cache external link checks for 1 day
+            },
+          },
+        },
+      ).run
+      puts "✅ External link validation passed!"
+    rescue => e
+      puts "❌ External link validation failed: #{e.message}"
+      raise
     ensure
       $VERBOSE = original_verbose
     end

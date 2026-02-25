@@ -60,7 +60,7 @@ bundle exec rake check              # Validate _config.yml configuration
 
 ```bash
 # Quick HTML validation
-bundle exec rake test:html_proofer      # Validate built HTML and links
+bundle exec rake test:html_proofer      # Validate built HTML and internal links
 bundle exec rake test:templates         # Check template syntax
 
 # Content quality
@@ -71,8 +71,11 @@ bundle exec rake test:page_config       # Validate args at top of Markdown files
 bundle exec rake test:a11y              # Accessibility checks
 bundle exec rake test:performance       # File-size and performance warnings
 
+# Optional: External link validation (not part of default test suite)
+bundle exec rake test:external_links    # Check public/external URLs (slower, requires network)
+
 # Run 'em all
-bundle exec rake test:all               # Comprehensive validation suite
+bundle exec rake test                   # Comprehensive validation suite (excludes external_links)
 ```
 
 ### Branch Strategy & Deployment
