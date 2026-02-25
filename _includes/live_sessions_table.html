@@ -5,7 +5,9 @@
     <tr class="hidden live-{{ session.timeblock }}">
       <td class="session-time">{{ session.time }}</td>
       <td>
-        <a class="session-title" href="https://schedule.srccon.org/#_session-{{ session.id }}"
+        <a
+          class="session-title"
+          href="{{ page.current_srccon_sked_link }}/#_session-{{ session.id }}"
           >{{ session.title }}</a
         >{% if session.transcription != "" %}<br /><a
           class="session-transcript"
@@ -17,5 +19,7 @@
     {% endfor %}
   </table>
 
-  <a class="context-link" href="https://schedule.srccon.org">See the full SRCCON schedule</a>
+  <a class="context-link" href="{{ page.current_srccon_sked_link }}"
+    >See the full 2026 SRCCON schedule</a
+  >
 </div>
