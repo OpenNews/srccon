@@ -8,7 +8,7 @@ background: remote
 permalink: /slackbot/index.html
 ---
 
-We're excited to be offering live transcription at SRCCON again this year. About half of our 2016 sessions will be transcribed (they're all marked on [the schedule](https://schedule.srccon.org)), and we hope people feel able to take part even if they can't join us in Portland.
+We're excited to be offering live transcription at SRCCON again this year. About half of our 2016 sessions will be transcribed (they're all marked on [the schedule](https://2016.srccon.org/schedule/)), and we hope people feel able to take part even if they can't join us in Portland.
 
 We'll send out [alerts on Twitter](https://twitter.com/srccon) when a transcribed session is about to start, but we're also trying something new this year: Slack alerts. Add the "SRCCON Transcript Alerts" bot to your team Slack, and you'll get a reminder and a link right to the live transcript as these sessions get ready to begin.
 

@@ -14,7 +14,7 @@ This year, as we planned out the opening session for our third SRCCON, we realiz
 
 ## The Schedule
 
-- The SRCCON schedule lives at [schedule.srccon.org](https://schedule.srccon.org)—there is no printed version, so load that link on your phone.
+- The SRCCON schedule lives at [schedule.srccon.org](https://2016.srccon.org/schedule/)—there is no printed version, so load that link on your phone.
 - SRCCON was inspired by wonderful hallway conversations at other events, so there are big spacious breaks between sessions so that you can actually talk to people—take advantage of them.
 - There will be a lot of food available to you over the next two days—meals, snacks, our coffee & tea hacking station, and more, so you don't need to worry about the timing or location of your next food or caffeine.
 - The long lunch breaks on both days will include topical Lunch Conversations—and you can sign up at the registration desk to lead one on Friday, if you're interested.

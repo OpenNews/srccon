@@ -20,7 +20,7 @@ logo: srcconwhite.png
 <script type="text/javascript">
 
 if (window.location.href.indexOf('https://www.srccon.org/schedule') === 0) {
-  window.location.href = 'https://schedule.srccon.org';
+  window.location.href = 'https://2014.srccon.org/schedule/';
 }
 
 
