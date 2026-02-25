@@ -33,7 +33,7 @@ Most common issues can be resolved using built-in Rake tasks. See [tasks/README.
 
 1. `bundle exec rake setup` - Initialize new site from template (first-time only)
 2. `bundle exec rake build` - Build the Jekyll site
-3. `bundle exec rake serve` - Build and serve the site locally at http://localhost:4000
+3. `bundle exec rake serve` - Build and serve the site locally at https://localhost:4000
    - 3a. Add `--trace` flag for detailed error output if build fails
    - 3b. Server auto-rebuilds on file changes (except `_config.yml` and `_data/*.yml`)
 4. `bundle exec rake clean` - Clear Jekyll cache and built files
@@ -144,7 +144,7 @@ Most common issues can be resolved using built-in Rake tasks. See [tasks/README.
 
 ### YAML syntax errors
 
-- Validate at [yamllint.com](http://www.yamllint.com/)
+- Validate at [yamllint.com](https://www.yamllint.com/)
 - Use spaces (not tabs) for indentation
 - Quote strings with colons: `title: "Session: Building Tools"`
 - Build locally to see parsing errors: `bundle exec rake build`
@@ -152,7 +152,7 @@ Most common issues can be resolved using built-in Rake tasks. See [tasks/README.
 ### Front matter issues
 
 - Must start/end with `---` (three dashes) at top of file
-- Must be valid YAML (test at [yamllint.com](http://www.yamllint.com/))
+- Must be valid YAML (test at [yamllint.com](https://www.yamllint.com/))
 - Strings with colons need quotes: `title: "Event: SRCCON"`
 
 ## Deployment
@@ -210,7 +210,7 @@ Most common issues can be resolved using built-in Rake tasks. See [tasks/README.
 ### Before committing changes
 
 1. **Build locally:** `bundle exec rake build` - must succeed without errors
-2. **Start dev server:** `bundle exec rake serve` - visit http://localhost:4000
+2. **Start dev server:** `bundle exec rake serve` - visit https://localhost:4000
 3. **Visual inspection:** Check that pages render correctly, images load, styles apply
 4. **Browser console:** Open DevTools (F12) - check for 404s or JavaScript errors
 5. **Mobile view:** Toggle device toolbar in DevTools to check responsive layout

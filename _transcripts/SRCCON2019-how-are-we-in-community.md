@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — How are we in community together?"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # How are we in community together?
 
@@ -52,8 +52,6 @@ ERIKA: Just that there was a person who entered a newsroom and their cultural ba
 
 AUDIENCE: It's a woman who was at the New Jersey Advance. And she's a newsroom developer. She comes from a relatively rural part of China, and she was just completely unable to celebrate herself. And hadn't been raised that way, and was uncomfortable with it. And then won some extremely major awards. And the newsroom was like... Champagne. She was like... Uh... But she celebrated herself and it gave her the confidence to assert herself in other contexts with her family afterwards, and it was an adorable story.
 
-
-
 BRITTANY: So let's celebrate ourselves. Go ahead and gently give yourselves a pat on the back. Good work for staying awake and being present and contributing so much information. This is something I do with my son to help him understand consent. Ask the person next to you if they want a hug or a high five or a handshake or a wave. And just give something to your partner across from you.
 
 AUDIENCE: Elbow!
@@ -80,7 +78,7 @@ AUDIENCE: The guiding statement is the same. We know a lot already. We have a lo
 
 BRITTANY: Perfect. Thank you. So we're sort of working from the same information, really thinking about honing in and creating something bigger.
 
-AUDIENCE: The guiding statement is: We know who is here and that we show up in a lot of networks. The question is: Who is missing? Who should be here? And how do we get them here? Who should not be here? 
+AUDIENCE: The guiding statement is: We know who is here and that we show up in a lot of networks. The question is: Who is missing? Who should be here? And how do we get them here? Who should not be here?
 
 AUDIENCE: Ooh, juicy! Yeah!
 
@@ -88,11 +86,11 @@ AUDIENCE: Vote them off the island.
 
 BRITTANY: So some of that you know just viscerally, visually, and emotionally. But if you want more prompts, the Community Board is up there for you to look at. All right. Table number four.
 
-AUDIENCE: The guiding statement is: Open News does a lot to support community building in journalism technology. The question is: What else should Open News do? What shouldn't Open News do? 
+AUDIENCE: The guiding statement is: Open News does a lot to support community building in journalism technology. The question is: What else should Open News do? What shouldn't Open News do?
 
 BRITTANY: So again, these are some of the programs, some of the things that Open News has done historically, but we're really thinking a lot about: What is our lane and what is outside of our lane as we're starting to think about more programming.
 
-AUDIENCE: As individuals who make up the journalism community, what are our responsibilities? 
+AUDIENCE: As individuals who make up the journalism community, what are our responsibilities?
 
 BRITTANY: You might know this stuff intrinsically. We've spent so much time collecting the data and now we need to move to what's next. So we need to take the bulk of the time to do this and report out on some of the things that have come up. We need to talk about the metalevel. We don't want you to question the data. That's not what we're doing. We're asking you to put the main ideas and shared concepts on the paper. Not an idea dump, but in conversation, here's what came out, that we think is the most valuable thing to pass on. And you can do that with the sticky notes on the paper. Any questions? Feel free to check out the information and move about the cabin.He
 
@@ -110,7 +108,7 @@ AUDIENCE: Our guiding statement. We know a lot already. What do we do with the t
 
 AUDIENCE: Can I just slow you down a little bit?
 
-AUDIENCE: Sorry. Do outreach to the wider journalism community, the people who aren't here, and the more bolder idea I think we had here was maybe having local meetups, and community hubs, so people who can't travel to SRCCON or whatever could come and discuss these goals as a community.  Step one point five we realized would be to... Once we've got those goals, prioritize them as a community. So we could design a system online that allows people to say... Hey, I'm interested in this one. I'm interested in this one. And from there, we can see what the community as a whole is interested in. Step two, design around that. We could have a call for proposals that have to meet one of the community goals. Could be new and existing groups around those goals. Search for affinity groups that are guaranteed to be other places that are working on this stuff, and then we go and do it. And I think all of us have a predisposition to test this on a small-scale, see if it's working, measure success, test, and we should do that in this case as well. And a great thing that Open News already does, is support and guide initiatives -- because we're all gonna want to take the ball and run, so how can Open News support that. And measure and test both qualitatively and quantitatively, and start at the beginning. Start all over again.
+AUDIENCE: Sorry. Do outreach to the wider journalism community, the people who aren't here, and the more bolder idea I think we had here was maybe having local meetups, and community hubs, so people who can't travel to SRCCON or whatever could come and discuss these goals as a community. Step one point five we realized would be to... Once we've got those goals, prioritize them as a community. So we could design a system online that allows people to say... Hey, I'm interested in this one. I'm interested in this one. And from there, we can see what the community as a whole is interested in. Step two, design around that. We could have a call for proposals that have to meet one of the community goals. Could be new and existing groups around those goals. Search for affinity groups that are guaranteed to be other places that are working on this stuff, and then we go and do it. And I think all of us have a predisposition to test this on a small-scale, see if it's working, measure success, test, and we should do that in this case as well. And a great thing that Open News already does, is support and guide initiatives -- because we're all gonna want to take the ball and run, so how can Open News support that. And measure and test both qualitatively and quantitatively, and start at the beginning. Start all over again.
 
 AUDIENCE: Done and done. Okay. Can someone share the...
 

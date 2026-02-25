@@ -2,7 +2,7 @@
 layout: layout
 section: volunteer
 photocredit: Erik Westra
-photocredit_url: http://www.westraco.com/
+photocredit_url: https://www.westraco.com/
 permalink: /volunteer/index.html
 title: SRCCON 2019 — Volunteers
 ---
@@ -13,10 +13,10 @@ We need YOU to help make SRCCON work. In addition to participants running sessio
 
 Volunteers will help with:
 
-* registration
-* supporting session leaders
-* set-up and clean-up
-* those unexpected tasks that always come up during an event
+- registration
+- supporting session leaders
+- set-up and clean-up
+- those unexpected tasks that always come up during an event
 
 Volunteering will be a significant time commitment. For offering that time and missing out on some (but not all!) of the festivities, you will have our gratitude, free entry to the event, a SRCCON Volunteer T-shirt, and the knowledge that you played an integral role in making SRCCON a success.
 

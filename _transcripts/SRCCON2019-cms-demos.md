@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — CMS Demos: Approaches to Helping Our Newsrooms Do Their Best Work"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # CMS Demos: Approaches to Helping Our Newsrooms Do Their Best Work
 
@@ -38,7 +38,7 @@ Going back to WebSked, you can add that to Slack or email. So everything is conn
 
 They have this tool called PageBuilder and, again, this is totally configurable for your organization, and it's a very developer focused product as well as a developer focused problem. We have three main administrators, developers, editors, and content creators. So everything has to be developer friendly as well as content creator friendly. So we have interesting things like features. We have a thing called feature and the reason why it's called that back in the day, and probably still, like, on a newspaper, it's a feature. So the concept is that you can basically customize the features that you want for your home page. And the Washington Post home page is, for example, driven by PageBuilder so our hub will use PageBuilder so build their it own custom features and you can plug in your own custom engines into that, and plug that into WebSked and whatever you like, and it's really extensible for your workflow, and you can curate things, and you can quickly add things, edit things, run headlines, and over time, look for the video content but also an article after, like, one article or video starts to catch fire then that will continually be promoted to users over time. So there's a lot of things that you can do with Arc. I have Arc stickers and I'm happy to talk in-depth about use cases. But overall it's a tool that's equally friendly to your developers and content creators, that you can use out of the box for your startup or newsroom. Thanks.
 
-[ Applause ] 
+[ Applause ]
 
 SAM: All right. You got me? Okay. I'm Sam Baldwin. I'm the PM on Copilot which is Condé Nast's CMS. And before I really get started, I just adopt to know that we're hiring a product role for this tool and we're remote friendly. So please come find me afterwards if you are interested. To talk about the history of Copilot for a second, about four years ago, folks at con day decided five weeks ago, ten weeks ago, that we needed a centralized solution. I think we've got 25 brands in the U.S., and 75 internationally and we decided we needed one tool to reign them all. And the roadmap has really been about onboarding brands. It was an endless log of onboarding brand after brand after brand. I got to inherit product after all that work was done.
 
@@ -48,23 +48,23 @@ Prints is still doing some of them. And low-hanging things for us like strategy 
 
 And I'm just going to go through it field-by-field because that's the nitty-gritty that y'all want to see and that's so much of what CMS work is — just mundane field work stuff. So when I pasted that text in Google, all the formatting was preserved which is probably the single best thing we've done in terms of improving editorial efficiency over the last couple of years. We've had this metric of how could we take an article to stage in Copilot and then we added that feature...
 
-AUDIENCE: No! 
+AUDIENCE: No!
 
 SAM: Improved by about 10%. So that was a big deal. The other thing we have is a lot of our brands set print workflows. And they have this kick-file format some of you might know prism XML. So this is a random GQ product on my desktop and that can also be ingested but I can leave it as the — let's go back to this. So what else? A lot of our fields, we've got this magic-wand thing that really helps efficiency. I'm just going to add a photo quickly.
 
 This is one I took of my garden last week. Is he set content sources to false. And there are a lot of sources that are dependent on the content source. So if you select magazine, or something, you're going to have various canonical sources and all that.
 
-AUDIENCE: What did the magic wand do? 
+AUDIENCE: What did the magic wand do?
 
 SAM: Sorry?
 
-AUDIENCE: What did the magic wand do? 
+AUDIENCE: What did the magic wand do?
 
 SAM: So the magic wand pre-fills — so here's a good example. Here's a social headline field. I don't want to retype in the social headline field. If I click on the magic wand, it pulls in the social header field. Here I'm in the SEO area. Here, I'm going to say this is a newsy story about the Chicago Cubs, my team. And, well, look, there we are. Categories and taxonomies. Like, anybody else, let's put this one just in the culture section broadly. And tags are moved away from a free-form tag field for all the reasons that you don't want free-form tag fields and built tools for editors to consolidate those. And why they went from 15,000 tags to 3,000 tags. And for videos, let's add one from CNE, Condé Nast Entertainment, it's another weird arm that we work in. I have this tab. I'm not the product manager around it. I'm not going to demo it. But we have pipelines between it and Copilot and so here are all these videos. So I'm just going to add one. Here's how we do slugs.
 
-You also have a manually wand there but we allow people to see it and control it. And I'm going to save. And let's preview. 
+You also have a manually wand there but we allow people to see it and control it. And I'm going to save. And let's preview.
 
-TIM: Log out of WordPress. 
+TIM: Log out of WordPress.
 
 SAM: Preview was working earlier. I'll preview an international one. But one thing nice about preview is you can toggle through the front-end layouts here instead of having to see the change in story again. We've had recently had to do a lot of Apple News publishing. So Wired does not have an Apple News publish here. But we have the concept of distribution channels, and Apple News. That was all pursuant to the texture deal. I imagine we will add more things of that nature as more platforms become a big deal.
 
@@ -77,7 +77,7 @@ So this stuff is fancier and we aspired to get this working for our U.S. brands.
 But that's basically Copilot. The way that home pages work is we've got the notion of a home page hole spots, and these can be stones in the river. So here, Wired is named things and these cards are manually curated but also you can define the parameters of the river with all these filters down here. So that's how our editors put stones in the river. It mostly works.
 All right! I think my time is up.
 
-[ Applause ] 
+[ Applause ]
 
 BO: Cool. My name is Bo, and I work at Dive. It's an industry-based media company based in DC. So we cover a bunch of construction very easily like waste, construction, education. A bunch of different things and our — this is what our home page looks like on Supply Chain Dive. Our CMS is built in Django and it was built by our CTO, and one of our senior in I think 2013. I believe they chose Django because it was kind of a startup time frame. They could get things up quickly and do everything in-house and it took very little customization and tweaking to get it doing the things that we needed it to do pretty quickly. And so that's where it still lives and so far it's worked out pretty well for us. Another big advantage is that we could really minutely control things like stories getting published for specific Dive sites only being shown to the editors of those Dive sites, keeping it all in one database. So on the backend, for us, it's pretty easy to maintain. So I'll go ahead and quickly run through how editors might use the news-post publishing features.
 
@@ -89,7 +89,7 @@ Once it is published, those warnings would go away — oh! Do you want to sign u
 
 Again, I would just go back, and edit things. We don't have track changes in our CMS but we do have — you could use the Django admin stuff to go in and see edits from previous versions. We also have railblocking feature. So if you have one story open and somebody elsing opens one, it'll say they can't save because this has autolock open. And we also have background check, it'll warn you just in case you walk away and —
 
-ALBERT: Just keep going. 
+ALBERT: Just keep going.
 
 BO: So it's relaying out the home page. There's a little bit of a process to that. So as I mentioned, once a story's published, it's not necessarily discoverable on the site yet. And so that is what Administrator Dashboard does. And this also again is version controlled so people can go back to differently saved versions of it but what you would do to get a new story on is once you've published a site, you click this little guy to say it's ready to go. And the reason we have it limited by that star feature is 'cause there's so much content at this point that loading a page like this and allowing everything to be there is kind of too much and we really just want to keep the freshest and most relevant content at once on the page. So editors can go in and drag and drop things off and we'll make this the front story now. We'll set this one over here. This one needs to come down because it's not a top five anymore. So I'm going to save it, and publish it live. And then, over on our demo live site, it should be updated with our new front page story and our Data Dot Five stories. And pretend there's a picture there of Amazon. So that's what that's like. Our other main feature is that our editors send out daily newsletters from most of the sites. And there's also a Weekender newsletter that's sent automatically and they do this, again, through our CMS.
 
@@ -99,7 +99,7 @@ The good thing about this is that our CMS is pretty integrated in SaleThrough wi
 
 That should show up on the preview. Et cetera, et cetera. And, yeah, I think those are the pretty much the main functions that editors would use for it. We also have some functions that sales people could use. They could go into this ad generator and paste in stuff they need for their clients and it would spit out HTML for like. And... they can use — we've got an image models thing for them to use images. Taxonomies to — to link sites together, to add topics. They can add library items in the library section of our site. Job posts, as well. And they can do everything from scheduling ads to scheduling editors' notes to go into issues. Previewing what the Weekenderish is going to be, making press releases, all primarily with basic Django, baked-in functionality. The stuff like the dashboard and the workflows, obviously, is custom logic but I would definitely recommend Django if you need to get something up fast and you need to be able to have that kind of minute control for it. But I think that's all I got for you.
 
-AUDIENCE: Did you use the Django templating? 
+AUDIENCE: Did you use the Django templating?
 
 Bo: Yes, yeah. The front-end is Django templating. And the newsletter is Salesthrough Sapphire.
 
@@ -125,7 +125,7 @@ And then you can switch into different layouts here. And then you could, if you 
 
 Like, grouping images and things like that. I'm going to just keep going so I can show y'all all the cool features. By the way, this story has this really crazy quote in it that I forgot I was going to make a blockquote that I'm just going to have to read out to y'all. It's this crazy Lindor quote about how balls are round but they go into square boxes. I'm sorry for my life that I can't find it. So you can see one of the things we do is we actually show you, hey, if I hadn't have changed the permalink or the editorial we would have given you a warning. We're telling you that if you use some custom styles which may break in the future, proceed with caution. There's some workflow capabilities submitted for approval, or I can just publish it now. I can switch things to embargo mode. I can ensure, control where it's distributed. I'm just going to go ahead and publish it.
 
-And then, confirmed. I want to publish it now. So I'll show y'all... what happens from here is that in Layout, I'll reload this... so now I have the story here that I can put into layout and so I just can drag and drop that here, and I can push those changes live. The pink things are ones that are pinned into layout. The white ones will just flow through as things are published to the home page so you have kind of like a combination of river and pinned things. I can change the different — I can change the layout of my home page from here. So this is what the home page looks like right now. So I just put that story here into the second position. One of the things that I have turned on here is our multiarmed bandit headline and photo and deck testing capability that we call Optimize that allows you to add different headline variations and see which one's when. There's a fast algorithm for that. Let's see how much time I have left? Zero! I'm done! 
+And then, confirmed. I want to publish it now. So I'll show y'all... what happens from here is that in Layout, I'll reload this... so now I have the story here that I can put into layout and so I just can drag and drop that here, and I can push those changes live. The pink things are ones that are pinned into layout. The white ones will just flow through as things are published to the home page so you have kind of like a combination of river and pinned things. I can change the different — I can change the layout of my home page from here. So this is what the home page looks like right now. So I just put that story here into the second position. One of the things that I have turned on here is our multiarmed bandit headline and photo and deck testing capability that we call Optimize that allows you to add different headline variations and see which one's when. There's a fast algorithm for that. Let's see how much time I have left? Zero! I'm done!
 
 MARILYN: The vortex! Live demos, right? Okay. Hi, everyone, I'm Sharilyn Hufford and I work on the news platform teams the the New York Times. So I'm one of the many, many people ≈ who have worked on our CMS called Scoop over the years. It's about a decade old now at this point, I think. It replaced KNews as our digital publishing system. Erika is laughing over in the back. Would everybody in the room who has worked on Scoop in the past, or works on Scoop in some capacity would you now just raise your hand and say hi to everyone. So these are the people who are the true experts on this. So I'm going to do my best to represent here and show off all of the good work that they do. So this is our main dashboard when you log in to Scoop. I'm set up now as a reporter. So this would be a reporter's view when you log in. We've got some stories that you created, some things that have been assigned to you. You can budget some articles and some of your recent things.
 
@@ -157,15 +157,15 @@ ALBERT: Okay. Thank you to everyone who presented. That was really awesome. We h
 
 AUDIENCE: Can everyone just describe their tech stacks? I'm not sure everybody heard that. Could all the presenters quickly describe your tech stacks? So Python, Node, Java, whatever?
 
-TREI: I'm the wrong person to answer this question. Take it over, Noz! 
+TREI: I'm the wrong person to answer this question. Take it over, Noz!
 
-SAM: I think two people are sitting next to each other. 
+SAM: I think two people are sitting next to each other.
 
-NOZLEE: We've got a Node app and a series of microservices. Oh, you don't know that I work at Chorus! 
+NOZLEE: We've got a Node app and a series of microservices. Oh, you don't know that I work at Chorus!
 
-TIM: I work on Copilot CMS. It's and ember front-end, it's a Node.js service and it's a distributed set of individual services per brand that are deployed individually that are connected through a centralized API. 
+TIM: I work on Copilot CMS. It's and ember front-end, it's a Node.js service and it's a distributed set of individual services per brand that are deployed individually that are connected through a centralized API.
 
-SHARILYN: I was gonna say, hand it to Joe. 
+SHARILYN: I was gonna say, hand it to Joe.
 
 JOE: I'm sorry if this is not really accurate. So it's JavaScript in the front,. So it's actually built on top of ProseMirror. And the backend is Java and it's mostly Backbone and React.
 
@@ -177,7 +177,7 @@ ANAÏS: So ours is built on a variety. We're moving from Angular to React on the
 
 AUDIENCE: So this is first for the — when Poet was a standalone project one of the neat things was let people edit at once. Is that still thing that something you can do. And for the other folks. For multiple people editing the story, yes, no, later? Yes, no, or later, being like, we're working on it but it doesn't do it now.
 
-ALBERT: I think we saw for Scoop and Chorus, yes. 
+ALBERT: I think we saw for Scoop and Chorus, yes.
 
 TIM: Collaboratively editing for Chorus?
 
@@ -191,19 +191,19 @@ ANAÏS: So, like, everything.
 
 ALBERT: And the other question is about collaborative editing.
 
-ANAÏS: So collaborative editing. So currently, we have a logging feature because that's kind of where our clients are. One person at a time. But I think we're kind of considering making that configurable and so we're looking at different use cases around editing at the same time, and doing some usability testing there to kind of decide how to best handle that, and then from there, we'll make it configurable by organization. 
+ANAÏS: So collaborative editing. So currently, we have a logging feature because that's kind of where our clients are. One person at a time. But I think we're kind of considering making that configurable and so we're looking at different use cases around editing at the same time, and doing some usability testing there to kind of decide how to best handle that, and then from there, we'll make it configurable by organization.
 
 BO: And so we log ours to one person at a time. People want to track but the priority of that is currently unknown to me.
 
-ALBERT: Okay. 
+ALBERT: Okay.
 
 AARON: I'm wondering how many people are on the teams that built all of this.
 
-ANAÏS: Uh... so the other day, I heard 500 engineers but I'm not sure that's true. I don't know for sure. But the average — the average team size is, like, five to six people. And then, like, the team handles the product. So they, like, handle their backend database and their microservices and each product within Arc has, like, six engineers on it. 
+ANAÏS: Uh... so the other day, I heard 500 engineers but I'm not sure that's true. I don't know for sure. But the average — the average team size is, like, five to six people. And then, like, the team handles the product. So they, like, handle their backend database and their microservices and each product within Arc has, like, six engineers on it.
 
-SAM: We have a mission system. So an editorial tools mission are five engineering teams. I think each, an EM, and four devs, and a PM, and historically one of those has been for the Copilot UI. You saw that one owns Kata APIs, and the other three, the other products we demoed today, but the Syndication product, and the video product and the... 
+SAM: We have a mission system. So an editorial tools mission are five engineering teams. I think each, an EM, and four devs, and a PM, and historically one of those has been for the Copilot UI. You saw that one owns Kata APIs, and the other three, the other products we demoed today, but the Syndication product, and the video product and the...
 
-SHARILYN: I'm deferring this to Maddy. 
+SHARILYN: I'm deferring this to Maddy.
 
 BO: At Industry Dive for the better part of building the CMS, it was a smaller team for four to seven. We certainly got to two starter teams of five to six people.
 
@@ -215,21 +215,21 @@ AUDIENCE: How do all of your different systems work with and I guess make space 
 
 [ Laughter ]
 
-ALBERT: Coming over to this side again. 
+ALBERT: Coming over to this side again.
 
 SAM: Me? Non-standard stories?
 
-ANAÏS: Oh, yeah, so I'm building a product right now called Home. So instead of disaggregating activity across the home page we're creating a configurable dashboard that basically lets you create your own workflow tan individual level so I think that would probably be how we're going to address that by basically creating a marketplace of tools where third-party tools can be implemented there and you can download them onto your dashboard. And then, our first proof of concept of that is we are trying to get ChartBeat data through basically connect analytics to in-the-moment actions like adding to a collection on the home page and pitching it. So I think we'll continue to aggregate data across our third-party tools and add it to the system to see what might make happy or encourage our users. 
+ANAÏS: Oh, yeah, so I'm building a product right now called Home. So instead of disaggregating activity across the home page we're creating a configurable dashboard that basically lets you create your own workflow tan individual level so I think that would probably be how we're going to address that by basically creating a marketplace of tools where third-party tools can be implemented there and you can download them onto your dashboard. And then, our first proof of concept of that is we are trying to get ChartBeat data through basically connect analytics to in-the-moment actions like adding to a collection on the home page and pitching it. So I think we'll continue to aggregate data across our third-party tools and add it to the system to see what might make happy or encourage our users.
 
-SAM: We have it interactive in our — which lets people — I didn't show it, but we also did a lot of branding content for that so that's where that's, to me, that stuff most often. 
+SAM: We have it interactive in our — which lets people — I didn't show it, but we also did a lot of branding content for that so that's where that's, to me, that stuff most often.
 
-SHARILYN: All those who know about interactive news or graphics. Because you're the people that have to do this. One of the promises of Oak is that it's going to be easier to do that and hopefully that's coming sooner or later but, you know, it's always a challenge and I don't know if one of you want to talk about that. 
+SHARILYN: All those who know about interactive news or graphics. Because you're the people that have to do this. One of the promises of Oak is that it's going to be easier to do that and hopefully that's coming sooner or later but, you know, it's always a challenge and I don't know if one of you want to talk about that.
 
 TREI: You should talk to Keaty and Nozlee but we have something called Custom Storytelling Kit which allows to you tell your story all in Chorus and version history and there's an API that you can access via CLI and basically build out a little scaffold of an app and build out those things there so those things can talk to each other. Is that right? Yeah, I used to know how to write code...
 
 AUDIENCE: Around, above, through, and beside. There's a fields throughout different asset types all throughout Scoop that has escape hashes that you can put markup API points to get all that in there. It depends on what kinds of story or content types and page types.
 
-ALBERT: Thanks I should have made you all sit... 
+ALBERT: Thanks I should have made you all sit...
 
 BO: We have a graphics department and design team that's separate from the software team that handles all the graphics and front-end stuff that editors request and then in our editor, something we didn't show is you can flip over to the raw HTML of the WYSIWYG and our front-end designers will help input whatever HTML they're coding into it and you can look at it and they've collaborated very well that way so far is an advantage of having a little bit of a smaller company right now.
 

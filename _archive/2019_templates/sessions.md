@@ -2,7 +2,7 @@
 layout: layout
 section: sessions
 photocredit: Erik Westra
-photocredit_url: http://www.westraco.com/
+photocredit_url: https://www.westraco.com/
 permalink: /sessions/
 title: SRCCON 2019 — Sessions
 ---
@@ -41,10 +41,10 @@ We'd also like to thank the folks who helped us select this amazing slate of ses
 
 Thank you, community reviewers!
 
-* Allie Kanik
-* Andrea Suozzo
-* Ariana Giorgi
-* Audrey Carlsen
-* Dana Amihere
-* Dan Keemahill
-* Mike Stucka
+- Allie Kanik
+- Andrea Suozzo
+- Ariana Giorgi
+- Audrey Carlsen
+- Dana Amihere
+- Dan Keemahill
+- Mike Stucka

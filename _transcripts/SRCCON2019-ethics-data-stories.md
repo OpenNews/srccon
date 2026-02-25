@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — The Scramble Suit: Creating harm prevention guidelines for newsroom data"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # The Scramble Suit: Creating harm prevention guidelines for newsroom data
 

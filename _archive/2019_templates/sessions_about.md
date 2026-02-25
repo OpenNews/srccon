@@ -2,7 +2,7 @@
 layout: layout
 section: sessions
 photocredit: Erik Westra
-photocredit_url: http://www.westraco.com/
+photocredit_url: https://www.westraco.com/
 permalink: /sessions/about/
 title: SRCCON 2019 — About Our Sessions
 ---
@@ -13,9 +13,9 @@ SRCCON is built around two days of peer-led conversations and hands-on workshops
 
 Our program for SRCCON is built around key community values:
 
-* **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
-* **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
-* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
+- **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
+- **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+- **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
 
 ## How Do Collaborative Sessions Work?
 
@@ -39,19 +39,19 @@ We encourage attendees to bring their whole selves into SRCCON, and our schedule
 
 Effective SRCCON facilitation is about effort and preparation more than expertise. Our faciliators plan and guide sessions, ask great questions, share what they know, and learn from their peers. We find that the best sessions are often led by facilitators who:
 
-* have a clear outcome in mind—what you want people to leave with,
-* know what they can realistically cover in the time allotted,  
-* build a clear outline for the session, but deviate from it as needed,
-* actively seek to run balanced, inclusive conversations, and
-* make a few simple backup plans in case a session gets a larger or smaller audience than expected.
+- have a clear outcome in mind—what you want people to leave with,
+- know what they can realistically cover in the time allotted,
+- build a clear outline for the session, but deviate from it as needed,
+- actively seek to run balanced, inclusive conversations, and
+- make a few simple backup plans in case a session gets a larger or smaller audience than expected.
 
 Facilitators who have a harder time have usually tried to fit too much stuff into too little time, or are underprepared for guiding an active conversation. To give you a taste of how SRCCON facilitators have turned their plans into action, here are some writeups from previous participants:
 
-* [3 Ways To Facilitate A Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/), by ProPublica’s Sisi Wei
-* [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
-* [Teaching and Brainstorming Inclusive Technical Metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product's Nicole Zhu
-* [Stuck in a Rut? Tackle Newsroom Frustrations With Board Games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont's Seven Days
-* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
+- [3 Ways To Facilitate A Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/), by ProPublica’s Sisi Wei
+- [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
+- [Teaching and Brainstorming Inclusive Technical Metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product's Nicole Zhu
+- [Stuck in a Rut? Tackle Newsroom Frustrations With Board Games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont's Seven Days
+- [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
 
 If running a session sounds like a lot of effort…it is! But it can also be really energizing, and it means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they're willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you're pitching solo and would like someone to work with.
 
@@ -61,8 +61,8 @@ If running a session sounds like a lot of effort…it is! But it can also be rea
 
 We archive each year's conference site and schedule, so if you'd like to take a look back at the topics we've tackled before, dig in!
 
-* [SRCCON 2018](https://2018.srccon.org/schedule/)
-* [SRCCON 2017](https://2017.srccon.org/schedule/)
-* [SRCCON 2016](https://2016.srccon.org/schedule/)
-* [SRCCON 2015](https://2015.srccon.org/schedule/)
-* [SRCCON 2014](https://2014.srccon.org/schedule/)
+- [SRCCON 2018](https://2018.srccon.org/schedule/)
+- [SRCCON 2017](https://2017.srccon.org/schedule/)
+- [SRCCON 2016](https://2016.srccon.org/schedule/)
+- [SRCCON 2015](https://2015.srccon.org/schedule/)
+- [SRCCON 2014](https://2014.srccon.org/schedule/)

@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — Why it matters — Designing stories for impact"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # Why it matters — Designing stories for impact
 
@@ -26,7 +26,7 @@ ANJANETTE: I think we're frozen.
 
 KAI: Oh, this is a really fun start. Hold on. Hold on. We can do this. Ah-ha! All right.
 
-ANJANETTE: There we go. So we're talking today about designing for impact, and I'm Anjanette Delgado. Right now I'm the senior news director for digital at the Detroit Free Press. And I've been there for about a year. Yay for Detroit. Fantastic. I've been with Gannett since '99, so quite a long time in different markets through that. I'm also a contributor to the Media Impact Project at the Norman Lear Center. If you haven't checked it out, please do. It's a fascinating project. And built an impact tracker with my team. 
+ANJANETTE: There we go. So we're talking today about designing for impact, and I'm Anjanette Delgado. Right now I'm the senior news director for digital at the Detroit Free Press. And I've been there for about a year. Yay for Detroit. Fantastic. I've been with Gannett since '99, so quite a long time in different markets through that. I'm also a contributor to the Media Impact Project at the Norman Lear Center. If you haven't checked it out, please do. It's a fascinating project. And built an impact tracker with my team.
 
 KAI: I'm Kai. Anjanette and I talked about this recently and why impact matters more for me. So I'm at a project within Newsday, and we're funded by a non-profit grant. So they don't care much about page views or time on site, but they care about impact. We have to show we pulled something off. So we started talking about this and this is how this came to be.
 
@@ -166,7 +166,7 @@ AUDIENCE: So our starting point was: America has never gone this long without hi
 
 ANJANETTE: So you took a challenge. Great solution. And then discovered all the additional challenges that you would have in that. Yeah. Which happens.
 
-KAI: And back here, correct? My Google Fit app is gonna be happy with me. 
+KAI: And back here, correct? My Google Fit app is gonna be happy with me.
 
 AUDIENCE: Our group... Maybe we're just that curmudgeonly. We generally had a question about: What do you do if there's no clear offramp? There's no solution, there's no villain. There's no hero. Just... Bad... Stuff.
 

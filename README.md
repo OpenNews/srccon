@@ -1,16 +1,18 @@
 ## SRCCON
 
-This is the website for [SRCCON](http://www.srccon.org), the yearly conference for newsroom developers, designers, data reporters, and others who work with code in and around newsrooms.
+This is the website for [SRCCON](https://www.srccon.org), the yearly conference for newsroom developers, designers, data reporters, and others who work with code in and around newsrooms.
 
 ## How to update the SRCCON site
 
 ### Local Development
 
 Prerequisites:
+
 - Ruby 3.2 or higher (see `.ruby-version`)
 - Bundler 2.0 or higher
 
 If you need to install Ruby:
+
 - macOS/Linux: Use [rbenv](https://github.com/rbenv/rbenv) or [rvm](https://rvm.io/)
 - macOS with Homebrew: `brew install ruby`
 - Windows: Use [RubyInstaller](https://rubyinstaller.org/)
@@ -23,9 +25,10 @@ If you need to install Bundler: `gem install bundler`
 bundle exec rake default  # Runs :build, :check and :serve commands with file watching
 ```
 
-View at [http://localhost:4000](http://localhost:4000/)
+View at [https://localhost:4000](https://localhost:4000/)
 
 Alternatively:
+
 ```bash
 bundle exec rake serve    # Simple local server with live reload
 ```
@@ -40,9 +43,10 @@ bundle exec rake default            # runs :clean, :build, :serve in a loop
 ```
 
 ### Testing changes locally
-* Clone this repository to your local machine.
-* For minor updates, work directly in the `staging` branch. For major updates, or if you're working on long-term changes to the site, create a new feature branch.
-* NOTE: You do _not_ need to commit updates to your local `_site` directory -- it is `.gitignored`. But it is what copies over to S3 when you run your selection within the `bundle exec rake deploy:*` commands. after you run `bundle exec rake build` or `bundle exec rake serve`. 
+
+- Clone this repository to your local machine.
+- For minor updates, work directly in the `staging` branch. For major updates, or if you're working on long-term changes to the site, create a new feature branch.
+- NOTE: You do _not_ need to commit updates to your local `_site` directory -- it is `.gitignored`. But it is what copies over to S3 when you run your selection within the `bundle exec rake deploy:*` commands. after you run `bundle exec rake build` or `bundle exec rake serve`.
 
 You only need to commit new or updated markdown documents and templates, and new or updated static media files.
 
@@ -80,14 +84,16 @@ This project uses GitHub Actions for automated deployment to AWS S3 and CloudFro
 - Other branches → Test builds only (no deployment)
 
 ### Pushing to staging
-* When you're ready to have someone review a site update, update the `staging` branch in GitHub. If you're working in `staging` locally, you just need to push your code changes. If you're working in a separate feature branch, push that branch to GitHub and then open a pull request into `staging` and merge it.
-* A commit to the `staging` branch on GitHub will trigger an automatic build of the SRCCON staging site via GitHub Actions. 
-* The GitHub Actions workflow can take a minute or two to complete. Your changes will not be visible on the staging site immediately, but they'll be there quickly.
+
+- When you're ready to have someone review a site update, update the `staging` branch in GitHub. If you're working in `staging` locally, you just need to push your code changes. If you're working in a separate feature branch, push that branch to GitHub and then open a pull request into `staging` and merge it.
+- A commit to the `staging` branch on GitHub will trigger an automatic build of the SRCCON staging site via GitHub Actions.
+- The GitHub Actions workflow can take a minute or two to complete. Your changes will not be visible on the staging site immediately, but they'll be there quickly.
 
 ### Pushing to production
-* Review your changes on the staging site, and if everything looks OK, come back to this repo and open a pull request from `staging` into `main`.
-* Merging a pull request into `main`, or pushing any commit to the `main` branch, will trigger an automatic build of the production site at [srccon.org](https://srccon.org) via GitHub Actions. 
-* The production site is delivered through Amazon CloudFront so that we can serve a secure, https-enabled [srccon.org](https://srccon.org). CloudFront also caches everything for performance. The rebuild process triggers an invalidation of the entire cache, but it still may take up to 10 minutes for site changes to be reflected on production.
+
+- Review your changes on the staging site, and if everything looks OK, come back to this repo and open a pull request from `staging` into `main`.
+- Merging a pull request into `main`, or pushing any commit to the `main` branch, will trigger an automatic build of the production site at [srccon.org](https://srccon.org) via GitHub Actions.
+- The production site is delivered through Amazon CloudFront so that we can serve a secure, https-enabled [srccon.org](https://srccon.org). CloudFront also caches everything for performance. The rebuild process triggers an invalidation of the entire cache, but it still may take up to 10 minutes for site changes to be reflected on production.
 
 ### GitHub Actions Workflows
 

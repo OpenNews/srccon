@@ -2,14 +2,14 @@
 layout: layout
 section: sessions
 photocredit: Erik Westra
-photocredit_url: http://www.westraco.com/
+photocredit_url: https://www.westraco.com/
 permalink: /sessions/proposals/
 title: SRCCON 2019 — Session Proposals
 ---
 
 # SRCCON 2019 Session Proposals
 
-Thank you to everyone who submitted a session idea for SRCCON this year! After we review each proposal, we'll notify everyone about their session status by May 10. And between now and then, we hope reading through the proposals here helps spark ideas about how _you'd_ like to participate. 
+Thank you to everyone who submitted a session idea for SRCCON this year! After we review each proposal, we'll notify everyone about their session status by May 10. And between now and then, we hope reading through the proposals here helps spark ideas about how _you'd_ like to participate.
 
 Our call for participation form for tickets remains open as space is available, so [tell us if you'd like to be there](/particpiation/form).
 

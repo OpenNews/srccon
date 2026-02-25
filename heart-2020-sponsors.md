@@ -20,10 +20,9 @@ Interested in having your company or organization get involved? [Find out more a
     <p>Craig Newmark Philanthropies was created by craigslist founder Craig Newmark to support and connect people and drive broad civic engagement. It works to advance people and grassroots organizations that are getting stuff done in areas that include trustworthy journalism & the information ecosystem, voter protection, gender diversity in technology, and veterans & military families. For more information, please visit: <a href="https://craignewmarkphilanthropies.org">CraigNewmarkPhilanthropies.org</a>.</p>
 </div>
 
-
 <div class="page-divider"><span>Event sponsors</span></div>
 <div class="sponsor-block secondary">
-    <a href="http://www.democracyfund.org"><img src="/media/img/partners/democracy_fund.png" alt="Democracy Fund"></a>
+    <a href="https://www.democracyfund.org"><img src="/media/img/partners/democracy_fund.png" alt="Democracy Fund"></a>
 </div>
 
 <div class="sponsor-block secondary">
@@ -37,6 +36,5 @@ Interested in having your company or organization get involved? [Find out more a
 <div class="sponsor-block secondary">
     <a href="https://independencemedia.org/"><img src="/media/img/partners/independence_media.png" alt="Independence Public Media Foundation"></a>
 </div>
-
 
 {% include srccon_heart_2020_footer.html %}

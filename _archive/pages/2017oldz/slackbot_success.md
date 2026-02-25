@@ -10,4 +10,4 @@ permalink: /slackbot/success/index.html
 
 Thanks for adding SRCCON Transcript Alerts to your team Slack. We'll ping you soon!
 
-<div id="sponsortag"><p><span>Transcriptions at SRCCON are made possible by</span> <a href="http://facebook.com"><img src="/media/img/partners/2017/Facebook-06-2015-Blue-on-White.jpg" class="nyt" alt="Facebook"></a>
+<div id="sponsortag"><p><span>Transcriptions at SRCCON are made possible by</span> <a href="https://facebook.com"><img src="/media/img/partners/2017/Facebook-06-2015-Blue-on-White.jpg" class="nyt" alt="Facebook"></a>

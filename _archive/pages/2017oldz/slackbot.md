@@ -8,9 +8,9 @@ background: remote
 permalink: /slackbot/index.html
 ---
 
-We're excited to be offering live transcription at SRCCON again this year. About half of our 2017 sessions will be transcribed (they're all marked on [the schedule](http://schedule.srccon.org)), and we hope people feel able to take part even if they can't join us in Minneapolis.
+We're excited to be offering live transcription at SRCCON again this year. About half of our 2017 sessions will be transcribed (they're all marked on [the schedule](https://schedule.srccon.org)), and we hope people feel able to take part even if they can't join us in Minneapolis.
 
-We'll [let you know on Twitter](http://twitter.com/srccon) when a transcribed session is about to start, but you can also get alerts sent right into your team's Slack. Add the "SRCCON Transcript Alerts" bot, and you'll get a reminder and a link to the live transcript as these sessions get ready to begin.
+We'll [let you know on Twitter](https://twitter.com/srccon) when a transcribed session is about to start, but you can also get alerts sent right into your team's Slack. Add the "SRCCON Transcript Alerts" bot, and you'll get a reminder and a link to the live transcript as these sessions get ready to begin.
 
 **Note:** If you added this Slackbot for last year's SRCCON, you _will_ need to auth it again for SRCCON 2017.
 
@@ -18,4 +18,4 @@ We'll [let you know on Twitter](http://twitter.com/srccon) when a transcribed se
 
 The "Add to Slack" button will ask you to authorize access for a team you belong to, and choose a channel to receive the alerts. That's it!
 
-<div id="sponsortag"><p><span>Transcriptions at SRCCON are made possible by</span> <a href="http://facebook.com"><img src="/media/img/partners/2017/Facebook-06-2015-Blue-on-White.jpg" class="nyt" alt="Facebook"></a>
+<div id="sponsortag"><p><span>Transcriptions at SRCCON are made possible by</span> <a href="https://facebook.com"><img src="/media/img/partners/2017/Facebook-06-2015-Blue-on-White.jpg" class="nyt" alt="Facebook"></a>

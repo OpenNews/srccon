@@ -8,7 +8,8 @@ background: stickerdots
 byline: Erik Westra
 permalink: /sessions/index.html
 ---
-The following sessions have been confirmed for SRCCON 2016, and you can also [see them in our just-released 2016 schedule](http://schedule.srccon.org).
+
+The following sessions have been confirmed for SRCCON 2016, and you can also [see them in our just-released 2016 schedule](https://schedule.srccon.org).
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.sessions %}
