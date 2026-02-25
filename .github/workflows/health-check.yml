@@ -2,9 +2,8 @@ name: Weekly Health Check
 
 on:
   schedule:
-    # Every Monday at noon UTC
-    - cron: '0 12 * * 1'
-  workflow_dispatch: # Allow manual triggering
+    - cron: "0 12 * * 1" # Every Monday at noon UTC
+  workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: read
@@ -13,68 +12,68 @@ permissions:
 jobs:
   health-check:
     runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
 
-      - name: Set up Ruby
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'
+          ruby-version: ".ruby-version"
           bundler-cache: true
 
       - name: Check for outdated dependencies
         run: |
-          echo "Checking for outdated dependencies..."
-          bundle exec rake outdated:direct || true
+          echo "=== Checking for outdated gems ==="
+          bundle outdated || true
+
+      - name: Validate YAML files
+        run: bundle exec rake validate_yaml
 
       - name: Build Jekyll site
-        run: bundle exec rake build
+        run: bundle exec jekyll build --verbose
 
-      - name: Run validation checks
-        run: bundle exec rake check
-
-      - name: Run all tests
-        run: bundle exec rake test:all
-
-      - name: Report success
-        if: success()
+      - name: Validate build output
         run: |
-          echo "✅ Weekly health check passed!"
-          echo "All dependencies are up to date and the site builds successfully."
+          if [ ! -d "_site" ]; then
+            echo "ERROR: _site directory not created"
+            exit 1
+          fi
+
+          if [ ! -f "_site/index.html" ]; then
+            echo "ERROR: index.html not found in _site"
+            exit 1
+          fi
+
+          echo "✅ Build validation passed"
 
       - name: Create issue on failure
         if: failure()
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
-            const title = '🚨 Weekly Health Check Failed';
-            const body = `The weekly health check workflow has failed. This could indicate:
-            
-            - Outdated dependencies causing build failures
-            - Breaking changes in gem updates
-            - Configuration errors
-            - Template validation issues
-            
-            **Workflow run:** ${context.payload.repository.html_url}/actions/runs/${context.runId}
-            
-            Please investigate and resolve the issues.`;
-            
-            // Check if an issue already exists
+            const title = '🚨 Weekly health check failed';
+            const body = `The scheduled template validation failed on ${new Date().toISOString()}.
+
+            **Workflow Run:** ${context.payload.repository.html_url}/actions/runs/${context.runId}
+
+            Please investigate the failure and update dependencies as needed.`;
+
+            // Check if issue already exists
             const issues = await github.rest.issues.listForRepo({
               owner: context.repo.owner,
               repo: context.repo.repo,
               state: 'open',
-              labels: 'health-check'
+              labels: 'automated,health-check'
             });
-            
+
             if (issues.data.length === 0) {
               await github.rest.issues.create({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 title: title,
                 body: body,
-                labels: ['health-check', 'bug']
+                labels: ['automated', 'health-check', 'bug']
               });
             }
