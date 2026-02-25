@@ -31,4 +31,5 @@ We can't wait to hear about your idea for SRCCON 2017! After we give your propos
 
   new FormRenderer({"project_id":"oFHHaY75VD5E87aD", "afterSubmit": "/sessions/proposals/thanks"});
 </script>
+
 {% endcomment %}
