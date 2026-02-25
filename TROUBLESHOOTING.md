@@ -31,16 +31,21 @@ Common issues and solutions for SRCCON site development and deployment.
 
 Most common issues can be resolved using built-in Rake tasks. See [tasks/README.md](tasks/README.md) for complete documentation.
 
-1. `bundle exec rake setup` - Initialize new site from template (first-time only)
+1. `bundle exec rake validate_yaml` - Validate YAML syntax and duplicate keys
 2. `bundle exec rake build` - Build the Jekyll site
 3. `bundle exec rake serve` - Build and serve the site locally at https://localhost:4000
-   - 3a. Add `--trace` flag for detailed error output if build fails
-   - 3b. Server auto-rebuilds on file changes (except `_config.yml` and `_data/*.yml`)
+
+- 3a. Add `--trace` to the rake command for detailed error output
+- 3b. Server auto-rebuilds on file changes (except `_config.yml` and `_data/*.yml`)
+
 4. `bundle exec rake clean` - Clear Jekyll cache and built files
 5. `bundle exec rake check` - Validate configuration has been updated from template defaults
-6. `bundle exec rake format` - Auto-fix code formatting
-7. `bundle exec rake lint` - Check code formatting
-8. `bundle exec rake outdated` - Check for outdated gems
+6. `bundle exec rake test` - Run core local validation checks
+7. `bundle exec rake review:external_links` - Run external/public link audit
+8. `bundle exec rake review:compare_deployed_sites` - Compare deployed staging vs production content
+9. `bundle exec rake format` - Auto-fix code formatting
+10. `bundle exec rake lint` - Check code formatting
+11. `bundle exec rake outdated` - Check for outdated gems
 
 ## Common Error Messages
 
@@ -62,11 +67,11 @@ Most common issues can be resolved using built-in Rake tasks. See [tasks/README.
 
 ## Setup & Configuration
 
-### New site setup fails
+### Initial repository/bootstrap issues
 
 - Ensure you're in the repository root with `_config.yml` present
-- Run with trace for details: `bundle exec rake setup --trace`
-- If not in a git repo: `git init`, commit files, add remote, push to GitHub, then retry
+- Run with trace for details: `bundle exec rake build --trace`
+- Install dependencies first: `bundle install` and `npm install`
 
 ### Configuration validation errors
 
@@ -161,7 +166,7 @@ Most common issues can be resolved using built-in Rake tasks. See [tasks/README.
 
 Before promoting staging to production, you can compare the deployed sites:
 
-- Run `bundle exec rake test:compare_deployed_sites` to crawl both staging and production
+- Run `bundle exec rake review:compare_deployed_sites` to crawl both staging and production
 - Reviews all pages for content differences
 - Highlights significant changes (>10% size difference)
 - Helps catch unintended content changes before they go live
@@ -206,7 +211,7 @@ Before promoting staging to production, you can compare the deployed sites:
 - Check paths are from site root: `/media/img/logo.png`
 - Load page locally and check browser console (F12) for 404 errors
 - Visually inspect pages for broken images (broken icon or alt text)
-- **Optional:** Check external links with `bundle exec rake test:external_links` (requires network access, slower)
+- **Optional:** Check external links with `bundle exec rake review:external_links` (requires network access, slower)
 
 ### CSS/JS not loading
 
@@ -225,7 +230,7 @@ Before promoting staging to production, you can compare the deployed sites:
 4. **Browser console:** Open DevTools (F12) - check for 404s or JavaScript errors
 5. **Mobile view:** Toggle device toolbar in DevTools to check responsive layout
 6. **Navigation:** Click through main navigation links to verify no broken pages
-7. **Optional:** Run `bundle exec rake test:external_links` to validate external URLs (not required, but helpful for catching broken partner/sponsor links)
+7. **Optional:** Run `bundle exec rake review:external_links` to validate external URLs (not required, but helpful for catching broken partner/sponsor links)
 
 ### Code formatting
 
