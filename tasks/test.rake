@@ -38,10 +38,17 @@ namespace :test do
     Dir
       .glob("**/*.{html,md}", File::FNM_DOTMATCH)
       .each do |file|
-        next if file.start_with?("_site/", ".git/", "vendor/", "node_modules/")
-        next if file == "TROUBLESHOOTING.md" # Contains example code with Liquid syntax
-        # TODO return to fix this
-        next if file.include?("_archive/") # Archive files may have old Liquid syntax that we don't want to block on
+        if file.start_with?(
+             "_site/",
+             ".git/",
+             ".github/",
+             ".vscode/",
+             "node_modules/",
+             "TROUBLE",
+             "READ",
+           )
+          next
+        end
 
         content = File.read(file)
         lines = content.split("\n")
@@ -133,14 +140,7 @@ namespace :test do
         content = File.read(file)
 
         # Common placeholders
-        %w[
-          TODO
-          YYYY
-          DATES
-          PLACE
-          VENUE
-          CITY
-        ].each do |placeholder|
+        %w[TODO YYYY DATES PLACE VENUE CITY].each do |placeholder|
           if content.include?(placeholder)
             # Count occurrences
             count = content.scan(/#{Regexp.escape(placeholder)}/).size
