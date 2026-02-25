@@ -2,7 +2,7 @@
 _site/
 .jekyll-cache/
 .sass-cache/
-temp/
+tmp/
 
 # Ruby/Bundler
 .bundle/
