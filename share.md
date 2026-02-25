@@ -91,6 +91,6 @@ But if you're looking for a bit more structure, we've included the following per
 - Try setting some ["SMART goals"](/share/smart-goals) to make a longer-term plan for how you want to make the event valuable
 - After the event, use the ["Get organized"](/share/get-organized) exercise to see what you learned and how you want to apply it to your work
 
-_This resource is part of the OpenNews After Party toolkit, developed by [Emma Carew Grovum](https://kimbap-media.com/). It's meant to help you get the most out of SRCCON—or any journalism event—and share what you learn with your own organization._
+_This resource is part of the OpenNews After Party toolkit, developed by [Emma Carew Grovum](https://emmacarewgrovum.com/). It's meant to help you get the most out of SRCCON—or any journalism event—and share what you learn with your own organization._
 
 _The toolkit is licensed CC BY-SA 4.0, and we'd love to see you use or adapt it for your own event—all we need is a link back here. We'd also be thrilled to hear how you put what you learn into practice, so please tweet us at #OpenNewsAfterParty!_

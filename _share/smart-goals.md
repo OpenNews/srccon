@@ -58,7 +58,7 @@ S - Specific, M - Measurable, A - Achievable, R - Relevant, T - Timebound
 - Items 6-10 could be “email those 5 financial advisors and ask for their rates.”
 - It also helps if you assign a timebox to each task: 5 minutes, 15 minutes, 1 hour, etc. If your list is organized by timed tasks, you will always be able to find something to do to make progress toward your goal, no matter how little time you have.
 
-_This resource is part of the OpenNews After Party toolkit, developed by [Emma Carew Grovum](https://kimbap-media.com/). It's meant to help you get the most out of SRCCON—or any journalism event—and share what you learn with your own organization. The toolkit is licensed CC BY-SA 4.0, and we'd love to see you use or adapt it for your own event—all we need is a link back here._
+_This resource is part of the OpenNews After Party toolkit, developed by [Emma Carew Grovum](https://emmacarewgrovum.com/). It's meant to help you get the most out of SRCCON—or any journalism event—and share what you learn with your own organization. The toolkit is licensed CC BY-SA 4.0, and we'd love to see you use or adapt it for your own event—all we need is a link back here._
 
 _We'd also be thrilled to hear how you put what you learn into practice, so please tweet us at #OpenNewsAfterParty, or if you have any questions, [let us know](mailto:info@opennews.org)!_
 

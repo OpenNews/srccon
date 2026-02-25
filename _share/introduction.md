@@ -32,7 +32,7 @@ What should I do next?
 - Enjoy your event! Take good notes (sketchnotes, digital notes, even pen and paper notes!), save tweets with great resources you want to come back to, collect business cards, and so on.
 - After your event, decide whether you want to work on improving your own work, sharing with your colleagues, or pushing for a larger institutional change. Then dive in!
 
-_This resource is part of the OpenNews After Party toolkit, developed by [Emma Carew Grovum](https://kimbap-media.com/). It's meant to help you get the most out of SRCCON—or any journalism event—and share what you learn with your own organization. The toolkit is licensed CC BY-SA 4.0, and we'd love to see you use or adapt it for your own event—all we need is a link back here._
+_This resource is part of the OpenNews After Party toolkit, developed by [Emma Carew Grovum](https://emmacarewgrovum.com/). It's meant to help you get the most out of SRCCON—or any journalism event—and share what you learn with your own organization. The toolkit is licensed CC BY-SA 4.0, and we'd love to see you use or adapt it for your own event—all we need is a link back here._
 
 _We'd also be thrilled to hear how you put what you learn into practice, so please tweet us at #OpenNewsAfterParty, or if you have any questions, [let us know](mailto:info@opennews.org)!_
 
