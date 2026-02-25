@@ -24,7 +24,7 @@ If you're still looking to make your lodging arrangements, we've got [a list of 
 
 ## During SRCCON
 
-We've tried to think of everything you might need, from [hearty, tasty meals](#meals-at-srccon) to [childcare](#childcare). You can check out [the full schedule now](https://2017.srccon.org/schedule//) (it's mobile friendly too!). When you arrive at the venue, we'll also have on-the-spot signups to host conversations about the "life" side of work/life balance on Thursday evening, and the "work" side during Friday lunch.
+We've tried to think of everything you might need, from [hearty, tasty meals](#meals-at-srccon) to [childcare](#childcare). You can check out [the full schedule now](https://2017.srccon.org/schedule/) (it's mobile friendly too!). When you arrive at the venue, we'll also have on-the-spot signups to host conversations about the "life" side of work/life balance on Thursday evening, and the "work" side during Friday lunch.
 
 Throughout SRCCON, we'll also have office hours (new this year) and a big job board for any positions you'd like to post. We'll have a signup sheet for the office hours, where you can block out an hour to chat one-on-one with participants about a project you're working on or maybe a position you're hiring for. We'll have post-its at the ready for your job posting needs as well.
 
