@@ -15,7 +15,7 @@ SRCCON is a hands-on conference with two days full of sessions—but the schedul
 
 SRCCON is built around peer-led conversations and hands-on workshops. Our sessions are highly collaborative, not a panel on a stage or a speaker running through slides. We look for sessions that include real interactivity and participation: design exercises, art and games, small-group work, role playing, even field trips—and we’re always interested in new ideas.
 
-SRCCON sessions last about 75 minutes, exploring cultural questions that help journalists work together better, new tools and techniques that people are excited about, and sessions that meet in the middle. Our schedule regularly extends beyond what you might expect at a journalism conference—take a look at [previous years](/sessions/about/#previous-years), learn more about [how sessions work](/sessions/about/), or check out the [schedule for SRCCON 2019](https://schedule.srccon.org)!
+SRCCON sessions last about 75 minutes, exploring cultural questions that help journalists work together better, new tools and techniques that people are excited about, and sessions that meet in the middle. Our schedule regularly extends beyond what you might expect at a journalism conference—take a look at [previous years](/sessions/about/#previous-years), learn more about [how sessions work](/sessions/about/), or check out the [schedule for SRCCON 2019](https://2019.srccon.org/schedule/)!
 
 Our program for SRCCON is built around key community values:
 

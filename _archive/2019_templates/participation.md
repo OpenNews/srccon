@@ -47,7 +47,7 @@ These ticket sales are part of what enables us to organize an event with 40 even
 
 ## Not Just Attendees, But Participants
 
-At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/program) who are ready to share their experiences and perspectives. Check out the [schedule for SRCCON 2019](https://schedule.srccon.org)!
+At SRCCON, everyone participates in some way. [Our hands-on sessions rely on participants](/program) who are ready to share their experiences and perspectives. Check out the [schedule for SRCCON 2019](https://2019.srccon.org/schedule/)!
 
 Tickets were allocated to participants via a [call for participation form](https://opennews.org/blog/srccon-2019-launch/), which is now closed.
 

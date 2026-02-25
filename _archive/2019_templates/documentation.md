@@ -15,7 +15,7 @@ It's important to us to keep SRCCON small enough to feel friendly and conversati
 
 ## Session Transcripts
 
-Our live-captioning team transcribed 16 sessions at SRCCON. Sessions that have stenographers are marked on [our full schedule](https://schedule.srccon.org), or you can use the lists below. If you were in a session and you notice something that needs to be fixed, we'd love your [pull requests](https://github.com/opennews/srccon) or [emails](mailto:srccon@opennews.org).
+Our live-captioning team transcribed 16 sessions at SRCCON. Sessions that have stenographers are marked on [our full schedule](https://2019.srccon.org/schedule/), or you can use the lists below. If you were in a session and you notice something that needs to be fixed, we'd love your [pull requests](https://github.com/opennews/srccon) or [emails](mailto:srccon@opennews.org).
 
 <div>
     <h3>Thursday transcribed sessions</h3>
@@ -37,7 +37,7 @@ Our live-captioning team transcribed 16 sessions at SRCCON. Sessions that have s
 
 ## Session Notes & Resources
 
-All sessions at SRCCON have a collaborative etherpad that facilitators and attendees can use to share links and capture notes on discussions as they take place. Each entry on [our schedule](https://schedule.srccon.org) has a link to that session's etherpad. We also collect slide decks, worksheets, and other documentation right here—if you're a facilitator and you have session resources to share, [let us know](mailto:srccon@opennews.org)!
+All sessions at SRCCON have a collaborative etherpad that facilitators and attendees can use to share links and capture notes on discussions as they take place. Each entry on [our schedule](https://2019.srccon.org/schedule/) has a link to that session's etherpad. We also collect slide decks, worksheets, and other documentation right here—if you're a facilitator and you have session resources to share, [let us know](mailto:srccon@opennews.org)!
 
 - ["“Abandon normal instruments”: Sideways strategies for defeating creative block" session notes](https://etherpad.opennews.org/p/SRCCON2019-creative-strategies)
 - ["“Abandon normal instruments”: Sideways strategies for defeating creative block" slides](https://docs.google.com/presentation/d/1urnD-lnBjX2TxGvqAuWpT_y5TKV3-vzgXd7pf7fYScc/edit#slide=id.g5d09e5e8e8_0_5)
