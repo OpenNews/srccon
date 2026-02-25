@@ -36,7 +36,7 @@ module ReviewHelpers
     normalized.gsub!(/[?&]utm_[a-z]+=[^&"'\s]+/, "")
     
     # Remove cache-busting query strings
-    normalized.gsub!(/\.(css|js|png|jpg|gif|svg)\?v=[a-zA-Z0-9]+/, '.\\1')
+    normalized.gsub!(/\.(css|js|png|jpg|gif|svg)\?v=[a-zA-Z0-9]+/, '.\1')
     
     # Normalize whitespace
     normalized.gsub!(/\s+/, " ")
