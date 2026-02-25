@@ -1,6 +1,51 @@
 require "html-proofer"
 require "yaml"
 
+# Helper module for review tasks to avoid polluting global scope
+module ReviewHelpers
+  def self.fetch_url(url)
+    uri = URI.parse(url)
+    
+    Net::HTTP.start(uri.host, uri.port,
+                    use_ssl: uri.scheme == 'https',
+                    open_timeout: 10,
+                    read_timeout: 30) do |http|
+      request = Net::HTTP::Get.new(uri.request_uri)
+      response = http.request(request)
+      
+      unless response.is_a?(Net::HTTPSuccess)
+        raise "HTTP #{response.code}: #{response.message}"
+      end
+      
+      response.body
+    end
+  rescue => e
+    raise "Failed to fetch #{url}: #{e.message}"
+  end
+
+  def self.normalize_html(content)
+    # Remove dynamic content that's expected to differ
+    normalized = content.dup
+    
+    # Remove timestamps and date strings (various formats)
+    normalized.gsub!(/\d{4}-\d{2}-\d{2}[T\s]\d{2}:\d{2}:\d{2}/, "TIMESTAMP")
+    normalized.gsub!(/\d{1,2}\/\d{1,2}\/\d{4}/, "DATE")
+    
+    # Remove session IDs and tracking codes
+    normalized.gsub!(/session[-_]?id["\s:=]+[a-zA-Z0-9]+/i, "SESSION_ID")
+    normalized.gsub!(/[?&]utm_[a-z]+=[^&"'\s]+/, "")
+    
+    # Remove cache-busting query strings
+    normalized.gsub!(/\.(css|js|png|jpg|gif|svg)\?v=[a-zA-Z0-9]+/, '.\\1')
+    
+    # Normalize whitespace
+    normalized.gsub!(/\s+/, " ")
+    normalized.strip!
+    
+    normalized
+  end
+end
+
 namespace :review do
 
   desc "Check external/public URLs in the built site (slower, requires network access)"
@@ -59,7 +104,6 @@ namespace :review do
   task :compare_deployed_sites do
     require "net/http"
     require "uri"
-    require "digest"
 
     # Load deployment config
     unless File.exist?("_config.yml")
@@ -108,12 +152,12 @@ namespace :review do
       prod_full_url = "#{prod_url}#{path}"
 
       begin
-        staging_content = fetch_url(staging_full_url)
-        prod_content = fetch_url(prod_full_url)
+        staging_content = ReviewHelpers.fetch_url(staging_full_url)
+        prod_content = ReviewHelpers.fetch_url(prod_full_url)
 
         # Normalize content for comparison (remove timestamps, session IDs, etc.)
-        staging_normalized = normalize_html(staging_content)
-        prod_normalized = normalize_html(prod_content)
+        staging_normalized = ReviewHelpers.normalize_html(staging_content)
+        prod_normalized = ReviewHelpers.normalize_html(prod_content)
 
         if staging_normalized != prod_normalized
           # Calculate similarity
@@ -177,40 +221,4 @@ namespace :review do
       puts "✅ No content differences detected between staging and production!"
     end
   end
-end
-
-# Helper methods for site comparison
-def fetch_url(url)
-  uri = URI.parse(url)
-  response = Net::HTTP.get_response(uri)
-  
-  unless response.is_a?(Net::HTTPSuccess)
-    raise "HTTP #{response.code}: #{response.message}"
-  end
-  
-  response.body
-rescue => e
-  raise "Failed to fetch #{url}: #{e.message}"
-end
-
-def normalize_html(content)
-  # Remove dynamic content that's expected to differ
-  normalized = content.dup
-  
-  # Remove timestamps and date strings (various formats)
-  normalized.gsub!(/\d{4}-\d{2}-\d{2}[T\s]\d{2}:\d{2}:\d{2}/, "TIMESTAMP")
-  normalized.gsub!(/\d{1,2}\/\d{1,2}\/\d{4}/, "DATE")
-  
-  # Remove session IDs and tracking codes
-  normalized.gsub!(/session[-_]?id["\s:=]+[a-zA-Z0-9]+/i, "SESSION_ID")
-  normalized.gsub!(/[?&]utm_[a-z]+=[^&"'\s]+/, "")
-  
-  # Remove cache-busting query strings
-  normalized.gsub!(/\.(css|js|png|jpg|gif|svg)\?v=[a-zA-Z0-9]+/, "\\1")
-  
-  # Normalize whitespace
-  normalized.gsub!(/\s+/, " ")
-  normalized.strip!
-  
-  normalized
 end
