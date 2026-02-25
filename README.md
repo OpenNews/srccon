@@ -71,15 +71,30 @@ bundle exec rake test:page_config       # Validate args at top of Markdown files
 bundle exec rake test:a11y              # Accessibility checks
 bundle exec rake test:performance       # File-size and performance warnings
 
-# Optional: External link validation (not part of default test suite)
-bundle exec rake test:external_links    # Check public/external URLs (slower, requires network)
+# Optional: External/public link review (separate namespace; slower, requires network)
+bundle exec rake review:external_links  # Check public/external URLs
 
-# Optional: Deployment QA (compare staging vs production)
-bundle exec rake test:compare_deployed_sites  # Compare staging and production content for differences
+# Optional: Deployment audit (compare staging vs production)
+bundle exec rake review:compare_deployed_sites  # Compare staging and production content for differences
 
 # Run 'em all
-bundle exec rake test                   # Comprehensive validation suite (excludes external_links and compare_deployed_sites)
+bundle exec rake test                   # Comprehensive validation suite (excludes review:* tasks)
 ```
+
+### Post-Deployment Review & Audit
+
+Use these tasks after deploys (or as part of scheduled maintenance) to audit site health and release quality:
+
+```bash
+# External/public link audit (network-dependent, slower)
+bundle exec rake review:external_links
+
+# Release audit: staging vs production content drift
+bundle exec rake review:compare_deployed_sites
+```
+
+- `review:external_links` helps detect outbound link rot, redirects, or policy changes on third-party sites.
+- `review:compare_deployed_sites` helps confirm that production reflects the intended staging state and flags unexpected content deltas.
 
 ### Branch Strategy & Deployment
 
@@ -98,7 +113,7 @@ This project uses GitHub Actions for automated deployment to AWS S3 and CloudFro
 ### Pushing to production
 
 - Review your changes on the staging site, and if everything looks OK, come back to this repo and open a pull request from `staging` into `main`.
-- **Optional QA step:** Run `bundle exec rake test:compare_deployed_sites` to see a detailed comparison of staging vs production content before merging.
+- **Optional QA step:** Run `bundle exec rake review:compare_deployed_sites` to see a detailed comparison of staging vs production content before merging.
 - Merging a pull request into `main`, or pushing any commit to the `main` branch, will trigger an automatic build of the production site at [srccon.org](https://srccon.org) via GitHub Actions.
 - The production site is delivered through Amazon CloudFront so that we can serve a secure, https-enabled [srccon.org](https://srccon.org). CloudFront also caches everything for performance. The rebuild process triggers an invalidation of the entire cache, but it still may take up to 10 minutes for site changes to be reflected on production.
 
