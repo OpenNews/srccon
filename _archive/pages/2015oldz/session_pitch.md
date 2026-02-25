@@ -7,6 +7,7 @@ sub-section: interior
 background: postits
 permalink: /sessions/pitch/index.html
 ---
+
 #Propose a Session
 
 Proposing a session only takes a few minutes, and we're here to help. We're [publishing already submitted proposals here](/sessions/proposals) (minus private info), and our [sessions page](/sessions) includes examples and detailed guidance. If you have questions or get stuck, [send us a note](mailto:srccon@opennews.org) and we'll get back to you ASAP.
@@ -29,4 +30,5 @@ new FormRenderer({
   "afterSubmit": "/sessions/thanks"
   });
   </script>
-  <noscript>Our proposal submission form uses javascript, but it looks you have it disabled in your browser. You can re-enable javascript and refresh this page, or <a href="https://screendoor.dobt.co/opennews/srccon-2015-proposals/responses/new">use this standalone form</a>."</noscript>
+
+<noscript>Our proposal submission form uses javascript, but it looks you have it disabled in your browser. You can re-enable javascript and refresh this page, or <a href="https://screendoor.dobt.co/opennews/srccon-2015-proposals/responses/new">use this standalone form</a>."</noscript>

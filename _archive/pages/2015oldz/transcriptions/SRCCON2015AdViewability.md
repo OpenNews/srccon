@@ -18,13 +18,11 @@ permalink: /docs/transcripts/adviewability/index.html
 
 ### Room: Ski-U-Mah
 
-
-
 All right, hi, everyone.
 
-AUDIENCE MEMBER:  Morning.
+AUDIENCE MEMBER: Morning.
 
-Morning. So we're going to talk about ads. I know everyone is really excited about ads. Yuri. 
+Morning. So we're going to talk about ads. I know everyone is really excited about ads. Yuri.
 
 [laughter]
 
@@ -34,14 +32,13 @@ And then who among you guys works with ads and ad servers?
 
 OK, so do you feel like we're pretty comfortable with like knowing where ads come from, and how they get counted and all that?
 
-AUDIENCE MEMBER:  When a mommy and daddy ...
+AUDIENCE MEMBER: When a mommy and daddy ...
 
 [laughter]
 
 OK, cool, and of the folks who are here, how many of you work on like what—in most organizations would be considered product versus how many work on sort of content? Like individual stories?
 
-
-AUDIENCE MEMBER:  Both, both.
+AUDIENCE MEMBER: Both, both.
 
 Both? Both? Everyone? Content? OK. And how—and I guess, you know, before I really get started, because you know, this is more of a discussion with you guys, how have the sites that you work on approached viewability? Does anyone have a—any back story to it?
 
@@ -49,7 +46,7 @@ We're approaching it kind of crudely and we don't like the way it works, but ess
 
 OK, so that sort of in a nutshell is the, you know, the—that's the change with viewability, right? Under sort of the old way of measuring ads, essentially, you know, you—your page makes a request at the FP or whatever ad server you use, comes back with some HTML string, puts that in a cross-domain frame and within that there's a little pixel that's fired and as soon as your page makes that http with request with that pixel, that's when the ad gets paid. Without some sticky elements and things like that, the challenge is when to measure when the ad actually comes in the page, and essentially at some point in the future, that's when the advertiser will pay for it. For now, for most publishers, viewability is more of a sort of like a—more of a selling point, you know, sites that have high—that can show that they have high viewability can command higher rates, even if they're—the actual basis that those rates are charged on is the same sort of http request for that pixel. So of folks who work on the product side of sites that are sort of moving into this sort of new world of viewability, have you—or what are some tools that you guys are used to try to measure that? Have you tried anything on your own, or have you relied on vendors?
 
- Chartbeat has a limited sort of how far people are scrolling down.
+Chartbeat has a limited sort of how far people are scrolling down.
 
 Chartbeat.
 
@@ -65,7 +62,7 @@ It tracks—it's rad. Not only does it do that, it also takes all of your—all 
 
 So we use Google ads so it integrates perfectly with that.
 
-So it seems like—well, you know, folks are familiar with how ads work, so I'm going to skip some of this stuff. But the big challenge with measuring this stuff and actually I should ask you:  What method does it use to measure viewability?
+So it seems like—well, you know, folks are familiar with how ads work, so I'm going to skip some of this stuff. But the big challenge with measuring this stuff and actually I should ask you: What method does it use to measure viewability?
 
 It tracks the entire page, I don't know. They have some—I just trust Google.
 
@@ -141,7 +138,7 @@ Jesse, hi. Yeah, so sticky page elements, you're seeing kind of more and more, a
 
 So, you know, so one question that I have for you all is like in the design process, if you're working on, you know, like a major interactive feature that kind of sits outside the normal templating of the site, which is, you know, which is what a lot of folks at conferences like this work on, a lot of sites are—a lot of publishers are paying more attention to those no longer sort of as experiments, but as actual, you know, like a core part of how, you know, how the news is delivered and how major stories are reported. Who should be responsible for design in those cases?
 
- Or rather, in the design process for a standard interactive feature, whose responsibility is it to account for viewability in ads in general? How does that work for you guys?
+Or rather, in the design process for a standard interactive feature, whose responsibility is it to account for viewability in ads in general? How does that work for you guys?
 
 Everyone is responsible.
 
@@ -171,11 +168,11 @@ OK. So what I was thinking would be a good exercise for the, you know, the next 
 
 [group activity]
 
- Are there any tables that do not have a computer? Oh, OK.
+Are there any tables that do not have a computer? Oh, OK.
 
 [group activity]
 
- ... ... ...
+... ... ...
 
 Hello! So at this point hopefully you all had a chance to kind of dig into some different sites and does anyone have a site that I can throw up here and you can kind of walk me through? What did you guys look at?
 
@@ -211,7 +208,7 @@ I mean it was a little bit less about viewability in this case rather than kind 
 
 Can you now resell that as being forward-looking for viewability.
 
->>
+> >
 
 After this conference.
 
@@ -257,7 +254,7 @@ I wanted to see if any other groups dug into any actual adds and looked at what,
 
 We can figure out what quartz is doing, Josh, and that didn't go too well. Reverse engineering, like we looked Javascript, nothing really there. How would you approach that? Before I was at ALLY, I was a developer at quartz, and did experiment a little bit with home-grown viewability measurement system and sort of like, you know, like we were talking about a little while ago, one of the challenges with it was that it, to the sales team, it was harder to sell. Those numbers even you know, no matter how accurate they may have been in reality, like how they were perceived in in the marketplace was very different than you know, a similar measurement coming from a third party. But the way that we approached it was, you know, with the luxury of being able to run our own Javascript in the page and inside the ad, we were able to sort of in some ways do accommodation of measuring, you know, where the ad I frame was sitting relative to the viewable area of the page, so the kind of page geometry method, but one potential drawback of that is if you're measuring, you know, the point at which this I frame, you know, let's say it was—let's say it was this thing here. This Sonos ad, it doesn't necessarily know when all of the assets inside that i frame have loaded, so that could be really slow, so you could have basically like 50 percent of an empty box in view for one second, and the way that we were able to get around that was a combination of like listening for that 50 percent in view for a second, and then sending some post messages back and forth that would sort of confirm on both sides that yes, the container is in view, and the actual assets inside the ad have loaded. It got a little complicated, but not too bad.
 
- So when you mention, Davis, that the sites you were using were using different vendors, what were some vendors you saw?
+So when you mention, Davis, that the sites you were using were using different vendors, what were some vendors you saw?
 
 Tag manager was one ...
 
@@ -265,5 +262,4 @@ Cool. Anyone else have anything that they wanted to toss up on the screen before
 
 [applause]
 
-[session ended] 
-
+[session ended]

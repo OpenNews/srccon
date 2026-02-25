@@ -18,7 +18,6 @@ permalink: /docs/transcripts/reportergraphics/index.html
 
 ### Room: Thomas Swain
 
-
 Hello. I'm David Yanofsky. I'm a reporter at Quartz.
 
 I'm Becky Bowers, and I'm an economics editor at the Wall Street Journal.
@@ -33,7 +32,7 @@ And first I have to say that I'm a huge fan of Chartbuilder, when I was with Pol
 
 And it's been a very important part of the reporting process for a lot of our reporters who tell me, it actually helps them to come up with the story that they might be writing to throw data into a very simple visualization tool.
 
-So we—well, first let's just talk about who is you guys who's here. How many of you work at newspapers? And how many—and how many in public media/broadcast, television? Anyone in television? One person in television? How many of you work at organizations that allow people outside of a typical or traditional graphics desk to make graphics? Cool. Cool. So we took this—we have been collecting responses in a survey, which you can see, you can see the responses up on etherpad, and it pretty much showed that. And one last question:  How many of you work in newsrooms that have that have less than 15 people in them. How many, 15-30? 30-100? More than 100?
+So we—well, first let's just talk about who is you guys who's here. How many of you work at newspapers? And how many—and how many in public media/broadcast, television? Anyone in television? One person in television? How many of you work at organizations that allow people outside of a typical or traditional graphics desk to make graphics? Cool. Cool. So we took this—we have been collecting responses in a survey, which you can see, you can see the responses up on etherpad, and it pretty much showed that. And one last question: How many of you work in newsrooms that have that have less than 15 people in them. How many, 15-30? 30-100? More than 100?
 
 I love the diversity in this group.
 
@@ -47,7 +46,7 @@ She still has it. And I still have it... mostly that people making these charts 
 
 Or just hideous. We do that, too.
 
-Or just hideous. So I guess we want to hear:  What have been your guys' fears in either allowing if you don't allow other people to do it, allowing people to do this, or in just your everyday thinking of non-specialists making charts?
+Or just hideous. So I guess we want to hear: What have been your guys' fears in either allowing if you don't allow other people to do it, allowing people to do this, or in just your everyday thinking of non-specialists making charts?
 
 Um, people using tools that aren't configurable, or can't bend to a house style. That's a fear.
 
@@ -97,7 +96,7 @@ Do you still publish the ones that don't need mustard?
 
 Not usually. I actually don't work there anymore. So I'm not clear what they're doing.
 
-So that seems like the perfect segue to our activity here. We want to make sure that we get as specific as possible in our conversation about what just might happen if we put tools in the hands of non-specialists. This is an activity called Run, Fix Kill. The following are real examples from our that you did. Some haven't been published. I'm not really sure. We're going to put up these one of 12. One at a time. Each table should have three colors:  Green, yellow, red. The key is here if you can read it. But green, run, yellow, fix.
+So that seems like the perfect segue to our activity here. We want to make sure that we get as specific as possible in our conversation about what just might happen if we put tools in the hands of non-specialists. This is an activity called Run, Fix Kill. The following are real examples from our that you did. Some haven't been published. I'm not really sure. We're going to put up these one of 12. One at a time. Each table should have three colors: Green, yellow, red. The key is here if you can read it. But green, run, yellow, fix.
 
 Approximation of a stoplight. So green and blue, even around the yellow, you're going to send pack and fix yourself, and then the pink you're going to say, "No."
 
@@ -400,4 +399,4 @@ One last, last thing.
 
 Last-last.
 
-If you're still interested in talking about this, especially the kind of the more technical side of implementing something like Chartbuilder in your newsroom, we're having a lunch conversation in Ski-U-Mah. Other than that, thanks, guys. Have fun. 
+If you're still interested in talking about this, especially the kind of the more technical side of implementing something like Chartbuilder in your newsroom, we're having a lunch conversation in Ski-U-Mah. Other than that, thanks, guys. Have fun.
