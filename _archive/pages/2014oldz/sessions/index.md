@@ -16,12 +16,11 @@ logo: srcconwhite.png
     <!-- Paste the markdowned tables here -->
 </div>
 
-
 <script type="text/javascript" src="/media/js/tabletop.js"></script>
 <script type="text/javascript">
 
-if (window.location.href.indexOf('http://www.srccon.org/schedule') === 0) {
-  window.location.href = 'http://schedule.srccon.org';
+if (window.location.href.indexOf('https://www.srccon.org/schedule') === 0) {
+  window.location.href = 'https://schedule.srccon.org';
 }
 
 

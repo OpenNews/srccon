@@ -1,0 +1,21 @@
+# StandardRB configuration for SRCCON site
+# https://github.com/standardrb/standard
+
+# Ruby version
+ruby_version: 3.2.6
+
+# Files and directories to ignore
+ignore:
+  - "_site/**/*"
+  - "vendor/**/*"
+  - "node_modules/**/*"
+  - ".bundle/**/*"
+  - ".jekyll-cache/**/*"
+  - "_data/**/*"
+  - ".github/**/*" # GitHub Actions workflows are not Ruby code
+  - "tasks/**/*" # Prettier handles formatting for these files
+  - "Rakefile" # Prettier handles formatting for this file
+
+
+# Note: Rake files are formatted by Prettier with trailing commas (ES5 style)
+# StandardRB is excluded from these files to avoid conflicts

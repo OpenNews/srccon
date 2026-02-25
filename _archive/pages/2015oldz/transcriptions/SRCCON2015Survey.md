@@ -18,7 +18,6 @@ permalink: /docs/transcripts/survey/index.html
 
 ### Room: Memorial
 
-
 We're going to go ahead and get started.
 
 We're going to start thinking about getting started. It's almost 4:30.
@@ -51,7 +50,7 @@ We are going to take a photo so we can later sort of go and see how well these q
 
 So go to the first one.
 
-So the first one is:  Who are you? And A is coder. A is here.
+So the first one is: Who are you? And A is coder. A is here.
 
 That's all of them!
 
@@ -185,7 +184,7 @@ This is like voting in parliament. You're going to sort of stand where your answ
 
 Do it!
 
-The question is:  Do you get enough support from your organization/your newsroom? Do you get enough support from your newsroom and if you work for me, the answer is, "Yes." So the answer is no. If you work for me, just stand right there. If the answer is yes, stand by the water, if the answer is no, stand by the wall that is leaning. And if you're somewhere in between, stand somewhere in between. The exercise is to figure out how easy these questions are. How sort of not fuzzy these questions are. How sharp these questions are. So OpenNews is in some kind of crisis.
+The question is: Do you get enough support from your organization/your newsroom? Do you get enough support from your newsroom and if you work for me, the answer is, "Yes." So the answer is no. If you work for me, just stand right there. If the answer is yes, stand by the water, if the answer is no, stand by the wall that is leaning. And if you're somewhere in between, stand somewhere in between. The exercise is to figure out how easy these questions are. How sort of not fuzzy these questions are. How sharp these questions are. So OpenNews is in some kind of crisis.
 
 So there is—there's a little bit of a self-selection bias because you're at a conference and your company. But we've got some people in the middle. OpenNews seems to be some kind of a nightmare workplace.
 [ Laughter ]
@@ -278,7 +277,7 @@ Internet.
 
 Yeah.
 
-All right. Let's ask this one. I think this is a decent one. So, uh, okay. If anyone's uncomfortable answering this, just like give me the finger and I'll cancel it. Okay, so the question is:  Are you a full-time employee or, on this, so full-time employee is at the water.
+All right. Let's ask this one. I think this is a decent one. So, uh, okay. If anyone's uncomfortable answering this, just like give me the finger and I'll cancel it. Okay, so the question is: Are you a full-time employee or, on this, so full-time employee is at the water.
 
 No. No.
 
@@ -406,7 +405,7 @@ So if you went to school for data, or coding, then you're in the yes group.
 
 No, you're in the no group.
 
-The question is:  Are you self-taught.
+The question is: Are you self-taught.
 
 This is embarrassing. Did you go to school for coding, data, or something, then go there.
 
@@ -765,8 +764,8 @@ I'm going to stand over here by ProPublica. This is write work. I'm glad that fi
 
 That's awesome.
 
-Wait, so this is Team Giant? You're from Boxer? No we have New York Times. So you're from Boxer and New York Times. And this is the hackathon again? We have the hackathon. Awesome. Team two. That's a great question. Are we going to wrap up? I think that's all the time we got. You know, we are kind of taking this show on the road a little bit and we are doing exactly this and we are kind of testing these questions. So Brian and I completely overdid the assignment and tried to write a survey all on our own even though we have absolutely no idea what we're doing. So we've put a GitHub repository with our incredibly embarrassing, way, way too long surveys. 
+Wait, so this is Team Giant? You're from Boxer? No we have New York Times. So you're from Boxer and New York Times. And this is the hackathon again? We have the hackathon. Awesome. Team two. That's a great question. Are we going to wrap up? I think that's all the time we got. You know, we are kind of taking this show on the road a little bit and we are doing exactly this and we are kind of testing these questions. So Brian and I completely overdid the assignment and tried to write a survey all on our own even though we have absolutely no idea what we're doing. So we've put a GitHub repository with our incredibly embarrassing, way, way too long surveys.
 
-So if you go to that Bitly URL you will see the GitHub repository where all the questions are. I really encourage, and in fact, beg you to read the questions, to send us pull requests. To send us issues, to send us emails. To tell us the ways in which we the way that we can ask these questions better. But hopefully somebody at a major reporting firm who asked not to be named, and start this early next year, but I think the plan is to actually do this. 
+So if you go to that Bitly URL you will see the GitHub repository where all the questions are. I really encourage, and in fact, beg you to read the questions, to send us pull requests. To send us issues, to send us emails. To tell us the ways in which we the way that we can ask these questions better. But hopefully somebody at a major reporting firm who asked not to be named, and start this early next year, but I think the plan is to actually do this.
 
-So thank you everybody very much for helping come up with new questions and for honing the ones that we already have. Thanks, everybody. 
+So thank you everybody very much for helping come up with new questions and for honing the ones that we already have. Thanks, everybody.

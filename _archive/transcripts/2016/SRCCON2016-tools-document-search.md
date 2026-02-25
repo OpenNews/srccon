@@ -1,7 +1,7 @@
 Tools to securely search millions of documents remotely and across borders
 Session facilitator(s): Miguel Fiandor
 Day & Time: Thursday, 4-5pm
-Room: Classroom 310 
+Room: Classroom 310
 
 MIGUEL: Okay. Let's start. I'll leave this open. Somehow if someone wants to come in. Sorry. I wasn't watching the time. Okay. So I'm Miguel Fiandor and I'm a data apps developer at ICIJ. And I'm going to show you what are the tools we have been using, some of them, how has the communication been for the Panama Papers, how is the thing working, and how is the link a little bit, and I prepared two posts that it would be nice if you could answer, so we see the opinion about us. We discuss about it. And if we have time at the end, I'll show you some data, and stuff we use, and I also prepared a fake leak of data so we can simulate what you would do if you receive some kind of leak, similar, and what kind of things we can start doing with it.
 
@@ -17,11 +17,7 @@ So without linking the structure of the database, HTMS thing, and you look at th
 
 What happens if you get a bigger leak in two years? You will need a lot of power to work on a process with a team. And that's why we have people who work on this specifically, right? And I know the future of our work, the daily work is that you need to be fast, and you need to repeat what you do a lot of times. It's not that you do one thing perfectly, and your done. Your tasks are going to be repeated several times. In our case, and not really—in our case, we received the whole leak, the whole 2.6 terabytes at once. We received the whole thing at once. That means that the task that you create on the in the methods that you develop, you probably have to run it later on. So say, you find something with a task that's very difficult to develop, and you can say, okay, I can develop it manually. I can go over these records kind of manually, and I'm not fast this time. But in two weeks, you will be regretting because it will come up, something that has to be run again. So I encourage to automate on most of the process.
 
-
-
 PARTICIPANT: Just a question on the time, when did the deadline come from?
-
-
 
 MIGUEL: It didn't come at the beginning. It was much less. We were expecting to publish. Like, this was started on April, something like that. And they were thinking, considering to publish on November. And there was no—it was impossible. And then we went—I don't know if it was time thinking of February, I think when we had to do it again. So I think it was, at the end, you end up in a year, or something like that.
 
@@ -29,41 +25,23 @@ So this ends up being the flow, or the stack that we, and the applications that 
 
 If you ever tried Solr, it is, like, a very unfriendly, unfriendly interface. We couldn't deliver this to the journalists, no, in the Consortium. So we needed to created a layer on top of this, and we were quite happy because it exists, something like Blacklight. Blacklight is a web application based on Rails, which is based on Ruby, and the whole thing is super flexible. And what this is, it's super—if you have a layer of user management, and the connectivity to the Solr API, so you can... yeah, go ahead.
 
-
-
 PARTICIPANT: I'm curious as to why you chose Solr as opposed to ElasticSearch.
-
-
 
 MIGUEL: I wanted to talk about that afterwards. No, I'm not sure why about why my methods chose to use Solr instead of ElasticSearch. I was actually looking at the comparison about them. They are pretty similar. Like, very, very pretty similar. I wouldn't say, I'm not sure, that choosing Solr, it would be also because it goes well with Tika, which, Tika, is, is another tool from Imagine. And it gives you a lot of more information about the files that are being indexed. Also, `it was easy to pass through the Tesseract with Apache. So, and then we have Blacklight on top of it because, on top of, now you'll have any many tools on top of ElasticSearch, as well. But I will say that those could be the reasons. So this is the web interface that Blacklight gives you. Very. And Google works, search works. And over there, you search there. You can custom your facets over there. You can still use proximity search. You can put, on top of it, any section that the custom section that you want, you know? But over there is, we're finding things, so you see a structure laid out over here, this is completely related to Blacklight. You can custom Blacklight as you want. We were handling our structure—the structured data to our journalists, using management. We can call our manuals, PDFs for internal use. But this we created on top of Blacklight to run batch searching. So our journalists get a list of name, instead of going one-by-one, instead of saying, all politics from Spain, we get that in a CSV, and we run it over there, and we run a batch search in Solr, and we return a CSV to you with all the findings.
 
 So you receive a leak. What do you think you would do first? What do you think would be in your first tasks. What you would do is a leak?
 
-
-
 PARTICIPANT: Count how many things we have?
-
-
 
 MIGUEL: That's good, yes.
 
-
-
 PARTICIPANT: Security?
-
-
 
 PARTICIPANT: Check it for viruses?
 
-
-
 MIGUEL: Hey, that's good. That's good, too.
 
-
-
 PARTICIPANT: Just how to understand how to open that safely in the first place.
-
-
 
 MIGUEL: That's maybe very good to start. Um, yeah. I'm not looking for the best answer; I am looking for many answers, you know? So you need to get an address. That would be nice. At least when we're working on that kind of site. So you need to come, you need to organize it. How is it organized? It's not normally one folder thing. Inside, you get into a folder app, it probably has a minimum of documents, and then you freeze your laptop, or something like that.
 
@@ -71,49 +49,27 @@ So it is not a very simple task to just say, search only that, and then trying t
 
 So if you have fairly good connections, it would be nice that we could go to a—this is a very bad color. There's a link over there. and I will make a poll that would be really nice and we could have everyone play with it and see what are your opinions. I have it over here. But can you open it, someone? Do you have the connection? Is it fine? It's bad?
 
-
-
 PARTICIPANT: No.
-
-
 
 MIGUEL: Um...
 
- I wanted to gather our opinions. And I wanted to see if we could get statistics but if we don't have good connections. I also tweet. I tweet it. So if you answer later, I could publish a tweet with kind of your most frequent opinions.
-
-
+I wanted to gather our opinions. And I wanted to see if we could get statistics but if we don't have good connections. I also tweet. I tweet it. So if you answer later, I could publish a tweet with kind of your most frequent opinions.
 
 PARTICIPANT: You can put it in the etherpad, and I can put it the link into the polls for whoever wants to jump in.
 
-
-
 MIGUEL: But yeah, otherwise, if you're going to—I will tweet whatever you're going to say later. Because it's not working, no? It worked fine.
-
-
 
 PARTICIPANT: Yeah, it is working.
 
-
-
 MIGUEL: Oh, it is. Fine.
-
-
 
 PARTICIPANT: Whoever's connected can do it.
 
-
-
 MIGUEL: Okay. So I will go to this. What do you think would be the most important actions on that data?
-
-
 
 PARTICIPANT: Search.
 
-
-
 PARTICIPANT: Link or connect?
-
-
 
 MIGUEL: Would you consider that, when you get a leak, that you would need to link items? Link documents? What are you thinking about that? Good. About sharing. Sharing might sound stupid but I mean sharing among the people you're working, and I would consider this quite powerful, and it has been super used in our communication platforms.
 
@@ -121,111 +77,57 @@ We probably end up finding a lot of things that you need but someone is good. An
 
 Okay. What do you think would be best for you on the platforms and applications like you would use for searching? What kind of helpful?
 
-
-
 PARTICIPANT: Seamless search because it's very hard to do—do the search, and it does similar things.
-
-
 
 MIGUEL: Yeah, like the auto-completion thing.
 
-
-
 PARTICIPANT: Yeah.
-
-
 
 MIGUEL: Good.
 
-
-
 PARTICIPANT: Sharing searches so that you can collaborate with others. Two more and then I answer. Give me two more. You get a leak, or did you work with some kind of leak before? Batch search or batch search, it is—it has been quite—it makes us quite happy when publish that thing.
-
-
 
 PARTICIPANT: Can you describe what that is, a bulk search?
 
-
-
 MIGUEL: It's like searching a lot of things at once. Or you submit a list of terms that you want to search, and you don't go one-by-one, you know?
-
-
 
 PARTICIPANT: So several search terms—so several searches all of them?
 
-
-
 MIGUEL: Not like they use to—they would need to be all together. But, you know, you normally, in a search application, you would have, like, an input box, like the Google search input box here. And so we did this here, we did a section where you submit a CSV with a list of terms that you want to search. My term would be, like, all the political parties of Spain, or all the major countries. I don't know how many parties in the United States it would be. Sometimes you found what you want but sometimes you found something that you don't. So it was pretty interesting to do bulk search.
-
-
 
 PARTICIPANT: Okay.
 
-
-
 MIGUEL: If you are answering over there, it is very... let's say, ah, yeah. This is kind of interesting. They ask, how do you trust something. So would you trust an external service provider? It's not like...
-
-
 
 PARTICIPANT: It depends more on what's the leak about, right? So if the leak is about some politicians in the UK, I would trust them with something. If it's something that's a leak about the United States, I wouldn't be sure about, right?
 
-
-
 MIGUEL: So you also would consider political facts like where he comes from and what is the extent of service from them?
-
-
 
 PARTICIPANT: Against the politician.
 
-
-
 MIGUEL: That's a good point.
-
-
 
 PARTICIPANT: Would you—could you say more about data custody and where—yeah, you used Amazon.
 
-
-
 MIGUEL: Why we chose Amazon?
-
-
 
 PARTICIPANT: Or more specifically, where in Amazon—what—where within Amazon's jurisdiction.
 
-
-
 MIGUEL: We have legal contracts that you would get with Amazon. And they will consider that we will be free of risk storing it there and, especially, in terms of load, in terms of let's say getting these data, okay, and then the other risk that you could get is some technician of Amazon will find it, and they will—or with that, with Amazon, it's pretty easy to encrypt a disk. You just take a disk, and say I want this encrypted, and everything in there is encrypted.
-
-
 
 PARTICIPANT: But also, I mean, have you considered the Amazon region? Would you say U.S. west one or...? Do you consider Amazon?
 
-
-
 MIGUEL: Legally, that hasn't been a reason. The reason to choose over another about that, one has been, we're putting it on Amazon. There's one we choose one over the other is the proximity and the latency because we were uploading a lot of stuff. And sometimes, it takes days, sometimes, it breaks the connection, and...
-
-
 
 PARTICIPANT: But for your purposes, but within—or the equivalent?
 
-
-
 MIGUEL: Within the U.S., I don't think they didn't care which jurisdiction.
-
-
 
 PARTICIPANT: But just as opposed to putting it overseas, do you think the legal conditions are more favorable. I don't know if it's really—who knows, it's all on the Internet.
 
-
-
 MIGUEL: Yeah, you know, I mean, I think we considered that it was secure enough. Yeah. And it will, also, if it was the best option. So what is it we can do, not much more, right? Not too much more.
 
-
-
 PARTICIPANT: It's kind of hard to get 35 giant servers. Didn't you have 35 large servers working on that?
-
-
 
 MIGUEL: But not continuously. Not continuously. So they are all off by now. They are off by now. Okay. I will go faster because we're half the way.
 
@@ -233,43 +135,23 @@ Graph relationships, it doesn't sounds as important as graphing and searching. B
 
 In graph elements, this is much clearer, more lateral. And, actually, the presentation of your database looks like it is, like natural looking. It is very similar to the final—the other graph, no? This is, like, the design of the database. This is the company on green, and address, over there, and then in the end, an officer. And just how they are related. And that's how it is stored in the database. And it's—this seems kind of not relevant, but I went to here for a talk, and I said, a good point for this, you would use this for a natural way, the way you use for your model, the way you use your data is not the way that you've designed the tool. And I say sometimes, this is not a point but everyone was saying the same. They use the same viewpoint. So we all feel the same.
 
-
-
 PARTICIPANT: So, I mean, in order to do that, you have to do some sort of engineering fashion. Were you using own Open Calet. Or entity extracters. Given the text, you extracted entities, did you use Open Tele for that, or did you write your own?
-
-
 
 MIGUEL: For starting this, they say that—by "entities" you mean, like, doing entity structuring?
 
-
-
 PARTICIPANT: Yeah.
-
-
 
 MIGUEL: No, to build this kind of database, we didn't need to do entity extraction. `we've done entity extraction for other things.
 
-
-
 PARTICIPANT: So you're basing that off of structured data?
-
-
 
 MIGUEL: We were doing with HTML, to create them, and then from HTML from a CSV database —
 
-
-
 PARTICIPANT: So you had this data.
-
-
 
 MIGUEL: It wasn't to extract it. It belonged to the database, those HTMLs. It belonged to the database, to the real structure of the company.
 
-
-
 PARTICIPANT: So you had to scrape it, but there was no NLB.
-
-
 
 MIGUEL: We had to scrape it but we didn't do any NLB process on it. Good point. But we did run entity extraction for another process like finding beneficiary_ofs. The whole point of this, the biggest point was finding the beneficiary_ofs. That was, like, the main task of it. For that, we did run some entity extractors. We created—there was point of the Blacklight, that we could create a separate section completely non-related to the Solr thing.
 
@@ -289,133 +171,69 @@ So this is approximately, you have to decide. I would say yes. We actually have 
 
 Do you use any of you, encrypted emails? Yup. Good. You have it installed? I mean, you don't have to use it to write to your family, you know. But at least are you ready for using it? And at least, as far as I know is that, if you really want to ever, kind of see leaked data, the leakers guys, they want you to be secure. They don't want to be found out by a journalist, right? So this is what an encrypted email looks like. This is a nice Google app in Chrome that you can install on the browser. And it's as simple as inclusiving your destination or public key, and then you can write the email and encrypt it, and then it will encrypt it with this key and send it. It works with this, and the website that you want to use it, it's quite friendly. So these are kind of our tools we use to talk, no? To communicate. Also in Slack. It's mandatory, it seems to be is Slack. More communication usings Cyan and WhatApp. And at least it's encrypted otherwise you're not saying sensitive things. But we'll do never trust any of these communication channels. Are you feeling that it's not too secure thing, we're risking ourselves and data?
 
-
-
 PARTICIPANT: Well, Slack is an encrypted server.
-
-
 
 MIGUEL: Totally, but we don't say things we shouldn't. At least we try not. Especially, we have to, for that, doing errors for that. You should write down, shouldn't we say online. And, of course, not usernames and passwords. There's something else important for us, which is the URLs. Same thing but your own Internet applications, URLs, that's also risky, especially since we publish. Once we publish, we also, and especially in the days we publish, it was so popular. And we were afraid of being—having our video found out and this data, no? That's it. I have created another poll over here. And this one... so some of the questions I already did: Would you store your data on Google drive? With the bank? Do you think it's not safe on there? Someone who would never, never put it on Amazon?
 
-
-
 PARTICIPANT: What do you mean not safe?
-
-
 
 MIGUEL: That someone else will take it.
 
-
-
 PARTICIPANT: Depends on your threat. What is the threat level? What is the data, what do you feel? Like, Amazon is probably not a problem if it's a Russian Mafia.
-
-
 
 MIGUEL: Well, in this case, for instance, Amazon was already sued—not sued by authorities about using offshore companies long time ago. We will say—what would happen if Amazon is in there? We didn't know in advance. Amazon could have been a potential entity interested in working in there. And actually, they end up calling us for offering more support for free, and things like that. Yeah, the technician service was great with us.
 
-
-
 PARTICIPANT: I mean, I wouldn't be afraid of Amazon, the company, probably. I would be afraid of the U.S. Government.
-
-
 
 PARTICIPANT: Yeah, the U.S. Government.
 
-
-
 MIGUEL: That's a good comment. I'm getting some questions about that. You can do some things with that still using Amazon. So let's say yes, and about putting it on the cloud and this. How about here?
-
-
 
 PARTICIPANT: When you do that, since you pressed yes, did you put this on the slide?
 
-
-
 MIGUEL: The slides?
-
-
 
 PARTICIPANT: About the Panama Papers, did that end up on Google drive?
 
-
-
 MIGUEL: The presentation.
-
-
 
 PARTICIPANT: No, sorry, the actual data, you pressed yes because it definitely wouldn't go to a Google drive.
 
-
-
 MIGUEL: Oh, sorry.
-
-
 
 PARTICIPANT: Because the secure doesn't —
 
-
-
 MIGUEL: Here... you are right. Good point.
-
-
 
 PARTICIPANT: If it said —
 
-
-
 MIGUEL: You are right. And that's—opens up another question. For one of our applications, it was called Power Players. We had to document a lot of stuff. Journalists needed to work on stories. And when they work on stories, they create a lot of documentation, and a lot of information. And they need to communicate with a lot of people. Like, we have reporter, we have an editor, we have translator, we have an advocate, and we have many people. And it was a chain of politicians with this story, no? That would create a humungous number of images and, of course, documentation. Because it's not only the platform when you store the data, it's also the platform that you work to work with this. What we end up using is a good site system is Confluence. Do you know Confluence? It's a product of Alasian. It's like Google Docs but from other guys, I think Osis, and I think this software, you can style it in your own servers, we style it in our own servers and it is super powerful. And it is very nice. It stores history changes with documents.
-
-
 
 PARTICIPANT: What were you saying?
 
-
-
 MIGUEL: Confluence. It's nice. It's not a trivial installation but it's a good tip if you're in ONT, application to go with. Would you host your leak data—this is related to what you were saying you were afraid of American Service, and things like that. For that, you probably would like to go with Tor. My mates they would be like, what the hell, you use Tor? Why not? In Amazon, you can put an instances to work with Tor, and your service behind this. You would be safer against governments because the government could say, give me where is the server with this data and take it down. With Tor, you can create that security layer. Yeah.
 
-
-
 PARTICIPANT: Would you also add extra protection like VPN restrictions?
-
-
 
 MIGUEL: VPN is—that's—there is a debate on that. At some point, you cannot create all the security layers. It takes so much time this is not our purpose of the time. And finally, users, journalists would get crazy, and never use it, so they need to work on this. You can work with Vivian, you can add client certificates, you could add Tor, too, and Google authenticator. VPN has a very bad design on that. Like, if one of the journalists is hacked, he can get into the whole network—hack it.
 
 So it is not an option. They don't log into our systems with a VPN. Only terminal.
 
-
-
 PARTICIPANT: At the end, it's trusting the people you work with. Have you had a case—has it been the case in this project that you have to keep out somebody from this project because something happened?
-
-
 
 MIGUEL: No.
 
-
-
 PARTICIPANT: Okay.
-
-
 
 MIGUEL: No, we didn't have to. Not like locking out forever. No, yeah. We had some problem, maybe... there was one study where we knew we were sure that we needed to repeat the URL. So for that time, for a while, no one could log in into the social network in any of the systems. Things like that. But every measure that you can take is, okay, if you find that this guy, he's sane, and healthy, then you give him access again later on and see, but yeah?
 
-
-
 PARTICIPANT: How about phones? Do you have a phone or, like, Skype or something?
-
-
 
 MIGUEL: Yeah, we had some conversation with Skype sometimes.
 
-
-
 PARTICIPANT: Before do you consider that secure?
 
-
-
 MIGUEL: Secure?
-
-
 
 MIGUEL: Depends on what you say. They could also listen to you, yeah. I mean, we have it. But only by hearing us, the project is, to me. And even by hearing the conversation, I'm talking to ten people for half an hour, it's very difficult to really get the whole project to be done, or... yeah. I think it is. We didn't have a conversation where if someone is hearing, it would be at the end of the whole point. I think that always happens. So that's why I think that, usually, most of the communication channels are not answered here as you think. Of course, if you give a password but with normalization. Using is like, for instance, we can talk quite a lot about the data work. No passwords, no URLs, no things like that. But when I come to work today, authentication, the project is continuous. It's not so—and we are producing—there has to be a lot of people talking about this.
 
@@ -429,80 +247,42 @@ And this is all the relations between the graphs, nodes in our database. You wou
 
 You know, this is an installation of the package. You have to, because there is one for Mac, and one for Windows. And I found it pretty nice to have this straight ahead and start like that. It was very convenient to get your hands on. I think that's the whole USB thing I gave you. Any other questions and any other tools that you would...?
 
-
-
 PARTICIPANT: This is just a general question: How do you establish who you end up working with? Is it like—how do news organizations become part of this? Do you select?
-
-
 
 MIGUEL: What I have, I inherit because I'm part of the IT, the data unit, so I don't decide much that. But I know is, they know from each other, they have work from before. They agree on publish everything on one day. And there was a—I don't have much more left but... there was something—yeah, one of the requirements was follow up on—on months and dates, and trust to share at work. If we find out that one of the parts is, they may be are working, they are not in the whole community, probably, it's not—probably he won't be called next time. Yeah. But... you first?
 
-
-
 PARTICIPANT: Have you ever looked into trying to figure out what the dataset is if it's a complete dataset, otherwise from... I mean, is it one server, or several servers, or is it a computer where the original data comes from? And is there any way, because I don't know much about data in that way but is there any way to figure out if it's complete before something is sold out, before...?
-
-
 
 MIGUEL: Yes, we try to go and analyze the whole leak. And if we are missing identifiers, missing unique numbers of companies, for instance, and we are missing some stuff, about the data, no? But that doesn't change much anything. Like, we couldn't get more if we want. We wouldn't. We could notice that the guy who gave us is hiding something. That could happen. But we cannot do much about it, you know, if it happens.
 
-
-
 PARTICIPANT: No, no. It's more about the —
-
-
 
 MIGUEL: And which platform the leak that has been stolen, yeah, like, my main link with the data unit, we look for which kind of server they were using, but that's kind of for fun, okay? Like we have stolen from this platform, mainly if you have it, right? But that's just a curious thing.
 
-
-
 PARTICIPANT: Yeah, yeah, yeah. But it might tell something in—yes, I have to be —
-
-
 
 MIGUEL: Yeah, probably because they will not use that platform anymore.
 
-
-
 PARTICIPANT: So you're saying any sort of technical architecture, you start out with some things and then you fiddle with it, and then you change some things. I'm just wondering in terms of the technical part of this, are there things that you started out and disregarded, and that you recommend that we also don't do because it didn't work for you?
-
-
 
 MIGUEL: From experience, most notes, the thing—when we consider where to work on these Power Play stories, all the journalists would be documenting stuff. We were considering using our custom documenting application like using—in the lab. And then we decided to go with a platform. Apart from that, we haven't decided anything.
 
-
-
 PARTICIPANT: And if you were to do it a second time, would you change anything if you were using it now?
 
-
-
 MIGUEL: We would consider using that for that purpose. But for any other things, it's not convenient. Every time you should reconsider what you would use. Yeah.
-
-
 
 PARTICIPANT: When you're going through the initial dataset, how much of it is, like, manual review versus, like, why you're using scripts to parse stuff.
 
 How much of the initial dump is manual, so like opening at files and looking at it, versus writing scripts to try and figure out what's in the data.
 
-
-
 MIGUEL: How much has been manually repeated?
-
-
 
 PARTICIPANT: Or, like, do you have journalists who's basically looking at file-by-file?
 
-
-
 MIGUEL: Well, they're opening when they search for something. We keep track of the results. You have an email system, and also docs, or emails with docs, or PDFs over there, and then they open whatever. I had no idea what they—how much it was—has been looked into automating—well, we automated the whole thing because the whole thing has been indexed. But manually, no idea. No idea. That's a good question I was making myself to on Atom, on our platform, how much have we visited, in opening the whole thing? That, we don't know.
-
-
 
 PARTICIPANT: You said earlier that you think you're going to get larger leaks? How do—why do you think that?
 
-
-
 MIGUEL: At some point it will beat us. For sure. I've been thinking about that, too. But probably not the next one, and not the next, and the following one. But, at some point, we will get—we will get some heavier things, for sure, yes. But the good point, and that's what I wanted to make with this time. We never came to a workshop with a fake leaked data. And it was—what I wanted to do is like start setting down the tasks that we should do with a leak. Like, standardize this kind of work and tasks. I think we haven't done that before either. And I think it's an interesting thing to do for the next month because, every time, everyone, NSAA will get the leak and we'll have to go through the same job. Yeah. This is over. So thanks.
-
-
 
 [ Applause ]

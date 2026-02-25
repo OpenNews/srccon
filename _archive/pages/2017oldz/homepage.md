@@ -10,7 +10,7 @@ bylineurl: https://www.flickr.com/photos/jadammel/6813663977/in/photolist-bo6NV8
 permalink: /index.html
 ---
 
-Thank you, SRCCON 2017 attendees! You brought your ideas, your passions, and your whole selves to Minneapolis and created an incredible experience for everyone there. We've been cleaning up [transcripts](/transcription) and publishing writeups on [Source](https://source.opennews.org), and sharing more of the wonderful work that took place in [more than 50 sessions and workshops](http://schedule.srccon.org) this year.
+Thank you, SRCCON 2017 attendees! You brought your ideas, your passions, and your whole selves to Minneapolis and created an incredible experience for everyone there. We've been cleaning up [transcripts](/transcription) and publishing writeups on [Source](https://source.opennews.org), and sharing more of the wonderful work that took place in [more than 50 sessions and workshops](https://schedule.srccon.org) this year.
 
 We'll also be continuing many of these important conversations at [SRCCON:WORK](https://work.srccon.org) this December in Philadelphia. Our program will take on collaboration, career growth, and care, and we invite you to join us in exploring how we can help each other take on the hard work of journalism.
 
@@ -21,7 +21,7 @@ We'll also be continuing many of these important conversations at [SRCCON:WORK](
 <p>SRCCON is a hands-on conference, full of <a href="/sessions">conversations and workshops</a> focused on the practical challenges that news technology and data teams encounter every day. We work to make it an inclusive and welcoming event where people can feel comfortable digging into complex problems. Last year SRCCON included nearly 300 attendees and more than 50 sessions that covered a wide range of topics, from tech strategies to workplace culture struggles.</p>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-<p class="caption"><em><a href="https://vimeo.com/180221748">SRCCON 2016 highlights video</a>, videography by <a href="http://www.searlevideo.com/">Searle Video</a>.</em></p>
+<p class="caption"><em><a href="https://vimeo.com/180221748">SRCCON 2016 highlights video</a>, videography by <a href="https://www.searlevideo.com/">Searle Video</a>.</em></p>
 </div>
 </div>
 
@@ -70,10 +70,9 @@ Our participants represent organizations ranging from massive to tiny, and come 
 <li><a href="https://www.twitter.com/srccon">Follow us on Twitter</a></li>
 </ul>
 
-
 </div>
 </div>
 
-SRCCON is produced by [OpenNews](http://opennews.org), an organization built to connect a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism.
+SRCCON is produced by [OpenNews](https://opennews.org), an organization built to connect a network of developers, designers, journalists and editors to collaborate on open technologies and processes within journalism.
 
 The “src” in SRCCON stands for “Source,” as in "view source." We pronounce it “Source-con,” but you can say it however you want.

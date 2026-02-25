@@ -19,9 +19,9 @@ SRCCON sessions last about 75 minutes, exploring cultural questions that help jo
 
 Our program for SRCCON is built around key community values:
 
-* **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
-* **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
-* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
+- **We experiment in the open**—by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
+- **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+- **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide community of journalists outside of NYC/DC.
 
 ## Our Schedule
 
@@ -33,19 +33,19 @@ SRCCON attendees tend to arrive on Wednesday and leave Friday evening or Saturda
 
 We love it when recent work sparks a great idea that travels with you to SRCCON, or a session sends you down just the right rabbit hole and you find yourself among kindred spirits. So we create space at SRCCON for topics beyond the ones on our schedule:
 
-* Lunch signup boards let you choose a room and invite other attendees to bring their meals and join you for a conversation over lunch.
-* Activity boards help you plan events outside SRCCON hours, from group visits to a local newsroom or museum, ballgame or concert, or just getting out for some sun and fresh air.
-* Jobs boards give you a chance to connect with other attendees about career opportunities, whether you're hiring or looking.
+- Lunch signup boards let you choose a room and invite other attendees to bring their meals and join you for a conversation over lunch.
+- Activity boards help you plan events outside SRCCON hours, from group visits to a local newsroom or museum, ballgame or concert, or just getting out for some sun and fresh air.
+- Jobs boards give you a chance to connect with other attendees about career opportunities, whether you're hiring or looking.
 
 ## Our Evening Program
 
 We know [evenings at conferences can be tough](https://opennews.org/blog/srccon-thursday/), so we close the first day of SRCCON with dinner together and an opportunity to have fun, relax, and give our brains a chance to process the amazing sessions from earlier that day. We see Thursday as an opportunity to focus on the "life" side of the work/life balance, with:
 
-* local, guided walks
-* hobby workshops & chats
-* themed lightning talks
-* music & conversations
-* a room full of card and board games
+- local, guided walks
+- hobby workshops & chats
+- themed lightning talks
+- music & conversations
+- a room full of card and board games
 
 Plus, of course, a huge spread of snacks and beverages. Our snacks are as local as we can get—we love feeling a sense of place wherever we visit. If you have partners or friends who’ll be in Minneapolis, feel free to invite them to join you for Thursday evening—[we offer special partner tickets](https://www.eventbrite.com/e/srccon-2019-tickets-61642701981?discount=partner) and are happy to welcome them for dinner and the activities afterward.
 

@@ -15,20 +15,20 @@ title: SRCCON — Guide to the Twin Cities
 
 ## What's In the Guide
 
-* [How to Get Around](#getaround)
-* [Delicious Places: Food on Campus](#food)
-* [Delicious Places: Food Further Out](#foodaway)
-* [Beautiful Places](#sights)
-* [Books!](#books)
-* [Records!](#records)
-* [Movies!](#movies)
-* [Museums and Art!](#art)
-* [Live Music!](#music)
-* [Festivals and Events!](#festivals)
-* [Fun for Kids!](#kids)
-* [Just Because…](#because)
-* [Day Trips!](#trips)
-* [More Lists!](#lists)
+- [How to Get Around](#getaround)
+- [Delicious Places: Food on Campus](#food)
+- [Delicious Places: Food Further Out](#foodaway)
+- [Beautiful Places](#sights)
+- [Books!](#books)
+- [Records!](#records)
+- [Movies!](#movies)
+- [Museums and Art!](#art)
+- [Live Music!](#music)
+- [Festivals and Events!](#festivals)
+- [Fun for Kids!](#kids)
+- [Just Because…](#because)
+- [Day Trips!](#trips)
+- [More Lists!](#lists)
 
 <span id="getaround"></span>
 
@@ -44,7 +44,7 @@ There is also a bike sharing system called [Nice Ride](https://www.niceridemn.or
 
 ### Punch Neapolitan Pizza
 
-[http://www.punchpizza.com](http://www.punchpizza.com)  
+[https://www.punchpizza.com](https://www.punchpizza.com)  
 0.1 mile (visible from McNamara)  
 802 Washington Ave SE  
 or  
@@ -54,20 +54,20 @@ Fabulous pizzas cooked in a wood-burning oven at 800 degrees for about 90 second
 
 ### Bar Luchador
 
-[http://www.barluchador.com/](http://www.barluchador.com/)  
+[https://www.barluchador.com/](https://www.barluchador.com/)  
 0.1 miles  
 825 Washington Ave SE  
 A small restaurant and bar with great tacos. And wrestling on TV.
 
 ### Haiku Japanese Bistro
 
-[http://www.haikujapanese.com](http://www.haikujapanese.com)  
+[https://www.haikujapanese.com](https://www.haikujapanese.com)  
 0.2 miles  
 620 Washington Avenue Southeast
 
 ### Afro Deli
 
-[http://www.afrodeli.com/](http://www.afrodeli.com/)  
+[https://www.afrodeli.com/](https://www.afrodeli.com/)  
 0.2 miles  
 720 SE Washington Ave  
 African and Middle Eastern Cuisine
@@ -81,14 +81,14 @@ Reasonable beer and food—also, on occasion, live music.
 
 ### Caspian Bistro
 
-[http://www.viewmenu.com/caspian-bistro-and-marketplace/menu](http://www.viewmenu.com/caspian-bistro-and-marketplace/menu)   
+[https://www.viewmenu.com/caspian-bistro-and-marketplace/menu](https://www.viewmenu.com/caspian-bistro-and-marketplace/menu)  
 0.3 miles  
 2418 University Ave SE  
 Persian market and Middle Eastern cafe. Has great service, is delicious.
 
 ### Surdyk's Northrop Cafe
 
-[http://www.northrop.umn.edu/visit/surdyks-caf-northrop](http://www.northrop.umn.edu/visit/surdyks-caf-northrop)  
+[https://www.northrop.umn.edu/visit/surdyks-caf-northrop](https://www.northrop.umn.edu/visit/surdyks-caf-northrop)  
 0.5 miles  
 84 Church Street Southeast  
 If you can't get to the full-stack Surdyk's (vast liquor and cheese selections with fantastic sandwiches), their Northrup cafe will do just fine. Good coffee, too!
@@ -96,7 +96,7 @@ If you can't get to the full-stack Surdyk's (vast liquor and cheese selections w
 ### Himalayan Dinkytown
 
 [https://www.facebook.com/pg/himalayandinkytown/](https://www.facebook.com/pg/himalayandinkytown/)  
-Review: [http://heavytable.com/himalayan-dinkytown/](http://heavytable.com/himalayan-dinkytown/)  
+Review: [https://heavytable.com/himalayan-dinkytown/](https://heavytable.com/himalayan-dinkytown/)  
 0.6 miles  
 1415 4th St SE  
 Nepalese, Tibetan and Indian food on campus in a fast-casual setting.
@@ -117,21 +117,21 @@ A teeny tiny institution! And actually great food.
 
 ### Purple Onion (coffee shop/cafe)
 
-[http://www.thepurpleonioncafe.com](http://www.thepurpleonioncafe.com)  
+[https://www.thepurpleonioncafe.com](https://www.thepurpleonioncafe.com)  
 0.7 miles  
 1301 University Ave SE  
 A great place to set up shop with a laptop, coffee, and something eggy.
 
 ### Shuang Cheng (Cantonese)
 
-[http://www.shuangchengrestaurant.com](http://www.shuangchengrestaurant.com)  
+[https://www.shuangchengrestaurant.com](https://www.shuangchengrestaurant.com)  
 0.7 miles  
 1320 4th Street South East Minneapolis  
 You love Cantonese food and you just need somebody to point you to the good stuff. Right over here, stranger.
 
 ### Surly Tap Room
 
-[http://surlybrewing.com](http://surlybrewing.com)  
+[https://surlybrewing.com](https://surlybrewing.com)  
 1.0 miles  
 520 Malcolm Avenue Southeast  
 Surly makes really good beer right here in Minnesota. Really good. Unlike many breweries in town, they also have a full restaurant menu.
@@ -149,55 +149,55 @@ Half of the building is dedicated to a fine-dining-ish restaurant, but in the la
 
 ### Kramarczuk’s
 
-[http://kramarczuks.com/](http://kramarczuks.com/)  
+[https://kramarczuks.com/](https://kramarczuks.com/)  
 1.7 miles  
 215 E Hennepin Ave  
 Old school Eastern European deli. We never sausage a fine place to dine!
 
 ### Foxy Falafel
 
-[http://foxyfalafel.com/](http://foxyfalafel.com/)  
+[https://foxyfalafel.com/](https://foxyfalafel.com/)  
 1.8 miles  
 791 Raymond Ave, St. Paul  
 Just off the Raymond Avenue stop on the Green Line (3 stops east of Stadium Village). Excellent falafel and shwarma. Lots of vegan, vegetarian and organic options. Great gluten-free cookies. Serves alcohol.
 
 ### Norseman Distillery
 
-[http://www.norsemandistillery.com/](http://www.norsemandistillery.com/)  
+[https://www.norsemandistillery.com/](https://www.norsemandistillery.com/)  
 1.9 miles  
 451 Taft St NE #19  
 Distillery with a seasonal cocktail list whose cocktail room doubles as an art gallery. They recently introduced a short new-Nordic inspired food menu.
 
 ### Brasa Premium Rotisserie
 
-[http://www.brasa.us](http://www.brasa.us)  
+[https://www.brasa.us](https://www.brasa.us)  
 1.9 miles  
 600 East Hennepin Avenue  
 Lip smacking, finger dripping Southern cooking.
 
 ### Black Sheep Pizza
 
-[http://blacksheeppizza.com/](http://blacksheeppizza.com/)  
+[https://blacksheeppizza.com/](https://blacksheeppizza.com/)  
 Multiple locations  
 Coal-fired pizza. (It's super good.)
 
 ### Surdyk's Liquor & Cheese Shop
 
-[http://surdyks.com](http://surdyks.com)  
+[https://surdyks.com](https://surdyks.com)  
 1.9 miles  
 303 East hennepin Avenue  
 Select a picnic place (Gold Medal Park? The Walker Art Center Sculpture Garden?) and head to Surdyk's to pick up cheese, crackers, sandwiches, fancy fizzy drinks, and desserts. You'll never forget Minneapolis.
 
 ### Izzy's Ice Cream
 
-[http://izzysicecream.com/locations/minneapolis/](http://izzysicecream.com/locations/minneapolis/)  
+[https://izzysicecream.com/locations/minneapolis/](https://izzysicecream.com/locations/minneapolis/)  
 2.1 miles  
 1100 South 2nd Street  
 Izzy's ice cream is so, so, so good. And it's right next to Gold Medal Park and the Guthrie Theater.
 
 ### Urban Growler Brewing Co.
 
-[http://www.urbangrowlerbrewing.com](http://www.urbangrowlerbrewing.com)  
+[https://www.urbangrowlerbrewing.com](https://www.urbangrowlerbrewing.com)  
 2.4 miles  
 2325 Endicott Street, St. Paul  
 This is a 10-15 minute walk from the Raymond Avenue stop (3 stops east of Stadium Village). It’s a little off the beaten path and surrounded by warehouses but worth a visit.  
@@ -205,28 +205,28 @@ A woman-owned and operated craft brewery that makes damn good beer and features 
 
 ### Acadia Cafe
 
-[http://acadiapub.com](http://acadiapub.com)  
+[https://acadiapub.com](https://acadiapub.com)  
 2.2 miles  
 329 Cedar Avenue  
 A bazillion beers (er, 28) on tap + great food.
 
 ### Bauhaus Brew Labs
 
-[http://bauhausbrewlabs.com/](http://bauhausbrewlabs.com/)  
+[https://bauhausbrewlabs.com/](https://bauhausbrewlabs.com/)  
 2.7 miles  
 1315 Tyler Street Northeast  
-There are[ in Minneapolis, but this one is perhaps the most picturesuqe. Great german-inspired beer, outdoor games, music, and usually have food trucks.](http://mnbeer.com/breweries/)
+There are[ in Minneapolis, but this one is perhaps the most picturesuqe. Great german-inspired beer, outdoor games, music, and usually have food trucks.](https://mnbeer.com/breweries/)
 
 ### Peace Coffee
 
-[http://www.peacecoffee.com/locations/wonderland-park](http://www.peacecoffee.com/locations/wonderland-park)  
+[https://www.peacecoffee.com/locations/wonderland-park](https://www.peacecoffee.com/locations/wonderland-park)  
 2.8 miles  
 3262 Minnehaha Avenue  
 If going out of your way for good coffee is a thing you do, it's worth doing it for this place. The specialty drinks are bananas.
 
 ### Sociable Cider Werks
 
-[http://sociablecider.com/](http://sociablecider.com/)  
+[https://sociablecider.com/](https://sociablecider.com/)  
 2.8 miles  
 1500 Fillmore St NE  
 It’s hard to throw a growler in NE Minneapolis without hitting a brewery, but if you’re looking for cider (or just gluten free options) Sociable is your place.
@@ -240,21 +240,21 @@ One of the more buzzed about restaurants to open recently, featuring pizzas and 
 
 ### 112 Eatery
 
-[http://www.112eatery.com](http://www.112eatery.com)  
+[https://www.112eatery.com](https://www.112eatery.com)  
 2.9 miles  
 112 North 3rd Street  
 Oh crap. This place is a supernatural kind of good.
 
 ### Tattersall Distilling
 
-[http://tattersalldistilling.com/](http://tattersalldistilling.com/)  
+[https://tattersalldistilling.com/](https://tattersalldistilling.com/)  
 2.9 miles  
 1620 Central Ave NE  
 Arguably the best cocktails in the Twin Cities, in a beautiful space. Can get busy on weekend nights. No food, but there’s usually a food truck parked outside.
 
 ### Fasika (Ethiopian)
 
-[http://www.fasika.com/welcome.html](http://www.fasika.com/welcome.html)  
+[https://www.fasika.com/welcome.html](https://www.fasika.com/welcome.html)  
 3.4 miles  
 510 N Snelling Ave  
 There is no shortage of Ethiopian options in the Twin Cities, but there is an emerging concensus around the greatness of Fasika.
@@ -268,49 +268,49 @@ Cooperative brewery with a penchant for sour beers. Great food options abound in
 
 ### Pimento Jamaican Kitchen
 
-[http://pimentokitchen.com/](http://pimentokitchen.com/)  
+[https://pimentokitchen.com/](https://pimentokitchen.com/)  
 3.5 miles  
 2524 Nicollet Ave  
 Casual Jamaican. This concept was a one-time winner of "Food Court Wars," but don’t let that deter you — it’s good.
 
 ### Chimborazo
 
-[http://chimborazorestaurant.com/](http://chimborazorestaurant.com/)  
+[https://chimborazorestaurant.com/](https://chimborazorestaurant.com/)  
 3.8 miles  
 2851 Central Avenue NE  
 Excellent Ecuadorean food on Central Ave, which is a great eating street in general.
 
 ### Matt's Bar
 
-[http://mattsbar.com](http://mattsbar.com)  
+[https://mattsbar.com](https://mattsbar.com)  
 3.9 miles  
 3500 Cedar Avenue  
 This is the place you go for the local novelty food: The Jucy Lucy (yes, that is how they spell it). It's also where, not too long ago, POTUS went for the local novelty food. Here's the thing: This novelty is also a legitimately great burger. And Matt's a legitimately great dive. (The other claimant to the "Jucy Lucy" title is the 5-8 Club, a restaurant and bar on the same road but farther south, near the airport.)
 
 ### Hola Arepa
 
-[http://holaarepa.com/](http://holaarepa.com/)  
+[https://holaarepa.com/](https://holaarepa.com/)  
 4.6 miles  
 3501 Nicollet Ave  
 Food-truck turned brick and mortar focusing on Venezuelan-style arepa sandwiches and a creative cocktail list.
 
 ### Khyber Pass Cafe (Afghan)
 
-[http://khyberpasscafe.com](http://khyberpasscafe.com)  
+[https://khyberpasscafe.com](https://khyberpasscafe.com)  
 4.9 miles  
 1571 Grand Avenue  
 The chutney sampler--oh my. And anything with lamb in it.
 
 ### Angry Catfish Bicycle and Coffee Bar
 
-[http://angrycatfishbicycle.com](http://angrycatfishbicycle.com)  
+[https://angrycatfishbicycle.com](https://angrycatfishbicycle.com)  
 5.4 miles  
 4208 South 28th Avenue  
 If you like your coffee snobs humble, this is your place. This is fussy coffee at its fussiest, and it is a beautiful thing.
 
 ### Bryant Lake Bowl & Theater
 
-[http://www.bryantlakebowl.com/](http://www.bryantlakebowl.com/)  
+[https://www.bryantlakebowl.com/](https://www.bryantlakebowl.com/)  
 5.25 miles  
 810 West Lake St.  
 At the heart of the walkable LynLake area—food, drink, bowling, and shows.
@@ -320,7 +320,7 @@ At the heart of the walkable LynLake area—food, drink, bowling, and shows.
 [https://seasalteatery.wordpress.com](https://seasalteatery.wordpress.com)  
 6.4 miles  
 4825 Minnehaha Avenue  
-Let's be honest—this is Minnesota, so we are also talking *lake* food. But you know what? Lake food is delicious and you'll be eating it at an outdoor table within earshot (and from some tables within eyeshot) of Minnehaha Falls. And the whole thing is just a short walk from a lightrail stop.
+Let's be honest—this is Minnesota, so we are also talking _lake_ food. But you know what? Lake food is delicious and you'll be eating it at an outdoor table within earshot (and from some tables within eyeshot) of Minnehaha Falls. And the whole thing is just a short walk from a lightrail stop.
 
 ### Ha Tien Market
 
@@ -334,7 +334,7 @@ Just off the Western Ave station on the Green line. This has the best banh mi, t
 
 ### Guthrie Theater
 
-[http://www.guthrietheater.org](http://www.guthrietheater.org)  
+[https://www.guthrietheater.org](https://www.guthrietheater.org)  
 2.2 miles  
 818 South 2nd Street  
 The Guthrie was built for plays, but anybody can walk in anytime. Their "Endless Bridge" overlooks the Mississippi River and the ruins of the city's flour milling industry, but it may still be closed for repairs during SRCCON.
@@ -347,12 +347,12 @@ Gold Medal Park is a lovely picnic spot. Its right next to the Guthrie, which me
 
 ### Paddle the Mississippi River
 
-[http://paddleshare.org/](http://paddleshare.org/)  
+[https://paddleshare.org/](https://paddleshare.org/)  
 Kayak sharing (and all the other gear, like lifejackets paddles & more)! You don't need any of your own equipment, just make an online reservation and off you go. Along the Mississippi River, kayakers will pass natural sights like the heron rookery and other islands amid industrial yards and city infrastructure on a transitioning Minneapolis waterfront. They can also stop for dockside dining at places like Sample Room and Psycho Suzi's.
 
 ### Marjorie McNeely Conservatory
 
-[http://www.comozooconservatory.org/](http://www.comozooconservatory.org/)  
+[https://www.comozooconservatory.org/](https://www.comozooconservatory.org/)  
 (Minneapolis) 5.8 miles  
 200 SE Oak  
 A beautiful spot in Como Park with some amazing plant displays—while there, stop around to the lakeside—specifically Spring Café or Sweet Science ice cream at the Como Park Pavilion.
@@ -380,17 +380,17 @@ If you need a quiet place for a stroll, or just want to sit and think while surr
 
 ### Mississippi River via Padelford Riverboats
 
-[http://www.riverrides.com/](http://www.riverrides.com/)  
+[https://www.riverrides.com/](https://www.riverrides.com/)  
 Dr Justus Ohage Blvd, St Paul  
 9.7 miles  
 A river boat ride on the Mississippi between Minneapolis and St. Paul.
 
 ### Chain of Lakes
 
-[http://www.wheelfunrentals.com/Locations/Minneapolis](http://www.wheelfunrentals.com/Locations/Minneapolis)  
+[https://www.wheelfunrentals.com/Locations/Minneapolis](https://www.wheelfunrentals.com/Locations/Minneapolis)  
 3000 E. Calhoun Pkwy  
 5.7 miles  
-Fittingly enough, the biggest city in the Land of 10,000 Lakes features quite a few lakes of its own. Four of them — Lake Harriet, Lake Calhoun/Bde Maka Ska, Lake of the Isles and Cedar Lake — are connected by continuous parkland and feature pedestrian and bike trails.  You can also rent bikes, pedal boats, kayaks, canoes, and paddleboards for lake-splashing enjoyment.
+Fittingly enough, the biggest city in the Land of 10,000 Lakes features quite a few lakes of its own. Four of them — Lake Harriet, Lake Calhoun/Bde Maka Ska, Lake of the Isles and Cedar Lake — are connected by continuous parkland and feature pedestrian and bike trails. You can also rent bikes, pedal boats, kayaks, canoes, and paddleboards for lake-splashing enjoyment.
 
 <span id="books"></span>
 
@@ -400,49 +400,49 @@ These bookstores are vetted. There are plenty more that could (and maybe should)
 
 ### The Book House
 
-[http://www.bookhouseindinkytown.com](http://www.bookhouseindinkytown.com)  
+[https://www.bookhouseindinkytown.com](https://www.bookhouseindinkytown.com)  
 0.7 miles  
 1316 4th Street Southeast #201
 
 ### Midway Books
 
-[http://www.midwaybook.com](http://www.midwaybook.com)  
+[https://www.midwaybook.com](https://www.midwaybook.com)  
 3.6 miles  
 1579 University Avenue West
 
 ### Uncle Hugo's Science Fiction Bookstore
 
-[http://www.unclehugo.com/prod/index.shtml](http://www.unclehugo.com/prod/index.shtml)  
+[https://www.unclehugo.com/prod/index.shtml](https://www.unclehugo.com/prod/index.shtml)  
 3.9 miles  
 2864 Chicago Avenue South
 
 ### Once Upon a Crime Mystery Bookstore
 
-[http://www.onceuponacrimebooks.com](http://www.onceuponacrimebooks.com)  
+[https://www.onceuponacrimebooks.com](https://www.onceuponacrimebooks.com)  
 4.8 miles  
 604 West 26th Street
 
 ### Common Good Books
 
-[http://www.commongoodbooks.com](http://www.commongoodbooks.com)  
+[https://www.commongoodbooks.com](https://www.commongoodbooks.com)  
 4.9 miles  
 38 Snelling Avenue South
 
 ### Dreamhaven Books & Comics
 
-[http://dreamhavenbooks.com](http://dreamhavenbooks.com)  
+[https://dreamhavenbooks.com](https://dreamhavenbooks.com)  
 5.2 miles  
 2301 East 38th Street
 
 ### Magers & Quinn
 
-[http://www.magersandquinn.com](http://www.magersandquinn.com)  
+[https://www.magersandquinn.com](https://www.magersandquinn.com)  
 5.4 miles  
 3038 Hennepin Avenue
 
 ### Wild Rumpus
 
-[http://www.wildrumpusbooks.com](http://www.wildrumpusbooks.com)  
+[https://www.wildrumpusbooks.com](https://www.wildrumpusbooks.com)  
 7.6 miles  
 2720 West 43rd Street  
 Children’s books only, and featuring a rotating cast of live animals roaming the store.
@@ -455,7 +455,7 @@ Like the bookstores, these record stores are vetted! Three things worth noting: 
 
 ### Barely Brothers
 
-[http://www.barelybrothersrecords.com](http://www.barelybrothersrecords.com)  
+[https://www.barelybrothersrecords.com](https://www.barelybrothersrecords.com)  
 1.8 miles  
 783 Raymond Avenue
 
@@ -467,25 +467,25 @@ Like the bookstores, these record stores are vetted! Three things worth noting: 
 
 ### Hymie's Vintage Records
 
-[http://hymiesrecords.com](http://hymiesrecords.com)  
+[https://hymiesrecords.com](https://hymiesrecords.com)  
 2.7 miles  
 3820 East Lake Street
 
 ### Electric Fetus
 
-[http://www.electricfetus.com](http://www.electricfetus.com)  
+[https://www.electricfetus.com](https://www.electricfetus.com)  
 3.4 miles  
 2000 4th Avenue South
 
 ### Treehouse Records
 
-[http://treehouserecords.blogspot.com](http://treehouserecords.blogspot.com)  
+[https://treehouserecords.blogspot.com](https://treehouserecords.blogspot.com)  
 4.8 miles  
 2557 Lyndale Avenue South
 
 ### Fifth Element
 
-[http://fifthelementonline.com](http://fifthelementonline.com)  
+[https://fifthelementonline.com](https://fifthelementonline.com)  
 4.6 miles  
 2411 Hennepin Avenue South
 
@@ -497,19 +497,19 @@ You can find the multiplexes easy enough. These are the special theaters. Oh, an
 
 ### St. Anthony Main Theatre
 
-[http://www.stanthonymaintheatre.com](http://www.stanthonymaintheatre.com)  
+[https://www.stanthonymaintheatre.com](https://www.stanthonymaintheatre.com)  
 1.9 miles  
 115 Southeast Main Street
 
 ### Trylon Microcinema
 
-[http://take-up.org](http://take-up.org)  
+[https://take-up.org](https://take-up.org)  
 2.7 miles  
 3258 Minnehaha Avenue
 
 ### Riverview Theater
 
-[http://www.riverviewtheater.com](http://www.riverviewtheater.com)  
+[https://www.riverviewtheater.com](https://www.riverviewtheater.com)  
 4.1 miles  
 3800 42nd Avenue South
 
@@ -519,25 +519,25 @@ You can find the multiplexes easy enough. These are the special theaters. Oh, an
 
 ### Weisman Art Museum
 
-[http://www.weisman.umn.edu](http://www.weisman.umn.edu)  
+[https://www.weisman.umn.edu](https://www.weisman.umn.edu)  
 0.7 miles  
 333 East River Parkway
 
 ### Walker Art Center
 
-[http://www.walkerart.org](http://www.walkerart.org)  
+[https://www.walkerart.org](https://www.walkerart.org)  
 4.5 miles  
 1750 Hennepin Avenue
 
 ### Minneapolis Institute of Arts
 
-[http://new.artsmia.org](http://new.artsmia.org)  
+[https://new.artsmia.org](https://new.artsmia.org)  
 3.5 miles  
 2400 3rd Avenue South
 
 ### Mill City Museum
 
-[http://www.millcitymuseum.org/](http://www.millcitymuseum.org/)  
+[https://www.millcitymuseum.org/](https://www.millcitymuseum.org/)  
 1.9 miles  
 704 S 2nd St.  
 Does a really great job of telling some of the key history of Minnesota—the flour industry. Plus you can get a great view of the city, St. Anthony Falls ,and the Mississippi River from the top of the museum. Also great for children!
@@ -548,22 +548,21 @@ Does a really great job of telling some of the key history of Minnesota—the fl
 1.6 miles  
 2424 Franklin Ave. E.
 
-
 ### Intermedia Arts
 
-[http://intermediaarts.org/](http://intermediaarts.org/)  
+[https://intermediaarts.org/](https://intermediaarts.org/)  
 5 miles  
 2822 Lyndale Avenue S
 
 ### Soo Visual Art Center
 
-[http://www.soovac.org/](http://www.soovac.org/)  
+[https://www.soovac.org/](https://www.soovac.org/)  
 5.2 miles  
 2909 Bryant Avenue S Suite 101
 
 ### Highpoint Center for Printmaking
 
-[http://highpointprintmaking.org/](http://highpointprintmaking.org/)  
+[https://highpointprintmaking.org/](https://highpointprintmaking.org/)  
 5.4 miles  
 912 W Lake St
 
@@ -573,43 +572,43 @@ Does a really great job of telling some of the key history of Minnesota—the fl
 
 ### Cedar Cultural Center
 
-[http://www.thecedar.org](http://www.thecedar.org)  
+[https://www.thecedar.org](https://www.thecedar.org)  
 2.1 miles  
 416 Cedar Avenue
 
 ### Patrick's Cabaret
 
-[http://www.patrickscabaret.org](http://www.patrickscabaret.org)  
+[https://www.patrickscabaret.org](https://www.patrickscabaret.org)  
 2.8 miles  
 3010 Minnehaha Avenue
 
 ### Turf Club
 
-[http://turfclub.net](http://turfclub.net)  
+[https://turfclub.net](https://turfclub.net)  
 2.4 miles  
 1601 University Avenue West
 
 ### First Avenue & 7th St Entry
 
-[http://first-avenue.com/calendar](http://first-avenue.com/calendar)  
+[https://first-avenue.com/calendar](https://first-avenue.com/calendar)  
 4.2 miles  
 701 North 1st Avenue
 
 ### Khyber Pass
 
-[http://khyberpasscafe.com](http://khyberpasscafe.com)  
+[https://khyberpasscafe.com](https://khyberpasscafe.com)  
 4.9 miles  
 1571 Grand Avenue
 
 ### Icehouse
 
-[http://www.icehousempls.com](http://www.icehousempls.com)  
+[https://www.icehousempls.com](https://www.icehousempls.com)  
 4.3 miles  
 2528 Nicollet Avenue South
 
 ### The Warming House
 
-[http://www.thewarminghouse.net/](http://www.thewarminghouse.net/)  
+[https://www.thewarminghouse.net/](https://www.thewarminghouse.net/)  
 5.9 miles  
 4001 Bryant Ave S  
 The Twin Cities’ only "listening room," the Warming House is a forty-seat venue below a bike shop. There’s no booze on sale, which has the advantage of people coming to actually listen to the mostly acoustic and Americana focused acts.
@@ -620,14 +619,14 @@ The Twin Cities’ only "listening room," the Warming House is a forty-seat venu
 
 ### Minnesota Children’s Museum
 
-[http://www.mcm.org/](http://www.mcm.org/)  
+[https://www.mcm.org/](https://www.mcm.org/)  
 7.5 miles  
 10 7th St. W., St. Paul  
 Essential, especially because they just re-opened June 2017 after a massive renovation and expansion. Ideal for toddlers to age 8, but we’re hearing that some of the new exhibits will cater to kids even a little older than that.
 
 ### Como Zoo
 
-[http://www.comozooconservatory.org/](http://www.comozooconservatory.org/)  
+[https://www.comozooconservatory.org/](https://www.comozooconservatory.org/)  
 5.9 miles  
 1225 Estabrook Drive, St Paul  
 Small, but really nice, zoo; a conservatory; a really cool historical carousel (to ride!); and an amusement park called Como Town that has rides and a splash pad. The rides are geared toward younger kids (toddler through middle school). Como Town and the carousel cost money, but the zoo is free (they ask for donations, however).
@@ -640,12 +639,12 @@ Small, but really nice, zoo; a conservatory; a really cool historical carousel (
 
 ### Mississippi National River and Recreation Area
 
-[http://www.nps.gov/miss/planyourvisit/things2do.htm](http://www.nps.gov/miss/planyourvisit/things2do.htm)  
+[https://www.nps.gov/miss/planyourvisit/things2do.htm](https://www.nps.gov/miss/planyourvisit/things2do.htm)  
 16.8 miles
 
 ### The Raptor Center on the St. Paul University of Minnesota campus
 
-[http://www.raptor.cvm.umn.edu/](http://www.raptor.cvm.umn.edu/)  
+[https://www.raptor.cvm.umn.edu/](https://www.raptor.cvm.umn.edu/)  
 4.5 miles  
 1920 Fitch Avenue, St. Paul
 
@@ -661,27 +660,27 @@ Small, but really nice, zoo; a conservatory; a really cool historical carousel (
 
 ### Ax-Man Surplus Store
 
-[http://www.ax-man.com](http://www.ax-man.com)  
+[https://www.ax-man.com](https://www.ax-man.com)  
 3.2 miles  
 1639 University Avenue West  
-The most freakishly delightful surplus store this side of the Mississippi. Not military surplus, but *everything* surplus. People walk through the aisles making joyful sounds. For real.
+The most freakishly delightful surplus store this side of the Mississippi. Not military surplus, but _everything_ surplus. People walk through the aisles making joyful sounds. For real.
 
 ### House of Balls
 
-[http://houseofballs.com](http://houseofballs.com)  
+[https://houseofballs.com](https://houseofballs.com)  
 2.2 miles  
 1504 South 7th Street  
 Just trust...
 
 ### Prince sites
 
-[http://www.exploreminnesota.com/travel-ideas/prince-tour-of-minneapolis/](http://www.exploreminnesota.com/travel-ideas/prince-tour-of-minneapolis/)  
-Since the death of Prince in April 2016, a sort of "tour" of key sites has developed. The biggest destination is Paisley Park, which offers daily tours. Paisely Park is located in a suburb south of Minneapolis called Chanhassen. (Sorry the trains don’t run that far).  The link above has details and a list of other sites that Prince fans have been visiting.
+[https://www.exploreminnesota.com/travel-ideas/prince-tour-of-minneapolis/](https://www.exploreminnesota.com/travel-ideas/prince-tour-of-minneapolis/)  
+Since the death of Prince in April 2016, a sort of "tour" of key sites has developed. The biggest destination is Paisley Park, which offers daily tours. Paisely Park is located in a suburb south of Minneapolis called Chanhassen. (Sorry the trains don’t run that far). The link above has details and a list of other sites that Prince fans have been visiting.
 
 ### Can Can Wonderland
 
-[http://www.cancanwonderland.com/](http://www.cancanwonderland.com/)  
-Located in St. Paul, right on the border with Minneapolis, this is a new venue for adults to be more like kids. Mini golf, amusements, bar and restaurant, arts-based flora and fauna. Unfortunately it’s not close to the train line, but would be a short cab or Uber ride from the conference hotel. 
+[https://www.cancanwonderland.com/](https://www.cancanwonderland.com/)  
+Located in St. Paul, right on the border with Minneapolis, this is a new venue for adults to be more like kids. Mini golf, amusements, bar and restaurant, arts-based flora and fauna. Unfortunately it’s not close to the train line, but would be a short cab or Uber ride from the conference hotel.
 
 <span id="trips"></span>
 
@@ -689,7 +688,7 @@ Located in St. Paul, right on the border with Minneapolis, this is a new venue f
 
 ### Franconia Sculpture Park
 
-[http://www.franconia.org](http://www.franconia.org)  
+[https://www.franconia.org](https://www.franconia.org)  
 47.5 miles  
 29836 Saint Croix Trail, Shafer, MN  
 There is a house suspended from wires, a sculpture made of boom boxes that reaches towards the heavens... Many of the sculptures are welded, formed, and banged together on site. It's sprawling and it's amazing.
@@ -705,6 +704,5 @@ It's a 2.5-hour drive, but it's a great little city on a really big lake. If you
 
 ### City Pages, "Best of…" lists for 2018
 
-[http://www.citypages.com/best-of/2018](http://www.citypages.com/best-of/2018)  
+[https://www.citypages.com/best-of/2018](https://www.citypages.com/best-of/2018)  
 This covers a lot of other ground, especially in food and entertainment.
-

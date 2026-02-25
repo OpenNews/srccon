@@ -14,10 +14,9 @@ permalink: /docs/transcripts/altarcall/index.html
 
 ### Session Facilitator(s): Kaeti Hinck, Millie Tran
 
-### Day & Time: Friday, 4:30-5:30pm 
+### Day & Time: Friday, 4:30-5:30pm
 
 ### Room: Ski-U-Mah
-
 
 Hey, everybody. How's it going?
 
@@ -49,28 +48,23 @@ So you want to implement more.
 
 Implement into our process.
 
-
 I'll attempt to write some of this down.
 
-I want to keep some of the conversations going that I just had like in between sessions, with new people that I met, about like shared interests and topics that we have in common, so I met some people working on fun stuff that I'm like geeking out about that I didn't know they were working on, so just like to  keep that conversation.
+I want to keep some of the conversations going that I just had like in between sessions, with new people that I met, about like shared interests and topics that we have in common, so I met some people working on fun stuff that I'm like geeking out about that I didn't know they were working on, so just like to keep that conversation.
 
 Translate those hallway conversations into an ongoing kind of relationship and build on that.
 
 Other things?
 
-
 So you don't have to share it, but just think about someone who you want to keep in touch with or were really inspired by. Just keep that in mind.
 
 I'll share something. I'd like to take home some process tools, like the responsibility assignment matrix that was the CPR team talked about, and one of the other things to take home is—sorry, come back to me. Thanks.
-
 
 All right.
 
 This doesn't even have to be a work thing. This can be a personal, professional thing.
 
-
 I got some good ideas for use ability testing and like human-centered design, just different things that people were mentioning. So definitely keep those in mind.
-
 
 I just want to at least be more of an advocate in my organization for making accessibility questions at the forefront of like the beginning of projects. You know, whether or not I can make that difference is going to fend on other stuff, but I at least want to be someone always reminding me of that.
 
@@ -79,7 +73,6 @@ I'd like to maintain the sense of perspective that I've gotten from SRCCON, beca
 We're all failing.
 
 Yeah, there's not a great single solution for everything, so.
-
 
 I think I intend to use the conference a little bit as like a springboard to start some conversations in a like very pointed kind of way. Like you sent me, you want to know what I learned? Like we need to think about this thing that we have never thought about before and just use it as a way to be really forceful so it doesn't seem like it's coming out of the blue and maybe like get some leverage that way.
 
@@ -101,7 +94,6 @@ This is a solid list.
 
 Figuring out how to find or grow this kind of community where I live.
 
-
 That's a good list.
 
 All right. So now, we've got this list and some ideas and I don't know where the cursor is. Here it is.
@@ -111,7 +103,6 @@ So we're going to do some work in smaller groups, so how many of you know everyb
 You need to move tables.
 
 If you know someone at your table, move. And anybody at a table with just yourself or maybe one other person, you should consolidate so you have someone to work with.
-
 
 All right, so in your groups, you can start by kind of identifying one thing as a group you're going to tackle, maybe one of the things on the list that we just talked about or something else entirely, but it would probably be good to focusing on like one specific thing, like oh, I want to figure out how to grow this community in my area, and once you've sort of identified that how might we question, talk about what obstacles are going to come up to that? Like what's going to make it hard to do that? What has stopped me from doing that in the past?
 
@@ -125,14 +116,11 @@ Yeah. And.
 
 And then start talking about solution, like what can we do to address this problem? How can we make it accessible to other people? How can we bring new people in? If it's a tool or like the news nerd slack room which already exists, but how do we make that more accessible?
 
-
 So kind of our thinking in building this whole session was that we would go from concrete thing which were these problems or not problems but kind of these goals that we want to pursue, and then go into this theoretical and imagine problems you might face and anticipate them so we can solve them and then end with some concrete things you can do to go back there.
 
 So yeah, so just talk through some of the stuff in your group and then in the last about ten minutes, we'll do a report back, and just share on the next page we've got kind of a list sort of what you could share with the whole room, you know, what you hope to accomplish, obstacles and specific tactics that might help, and how we're going to hold ourselves accountable to actually make this stuff happen.
 
-
 Yeah, go for it.
-
 
 [group activity]
 
@@ -143,7 +131,6 @@ We're going to start report backs in about 10, 12 minutes ... ...
 All right, let's get started on report-backs, because we've got quite a few groups.
 
 Who wants to go first?
-
 
 Call on them, they seem animated.
 
@@ -209,9 +196,9 @@ And I will say, though, that I hate the—I hate like bland positive feedback mo
 
 Today we were talking about also fostering personal relationships and I find like I'm extremely remote from my team. I'm in Canada, everybody else is on the east coast. And telling somebody that they did a great job is kind of the best like seriously because if you put it into Slack or something, I can't hear you laughing empathy. I am not that great of hearing in the first place, but even just like the little things with like, hey, your joke was funny or that email you sent was really nice, or you know, I saw an illustration you did in your spare time and it was awesome, like just like those personal things that are out side of work that make people feel good so that you can foster a relationship.
 
-I think another way to show empathy is especially for lots of group meetings where you have overlaps in disciplines or you have disciplines where there's not a lot of overlap, trying to frame things in lowest common denominator terms and being  sensitive to the room. If you feel it being too jargoning or too down a rat hole, pulling the conversation back so that everybody thinks they're starting at the same place. And not presuming everybody in the room is caught up to speed and knows what's happening. I think a lot of times people find themselves embarrassed in meetings because they don't quite know how they got to that part of the conversation.
+I think another way to show empathy is especially for lots of group meetings where you have overlaps in disciplines or you have disciplines where there's not a lot of overlap, trying to frame things in lowest common denominator terms and being sensitive to the room. If you feel it being too jargoning or too down a rat hole, pulling the conversation back so that everybody thinks they're starting at the same place. And not presuming everybody in the room is caught up to speed and knows what's happening. I think a lot of times people find themselves embarrassed in meetings because they don't quite know how they got to that part of the conversation.
 
-I think it's—whatever the specific thing is to understand where the position is in that thing. Like if it's design, every organization has design at a certain level and there's other levels beyond it. But you can't go ten levels instantly, you have to pick one. So I think it's helpful to figure out where that thing is and then where's the next thing. 
+I think it's—whatever the specific thing is to understand where the position is in that thing. Like if it's design, every organization has design at a certain level and there's other levels beyond it. But you can't go ten levels instantly, you have to pick one. So I think it's helpful to figure out where that thing is and then where's the next thing.
 
 Where's the mic?
 
@@ -223,7 +210,6 @@ Well, pick one and we can work on them.
 
 OK. You made me talk, so I'll talk about myself. Building community locally. I guess similar to what you were saying, like, you know, start a meetup. Let's see. What am I supposed to be talking about really quickly?
 
-
 Oh, yeah, obstacles. Obstacles, finding people, no, I don't even really want to talk right now, but—so my obstacles specifically are running a tech community already but not being able to get journalism people involved is the challenge primarily. So figuring out how to do that, and, you know, sort of reviewing like dead hacks/hacker group in the city like come back to life or go away completely. Choose one.
 
 Does anyone—we're all in journalism, but does anyone on the editorial side have thoughts about being brought back in?
@@ -231,7 +217,6 @@ Does anyone—we're all in journalism, but does anyone on the editorial side hav
 What would make you want to actually attend a journalism meetup if you haven't attended one before?
 
 Free food. Pizza.
-
 
 [laughter]
 
@@ -262,7 +247,6 @@ Where is this conference?
 
 Can we go.
 
-
 This was 2002.
 
 So one thing that actually since we've been talking is sort of interesting, I went to try and join the news nerds Slack and I couldn't, because it's invite only, and so I think for online communities, being open to people who aren't necessarily connected already is really important, because that was sort of—someone invited me now so I'm in --
@@ -277,7 +261,7 @@ How to make RMC usable.
 
 Out of scope.
 
-Yeah, OK, how are you guys? 
+Yeah, OK, how are you guys?
 
 Yeah, so we kind of rambled a lot, but some of the obstacles, just kind of staying in touch with people after the conference was done, one of the things we talked about is tools. There are a lot of great tools that were mentioned over these two days, tools that we don't know about.
 
@@ -286,7 +270,6 @@ Name some.
 Like right like I actually have a list. There was actually a talk today about just tools, so you know, marionette backbone, reactive sales, middleman, web pack, Grunt, browsify, we can go on and on but a lot of great tools and maybe there's a repository or something like that.
 
 Right there.
-
 
 Cool tools for news. There's a read me file.
 
@@ -310,12 +293,10 @@ Actually a really great idea, too, you touched on this a little bit but after th
 
 I like what you said back there. I think he called it work. And it is, it takes time to write an email to follow up with someone and say hey, I thought what you were doing was really interesting and what you were saying was really interesting and this is how we keep in touch but it's work but it only takes a few minutes and it's worth it. Because you can be friends for 15 years.
 
-
 I think this is a great list of both problems, frustrations, but potential solutions, and I think these people in the room can help be people that keep us accountable and this is a community and the kind of community can help us continue the momentum, inspiration and work that we want to be doing in between conferences and bringing in people to the community who, for whatever reason can't attend conferences, aren't here.
 
 We hope you found this useful.
 
-
 [applause]
 
-[session ended] 
+[session ended]

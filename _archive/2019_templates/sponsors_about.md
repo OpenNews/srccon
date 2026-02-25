@@ -7,26 +7,25 @@ title: SRCCON 2019 — Become a SRCCON Sponsor
 
 # Become a SRCCON Sponsor
 
-_"You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you've done."_ 
+_"You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you've done."_
 
-_"This was the first conference I've been a part of where I felt I belonged on every level."_ 
+_"This was the first conference I've been a part of where I felt I belonged on every level."_
 
 SRCCON is a journalism conference people love. This reaction comes from the approach SRCCON takes: highly participatory and extraordinarily inclusive. We're grateful for the support of sponsors in helping make this event possible.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; margin-bottom: 50px; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-
 ## Help Make SRCCON Happen
 
-We're seeking sponsors for SRCCON 2019, which will host 300 participants in Minneapolis on July 11-12. 
+We're seeking sponsors for SRCCON 2019, which will host 300 participants in Minneapolis on July 11-12.
 
 Available sponsorships include:
 
-* **Lead sponsorship and partnership sponsors** - core supporters who make it possible to keep ticket prices low, offer facilitation training to session leaders, and support all attendees in having a great experience
-* **Accessibility sponsors** - support for scholarships, transcription, and childcare
-* **Meal and snacks sponsors** - helping keep attendees nourished throughout the event
-* **Event sponsors** - help make the entire event possible
-* **Special event sponsors for local organizations** - a chance for local media and technology companies and foundations to connect with a national audience
+- **Lead sponsorship and partnership sponsors** - core supporters who make it possible to keep ticket prices low, offer facilitation training to session leaders, and support all attendees in having a great experience
+- **Accessibility sponsors** - support for scholarships, transcription, and childcare
+- **Meal and snacks sponsors** - helping keep attendees nourished throughout the event
+- **Event sponsors** - help make the entire event possible
+- **Special event sponsors for local organizations** - a chance for local media and technology companies and foundations to connect with a national audience
 
 Each sponsorship includes at least 1 free ticket and different types of visibility and recognition throughout the event. [Contact Erika Owens](mailto:erika@opennews.org) for a full kit with pricing and further details. We love chatting with folks to find the best way we can collaborate to welcome your team to the event and make it inclusive for all attendees!
 
@@ -43,7 +42,7 @@ OpenNews has been hosting SRCCON annually since 2014, and added a series of smal
 
 ## Who Attends and Why
 
-People come first at SRCCON. The entire event is set up to allow participants to focus on getting to know each other and learn from the wisdom in the room. A third of participants also facilitate sessions, leading conversations and skillshares that help folks bring new ideas and experience back to their newsrooms. 
+People come first at SRCCON. The entire event is set up to allow participants to focus on getting to know each other and learn from the wisdom in the room. A third of participants also facilitate sessions, leading conversations and skillshares that help folks bring new ideas and experience back to their newsrooms.
 
 ### The SRCCON 2018 audience included:
 
