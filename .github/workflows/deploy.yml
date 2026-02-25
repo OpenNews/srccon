@@ -33,7 +33,7 @@ jobs:
       - name: Extract deployment config from _config.yml
         id: config
         run: |
-          mapfile -t DEPLOYMENT_VALUES < <(ruby -ryaml -e "config = YAML.safe_load_file('_config.yml', aliases: true); deployment = config['deployment'] || {}; puts deployment['bucket'].to_s; puts deployment['staging_bucket'].to_s; puts deployment['cloudfront_distribution_id'].to_s")
+          mapfile -t DEPLOYMENT_VALUES < <(ruby -ryaml -e "config = YAML.safe_load_file('_config.yml', permitted_classes: [], aliases: true); deployment = config['deployment'] || {}; puts deployment['bucket'].to_s; puts deployment['staging_bucket'].to_s; puts deployment['cloudfront_distribution_id'].to_s")
           BUCKET="${DEPLOYMENT_VALUES[0]}"
           if [ -z "$BUCKET" ]; then
             echo "Error: S3 bucket name not configured. Please set deployment.bucket in _config.yml." >&2
