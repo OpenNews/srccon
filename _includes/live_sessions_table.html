@@ -1,12 +1,21 @@
 <div class="live hidden">
-    <h2 id="live-leader">Right now at SRCCON</h2>
-    <table>{% for session in site.data.schedule %}
-        <tr class="hidden live-{{ session.timeblock }}">
-            <td class="session-time">{{ session.time }}</td>
-            <td><a class="session-title" href="https://schedule.srccon.org/#_session-{{ session.id }}">{{ session.title }}</a>{% if session.transcription != "" %}<br><a class="session-transcript" href="https://upword.ly/view?user=srccon2019&job=srccon2019-{{ session.id }}">Live transcript</a>{% endif %}</td>
-        </tr>
-{% endfor %}
-    </table>
-    
-    <a class="context-link" href="https://schedule.srccon.org">See the full SRCCON schedule</a>
+  <h2 id="live-leader">Right now at SRCCON</h2>
+  <table>
+    {% for session in site.data.schedule %}
+    <tr class="hidden live-{{ session.timeblock }}">
+      <td class="session-time">{{ session.time }}</td>
+      <td>
+        <a class="session-title" href="https://schedule.srccon.org/#_session-{{ session.id }}"
+          >{{ session.title }}</a
+        >{% if session.transcription != "" %}<br /><a
+          class="session-transcript"
+          href="https://upword.ly/view?user=srccon2019&job=srccon2019-{{ session.id }}"
+          >Live transcript</a
+        >{% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+
+  <a class="context-link" href="https://schedule.srccon.org">See the full SRCCON schedule</a>
 </div>
