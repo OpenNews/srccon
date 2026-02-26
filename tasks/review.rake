@@ -5,18 +5,19 @@ require "yaml"
 module ReviewHelpers
   def self.fetch_url(url)
     uri = URI.parse(url)
-    
-    Net::HTTP.start(uri.host, uri.port,
-                    use_ssl: uri.scheme == 'https',
-                    open_timeout: 10,
-                    read_timeout: 30) do |http|
+
+    Net::HTTP.start(
+      uri.host,
+      uri.port,
+      use_ssl: uri.scheme == "https",
+      open_timeout: 10,
+      read_timeout: 30,
+    ) do |http|
       request = Net::HTTP::Get.new(uri.request_uri)
       response = http.request(request)
-      
-      unless response.is_a?(Net::HTTPSuccess)
-        raise "HTTP #{response.code}: #{response.message}"
-      end
-      
+
+      raise "HTTP #{response.code}: #{response.message}" unless response.is_a?(Net::HTTPSuccess)
+
       response.body
     end
   rescue => e
@@ -26,28 +27,27 @@ module ReviewHelpers
   def self.normalize_html(content)
     # Remove dynamic content that's expected to differ
     normalized = content.dup
-    
+
     # Remove timestamps and date strings (various formats)
     normalized.gsub!(/\d{4}-\d{2}-\d{2}[T\s]\d{2}:\d{2}:\d{2}/, "TIMESTAMP")
     normalized.gsub!(/\d{1,2}\/\d{1,2}\/\d{4}/, "DATE")
-    
+
     # Remove session IDs and tracking codes
     normalized.gsub!(/session[-_]?id["\s:=]+[a-zA-Z0-9]+/i, "SESSION_ID")
     normalized.gsub!(/[?&]utm_[a-z]+=[^&"'\s]+/, "")
-    
+
     # Remove cache-busting query strings
     normalized.gsub!(/\.(css|js|png|jpg|gif|svg)\?v=[a-zA-Z0-9]+/, '.\1')
-    
+
     # Normalize whitespace
     normalized.gsub!(/\s+/, " ")
     normalized.strip!
-    
+
     normalized
   end
 end
 
 namespace :review do
-
   desc "Check external/public URLs in the built site (slower, requires network access)"
   task :external_links do
     # if no _site/, remind user to run bundle exec rake build first
@@ -141,9 +141,7 @@ namespace :review do
     extra_paths = []
 
     if ENV["EXTRA_PATHS"]
-      extra_paths.concat(
-        ENV["EXTRA_PATHS"].split(",").map(&:strip).reject(&:empty?)
-      )
+      extra_paths.concat(ENV["EXTRA_PATHS"].split(",").map(&:strip).reject(&:empty?))
     end
 
     if ENV["EXTRA_PATHS_FILE"]
@@ -151,10 +149,11 @@ namespace :review do
         abort "❌ EXTRA_PATHS_FILE not found: #{ENV["EXTRA_PATHS_FILE"]}"
       end
 
-      file_paths = File
-        .readlines(ENV["EXTRA_PATHS_FILE"])
-        .map(&:strip)
-        .reject { |line| line.empty? || line.start_with?("#") }
+      file_paths =
+        File
+          .readlines(ENV["EXTRA_PATHS_FILE"])
+          .map(&:strip)
+          .reject { |line| line.empty? || line.start_with?("#") }
       extra_paths.concat(file_paths)
     end
 
@@ -163,7 +162,7 @@ namespace :review do
       html_files = (html_files + extra_paths).uniq
       puts "➕ Added #{extra_paths.size} extra path(s) from EXTRA_PATHS/EXTRA_PATHS_FILE"
     end
-    
+
     if html_files.empty?
       abort "❌ No HTML files found in _site/. Please run 'bundle exec rake build' first."
     end
@@ -194,7 +193,8 @@ namespace :review do
           # Calculate similarity
           staging_size = staging_normalized.length
           prod_size = prod_normalized.length
-          size_diff_pct = ((staging_size - prod_size).abs.to_f / [staging_size, prod_size].max * 100).round(1)
+          size_diff_pct =
+            ((staging_size - prod_size).abs.to_f / [staging_size, prod_size].max * 100).round(1)
 
           differences << {
             path: path,
@@ -219,15 +219,17 @@ namespace :review do
 
     if differences.any?
       puts "\n 📊 Content differences found (#{differences.size} pages):"
-      
+
       # Show significant differences (>10% size change)
       significant = differences.select { |d| d[:size_diff_pct] > 10 }
       if significant.any?
         puts "⚠️  SIGNIFICANT differences (>10% size change):"
-        significant.first(20).each do |diff|
-          puts "  - #{diff[:path]}"
-          puts "    Staging: #{diff[:staging_size]} chars | Production: #{diff[:prod_size]} chars | Diff: #{diff[:size_diff_pct]}%"
-        end
+        significant
+          .first(20)
+          .each do |diff|
+            puts "  - #{diff[:path]}"
+            puts "    Staging: #{diff[:staging_size]} chars | Production: #{diff[:prod_size]} chars | Diff: #{diff[:size_diff_pct]}%"
+          end
         puts "  ... and #{significant.size - 20} more" if significant.size > 20
         puts ""
       end
@@ -237,9 +239,7 @@ namespace :review do
       if minor.any?
         puts "ℹ️  Minor differences (≤10% size change): #{minor.size} pages"
         if minor.size <= 10
-          minor.each do |diff|
-            puts "  - #{diff[:path]} (#{diff[:size_diff_pct]}% diff)"
-          end
+          minor.each { |diff| puts "  - #{diff[:path]} (#{diff[:size_diff_pct]}% diff)" }
         end
         puts ""
       end

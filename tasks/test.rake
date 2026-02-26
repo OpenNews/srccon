@@ -21,7 +21,7 @@ namespace :test do
           enforce_https: true,
           ignore_urls: [
             %r{^http://(localhost|127\.0\.0\.1)},
-            %r{^http://weareallaweso\.me} # zombie https site
+            %r{^http://weareallaweso\.me}, # zombie https site
           ],
           allow_hash_href: true,
           log_level: :error,
