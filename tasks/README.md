@@ -28,6 +28,18 @@ Comprehensive testing suite for the built site.
 - `rake test:performance` - Check for performance issues
 - `rake test:sessions` - Validate session page structure
 
+### `review.rake` - Post-Deployment Review & Audits
+
+Review tasks that are intentionally separate from `rake test`.
+
+- `rake review:external_links` - Validate public/external URLs (slower, network required; useful before launch and periodic link audits)
+- `rake review:compare_deployed_sites` - Compare staging vs production HTML output (useful for post-deployment review and release audit)
+
+Notes:
+
+- `rake test` intentionally excludes `review:*` tasks.
+- Use `review:compare_deployed_sites` after staging/production deploys to audit whether content differences are expected.
+
 ### `outdated.rake` - Dependency Updates
 
 Check for outdated Ruby gems.
@@ -36,6 +48,11 @@ Check for outdated Ruby gems.
 - `rake outdated:direct` - Check only direct dependencies from Gemfile
 - `rake outdated:all` - Check all outdated dependencies (including transitive)
 
-### `setup.rake` - Initial Site Setup
+### `Rakefile` (root) - Build, Deploy, and Config Validation
 
-DELETED here, manual setup instead
+Core project tasks are defined in the root `Rakefile`, including:
+
+- `rake validate_yaml`, `rake check`, `rake build`, `rake clean`, `rake serve`
+- `rake deploy:precheck`
+- `rake deploy:staging:dryrun`, `rake deploy:staging:real`
+- `rake deploy:production:dryrun`, `rake deploy:production:real`

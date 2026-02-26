@@ -16,7 +16,7 @@ SRCCON 2015 takes place at the <a href="https://www.google.com/maps/place/mcnama
 
 ## Schedule
 
-The [full SRCCON schedule](https://schedule.srccon.org) is now live. SRCCON will run from 9am till 9pm on Thursday, June 25 (including breakfast and non-session evening activities), and from 10am till 6:15pm on Friday, June 26.
+The [full SRCCON schedule](https://2015.srccon.org/schedule/) is now live. SRCCON will run from 9am till 9pm on Thursday, June 25 (including breakfast and non-session evening activities), and from 10am till 6:15pm on Friday, June 26.
 
 ## Transit
 

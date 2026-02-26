@@ -131,7 +131,7 @@ Each session will be led by a facilitator or two or three who will guide partici
 
 ## Where is the conference schedule?
 
-The SRCCON schedule lives at [schedule.srccon.org](https://schedule.srccon.org), so you'll want to load that link on your phone. The schedule will be posted about a week before SRCCON. You can even mark sessions you want to attend and build your own custom schedule. We'll also post session names outside each room during the conference.
+The SRCCON schedule lives at [schedule.srccon.org](https://2017.srccon.org/schedule/), so you'll want to load that link on your phone. The schedule will be posted about a week before SRCCON. You can even mark sessions you want to attend and build your own custom schedule. We'll also post session names outside each room during the conference.
 
 ## How will I find the sessions?
 

@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en-US">
-  <!--<![endif]-->
   <head>
     {% include headmeta.html %}
   </head>
@@ -34,6 +33,32 @@
       <div class="page-container">{{ content }}</div>
     </main>
 
-    <footer>{% include hub_footer.html %}</footer>
+    <footer>
+      <div class="page-container">
+        {% if page.main_footer != true %} {% if page.section != 'conduct' %}
+        <p>
+          <a href="/conduct">Read our code of conduct</a>
+        </p>
+        {% endif %}
+
+        <p>
+          Keep in touch:
+          <span class="contact-options">
+            <a href="https://bsky.app/profile/opennews.bsky.social">@srccon on BlueSky</a> /
+            <a href="mailto:srccon@opennews.org">Email</a> /
+            <a href="https://eepurl.com/czSVTL">Newsletter</a>
+          </span>
+        </p>
+
+        {% endif %}
+
+        <p class="trailer">
+          <em
+            >We say it &ldquo;Source con&rdquo;—SRC as in source code, CON as in conference.
+            You&nbsp;can&nbsp;say&nbsp;it&nbsp;however&nbsp;you&nbsp;want!</em
+          >
+        </p>
+      </div>
+    </footer>
   </body>
 </html>

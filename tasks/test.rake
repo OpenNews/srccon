@@ -2,7 +2,7 @@ require "html-proofer"
 require "yaml"
 
 namespace :test do
-  desc "Check the built site with html-proofer"
+  desc "Check the built site with html-proofer (internal links only)"
   task :html_proofer do
     # if no _site/, remind user to run bundle exec rake build first
     unless Dir.exist?("./_site")
@@ -19,7 +19,10 @@ namespace :test do
         {
           disable_external: true,
           enforce_https: true,
-          ignore_urls: [%r{^http://(localhost|127\.0\.0\.1)}],
+          ignore_urls: [
+            %r{^http://(localhost|127\.0\.0\.1)},
+            %r{^http://weareallaweso\.me} # zombie https site
+          ],
           allow_hash_href: true,
           log_level: :error,
         },
@@ -268,7 +271,7 @@ namespace :test do
   end
 end
 
-# Make `rake test` run all tests
+# Make `bundle exec rake test` run all tests
 desc "Run all tests"
 task test: [
        "test:html_proofer",

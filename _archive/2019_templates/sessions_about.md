@@ -9,7 +9,7 @@ title: SRCCON 2019 — About Our Sessions
 
 # About Sessions at SRCCON
 
-SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that help every attendee head home with new ideas. Check out the [schedule for SRCCON 2019](https://schedule.srccon.org)!
+SRCCON is built around two days of peer-led conversations and hands-on workshops. The community members who step up to facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that help every attendee head home with new ideas. Check out the [schedule for SRCCON 2019](https://2019.srccon.org/schedule/)!
 
 Our program for SRCCON is built around key community values:
 
