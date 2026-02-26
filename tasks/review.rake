@@ -122,8 +122,11 @@ namespace :review do
     abort "❌ Staging bucket not configured in _config.yml" unless staging_bucket
     abort "❌ Production bucket not configured in _config.yml" unless prod_bucket
 
-    staging_url = "https://#{staging_bucket}"
+    staging_url = "http://#{staging_bucket}"
     prod_url = "https://#{prod_bucket}"
+
+    staging_url = staging_url.chomp("/")
+    prod_url = prod_url.chomp("/")
 
     puts "🔍 Comparing deployed sites:"
     puts "   Staging:    #{staging_url}"
@@ -132,6 +135,34 @@ namespace :review do
 
     # Collect paths from built site
     html_files = Dir.glob("_site/**/*.html").map { |f| f.sub("_site", "") }
+
+    # Optionally include additional paths that are not present in local _site
+    # (e.g., legacy/archive URLs still live on deployed environments).
+    extra_paths = []
+
+    if ENV["EXTRA_PATHS"]
+      extra_paths.concat(
+        ENV["EXTRA_PATHS"].split(",").map(&:strip).reject(&:empty?)
+      )
+    end
+
+    if ENV["EXTRA_PATHS_FILE"]
+      unless File.exist?(ENV["EXTRA_PATHS_FILE"])
+        abort "❌ EXTRA_PATHS_FILE not found: #{ENV["EXTRA_PATHS_FILE"]}"
+      end
+
+      file_paths = File
+        .readlines(ENV["EXTRA_PATHS_FILE"])
+        .map(&:strip)
+        .reject { |line| line.empty? || line.start_with?("#") }
+      extra_paths.concat(file_paths)
+    end
+
+    unless extra_paths.empty?
+      extra_paths.map! { |path| path.start_with?("/") ? path : "/#{path}" }
+      html_files = (html_files + extra_paths).uniq
+      puts "➕ Added #{extra_paths.size} extra path(s) from EXTRA_PATHS/EXTRA_PATHS_FILE"
+    end
     
     if html_files.empty?
       abort "❌ No HTML files found in _site/. Please run 'bundle exec rake build' first."
@@ -177,20 +208,17 @@ namespace :review do
       end
     end
 
-    puts "\r✓ Checked #{checked} pages"
-    puts ""
+    puts "\n✓ Checked #{checked} pages"
 
     # Report results
     if errors.any?
       puts "⚠️  Errors encountered (#{errors.size}):"
       errors.first(10).each { |e| puts "  - #{e}" }
       puts "  ... and #{errors.size - 10} more" if errors.size > 10
-      puts ""
     end
 
     if differences.any?
-      puts "📊 Content differences found (#{differences.size} pages):"
-      puts ""
+      puts "\n 📊 Content differences found (#{differences.size} pages):"
       
       # Show significant differences (>10% size change)
       significant = differences.select { |d| d[:size_diff_pct] > 10 }
@@ -216,7 +244,7 @@ namespace :review do
         puts ""
       end
 
-      puts "💡 Review these differences to ensure staging changes are intentional before promoting to production."
+      puts "\n💡 Review these differences to ensure staging changes are intentional before promoting to production."
     else
       puts "✅ No content differences detected between staging and production!"
     end
