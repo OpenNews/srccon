@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta
   name="description"
-  content="{{ page.description | markdownify | strip_html | strip_newlines }}"
+  content="{{ page.description | markdownify | strip_html | strip_newlines | escape_once }}"
 />
 <link rel="canonical" href="https://srccon.org{{ page.url }}" />
 
@@ -17,7 +17,7 @@
 <meta property="og:type" content="article" />
 <meta
   property="og:description"
-  content="{{ page.description | markdownify | strip_html | strip_newlines }}"
+  content="{{ page.description | markdownify | strip_html | strip_newlines | escape_once }}"
 />
 <meta property="og:image" content="https://srccon.org{{ page.logo }}" />
 <meta property="og:image:width" content="512" />
