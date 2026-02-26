@@ -35,6 +35,11 @@ Review tasks that are intentionally separate from `rake test`.
 - `rake review:external_links` - Validate public/external URLs (slower, network required; useful before launch and periodic link audits)
 - `rake review:compare_deployed_sites` - Compare staging vs production HTML output (useful for post-deployment review and release audit)
 
+`review:compare_deployed_sites` supports extra URL paths that are not in local `_site/`:
+
+- `EXTRA_PATHS="/legacy-url-1/,/legacy-url-2/"` (comma-separated)
+- `EXTRA_PATHS_FILE=path/to/paths.txt` (one path per line, `#` comments allowed)
+
 Notes:
 
 - `rake test` intentionally excludes `review:*` tasks.

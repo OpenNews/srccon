@@ -91,6 +91,12 @@ bundle exec rake review:external_links
 
 # Release audit: staging vs production content drift
 bundle exec rake review:compare_deployed_sites
+
+# Include archive/legacy URLs not present in local _site
+bundle exec rake review:compare_deployed_sites EXTRA_PATHS="/2014/,/2014/program/"
+
+# Or load extra paths from a file (one path per line)
+bundle exec rake review:compare_deployed_sites EXTRA_PATHS_FILE=temp/archive_paths.txt
 ```
 
 - `review:external_links` helps detect outbound link rot, redirects, or policy changes on third-party sites.
