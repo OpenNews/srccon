@@ -6,6 +6,7 @@ logo_link: /srccon-care-2022/
 share_image: /media/img/srccon_care_logo_share.png
 title: SRCCON:CARE — Our Sponsors
 main_footer: true
+section: care
 ---
 
 <div class="page-intro">    
@@ -16,13 +17,12 @@ main_footer: true
         <span class="line-splitter">&bull;</span>
         <a href="mailto:srccon@opennews.org">Email</a>
         <span class="line-splitter">&bull;</span>
-        <a href="http://eepurl.com/czSVTL">Newsletter</a>
+        <a href="https://eepurl.com/czSVTL">Newsletter</a>
 
-        <a href="https://opennews.org/donate" class="button">Support our work!</a>
+        <a href="https://opennews.networkforgood.com/" class="button">Support our work!</a>
     </div>
+
 </div>
-
-
 
 # Our sponsors
 
@@ -31,7 +31,7 @@ Interested in having your company or organization get involved? [Find out more a
 <!--<div class="page-divider"><span>Event sponsors</span></div>-->
 
 <div class="sponsor-block secondary">
-    <a href="http://www.democracyfund.org"><img src="/media/img/partners/democracy_fund.png" alt="Democracy Fund"></a>
+    <a href="https://www.democracyfund.org"><img src="/media/img/partners/democracy_fund.png" alt="Democracy Fund"></a>
 </div>
 
 <div class="sponsor-block secondary">
@@ -45,6 +45,5 @@ Interested in having your company or organization get involved? [Find out more a
 <div class="sponsor-block secondary">
     <a href="https://www.civicexchangechicago.com/"><img src="/media/img/partners/civic_exchange.png" alt="Civic Exchange"></a>
 </div>
-
 
 {% include srccon_care_2022_footer.html %}

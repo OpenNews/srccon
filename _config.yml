@@ -4,7 +4,19 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
 plugins:
   - jekyll-redirect-from
-exclude: ['*.yml']
+exclude:
+  [
+    "*.yml",
+    "tasks/*",
+    "tmp/*",
+    "temp/*",
+    "TROUBLESHOOTING.md",
+    "LICENSE",
+    "package*",
+    "Rakefile",
+    "README.md",
+    "*.json",
+  ]
 collections:
   transcripts:
     output: true
@@ -13,14 +25,29 @@ collections:
     output: true
     permalink: /:collection/:slug/
 
+# Deployment vars - used by `rake deploy:*` tasks and GitHub Actions
+deployment:
+  bucket: srccon.org
+  staging_bucket: staging.srccon.org
+  cloudfront_distribution_id: ECMNG6UKQITLL
+
 defaults:
   - scope:
       path: ""
     values:
-      layout: layout_hub
+      # layout options: layout | layout_hub
+      layout: layout_hub # `layout` is fairly out of date for content circa 2026
+      # logo options
       logo: /media/img/srccon_logo_angle_512.png
-      title: SRCCON Events — Change how your journalism works
+      # sitewide title tag default
+      title: SRCCON 2026 — July 8 & 9 in Minneapolis
+      # sitewide description tag default -- can be overridden on a per-page basis
       description: SRCCON events are participatory, interactive conferences and workshops centered on the challenges that news technology and data teams encounter every day.
+      # link to the schedule for the current SRCCON event -- used in the _layout files
+      latest_srccon_program: https://2026.srccon.org/program/
+      # google_analytics_id: set this value to your GA4 measurement ID (format: G-XXXXXXXXXX)
+      # Leave empty to disable Google Analytics tracking
+      google_analytics_id: ""
   - scope:
       path: ""
       type: "transcripts"

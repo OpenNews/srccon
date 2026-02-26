@@ -15,7 +15,7 @@ permalink: /tickets/index.html
 
 SRCCON is a small event and we’re tuning the program (and meals) to the exact attendee list we have, so please let us know as soon as you can if you’re not coming, because it may mean we’ll need to tweak our program a little.
 
-**Transfers:** *All tickets to SRCCON are non-transferrable.* Tickets are specific to the ticketholder and can't be given to a coworker, collaborator, or anyone else. If you can't attend SRCCON, you should cancel your ticket.
+**Transfers:** _All tickets to SRCCON are non-transferrable._ Tickets are specific to the ticketholder and can't be given to a coworker, collaborator, or anyone else. If you can't attend SRCCON, you should cancel your ticket.
 
 **Cancellations:** You can cancel your ticket for a full refund up until two weeks before the conference begins (July 14). After July 14, we can't refund your ticket, but we would still love to know if you're not attending so we can adjust our plans accordingly.
 
@@ -25,9 +25,9 @@ Some of you are coming to Portland with partners and have wondered if they can t
 
 ## Lottery recap
 
-* The lottery was open May 18 until noon Eastern on May 24.
-* Everyone who registered was notified of their status in the lottery (selected or not) by **5pm Eastern on May 25**.
-* Each selected person has 48 hours to buy a single, non-transferrable ticket. Tickets cost $195.
+- The lottery was open May 18 until noon Eastern on May 24.
+- Everyone who registered was notified of their status in the lottery (selected or not) by **5pm Eastern on May 25**.
+- Each selected person has 48 hours to buy a single, non-transferrable ticket. Tickets cost $195.
 
 You can [read lots more about our switch to a lottery system](https://opennews.org/blog/srccon-tix/) on the OpenNews blog.
 

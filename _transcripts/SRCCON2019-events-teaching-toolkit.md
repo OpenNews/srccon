@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — Bang for your buck: how to help your newsroom get the most out of SRCCON (or any journalism event)"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # Bang for your buck: how to help your newsroom get the most out of SRCCON (or any journalism event)
 

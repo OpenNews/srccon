@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — How to re-org your newsroom around product without breaking it"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # How to re-org your newsroom around product without breaking it
 
@@ -176,7 +176,7 @@ AMANDA: So everyone has access to the road map. In fact, everyone on the team, m
 
 JESSICA: Not just the product team. The whole staff.
 
-AMANDA: Sorry, the whole staff can make a request that goes onto the road map. Jessica had mentioned that we get together for an all-hands meeting. All the international staff come in to DC for a week and part of that activity is we do road map planning for the following year. And so that's the process. So there's input that they have in the process. And then it's staff-wide. It's always available. Jessica and I do quarterly road map updates, memos to staff. Reviewing... What have we checked off the box? What's coming up in the next quarter? And I think having that at the highest level -- and we reported out, I reported out upwards, as well. It's part of our reporting into our editorial board. Governing board. Corporate boards for the non-profit that we work for. 
+AMANDA: Sorry, the whole staff can make a request that goes onto the road map. Jessica had mentioned that we get together for an all-hands meeting. All the international staff come in to DC for a week and part of that activity is we do road map planning for the following year. And so that's the process. So there's input that they have in the process. And then it's staff-wide. It's always available. Jessica and I do quarterly road map updates, memos to staff. Reviewing... What have we checked off the box? What's coming up in the next quarter? And I think having that at the highest level -- and we reported out, I reported out upwards, as well. It's part of our reporting into our editorial board. Governing board. Corporate boards for the non-profit that we work for.
 
 AUDIENCE: I was wondering how analytics played into this. I don't know if that fell under the product part of the team...
 

@@ -84,7 +84,7 @@ And so, which is a good segue into our talk about cryptography and the server. S
 
 All these are in the document, in the link and we'll go through and show you this configuration generate and a few other things sort of after we're done
 
-So again, the links are all there for you. And you can—when you say HTTPS is on, it can mean four things:  It can be enabled. So it's just optional for readers that want it, they get it, if they don't, they don't. You can say, it's on for default. So it's on for everybody. And so you are there, and then you get redirected to the HTTPS version. There's a header called HSTS which stands for hypertext strict transport security, which sends the browser, hey, this site is HTTPS. Don't get tricked into anything else. If you see it, ignore it. It's always HTTPS. And it forces, it prevents things from being hijacked or redirected to the non-secure version of your site and then lastly there's something called the preload list and modern browsers will have a list of sites, it's just a big list, it's a text file this long of thousands and thousands of websites that says, these are always HTTPS, even if the user types HTTP, ignore that and always go there. So once you're sure your site's working, you can submit it to this list list and that way you don't have to worry of someone accidentally going to the non-secure version of your site. So now, here is the fun part. We 'eff talked about the server and all that. Now you have to look at what's on your site and how that works
+So again, the links are all there for you. And you can—when you say HTTPS is on, it can mean four things: It can be enabled. So it's just optional for readers that want it, they get it, if they don't, they don't. You can say, it's on for default. So it's on for everybody. And so you are there, and then you get redirected to the HTTPS version. There's a header called HSTS which stands for hypertext strict transport security, which sends the browser, hey, this site is HTTPS. Don't get tricked into anything else. If you see it, ignore it. It's always HTTPS. And it forces, it prevents things from being hijacked or redirected to the non-secure version of your site and then lastly there's something called the preload list and modern browsers will have a list of sites, it's just a big list, it's a text file this long of thousands and thousands of websites that says, these are always HTTPS, even if the user types HTTP, ignore that and always go there. So once you're sure your site's working, you can submit it to this list list and that way you don't have to worry of someone accidentally going to the non-secure version of your site. So now, here is the fun part. We 'eff talked about the server and all that. Now you have to look at what's on your site and how that works
 
 This is usually like the roadblock when people are trying to set up HTTPS on their news site. They set up their server. Now it's listening on HTTPS, right? It's listening on that port. And you try to go to it and you get the yellow padlock warning
 
@@ -252,7 +252,7 @@ Does anyone—or anyone want me to explain what a protocol route URL is?
 
 You can explain it. Let me see if I can find an example
 
-Normally URLs, you think of them as starting with http://, like this. But, you know, sometimes you put HTTPS, like Mike was showing you, you actually don't need this anymore. You can just start with the slash slash. And this has been supported for way longer than people have been using it. We've been using it for four years but browsers started using it a long time ago. But people just didn't use it. So if I'm on a HTTPS page, give me the HTTPS version. If I'm on a http page, give me the HTTP version. What this is most useful for is for iframes. Where if there's communication between the iframe and the parent, it has to match. That stops them from using. Normally it's best to use HTTPS URLs for everything so even if you have an HTTP page if you can load your Javascript over HTTPS, or some of your images over HTTPS, that's still a good thing to do because at least you're insuring nourishing the integrity of those requests even if the overall page itself isn't protected
+Normally URLs, you think of them as starting with https://, like this. But, you know, sometimes you put HTTPS, like Mike was showing you, you actually don't need this anymore. You can just start with the slash slash. And this has been supported for way longer than people have been using it. We've been using it for four years but browsers started using it a long time ago. But people just didn't use it. So if I'm on a HTTPS page, give me the HTTPS version. If I'm on a http page, give me the HTTP version. What this is most useful for is for iframes. Where if there's communication between the iframe and the parent, it has to match. That stops them from using. Normally it's best to use HTTPS URLs for everything so even if you have an HTTP page if you can load your Javascript over HTTPS, or some of your images over HTTPS, that's still a good thing to do because at least you're insuring nourishing the integrity of those requests even if the overall page itself isn't protected
 
 We're starting to switch over to that now
 
@@ -496,7 +496,7 @@ So in that header, there's an include subdomain option and preload requires that
 
 And that has to be admitted from the apex, not www
 
-The other thing about search and this is—I didn't even write down but someone mentioned that they had multiple dots in the Amazon bin. So if you have wildcard it will go to *.FiveThirtyEight.com. So www.projects, whatever. But if you have something like beta.projects, it would not work. You have to get a second certificate of a star dot beta. So if you have multiple levels of subdomains...—it might not work for you
+The other thing about search and this is—I didn't even write down but someone mentioned that they had multiple dots in the Amazon bin. So if you have wildcard it will go to \*.FiveThirtyEight.com. So www.projects, whatever. But if you have something like beta.projects, it would not work. You have to get a second certificate of a star dot beta. So if you have multiple levels of subdomains...—it might not work for you
 
 S3.amazon
 
@@ -526,4 +526,4 @@ Especially talk about this, if this helps with a news website, go to HTTPS even 
 
 Cool
 
-Thanks, everybody. 
+Thanks, everybody.

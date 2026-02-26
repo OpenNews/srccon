@@ -27,12 +27,12 @@ It's also useful to think about your target information/activity density and des
 
 Effective SRCCON facilitation is about effort and preparation more than expertise. Our facilitators plan and guide sessions, ask great questions, share what they know, and learn from their peers. We find that the best sessions are often led by facilitators who:
 
-* have a clear outcome in mind—what they want people to leave with,
-* know what they can realistically cover in a single session,  
-* build a clear outline for the session, but deviate from it as needed,
-* actively seek to run balanced, inclusive conversations (for discussion-focused session formats),
-* are clear about any necessary prerequisites or environment/setup requirements (for technical sessions), and
-* make a few simple backup plans in case a session gets a larger or smaller audience than expected.
+- have a clear outcome in mind—what they want people to leave with,
+- know what they can realistically cover in a single session,
+- build a clear outline for the session, but deviate from it as needed,
+- actively seek to run balanced, inclusive conversations (for discussion-focused session formats),
+- are clear about any necessary prerequisites or environment/setup requirements (for technical sessions), and
+- make a few simple backup plans in case a session gets a larger or smaller audience than expected.
 
 On the flip side, facilitators who have a harder time have usually tried to fit too much stuff—information or activities—into too little time.
 
@@ -42,8 +42,8 @@ If that sounds like a lot of effort…it is! But it also means that people who a
 
 ## Example Sessions from SRCCON 2015
 
-* [Become a Better Programmer Through Mundane Programming](http://2015.srccon.org/schedule/#_session-13)
-* [Big Ambition, Small Staff, How the F*** Do I Prioritize?](http://2015.srccon.org/schedule/#_session-16)
-* [Data Audioization: How Do We Bring Numbers to Life with Sound?](http://2015.srccon.org/schedule/#_session-18)
-* [Designing Digital Communities for News](http://2015.srccon.org/schedule/#_session-15)
-* [Surviving the News Business: Self-Care and Overcoming Burnout](http://2015.srccon.org/schedule/#_session-47)
+- [Become a Better Programmer Through Mundane Programming](https://2015.srccon.org/schedule/#_session-13)
+- [Big Ambition, Small Staff, How the F\*\*\* Do I Prioritize?](https://2015.srccon.org/schedule/#_session-16)
+- [Data Audioization: How Do We Bring Numbers to Life with Sound?](https://2015.srccon.org/schedule/#_session-18)
+- [Designing Digital Communities for News](https://2015.srccon.org/schedule/#_session-15)
+- [Surviving the News Business: Self-Care and Overcoming Burnout](https://2015.srccon.org/schedule/#_session-47)

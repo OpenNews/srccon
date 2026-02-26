@@ -1,0 +1,61 @@
+<meta charset="utf-8" />
+<meta name="theme-color" content="#5c1818" />
+<meta name="author" content="OpenNews" />
+<title>{{ page.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta
+  name="description"
+  content="{{ page.description | markdownify | strip_html | strip_newlines | escape_once }}"
+/>
+<link rel="canonical" href="https://srccon.org{{ page.url }}" />
+
+<!-- social sharing -->
+<meta property="og:url" content="https://srccon.org{{ page.url }}" />
+<meta property="og:site_name" content="SRCCON" />
+<meta property="og:locale" content="en-US" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="article" />
+<meta
+  property="og:description"
+  content="{{ page.description | markdownify | strip_html | strip_newlines | escape_once }}"
+/>
+<meta property="og:image" content="https://srccon.org{{ page.logo }}" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="330" />
+<meta property="og:image:alt" content="SRCCON logo" />
+
+<!-- Performance: TypeKit optimization -->
+<link rel="dns-prefetch" href="https://use.typekit.net" />
+<link rel="preconnect" href="https://use.typekit.net" crossorigin />
+<script src="https://use.typekit.net/mvg8obr.js"></script>
+<script>
+  try {
+    Typekit.load({ async: true });
+  } catch (e) {}
+</script>
+
+<!-- Stylesheets and icons -->
+<link rel="stylesheet" href="/media/css/style.css" />
+<link rel="shortcut icon" href="/media/img/favicon.ico" />
+<link
+  rel="apple-touch-icon-precomposed"
+  type="image/png"
+  href="/media/img/touch-icon-144x144.png"
+  sizes="144x144"
+/>
+
+{% if page.google_analytics_id and page.google_analytics_id != "" %}
+<!-- Google Analytics (code snippet circa 2026) -->
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id={{ page.google_analytics_id }}"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+  gtag("config", "{{ page.google_analytics_id }}");
+</script>
+{% endif %}

@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — Welcome to SRCCON 2019!"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # Welcome to SRCCON 2019!
 

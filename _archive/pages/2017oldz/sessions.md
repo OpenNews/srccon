@@ -11,7 +11,7 @@ permalink: /sessions/
 
 The following sessions have been confirmed for SRCCON 2017. Huge thanks to all who submitted proposals, and to the [community panel](#community-review) that helped us during the review process.
 
-Some session descriptions here may evolve between now and SRCCON. This year's final schedule will reflect any updates and include an evening slate of fun, informal talks, discussions, and activities. The complete [2017 SRCCON schedule is available here](http://schedule.srccon.org).
+Some session descriptions here may evolve between now and SRCCON. This year's final schedule will reflect any updates and include an evening slate of fun, informal talks, discussions, and activities. The complete [2017 SRCCON schedule is available here](https://2017.srccon.org/schedule/).
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.sessions %}
@@ -41,10 +41,10 @@ We'd also like to thank the folks who helped us select this amazing slate of ses
 
 Thank you, community reviewers!
 
-* Michael Grant
-* Chris Groskopf
-* Geoff Hing
-* Greta Kaul
-* Dolly Li
-* Haoyun Su
-* Christine Zhang
+- Michael Grant
+- Chris Groskopf
+- Geoff Hing
+- Greta Kaul
+- Dolly Li
+- Haoyun Su
+- Christine Zhang

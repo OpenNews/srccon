@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — “Abandon normal instruments”: Sideways strategies for defeating creative block"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # “Abandon normal instruments”: Sideways strategies for defeating creative block
 
@@ -122,7 +122,7 @@ ALEX: Thanks, guys. You over here?
 
 I'm Allison. We talked about what to do when you're creatively stuck. Collaborating with others other than being alone in your head. Again, walking away from the project, and doing something else, or just going for a work. Rubber-ducking. Or, like, if you're kind of by yourself, you know, as you were saying, as you're writing a story and you're stuck about where to go, kind of be meta about it and say, I'm stuck, this is an interesting idea and the answer to this question was this, this and this, and something meta like that might eventually lead you to where you might go to next and delete the stuff that was meta part of it. Doodling. Kind of changing the format. Maybe do something on your computer, or doing it by hand or sketching it out might just tap into a different part of your brain. There's always the sort of waiting for the deadline pressure. I like the idea somebody else said setting timers like pomodoros, like, in this bucket of time I will do this. Yeah...
 
-KATIE: A lot of people mentioned rubber ducking. Is there anyone who isn't familiar with that term? Cool. Would somebody maybe... Ally, would you mind sharing what rubber-ducking is? 
+KATIE: A lot of people mentioned rubber ducking. Is there anyone who isn't familiar with that term? Cool. Would somebody maybe... Ally, would you mind sharing what rubber-ducking is?
 
 ALLY: I think rubber-ducking is something you use in the programming world is you go up to somebody and you just talk to somebody about what you're doing, and their job is to basically nod at you and you will eventually come to the consideration on your own for some kind of an inspirational trick.
 
@@ -130,7 +130,7 @@ AUDIENCE: Do they know they're rubber-ducking?
 
 [ Laughter ]
 
-KATIE: I do have a coworker who I will go to and say, "Hey, I need a rubber duck." And so there's a mix of those things. 
+KATIE: I do have a coworker who I will go to and say, "Hey, I need a rubber duck." And so there's a mix of those things.
 
 NOZLEE: And sometimes you say, be a rubber duck for me
 

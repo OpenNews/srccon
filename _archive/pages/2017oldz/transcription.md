@@ -39,5 +39,5 @@ In the leadup to SRCCON 2017, we’re featuring a selection of sessions from las
 During and after this year's SRCCON, we'll also have a documentation team writing up session summaries, collecting resource lists, and more. We'll [publish everything on Source](https://source.opennews.org) in the weeks that follow the conference, and also collect write-ups and blog posts from attendees.
 
 <div id="sponsortag">
-    <span>Transcription at SRCCON is made possible by</span> <a href="http://www.facebook.com/"><img src="/media/img/partners/2017/facebook-logo.png" class="" alt="Facebook"></a>
+    <span>Transcription at SRCCON is made possible by</span> <a href="https://www.facebook.com/"><img src="/media/img/partners/2017/facebook-logo.png" class="" alt="Facebook"></a>
 </div>

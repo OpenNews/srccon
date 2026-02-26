@@ -18,14 +18,13 @@ permalink: /docs/transcripts/frontendtools/index.html
 
 ### Room: Thomas Swain
 
-
 Hey, everyone. My name is Allan, I work at WNYC.
 
 And I'm Justin and I work at NPR.
 
 NPR, Minnesota. So we wanted to gather people together and just sort of talk in small groups about the front end tools that you use. So since we mostly build stuff that's on the web, we all have experiences using different tools and we all have opinions about that, and why we do those things.
 
-So a few things to keep in mind:  Please respect each other. This can be a very touchy subject for some people. Some people have very strong opinions about tools. We want to keep that to a minimum. It's not really about what's better; it's about sharing your experiences some of those decisions that go into those experiences. And speak one at a time, which you've probably heard in other sessions which means make sure that everyone shares their opinions.
+So a few things to keep in mind: Please respect each other. This can be a very touchy subject for some people. Some people have very strong opinions about tools. We want to keep that to a minimum. It's not really about what's better; it's about sharing your experiences some of those decisions that go into those experiences. And speak one at a time, which you've probably heard in other sessions which means make sure that everyone shares their opinions.
 
 So we're going to do a series of discussions. We've got a timer, so it's going to be short discussions about topics of tools. So you're going to talk in your small groups. We're going to report back. There's an etherpad over there. If you want to take notes, that would be awesome. I'm going to try to take notes as well be when we report back. But more help is better. That's it.
 
@@ -112,7 +111,7 @@ I was just doing this off the top of my head. All right, so go.
 
 Five minutes.
 [ Group Work ]
-30 seconds. All right. Time. So can I get a show of hands:  How many of you are doing any kind of front-end testing at all. I'm just kind of curious.
+30 seconds. All right. Time. So can I get a show of hands: How many of you are doing any kind of front-end testing at all. I'm just kind of curious.
 
 Automated front-end testing?
 
@@ -182,7 +181,7 @@ Let's just skip it and we'll come back.
 
 We're going to skip interface frameworks because I think we've touched on that. But I think we're going to go to build systems because I think that's one where people can have a little more... so Ron Rockily, makefiles. What do you got?
 
-And if there's people in the group that don't know what these are, that should be your first question:  Why are they good? Why do people use them?
+And if there's people in the group that don't know what these are, that should be your first question: Why are they good? Why do people use them?
 [ Group Work ]
 All right. I don't want to keep talking about this probably for the next 20 minutes at least. We're going to cut it off and say we want to talk about other stuff, too. Let's start with the middle table because that's where I was just talking to people.
 
@@ -379,4 +378,4 @@ We'll have the notes on the etherpad, if you want to see, hopefully you learned 
 
 Cool.
 
-Thanks for coming, everybody and having your lunch with us. 
+Thanks for coming, everybody and having your lunch with us.

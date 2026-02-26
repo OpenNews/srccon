@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — Let’s build some ethical advertising"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # Let’s build some ethical advertising
 

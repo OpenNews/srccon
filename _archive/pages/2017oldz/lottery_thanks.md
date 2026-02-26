@@ -8,6 +8,7 @@ background: tickets
 byline: Alyson Hurt
 permalink: /tickets/lottery/thanks/index.html
 ---
+
 ## Ticket request received!
 
 Thanks for registering for the SRCCON ticket lottery and/or submitting a scholarship application.
