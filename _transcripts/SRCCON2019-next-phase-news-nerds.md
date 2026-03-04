@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — Designing the next phase for newsroom technologists"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # Designing the next phase for newsroom technologists
 
@@ -188,7 +188,7 @@ AUDIENCE: Well, I mean...
 
 BRITTANY: I actually do have thoughts.
 
-AUDIENCE: I don't have an answer. I'm the director of Nightlab at Northwestern, and one of the reasons I pause at that term is because the lab was created as a technology center, science and and so on, but we're finding that as an inappropriate jacket to wear, and really pushing towards more like product thinking, which is all in the air here. There's not a simple word for it. But I feel like putting technology first has turned out not in our interests. For lots of reasons. And so finding a way around it, not necessarily side tracking the session to do it, would be good for us. 
+AUDIENCE: I don't have an answer. I'm the director of Nightlab at Northwestern, and one of the reasons I pause at that term is because the lab was created as a technology center, science and and so on, but we're finding that as an inappropriate jacket to wear, and really pushing towards more like product thinking, which is all in the air here. There's not a simple word for it. But I feel like putting technology first has turned out not in our interests. For lots of reasons. And so finding a way around it, not necessarily side tracking the session to do it, would be good for us.
 
 AUDIENCE: I don't know exactly what the definition of a technologist is either, but I think one criterion for it is someone who isn't just concerned about feasibility and putting technology first, but is also very concerned about culture and the downstream effects of that, and how the relationship between culture and technology -- how one is encoded into the other.
 
@@ -198,7 +198,7 @@ AUDIENCE: Just something that's based off a very recent personal experience of m
 
 AUDIENCE: A lot of our conversations were kind of centered around how people feel about our jobs, or how other technologists feel about their own jobs and how that's communicated across the newsroom, and one of the things I mentioned is that... I get a lot of respect in my organization for being a technologist, but I think the other people in my team feel a little powerless when there's a technical problem and they don't know how to handle it. So finding ways to help people feel like we are actually collaborating on a task, even if they don't necessarily know all the details of completing that task, would be a good way of helping people work together.
 
-AUDIENCE: Just a quick addition to what Cece just said, which is... I've spent most of my career working for people who usually respond or react to something that me or my team does as "magic". 
+AUDIENCE: Just a quick addition to what Cece just said, which is... I've spent most of my career working for people who usually respond or react to something that me or my team does as "magic".
 
 (laughter)
 

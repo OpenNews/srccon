@@ -1,0 +1,44 @@
+{
+  "printWidth": 100,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": false,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "proseWrap": "preserve",
+  "htmlWhitespaceSensitivity": "css",
+  "endOfLine": "lf",
+  "embeddedLanguageFormatting": "auto",
+  "plugins": ["@prettier/plugin-ruby"],
+  "overrides": [
+    {
+      "files": ["*.html"],
+      "options": {
+        "parser": "html"
+      }
+    },
+    {
+      "files": ["*.md"],
+      "options": {
+        "parser": "markdown",
+        "proseWrap": "preserve"
+      }
+    },
+    {
+      "files": ["*.yml", "*.yaml"],
+      "options": {
+        "parser": "yaml",
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": ["*.rb", "*.rake", "Rakefile", "Gemfile"],
+      "options": {
+        "parser": "ruby",
+        "tabWidth": 2
+      }
+    }
+  ]
+}

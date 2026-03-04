@@ -1,3 +1,26 @@
+# Jekyll build outputs
+_site/
+.jekyll-cache/
+.sass-cache/
+tmp/
+
+# Ruby/Bundler
+.bundle/
+vendor/
+
+# Node.js
+node_modules/
+
+# OS files
 .DS_Store
-_site
-.jekyll-cache
+Thumbs.db
+
+# Editor files (but allow .vscode/ and .editorconfig for team shared settings)
+.idea/
+*.swp
+*.swo
+*~
+
+# Local environment
+.env
+.env.local

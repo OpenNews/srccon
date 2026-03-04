@@ -1,12 +1,13 @@
 ---
 layout: 2015_layout
 title: Sessions
-subtitle: SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares. 
+subtitle: SRCCON is built around two days of peer-led conversations, hands-on workshops, and skillshares.
 section: sessions
 sub-section: interior
 background: postits
 permalink: /sessions/proposals/index.html
 ---
+
 #Proposals
 
 Session proposals are now closed, and we are reviewing the proposals below and building the SRCCON 2015 program. In the meantime, learn more about [how the selection process works and what it means to facilitate at SRCCON](/sessions).

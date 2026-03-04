@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — Game of Newsletters: A song of inboxes and subject lines"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # Game of Newsletters: A song of inboxes and subject lines
 
@@ -40,7 +40,6 @@ JOSEPH: Hi, everybody; we have about five minutes left!
 
 [ Group Work ]
 
-
 All right. We have two more minutes. Hey, everyone. We're going to go on to stop two of our newsletter. Hello, hello, hello, hey everybody. All right! Time for step two. If you're still trying to finish up the descriptions, you can keep doing that after I walk through what the next step is or Emily explains but we want to get started on the game part —
 
 EMILY: Yes,. So right now, you've all launched these beautiful newsletters. Congratulations. Now pretend a few months have gone by. Business as usual for a few months. We're going to throw a few with reference into your plans and see how you all adapt as a team. And so I'm going to ask one person from each group to come up to the panels again and pick up — next these fake candles — pick up one of the blue cards, and read the next two. So pick it up and respond on the worksheet number two.
@@ -48,7 +47,6 @@ EMILY: Yes,. So right now, you've all launched these beautiful newsletters. Cong
 JOSEPH: So you'll 20 minutes for this part of the game. So we'll let you know for ten minutes if you want to keep working on the first one. Or if you finish it, you can keep going. So it's flexible in terms of none of those challenges but it'll help you keep you on track.
 
 [ Group Work ]
-
 
 So you have about one more minute in theory for this process. But you can go up and get a second one. In about a minute we'll switch but you can keep working on it.
 
@@ -98,7 +96,7 @@ AUDIENCE: So we're the Seven Kingdoms Post. We're a staff of seven in Kingslandi
 
 And we have to write some marketing copy. So one of the other ones that came up was how do we promote our subscriptions and so we came up with subscribe posts to get one month free of throw and watch pro, your custom source of random and broken.
 
-JOSEPH: Awesome, thank you. Up here? 
+JOSEPH: Awesome, thank you. Up here?
 
 ALEX: We're all day the Winterfell Free Press. And, actually, we are a legacy metro newsletter for profit located in Winterfell. Staff size is 250. Our existing products are daily print paper, regularly updated website and two podcasts and our model is 25% advertising, and 25% audience, and 50% other. And our plan was we wanted to be kind of like alt weekly new digital publication-ish?
 
@@ -106,16 +104,16 @@ JOSEPH: What was your challenge?
 
 AUDIENCE: Also...
 
-AUDIENCE: Underserved. 
+AUDIENCE: Underserved.
 
 ALEX: Yeah, it's an underserved. We've been sending it for more than six months. Wait, is that what you mean? Not that challenge. Sorry — sorry. No, this is wrong, too! Wait.
 
-AUDIENCE: There's an underserved population, especially. 
+AUDIENCE: There's an underserved population, especially.
 
 ALEX: You'll want you think this audience is currently underserved by the more mainstream coverage. So we wanted to be, like, conversational, more diverse, casual, meme-y, sort of have a community vibe to the newsletter but sort of time-baked to the news issues. Things going on in the main campus. Our target campus is Wild Links, and our newsletter is called WoW the Now. We said that it would take — we were saying about ten to 15 hours because we wanted to produce ten to two things that were original content, not totally aggregating especially because we don't cover this group of people yet.
 We intend to grow our newsletter with content that reflects their perspectives and issues like bringing, of course, paid advertising, like, against those plays and trying to incorporate Wild Link influencers in interviews and Q&As in every newsletter. Our metrics were open rates, the list size, and clickthrough rates. Location analytics if we can get them. That would be helpful for our particular case. Or if anyone is sharing them or linking to it on social media. You don't want this, right?
 
-JOSEPH: No. That looks great, though. 
+JOSEPH: No. That looks great, though.
 
 ALEX: And then our challenge... I'm sorry, so many cards. So we had a large portion of our list that never opened the newsletter after sign-up and it's been six months and we've been trying to figure out how to deal with it and what did we say? Yeah... huh. Oh, yeah, we had a lot of fun subject ones. We realized really the problem was we couldn't put anything in email because if they're not really opening it, they're not getting past the first subject. And so we came up with some subject lines, "You up?" Come back from the dead, we miss you." "And you don't need us; we don't need you either." And just sort of a list of things they missed so they can catch up.
 
@@ -127,7 +125,7 @@ Let's see... we expect that it — what did we decide? 5%...? In large part beca
 
 [ Laughter ]
 
-... so our first challenge was to do a survey of our readers so we can learn more about our audience. Uh, let's see. We ask basic demographic questions, reading frequency, favorite content. What you'd like to see covered — those kinds of things but we would segment our survey based on loyalty and low engagement. The other challenge because we have a high unsubscribe rate even though the rest of our metrics around newsletters look pretty good, 40,000 subscribers, 30% open rate and things like that. And the other challenge was  around A/B testing. So we decided we would test send time along sender name. We added the same subject line as you guys but since our newsletter is about killing people, we decided we wouldn't change much except for put, "Livestock and grains" in quotation marks to imply some sort of killing joke and add some emojis in the subject line.
+... so our first challenge was to do a survey of our readers so we can learn more about our audience. Uh, let's see. We ask basic demographic questions, reading frequency, favorite content. What you'd like to see covered — those kinds of things but we would segment our survey based on loyalty and low engagement. The other challenge because we have a high unsubscribe rate even though the rest of our metrics around newsletters look pretty good, 40,000 subscribers, 30% open rate and things like that. And the other challenge was around A/B testing. So we decided we would test send time along sender name. We added the same subject line as you guys but since our newsletter is about killing people, we decided we wouldn't change much except for put, "Livestock and grains" in quotation marks to imply some sort of killing joke and add some emojis in the subject line.
 
 EMILY: Well done, yeah.
 

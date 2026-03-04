@@ -2,14 +2,14 @@
 layout: layout
 section: sessions
 photocredit: Erik Westra
-photocredit_url: http://www.westraco.com/
+photocredit_url: https://www.westraco.com/
 permalink: /sessions/
 title: SRCCON 2019 — Sessions
 ---
 
 # SRCCON 2019 Sessions
 
-The program at SRCCON is built around hands-on, participatory sessions, [and also makes space](/program) for emergent conversations, evening activities, and time to talk with the people you meet. Our [conference schedule for 2019](https://schedule.srccon.org) is built from the sessions listed here.
+The program at SRCCON is built around hands-on, participatory sessions, [and also makes space](/program) for emergent conversations, evening activities, and time to talk with the people you meet. Our [conference schedule for 2019](https://2019.srccon.org/schedule/) is built from the sessions listed here.
 
 We have a few sessions and facilitators still to confirm, and some descriptions here may evolve between now and SRCCON. Thank you to everyone who submitted proposals, and to the [community panel](#community-review) that helped us during the review process!
 
@@ -41,10 +41,10 @@ We'd also like to thank the folks who helped us select this amazing slate of ses
 
 Thank you, community reviewers!
 
-* Allie Kanik
-* Andrea Suozzo
-* Ariana Giorgi
-* Audrey Carlsen
-* Dana Amihere
-* Dan Keemahill
-* Mike Stucka
+- Allie Kanik
+- Andrea Suozzo
+- Ariana Giorgi
+- Audrey Carlsen
+- Dana Amihere
+- Dan Keemahill
+- Mike Stucka

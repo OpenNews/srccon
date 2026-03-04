@@ -18,7 +18,6 @@ permalink: /docs/transcripts/remotecommunication/index.html
 
 ### Room: Thomas Swain
 
-
 Hi, guys. Hi friends. Thanks for joining us today. My name is Steph Yiu. I work at WordPress.com.
 
 I'm Davis Shaver, I work at Fusion.
@@ -30,7 +29,6 @@ And so I joined Fusion as our second remote hire this October. Daniel being our 
 And so the way that we're breaking down our session today is we actually have two exercises we're going to run with you guys and the whole concept is that we want you to think about remote communication in terms of your role, so meaning what you spend the majority of your time doing and working on, and then the second exercise will be focused on remote communication as part of your personality. I think that one of the toughest things about working remotely is that you may not realize that everyone you work you may have different goals. We're going to jump right in because it have you exercise.
 
 So the prompts on the screen, my biggest message here is don't overthink it. We've broken our world into 3 major roles. Which do you spend 50% of your time doing? Is it organizing and managing your internal team? Is it collaborating on the actual work, doing code, design, code review? Or are you primarily working with our teams or clients to do external communications?
-
 
 Each of the roles has a color. On the tables, you will find on one of the table post-it note pack that corresponds to that color. Find your color and you'll be with your group. So let's break.
 
@@ -46,15 +44,13 @@ Talk amongst yourselves. Write them down on post-it notes and follow the directi
 
 [laughter]
 
-Any kind of tool? 
+Any kind of tool?
 
 Any kind of tools, whatever. GitHub, Asana, any tool you use, turn them out on your post-it notes and throw them up on the wall.
 
 OK, folks, we have three minutes left in this breakout.
 
-
 We'll type this up, by the way, at the end:
-
 
 OK, guys, we're going to move into the next part of the exercise. Anyone want to share any observations or surprises that you heard during your individual breakouts?
 
@@ -64,8 +60,8 @@ Oh, so this group a lot of us manage people or work like basically managing team
 
 Cool, yeah. Well, we're going to type this up and put it on the GIST after the fact. But it's cool to see the overlap. GitHub Skype, big winners.
 
-OK, part 2. Challenges. What's the biggest challenge you have doing your role remotely? What do you do about about it? Talk about some strategies with your group and we're going to come back as a group and share them together:  ... ...
- [group activity]
+OK, part 2. Challenges. What's the biggest challenge you have doing your role remotely? What do you do about about it? Talk about some strategies with your group and we're going to come back as a group and share them together: ... ...
+[group activity]
 
 OK, guy, thanks, that was ten minutes. We'd like to go around to each group and hear what your biggest pinpoint is and maybe an idea for how you've been addressing it in your own organization. So let's start with Daniel and Will and Steph.
 
@@ -120,7 +116,6 @@ Double robotics, yeah.
 But I kind of felt like I don't want to get a telepresence robot that wanders the hall, that's just weird. I want something that says don't forget to take Martin to the meeting.
 
 Cool. Anything else?
-
 
 Yeah, two other quick ones. We talked about misunderstandings and conflicts. How it's a challenge to resolve when not in person, but also the fact that you're not necessarily forced to be right next to someone that you may be having a conflict with can be a good thing, too, and then we talked about distractions.
 
@@ -220,9 +215,7 @@ All right, guys. Hopefully you've taken this time to learn a little bit about wh
 
 All right, we're going to wrap up, because we're at the hour. So we're going to go around and quickly share some plans before we head out.
 
-
 What group are you guys?
-
 
 L1. R1.
 
@@ -231,7 +224,6 @@ All right, guys, we're going to wrap up. R1, how do you brainstorm a marketing p
 So we said why not have an unlimited budget and so I mean not unlimited budget.
 
 Big picture? What?
-
 
 We thought—we think it's really important to have empathy built across the team so kind of the things we are big together and also we thought it was cool to have a big end.
 
@@ -253,7 +245,6 @@ We decided that brainstorming was evil and shouldn't be done.
 
 We all hate brainstorming.
 
-
 And then how do you guys come up with a plan, then.
 
 So in direct response to that, we thought that, you know, have someone and it doesn't really matter who, come up with an initial sort of draft an give that out to people to give feedback to and propose edits to and it can completely change from the beginning of the end and I think go through a process of brainstorming, but we called it something else.
@@ -274,8 +265,8 @@ We were going to do a hangout with some sort of in-person real time communicatio
 
 Yeah, sure.
 
-Awesome. Well, I think that wraps up our session today. So as a quick recap, just want to talk about a couple things that we discussed today. Amongst your roles, whether it's organizer or builder or communicator, we have a slew of tools that we all use, some of them are the same, but some of them are very, very different. And within each role, you face different challenges, whether you're a builder or you're a communicator or organizer, there are different challenges that you face in terms of how do you collaborate in code review, how do you make sure the team is moving in the same direction? How do you talk to people externally who don't understand how your team works internally and also we talked about personality types and motivations at work. You think about the people that you work with on a day-to-day basis, they are not all like you, they don't communicate like you, they may communicate very differently from you. Some people may love video calls and brainstorming, some people may hate it, some people may love having regular check-ins, some people may not need that at all and want to work solo and for you personally you may need to have lots of in-person communication time to recharge yourself or may not need that, and I think it was interesting to hear about sort of how you guys set up your communication plans, some of you were really empathetic to your team members, some people wanted to kind of start with a brainstorming plan, with one person starting that and have other folks add on to it, I think the most important thing that we wanted to make sure that you left the session with is just communicate thoughtfully. Think about who you're working with, since they may not have the same  goals and drives and roles as you.
+Awesome. Well, I think that wraps up our session today. So as a quick recap, just want to talk about a couple things that we discussed today. Amongst your roles, whether it's organizer or builder or communicator, we have a slew of tools that we all use, some of them are the same, but some of them are very, very different. And within each role, you face different challenges, whether you're a builder or you're a communicator or organizer, there are different challenges that you face in terms of how do you collaborate in code review, how do you make sure the team is moving in the same direction? How do you talk to people externally who don't understand how your team works internally and also we talked about personality types and motivations at work. You think about the people that you work with on a day-to-day basis, they are not all like you, they don't communicate like you, they may communicate very differently from you. Some people may love video calls and brainstorming, some people may hate it, some people may love having regular check-ins, some people may not need that at all and want to work solo and for you personally you may need to have lots of in-person communication time to recharge yourself or may not need that, and I think it was interesting to hear about sort of how you guys set up your communication plans, some of you were really empathetic to your team members, some people wanted to kind of start with a brainstorming plan, with one person starting that and have other folks add on to it, I think the most important thing that we wanted to make sure that you left the session with is just communicate thoughtfully. Think about who you're working with, since they may not have the same goals and drives and roles as you.
 
 Yeah, I totally echo Steph. What stood out to me is that there isn't a panacea, and there isn't a right solution for running distributed efforts. Even as we were working through our own plan, we probably could have revised that a few more times, even, as we talked about the pros, cons of different strategies and. I guess we don't really have time for this. But check out our links on bit.ly, or on both of our Twitter accounts, and thank you for coming.
 
-[session ended] 
+[session ended]

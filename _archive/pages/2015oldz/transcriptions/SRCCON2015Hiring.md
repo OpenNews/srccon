@@ -18,10 +18,9 @@ permalink: /docs/transcripts/hiring/index.html
 
 ### Room: Thomas Swain
 
-
 So I think there are still folks grabbing their caffeine and snacks, so we'll probably wait a couple more minutes and then get started.
 
-Hi everybody:  There are—we've got enough people that we could actually like feasibly form a circle and actually talk in a group, so we're thinking about doing that. Would you guys mind coming over this way with some chairs?
+Hi everybody: There are—we've got enough people that we could actually like feasibly form a circle and actually talk in a group, so we're thinking about doing that. Would you guys mind coming over this way with some chairs?
 
 Well, I think we could stand, maybe. Yeah, yeah, we'll stand just for the start and so we're like moving and awake a little bit. And then you'll be able to sit again, promise.
 
@@ -85,7 +84,6 @@ OK.
 
 If you've had to write a job posting, did HR have to approve it?
 
-
 Not now.
 
 OK. So does anybody else have anything they'd want to throw out and ask at this point?
@@ -99,7 +97,6 @@ Who currently hires by trial?
 What do you mean by trial?
 
 Like application project, some sort of work experience project.
-
 
 Yeah, right, paid.
 
@@ -173,15 +170,11 @@ Oh, my God.
 
 Who's now satisfied with their hiring process?
 
-
 They're all in the other sessions.
-
 
 Yeah, this is the self-help group. Who's had a satisfying experience as an applicant?
 
-
 Can I step back? You haven't had a single satisfying experience?
-
 
 No.
 
@@ -191,9 +184,7 @@ Any final questions?
 
 I have a reverse of a question that was asked which is as an applicant, who has begun to look on that company with sort of like a bad overshadow because of the hiring process?
 
-
 For people who have been hired or hiring, how many of you have gotten your employment through one to two degrees of personal friends relationships? I know someone who knows someone.
-
 
 I was going to ask you how many have hired without an actual job posting because you knew someone?
 
@@ -201,12 +192,9 @@ So how many of you have had to give advice to somebody else about either hiring 
 
 How many people have hired someone from a competitor?
 
-
-
-The flip side:  How many have hired from outside the industry?
+The flip side: How many have hired from outside the industry?
 
 Which industry?
-
 
 All right, anybody else have questions? How many people have found a job through an affinity job based on diversity, like some diversity that you identify with has a specific group that encourages members' postings to spread them wider among each other.
 
@@ -215,7 +203,6 @@ That's upsetting.
 The other question I have is how many of you could belong to an affinity group who don't actually belong to one?
 
 Right, like I'm not part of AJAM, for example, I could be, and that's I guess a thing for me. More than anything else.
-
 
 How many people have been hired cold without any like personal relationship by an organization?
 
@@ -229,9 +216,7 @@ Oh, all of us.
 
 How many people have worked in a place where the job listing they saw was different than what they felt their team needed?
 
-
 How many people could recite their current job description?
-
 
 I wrote mine.
 
@@ -249,7 +234,7 @@ How many people's reviews match their job description? Oh, awesome.
 
 I'd say mine does.
 
-Yeah? Yeah? Everyone that works for ProPublica, you know what you're getting. Cool. 
+Yeah? Yeah? Everyone that works for ProPublica, you know what you're getting. Cool.
 
 That's actually a good transition point, yeah.
 
@@ -266,7 +251,7 @@ Yeah, yeah, that's probably the simplest route.
 Y, of course there's a grid of 3X3. So we'll see people interested in the hiring manager's perspective over here and people are interested from the manager's perspective over here, and what we're looking for is what are things in the process that you've gone through that have made the experience considerably poorer or better when working with like an applicant from the perspective of a hiring manager or vice versa. Like we talked about things like job descriptions being unclear, right, that's obviously a thing that makes being an applicant hard, versus things that have been good experience for you from the perspective of you understood what the job posting was about and you had a good interviewing experience or things like that.
 
 So if anyone wants to move, if there's anyone who wants to talk from the applicant perspective that wants to move over to this side or move over to this side, or is everyone is pretty good where they are, and it's not it's not meant to be a strict divide, just for like the purposes of where your head space is. Just for the purposes of this activity. So just to—just to frame the activity a little bit, first we're going to give you about 10 minutes to talk about things that maximize your experience. So if you're a hiring manager, things that improve the experience of being a hiring manager, things that improve the experience of posting jobs, doing outreach, focus on things that improve the experience and just brainstorm them. There's big post-its on each table, talk about things that improve that experience, same thing from the applicant point of view. After ten minutes we're going to switch over and brainstorm things that minimize that experience, things that make it more difficult as an applicant, but we're going to try to spend separate time on those things so you can really flesh out those thoughts. For right now, what makes your life easier as a hiring manager, what makes your life easier as an applicant, brainstorm time.
- 
+
 [group activity]
 
 So just to give everybody a heads up, we've got about two minutes before we switch to the mic. So we're going to pass out another piece of paper where we talk about things that make it easier to be a hiring manager, and we're coming around for another ten minutes or so to talk about it.
@@ -283,7 +268,7 @@ OK, guys, one minute.
 
 [group activity]
 
-OK, everybody:  So this is the show and tell part. So we're going to write down everybody's recommendations and I think we're actually going to start with folks from the stage left side of the room. So what did you guys end up discussing and coming up with? Feel free to you know --
+OK, everybody: So this is the show and tell part. So we're going to write down everybody's recommendations and I think we're actually going to start with folks from the stage left side of the room. So what did you guys end up discussing and coming up with? Feel free to you know --
 
 Anyone!
 
@@ -294,7 +279,6 @@ That's a great suggestion.
 What is your culture that you are trying to.
 
 What is your culture?
-
 
 And how often is that not there?
 
@@ -311,7 +295,6 @@ Sure, so talking about creating a for the people hiring, especially if it's real
 Cool, thank you. And --
 
 We talked about process, too, and one of the things we were talking about was having that documentation. Also make sure that you're evaluating more fairly than just like oh, this dude was cool, I want to have a beer with him, right? Like but one of the other things that I thought was great was interview like you work. So there are a lot of people in distributed teams over here and folks who've dealt with this sort of issue of culture fit in different ways, so I felt that was like a super-awesome suggestion. You guys are doing group interviews on the sly, they're doing trial projects, like there's a lot of cool ideas about that. Other stuff?
-
 
 Cool, thanks.
 
@@ -357,4 +340,4 @@ No, I use a different one. It's a command line tool.
 
 That's a great transition, so what we were hoping for coming out of this is being able to like compile these resources and share them in a way that people can use them and reference them. Either in writing or in like follow-up presentations at other conferences, so if there's anyone who is interested in helping with that, like if you want to reach out to us, I mean I think the example of having job descriptions that people like is really good and that also makes me think about the other points in the process, like good rejection emails are like so critical to the point about maintaining relationships and building relationships with people, and so that might even be the kind of thing, like at each step in the process, like a good notification email or those types of things, so people have references that they can call upon in updating the processes that they're using. Cool. Awesome. Well, thank you so much.
 
-[session ended] 
+[session ended]

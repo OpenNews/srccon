@@ -2,7 +2,7 @@
 layout: layout
 section: participation
 photocredit: Erik Westra
-photocredit_url: http://www.westraco.com/
+photocredit_url: https://www.westraco.com/
 permalink: /participation/form/
 title: SRCCON 2019 — Participation Form
 ---

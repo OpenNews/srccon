@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — Fix your feedback loop: Letting people, not polls, drive your election coverage"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # Fix your feedback loop: Letting people, not polls, drive your election coverage
 
@@ -24,7 +24,7 @@ BRIDGET: Of course, you're free to ask questions. We're looking specifically at 
 
 Ooh, a lot of hands for that, too. We're going to do a quick breakout session. I'm going to give you two minutes and I'm going to ask each table to come up with five emotion words when you think about covering journalism, or as a citizen participating in an election, how does that make you feel, what are five words that make you feel during the next election. I'll take five minutes and I'll call on some people to talk to us.
 
-BRIDGET: And five, four, three, two, one... thank you, everybody. I need quick volunteers and think about emotions about elections. Yes, Bobby? 
+BRIDGET: And five, four, three, two, one... thank you, everybody. I need quick volunteers and think about emotions about elections. Yes, Bobby?
 
 BOBBY: We had more than five but I picked five. Exhausted, elation, anxiety, patience, anticipation, and camaraderie.
 
@@ -44,7 +44,7 @@ ARIEL: So one of the things that we know that's going to come up this election a
 
 You'll turn that agenda, then, into basically a playbook into things that will change. These are the things that you should be asking yourself. How can we help? Help members figure out this information that they've told me they want. Chances are, each of these candidates have their own platform. And chances are, the things that the community members most want to hear from them about do not have that platform. And another thing you can do is let the voters know when they've done that, and also when they don't. This candidate refused to answer your question about affordable housing. This candidate's platform does not have information about how might they react with federal immigration policy. So this is really an opportunity for us to really serve as a conduit and get them to vote on the values that they really want to be voting on when they reach election day.
 
-Any questions about any of this before I move on? Next up, we have an opportunity to sort of look at Minneapolis is in what its agenda would be. When Regina and I were looking at this, we came up with sort of a fictitious agenda, but we grounded it in reality because we're a roomful of journalists. We like to deal with facts. So what would a citizen's agenda look like for Minneapolis. There was a county reporter, and founder of Sahan Journal, which is a non-profit newsroom that serve the immigrant communities in Minneapolis. And at the end of Muchtar's spiel, we'll give you an opportunity to ask questions of him to craft a better understanding of election coverage. 
+Any questions about any of this before I move on? Next up, we have an opportunity to sort of look at Minneapolis is in what its agenda would be. When Regina and I were looking at this, we came up with sort of a fictitious agenda, but we grounded it in reality because we're a roomful of journalists. We like to deal with facts. So what would a citizen's agenda look like for Minneapolis. There was a county reporter, and founder of Sahan Journal, which is a non-profit newsroom that serve the immigrant communities in Minneapolis. And at the end of Muchtar's spiel, we'll give you an opportunity to ask questions of him to craft a better understanding of election coverage.
 
 MUCHTAR: My name is Mukhtar and I'm a part of Sahan Journal, which serves immigrant communities in Minneapolis. In Minneapolis, where we are right now, we have 16% of the citizen population are immigrants. And 40% of the population are people of color. And one of the good things about Minneapolis in general is it's one of the, I think, one of the only states in the country, or one that has the highest voter turnout across the country. In the last election, 2018, almost 80% of voters casted their ballot. So I came up with top-level issues that most people care about, and the things that we usually focus on in news coverage and what we hear about from presidents and the number one issue that we hear about is the ridings cost in housing. People cannot afford the rising costs as the public housing affordability is also going down. So there is a vision where the multiple public housing is going to change its housing stock into a private ownership. So I don't know if you are familiar of the Eventual Assistance Administration, it's where the housing will be privatized. So people are fearful that might lead to displacement and rent might increase if you have low income. And there's a fear that this will be implemented in Minneapolis and in the Twin Cities in general. As we know, we have very brutal winters almost six months. And after that, you know, when you are driving around, you will see a lot of closures on the roads and trying to, you know — the Transportation Department trying to fix the holes that were kind of messed up by the winter and the snowstorms and all that.
 
@@ -56,27 +56,27 @@ ARIEL: Anyone want to put their reporter hats on and dig into any one of these? 
 
 AUDIENCE: So how do you solicit feedback in a way that makes you feel comfortable that you don't have other politicians or campaign workers sort of trying to affect your agenda?
 
-ARIEL: That's a good question. We can — right after we close out here, we can go into more into the logistics of the citizen's agenda. We just want to give everybody an opportunity if anyone has questions about this Minneapolis attitudes exercise. You told me a little bit about more about how this split happened in the last democratic primary that I thought was really interesting when we talked yesterday about how Minnesota voted in the democratic primary in 2016. 
+ARIEL: That's a good question. We can — right after we close out here, we can go into more into the logistics of the citizen's agenda. We just want to give everybody an opportunity if anyone has questions about this Minneapolis attitudes exercise. You told me a little bit about more about how this split happened in the last democratic primary that I thought was really interesting when we talked yesterday about how Minnesota voted in the democratic primary in 2016.
 
 MUKHTAR: So the local governments, the party in Minnesota they've nominated Bernie Sanders. And the Twin Cities in general is a solid democratic space. But it's probably different if you go outside the metro area. In 2016, the gap between Hillary Clinton and Trump was very close, I think around 4,000, 5,000 votes which is kind of, like, pretty shocking because we thought that Minnesota was a pretty blue state but it was one of the only blue states that remained blue if you look at all the marks around Minnesota. But, yeah, a solidly democratic state. And one of the candidates was trying to bid in the election.
 
-AUDIENCE: I had a quick question about the voter turnout. Is the voter turnout in the Twin Cities equally as high for the all the elections, or just the generals? 
+AUDIENCE: I had a quick question about the voter turnout. Is the voter turnout in the Twin Cities equally as high for the all the elections, or just the generals?
 
 MUKHTAR: So it's not just limited to the general elections. It's also to the primary local elections.
 
 AUDIENCE: I'm speaking from Dallas which has one of the lowest turnouts, 6% — we got up to 9% this year! I know!
 
-AUDIENCE: I wonder if you could talk a little bit about how you're thinking about, obviously,, like, a lot of these issues as you were saying is mostly for, like, immigrant communities that you're trying to serve and how their voter demographics are impacted. 
+AUDIENCE: I wonder if you could talk a little bit about how you're thinking about, obviously,, like, a lot of these issues as you were saying is mostly for, like, immigrant communities that you're trying to serve and how their voter demographics are impacted.
 
 MUKHTAR: These are issues that I think most people care about.
 
-AUDIENCE: But along those lines, is it one particular type of person turning out to vote, or kind of similar across how people identify ethnically and even along political lines? 
+AUDIENCE: But along those lines, is it one particular type of person turning out to vote, or kind of similar across how people identify ethnically and even along political lines?
 
 MUKHTAR: I think the local population are really hit by the local politics. In Minneapolis, it's very versed. We have one councilmember who's Somali and the district that he had represented has a lot of immigrant population. So they are really involved in politics especially during the elections.
 
 BRIDGET: One more question. Sorry, yeah?
 
-AUDIENCE: What do you think it's about Minneapolis, and especially immigrants that moves here that makes them participate at higher levels than other places in America? 
+AUDIENCE: What do you think it's about Minneapolis, and especially immigrants that moves here that makes them participate at higher levels than other places in America?
 
 MUKHTAR: I don't think I have a concrete answer for that but most of these people didn't have the opportunity to participate in elections in their liberal movements and they feel — they feel empowered to cast their vote and elect who they want. And, I mean, the election time here is just, like, really, there's a lot of movement, there's a lot of excitement during elections. So and it's not just limited to immigrants; it's across the board.
 
@@ -187,6 +187,7 @@ ARIEL: Amongst yourselves, what you want. We also have a, "How do we pay for it"
 BRIDGET: Please assign an ambassador and we'll give you a two-minute warning before time is about to be up. And we'll be floating around.
 
 ARIEL: And these cards, you're not meant to adhere to super strictly. Feel free to hold them up and mess with them a little bit.
+
 - We're actually going to extend it a little bit because we have a little bit more time and they're kind of long — we just heard someone talk about.
 
 ARIEL: One question that we got was at the issues that Mukhtar's presented at the beginning, you should treat those as a citizen's agenda for what you're designing for. People were asking if those are something that we should approach. And those are certainly something that you would want to talk about in your agenda.
@@ -212,7 +213,7 @@ ARIEL: Two minutes.
 
 One minute.
 
-BRIDGET: Everybody, gets the deadline. Put the project to bed! Printing. It's done! Well, we have ten minutes left and we have five groups which means that each group gets two minutes, which plan, and why they chose their plan, and answer any questions about why they group came up with that plan, and how it went. So who's your first ambassador? Bobby is still switching it up. We'd like to hear who you decided to serve whether it was a specific persona or a group. 
+BRIDGET: Everybody, gets the deadline. Put the project to bed! Printing. It's done! Well, we have ten minutes left and we have five groups which means that each group gets two minutes, which plan, and why they chose their plan, and answer any questions about why they group came up with that plan, and how it went. So who's your first ambassador? Bobby is still switching it up. We'd like to hear who you decided to serve whether it was a specific persona or a group.
 
 BOBBY: So we focused on Julia who's a local barowner. She also doesn't really vote at all and she's very kind of — she doesn't trust what the news does, and to be honest, it feels like it doesn't matter very much. So she is very jaded. She's very meh about everything and we want to make her hospital, optimistic, and be more involved. So for methods of doing that, we've picked a three different things. More live events. More in-person, high-engagement, opportunities to talk about issues, and hopefully get others to explain things. We picked gamify. Gamify how polling can pick, and embattle and make a difference. And we chose SMS text as kind of an idea of democracy therapy. Because if you feel jaded, and you feel nothing's helpful, you need some democracy therapy as an idea. For funding we picked any kind of support and journals. We found ways to focused down on what if. If people are way too focused on money in politics, are there ways to step away from that in perception. Our outcome or goal was a cultural shift in the way in which we choose engagement in voting. And how to to change a few people view voting and hopefully that creates a group and hopefully that spirals on and goes on from that but then there's always a plot twist. The plot twist was a nasty rumor. That was a nasty one was if you're jaded, and you have a rumor, that's going to be a nasty one. And so we wanted to collaborate on SMS basically. Chat with them and ask them what are you thinking about? What's going on in your mind as you're thinking and this is spreading. And really think about that through collaborative texting.
 

@@ -16,10 +16,11 @@ permalink: /
         <span class="line-splitter">&bull;</span>
         <a href="mailto:srccon@opennews.org">Email</a>
         <span class="line-splitter">&bull;</span>
-        <a href="http://eepurl.com/czSVTL">Newsletter</a>
+        <a href="https://eepurl.com/czSVTL">Newsletter</a>
 
-        <a href="https://opennews.org/donate" class="button">Support our work!</a>
+        <a href="https://opennews.networkforgood.com/" class="button">Support our work!</a>
     </div>
+
 </div>
 
 <div id="coming-up" class="page-divider"><span>This Year!</span></div>
@@ -30,7 +31,7 @@ permalink: /
         <div class="when-where">July 8-9 2026, in Minneapolis</div>
         <div>Keep an eye on our <a href="http://eepurl.com/czSVTL">newsletter</a> for updates</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes that can transform our work.</p>
-        <!-- <div class="next-thing">&rarrhk; <strong><a href="https://2025.srccon.org/">Our call for participation is open!</a></strong> We still have room for you to join us!</div> -->
+        <div class="next-thing">&rarrhk; <strong><a href="https://2026.srccon.org/">Our call for participation is open!</a></strong> Pitch a session or apply for travel support by March 8.</div>
         <!-- <div class="next-thing">&rarrhk; <a href="http://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div> -->
     </li>
 </ul>
@@ -119,9 +120,8 @@ SRCCON events are highly participatory and inclusive, where participants come fi
 Session topics come from the community, with OpenNews providing the intentional space that takes care of participants and allows them to develop open, interdependent relationships with each other.
 
 [More about how we build SRCCON events &rarr;](/our-resources)  
-[How to share what you learn after you get back home &rarr;](/share)  
-
+[How to share what you learn after you get back home &rarr;](/share)
 
 <div id="about-us" class="page-divider"><span>About us & our work</span></div>
 
-SRCCON events are produced by [OpenNews](https://opennews.org). We connect a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning and solving problems together can create a stronger, more responsive, and inclusive journalism ecosystem. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](http://communitypartners.org/).
+SRCCON events are produced by [OpenNews](https://opennews.org). We connect a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning and solving problems together can create a stronger, more responsive, and inclusive journalism ecosystem. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](https://communitypartners.org/).

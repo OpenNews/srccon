@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — Taking Up Space: Making Room for People with Disabilities at The Times"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # Taking Up Space: Making Room for People with Disabilities at The Times
 
@@ -155,4 +155,3 @@ KATHERINE: Oh, the screen went off! Oh, it logged me out. There we go. Okay. Tha
 But thank you for coming, and I think we're done for the day now! So now it's just fun times.
 
 (applause)
-

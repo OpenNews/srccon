@@ -2,7 +2,7 @@
 title: "SRCCON 2019 Session Transcript — Noise & Signal: Knowing when to adopt new tech, and when to ignore it"
 ---
 
-#### [&larr; SRCCON 2019 Session Transcripts](/documentation/#session-transcripts)
+#### [&larr; SRCCON 2019 Session Transcripts](https://2019.srccon.org/documentation/#session-transcripts)
 
 # Noise & Signal: Knowing when to adopt new tech, and when to ignore it
 
@@ -149,7 +149,6 @@ ALEXANDRA: Yeah, so take some time and try to put some sticky notes under some o
 
 [ Group Work ]
 
-
 So we're going to be sharing as a bigger group now. Does everybody feel good about their Post-Its? Natasha was mentioning earlier, I think everybody has Post-It fatigue...
 
 NATASHA: We've probably moved on from the Post-Its.
@@ -204,11 +203,11 @@ ALEXANDRA: That's actually perfectly on topic, actually. So that's what we're do
 
 AUDIENCE: Hi, this is Tim. So not necessarily related to what we were talking about. But we recently did an evaluation of at least, like, eight text editors to choose. And we did heavy, like, technical analysis of the stuff. And there's a bunch of things like, "Does it support the actual copy things that we want?" We didn't want to put a lot of support into it and we weren't sure the duration of using this. We just wanted editors not editing code basically. So we evaluated, like, language support and we had scripts to run — more like verbal or text scripts like try writing these words in Japanese, in Pin-Ying, in Spanish. And try to develop some operations for it. And then of a that try to develop small bits — actually do experiments with the technology to see how it works and to see what sort of robust — and so we tested against ProseMirror, CK Editor, and Slate were some of them. A lot of it was looking at it holistically, doing the exact same tests with everything, being consistent and then comparing them against with each other and determining what's the best match for us. And this was like a bunch of time but we limited the tests to be something very simple like...
 
-ALEXANDRA: That sounds like it took a lot of time. 
+ALEXANDRA: That sounds like it took a lot of time.
 
 TIM: It took, like, two weeks for our team which was about too much time.
 
-ALEXANDRA: That's a huge thing: a text editor. 
+ALEXANDRA: That's a huge thing: a text editor.
 
 TIM: That's a huge thing. Something that's an example is a blockquote. We implemented something for that. That seems like something very easy and straightforward. But if you're neck deep in implementing your product and you're OBD this, and you realize that is a complicated thing that might be impossible, then you got in trouble.
 
@@ -234,11 +233,11 @@ ALEXANDRA: It's an interesting way to think about it.
 
 AUDIENCE: One small add-on to that. I got some advice a while back that said: don't just rely on the stars on GitHub. What you really want to look at at least if you're on npm and all the other package managers, as well, are how many other things are relying on this, and what you can do in npm is search and see how popular it is and how many dependents does this package have. It's not just how often it's downloaded but how many other packages directly use this thing and that's a really simple thing that I use sometimes.
 
-ALEXANDRA: Really quickly because we're going to jump to something because we only have ten minutes. 
+ALEXANDRA: Really quickly because we're going to jump to something because we only have ten minutes.
 
 TIM: So the other thing that I specifically look at is diversity of contributor. I look at all the commits in a GitHub repository. I do this a lot. I want to make sure that the commits are regular and if it's not regular, that it's stable software and that they respond quickly to issues. If they don't respond quickly to issues or they're rude to issues, or they don't have a code of conduct to this. There's also, is this owned by a single company or person. Is it a single person? If it's one company like React, or Go, it's one company that owns it. If there's risk attached to one company that is not associated with the economics of the company being successful then that's better.
 
-AUDIENCE: I have one quick anecdote about that. I used to use this visualization language called pyturk to use it, and the research company wasn't licensed to use it, so it got pulled. 
+AUDIENCE: I have one quick anecdote about that. I used to use this visualization language called pyturk to use it, and the research company wasn't licensed to use it, so it got pulled.
 
 TIM: That sucks.
 
@@ -250,7 +249,7 @@ ALEXANDRA: We're going to analogue this whole... so kind of like a master checkl
 
 AUDIENCE: Community adoption.
 
-ALEXANDRA: Community adoption and the nuance of it would be... 
+ALEXANDRA: Community adoption and the nuance of it would be...
 
 TIM: Consistency.
 
@@ -262,7 +261,7 @@ ALEXANDRA: Something that somebody brought up was security. How does that factor
 
 AUDIENCE: We had a conversation about using Google Docs or Google technology and we got some pushback from higher up in the organization from Legal about are those secure if we have sensitive reporting could that be moved over to the majority?
 
-NATASHA: I'm interested: how many people use Slack? Does anybody use Matter Most? 
+NATASHA: I'm interested: how many people use Slack? Does anybody use Matter Most?
 
 TIM: I've heard of it.
 

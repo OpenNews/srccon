@@ -1,27 +1,27 @@
 Threat Modeling for Code: When is Bad Code the Better Solution?
 Session facilitator(s): Julia Wolfe, Ivar Vong
 Day & Time: Thursday, 10:30-11:30am
-Room: Innovation Studio 
+Room: Innovation Studio
 
 Julia: Hello, I'm Julia Wolfe, I work at the Wall Street Journal as a news app developer and I am presenting with Ivar. He's at the Marshall Project and seems like that's all he wants to say. So welcome to threat modeling for code: When is bad code going to s on the screen? When is bad code a better solution? Ivar and I both—we talk a lot about the overlap betwe editorial. We have strong feelings about when they should and shouldn't overlap and. So just a couple of quick things before we get started.
 
 We are being transcribed for this talk by the lovely Norma who's siting straight ahead of me. So when we start get nothing discussion, we're going to try our pass to pass around a mic, just to make it a little easier for her to hear u means that if you'd like to go off the mic, please say so, because otherwise, everything you say will get written down.
 
-And when you do get the mic, please speak closely to it or we will get a lot of feedback and in  room, it will be especially horrible. So keep that in mind. Because we are especially cruel. We want to start this morning by geting you all up and moving a little bit. If you like, hopefully  We're going to do a little bit of that. We're going to some straw polls, kind of get a feel for the room, get a sense of who we all are, where we have stand in this kind of battle of product and editorial, so we're going to some simple yes or no questions. We're going to ask questions and if the answer is yes, we'd like to you stand over this side of our space, and if the answer is no, to this side: There's a lot of people which is super-cool, so we might get a little close, but that's SRCCON, right?
+And when you do get the mic, please speak closely to it or we will get a lot of feedback and in room, it will be especially horrible. So keep that in mind. Because we are especially cruel. We want to start this morning by geting you all up and moving a little bit. If you like, hopefully We're going to do a little bit of that. We're going to some straw polls, kind of get a feel for the room, get a sense of who we all are, where we have stand in this kind of battle of product and editorial, so we're going to some simple yes or no questions. We're going to ask questions and if the answer is yes, we'd like to you stand over this side of our space, and if the answer is no, to this side: There's a lot of people which is super-cool, so we might get a little close, but that's SRCCON, right?
 
 So, yeah, how you guys feel about standing up?
 
 Moving on forward a little bit.
 
-Yes, yes, I appreciate this. Yeah, so let's get everybody up into here, and then we're going to ask a series of questions. Perfect. We're going to ask a series of questions. Yes is to the window. No is to the wall. And we're going to try  Yes to the window, no to the wall. And do we do we need to move the table there so people can this is a great journout, which is a good problem to have but --
+Yes, yes, I appreciate this. Yeah, so let's get everybody up into here, and then we're going to ask a series of questions. Perfect. We're going to ask a series of questions. Yes is to the window. No is to the wall. And we're going to try Yes to the window, no to the wall. And do we do we need to move the table there so people can this is a great journout, which is a good problem to have but --
 
-AUDIENCE MEMBER:  I think we can squeeze.
+AUDIENCE MEMBER: I think we can squeeze.
 
 Ivar: All right. So we've got like what, 8 questions?
 
 Julia: Yeah we've got eight questions
 
-Ivar:  I have broken something in production. Yes to the window, no to the wall, and I think we have ...
+Ivar: I have broken something in production. Yes to the window, no to the wall, and I think we have ...
 
 [laughter]
 
@@ -31,19 +31,19 @@ Which is go, we've all broken something in production. I have talked to someone 
 
 CMS and no is you've never --
 
-AUDIENCE MEMBER:  If I have, I've forgotten.
+AUDIENCE MEMBER: If I have, I've forgotten.
 
-Ivar:  This is actually  surprising to me.
+Ivar: This is actually surprising to me.
 
 PARTICIPANT: We have a dedicateed build server for graphics.
 
-So yes is you have something that may it looks like a—Julia: I'd like to add, if the answer to any of these questions is I don't know, which is  We can go to the no/no dedicateed category.
+So yes is you have something that may it looks like a—Julia: I'd like to add, if the answer to any of these questions is I don't know, which is We can go to the no/no dedicateed category.
 
-Ivar:  So this, you know, everyone,
+Ivar: So this, you know, everyone,
 
 well, we've got 80% are on the no side. The people on the yes side are v lucky people, I guess, to have dedicateed build server graphics. Into Norma, how are you?
 
-NORMA:  You're doing awesome.
+NORMA: You're doing awesome.
 
 PARTICIPANT: I have launched something if if I don't know if it works on mobile. This is a safe space. Be honest here
 
@@ -59,19 +59,19 @@ Meaning tools we build for yourself to make your lives easier is not what we're 
 
 PARTICIPANT: Wow. There's a lot of yess. That's awesome. Does anyone want to share a cool tool?
 
-Ivar:  Yeah, this is fascinating. So we're going to do --
+Ivar: Yeah, this is fascinating. So we're going to do --
 
 Julia: Somebody built a where's my conference room
 
-Ivar:  OK, this is great, we're going to try to pass the mic in situations li So it's easier for our transcription friend, but—sure. There we go. Yeah, where is my conferenc It started. I wrote this in like 30 minutes at the end of the day on Friday, several years ago, when somebody sent me a PDF of all of the conference rooms, max, and I was like, holy shit, this So I threw it together. It's a quick locateer map where you had a drop-down and it turned into this huge news room tool that I now burdened wi whenever they move desks on any floor. But it's the most popular thing I've ever built, but, yeah.
+Ivar: OK, this is great, we're going to try to pass the mic in situations li So it's easier for our transcription friend, but—sure. There we go. Yeah, where is my conferenc It started. I wrote this in like 30 minutes at the end of the day on Friday, several years ago, when somebody sent me a PDF of all of the conference rooms, max, and I was like, holy shit, this So I threw it together. It's a quick locateer map where you had a drop-down and it turned into this huge news room tool that I now burdened wi whenever they move desks on any floor. But it's the most popular thing I've ever built, but, yeah.
 
-PARTICIPANT: All right, so I built a—this is a whole excuse me. I built a D3 sortable  for our gear department, but they ended up using it twice. But the thing that I --
+PARTICIPANT: All right, so I built a—this is a whole excuse me. I built a D3 sortable for our gear department, but they ended up using it twice. But the thing that I --
 
 PARTICIPANT: Can I ask that people say their names?
 
 PARTICIPANT: oh, yeah, I'm Lowe and I'm at wired. And that was psychiatrist
 
-PARTICIPANT: hi I'm Yuri Victor at Vox, and built  meme tool that is useed by I think close to 600 different newsrooms and organizations now. Yeah, cool, hey, everybody.
+PARTICIPANT: hi I'm Yuri Victor at Vox, and built meme tool that is useed by I think close to 600 different newsrooms and organizations now. Yeah, cool, hey, everybody.
 
 so I'm not going to talk about
 
@@ -101,7 +101,7 @@ I have a totally different perspective.
 
 Ivar: What's that?
 
-PARTICIPANT: so, I'm Eric and I work on open source tools and I run a site called redocs, which does documentation for lots and lots of software and we actually built our own in-house party system. Is it echoing backwards? OK, better. So we just built our first party in-house ad H it's inspired by the deck, which is a Mac and designer and kind of. We run first-party ads, we don't do any third-part. We basically built the network that feels good for programers. And because we have a targeted audience we're able to kind of build a product for them that they will actually enjoy and like, because we're not a mass consumer thi And we can sell that as part of the story and we can sell it as ethical advertiseing. You're a tech company, you want to reach programers, you want to use ethical advertiseing that they can agree with so you can tell the story about being a  as well as being a good partner to open source and software, so --
+PARTICIPANT: so, I'm Eric and I work on open source tools and I run a site called redocs, which does documentation for lots and lots of software and we actually built our own in-house party system. Is it echoing backwards? OK, better. So we just built our first party in-house ad H it's inspired by the deck, which is a Mac and designer and kind of. We run first-party ads, we don't do any third-part. We basically built the network that feels good for programers. And because we have a targeted audience we're able to kind of build a product for them that they will actually enjoy and like, because we're not a mass consumer thi And we can sell that as part of the story and we can sell it as ethical advertiseing. You're a tech company, you want to reach programers, you want to use ethical advertiseing that they can agree with so you can tell the story about being a as well as being a good partner to open source and software, so --
 
 PARTICIPANT: The next question is, I have written internal documentation, yes to the window, no to the wall.
 
@@ -128,7 +128,6 @@ something that was probably incredibly awful and still really made it work in of
 Ivar: OK, so where's the line here? There's a like a continuing—which is OK. But oh, interesting. This is interesting. So most of you don't write HTML email templates?
 
 PARTICIPANT: I have a story, but not a good one.
-
 
 Ivar: good story as in positive story?
 
@@ -158,7 +157,7 @@ So let's keep that going. I'm going to switch to the etherpad which was posted i
 
 Ivar: So just to provide a starting point, I think the tension between CMS product teams, for lack of a better des editorial teams that need to publish in like an hour, right, we found all different solutions.
 
-PARTICPANT: Some are you create your own mini CMS, some are like trying to build really sophisticated UI interfaces in web browseers for less technical useers to build content. Hashtag content. So I'm curious, just to continue the story front. And we can use HTML email newsletters, it might be a little bit better to talk abbased visual storytelling and I'm curious how people solved this problem at their news organizations. Some people do  subdough people build really sophisticated subdomains. Does anyone want to speak to how you solve that problem today hello I'm Gideon and I stole this story. We do similar things where I work. I know so a friend of mine who useed to work with me, he works on this BBC tasteer thing, so it's lots of speculative th projects useing new hip stuff but the one thing is they have an expirey date on everything. And it says this thing runs for 62 days and it just disappears after that. So a declaration of what you're doing that's ephemeral, rather than maintain blob for some promise that that thing is going to last, when there's an argument that you're not building stuff that's maintainable in the same way as an art room. So I'm just puting that out there. Just try and maintain it. Just kill it.
+PARTICPANT: Some are you create your own mini CMS, some are like trying to build really sophisticated UI interfaces in web browseers for less technical useers to build content. Hashtag content. So I'm curious, just to continue the story front. And we can use HTML email newsletters, it might be a little bit better to talk abbased visual storytelling and I'm curious how people solved this problem at their news organizations. Some people do subdough people build really sophisticated subdomains. Does anyone want to speak to how you solve that problem today hello I'm Gideon and I stole this story. We do similar things where I work. I know so a friend of mine who useed to work with me, he works on this BBC tasteer thing, so it's lots of speculative th projects useing new hip stuff but the one thing is they have an expirey date on everything. And it says this thing runs for 62 days and it just disappears after that. So a declaration of what you're doing that's ephemeral, rather than maintain blob for some promise that that thing is going to last, when there's an argument that you're not building stuff that's maintainable in the same way as an art room. So I'm just puting that out there. Just try and maintain it. Just kill it.
 
 Ivar: That's fascinating. I think most people think for archiving, right, is how do we make this stuff survive ten years from now. And you saable?
 
@@ -168,7 +167,7 @@ One is based on WordPress, well, not for long. We have something that's called F
 
 Julia: I think the feature builder a lot of newsrooms have experience with. I know I've experienceed those things kind of growing out of control, so I don't know if some people have stories to try to figure out how those nice immerseive experiences that don't quite balloon. For people up close, too, if you don't want to talk and up don't want-to-wait for the mic to come, you can just run up to this one.
 
-PARTICIPANT: Hello. I'm Daniel. I want to throw a concept out there so everyone has a familiarity with it. I think in the last few years  services for runing what are called integration tests automatically against your codebase cropping up for from or very cheap and recently there's been some services cropping up that offer visual regression testing as a service for like free or very cheap. For me personally it's always been the holy grail. A system that goes back and takes screenshots of all of your old content and then will alert you if any of that ever changes. You might want to consider looking into that for the more expensive to produce features, asserting that they always retain that original form. Will. We're going through this right now abuse we're trying to move to CSS and trying to maintain the fidelity of our archives while we're doing that, many, many different postings is certainly a job. And I'm wondering, it certainly got me thinking about this and I'm wondering if anybody has really clamped down on arbitrary HTML and doesn't allow it or get us as close as possible to not allow it. We've got a lot of ways to include arbitrary HTML into our website right now.
+PARTICIPANT: Hello. I'm Daniel. I want to throw a concept out there so everyone has a familiarity with it. I think in the last few years services for runing what are called integration tests automatically against your codebase cropping up for from or very cheap and recently there's been some services cropping up that offer visual regression testing as a service for like free or very cheap. For me personally it's always been the holy grail. A system that goes back and takes screenshots of all of your old content and then will alert you if any of that ever changes. You might want to consider looking into that for the more expensive to produce features, asserting that they always retain that original form. Will. We're going through this right now abuse we're trying to move to CSS and trying to maintain the fidelity of our archives while we're doing that, many, many different postings is certainly a job. And I'm wondering, it certainly got me thinking about this and I'm wondering if anybody has really clamped down on arbitrary HTML and doesn't allow it or get us as close as possible to not allow it. We've got a lot of ways to include arbitrary HTML into our website right now.
 
 yeah, so I work at Vox Media and I'm working on a beta editor that's going to replace our existing editor. Which is a tiny tiny V box that you write into and it sucks and it inserts horrible shit into your HTML arbitrarily, blah, blah, blah, so what we're doing now at least is storing everything as rich text and that gets interpreted into HTML when it needs to. It can idealy press a button and grows to Apple news and or you can press a button and it can turn into a script. So that's what we're doing and that's why we had the need for the ability to insert arbitrary, but ugly-looking blocks of HTML and have that be separate essentially because also you're—it's going to be stored as Richard text, it's HTML. So that's what we're doing. I don't know if that answers or speaks to what you're saying.
 
@@ -210,7 +209,7 @@ I was at an iOS shop that made ads for magazines and it was so small that for a 
 
 Ivar. Platformization.
 
-PARTICIPANT: So at the Texas Tribune we're working on  of the site. We built a tool that if you want to embed a video, if you want to embed a quote, we're still iterateing on what styles we want to do already, so we basically have a news house tool that they can quickly change the code that's being grabbed but otherwise the editors take the code and paste it in. It's not ideal but we're able to track the click events and that sort of thing and see what's working for both reporters and and that's going to inform the redesign.
+PARTICIPANT: So at the Texas Tribune we're working on of the site. We built a tool that if you want to embed a video, if you want to embed a quote, we're still iterateing on what styles we want to do already, so we basically have a news house tool that they can quickly change the code that's being grabbed but otherwise the editors take the code and paste it in. It's not ideal but we're able to track the click events and that sort of thing and see what's working for both reporters and and that's going to inform the redesign.
 
 PARTICIPANT: My name is Will. I work in CBC in Toronto. And one of my old employers, the barrier to actually solving all of these problems is actually on the political side of the organization, because newsroom developers were actually bared from useing the c FTP. So from two to three years, ever component we made was actually hosted on personal Google drive folders. And a that in about six weeks, there are literally dozens o interactives across that organization that will stop working overnight. I don't think they know that yet.
 
@@ -220,13 +219,13 @@ Large Canadian company that we won't name that owns all the newspapers. We had t
 
 Yuri: Yeah, I can talk about process in this stuff.
 
-I work at the storytelling studio at Vox, and we're editorial. So we work directly with editorial, the whole process is with them, the collaboration, the communication, the meetings. And I think there's two styles, right, like you have the long-term thinking and then the short-term and we have to experiment, like, this is where journalism failed for ten years and we're just geting back to being like, you know, fuck it, let's do it on robing eu. And I think that's really important * for doing stuff. And so you have do have that. And so we kind of take the mode like, yeah, sometimes let's do an experiment.
+I work at the storytelling studio at Vox, and we're editorial. So we work directly with editorial, the whole process is with them, the collaboration, the communication, the meetings. And I think there's two styles, right, like you have the long-term thinking and then the short-term and we have to experiment, like, this is where journalism failed for ten years and we're just geting back to being like, you know, fuck it, let's do it on robing eu. And I think that's really important \* for doing stuff. And so you have do have that. And so we kind of take the mode like, yeah, sometimes let's do an experiment.
 
 Let's build it once and let's see how it works and take those tests and decide if we're going to build it again. But never fucking build something twice, like never, ever build something twice, because I don't like repeating myself. I really just want to do something once and so we always, whatever way is easiest to do that, whether it's doing it in a Django app that's bespoke or a node app that somebody launched to do a bot. We do that once and then we come up with a platform or a better way to do that, so that we're never ever just recycling that thing where I've seen so many developers go in and copy the code from their old thing and paste it into their new thi and it's like I'm too, I don't know, lazy to do that.
 
 so just always coming up it a system to make that happen and to have the larger tools like auto tune or a graphics rig or something like that, to make it really easy to do that.
 
-Julia: So one thing that we were talking about trying to do for the kind of last part of this session was look at some of these stages that we all go through as newsrooms, kind of from th, whether you're a small upstart newsroom or you're a big newsroom kind of experimenting in a new medium with a new forum, to kind of look at what those stages look like from small, you know, doing it live, to giant, stand-alone server, you know, full formalized deploy process and what  stages are, to give us all kind of a roadmap for where we're headed, how you might be to get there. So I think we might transition to that a little bit.
+Julia: So one thing that we were talking about trying to do for the kind of last part of this session was look at some of these stages that we all go through as newsrooms, kind of from th, whether you're a small upstart newsroom or you're a big newsroom kind of experimenting in a new medium with a new forum, to kind of look at what those stages look like from small, you know, doing it live, to giant, stand-alone server, you know, full formalized deploy process and what stages are, to give us all kind of a roadmap for where we're headed, how you might be to get there. So I think we might transition to that a little bit.
 
 and go back to the mic. This time we'll actually do that in the notes. I think hopefully there's some things that got added in there, but k start from a one to five stage of what that might look like when you're in that upstart stage and what is this kind of holy grail process that we're all trying to work towards.
 
@@ -238,7 +237,7 @@ Ivar: I think we should talk about if you're at one. Do you build a task runner?
 
 Yuri. does that ever
 
-Ivar: I have not worked on that system.  Yuri ... everybody that says yes, walk walk up there and anyone?
+Ivar: I have not worked on that system. Yuri ... everybody that says yes, walk walk up there and anyone?
 
 Ivar: But if there's another framework that would be more productive, that's fine, but I think trying to find what we collaborateed, we think the incremental process is on that, right? From maybe the first 1.1 is you want a tool to a to production, right? Maybe after that you want a separate stageing server, right, where you can preview things. So we're going to go back to passing the mic around.
 
@@ -248,7 +247,7 @@ PARTICIPANT: hi, I'm so glad that all of you have been talking about front-end s
 
 Ivar: I don't have a phone. What time is it?
 
-AUDIENCE MEMBER:  Quarter past 11.
+AUDIENCE MEMBER: Quarter past 11.
 
 Ivar: Great, so we have 15 minutes? Julia: Yeah, you can talk about whatever you like. If you want to speak to something you want to put in one of these stages.
 
@@ -260,7 +259,7 @@ Yuri: I would say maybe that's Stage 3. Because Stage 2 is probably like you jus
 
 PARTICIPANT: My name is John and I work at a small paper in Oregon and I think probably the way to get you through the steps is you—I would like to think you have a sense of what smells, and you know, and if you feel a little less bad each time, and a little bit better, then you know you're going in the right direction. But as a concrete example, I think for us an excellent gateway drug has been tar bell, because you can put things i know Google docs, it separates the content from the styling so that the developers can style.
 
-You know, you don't have to go through all that database setting up and if you know enough about the templateing, you can pretty much output JSON, you can output a lot of flavors and it kind of—it also kind of gets you in a lot of good habits because when you started it asks you ab and it also has kind of built-in to  nudge you towards having a production. For us when we want to do something crazy, that kind of the thing that lately we've been going for.
+You know, you don't have to go through all that database setting up and if you know enough about the templateing, you can pretty much output JSON, you can output a lot of flavors and it kind of—it also kind of gets you in a lot of good habits because when you started it asks you ab and it also has kind of built-in to nudge you towards having a production. For us when we want to do something crazy, that kind of the thing that lately we've been going for.
 
 so like static site generation as an on-ra yeah, then you are get to the problem that Jeremy has of the piles. It doesn't solve you having that problem, but I think if you at least have an idea where those piles are, you're in a good spot, because you know, a lot of times you don't even know where they are until you shut one off and then a week later you get an email.
 
@@ -270,7 +269,7 @@ Yuri: Yeah, I would say solid Stage 4 is like full integration, so you're not us
 
 Ivar: Well, hopefully we'll all climb that hill together, with open source tools. Maybe. Julia, can you talk about the way the Wall Street Journal does?
 
-Julia: Yeah, so we've actually transitioned, I've been at the journal only about nine months and we've had some big jumps in that time. So when I started we were useing a command line tool for our employment and of kind of go-to dev person on our team has built a great deploy dashboard, so we have a dashboard for all of our projects and you can go into the dashboard, see the projects, get some basic information about the GitHub repo, where what the promos are, if we're useing RTML where the original Google docs are that were built into that. You can see the GitHub commits to the project and. Besides the obvious workflow ease, it's very quick to fix a problem, if you actually gly a bug to product, not that I've ever done that. You can just immediately deploy the commit before, without having to revert in your git file, which has been a really fantastic tool. I don't know if Chris or Joel want to speak anything to the journal's process. * yeah.
+Julia: Yeah, so we've actually transitioned, I've been at the journal only about nine months and we've had some big jumps in that time. So when I started we were useing a command line tool for our employment and of kind of go-to dev person on our team has built a great deploy dashboard, so we have a dashboard for all of our projects and you can go into the dashboard, see the projects, get some basic information about the GitHub repo, where what the promos are, if we're useing RTML where the original Google docs are that were built into that. You can see the GitHub commits to the project and. Besides the obvious workflow ease, it's very quick to fix a problem, if you actually gly a bug to product, not that I've ever done that. You can just immediately deploy the commit before, without having to revert in your git file, which has been a really fantastic tool. I don't know if Chris or Joel want to speak anything to the journal's process. \* yeah.
 
 so the process you just described of kind of going from the quick fix way to like the really robust stage 5 way, stage 5 is a terrible, you know, heh-heh that we just did with RTML in a pretty short timeline, where Julia and I were the first to kind of latch on to we need this, and it took a little bit of convinceing within our team to tell people why we needed sort of this separate CMS from an internal tool that we also use called narrator which does something similar but is far for structured and harder to customize, but really quickly and it's been really accelerateed in the last few weeks that theres' been so many breaking news spots that we've been in but with RTML, we quickly went from having a low-goal RTML environment where we're just kind of testing things on a desktop to now we have this full integrated dash board where we are—we quickly set up the Google doc, we can then share that email address, share that with the designated email address which then just populates the RTML into the dashboard for all of our RTML docs, each one of those on the dashboard has two buttons associateed with it, so you can publish JSON to production and publish JSON for dev and all of a sudden we have this like really robust kind of make shift CMS that is completely separate from what we're using from insig
 
@@ -282,7 +281,7 @@ from when that was createed which was several years ago, right, can you talk abo
 
 PARTICIPANT: Um, we over the years have experimented with we sStage 1 like everyone else and
 
-have gone through the years to find out what are the repeatable things that we do again and again to cause ourselves pain and one of the things is you know what we're useing Google docs to write text and some people at the end of the day was copying and paste it go over into an HTML document and we said we should figure out that some way to  from Google docs. And that's led to the of arish ML.org.
+have gone through the years to find out what are the repeatable things that we do again and again to cause ourselves pain and one of the things is you know what we're useing Google docs to write text and some people at the end of the day was copying and paste it go over into an HTML document and we said we should figure out that some way to from Google docs. And that's led to the of arish ML.org.
 
 how many folks here use are chi ML?
 
@@ -290,7 +289,7 @@ so there's maybe 10 or 15 hands for people who use.
 
 ...
 
-Yuri: One thing with these stages is I think these are awesome, but I think that there has Pab a parallel track with the larger holistic organization that is moving alongside with this. And so that when you—the only way to get to Stage 3 and 4 is if you have, you know, the actual like platform teams building out those, you know, the APIs, that you're going to need to connect all of these things together. Things are modular so that if you want to fire up these bespoke pages, it's really easy to add something like comments or really easy to add something like user integration or photo uploads and that comes with having an entire like separate track of the actual whole team, knowing that in 6 months we're going to need to be here, we're going to need those APIs to meet us when we're there. We're going to need those modular things, because we try to thmassive beamoth thing. *
+Yuri: One thing with these stages is I think these are awesome, but I think that there has Pab a parallel track with the larger holistic organization that is moving alongside with this. And so that when you—the only way to get to Stage 3 and 4 is if you have, you know, the actual like platform teams building out those, you know, the APIs, that you're going to need to connect all of these things together. Things are modular so that if you want to fire up these bespoke pages, it's really easy to add something like comments or really easy to add something like user integration or photo uploads and that comes with having an entire like separate track of the actual whole team, knowing that in 6 months we're going to need to be here, we're going to need those APIs to meet us when we're there. We're going to need those modular things, because we try to thmassive beamoth thing. \*
 
 you also have to have the space and to be inefficient, essentially, because when you're making your tools better you're not useing your tools. If you're in Stage 1, then no one can publish without you. In order to step back to make it so that other people can publish things you're not publishing things. So that space to make the system better is not present on really small teams sometimes, and it can happen for years, so that's another thing that has to happen so you can move to the stages.
 
@@ -302,7 +301,7 @@ got about 7 minutes.
 
 so for people that have either experienceed this or are currently in the situation, what are some strategies for building out more sophisticated systems?
 
-Julia. I mean I'll try to speak. I've been in quite a few newsrooms in the past few years so I've definitely experienceed different kinds of buy-in and I know definitely the pain that some people feel coming from places where you can feel like you have none. I think I found actually when I realizeed that I don't have a lot of buy-in that I might kind of enjoy living in the shadows a little bit. That sometimes there's a little bit of freedom when the rest of the organization doesn't pay a lot of attention to you. That allows you the ability to experiment a little bit. Allows you the ability to use the tools that you want to use and I think the way to make the most of that in my experience was to try to look back on some of the decisions that I made about why to support and if they worked, why that was, but more importantly, P if they didn't, what I had learned from that and what I could bring to a different kind o have helped me in the newsroom where I have more buy-in in, where I've been on a two-person team where we've had to make all the calls and I've seen where this leads. One thing we've talked about these stages, I don't mean you're a Stage 2 organization or a Stage 4. The Wall Street Journal is a huge organization with a ton of great tools and a ton of things we need to work on. We definitely have Stage 1 in our workflow and maybe even some of the stage 5. It's great to kind of see what sort of things can we look forward to, so that's hopefully the way that we're trying  structure there, to help you see, looking ahead a little bit in some areas you can work on. If you need your platform team, you can do it, how do you get there?
+Julia. I mean I'll try to speak. I've been in quite a few newsrooms in the past few years so I've definitely experienceed different kinds of buy-in and I know definitely the pain that some people feel coming from places where you can feel like you have none. I think I found actually when I realizeed that I don't have a lot of buy-in that I might kind of enjoy living in the shadows a little bit. That sometimes there's a little bit of freedom when the rest of the organization doesn't pay a lot of attention to you. That allows you the ability to experiment a little bit. Allows you the ability to use the tools that you want to use and I think the way to make the most of that in my experience was to try to look back on some of the decisions that I made about why to support and if they worked, why that was, but more importantly, P if they didn't, what I had learned from that and what I could bring to a different kind o have helped me in the newsroom where I have more buy-in in, where I've been on a two-person team where we've had to make all the calls and I've seen where this leads. One thing we've talked about these stages, I don't mean you're a Stage 2 organization or a Stage 4. The Wall Street Journal is a huge organization with a ton of great tools and a ton of things we need to work on. We definitely have Stage 1 in our workflow and maybe even some of the stage 5. It's great to kind of see what sort of things can we look forward to, so that's hopefully the way that we're trying structure there, to help you see, looking ahead a little bit in some areas you can work on. If you need your platform team, you can do it, how do you get there?
 
 Yuri: I think that no matter the size of your organization, if you find yourself at Stage 4 consistent think you're not experimenting enough.
 
@@ -318,7 +317,7 @@ Julia: I want to say 3, I want to say as soon as you have tools, you should have
 
 so I've thought a lot about this. I actually run a conference. You should write documentation when you design software, because it helps you build better software. Writing kind of the read me example interface, all of the kind of user faceing parts of software should be written before the software, because that allows the API to inform the decisions you make on implementation, rather than implementing a bunch of crap and then thinking at the end, oh, how are people going to use this and then building a layer on top for humans that doesn't actually match the design of the software? So I really, really do highly recommend at least thinking through the documentation of that stuff first, before embarking on any kind of user faceing project.
 
-Ivar: So as we kind of work our way towards the completion of this conversation, one of the things that occurs to me is it's amazeing how much our t And that process, going from having a process, documenting it, building tools to automate that process, and then from that point, next time that you build a project you're sort of building it based on the tools that you already have, which we've always been doing, but the evolution of that is at least at the journal, we've gone from this philosophy of building these kind of stand alone application, right, Javascript application, traditional what we think of as news applications to now we are very much, in the last 6 months, we've very much shifted in the mentality of building stories and building pages. But we're doing that more and more, because we've built these tools that allow us to do this,  right by this in particular at the New York Times where we sort of like watched from afar and wondered, how do they—like they've definitely, the Times has been in this mentality, I think, for a while where they're building less and  projects, or at least you see many more static pages and static graphics, and I think that I would guess that in a large part that's driven by prevalence of AI to HTML and Archie ML where you are in a position where you can build graphics, you can build s graphics quick and you can integrate the quickly. And that leads to this long scrolling concept instead of presenting one interactive version of the map that allows you to see it four or more ways. In other words, you know, just the tools end up informing the way that you make content.
+Ivar: So as we kind of work our way towards the completion of this conversation, one of the things that occurs to me is it's amazeing how much our t And that process, going from having a process, documenting it, building tools to automate that process, and then from that point, next time that you build a project you're sort of building it based on the tools that you already have, which we've always been doing, but the evolution of that is at least at the journal, we've gone from this philosophy of building these kind of stand alone application, right, Javascript application, traditional what we think of as news applications to now we are very much, in the last 6 months, we've very much shifted in the mentality of building stories and building pages. But we're doing that more and more, because we've built these tools that allow us to do this, right by this in particular at the New York Times where we sort of like watched from afar and wondered, how do they—like they've definitely, the Times has been in this mentality, I think, for a while where they're building less and projects, or at least you see many more static pages and static graphics, and I think that I would guess that in a large part that's driven by prevalence of AI to HTML and Archie ML where you are in a position where you can build graphics, you can build s graphics quick and you can integrate the quickly. And that leads to this long scrolling concept instead of presenting one interactive version of the map that allows you to see it four or more ways. In other words, you know, just the tools end up informing the way that you make content.
 
 so I just want to say quickly we're at 11:30. We've got half an hour before the next session, so people are more than welcome to stay and chat with each other. I don't know if that—any of that will be transcribed, as well as mic'd, but just in case you want to get out and enjoy your half an hour
 
@@ -329,4 +328,3 @@ in between, nobody will get offended if you get up and walk out right now.
 Ivar: I think we should do one more applause for Norma.
 
 [applause]
-

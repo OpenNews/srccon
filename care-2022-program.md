@@ -6,20 +6,22 @@ logo_link: /srccon-care-2022/
 share_image: /media/img/srccon_care_logo_share.png
 title: SRCCON:CARE — Our Program
 main_footer: true
+section: care
 ---
 
 <div class="page-intro">    
     <div class="sub-nav">
         Stay in touch: 
         <span class="line-splitter"></span>
-        <a href="https://twitter.com/srccon">Twitter</a>
+        <a href="https://bsky.app/profile/opennews.bsky.social">@srccon on BlueSky</a>
         <span class="line-splitter">&bull;</span>
         <a href="mailto:srccon@opennews.org">Email</a>
         <span class="line-splitter">&bull;</span>
-        <a href="http://eepurl.com/czSVTL">Newsletter</a>
+        <a href="https://eepurl.com/czSVTL">Newsletter</a>
 
-        <a href="https://opennews.org/donate" class="button">Support our work!</a>
+        <a href="https://opennews.networkforgood.com/" class="button">Support our work!</a>
     </div>
+
 </div>
 
 # Our program
@@ -64,9 +66,9 @@ Some details may evolve as we approach the event, so check back for updates. Tha
 
 #### Additional events on the SRCCON:CARE program
 
-* Attendees can sign up for one-on-one coaching sessions with community members and leadership coaches Mandy Brown or David Yee. You bring the topic—anything that’s got you stuck or that you want to reflect on more deeply.
-* We're helping community members organize small-group, in-person meetups for coffee or a meal with other attendees who live nearby
-* Have an idea for another activity to share or organize? [Let us know!](mailto:srccon@opennews.org)
+- Attendees can sign up for one-on-one coaching sessions with community members and leadership coaches Mandy Brown or David Yee. You bring the topic—anything that’s got you stuck or that you want to reflect on more deeply.
+- We're helping community members organize small-group, in-person meetups for coffee or a meal with other attendees who live nearby
+- Have an idea for another activity to share or organize? [Let us know!](mailto:srccon@opennews.org)
 
 <p>&nbsp;</p>
 
@@ -78,7 +80,6 @@ Some details may evolve as we approach the event, so check back for updates. Tha
         <h4 class="session-title">Welcome to SRCCON:CARE + group gathering</h4>
     </div>
 </div>
-
 
 <div class="page-divider"><span>1-2pm ET</span></div>
 <div class="session-list">
@@ -107,9 +108,9 @@ Some details may evolve as we approach the event, so check back for updates. Tha
         <p class="facilitator">Facilitated by Mar Cabra, Kim Brice</p>
         <p class="session-description"><p>Directors, team leads or editors play a key role in starting conversations around well-being and mental health in their newsrooms. They have more power to affect change and have a responsibility to support their staff. However, at the same time, it’s also these leaders that should prevent their teams from being exhausted, the first ones to be hyper-connected and suffering dangerous levels of stress.</p>
         <p>In this session, The Self-Investigation wants to facilitate a discussion about the learnings and strategies of media leaders as they strive to change things up in order to build a healthier environment for their teams. We will share techniques that have been successfully tried and tested. We will also offer the inspiration and knowledge we have accumulated from the many leaders we have trained in our tailor-made courses and through the Knight Center’s MOOCs we designed and ran in three languages, reaching more than 2.500 people from 120 countries and territories.</p></p>
-    </div>    
-</div>
+    </div>
 
+</div>
 
 <div class="page-divider"><span>2-2:30pm ET</span></div>
 <div class="session-list">
@@ -117,7 +118,6 @@ Some details may evolve as we approach the event, so check back for updates. Tha
         <h4 class="session-title">Social break</h4>
     </div>
 </div>
-
 
 <div class="page-divider"><span>2:30-3:30pm ET</span></div>
 <div class="session-list">
@@ -142,8 +142,8 @@ Some details may evolve as we approach the event, so check back for updates. Tha
         <p class="session-description"><p>How might journalism leaders invest in community care for our organizations and teams? Join Jen Mizgata and Ana (An Xiao) Mina, two consultants and coaches who’ve supported journalism leaders in a variety of organizations, in exploring this key question. We’ll offer an initial framework to help facilitate a conversation amongst participants, with the goal of collecting feedback and ideas on community care opportunities through the lenses of sustainability, mental health, DEI and holistic support.</p>
         <p>As an outcome, we hope to share a set of resources from the conversation with the broader SRCCON community. This will outline specific opportunities for structural, community care that leaders in the field of journalism can apply to their internal work with their organizations. This workshop will be designed to support both introverted and extroverted communications styles.</p></p>
     </div>
-</div>
 
+</div>
 
 ### Friday, December 9
 
@@ -181,6 +181,7 @@ Some details may evolve as we approach the event, so check back for updates. Tha
         </ul></p>
         <p>We will share the four main elements and have an interactive discussion on the impacts of burnout. Participants will have an opportunity to reflect individually and collectively on the connection between burnout and urgency. A sense of urgency is one of the White Supremacy Culture Characteristics that we will explore. We hope participants leave the session feeling curious, reflective and connected.</p></p>
     </div>
+
 </div>
 
 <div class="page-divider"><span>Friday 1-1:30pm ET</span></div>
@@ -220,6 +221,7 @@ Some details may evolve as we approach the event, so check back for updates. Tha
         <p class="session-description"><p>While many of us find ways to connect at events or on projects, too often we’re left on our own to solve problems facing our organizations and our industry. This workshop will explore what it takes to break out of our constraints to cross-pollinate ideas and create critical mass for change within journalism.</p>
         <p>Informed by our experience creating a support group for journalism support professionals, we’ll guide participants on identifying your personal goals for connecting with others, establishing objectives and expectations for these conversations, and how to build on these connections over time. You’ll come away with tangible takeaways generated from our collective expertise (and possibly some new co-conspirators).</p></p>
     </div>
+
 </div>
 
 <div class="page-divider"><span>Friday 2:30-3:15pm ET</span></div>
@@ -228,6 +230,5 @@ Some details may evolve as we approach the event, so check back for updates. Tha
         <h4 class="session-title">SRCCON:CARE closing + group gathering</h4>
     </div>
 </div>
-
 
 {% include srccon_care_2022_footer.html %}

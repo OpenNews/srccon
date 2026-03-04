@@ -18,7 +18,6 @@ permalink: /docs/transcripts/monetizedata/index.html
 
 ### Room: Ski-U-Mah
 
-
 Hi everyone, welcome to the session, How Can We Best Monetize Data Responsibly, Ethically, And Without Sacrificing Journalistic Standards? My name is Ryann Grochowski Jones, I'm a data recorder at ProPublica in New York.
 
 And my name is AmyJo Brown and I work at War Streets Media. We are building a news publication in Pittsburgh from scratch.
@@ -27,11 +26,10 @@ So Amy Jo and I both have an interest in monetizing data at ProPublica last Febr
 
 And we have been cleaning and working a lot with campaign finance data, locally, and some other voter registration records and other records like that, so we are actually just starting to work through a lot of these questions about what do we want people to allow download in bulk for free, what do we want to license possibly through, you know, an NPI and when should we be charging for the data, considering that it is public data, so where those lines are. So what we were hoping to do during this session is we're going to kind of cover and discuss a lot of the topics that we have found ourselves sort of working through and we want to have everybody kind of brainstorm how they might solve some of these problems. So the first thing that we wanted to do, on all of your tables are post-it notes and sharpies, and for the next five minutes, we wanted you to brainstorm with your group a bit about what public datasets you would put in a data store. And we want to do it, we've got city data, county data, and state data, so we want you to think about it in that context, so if the two tables over in the far left here can consider city data, so what public data at the city level do you think you might want to put in a data store and if the middle section can think about at the county level, what county data might be available that you think should go into a data store and you guys can think of it at the state level. So if you guys just want to do that for a few minutes and as you gather your post-its, feel free to put them up there and put them on the appropriate poster.
 
- [group activity]
+[group activity]
 
 One more minute.
- [group activity]
-
+[group activity]
 
 OK, so we're going to have each group come up and put their post-its on the right poster and we want you to come and just share with the group the list that you came up with. So who wants to go first?
 
@@ -64,12 +62,11 @@ I have a question, is it in any category or just your category?
 Not necessarily one per category? Yeah, you just have three stickers.
 
 Yes, you can use your stickers however you'd like.
- [group activity]
+[group activity]
 
 As we're finishing up putting our stickers on our datasets, does anybody want to share with us which datasets they chose for which categories and why?
 
 Raise your hand and we'll come to you.
-
 
 I—well, my yellow stickers, I feel like I have more experience with, and I chose—I chose like the contracts and procurement at city and state levels. I do a lot of industries that want contracts and to learn about like what they should spend their resources on going after is very valuable to them. so I did that, and what was the second one I did? At the county level. No, wait, whatever. Those are the most important things, because I think the other one I did, everyone agreed with me.
 
@@ -117,7 +114,7 @@ Depends on how much it costs. As a home buyer, you know, it's a moment where you
 
 Throw out some examples? I was thinking maybe insurance? Might be interested in knowing how much your house is worth? Credit companies? Who else?
 
-I mean marketers in general could use that as a proxy for your overall economic status. 
+I mean marketers in general could use that as a proxy for your overall economic status.
 
 I mean they already kind of do at a neighborhood level, but --
 
@@ -143,7 +140,6 @@ Yeah.
 
 There was specifically mentioned that welfare contracts might be of interest. Who would be interested in the welfare contracts, perhaps commercially?
 
-
 I think that was a green sticker thought that didn't win a green sticker race in the end.
 
 Would there be academics that might be interested in that dataset?
@@ -155,7 +151,6 @@ The next two are all green.
 I know they are. So tell us the crime incident data, this is all green. Anyone want to kind of talk a little bit about how in a now room, why that might be of a high value to a newsroom?
 
 It's fascinating. It's a timeline page generator, it's about me. I can compare myself to my neighbors and be afraid or be less afraid. So it's both useful and fascinating, so I think a newsroom likes things like that 2002 so much of what we write about is crime, the stories that we write is crime, so having that data gives us a chance to put all that in context and give the readers the broader context rather than you know, somebody just killed their neighbor yesterday, you know, right?
-
 
 Several major stories in New York have emerged from analysis of arrest data of course in the last couple of years. I think it's become a pretty reliable source of actual investigative news.
 
@@ -191,7 +186,6 @@ What about the commercial aspects? Who do you think outside of the newsroom migh
 
 I would say I think in general with budgets, you know, in most cases those are public things, but but then commercial and news search scenarios, understanding what they mean is kind of a key thing. I do think from a business standpoint, anticipating, you know, new opportunities that contract with cities, but you know, if a budget line item significantly increased year after year, you know, you might want to start putting some resources into, say, like waste management, because you know that your city is going to spend more money on waste management.
 
-
 OK, so now that we have kind of done our exercise about what datasets are potentially out there for both newsrooms and for general audience and how we might prioritize or assign value to them, we have come up with three different topics that I know Amy Jo and I have, when we met to talk about this session, things that she and I both have either struggled with or discussed or just honestly don't have answers for, and you know, we wanted to open up a greater discussion for some of these, so we have three broad topics with some questions here. Liability is one. What liability concerns might come up? What if somebody downloads your data for free, or you sell them your clean data and you screwed up the cleaning and they reported on it or used it for something? Should you as the news organization and the seller of the data be liable? Privacy and redaction concerns, Amy Jo, you want to talk about that?
 
 Yeah, so this is the idea of you know, considering are you going to put all of your raw data up for download or are you going to hold some back?
@@ -207,7 +201,7 @@ So do we want to --
 Yeah, and I was just going to say, part of this exercise with a list of datasets and how we prioritize, think of those as you're talking at your table, so it kind of will ground you in some of the questions that you might have to ask. You can look at the data that you've already sort of said, oh, we're going to consider this, so if there are fields or things in the property databases that you think shouldn't be released, you can use those in how you think they inform your overall strategy. But we aren't really thinking about it per dataset, but you have to do some guidelines overall for how you're going to run your data store. Does that make sense?
 
 All right, so why don't we have this side of the room take the liability issue. The middle section take the privacy and redaction issue, and you guys over there take the to charge or not to charge, and we'll present thoughts here in the end. We'll give you about ten minutes or so to kind of discuss these.
- [group activity]
+[group activity]
 
 OK, we're going to come back together as a larger group. I'm going to pass the mic to each group. If the people in each smaller group wants to pick a speaker and kind of just tell us what you discussed and all the solutions to the problems that we've put up here that we can, you know, all take advantage of your smart and intelligent minds. So this group talked about liability issues. I'm going to give the mic to Joe.
 
@@ -215,24 +209,19 @@ So I don't think there's any order to this, but, we talked about things like com
 
 Thanks. That actually dovetails great into privacy and redactions team.
 
-
 Our topic did dovetail a little bit with some of the liability issues, although I think what we discussed is there are sort of two categories, there are sort of legal concerns and then there's ethical and editorial decisionmaking that may, you know, you could—there are things that you can dough that are perfectly legal but that you might not want to do from an ethical or editorial standpoint. I think we discussed at the beginning, depending on where you get the information from to begin with, so if you're getting it from a public records request or a right to information request, there may be redactions already or there should be, in some cases things should have been redacted and are not so we discussed that a little bit and how you would handle that from an editorial standpoint. I think we discussed data that otherwise be individualized or pertain to specific people, perhaps redacting addresses and things like that, one of the important points that was raised is to just know your data and to know whether or not—how large the set was, I think if there is only two or three people in a specific area, then that data can be used to identify those people, even though on its face it doesn't, is that problematic, and knowing whether or not that's an issue and being sort of consistent about how you decide what information, private personal individual private information you sort of release.
-
 
 Thanks, and our cash money team? Who would like to --
 
-
 Jump in if I miss something. I guess we—I'm not sure we came to any major conclusions, but we talked about a couple things that we all seem to agree that if you have data that's not easily available somewhere else and/or if you've added some value to it that really raises the ante in terms of whether you could charge for it or not, we also talked about the idea of having different prices for journalists versus nonjournallists, you know, trying to make money off the commercial people so you could give it away free to the others. We also kind of got into, you know, if you did want to go down this route, one of the problems you might encounter is that, OK, so let's say you have some data and somebody wants it and you say, oh, it's, you know, we're going to charge that company for it or whatever, one-off kind of deal, but then what if you want to do this on a regular basis and you want to market it and they need billing and marketing and do you have that kind of infrastructure set up and most of us probably do not. And then the kind of last thing we raised was, you know, we wondered could we add a data consulting piece on top of the selling it, that you offer consultation to people who are buying it as a way to maybe add a little more to the price or something. Did I miss anything?
-
 
 Does anyone from any of the tables have something they want to add to another group's topic or a question that they have about running a data store or using data that they would like the group to kind of discuss?
 
-With both liability and privacy and redactions, it seems like a lot of the anecdotes I heard in the summaries came from  kind of processed and interpreted uses of data, and less from just I got this, I cleaned it, if someone else wants it, here. And like just wondering if people thought the liability or kind of, I don't know, I got in your face kind of consequences might be less in the just pass-through of unprocessed or cleaned data, rather than, you know, making a piece and putting it out there that has unintended consequences.
+With both liability and privacy and redactions, it seems like a lot of the anecdotes I heard in the summaries came from kind of processed and interpreted uses of data, and less from just I got this, I cleaned it, if someone else wants it, here. And like just wondering if people thought the liability or kind of, I don't know, I got in your face kind of consequences might be less in the just pass-through of unprocessed or cleaned data, rather than, you know, making a piece and putting it out there that has unintended consequences.
 
 So do you mean like how the data is actually used by a third party?
 
 Whether it applies the same for like say the taxis if you made the pretty taxi thing and people were like I know where he lives, versus just saying I cleaned up this taxi thing, if anyone wants it, you know, 200 bucks, do you think there's a liability or consequences are as bad in the second case?
-
 
 Anyone want to?.
 
@@ -242,7 +231,7 @@ So in that case, what would be the questions or issues that you might have about
 
 I mean depends upon how ites used like what kind of application you want to use it and also what difference upon the data is structured, right? So if you have a—housing data, you don't want to—it's millions of records, and you want to provide an easy way to get to a specific geographic boundary or something like that, so you structure the data accordingly, like state, county, city, and then you coordinate with these parameters and it gives you a subdataset for you to consume. That way you don't have to work on the huge dataset. I mean your client whoever uses the data may not have all the resources that you have to handle this huge dataset, so we are giving something in short little bits for them to consume.
 
-And to go with what Mary Jo had said about different prices for different consumers, that was one of the conclusions/compromises we came to with our data store. The idea of it really came out of a lot of commercial entities coming to ProPublica, and asking for access to more of our proprietary databases like dollars for docs, where it only exists because we made it. And so if you go to our data store, actually, there are no prices for commercial use. Instead, if you want to buy a news data commercially, you end up getting in contact with our president who works out a pricing structure, because—one of my main concerns was I don't want to make journalists pay for this data, you know, we are all journalists here, and also like I said before, open data, I want to make sure that everybody has access to this. So if we get FOIA data and we end up cleaning it, we will sell the clean data at a smaller price for journalists, a higher price for researchers, and then depending on the commercial usage, we work out a kind of price thing there, but then any of that data that isn't proprietary that we didn't make ourselves, that we have an actual raw dataset, we have it available for download and that I think actually has been our greatest success, because I don't really have updated numbers but I think as of last year, we had about upwards of 80,000 downloads of free data, which for me, and again, we ask for information, we're kind of curious who's using our data, but we don't require it and it's a lot of journalists, but it's a lot of other, you know, random researchers, commercial things, so my worries about kind of tamping down open data really were assuaged by seeing how great that was that we had so many free downloads. 
+And to go with what Mary Jo had said about different prices for different consumers, that was one of the conclusions/compromises we came to with our data store. The idea of it really came out of a lot of commercial entities coming to ProPublica, and asking for access to more of our proprietary databases like dollars for docs, where it only exists because we made it. And so if you go to our data store, actually, there are no prices for commercial use. Instead, if you want to buy a news data commercially, you end up getting in contact with our president who works out a pricing structure, because—one of my main concerns was I don't want to make journalists pay for this data, you know, we are all journalists here, and also like I said before, open data, I want to make sure that everybody has access to this. So if we get FOIA data and we end up cleaning it, we will sell the clean data at a smaller price for journalists, a higher price for researchers, and then depending on the commercial usage, we work out a kind of price thing there, but then any of that data that isn't proprietary that we didn't make ourselves, that we have an actual raw dataset, we have it available for download and that I think actually has been our greatest success, because I don't really have updated numbers but I think as of last year, we had about upwards of 80,000 downloads of free data, which for me, and again, we ask for information, we're kind of curious who's using our data, but we don't require it and it's a lot of journalists, but it's a lot of other, you know, random researchers, commercial things, so my worries about kind of tamping down open data really were assuaged by seeing how great that was that we had so many free downloads.
 
 So pot point of charging, one of the first cases was a nursing home resource and one of the things I learned pretty quickly was that my newsroom was not prepared to be a data manager. Editors don't care. Like I mean you guys have clearly put a lot of energy into developing practice and a processer on it, but a lot of newsrooms just are not constituted right now to see the value and go to the kind of work it would take to be a legitimate value-added reseller of data, because it's usually not sexy. I mean it I think it can be done but I think right now there's a lot to learn to be good at it.
 
@@ -260,11 +249,10 @@ Sometimes, but not a lot.
 
 Then your documentation is great.
 
-
 Yeah, that's a great question. Unfortunately we are out of time. That hour went by very quickly. But I loved our conversation. It was great. If you can --
 
 Yeah, thank you all very much. We're going to have the photos of these, so we'll have the list and the priorities posted—we'll work with SRCCON to make sure if anybody wants to look through that list and how people prioritized and those will be available in addition to the transcript. And if you'd like to continue the conversation with either of us, we have our contact information on the etherpad that SRCCON has put out, so we love talking about data and data stores, so we're happy to continue the conversation. Thank you:
 
 [applause]
 
-[session ended] 
+[session ended]

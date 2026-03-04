@@ -1,69 +1,164 @@
-<!DOCTYPE html>
-<!--[if IE]><![endif]-->
-<!--[if lte IE 9]>  <html class="ie oldie" lang="en"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
-<head>
-    <meta charset="utf-8" />
-    {% if page.title %}
-    <title>{{ page.title }}</title>
-    {% else %}
-    <title>SRCCON 2019 — July 11 & 12 in Minneapolis</title>
-    {% endif %}
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}SRCCON is a participatory, interactive conference centered on the challenges that news technology and data teams encounter every day.{% endif %}">
-    {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}">
-    {% endif %}
-    <meta property="og:type" content="article">
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}SRCCON is a participatory, interactive conference centered on the challenges that news technology and data teams encounter every day.{% endif %}"/>
+<!doctype html>
+<html lang="en-US">
+  <head>
+    {% include headmeta.html %}
+  </head>
 
-    <script src="//use.typekit.net/mvg8obr.js"></script>
-    <script>try{Typekit.load();}catch(e){}</script>
-
-    <link rel="stylesheet" href="/media/css/style.css">
-    <link rel="shortcut icon" href="/media/img/favicon.ico" />
-    <link rel="apple-touch-icon-precomposed" type="image/png" href="/media/img/touch-icon-144x144.png" sizes="144x144" />
-
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-91317400-3', 'auto');
-      ga('send', 'pageview');
-    </script>
-</head>
-
-<body class="{{ page.section }}">
+  <body class="{{ page.section }}">
     <header>
-        <nav id="header-nav">
-            <div class="page-container">
-                <a href="/" id="corner-logo"><img src="/media/img/srccon_logo_angle_512.png"></a>
-                {% include navigation.html %}
-            </div>
-        </nav>
-        
-        <div id="header-image">{% if page.photocredit != null %}
-            <span class="photo-credit">Photo: <a href="{{ page.photocredit_url }}">{{ page.photocredit }}</a></p>
-        {% endif %}</div>
-        
-        <div id="header-callout">
-            <div class="page-container">
-                <span>SRCCON&nbsp;2019 &bull; July&nbsp;11&nbsp;&&nbsp;12 in&nbsp;MPLS</span> <a href="https://opennews.networkforgood.com/" class="button">Support the SRCCON team</a>
-            </div>
-        </div>
-    </header>
-    
-    <main>
+      <nav id="header-nav">
         <div class="page-container">
-            {{ content }}
+          <a href="/" id="corner-logo">
+            <img src="/media/img/srccon_logo_angle_512.png" alt="SRCCON Logo" />
+          </a>
+          <ul class="site-nav-links">
+            <li><a href="https://srccon.org/#about-srccon-events">About</a></li>
+            <li><a href="{{ page.latest_srccon_program }}">Schedule</a></li>
+          </ul>
         </div>
+      </nav>
+
+      <div id="header-image">
+        {% if page.photocredit != null %}
+        <span class="photo-credit"
+          >Photo: <a href="{{ page.photocredit_url }}">{{ page.photocredit }}</a></span
+        >
+        {% endif %}
+      </div>
+
+      <div id="header-callout">
+        <div class="page-container">
+          <span>SRCCON&nbsp;2019 &bull; July&nbsp;11&nbsp;&&nbsp;12 in&nbsp;MPLS</span>
+          <a href="https://opennews.networkforgood.com/" class="button">Support the SRCCON team</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="page-container">{{ content }}</div>
     </main>
 
-    
     <footer>
-        {% include footer.html %}
+      {% if page.section != 'sponsors' %}
+      <div id="footer-sponsors">
+        <div class="page-container">
+          <h3>Partnership sponsors</h3>
+          <div class="sponsor-list">
+            <a href="https://vip.wordpress.com/" class="narrow-logo">
+              <img src="/media/img/partners/wordpress_vip2.png" alt="WordPress VIP" />
+            </a>
+            <a href="https://www.nytimes.com/">
+              <img src="/media/img/partners/nyt.png" alt="The New York Times" />
+            </a>
+            <a href="https://newsinitiative.withgoogle.com/">
+              <img
+                src="/media/img/partners/google_news_initiative.png"
+                alt="Google News Initiative"
+              />
+            </a>
+            <a href="https://www.facebookjournalismproject.com" class="wide-logo">
+              <img
+                src="/media/img/partners/facebook_journalism.png"
+                alt="Facebook Journalism Project"
+              />
+            </a>
+            <a href="https://craignewmarkphilanthropies.org" class="wide-logo">
+              <img src="/media/img/partners/newmark.png" alt="Craig Newmark Philanthropies" />
+            </a>
+          </div>
+        </div>
+        <div class="page-container">
+          <div class="sponsor-list sponsor-list-secondary">
+            {% if page.section != 'remote' %}
+            <div>
+              <h3>Accessibility sponsor</h3>
+              <a href="https://www.lenfestinstitute.org/" class="narrow-logo">
+                <img src="/media/img/partners/lenfest.png" alt="Lenfest Institute" />
+              </a>
+            </div>
+            {% endif %} {% if page.section != 'scholarships' %}
+            <div>
+              <h3>Scholarship sponsor</h3>
+              <a href="https://knightfoundation.org/">
+                <img src="/media/img/partners/knight_foundation.png" alt="Knight Foundation" />
+              </a>
+            </div>
+            {% endif %}
+          </div>
+          <a href="/sponsors/">Meet the sponsors that help make SRCCON happen</a>
+        </div>
+      </div>
+      {% endif %}
+
+      <div id="footer-nav">
+        <div class="page-container">
+          <ul class="footer-nav">
+            <li><a href="/conduct">Code of conduct</a></li>
+            <!-- <li><a href="/volunteer">Volunteers</a></li>
+                  <li><a href="/scholarships">Scholarships</a></li>
+                  <li><a href="/childcare">Childcare</a></li> -->
+          </ul>
+        </div>
+      </div>
+
+      <div id="footer-details">
+        <div class="page-container">
+          <div>
+            <h3>Keep in touch</h3>
+            <ul>
+              <li>
+                <a
+                  href="https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc"
+                  >Join our mailing list</a
+                >
+              </li>
+              <li>
+                <a href="https://bsky.app/profile/opennews.bsky.social">Follow us on Bluesky</a>
+              </li>
+              <li><a href="mailto:srccon@opennews.org">Send us an email</a></li>
+            </ul>
+            <h3>Previous events</h3>
+            <ul>
+              <li>
+                SRCCON
+                <a href="https://2025.srccon.org/">2025</a>,
+                <a href="https://2024.srccon.org/">2024</a>,
+                <a href="https://2023.srccon.org/">2023</a>,
+                <a href="https://2022.srccon.org/">2022</a>,
+                <a href="https://2021.srccon.org/">2021</a>,
+                <a href="https://2020.srccon.org/">2020</a>,
+                <a href="https://2019.srccon.org/">2019</a>,
+                <a href="https://2018.srccon.org/">2018</a>,
+                <a href="https://2017.srccon.org/">2017</a>,
+                <a href="https://2016.srccon.org/">2016</a>,
+                <a href="https://2015.srccon.org">2015</a>,
+                <a href="https://2014.srccon.org">2014</a>
+              </li>
+              <li>
+                Topical SRCCON <a href="https://lead.srccon.org/">LEAD</a>,
+                <a href="https://product.srccon.org/">PRODUCT</a>,
+                <a href="/srccon-heart-2020/">SRCCON:❤️</a>,
+                <a href="/srccon-care-2022">SRCCON:CARE</a>,
+                <a href="https://power.srccon.org/">Power</a>,
+                <a href="https://work.srccon.org/">Work</a>
+              </li>
+              <li>
+                <a href="/our-resources">How we build SRCCON events</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h3>About SRCCON events</h3>
+            <p>
+              OpenNews runs several journalism events each year. The largest is
+              <a href="/">SRCCON</a>, a mid-year conference for about 300 developers, designers, and
+              data analysts. We also gather small working groups and convenings, and topically
+              focused SRCCON-style events.
+            </p>
+            <p><a href="https://creativecommons.org/licenses/by/3.0/">CC Attribution 3.0</a></p>
+          </div>
+        </div>
+      </div>
     </footer>
-</body>
+  </body>
 </html>
