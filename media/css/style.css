@@ -18,6 +18,41 @@ body {
   min-height: 100vh;
   font-family: freight-text-pro, serif;
 }
+
+/* Keep fallback font metrics stable while Typekit loads or fails. */
+html.wf-loading body,
+html.wf-inactive body,
+html.fonts-fallback-locked body {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+html.wf-loading header,
+html.wf-loading footer,
+html.wf-loading h1,
+html.wf-loading h2,
+html.wf-loading h3,
+html.wf-loading h4,
+html.wf-loading .button,
+html.wf-loading .main-footer,
+html.wf-inactive header,
+html.wf-inactive footer,
+html.wf-inactive h1,
+html.wf-inactive h2,
+html.wf-inactive h3,
+html.wf-inactive h4,
+html.wf-inactive .button,
+html.wf-inactive .main-footer,
+html.fonts-fallback-locked header,
+html.fonts-fallback-locked footer,
+html.fonts-fallback-locked h1,
+html.fonts-fallback-locked h2,
+html.fonts-fallback-locked h3,
+html.fonts-fallback-locked h4,
+html.fonts-fallback-locked .button,
+html.fonts-fallback-locked .main-footer {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
 header,
 footer,
 h1,
@@ -114,7 +149,6 @@ h4 {
   padding-top: 2rem;
   z-index: 1;
   clear: both;
-  color: silver;
   color: #fc6e1f;
 }
 .page-divider span {
@@ -132,8 +166,6 @@ h4 {
   margin-bottom: 2em;
 }
 
-.hub .upcoming-event h3 {
-}
 .hub .upcoming-event div {
   font-family: sofia-pro, sans-serif;
   font-size: 0.9em;
@@ -142,8 +174,6 @@ h4 {
 .hub .upcoming-event p {
   margin: 0 0 0.4em;
   line-height: 1.5;
-}
-.hub .upcoming-event .when-where {
 }
 .hub .upcoming-event .next-thing {
   font-size: 0.7em;
@@ -202,10 +232,6 @@ header #header-image {
 .conduct #header-image {
   background-image: url(/media/img/backgrounds/lifevests.jpg);
   background-position: 0 0;
-}
-.volunteer #header-image {
-  background-image: url(/media/img/backgrounds/volunteer.jpg);
-  background-position: 0 -225px;
 }
 .sessions #header-image {
   background-image: url(/media/img/backgrounds/sessions.jpg);
@@ -526,9 +552,6 @@ table a.session-transcript {
   width: 100%;
   max-width: 500px;
   margin-bottom: 1em;
-}
-
-.hub table.time-blocks thead {
 }
 
 .hub table.time-blocks ul {
