@@ -47,7 +47,7 @@ defaults:
       latest_srccon_program: https://2026.srccon.org/program/
       # google_analytics_id: set this value to your GA4 measurement ID (format: G-XXXXXXXXXX)
       # Leave empty to disable Google Analytics tracking
-      google_analytics_id: ""
+      google_analytics_id: "G-W7QDZ6VHC9"
   - scope:
       path: ""
       type: "transcripts"
