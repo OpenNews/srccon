@@ -30,7 +30,18 @@
 <script src="https://use.typekit.net/mvg8obr.js"></script>
 <script>
   try {
-    Typekit.load({ async: true });
+    Typekit.load({
+      async: true,
+      scriptTimeout: 1200,
+      classes: true,
+      events: true,
+      active: function () {
+        document.documentElement.classList.remove("fonts-fallback-locked");
+      },
+      inactive: function () {
+        document.documentElement.classList.add("fonts-fallback-locked");
+      },
+    });
   } catch (e) {}
 </script>
 
