@@ -27,23 +27,7 @@
 <!-- Performance: TypeKit optimization -->
 <link rel="dns-prefetch" href="https://use.typekit.net" />
 <link rel="preconnect" href="https://use.typekit.net" crossorigin />
-<script src="https://use.typekit.net/mvg8obr.js"></script>
-<script>
-  try {
-    Typekit.load({
-      async: true,
-      scriptTimeout: 1200,
-      classes: true,
-      events: true,
-      active: function () {
-        document.documentElement.classList.remove("fonts-fallback-locked");
-      },
-      inactive: function () {
-        document.documentElement.classList.add("fonts-fallback-locked");
-      },
-    });
-  } catch (e) {}
-</script>
+<link rel="stylesheet" href="https://use.typekit.net/mvg8obr.css" />
 
 <!-- Stylesheets and icons -->
 <link rel="stylesheet" href="/media/css/style.css" />
