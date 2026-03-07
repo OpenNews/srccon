@@ -27,7 +27,12 @@
 <!-- Performance: TypeKit optimization -->
 <link rel="dns-prefetch" href="https://use.typekit.net" />
 <link rel="preconnect" href="https://use.typekit.net" crossorigin />
-<link rel="stylesheet" href="https://use.typekit.net/mvg8obr.css" />
+<link
+  rel="preload"
+  href="https://use.typekit.net/mvg8obr.css"
+  as="style"
+  onload="this.onload=null;this.rel='stylesheet'"
+/>
 
 <!-- Stylesheets and icons -->
 <link rel="stylesheet" href="/media/css/style.css" />
