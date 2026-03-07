@@ -19,40 +19,6 @@ body {
   font-family: freight-text-pro, serif;
 }
 
-/* Keep fallback font metrics stable while Typekit loads or fails. */
-html.wf-loading body,
-html.wf-inactive body,
-html.fonts-fallback-locked body {
-  font-family: Georgia, "Times New Roman", serif;
-}
-
-html.wf-loading header,
-html.wf-loading footer,
-html.wf-loading h1,
-html.wf-loading h2,
-html.wf-loading h3,
-html.wf-loading h4,
-html.wf-loading .button,
-html.wf-loading .main-footer,
-html.wf-inactive header,
-html.wf-inactive footer,
-html.wf-inactive h1,
-html.wf-inactive h2,
-html.wf-inactive h3,
-html.wf-inactive h4,
-html.wf-inactive .button,
-html.wf-inactive .main-footer,
-html.fonts-fallback-locked header,
-html.fonts-fallback-locked footer,
-html.fonts-fallback-locked h1,
-html.fonts-fallback-locked h2,
-html.fonts-fallback-locked h3,
-html.fonts-fallback-locked h4,
-html.fonts-fallback-locked .button,
-html.fonts-fallback-locked .main-footer {
-  font-family: "Helvetica Neue", Arial, sans-serif;
-}
-
 header,
 footer,
 h1,
