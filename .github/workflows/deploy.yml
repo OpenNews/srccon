@@ -141,7 +141,7 @@ jobs:
             });
 
       - name: Update Deployment Status (Staging Failure)
-        if: github.ref == 'refs/heads/staging' && failure()
+        if: github.ref == 'refs/heads/staging' && failure() && steps.deployment-staging.outputs.result
         uses: actions/github-script@v7
         with:
           script: |
@@ -154,7 +154,7 @@ jobs:
             });
 
       - name: Update Deployment Status (Production Failure)
-        if: github.ref == 'refs/heads/main' && failure()
+        if: github.ref == 'refs/heads/main' && failure() && steps.deployment-production.outputs.result
         uses: actions/github-script@v7
         with:
           script: |
