@@ -122,7 +122,7 @@ jobs:
               repo: context.repo.repo,
               deployment_id: ${{ steps.deployment-staging.outputs.result }},
               state: 'success',
-              environment_url: 'http://${{ steps.config.outputs.staging_bucket }}',
+              environment_url: 'http://${{ steps.config.outputs.staging_bucket }}.s3-website-us-east-1.amazonaws.com',
               description: 'Staging deployment completed successfully'
             });
 
@@ -136,7 +136,7 @@ jobs:
               repo: context.repo.repo,
               deployment_id: ${{ steps.deployment-production.outputs.result }},
               state: 'success',
-              environment_url: 'https://${{ steps.config.outputs.bucket }}',
+              environment_url: 'https://srccon.org',
               description: 'Production deployment completed successfully'
             });
 
