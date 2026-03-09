@@ -59,7 +59,7 @@ jobs:
 
       - name: Create GitHub Deployment (Staging)
         if: github.ref == 'refs/heads/staging'
-        id: deployment-staging
+        id: deployment_staging
         uses: actions/github-script@v7
         with:
           script: |
@@ -76,7 +76,7 @@ jobs:
 
       - name: Create GitHub Deployment (Production)
         if: github.ref == 'refs/heads/main'
-        id: deployment-production
+        id: deployment_production
         uses: actions/github-script@v7
         with:
           script: |
@@ -120,7 +120,7 @@ jobs:
             await github.rest.repos.createDeploymentStatus({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              deployment_id: ${{ steps.deployment-staging.outputs.result }},
+              deployment_id: ${{ steps.deployment_staging.outputs.result }},
               state: 'success',
               environment_url: 'http://${{ steps.config.outputs.staging_bucket }}.s3-website-us-east-1.amazonaws.com',
               description: 'Staging deployment completed successfully'
@@ -134,34 +134,34 @@ jobs:
             await github.rest.repos.createDeploymentStatus({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              deployment_id: ${{ steps.deployment-production.outputs.result }},
+              deployment_id: ${{ steps.deployment_production.outputs.result }},
               state: 'success',
               environment_url: 'https://srccon.org',
               description: 'Production deployment completed successfully'
             });
 
       - name: Update Deployment Status (Staging Failure)
-        if: github.ref == 'refs/heads/staging' && failure() && steps.deployment-staging.outputs.result
+        if: github.ref == 'refs/heads/staging' && failure() && steps.deployment_staging.outputs.result
         uses: actions/github-script@v7
         with:
           script: |
             await github.rest.repos.createDeploymentStatus({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              deployment_id: ${{ steps.deployment-staging.outputs.result }},
+              deployment_id: ${{ steps.deployment_staging.outputs.result }},
               state: 'failure',
               description: 'Staging deployment failed'
             });
 
       - name: Update Deployment Status (Production Failure)
-        if: github.ref == 'refs/heads/main' && failure() && steps.deployment-production.outputs.result
+        if: github.ref == 'refs/heads/main' && failure() && steps.deployment_production.outputs.result
         uses: actions/github-script@v7
         with:
           script: |
             await github.rest.repos.createDeploymentStatus({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              deployment_id: ${{ steps.deployment-production.outputs.result }},
+              deployment_id: ${{ steps.deployment_production.outputs.result }},
               state: 'failure',
               description: 'Production deployment failed'
             });

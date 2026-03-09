@@ -117,7 +117,7 @@ All deployments are tracked in GitHub's **Deployments** tab, making it easy to s
 - When you're ready to have someone review a site update, update the `staging` branch in GitHub. If you're working in `staging` locally, you just need to push your code changes. If you're working in a separate feature branch, push that branch to GitHub and then open a pull request into `staging` and merge it.
 - A commit to the `staging` branch on GitHub will trigger an automatic build of the SRCCON staging site via GitHub Actions.
 - The GitHub Actions workflow can take a minute or two to complete. Your changes will not be visible on the staging site immediately, but they'll be there quickly.
-- **View deployment status:** Check the repository's [Deployments](../../deployments) tab to see the deployment history and status.
+- **View deployment status:** Check the repository's [Deployments](https://github.com/OpenNews/srccon/deployments) tab to see the deployment history and status.
 
 ### Pushing to production
 
@@ -125,7 +125,7 @@ All deployments are tracked in GitHub's **Deployments** tab, making it easy to s
 - **Optional QA step:** Run `bundle exec rake review:compare_deployed_sites` to see a detailed comparison of staging vs production content before merging.
 - Merging a pull request into `main`, or pushing any commit to the `main` branch, will trigger an automatic build of the production site at [srccon.org](https://srccon.org) via GitHub Actions.
 - The production site is delivered through Amazon CloudFront so that we can serve a secure, https-enabled [srccon.org](https://srccon.org). CloudFront also caches everything for performance. The rebuild process triggers an invalidation of the entire cache, but it still may take up to 10 minutes for site changes to be reflected on production.
-- **View deployment status:** Check the repository's [Deployments](../../deployments) tab to see the deployment history and status.
+- **View deployment status:** Check the repository's [Deployments](https://github.com/OpenNews/srccon/deployments) tab to see the deployment history and status.
 
 ### GitHub Actions Workflows
 
