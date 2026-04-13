@@ -60,7 +60,7 @@ jobs:
       - name: Create GitHub Deployment (Staging)
         if: github.ref == 'refs/heads/staging'
         id: deployment_staging
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             const deployment = await github.rest.repos.createDeployment({
@@ -77,7 +77,7 @@ jobs:
       - name: Create GitHub Deployment (Production)
         if: github.ref == 'refs/heads/main'
         id: deployment_production
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             const deployment = await github.rest.repos.createDeployment({
@@ -114,7 +114,7 @@ jobs:
 
       - name: Update Deployment Status (Staging Success)
         if: github.ref == 'refs/heads/staging' && success()
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             await github.rest.repos.createDeploymentStatus({
@@ -128,7 +128,7 @@ jobs:
 
       - name: Update Deployment Status (Production Success)
         if: github.ref == 'refs/heads/main' && success()
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             await github.rest.repos.createDeploymentStatus({
@@ -142,7 +142,7 @@ jobs:
 
       - name: Update Deployment Status (Staging Failure)
         if: github.ref == 'refs/heads/staging' && failure() && steps.deployment_staging.outputs.result
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             await github.rest.repos.createDeploymentStatus({
@@ -155,7 +155,7 @@ jobs:
 
       - name: Update Deployment Status (Production Failure)
         if: github.ref == 'refs/heads/main' && failure() && steps.deployment_production.outputs.result
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             await github.rest.repos.createDeploymentStatus({
