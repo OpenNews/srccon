@@ -1,167 +1,21 @@
 name: Deploy to S3
 
+permissions:
+  contents: read
+  id-token: write # Required for OIDC authentication to AWS
+  deployments: write # Required for creating/updating GitHub Deployments
+
 on:
   push:
     branches:
       - main
       - staging
 
-permissions:
-  contents: read
-  id-token: write # Required for OIDC authentication
-  deployments: write # Required for creating deployments
-
 jobs:
   deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: ".ruby-version"
-          bundler-cache: true
-
-      - name: Validate YAML files
-        run: bundle exec rake validate_yaml
-
-      - name: Build Jekyll site
-        run: bundle exec jekyll build
-
-      - name: Extract deployment config from _config.yml
-        id: config
-        run: |
-          mapfile -t DEPLOYMENT_VALUES < <(ruby -ryaml -e "config = YAML.safe_load_file('_config.yml', permitted_classes: [], aliases: true); deployment = config['deployment'] || {}; puts deployment['bucket'].to_s; puts deployment['staging_bucket'].to_s; puts deployment['cloudfront_distribution_id'].to_s")
-          BUCKET="${DEPLOYMENT_VALUES[0]}"
-          if [ -z "$BUCKET" ]; then
-            echo "Error: S3 bucket name not configured. Please set deployment.bucket in _config.yml." >&2
-            exit 1
-          fi
-          STAGING_BUCKET="${DEPLOYMENT_VALUES[1]}"
-          if [ -z "$STAGING_BUCKET" ]; then
-            echo "Error: Staging bucket name not configured. Please set deployment.staging_bucket in _config.yml." >&2
-            exit 1
-          fi
-          CLOUDFRONT="${DEPLOYMENT_VALUES[2]}"
-          echo "bucket=$BUCKET" >> $GITHUB_OUTPUT
-          echo "staging_bucket=$STAGING_BUCKET" >> $GITHUB_OUTPUT
-          echo "cloudfront=$CLOUDFRONT" >> $GITHUB_OUTPUT
-
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v6
-        with:
-          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
-          aws-region: us-east-1
-          role-session-name: Deploy-${{ github.event.repository.name }}-${{ github.run_id }}
-
-      - name: Create GitHub Deployment (Staging)
-        if: github.ref == 'refs/heads/staging'
-        id: deployment_staging
-        uses: actions/github-script@v8
-        with:
-          script: |
-            const deployment = await github.rest.repos.createDeployment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              ref: context.sha,
-              environment: 'staging',
-              description: `Deploy staging site to S3`,
-              auto_merge: false,
-              required_contexts: []
-            });
-            return deployment.data.id;
-
-      - name: Create GitHub Deployment (Production)
-        if: github.ref == 'refs/heads/main'
-        id: deployment_production
-        uses: actions/github-script@v8
-        with:
-          script: |
-            const deployment = await github.rest.repos.createDeployment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              ref: context.sha,
-              environment: 'production',
-              description: `Deploy production site to S3 and CloudFront`,
-              auto_merge: false,
-              required_contexts: []
-            });
-            return deployment.data.id;
-
-      - name: Deploy to S3 (Staging)
-        if: github.ref == 'refs/heads/staging'
-        run: |
-          aws s3 sync _site/ s3://${{ steps.config.outputs.staging_bucket }} \
-            --delete \
-            --cache-control "public, max-age=3600"
-
-      - name: Deploy to S3 (Production)
-        if: github.ref == 'refs/heads/main'
-        run: |
-          aws s3 sync _site/ s3://${{ steps.config.outputs.bucket }} \
-            --delete \
-            --cache-control "public, max-age=3600"
-
-      - name: Invalidate CloudFront (Production)
-        if: github.ref == 'refs/heads/main' && steps.config.outputs.cloudfront != ''
-        run: |
-          aws cloudfront create-invalidation \
-            --distribution-id ${{ steps.config.outputs.cloudfront }} \
-            --paths "/*"
-
-      - name: Update Deployment Status (Staging Success)
-        if: github.ref == 'refs/heads/staging' && success()
-        uses: actions/github-script@v8
-        with:
-          script: |
-            await github.rest.repos.createDeploymentStatus({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              deployment_id: ${{ steps.deployment_staging.outputs.result }},
-              state: 'success',
-              environment_url: 'http://${{ steps.config.outputs.staging_bucket }}.s3-website-us-east-1.amazonaws.com',
-              description: 'Staging deployment completed successfully'
-            });
-
-      - name: Update Deployment Status (Production Success)
-        if: github.ref == 'refs/heads/main' && success()
-        uses: actions/github-script@v8
-        with:
-          script: |
-            await github.rest.repos.createDeploymentStatus({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              deployment_id: ${{ steps.deployment_production.outputs.result }},
-              state: 'success',
-              environment_url: 'https://srccon.org',
-              description: 'Production deployment completed successfully'
-            });
-
-      - name: Update Deployment Status (Staging Failure)
-        if: github.ref == 'refs/heads/staging' && failure() && steps.deployment_staging.outputs.result
-        uses: actions/github-script@v8
-        with:
-          script: |
-            await github.rest.repos.createDeploymentStatus({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              deployment_id: ${{ steps.deployment_staging.outputs.result }},
-              state: 'failure',
-              description: 'Staging deployment failed'
-            });
-
-      - name: Update Deployment Status (Production Failure)
-        if: github.ref == 'refs/heads/main' && failure() && steps.deployment_production.outputs.result
-        uses: actions/github-script@v8
-        with:
-          script: |
-            await github.rest.repos.createDeploymentStatus({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              deployment_id: ${{ steps.deployment_production.outputs.result }},
-              state: 'failure',
-              description: 'Production deployment failed'
-            });
+    uses: OpenNews/opennews-actions/.github/workflows/jekyll-deploy.yml@v1
+    with:
+      environment: ${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}
+      production-url: https://srccon.org
+    secrets:
+      AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}

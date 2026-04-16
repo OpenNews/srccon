@@ -22,25 +22,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: ".ruby-version"
-          bundler-cache: true
-
-      - name: Validate YAML files
-        run: bundle exec rake validate_yaml
-
-      - name: Build Jekyll site
-        run: bundle exec jekyll build --verbose
-
-      - name: Validate HTML and check links
-        run: |
-          bundle exec htmlproofer ./_site \
-            --disable-external \
-            --no-enforce-https \
-            --ignore-urls "/^http:\/\/(127\.0\.0\.1|0\.0\.0\.0|localhost)/" \
-            --allow-hash-href
+      - name: Build and test Jekyll site
+        uses: OpenNews/opennews-actions/jekyll-build@v1
 
       - name: Extract deployment config from _config.yml
         if: github.event_name == 'pull_request' && env.AWS_ROLE_ARN != '' && github.repository != 'OpenNews/srccon-site-starterkit'
