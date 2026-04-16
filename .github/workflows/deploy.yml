@@ -1,5 +1,10 @@
 name: Deploy to S3
 
+permissions:
+  contents: read
+  id-token: write # Required for OIDC authentication to AWS
+  deployments: write # Required for creating/updating GitHub Deployments
+
 on:
   push:
     branches:
@@ -9,9 +14,8 @@ on:
 jobs:
   deploy:
     uses: OpenNews/opennews-actions/.github/workflows/jekyll-deploy.yml@v1
-    permissions:
-      contents: read
-      id-token: write # Required for OIDC authentication
-      deployments: write # Required for GitHub Deployments API
+    with:
+      environment: ${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}
+      production-url: https://srccon.org
     secrets:
       AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}
