@@ -34,8 +34,7 @@
 ## Validation nuances and CI differences
 
 - `test:html_proofer` checks built output in `_site/` and aborts if `_site/` does not exist.
-- Local `test:html_proofer` enforces HTTPS links (`enforce_https: true` in `tasks/test.rake`).
-- CI `test.yml` intentionally runs htmlproofer with `--no-enforce-https`; do not assume parity with local failures.
+- `test:html_proofer` enforces HTTPS links (`enforce_https: true` in `tasks/test.rake`), both locally and in CI.
 - YAML validation is stricter than syntax-only: `validate_yaml` also detects duplicate keys using Psych AST traversal in `Rakefile`.
 - `rake check` reports configuration errors (template bucket/distribution defaults) but currently does not `abort`; use it as a guardrail signal, not a hard gate.
 
