@@ -12,6 +12,9 @@ updates:
       - "dependencies"
       - "github-actions"
     open-pull-requests-limit: 5
+    ignore:
+      # Ignore opennews-actions updates (manually managed)
+      - dependency-name: "OpenNews/opennews-actions"
 
   # Ruby gems (Bundler)
   - package-ecosystem: "bundler"
