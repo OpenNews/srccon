@@ -18,7 +18,7 @@ permalink: /
         <span class="line-splitter">&bull;</span>
         <a href="https://eepurl.com/czSVTL">Newsletter</a>
 
-        <a href="https://opennews.networkforgood.com/" class="button">Support our work!</a>
+        <a href="https://www.zeffy.com/en-US/donation-form/opennews-turns--15" class="button">Support our work!</a>
     </div>
 
 </div>
@@ -27,11 +27,11 @@ permalink: /
 
 <ul class="upcoming-events">
     <li class="upcoming-event">
-        <h3>SRCCON 2026</h3>
-        <div class="when-where">July 8-9 2026, in Minneapolis</div>
+        <h3>SRCCON 2027</h3>
+        <div class="when-where">TBA</div>
         <div>Keep an eye on our <a href="https://eepurl.com/czSVTL">newsletter</a> for updates</div>
         <p class="description">The biggest SRCCON of the year, where 300 people who care deeply about journalism and their communities come together to talk about the technical and cultural changes that can transform our work.</p>
-        <div class="next-thing">&rarrhk; <strong><a href="https://2026.srccon.org/">Our call for participation is open!</a></strong> Pitch a session or apply for travel support by March 8.</div>
+        <!-- <div class="next-thing">&rarrhk; <strong><a href="https://2026.srccon.org/">Our call for participation is open!</a></strong> Pitch a session or apply for travel support by March 8.</div> -->
         <!-- <div class="next-thing">&rarrhk; <a href="https://eepurl.com/czSVTL">Sign up for our newsletter to get updates on upcoming deadlines.</a></div> -->
     </li>
 </ul>
@@ -39,6 +39,10 @@ permalink: /
 <div id="previous-events" class="page-divider"><span>Previous events</span></div>
 
 <ul class="previous-events">
+    <li class="previous-event">
+        <h3><a href="https://2026.srccon.org/">SRCCON 2026</a></h3>
+        <div class="when-where">July 8-9, 2026, in Minneapolis</div>
+    </li>
     <li class="previous-event">
         <h3><a href="https://2025.srccon.org/">SRCCON 2025</a></h3>
         <div class="when-where">July 10-11, 2025, in Minneapolis</div>
